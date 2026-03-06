@@ -5,6 +5,10 @@ All notable changes to the Telos Gospel Library project will be documented in th
 ## [Unreleased]
 
 ### Added
+- **Landing Page & Authentication:**
+  - Implemented a cinematic landing page (`src/components/LandingPage.tsx`) featuring a dithered background parallax effect with the "Christ in the Storm" painting.
+  - Added a custom interactive crosshair cursor (`src/components/LandingPage.css`) that gracefully trails the native mouse pointer with dynamic gradient intersections.
+  - Integrated Google Sign-in entrance flow via the `AuthContext`.
 - **Phase 2 Study Tools:**
   - **Text Selection & Highlighting:** Persistent local storage of custom colored highlights on verse blocks via a floating popover.
   - **Notes & Tagging:** Contextual note-taking in the right sidebar (`src/components/NotesPanel.tsx`) with custom comma-separated tags linking directly to verse blocks.
