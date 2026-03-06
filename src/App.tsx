@@ -3,6 +3,7 @@ import { Sidebar } from "./components/Sidebar";
 import { ReadingPane } from "./components/ReadingPane";
 import { NotesPanel } from "./components/NotesPanel";
 import { CommandPalette } from "./components/CommandPalette";
+import { LandingPage } from "./components/LandingPage";
 import type { BookEntry, TranslationManifest } from "./lib/scripture";
 import { loadManifest } from "./lib/scripture";
 import { useAuth } from "./context/AuthContext";
@@ -43,9 +44,7 @@ function App() {
     user,
     status,
     repository,
-    hasCloudSupport,
     mode,
-    signIn,
     signOut,
   } = useAuth();
   const [manifests, setManifests] = useState<TranslationManifest[]>([]);
@@ -217,6 +216,10 @@ function App() {
     }
   }, [secondaryProfile]);
 
+  if (status === "loading" || status === "anonymous") {
+    return <LandingPage />;
+  }
+
   return (
     <div className="flex h-screen w-full overflow-hidden bg-[var(--bg-app)] text-[var(--text-primary)]">
       <Sidebar
@@ -225,9 +228,7 @@ function App() {
         activeBookId={activeBook?.book_id ?? null}
         authStatus={status}
         authMode={mode}
-        hasCloudSupport={hasCloudSupport}
         userName={user?.displayName || user?.email || null}
-        onSignIn={signIn}
         onSignOut={signOut}
         onSelectTranslation={handleSelectTranslation}
         onSelectBook={handleSelectBook}

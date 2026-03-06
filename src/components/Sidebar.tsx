@@ -13,9 +13,7 @@ interface SidebarProps {
   activeBookId: string | null;
   authStatus: "loading" | "anonymous" | "authenticated";
   authMode: "local" | "cloud";
-  hasCloudSupport: boolean;
   userName: string | null;
-  onSignIn: () => Promise<void>;
   onSignOut: () => Promise<void>;
   onSelectTranslation: (profile: string) => void;
   onSelectBook: (book: BookEntry) => void;
@@ -27,9 +25,7 @@ export function Sidebar({
   activeBookId,
   authStatus,
   authMode,
-  hasCloudSupport,
   userName,
-  onSignIn,
   onSignOut,
   onSelectTranslation,
   onSelectBook,
@@ -61,40 +57,20 @@ export function Sidebar({
         </div>
 
         <div className="rounded-lg border border-[var(--border-color)] bg-[var(--bg-canvas)] px-3 py-2 space-y-2">
-          {hasCloudSupport ? (
+          {authStatus === "authenticated" && (
             <>
               <div className="text-[11px] text-[var(--text-secondary)]">
-                {authStatus === "authenticated"
-                  ? `Signed in as ${userName || "Google user"}`
-                  : authStatus === "loading"
-                    ? "Checking sign-in status..."
-                    : "Sign in with Google to sync notes, highlights, and reading progress."}
+                Signed in as {userName || "Google user"}
               </div>
-              {authStatus === "authenticated" ? (
-                <button
-                  onClick={() => {
-                    void onSignOut();
-                  }}
-                  className="w-full rounded-md border border-[var(--border-color)] px-2 py-1.5 text-xs font-medium text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-                >
-                  Sign Out
-                </button>
-              ) : (
-                <button
-                  onClick={() => {
-                    void onSignIn();
-                  }}
-                  disabled={authStatus === "loading"}
-                  className="w-full rounded-md bg-[var(--text-primary)] px-2 py-1.5 text-xs font-medium text-[var(--bg-canvas)] disabled:opacity-60 transition-opacity"
-                >
-                  Sign In With Google
-                </button>
-              )}
+              <button
+                onClick={() => {
+                  void onSignOut();
+                }}
+                className="w-full rounded-md border border-[var(--border-color)] px-2 py-1.5 text-xs font-medium text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+              >
+                Sign Out
+              </button>
             </>
-          ) : (
-            <div className="text-[11px] text-[var(--text-secondary)]">
-              Firebase environment variables are not configured yet, so the app is running in local-only mode.
-            </div>
           )}
         </div>
 

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gospel Library Pro</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fonts: Inter for rigid brutalism, Instrument Serif for scriptures -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;700;900&display=swap');
+
+        :root {
+            --bg-color: #050505;
+            --text-color: #f4f4f4;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Hide default cursor for custom crosshair */
+            cursor: none;
+            scroll-behavior: smooth;
+        }
+
+        /* The Custom Crosshair */
+        .custom-cursor {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 32px;
+            height: 32px;
+            pointer-events: none;
+            z-index: 9999;
+            transform: translate(-50%, -50%); /* Start centered initially, logic takes over */
+            transition: width 0.3s cubic-bezier(0.25, 1, 0.5, 1), 
+                        height 0.3s cubic-bezier(0.25, 1, 0.5, 1),
+                        opacity 0.2s;
+            mix-blend-mode: difference;
+        }
+        
+        .custom-cursor::before, 
+        .custom-cursor::after {
+            content: '';
+            position: absolute;
+            background: white;
+            transition: height 0.3s, width 0.3s, transform 0.3s;
+        }
+
+        .custom-cursor::before {
+            top: 50%; left: 0; right: 0; height: 1px; transform: translateY(-50%);
+        }
+        .custom-cursor::after {
+            left: 50%; top: 0; bottom: 0; width: 1px; transform: translateX(-50%);
+        }
+
+        /* Hover states for the cursor */
+        .custom-cursor.active {
+            width: 48px;
+            height: 48px;
+        }
+        .custom-cursor.active::before,
+        .custom-cursor.active::after {
+            background: #ff3333; /* Flash a subtle accent color on hover */
+        }
+        .custom-cursor.active::before { height: 2px; }
+        .custom-cursor.active::after { width: 2px; }
+
+        /* Background Canvas / Parallax Area */
+        .bg-container {
+            position: fixed;
+            top: -5%;
+            left: -5%;
+            width: 110%;
+            height: 110%;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        /* To get the AVA-SRG look, we do grayscale, high contrast, and noise overlay */
+        .dithered-bg {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url('christ-in-the-storm.jpg');
+            background-size: cover;
+            background-position: center 30%;
+            /* High contrast grain base */
+            filter: grayscale(100%) contrast(160%) brightness(0.8);
+            /* Initial state to be overridden by JS */
+            transform: scale(1.05);
+            transition: transform 0.1s linear;
+        }
+        
+        /* Fallback to remote image if local image isn't found */
+        .dithered-bg.remote-fallback {
+             background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg');
+        }
+
+        /* The Halftone / Dither Noise Overlay */
+        .noise {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            mix-blend-mode: overlay;
+            opacity: 0.4;
+            /* Encoded SVG static noise */
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+            z-index: 1;
+        }
+        
+        /* A subtle tint overlay to push it to the background slightly */
+        .overlay-tint {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.3);
+            z-index: 2;
+        }
+
+        /* Typography Styles */
+        .massive-header {
+            font-size: clamp(4rem, 12vw, 12rem);
+            font-weight: 900;
+            line-height: 0.85;
+            letter-spacing: -0.05em;
+            text-transform: uppercase;
+            /* Flipping text color based on light/dark parts of background */
+            mix-blend-mode: difference;
+            color: #ffffff;
+            pointer-events: none;
+        }
+
+        .swiss-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 1.5rem;
+        }
+
+        .scripture {
+            font-family: 'Instrument Serif', serif;
+            font-style: italic;
+            mix-blend-mode: difference;
+        }
+
+        /* Smooth reveal for elements on scroll */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 1s cubic-bezier(0.19, 1, 0.22, 1), transform 1s cubic-bezier(0.19, 1, 0.22, 1);
+        }
+        .reveal.visible {
+            opacity: 0.8;
+            transform: translateY(0);
+        }
+
+        /* Hide none-cursor over specific elements to ensure no native cursors pop up */
+        a, button, input {
+            cursor: none !important;
+        }
+
+    </style>
+</head>
+<body class="antialiased selection:bg-white selection:text-black">
+
+    <!-- Custom Pointer -->
+    <div class="custom-cursor" id="custom-cursor"></div>
+
+    <!-- Background Parallax Setup -->
+    <div class="bg-container">
+        <div class="dithered-bg remote-fallback" id="dithered-bg"></div>
+        <div class="noise"></div>
+        <div class="overlay-tint"></div>
+    </div>
+
+    <!-- Main Foreground Content -->
+    <main class="relative z-10 w-full">
+        <!-- Section 1: Scriptures Scroll -->
+        <section class="min-h-[250vh] flex flex-col justify-between px-6 md:px-12 py-[30vh]">
+            <div class="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[10vw]">
+                <p class="scripture reveal">
+                    "And he awoke and rebuked the wind and said to the sea, 'Peace! Be still!' And the wind ceased, and there was a great calm."
+                </p>
+            </div>
+            
+            <div class="max-w-2xl text-2xl md:text-5xl leading-tight text-right self-end mr-4 md:mr-[10vw]">
+                <p class="scripture reveal">
+                    "He said to them, 'Why are you so afraid?<br>Have you still no faith?'"
+                </p>
+            </div>
+
+            <div class="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[20vw] mb-[20vh]">
+                <p class="scripture reveal">
+                    "And they were filled with great fear and said to one another, 'Who then is this, that even the wind and the sea obey him?'"
+                </p>
+            </div>
+        </section>
+
+        <!-- Section 2: Core Question -->
+        <section class="min-h-[150vh] flex items-center justify-center px-6 md:px-12 mb-[50vh]">
+            <h1 class="massive-header text-center reveal w-full leading-none">
+                What if<br>
+                the Church made<br>
+                a true<br>
+                desktop-class<br>
+                Gospel Library Pro?
+            </h1>
+        </section>
+
+        <!-- Section 3: TELOS & Login -->
+        <section class="min-h-screen flex flex-col justify-center px-6 md:px-12 pb-[10vh]">
+            <!-- Pre-title context -->
+            <p class="scripture text-center text-3xl md:text-4xl reveal opacity-80 mb-8 mix-blend-difference">
+                Introducing
+            </p>
+            
+            <!-- Real Title -->
+            <h1 class="font-black text-center text-[#ffffff] mix-blend-difference uppercase leading-none tracking-tighter w-full reveal font-sans" style="font-size: clamp(6rem, 25vw, 25rem); letter-spacing: -0.06em;">
+                TELOS
+            </h1>
+
+            <!-- Login Form Centered -->
+            <div class="w-full max-w-lg mx-auto bg-[#0a0a0a] bg-opacity-[0.85] p-8 md:p-12 border border-white/10 backdrop-blur-xl hover:border-white/30 transition-colors duration-500 reveal group shadow-2xl mt-12 md:-mt-12 relative z-20">
+                <div class="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/50 to-transparent"></div>
+                
+                <div class="flex justify-between items-end border-b border-white/20 pb-4 mb-10">
+                    <h2 class="text-xs md:text-sm font-bold uppercase tracking-[0.2em] mix-blend-difference">Entrance [ System ]</h2>
+                    <span class="font-mono text-xs opacity-50">v.0.1.0</span>
+                </div>
+
+                <form class="flex flex-col gap-8">
+                    <div class="flex flex-col">
+                        <label class="text-[0.65rem] uppercase tracking-widest opacity-50 mb-2 font-mono">Identification</label>
+                        <input type="email" placeholder="EMAIL" class="interactive bg-transparent border-b border-white/30 p-2 md:p-3 outline-none focus:border-white transition-colors placeholder:text-white/20 font-mono text-sm uppercase">
+                    </div>
+                    
+                    <div class="flex flex-col">
+                        <label class="text-[0.65rem] uppercase tracking-widest opacity-50 mb-2 font-mono">Passkey</label>
+                        <input type="password" placeholder="PASSWORD" class="interactive bg-transparent border-b border-white/30 p-2 md:p-3 outline-none focus:border-white transition-colors placeholder:text-white/20 font-mono text-sm uppercase">
+                    </div>
+                    
+                    <button type="button" class="interactive mt-10 md:mt-12 relative overflow-hidden group/btn bg-white text-black font-bold uppercase py-5 border border-transparent transition-all text-xs tracking-[0.2em] hover:bg-black hover:text-white hover:border-white flex justify-center items-center gap-2">
+                        <span class="relative z-10 transition-transform group-hover/btn:translate-x-1 duration-300">Initialize Environment</span>
+                        <span class="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">→</span>
+                    </button>
+                </form>
+
+                <div class="mt-8 text-center border-t border-white/10 pt-6">
+                    <a href="#" class="interactive text-[0.6rem] uppercase tracking-widest opacity-40 hover:opacity-100 font-mono transition-opacity">Request Access_</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Optional Footer Indicators -->
+    <div class="fixed bottom-6 left-6 mix-blend-difference font-mono text-xs opacity-50 uppercase tracking-widest pointer-events-none z-50">
+        [ L-G-P ] // 2026
+    </div>
+    
+    <div class="fixed bottom-6 right-6 mix-blend-difference font-mono text-xs opacity-50 uppercase tracking-widest pointer-events-none z-50">
+        Scroll ↓
+    </div>
+
+    <!-- Scripts -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const cursor = document.getElementById('custom-cursor');
+            const bg = document.getElementById('dithered-bg');
+            const interactives = document.querySelectorAll('input, button, a, .interactive');
+            const reveals = document.querySelectorAll('.reveal');
+            
+            let mouseX = window.innerWidth / 2;
+            let mouseY = window.innerHeight / 2;
+            let cursorX = mouseX;
+            let cursorY = mouseY;
+            
+            // Image loading check to switch classes if local image exists
+            const img = new Image();
+            img.onload = () => {
+                // local image exists, remove remote fallback
+                bg.classList.remove('remote-fallback');
+            };
+            img.src = 'christ-in-the-storm.jpg';
+
+            // Parallax and Cursor logic
+            document.addEventListener('mousemove', (e) => {
+                mouseX = e.clientX;
+                mouseY = e.clientY;
+            });
+
+            // Make the cursor feel smooth with a requestAnimationFrame loop
+            const render = () => {
+                // Ease cursor position
+                cursorX += (mouseX - cursorX) * 0.2;
+                cursorY += (mouseY - cursorY) * 0.2;
+                
+                // Keep cursor positioned correctly
+                cursor.style.transform = `translate(calc(${cursorX}px - 50%), calc(${cursorY}px - 50%))`;
+
+                // Calculate Parallax values - map mouse position to a subtle translate
+                const xPos = (mouseX / window.innerWidth - 0.5) * 40; // max shift 20px
+                const yPos = (mouseY / window.innerHeight - 0.5) * 40;
+                
+                // Add scale so shifting doesn't reveal edges
+                bg.style.transform = `translate(${xPos}px, ${yPos}px) scale(1.05)`;
+
+                requestAnimationFrame(render);
+            };
+            requestAnimationFrame(render);
+
+            // Cursor Hover States
+            interactives.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursor.classList.add('active');
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursor.classList.remove('active');
+                });
+            });
+
+            // Scroll Reveal Logic using Intersection Observer
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.2
+            };
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                    }
+                });
+            }, observerOptions);
+
+            reveals.forEach(reveal => {
+                observer.observe(reveal);
+            });
+            
+            // Trigger reveals that are initially in viewport
+            setTimeout(() => {
+                reveals.forEach(reveal => {
+                    const rect = reveal.getBoundingClientRect();
+                    if (rect.top < window.innerHeight) {
+                        reveal.classList.add('visible');
+                    }
+                });
+            }, 100);
+        });
+    </script>
+</body>
+</html>
