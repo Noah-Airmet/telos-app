@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-12",
+  "title": "Psalms 12",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Help, O Lord, for there is no longer anyone who is godly;"
+    },
+    {
+      "block_id": "ps-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "They utter lies to each other;"
+    },
+    {
+      "block_id": "ps-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "May the Lord cut off all flattering lips,"
+    },
+    {
+      "block_id": "ps-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "those who say, “With our tongues we will prevail;"
+    },
+    {
+      "block_id": "ps-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "“Because the poor are despoiled, because the needy groan,"
+    },
+    {
+      "block_id": "ps-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The promises of the Lord are promises that are pure,"
+    },
+    {
+      "block_id": "ps-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You, O Lord, will protect us;"
+    },
+    {
+      "block_id": "ps-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "On every side the wicked prowl,"
+    }
+  ]
+}

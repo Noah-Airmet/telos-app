@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-128",
+  "title": "Psalms 128",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-128-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Happy is everyone who fears the Lord,"
+    },
+    {
+      "block_id": "ps-128-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall eat the fruit of the labor of your hands;"
+    },
+    {
+      "block_id": "ps-128-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your wife will be like a fruitful vine"
+    },
+    {
+      "block_id": "ps-128-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Thus shall the man be blessed"
+    },
+    {
+      "block_id": "ps-128-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord bless you from Zion."
+    },
+    {
+      "block_id": "ps-128-6",
+      "type": "verse",
+      "number": 6,
+      "text": "May you see your children’s children."
+    }
+  ]
+}

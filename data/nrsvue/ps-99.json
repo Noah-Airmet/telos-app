@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-99",
+  "title": "Psalms 99",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-99-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is king; let the peoples tremble!"
+    },
+    {
+      "block_id": "ps-99-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord is great in Zion;"
+    },
+    {
+      "block_id": "ps-99-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let them praise your great and awesome name."
+    },
+    {
+      "block_id": "ps-99-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Mighty King, lover of justice,"
+    },
+    {
+      "block_id": "ps-99-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Extol the Lord our God;"
+    },
+    {
+      "block_id": "ps-99-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Moses and Aaron were among his priests,"
+    },
+    {
+      "block_id": "ps-99-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He spoke to them in the pillar of cloud;"
+    },
+    {
+      "block_id": "ps-99-8",
+      "type": "verse",
+      "number": 8,
+      "text": "O Lord our God, you answered them;"
+    },
+    {
+      "block_id": "ps-99-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Extol the Lord our God,"
+    }
+  ]
+}

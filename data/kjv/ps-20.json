@@ -1,0 +1,67 @@
+{
+  "document_id": "ps-20",
+  "title": "Psalms 20",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "ps-20-heading-0",
+      "type": "heading",
+      "text": "The Day of Trouble"
+    },
+    {
+      "block_id": "ps-20-1",
+      "type": "verse",
+      "number": 1,
+      "text": "To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+    },
+    {
+      "block_id": "ps-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;"
+    },
+    {
+      "block_id": "ps-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+    },
+    {
+      "block_id": "ps-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+    },
+    {
+      "block_id": "ps-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions."
+    },
+    {
+      "block_id": "ps-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
+    },
+    {
+      "block_id": "ps-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God."
+    },
+    {
+      "block_id": "ps-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They are brought down and fallen: but we are risen, and stand upright."
+    },
+    {
+      "block_id": "ps-20-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Save, LORD: let the king hear us when we call."
+    }
+  ]
+}

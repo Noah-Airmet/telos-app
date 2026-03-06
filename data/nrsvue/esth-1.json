@@ -1,0 +1,145 @@
+{
+  "document_id": "esth-1",
+  "title": "Esther 1",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "esth-1-heading-king-ahasuerus-depos",
+      "type": "heading",
+      "text": "King Ahasuerus Deposes Queen Vashti"
+    },
+    {
+      "block_id": "esth-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "This happened in the days of Ahasuerus, the same Ahasuerus who ruled over one hundred twenty-seven provinces from India to Cush."
+    },
+    {
+      "block_id": "esth-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "In those days when King Ahasuerus sat on his royal throne in the citadel of Susa,"
+    },
+    {
+      "block_id": "esth-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "in the third year of his reign, he gave a banquet for all his officials and ministers. The army of Persia and Media, the nobles, and the governors of the provinces were present,"
+    },
+    {
+      "block_id": "esth-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "while he displayed the great wealth of his kingdom and the splendor and pomp of his majesty for many days, one hundred eighty days in all."
+    },
+    {
+      "block_id": "esth-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When these days were completed, the king gave for all the people present in the citadel of Susa, both great and small, a banquet lasting for seven days, in the court of the garden of the king’s palace."
+    },
+    {
+      "block_id": "esth-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "There were white cotton curtains and blue hangings tied with cords of fine linen and purple to silver rings and marble pillars. There were couches of gold and silver on a mosaic pavement of porphyry, marble, mother-of-pearl, and colored stones."
+    },
+    {
+      "block_id": "esth-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Drinks were served in golden goblets, goblets of different kinds, and the royal wine was lavished according to the bounty of the king."
+    },
+    {
+      "block_id": "esth-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Drinking was by ordinance without restraint, for the king had given orders to all the officials of his palace to do as each one desired."
+    },
+    {
+      "block_id": "esth-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Furthermore, Queen Vashti gave a banquet for the women in the palace of King Ahasuerus."
+    },
+    {
+      "block_id": "esth-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "On the seventh day, when the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha and Abagtha, Zethar and Carkas, the seven eunuchs who attended him,"
+    },
+    {
+      "block_id": "esth-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "to bring Queen Vashti before the king wearing the royal crown, in order to show the peoples and the officials her beauty, for she was fair to behold."
+    },
+    {
+      "block_id": "esth-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But Queen Vashti refused to come at the king’s command conveyed by the eunuchs. At this the king was enraged, and his anger burned within him."
+    },
+    {
+      "block_id": "esth-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then the king consulted the sages who knew the laws (for this was the king’s procedure toward all who were versed in law and custom,"
+    },
+    {
+      "block_id": "esth-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and those next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven officials of Persia and Media who had access to the king and sat first in the kingdom):"
+    },
+    {
+      "block_id": "esth-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "“According to the law, what is to be done with Queen Vashti because she has not performed the command of King Ahasuerus conveyed by the eunuchs?”"
+    },
+    {
+      "block_id": "esth-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then Memucan said in the presence of the king and the officials, “Queen Vashti has done wrong not only to the king but also to all the officials and all the peoples who are in all the provinces of King Ahasuerus."
+    },
+    {
+      "block_id": "esth-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For this deed of the queen will be made known to all women, causing them to look with contempt on their husbands, since they will say, ‘King Ahasuerus commanded Queen Vashti to be brought before him, and she did not come.’"
+    },
+    {
+      "block_id": "esth-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "This very day the noble ladies of Persia and Media who have heard of the queen’s behavior will rebel against the king’s officials, and there will be no end of contempt and wrath!"
+    },
+    {
+      "block_id": "esth-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "If it pleases the king, let a royal order go out from him, and let it be written among the laws of the Persians and the Medes so that it may not be altered, that Vashti is never again to come before King Ahasuerus, and let the king give her royal position to another who is better than she."
+    },
+    {
+      "block_id": "esth-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "So when the decree made by the king is proclaimed throughout all his kingdom, vast as it is, all women will give honor to their husbands, high and low alike.”"
+    },
+    {
+      "block_id": "esth-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "This advice pleased the king and the officials, and the king did as Memucan proposed;"
+    },
+    {
+      "block_id": "esth-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "he sent letters to all the royal provinces, to every province in its own script and to every people in its own language, declaring that every man should be master in his own house.,"
+    }
+  ]
+}

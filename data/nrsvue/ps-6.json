@@ -1,0 +1,68 @@
+{
+  "document_id": "ps-6",
+  "title": "Psalms 6",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, do not rebuke me in your anger"
+    },
+    {
+      "block_id": "ps-6-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Be gracious to me, O Lord, for I am languishing;"
+    },
+    {
+      "block_id": "ps-6-3",
+      "type": "verse",
+      "number": 3,
+      "text": "My soul also is struck with terror,"
+    },
+    {
+      "block_id": "ps-6-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Turn, O Lord, save my life;"
+    },
+    {
+      "block_id": "ps-6-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For in death there is no remembrance of you;"
+    },
+    {
+      "block_id": "ps-6-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I am weary with my moaning;"
+    },
+    {
+      "block_id": "ps-6-7",
+      "type": "verse",
+      "number": 7,
+      "text": "My eyes waste away because of grief;"
+    },
+    {
+      "block_id": "ps-6-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Depart from me, all you workers of evil,"
+    },
+    {
+      "block_id": "ps-6-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord has heard my supplication;"
+    },
+    {
+      "block_id": "ps-6-10",
+      "type": "verse",
+      "number": 10,
+      "text": "All my enemies shall be ashamed and struck with terror;"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "document_id": "jdt-6",
+  "title": "Judith 6",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "jdt-6-heading-the-rejection-of-jes",
+      "type": "heading",
+      "text": "The Rejection of Jesus at Nazareth"
+    },
+    {
+      "block_id": "jdt-6-heading-the-mission-of-the-t",
+      "type": "heading",
+      "text": "The Mission of the Twelve"
+    },
+    {
+      "block_id": "jdt-6-heading-the-death-of-john-th",
+      "type": "heading",
+      "text": "The Death of John the Baptist"
+    },
+    {
+      "block_id": "jdt-6-heading-feeding-the-five-tho",
+      "type": "heading",
+      "text": "Feeding the Five Thousand"
+    },
+    {
+      "block_id": "jdt-6-heading-jesus-walks-on-the-w",
+      "type": "heading",
+      "text": "Jesus Walks on the Water"
+    },
+    {
+      "block_id": "jdt-6-heading-healing-the-sick-in-",
+      "type": "heading",
+      "text": "Healing the Sick in Gennesaret"
+    },
+    {
+      "block_id": "jdt-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "He left that place and came to his hometown, and his disciples followed him."
+    },
+    {
+      "block_id": "jdt-6-2",
+      "type": "verse",
+      "number": 2,
+      "text": "On the Sabbath he began to teach in the synagogue, and many who heard him were astounded. They said, “Where did this man get all this? What is this wisdom that has been given to him? What deeds of power are being done by his hands!"
+    },
+    {
+      "block_id": "jdt-6-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon, and are not his sisters here with us?” And they took offense at him."
+    },
+    {
+      "block_id": "jdt-6-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then Jesus said to them, “Prophets are not without honor, except in their hometown and among their own kin and in their own house.”"
+    },
+    {
+      "block_id": "jdt-6-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And he could do no deed of power there, except that he laid his hands on a few sick people and cured them."
+    },
+    {
+      "block_id": "jdt-6-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And he was amazed at their unbelief."
+    },
+    {
+      "block_id": "jdt-6-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He called the twelve and began to send them out two by two and gave them authority over the unclean spirits."
+    },
+    {
+      "block_id": "jdt-6-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He ordered them to take nothing for their journey except a staff: no bread, no bag, no money in their belts,"
+    },
+    {
+      "block_id": "jdt-6-9",
+      "type": "verse",
+      "number": 9,
+      "text": "but to wear sandals and not to put on two tunics."
+    },
+    {
+      "block_id": "jdt-6-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He said to them, “Wherever you enter a house, stay there until you leave the place."
+    },
+    {
+      "block_id": "jdt-6-11",
+      "type": "verse",
+      "number": 11,
+      "text": "If any place will not welcome you and they refuse to hear you, as you leave, shake off the dust that is on your feet as a testimony against them.”"
+    },
+    {
+      "block_id": "jdt-6-12",
+      "type": "verse",
+      "number": 12,
+      "text": "So they went out and proclaimed that all should repent."
+    },
+    {
+      "block_id": "jdt-6-13",
+      "type": "verse",
+      "number": 13,
+      "text": "They cast out many demons and anointed with oil many who were sick and cured them."
+    },
+    {
+      "block_id": "jdt-6-14",
+      "type": "verse",
+      "number": 14,
+      "text": "King Herod heard of it, for Jesus’s name had become known. Some were saying, “John the baptizer has been raised from the dead, and for this reason these powers are at work in him.”"
+    },
+    {
+      "block_id": "jdt-6-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But others said, “It is Elijah.” And others said, “It is a prophet, like one of the prophets of old.”"
+    },
+    {
+      "block_id": "jdt-6-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But when Herod heard of it, he said, “John, whom I beheaded, has been raised.”"
+    },
+    {
+      "block_id": "jdt-6-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For Herod himself had sent men who arrested John, bound him, and put him in prison on account of Herodias, his brother Philip’s wife, because Herod had married her."
+    },
+    {
+      "block_id": "jdt-6-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For John had been telling Herod, “It is not lawful for you to have your brother’s wife.”"
+    },
+    {
+      "block_id": "jdt-6-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And Herodias had a grudge against him and wanted to kill him. But she could not,"
+    },
+    {
+      "block_id": "jdt-6-20",
+      "type": "verse",
+      "number": 20,
+      "text": "for Herod feared John, knowing that he was a righteous and holy man, and he protected him. When he heard him, he was greatly perplexed, and yet he liked to listen to him."
+    },
+    {
+      "block_id": "jdt-6-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But an opportunity came when Herod on his birthday gave a banquet for his courtiers and officers and for the leaders of Galilee."
+    },
+    {
+      "block_id": "jdt-6-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When his daughter Herodias came in and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it.”"
+    },
+    {
+      "block_id": "jdt-6-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And he swore to her, “Whatever you ask me, I will give you, even half of my kingdom.”"
+    },
+    {
+      "block_id": "jdt-6-24",
+      "type": "verse",
+      "number": 24,
+      "text": "She went out and said to her mother, “What should I ask for?” She replied, “The head of John the baptizer.”"
+    },
+    {
+      "block_id": "jdt-6-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Immediately she rushed back to the king and requested, “I want you to give me at once the head of John the Baptist on a platter.”"
+    },
+    {
+      "block_id": "jdt-6-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The king was deeply grieved, yet out of regard for his oaths and for the guests, he did not want to refuse her."
+    },
+    {
+      "block_id": "jdt-6-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Immediately the king sent a soldier of the guard with orders to bring John’s head. He went and beheaded him in the prison,"
+    },
+    {
+      "block_id": "jdt-6-28",
+      "type": "verse",
+      "number": 28,
+      "text": "brought his head on a platter, and gave it to the girl. Then the girl gave it to her mother."
+    },
+    {
+      "block_id": "jdt-6-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When his disciples heard about it, they came and took his body and laid it in a tomb."
+    },
+    {
+      "block_id": "jdt-6-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The apostles gathered around Jesus and told him all that they had done and taught."
+    },
+    {
+      "block_id": "jdt-6-31",
+      "type": "verse",
+      "number": 31,
+      "text": "He said to them, “Come away to a deserted place all by yourselves and rest a while.” For many were coming and going, and they had no leisure even to eat."
+    },
+    {
+      "block_id": "jdt-6-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And they went away in the boat to a deserted place by themselves."
+    },
+    {
+      "block_id": "jdt-6-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Now many saw them going and recognized them, and they hurried there on foot from all the towns and arrived ahead of them."
+    },
+    {
+      "block_id": "jdt-6-34",
+      "type": "verse",
+      "number": 34,
+      "text": "As he went ashore, he saw a great crowd, and he had compassion for them, because they were like sheep without a shepherd, and he began to teach them many things."
+    },
+    {
+      "block_id": "jdt-6-35",
+      "type": "verse",
+      "number": 35,
+      "text": "When it grew late, his disciples came to him and said, “This is a deserted place, and the hour is now very late;"
+    },
+    {
+      "block_id": "jdt-6-36",
+      "type": "verse",
+      "number": 36,
+      "text": "send them away so that they may go into the surrounding country and villages and buy something for themselves to eat.”"
+    },
+    {
+      "block_id": "jdt-6-37",
+      "type": "verse",
+      "number": 37,
+      "text": "But he answered them, “You give them something to eat.” They said to him, “Are we to go and buy two hundred denarii worth of bread and give it to them to eat?”"
+    },
+    {
+      "block_id": "jdt-6-38",
+      "type": "verse",
+      "number": 38,
+      "text": "And he said to them, “How many loaves have you? Go and see.” When they had found out, they said, “Five, and two fish.”"
+    },
+    {
+      "block_id": "jdt-6-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Then he ordered them to get all the people to sit down in groups on the green grass."
+    },
+    {
+      "block_id": "jdt-6-40",
+      "type": "verse",
+      "number": 40,
+      "text": "So they sat down in groups of hundreds and of fifties."
+    },
+    {
+      "block_id": "jdt-6-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Taking the five loaves and the two fish, he looked up to heaven and blessed and broke the loaves and gave them to his disciples to set before the people, and he divided the two fish among them all."
+    },
+    {
+      "block_id": "jdt-6-42",
+      "type": "verse",
+      "number": 42,
+      "text": "And all ate and were filled,"
+    },
+    {
+      "block_id": "jdt-6-43",
+      "type": "verse",
+      "number": 43,
+      "text": "and they took up twelve baskets full of broken pieces and of the fish."
+    },
+    {
+      "block_id": "jdt-6-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Those who had eaten the loaves numbered five thousand men."
+    },
+    {
+      "block_id": "jdt-6-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Immediately he made his disciples get into the boat and go on ahead to the other side, to Bethsaida, while he dismissed the crowd."
+    },
+    {
+      "block_id": "jdt-6-46",
+      "type": "verse",
+      "number": 46,
+      "text": "After saying farewell to them, he went up on the mountain to pray."
+    },
+    {
+      "block_id": "jdt-6-47",
+      "type": "verse",
+      "number": 47,
+      "text": "When evening came, the boat was out on the sea, and he was alone on the land."
+    },
+    {
+      "block_id": "jdt-6-48",
+      "type": "verse",
+      "number": 48,
+      "text": "When he saw that they were straining at the oars against an adverse wind, he came toward them early in the morning, walking on the sea. He intended to pass them by."
+    },
+    {
+      "block_id": "jdt-6-49",
+      "type": "verse",
+      "number": 49,
+      "text": "But when they saw him walking on the sea, they thought it was a ghost and cried out,"
+    },
+    {
+      "block_id": "jdt-6-50",
+      "type": "verse",
+      "number": 50,
+      "text": "for they all saw him and were terrified. But immediately he spoke to them and said, “Take heart, it is I; do not be afraid.”"
+    },
+    {
+      "block_id": "jdt-6-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Then he got into the boat with them, and the wind ceased. And they were utterly astounded,"
+    },
+    {
+      "block_id": "jdt-6-52",
+      "type": "verse",
+      "number": 52,
+      "text": "for they did not understand about the loaves, but their hearts were hardened."
+    },
+    {
+      "block_id": "jdt-6-53",
+      "type": "verse",
+      "number": 53,
+      "text": "When they had crossed over, they came to land at Gennesaret and moored the boat."
+    },
+    {
+      "block_id": "jdt-6-54",
+      "type": "verse",
+      "number": 54,
+      "text": "When they got out of the boat, people at once recognized him"
+    },
+    {
+      "block_id": "jdt-6-55",
+      "type": "verse",
+      "number": 55,
+      "text": "and rushed about that whole region and began to bring the sick on mats to wherever they heard he was."
+    },
+    {
+      "block_id": "jdt-6-56",
+      "type": "verse",
+      "number": 56,
+      "text": "And wherever he went, into villages or cities or farms, they laid the sick in the marketplaces and begged him that they might touch even the fringe of his cloak, and all who touched it were healed."
+    }
+  ]
+}

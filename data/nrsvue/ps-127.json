@@ -1,0 +1,38 @@
+{
+  "document_id": "ps-127",
+  "title": "Psalms 127",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-127-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Unless the Lord builds the house,"
+    },
+    {
+      "block_id": "ps-127-2",
+      "type": "verse",
+      "number": 2,
+      "text": "It is in vain that you rise up early"
+    },
+    {
+      "block_id": "ps-127-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Sons are indeed a heritage from the Lord,"
+    },
+    {
+      "block_id": "ps-127-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Like arrows in the hand of a warrior"
+    },
+    {
+      "block_id": "ps-127-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Happy is the man who has"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "ps-128",
+  "title": "Psalms 128",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "ps-128-heading-0",
+      "type": "heading",
+      "text": "Blessed Are All who Walk in His Ways"
+    },
+    {
+      "block_id": "ps-128-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A Song of degrees. Blessed is every one that feareth the LORD; that walketh in his ways."
+    },
+    {
+      "block_id": "ps-128-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
+    },
+    {
+      "block_id": "ps-128-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+    },
+    {
+      "block_id": "ps-128-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Behold, that thus shall the man be blessed that feareth the LORD."
+    },
+    {
+      "block_id": "ps-128-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+    },
+    {
+      "block_id": "ps-128-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Yea, thou shalt see thy children's children, and peace upon Israel."
+    }
+  ]
+}

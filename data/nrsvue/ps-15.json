@@ -1,0 +1,38 @@
+{
+  "document_id": "ps-15",
+  "title": "Psalms 15",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-15-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, who may abide in your tent?"
+    },
+    {
+      "block_id": "ps-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Those who walk blamelessly and do what is right"
+    },
+    {
+      "block_id": "ps-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "who do not slander with their tongue"
+    },
+    {
+      "block_id": "ps-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "in whose eyes the wicked are despised"
+    },
+    {
+      "block_id": "ps-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "who do not lend money at interest"
+    }
+  ]
+}

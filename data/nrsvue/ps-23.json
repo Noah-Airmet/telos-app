@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-23",
+  "title": "Psalms 23",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is my shepherd; I shall not want."
+    },
+    {
+      "block_id": "ps-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He makes me lie down in green pastures;"
+    },
+    {
+      "block_id": "ps-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "he restores my soul."
+    },
+    {
+      "block_id": "ps-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Even though I walk through the darkest valley,"
+    },
+    {
+      "block_id": "ps-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You prepare a table before me"
+    },
+    {
+      "block_id": "ps-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Surely goodness and mercy shall follow me"
+    }
+  ]
+}

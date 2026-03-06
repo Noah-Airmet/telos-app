@@ -1,0 +1,32 @@
+{
+  "document_id": "ps-123",
+  "title": "Psalms 123",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-123-1",
+      "type": "verse",
+      "number": 1,
+      "text": "To you I lift up my eyes,"
+    },
+    {
+      "block_id": "ps-123-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the eyes of servants"
+    },
+    {
+      "block_id": "ps-123-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Have mercy upon us, O Lord, have mercy upon us,"
+    },
+    {
+      "block_id": "ps-123-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Our soul has had more than its fill"
+    }
+  ]
+}

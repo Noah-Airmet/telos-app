@@ -1,0 +1,310 @@
+{
+  "document_id": "sir-2",
+  "title": "Sirach 2",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "sir-2-heading-the-coming-of-the-ho",
+      "type": "heading",
+      "text": "The Coming of the Holy Spirit"
+    },
+    {
+      "block_id": "sir-2-heading-peter-addresses-the-",
+      "type": "heading",
+      "text": "Peter Addresses the Crowd"
+    },
+    {
+      "block_id": "sir-2-heading-the-first-converts",
+      "type": "heading",
+      "text": "The First Converts"
+    },
+    {
+      "block_id": "sir-2-heading-life-among-the-belie",
+      "type": "heading",
+      "text": "Life among the Believers"
+    },
+    {
+      "block_id": "sir-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When the day of Pentecost had come, they were all together in one place."
+    },
+    {
+      "block_id": "sir-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And suddenly from heaven there came a sound like the rush of a violent wind, and it filled the entire house where they were sitting."
+    },
+    {
+      "block_id": "sir-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Divided tongues, as of fire, appeared among them, and a tongue rested on each of them."
+    },
+    {
+      "block_id": "sir-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "All of them were filled with the Holy Spirit and began to speak in other languages, as the Spirit gave them ability."
+    },
+    {
+      "block_id": "sir-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Now there were devout Jews from every people under heaven living in Jerusalem."
+    },
+    {
+      "block_id": "sir-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And at this sound the crowd gathered and was bewildered, because each one heard them speaking in the native language of each."
+    },
+    {
+      "block_id": "sir-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Amazed and astonished, they asked, “Are not all these who are speaking Galileans?"
+    },
+    {
+      "block_id": "sir-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And how is it that we hear, each of us, in our own native language?"
+    },
+    {
+      "block_id": "sir-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Parthians, Medes, Elamites, and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,"
+    },
+    {
+      "block_id": "sir-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, both Jews and proselytes,"
+    },
+    {
+      "block_id": "sir-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Cretans and Arabs—in our own languages we hear them speaking about God’s deeds of power.”"
+    },
+    {
+      "block_id": "sir-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "All were amazed and perplexed, saying to one another, “What does this mean?”"
+    },
+    {
+      "block_id": "sir-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But others sneered and said, “They are filled with new wine.”"
+    },
+    {
+      "block_id": "sir-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But Peter, standing with the eleven, raised his voice and addressed them, “Fellow Jews and all who live in Jerusalem, let this be known to you, and listen to what I say."
+    },
+    {
+      "block_id": "sir-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Indeed, these are not drunk, as you suppose, for it is only nine o’clock in the morning."
+    },
+    {
+      "block_id": "sir-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "No, this is what was spoken through the prophet Joel:"
+    },
+    {
+      "block_id": "sir-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "‘In the last days it will be, God declares,"
+    },
+    {
+      "block_id": "sir-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Even upon my slaves, both men and women,"
+    },
+    {
+      "block_id": "sir-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And I will show portents in the heaven above"
+    },
+    {
+      "block_id": "sir-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The sun shall be turned to darkness"
+    },
+    {
+      "block_id": "sir-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then everyone who calls on the name of the Lord shall be saved.’"
+    },
+    {
+      "block_id": "sir-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "“Fellow Israelites, listen to what I have to say: Jesus of Nazareth, a man attested to you by God with deeds of power, wonders, and signs that God did through him among you, as you yourselves know—"
+    },
+    {
+      "block_id": "sir-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "this man, handed over to you according to the definite plan and foreknowledge of God, you crucified and killed by the hands of those outside the law."
+    },
+    {
+      "block_id": "sir-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "But God raised him up, having released him from the agony of death, because it was impossible for him to be held in its power."
+    },
+    {
+      "block_id": "sir-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For David says concerning him,"
+    },
+    {
+      "block_id": "sir-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "therefore my heart was glad, and my tongue rejoiced;"
+    },
+    {
+      "block_id": "sir-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For you will not abandon my soul to Hades"
+    },
+    {
+      "block_id": "sir-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "You have made known to me the ways of life;"
+    },
+    {
+      "block_id": "sir-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "“Fellow Israelites, I may say to you confidently of our ancestor David that he both died and was buried, and his tomb is with us to this day."
+    },
+    {
+      "block_id": "sir-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Since he was a prophet, he knew that God had sworn with an oath to him that he would put one of his descendants on his throne."
+    },
+    {
+      "block_id": "sir-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Foreseeing this, David spoke of the resurrection of the Messiah, saying,"
+    },
+    {
+      "block_id": "sir-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "“This Jesus God raised up, and of that all of us are witnesses."
+    },
+    {
+      "block_id": "sir-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Being therefore exalted at the right hand of God and having received from the Father the promise of the Holy Spirit, he has poured out this that you see and hear."
+    },
+    {
+      "block_id": "sir-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "For David did not ascend into the heavens, but he himself says,"
+    },
+    {
+      "block_id": "sir-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "until I make your enemies your footstool.” ’"
+    },
+    {
+      "block_id": "sir-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "“Therefore let the entire house of Israel know with certainty that God has made him both Lord and Messiah, this Jesus whom you crucified.”"
+    },
+    {
+      "block_id": "sir-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Now when they heard this, they were cut to the heart and said to Peter and to the other apostles, “Brothers, what should we do?”"
+    },
+    {
+      "block_id": "sir-2-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ so that your sins may be forgiven, and you will receive the gift of the Holy Spirit."
+    },
+    {
+      "block_id": "sir-2-39",
+      "type": "verse",
+      "number": 39,
+      "text": "For the promise is for you, for your children, and for all who are far away, everyone whom the Lord our God calls to him.”"
+    },
+    {
+      "block_id": "sir-2-40",
+      "type": "verse",
+      "number": 40,
+      "text": "And he testified with many other arguments and exhorted them, saying, “Save yourselves from this corrupt generation.”"
+    },
+    {
+      "block_id": "sir-2-41",
+      "type": "verse",
+      "number": 41,
+      "text": "So those who welcomed his message were baptized, and that day about three thousand persons were added."
+    },
+    {
+      "block_id": "sir-2-42",
+      "type": "verse",
+      "number": 42,
+      "text": "They devoted themselves to the apostles’ teaching and fellowship, to the breaking of bread and the prayers."
+    },
+    {
+      "block_id": "sir-2-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Awe came upon everyone because many wonders and signs were being done through the apostles."
+    },
+    {
+      "block_id": "sir-2-44",
+      "type": "verse",
+      "number": 44,
+      "text": "All who believed were together and had all things in common;"
+    },
+    {
+      "block_id": "sir-2-45",
+      "type": "verse",
+      "number": 45,
+      "text": "they would sell their possessions and goods and distribute the proceeds to all, as any had need."
+    },
+    {
+      "block_id": "sir-2-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Day by day, as they spent much time together in the temple, they broke bread at home and ate their food with glad and generous hearts,"
+    },
+    {
+      "block_id": "sir-2-47",
+      "type": "verse",
+      "number": 47,
+      "text": "praising God and having the goodwill of all the people. And day by day the Lord added to their number those who were being saved."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "ps-43",
+  "title": "Psalms 43",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "ps-43-heading-0",
+      "type": "heading",
+      "text": "Send Out Your Light"
+    },
+    {
+      "block_id": "ps-43-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+    },
+    {
+      "block_id": "ps-43-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+    },
+    {
+      "block_id": "ps-43-3",
+      "type": "verse",
+      "number": 3,
+      "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+    },
+    {
+      "block_id": "ps-43-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God."
+    },
+    {
+      "block_id": "ps-43-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God."
+    }
+  ]
+}

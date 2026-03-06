@@ -1,0 +1,368 @@
+{
+  "document_id": "esth-gr-23",
+  "title": "Esther (Greek) 23",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "esth-gr-23-heading-jesus-before-pilate",
+      "type": "heading",
+      "text": "Jesus before Pilate"
+    },
+    {
+      "block_id": "esth-gr-23-heading-jesus-before-herod",
+      "type": "heading",
+      "text": "Jesus before Herod"
+    },
+    {
+      "block_id": "esth-gr-23-heading-jesus-sentenced-to-d",
+      "type": "heading",
+      "text": "Jesus Sentenced to Death"
+    },
+    {
+      "block_id": "esth-gr-23-heading-the-crucifixion-of-j",
+      "type": "heading",
+      "text": "The Crucifixion of Jesus"
+    },
+    {
+      "block_id": "esth-gr-23-heading-the-death-of-jesus",
+      "type": "heading",
+      "text": "The Death of Jesus"
+    },
+    {
+      "block_id": "esth-gr-23-heading-the-burial-of-jesus",
+      "type": "heading",
+      "text": "The Burial of Jesus"
+    },
+    {
+      "block_id": "esth-gr-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then the assembly rose as a body and brought Jesus before Pilate."
+    },
+    {
+      "block_id": "esth-gr-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "They began to accuse him, saying, “We found this man inciting our nation, forbidding us to pay taxes to Caesar and saying that he himself is the Messiah, a king.”,"
+    },
+    {
+      "block_id": "esth-gr-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Pilate asked him, “Are you the king of the Jews?” He answered, “You say so.”"
+    },
+    {
+      "block_id": "esth-gr-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then Pilate said to the chief priests and the crowds, “I find no basis for an accusation against this man.”"
+    },
+    {
+      "block_id": "esth-gr-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But they were insistent and said, “He stirs up the people by teaching throughout all Judea, from Galilee where he began even to this place.”"
+    },
+    {
+      "block_id": "esth-gr-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When Pilate heard this, he asked whether the man was a Galilean."
+    },
+    {
+      "block_id": "esth-gr-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And when he learned that he was under Herod’s jurisdiction, he sent him off to Herod, who was himself in Jerusalem at that time."
+    },
+    {
+      "block_id": "esth-gr-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When Herod saw Jesus, he was very glad, for he had been wanting to see him for a long time because he had heard about him and was hoping to see him perform some sign."
+    },
+    {
+      "block_id": "esth-gr-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He questioned him at some length, but Jesus gave him no answer."
+    },
+    {
+      "block_id": "esth-gr-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The chief priests and the scribes stood by vehemently accusing him."
+    },
+    {
+      "block_id": "esth-gr-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Even Herod with his soldiers treated him with contempt and mocked him; then he put an elegant robe on him and sent him back to Pilate."
+    },
+    {
+      "block_id": "esth-gr-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "That same day Herod and Pilate became friends with each other; before this they had been enemies."
+    },
+    {
+      "block_id": "esth-gr-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Pilate then called together the chief priests, the leaders, and the people"
+    },
+    {
+      "block_id": "esth-gr-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and said to them, “You brought me this man as one who was inciting the people, and here I have examined him in your presence and have not found this man guilty of any of your charges against him."
+    },
+    {
+      "block_id": "esth-gr-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Neither has Herod, for he sent him back to us. Indeed, he has done nothing to deserve death."
+    },
+    {
+      "block_id": "esth-gr-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I will therefore have him flogged and release him.”,"
+    },
+    {
+      "block_id": "esth-gr-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then they all shouted out together, “Away with this fellow! Release Barabbas for us!”"
+    },
+    {
+      "block_id": "esth-gr-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "(This was a man who had been put in prison for an insurrection that had taken place in the city and for murder.)"
+    },
+    {
+      "block_id": "esth-gr-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Pilate, wanting to release Jesus, addressed them again,"
+    },
+    {
+      "block_id": "esth-gr-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "but they kept shouting, “Crucify, crucify him!”"
+    },
+    {
+      "block_id": "esth-gr-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "A third time he said to them, “Why, what evil has he done? I have found in him no ground for the sentence of death; I will therefore have him flogged and then release him.”"
+    },
+    {
+      "block_id": "esth-gr-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But they kept urgently demanding with loud shouts that he should be crucified, and their voices prevailed."
+    },
+    {
+      "block_id": "esth-gr-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "So Pilate gave his verdict that their demand should be granted."
+    },
+    {
+      "block_id": "esth-gr-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "He released the man they asked for, the one who had been put in prison for insurrection and murder, and he handed Jesus over as they wished."
+    },
+    {
+      "block_id": "esth-gr-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "As they led him away, they seized a man, Simon of Cyrene, who was coming from the country, and they laid the cross on him and made him carry it behind Jesus."
+    },
+    {
+      "block_id": "esth-gr-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "A great number of the people followed him, and among them were women who were beating their breasts and wailing for him."
+    },
+    {
+      "block_id": "esth-gr-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children."
+    },
+    {
+      "block_id": "esth-gr-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For the days are surely coming when they will say, ‘Blessed are the barren, and the wombs that never bore, and the breasts that never nursed.’"
+    },
+    {
+      "block_id": "esth-gr-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Then they will begin to say to the mountains, ‘Fall on us,’ and to the hills, ‘Cover us.’"
+    },
+    {
+      "block_id": "esth-gr-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "For if they do this when the wood is green, what will happen when it is dry?”"
+    },
+    {
+      "block_id": "esth-gr-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Two others also, who were criminals, were led away to be put to death with him."
+    },
+    {
+      "block_id": "esth-gr-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When they came to the place that is called The Skull, they crucified Jesus there with the criminals, one on his right and one on his left. [["
+    },
+    {
+      "block_id": "esth-gr-23-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Then Jesus said, “Father, forgive them, for they do not know what they are doing.”]] And they cast lots to divide his clothing."
+    },
+    {
+      "block_id": "esth-gr-23-35",
+      "type": "verse",
+      "number": 35,
+      "text": "And the people stood by watching, but the leaders scoffed at him, saying, “He saved others; let him save himself if he is the Messiah of God, his chosen one!”"
+    },
+    {
+      "block_id": "esth-gr-23-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The soldiers also mocked him, coming up and offering him sour wine"
+    },
+    {
+      "block_id": "esth-gr-23-37",
+      "type": "verse",
+      "number": 37,
+      "text": "and saying, “If you are the King of the Jews, save yourself!”"
+    },
+    {
+      "block_id": "esth-gr-23-38",
+      "type": "verse",
+      "number": 38,
+      "text": "There was also an inscription over him, “This is the King of the Jews.”"
+    },
+    {
+      "block_id": "esth-gr-23-39",
+      "type": "verse",
+      "number": 39,
+      "text": "One of the criminals who were hanged there kept deriding him and saying, “Are you not the Messiah? Save yourself and us!”"
+    },
+    {
+      "block_id": "esth-gr-23-40",
+      "type": "verse",
+      "number": 40,
+      "text": "But the other rebuked him, saying, “Do you not fear God, since you are under the same sentence of condemnation?"
+    },
+    {
+      "block_id": "esth-gr-23-41",
+      "type": "verse",
+      "number": 41,
+      "text": "And we indeed have been condemned justly, for we are getting what we deserve for our deeds, but this man has done nothing wrong.”"
+    },
+    {
+      "block_id": "esth-gr-23-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Then he said, “Jesus, remember me when you come in your kingdom.”"
+    },
+    {
+      "block_id": "esth-gr-23-43",
+      "type": "verse",
+      "number": 43,
+      "text": "He replied, “Truly I tell you, today you will be with me in paradise.”"
+    },
+    {
+      "block_id": "esth-gr-23-44",
+      "type": "verse",
+      "number": 44,
+      "text": "It was now about noon, and darkness came over the whole land until three in the afternoon,"
+    },
+    {
+      "block_id": "esth-gr-23-45",
+      "type": "verse",
+      "number": 45,
+      "text": "while the sun’s light failed, and the curtain of the temple was torn in two."
+    },
+    {
+      "block_id": "esth-gr-23-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Then Jesus, crying out with a loud voice, said, “Father, into your hands I commend my spirit.” Having said this, he breathed his last."
+    },
+    {
+      "block_id": "esth-gr-23-47",
+      "type": "verse",
+      "number": 47,
+      "text": "When the centurion saw what had taken place, he praised God and said, “Certainly this man was innocent.”,"
+    },
+    {
+      "block_id": "esth-gr-23-48",
+      "type": "verse",
+      "number": 48,
+      "text": "And when all the crowds who had gathered there for this spectacle saw what had taken place, they returned home, beating their breasts."
+    },
+    {
+      "block_id": "esth-gr-23-49",
+      "type": "verse",
+      "number": 49,
+      "text": "But all his acquaintances, including the women who had followed him from Galilee, stood at a distance watching these things."
+    },
+    {
+      "block_id": "esth-gr-23-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Now there was a good and righteous man named Joseph who, though a member of the council,"
+    },
+    {
+      "block_id": "esth-gr-23-51",
+      "type": "verse",
+      "number": 51,
+      "text": "had not agreed to their plan and action. He came from the Jewish town of Arimathea, and he was waiting expectantly for the kingdom of God."
+    },
+    {
+      "block_id": "esth-gr-23-52",
+      "type": "verse",
+      "number": 52,
+      "text": "This man went to Pilate and asked for the body of Jesus."
+    },
+    {
+      "block_id": "esth-gr-23-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Then he took it down, wrapped it in a linen cloth, and laid it in a rock-hewn tomb where no one had ever been laid."
+    },
+    {
+      "block_id": "esth-gr-23-54",
+      "type": "verse",
+      "number": 54,
+      "text": "It was the day of Preparation, and the Sabbath was beginning.,"
+    },
+    {
+      "block_id": "esth-gr-23-55",
+      "type": "verse",
+      "number": 55,
+      "text": "The women who had come with him from Galilee followed, and they saw the tomb and how his body was laid."
+    },
+    {
+      "block_id": "esth-gr-23-56",
+      "type": "verse",
+      "number": 56,
+      "text": "Then they returned and prepared spices and ointments."
+    }
+  ]
+}

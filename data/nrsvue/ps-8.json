@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-8",
+  "title": "Psalms 8",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, our Sovereign,"
+    },
+    {
+      "block_id": "ps-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Out of the mouths of babes and infants"
+    },
+    {
+      "block_id": "ps-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When I look at your heavens, the work of your fingers,"
+    },
+    {
+      "block_id": "ps-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "what are humans that you are mindful of them,"
+    },
+    {
+      "block_id": "ps-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Yet you have made them a little lower than God"
+    },
+    {
+      "block_id": "ps-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You have given them dominion over the works of your hands;"
+    },
+    {
+      "block_id": "ps-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "all sheep and oxen,"
+    },
+    {
+      "block_id": "ps-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "the birds of the air, and the fish of the sea,"
+    },
+    {
+      "block_id": "ps-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "O Lord, our Sovereign,"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "document_id": "bom-1-ne-hardy-008_FM_other_2",
+  "title": "1 Nephi (Hardy Annotated)",
+  "type": "study-bible",
+  "translation": "Hardy Annotated",
+  "blocks": [
+    {
+      "block_id": "bom-1-ne-1-0-commentary-1",
+      "type": "commentary",
+      "text": "An account written by the hand of Mormon upon plates, taken from the plates of Nephi—"
+    },
+    {
+      "block_id": "bom-1-ne-1-0-commentary-2",
+      "type": "commentary",
+      "text": "Which is to show—"
+    },
+    {
+      "block_id": "bom-1-ne-1-0-commentary-3",
+      "type": "commentary",
+      "text": "And now, if there are faults they are the mistakes of men—"
+    }
+  ]
+}

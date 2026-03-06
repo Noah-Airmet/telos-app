@@ -1,0 +1,323 @@
+{
+  "document_id": "mark-1",
+  "title": "Mark 1",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "mark-1-heading-0",
+      "type": "heading",
+      "text": "The Mission of John the Baptist"
+    },
+    {
+      "block_id": "mark-1-heading-1",
+      "type": "heading",
+      "text": "The Baptism of Jesus"
+    },
+    {
+      "block_id": "mark-1-heading-2",
+      "type": "heading",
+      "text": "The Temptation of Jesus"
+    },
+    {
+      "block_id": "mark-1-heading-3",
+      "type": "heading",
+      "text": "Jesus Preaches in Galilee"
+    },
+    {
+      "block_id": "mark-1-heading-4",
+      "type": "heading",
+      "text": "Jesus Calls His First Disciples"
+    },
+    {
+      "block_id": "mark-1-heading-5",
+      "type": "heading",
+      "text": "Jesus Expels an Evil Spirit"
+    },
+    {
+      "block_id": "mark-1-heading-6",
+      "type": "heading",
+      "text": "Jesus Heals at Peter's House"
+    },
+    {
+      "block_id": "mark-1-heading-7",
+      "type": "heading",
+      "text": "Jesus Prays and Preaches"
+    },
+    {
+      "block_id": "mark-1-heading-8",
+      "type": "heading",
+      "text": "The Leper's Prayer"
+    },
+    {
+      "block_id": "mark-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The beginning of the gospel of Jesus Christ, the Son of God;"
+    },
+    {
+      "block_id": "mark-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+    },
+    {
+      "block_id": "mark-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+    },
+    {
+      "block_id": "mark-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins."
+    },
+    {
+      "block_id": "mark-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins."
+    },
+    {
+      "block_id": "mark-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
+    },
+    {
+      "block_id": "mark-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."
+    },
+    {
+      "block_id": "mark-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
+    },
+    {
+      "block_id": "mark-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan."
+    },
+    {
+      "block_id": "mark-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:"
+    },
+    {
+      "block_id": "mark-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."
+    },
+    {
+      "block_id": "mark-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And immediately the Spirit driveth him into the wilderness."
+    },
+    {
+      "block_id": "mark-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him."
+    },
+    {
+      "block_id": "mark-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+    },
+    {
+      "block_id": "mark-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+    },
+    {
+      "block_id": "mark-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+    },
+    {
+      "block_id": "mark-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
+    },
+    {
+      "block_id": "mark-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And straightway they forsook their nets, and followed him."
+    },
+    {
+      "block_id": "mark-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets."
+    },
+    {
+      "block_id": "mark-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him."
+    },
+    {
+      "block_id": "mark-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
+    },
+    {
+      "block_id": "mark-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes."
+    },
+    {
+      "block_id": "mark-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+    },
+    {
+      "block_id": "mark-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
+    },
+    {
+      "block_id": "mark-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
+    },
+    {
+      "block_id": "mark-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
+    },
+    {
+      "block_id": "mark-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him."
+    },
+    {
+      "block_id": "mark-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And immediately his fame spread abroad throughout all the region round about Galilee."
+    },
+    {
+      "block_id": "mark-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John."
+    },
+    {
+      "block_id": "mark-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "But Simon's wife's mother lay sick of a fever, and anon they tell him of her."
+    },
+    {
+      "block_id": "mark-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them."
+    },
+    {
+      "block_id": "mark-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils."
+    },
+    {
+      "block_id": "mark-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And all the city was gathered together at the door."
+    },
+    {
+      "block_id": "mark-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him."
+    },
+    {
+      "block_id": "mark-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
+    },
+    {
+      "block_id": "mark-1-36",
+      "type": "verse",
+      "number": 36,
+      "text": "And Simon and they that were with him followed after him."
+    },
+    {
+      "block_id": "mark-1-37",
+      "type": "verse",
+      "number": 37,
+      "text": "And when they had found him, they said unto him, All men seek for thee."
+    },
+    {
+      "block_id": "mark-1-38",
+      "type": "verse",
+      "number": 38,
+      "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth."
+    },
+    {
+      "block_id": "mark-1-39",
+      "type": "verse",
+      "number": 39,
+      "text": "And he preached in their synagogues throughout all Galilee, and cast out devils."
+    },
+    {
+      "block_id": "mark-1-40",
+      "type": "verse",
+      "number": 40,
+      "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+    },
+    {
+      "block_id": "mark-1-41",
+      "type": "verse",
+      "number": 41,
+      "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+    },
+    {
+      "block_id": "mark-1-42",
+      "type": "verse",
+      "number": 42,
+      "text": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+    },
+    {
+      "block_id": "mark-1-43",
+      "type": "verse",
+      "number": 43,
+      "text": "And he straitly charged him, and forthwith sent him away;"
+    },
+    {
+      "block_id": "mark-1-44",
+      "type": "verse",
+      "number": 44,
+      "text": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+    },
+    {
+      "block_id": "mark-1-45",
+      "type": "verse",
+      "number": 45,
+      "text": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
+    }
+  ]
+}
