@@ -10,7 +10,14 @@ import {
   type TextAnchor,
 } from "../db/db";
 import type { BookEntry, TranslationManifest } from "../lib/scripture";
-import { loadDocument } from "../lib/scripture";
+import {
+  blockContainsCompareUnit,
+  buildCompareUnitIndex,
+  getBlockPrimaryCompareUnitId,
+  hasFullComparisonCoverage,
+  haveComparableOverlap,
+  loadDocument,
+} from "../lib/scripture";
 import { VerseBlock } from "./VerseBlock";
 import { useAuth } from "../context/AuthContext";
 import { lookupDictionaryEntries } from "../lib/studyTools";
@@ -51,8 +58,8 @@ interface ReadingPaneProps {
   onToggleComparisonDiffs?: () => void;
   // Sync
   isActivePane?: boolean;
-  onVisibleBlockChange?: (blockId: string) => void;
-  syncBlockId?: string;
+  onVisibleCompareUnitChange?: (compareUnitId: string) => void;
+  syncCompareUnitId?: string;
   onAddNote?: (anchor: TextAnchor) => void;
   activePlanLabel?: string | null;
   onHeaderPointerDown?: PointerEventHandler<HTMLElement>;
@@ -89,8 +96,8 @@ export function ReadingPane({
   showComparisonDiffs,
   onToggleComparisonDiffs,
   isActivePane,
-  onVisibleBlockChange,
-  syncBlockId,
+  onVisibleCompareUnitChange,
+  syncCompareUnitId,
   onAddNote,
   activePlanLabel,
   onHeaderPointerDown,
