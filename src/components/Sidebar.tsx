@@ -115,6 +115,7 @@ interface SidebarProps {
   authMode: "local" | "cloud";
   userName: string | null;
   onSignOut: () => Promise<void>;
+  onCollapse: () => void;
   onSelectTranslation: (profile: string) => void;
   onSelectBook: (book: BookEntry) => void;
   onSelectChapter: (chapter: number) => void;
@@ -131,6 +132,7 @@ export function Sidebar({
   authMode,
   userName,
   onSignOut,
+  onCollapse,
   onSelectTranslation,
   onSelectBook,
   onSelectChapter,
@@ -143,6 +145,7 @@ export function Sidebar({
   const [expandedWork, setExpandedWork]         = useState<string | null>(null);
   const [expandedBook, setExpandedBook]         = useState<string | null>(null); // book_id whose chapter grid is open
   const [showSettings, setShowSettings]         = useState(false);
+  const [showFilters, setShowFilters]           = useState(false);
   const [dictionaryCount, setDictionaryCount]   = useState(0);
   const [dictionaryLabel, setDictionaryLabel]   = useState<string | null>(null);
   const [importMessage, setImportMessage]       = useState<string | null>(null);
@@ -232,29 +235,38 @@ export function Sidebar({
   // ── Render ───────────────────────────────────────────────────────────────────
 
   return (
-    <aside className="w-72 flex-shrink-0 border-r border-[var(--border-color)] bg-[var(--bg-app)] flex flex-col select-none">
+    <aside className="w-full flex-shrink-0 bg-[var(--bg-app)] flex flex-col select-none">
 
       {/* ── Header ── */}
       <div className="px-4 pt-4 pb-3 border-b border-[var(--border-color)] flex items-center justify-between">
         <div>
-          <h1 className="text-sm font-semibold tracking-tight leading-none">Telos</h1>
-          <p className="text-[10px] text-[var(--text-secondary)] mt-1 uppercase tracking-[0.16em]">Library</p>
+          <h1 className="text-2xl font-black uppercase tracking-[-0.06em] leading-none text-white">Telos</h1>
+          <p className="shell-kicker mt-2">Library</p>
         </div>
         <div className="flex items-center gap-2">
-          <span className={`text-[9px] px-1.5 py-0.5 rounded font-medium uppercase tracking-[0.14em] ${
+          <span className={`shell-meta ${
             authMode === "cloud"
-              ? "bg-blue-100 text-blue-600 dark:bg-blue-900/40 dark:text-blue-400"
-              : "bg-[var(--border-color)] text-[var(--text-secondary)]"
+              ? "text-white"
+              : ""
           }`}>
             {authMode === "cloud" ? "Sync" : "Local"}
           </span>
           <button
+            onClick={onCollapse}
+            title="Collapse library"
+            className="h-8 w-8 flex items-center justify-center border border-[var(--border-color)] text-[var(--text-secondary)] transition-colors hover:text-[var(--text-primary)]"
+          >
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M8.5 2.5 4.5 6l4 3.5"/>
+            </svg>
+          </button>
+          <button
             onClick={() => setShowSettings((v) => !v)}
             title="Settings"
-            className={`w-7 h-7 rounded-md flex items-center justify-center text-sm transition-colors ${
+            className={`h-8 w-8 flex items-center justify-center border border-[var(--border-color)] text-sm transition-colors ${
               showSettings
-                ? "bg-gray-200 dark:bg-gray-700 text-[var(--text-primary)]"
-                : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-800"
+                ? "bg-white text-black border-white"
+                : "text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
             }`}
           >
             {/* gear icon via unicode */}
@@ -271,16 +283,16 @@ export function Sidebar({
         <div className="border-b border-[var(--border-color)] bg-[var(--bg-canvas)] divide-y divide-[var(--border-color)]">
           {/* Auth row */}
           <div className="px-4 py-3">
-            <p className="text-[10px] uppercase tracking-[0.14em] text-[var(--text-secondary)] mb-2">Account</p>
+            <p className="shell-kicker mb-2">Account</p>
             {authStatus === "authenticated" ? (
               <div className="flex items-center gap-2">
                 <div className="flex-1 min-w-0">
                   <p className="text-xs text-[var(--text-primary)] truncate">{userName ?? "Google user"}</p>
-                  <p className="text-[10px] text-[var(--text-secondary)]">Signed in</p>
+                  <p className="shell-meta mt-1">Signed in</p>
                 </div>
                 <button
                   onClick={() => void onSignOut()}
-                  className="text-[11px] px-2 py-1 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors whitespace-nowrap"
+                  className="shell-button whitespace-nowrap"
                 >
                   Sign out
                 </button>
@@ -293,9 +305,9 @@ export function Sidebar({
           {/* Dictionary row */}
           <div className="px-4 py-3 space-y-2">
             <div className="flex items-center justify-between">
-              <p className="text-[10px] uppercase tracking-[0.14em] text-[var(--text-secondary)]">Private Dictionary</p>
+              <p className="shell-kicker">Private Dictionary</p>
               {dictionaryCount > 0 && (
-                <span className="text-[10px] text-[var(--text-secondary)]">{dictionaryCount} entries</span>
+                <span className="shell-meta">{dictionaryCount} entries</span>
               )}
             </div>
             <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
@@ -320,7 +332,7 @@ export function Sidebar({
                     .finally(() => { e.target.value = ""; });
                 }}
               />
-              <span className="block w-full text-center text-[11px] px-2 py-1.5 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
+              <span className="shell-button block w-full text-center cursor-pointer">
                 Import Dictionary JSON
               </span>
             </label>
@@ -333,49 +345,63 @@ export function Sidebar({
 
       {/* ── Search ── */}
       <div className="px-3 pt-3 pb-2">
-        <div className="relative">
-          <svg
-            className="absolute left-2.5 top-1/2 -translate-y-1/2 text-[var(--text-secondary)] pointer-events-none"
-            width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"
-          >
-            <circle cx="6.5" cy="6.5" r="4.5"/>
-            <path d="M10.5 10.5L14 14"/>
-          </svg>
-          <input
-            type="text"
-            placeholder="Search library..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-[var(--bg-canvas)] border border-[var(--border-color)] rounded-lg pl-7 pr-7 py-1.5 text-xs placeholder:text-[var(--text-secondary)] text-[var(--text-primary)] focus:outline-none focus:border-[var(--text-secondary)] transition-colors"
-          />
-          {searchQuery && (
-            <button
-              onClick={() => setSearchQuery("")}
-              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"
-            >
-              <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
-                <path d="M1 1l10 10M11 1L1 11"/>
-              </svg>
-            </button>
-          )}
-        </div>
-      </div>
-
-      {/* ── Filter pills ── */}
-      <div className="px-3 pb-3 flex gap-1.5 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-        {FILTERS.map((f) => (
+        <div className="flex items-start gap-2">
+          <div className="relative min-w-0 flex-1">
+            <input
+              type="text"
+              placeholder="SEARCH LIBRARY..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="shell-input shell-search-input w-full px-3 pr-9"
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery("")}
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"
+              >
+                <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+                  <path d="M1 1l10 10M11 1L1 11"/>
+                </svg>
+              </button>
+            )}
+          </div>
           <button
-            key={f.id}
-            onClick={() => setActiveFilter(f.id)}
-            className={`flex-shrink-0 px-2.5 py-0.5 rounded-full text-[11px] font-medium transition-colors ${
-              activeFilter === f.id
-                ? "bg-[var(--text-primary)] text-[var(--bg-app)]"
-                : "bg-[var(--border-color)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
-            }`}
+            type="button"
+            onClick={() => setShowFilters((value) => !value)}
+            className={`shell-button shell-icon-button ${showFilters ? "shell-button-primary" : ""}`}
+            title="Filters"
           >
-            {f.label}
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M1.5 2.25h9M3.5 6h5M5 9.75h2"/>
+            </svg>
           </button>
-        ))}
+        </div>
+        {showFilters && (
+          <div className="mt-2 border border-[var(--border-color)] bg-[var(--surface-overlay)] p-2">
+            <div className="mb-2 flex items-center justify-between">
+              <span className="shell-kicker">Filters</span>
+              <span className="shell-meta">{FILTERS.find((filter) => filter.id === activeFilter)?.label}</span>
+            </div>
+            <div className="grid grid-cols-2 gap-2">
+              {FILTERS.map((f) => (
+                <button
+                  key={f.id}
+                  onClick={() => {
+                    setActiveFilter(f.id);
+                    setShowFilters(false);
+                  }}
+                  className={`shell-button justify-center px-2 py-2 ${
+                    activeFilter === f.id
+                      ? "shell-button-primary"
+                      : ""
+                  }`}
+                >
+                  {f.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
 
       {/* ── Library tree ── */}
@@ -396,11 +422,11 @@ export function Sidebar({
                 >
                   <path d="M2 1l4 3-4 3V1z"/>
                 </svg>
-                <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-[var(--text-secondary)] group-hover:text-[var(--text-primary)] transition-colors">
+                <span className="shell-kicker group-hover:text-[var(--text-primary)] transition-colors">
                   {collection.label}
                 </span>
                 {collection.works.length > 0 && (
-                  <span className="ml-auto text-[10px] text-[var(--text-secondary)] opacity-50 tabular-nums">
+                  <span className="ml-auto shell-meta tabular-nums">
                     {collection.works.filter((w) => w.profile).length}/{collection.works.length}
                   </span>
                 )}
@@ -411,11 +437,11 @@ export function Sidebar({
                 <div className="pb-1">
                   {collection.id === "my-library" && collection.works.length === 0 ? (
                     /* My Library empty state */
-                    <div className="mx-3 mb-2 px-3 py-3 rounded-lg border border-dashed border-[var(--border-color)] text-center">
+                    <div className="mx-3 mb-2 px-3 py-3 border border-dashed border-[var(--border-color)] text-center">
                       <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
                         Import any EPUB to read and annotate it alongside your scripture study.
                       </p>
-                      <button className="mt-2 text-[11px] px-3 py-1 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-[var(--text-primary)]">
+                      <button className="shell-button mt-2">
                         + Import EPUB
                       </button>
                     </div>
@@ -434,9 +460,9 @@ export function Sidebar({
                             title={!isLive ? `${work.label} — coming soon` : undefined}
                             className={`w-full flex items-start gap-2.5 px-4 py-2 text-left transition-colors ${
                               isActive
-                                ? "bg-gray-200/80 dark:bg-gray-800/80"
+                                ? "bg-white/8"
                                 : isLive
-                                  ? "hover:bg-gray-100 dark:hover:bg-gray-800/50"
+                                  ? "hover:bg-white/4"
                                   : "opacity-35 cursor-default"
                             }`}
                           >
@@ -447,11 +473,11 @@ export function Sidebar({
 
                             {/* Title + meta */}
                             <div className="min-w-0 flex-1">
-                              <p className={`text-xs leading-snug ${isActive ? "font-medium text-[var(--text-primary)]" : "text-[var(--text-primary)]"}`}>
+                              <p className={`text-xs leading-snug uppercase tracking-[0.02em] ${isActive ? "font-bold text-[var(--text-primary)]" : "text-[var(--text-primary)]"}`}>
                                 {work.label}
                               </p>
                               {work.meta && (
-                                <p className="text-[10px] text-[var(--text-secondary)] mt-0.5 leading-tight">
+                                <p className="shell-meta mt-1 leading-tight">
                                   {work.meta}
                                 </p>
                               )}
@@ -459,7 +485,7 @@ export function Sidebar({
 
                             {/* Coming soon badge */}
                             {!isLive && (
-                              <span className="flex-shrink-0 mt-0.5 text-[9px] px-1.5 py-0.5 rounded bg-[var(--border-color)] text-[var(--text-secondary)] uppercase tracking-wide font-medium">
+                              <span className="flex-shrink-0 mt-0.5 shell-meta">
                                 Soon
                               </span>
                             )}
@@ -493,10 +519,10 @@ export function Sidebar({
                                         onSelectBook(book);
                                         setExpandedBook(isBookExpanded ? null : book.book_id);
                                       }}
-                                      className={`w-full text-left px-2 py-1 text-[11px] rounded-md transition-colors flex items-center justify-between gap-1 ${
+                                    className={`w-full text-left px-2 py-1 text-[11px] transition-colors flex items-center justify-between gap-1 ${
                                         isActiveBook
                                           ? "text-[var(--text-primary)] font-medium"
-                                          : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100/80 dark:hover:bg-gray-800/40"
+                                          : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-white/5"
                                       }`}
                                     >
                                       <span className="truncate">{book.name}</span>
@@ -550,10 +576,10 @@ export function Sidebar({
                                                   if (!isActiveBook) onSelectBook(book);
                                                   onSelectChapter(c.chapter as number);
                                                 }}
-                                                className={`h-6 text-[10px] rounded transition-colors tabular-nums ${
+                                                className={`h-6 text-[10px] transition-colors tabular-nums ${
                                                   isActiveChapter
-                                                    ? "bg-[var(--text-primary)] text-[var(--bg-app)] font-semibold"
-                                                    : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-[var(--text-primary)]"
+                                                    ? "bg-white text-black font-semibold"
+                                                    : "text-[var(--text-secondary)] hover:bg-white/6 hover:text-[var(--text-primary)]"
                                                 }`}
                                               >
                                                 {c.chapter}
@@ -589,11 +615,11 @@ export function Sidebar({
 
       {/* ── Footer ── */}
       <div className="px-4 py-2.5 border-t border-[var(--border-color)] flex items-center justify-between">
-        <span className="text-[10px] text-[var(--text-secondary)]">
+        <span className="shell-meta">
           {liveCount} of {LIBRARY.flatMap((c) => c.works).filter((w) => w.profile).length} works available
         </span>
         {authMode === "cloud" && (
-          <span className="text-[10px] text-[var(--text-secondary)] flex items-center gap-1">
+          <span className="shell-meta flex items-center gap-1">
             <svg width="8" height="8" viewBox="0 0 10 10" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round">
               <path d="M5 8V2M2 5l3-3 3 3"/>
             </svg>

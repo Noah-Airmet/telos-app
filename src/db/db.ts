@@ -129,11 +129,124 @@ export interface ReadingState {
   updated_at: number;
 }
 
+export type PreferredWorkspace = "reader" | "planner";
+
+export type LessonPlanType =
+  | "elders-quorum"
+  | "gospel-doctrine"
+  | "talk-prep"
+  | "custom";
+
+export type LessonPlanStatus = "draft" | "archived";
+
+export type LessonBlockKind =
+  | "heading"
+  | "text"
+  | "scripture"
+  | "quote"
+  | "question"
+  | "checklist";
+
+export type LessonSourceType = "scripture" | "note" | "quote" | "manual";
+
+export interface LessonPlan {
+  id: string;
+  title: string;
+  type: LessonPlanType;
+  status: LessonPlanStatus;
+  last_opened_at: number;
+  created_at: number;
+  updated_at: number;
+}
+
+export interface LessonBlock {
+  id: string;
+  lesson_plan_id: string;
+  kind: LessonBlockKind;
+  content: string;
+  order: number;
+  source_id?: string;
+  reference_label?: string;
+  anchor?: TextAnchor;
+}
+
+export interface LessonSource {
+  id: string;
+  lesson_plan_id: string;
+  source_type: LessonSourceType;
+  label: string;
+  content: string;
+  reference_label?: string;
+  anchor?: TextAnchor;
+  note_id?: string;
+  created_at: number;
+}
+
+export interface PlannerState {
+  id: string;
+  last_opened_plan_id?: string | null;
+  preferred_workspace?: PreferredWorkspace | null;
+  pinned_plan_ids?: string[];
+  updated_at: number;
+}
+
+export type AppPaneType =
+  | "reading"
+  | "plannerHome"
+  | "plannerOutline"
+  | "notes"
+  | "captureTray";
+
+export interface ReadingPaneState {
+  profile: string | null;
+  book_id: string | null;
+  chapter: number;
+  sync_group_id?: string | null;
+  linked_to_pane_id?: string | null;
+  show_comparison_diffs?: boolean;
+}
+
+export interface PlannerHomePaneState {
+  emphasis?: "recent" | "templates";
+}
+
+export interface PlannerOutlinePaneState {
+  plan_id: string | null;
+}
+
+export interface NotesPaneState {
+  draft_anchor?: TextAnchor | null;
+}
+
+export interface CaptureTrayPaneState {
+  plan_id: string | null;
+}
+
+export type AppPaneDescriptor =
+  | { id: string; type: "reading"; state: ReadingPaneState }
+  | { id: string; type: "plannerHome"; state: PlannerHomePaneState }
+  | { id: string; type: "plannerOutline"; state: PlannerOutlinePaneState }
+  | { id: string; type: "notes"; state: NotesPaneState }
+  | { id: string; type: "captureTray"; state: CaptureTrayPaneState };
+
+export interface ShellLayoutState {
+  id: string;
+  active_pane_id: string | null;
+  panes: AppPaneDescriptor[];
+  pane_widths?: Record<string, number>;
+  updated_at: number;
+}
+
 const HIGHLIGHTS_KEY = "telos_highlights";
 const NOTES_KEY = "telos_notes";
 const READING_STATE_KEY = "telos_reading_state";
 const DICTIONARY_ENTRIES_KEY = "telos_dictionary_entries";
 const STUDY_INDEX_KEY = "telos_study_indices";
+const LESSON_PLANS_KEY = "telos_lesson_plans";
+const LESSON_BLOCKS_KEY = "telos_lesson_blocks";
+const LESSON_SOURCES_KEY = "telos_lesson_sources";
+const PLANNER_STATE_KEY = "telos_planner_state";
+const SHELL_LAYOUT_STATE_KEY = "telos_shell_layout_state";
 const STUDY_STORAGE_EVENT = "telos-study-storage-change";
 
 function readLocalValue<T>(key: string, fallback: T): T {
@@ -164,6 +277,11 @@ export function subscribeToLocalStudyData(onChange: () => void): () => void {
         READING_STATE_KEY,
         DICTIONARY_ENTRIES_KEY,
         STUDY_INDEX_KEY,
+        LESSON_PLANS_KEY,
+        LESSON_BLOCKS_KEY,
+        LESSON_SOURCES_KEY,
+        PLANNER_STATE_KEY,
+        SHELL_LAYOUT_STATE_KEY,
       ].includes(event.key ?? "")
     ) {
       onChange();
@@ -249,4 +367,102 @@ export function getLocalStudyIndices(): StudyIndexEntry[] {
 
 export function saveLocalStudyIndices(entries: StudyIndexEntry[]) {
   writeLocalValue(STUDY_INDEX_KEY, entries);
+}
+
+export function getLocalLessonPlans(): LessonPlan[] {
+  return readLocalValue<LessonPlan[]>(LESSON_PLANS_KEY, []);
+}
+
+export function saveLocalLessonPlan(lessonPlan: LessonPlan) {
+  const plans = getLocalLessonPlans();
+  const index = plans.findIndex((item) => item.id === lessonPlan.id);
+
+  if (index >= 0) {
+    plans[index] = lessonPlan;
+  } else {
+    plans.push(lessonPlan);
+  }
+
+  writeLocalValue(LESSON_PLANS_KEY, plans);
+}
+
+export function deleteLocalLessonPlan(id: string) {
+  writeLocalValue(
+    LESSON_PLANS_KEY,
+    getLocalLessonPlans().filter((plan) => plan.id !== id)
+  );
+  writeLocalValue(
+    LESSON_BLOCKS_KEY,
+    getLocalLessonBlocks().filter((block) => block.lesson_plan_id !== id)
+  );
+  writeLocalValue(
+    LESSON_SOURCES_KEY,
+    getLocalLessonSources().filter((source) => source.lesson_plan_id !== id)
+  );
+}
+
+export function getLocalLessonBlocks(planId?: string): LessonBlock[] {
+  const blocks = readLocalValue<LessonBlock[]>(LESSON_BLOCKS_KEY, []);
+  return planId ? blocks.filter((block) => block.lesson_plan_id === planId) : blocks;
+}
+
+export function saveLocalLessonBlock(lessonBlock: LessonBlock) {
+  const blocks = getLocalLessonBlocks();
+  const index = blocks.findIndex((item) => item.id === lessonBlock.id);
+
+  if (index >= 0) {
+    blocks[index] = lessonBlock;
+  } else {
+    blocks.push(lessonBlock);
+  }
+
+  writeLocalValue(LESSON_BLOCKS_KEY, blocks);
+}
+
+export function deleteLocalLessonBlock(id: string) {
+  writeLocalValue(
+    LESSON_BLOCKS_KEY,
+    getLocalLessonBlocks().filter((block) => block.id !== id)
+  );
+}
+
+export function getLocalLessonSources(planId?: string): LessonSource[] {
+  const sources = readLocalValue<LessonSource[]>(LESSON_SOURCES_KEY, []);
+  return planId ? sources.filter((source) => source.lesson_plan_id === planId) : sources;
+}
+
+export function saveLocalLessonSource(lessonSource: LessonSource) {
+  const sources = getLocalLessonSources();
+  const index = sources.findIndex((item) => item.id === lessonSource.id);
+
+  if (index >= 0) {
+    sources[index] = lessonSource;
+  } else {
+    sources.push(lessonSource);
+  }
+
+  writeLocalValue(LESSON_SOURCES_KEY, sources);
+}
+
+export function deleteLocalLessonSource(id: string) {
+  writeLocalValue(
+    LESSON_SOURCES_KEY,
+    getLocalLessonSources().filter((source) => source.id !== id)
+  );
+}
+
+export function getLocalPlannerState(): PlannerState | null {
+  return readLocalValue<PlannerState | null>(PLANNER_STATE_KEY, null);
+}
+
+export function saveLocalPlannerState(plannerState: PlannerState) {
+  writeLocalValue(PLANNER_STATE_KEY, plannerState);
+}
+
+export function getLocalShellLayoutState(): ShellLayoutState | null {
+  return readLocalValue<ShellLayoutState | null>(SHELL_LAYOUT_STATE_KEY, null);
+}
+
+export function saveLocalShellLayoutState(shellLayoutState: ShellLayoutState) {
+  writeLocalValue(SHELL_LAYOUT_STATE_KEY, shellLayoutState);
 }

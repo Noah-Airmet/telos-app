@@ -5,9 +5,16 @@ import { useAuth } from "../context/AuthContext";
 interface NotesPanelProps {
   draftNoteTarget?: TextAnchor | null;
   onClearDraft?: () => void;
+  activePlanLabel?: string | null;
+  onSendToPlan?: (note: Note) => Promise<void> | void;
 }
 
-export function NotesPanel({ draftNoteTarget, onClearDraft }: NotesPanelProps) {
+export function NotesPanel({
+  draftNoteTarget,
+  onClearDraft,
+  activePlanLabel,
+  onSendToPlan,
+}: NotesPanelProps) {
   const { repository } = useAuth();
   const [notes, setNotes] = useState<Note[]>([]);
   const [draftText, setDraftText] = useState("");
@@ -138,16 +145,29 @@ export function NotesPanel({ draftNoteTarget, onClearDraft }: NotesPanelProps) {
 
               <div className="mt-2 flex justify-between items-center text-[10px] text-[var(--text-secondary)]">
                 <span>{new Date(note.created_at).toLocaleDateString()}</span>
-                <button
-                  onClick={() => {
-                    repository.deleteNote(note.id).catch((error) => {
-                      console.error("Failed to delete note.", error);
-                    });
-                  }}
-                  className="hover:text-red-500 transition-colors"
-                >
-                  Delete
-                </button>
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={() => {
+                      if (!onSendToPlan) return;
+                      void onSendToPlan(note);
+                    }}
+                    disabled={!onSendToPlan}
+                    title={activePlanLabel ? `Send to ${activePlanLabel}` : "Create or open a plan first"}
+                    className="transition-colors disabled:opacity-40 disabled:hover:text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
+                  >
+                    Send to Plan
+                  </button>
+                  <button
+                    onClick={() => {
+                      repository.deleteNote(note.id).catch((error) => {
+                        console.error("Failed to delete note.", error);
+                      });
+                    }}
+                    className="hover:text-red-500 transition-colors"
+                  >
+                    Delete
+                  </button>
+                </div>
               </div>
             </div>
           ))

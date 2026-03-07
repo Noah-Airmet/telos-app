@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef, useCallback, useLayoutEffect } from "react";
+import { useEffect, useState, useRef, useCallback, useLayoutEffect, type PointerEventHandler } from "react";
 import { createPortal } from "react-dom";
 import {
   getLocalDictionaryEntries,
@@ -50,6 +50,14 @@ interface ReadingPaneProps {
   onVisibleBlockChange?: (blockId: string) => void;
   syncBlockId?: string;
   onAddNote?: (anchor: TextAnchor) => void;
+  activePlanLabel?: string | null;
+  onHeaderPointerDown?: PointerEventHandler<HTMLElement>;
+  onSendSelectionToPlan?: (selection: {
+    blockId: string;
+    text: string;
+    startOffset: number;
+    endOffset: number;
+  }) => Promise<void> | void;
 }
 
 // ─── ReadingPane ───────────────────────────────────────────────────────────────
@@ -76,6 +84,9 @@ export function ReadingPane({
   onVisibleBlockChange,
   syncBlockId,
   onAddNote,
+  activePlanLabel,
+  onHeaderPointerDown,
+  onSendSelectionToPlan,
 }: ReadingPaneProps) {
   const { repository } = useAuth();
   const [doc, setDoc]               = useState<TelosDocument | null>(null);
@@ -241,6 +252,7 @@ export function ReadingPane({
     showComparisonDiffs, onToggleComparisonDiffs,
     hasComparisonProfile: !!comparisonProfile,
     isActivePane,
+    onHeaderPointerDown,
   };
 
   // ── Empty / loading ───────────────────────────────────────────────────────────
@@ -249,12 +261,12 @@ export function ReadingPane({
     return (
       <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
         <PaneHeader {...headerProps} />
-        <div className={`flex-1 flex flex-col items-center justify-center gap-2 text-[var(--text-secondary)] transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
+        <div className={`flex-1 flex flex-col items-center justify-center gap-3 px-8 text-[var(--text-secondary)] transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
           {profile ? (
-            <p className="text-sm">No matching book in this translation.</p>
+            <p className="shell-serif text-xl italic text-white/90">No matching book in this translation.</p>
           ) : (
             <>
-              <p className="text-sm">Open a resource from the library</p>
+              <p className="shell-serif text-xl italic text-white/90">Open a resource from the library.</p>
               <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" className="opacity-30">
                 <path d="M3 10h14M10 3l7 7-7 7"/>
               </svg>
@@ -269,7 +281,7 @@ export function ReadingPane({
     return (
       <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
         <PaneHeader {...headerProps} />
-        <div className={`flex-1 flex items-center justify-center text-[var(--text-secondary)] text-sm transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>Loading…</div>
+        <div className={`flex-1 flex items-center justify-center text-[var(--text-secondary)] shell-kicker transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>Loading...</div>
       </main>
     );
   }
@@ -278,8 +290,8 @@ export function ReadingPane({
     <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
       <PaneHeader {...headerProps} />
 
-      <div ref={scrollRef} className={`flex-1 overflow-y-auto px-12 pt-16 pb-12 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
-        <div className="max-w-2xl mx-auto space-y-4 text-content relative">
+      <div ref={scrollRef} className={`flex-1 overflow-y-auto px-6 pt-16 pb-12 lg:px-10 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
+        <div className="mx-auto w-full max-w-[42rem] space-y-4 text-content relative">
           {doc.blocks.map((block) => (
             <VerseBlock
               key={block.block_id}
@@ -298,7 +310,7 @@ export function ReadingPane({
         {/* Selection toolbar */}
         {selectionNode && (
           <div
-            className="fixed z-50 bg-white dark:bg-gray-800 shadow-lg border border-gray-200 dark:border-gray-700 rounded-lg p-1.5 flex gap-1 animate-in fade-in zoom-in duration-200"
+            className="fixed z-50 flex gap-1 border border-[var(--border-strong)] bg-[var(--surface-overlay)] p-1.5"
             style={{
               top: `${Math.max(10, selectionNode.rect.top - 50)}px`,
               left: `${selectionNode.rect.left + selectionNode.rect.width / 2}px`,
@@ -310,11 +322,11 @@ export function ReadingPane({
               <button
                 key={c}
                 onClick={(e) => { e.stopPropagation(); applyHighlight(c); }}
-                className="w-6 h-6 rounded-full hover:scale-110 transition-transform cursor-pointer shadow-sm border border-black/10 dark:border-white/10"
+                className="h-7 w-7 border border-white/10 transition-transform hover:scale-105"
                 style={{ backgroundColor: c }}
               />
             ))}
-            <div className="w-px h-6 bg-gray-200 dark:bg-gray-700 mx-1 self-center" />
+            <div className="mx-1 h-7 w-px self-center bg-[var(--border-color)]" />
             <button
               onClick={(e) => {
                 e.stopPropagation();
@@ -322,11 +334,11 @@ export function ReadingPane({
                 setSelectionNode(null);
                 window.getSelection()?.removeAllRanges();
               }}
-              className="text-xs font-medium px-2 py-1 rounded text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+              className="shell-button"
             >
               Note
             </button>
-            <div className="w-px h-6 bg-gray-200 dark:bg-gray-700 mx-1 self-center" />
+            <div className="mx-1 h-7 w-px self-center bg-[var(--border-color)]" />
             <button
               onClick={(e) => {
                 e.stopPropagation();
@@ -334,9 +346,29 @@ export function ReadingPane({
                 setSelectionNode(null);
                 window.getSelection()?.removeAllRanges();
               }}
-              className="text-xs font-medium px-2 py-1 rounded text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+              className="shell-button"
             >
               Dictionary
+            </button>
+            <div className="mx-1 h-7 w-px self-center bg-[var(--border-color)]" />
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                if (!selectionNode || !onSendSelectionToPlan) return;
+                void onSendSelectionToPlan({
+                  blockId: selectionNode.blockId,
+                  text: selectionNode.text,
+                  startOffset: selectionNode.startOffset,
+                  endOffset: selectionNode.endOffset,
+                });
+                setSelectionNode(null);
+                window.getSelection()?.removeAllRanges();
+              }}
+              disabled={!onSendSelectionToPlan}
+              title={activePlanLabel ? `Send to ${activePlanLabel}` : "Create or open a plan first"}
+              className="shell-button"
+            >
+              Send to Plan
             </button>
           </div>
         )}
@@ -344,7 +376,7 @@ export function ReadingPane({
         {/* Dictionary popover */}
         {selectedWord && (
           <div
-            className="fixed z-50 max-w-sm bg-white dark:bg-gray-800 shadow-lg border border-gray-200 dark:border-gray-700 rounded-lg p-3 animate-in fade-in zoom-in duration-200"
+            className="fixed z-50 max-w-sm border border-[var(--border-strong)] bg-[var(--surface-overlay)] p-4"
             style={{
               top: `${Math.min(window.innerHeight - 220, selectedWord.rect.bottom + 12)}px`,
               left: `${Math.min(window.innerWidth - 320, Math.max(16, selectedWord.rect.left))}px`,
@@ -352,16 +384,16 @@ export function ReadingPane({
           >
             <div className="flex items-start justify-between gap-4 mb-2">
               <div>
-                <div className="text-xs uppercase tracking-[0.16em] text-[var(--text-secondary)]">Dictionary Lookup</div>
-                <div className="text-base font-semibold">{selectedWord.word}</div>
+                <div className="shell-kicker">Dictionary Lookup</div>
+                <div className="mt-2 text-2xl font-black uppercase tracking-[-0.04em]">{selectedWord.word}</div>
               </div>
-              <button onClick={() => setSelectedWord(null)} className="text-xs text-[var(--text-secondary)] hover:text-[var(--text-primary)]">Close</button>
+              <button onClick={() => setSelectedWord(null)} className="shell-button shell-button-danger">Close</button>
             </div>
             {selectedWord.definitions.length > 0 ? (
               <div className="space-y-3 max-h-56 overflow-y-auto pr-1">
                 {selectedWord.definitions.map((e) => (
                   <div key={e.id}>
-                    <div className="text-[10px] uppercase tracking-[0.16em] text-[var(--text-secondary)]">{e.dictionary}</div>
+                    <div className="shell-kicker">{e.dictionary}</div>
                     <div className="text-sm leading-relaxed">{e.definition}</div>
                   </div>
                 ))}
@@ -374,10 +406,10 @@ export function ReadingPane({
 
         {/* Bottom nav */}
         <div className="max-w-2xl mx-auto flex justify-between mt-12 pt-6 border-t border-[var(--border-color)]">
-          <button onClick={onPrev} disabled={!hasPrev} className="text-sm text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-30 transition-colors">
+          <button onClick={onPrev} disabled={!hasPrev} className="shell-button border-none px-0 disabled:opacity-30">
             {hasPrev ? "← Previous" : ""}
           </button>
-          <button onClick={onNext} disabled={!hasNext} className="text-sm text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-30 transition-colors">
+          <button onClick={onNext} disabled={!hasNext} className="shell-button border-none px-0 disabled:opacity-30">
             {hasNext ? "Next →" : ""}
           </button>
         </div>
@@ -407,6 +439,7 @@ interface PaneHeaderProps {
   showComparisonDiffs?: boolean;
   onToggleComparisonDiffs?: () => void;
   isActivePane?: boolean;
+  onHeaderPointerDown?: PointerEventHandler<HTMLElement>;
 }
 
 function PaneHeader({
@@ -427,6 +460,7 @@ function PaneHeader({
   hasComparisonProfile,
   showComparisonDiffs,
   onToggleComparisonDiffs,
+  onHeaderPointerDown,
 }: PaneHeaderProps) {
   const [pickerOpen, setPickerOpen] = useState<"work" | "book" | "chapter" | null>(null);
   const [pickerRect, setPickerRect] = useState<DOMRect | null>(null);
@@ -458,7 +492,7 @@ function PaneHeader({
             {/* Transparent backdrop closes picker on click */}
             <div className="fixed inset-0 z-[9998]" onMouseDown={closePicker} />
             <div
-              className="fixed z-[9999] bg-[var(--bg-canvas)] border border-[var(--border-color)] rounded-lg shadow-xl py-1 overflow-y-auto"
+              className="fixed z-[9999] bg-[var(--surface-overlay)] border border-[var(--border-strong)] py-1 overflow-y-auto"
               style={{
                 top:      pickerRect.bottom + 6,
                 left:     pickerRect.left,
@@ -496,10 +530,10 @@ function PaneHeader({
                       <button
                         key={c.chapter}
                         onClick={() => { onSelectChapter?.(c.chapter as number); closePicker(); }}
-                        className={`w-8 h-8 text-[11px] rounded-md transition-colors ${
+                        className={`w-8 h-8 text-[11px] transition-colors ${
                           c.chapter === chapter
-                            ? "bg-[var(--text-primary)] text-[var(--bg-app)] font-semibold"
-                            : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-[var(--text-primary)]"
+                            ? "bg-white text-black font-semibold"
+                            : "text-[var(--text-secondary)] hover:bg-white/6 hover:text-[var(--text-primary)]"
                         }`}
                       >
                         {c.chapter}
@@ -516,7 +550,10 @@ function PaneHeader({
 
   return (
     <>
-      <header className="h-12 glass-header absolute top-0 left-0 right-0 z-20 border-b border-[var(--border-color)] flex items-center px-4 gap-3">
+      <header
+        className="h-12 glass-header absolute top-0 left-0 right-0 z-20 border-b border-[var(--border-color)] flex items-center px-4 gap-3"
+        onPointerDown={onHeaderPointerDown}
+      >
 
         {/* ── Breadcrumb ── */}
         <div className="flex-1 flex items-center gap-1.5 min-w-0 overflow-hidden">
@@ -525,7 +562,7 @@ function PaneHeader({
           <button
             ref={workBtnRef}
             onClick={() => openPicker("work", workBtnRef)}
-            className="flex items-center gap-0.5 text-[11px] text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors whitespace-nowrap"
+            className="flex items-center gap-1 shell-kicker hover:text-[var(--text-primary)] whitespace-nowrap"
           >
             <span>{currentTranslation?.translation ?? profile}</span>
             <ChevronDown />
@@ -539,7 +576,7 @@ function PaneHeader({
               <button
                 ref={bookBtnRef}
                 onClick={() => openPicker("book", bookBtnRef)}
-                className="flex items-center gap-0.5 text-sm font-medium text-[var(--text-primary)] hover:text-[var(--text-secondary)] transition-colors whitespace-nowrap max-w-[9rem]"
+                className="flex items-center gap-1 text-sm font-black uppercase tracking-[-0.03em] text-[var(--text-primary)] hover:text-[var(--text-secondary)] transition-colors whitespace-nowrap max-w-[9rem]"
               >
                 <span className="truncate">{book.name}</span>
                 <ChevronDown size={9} />
@@ -553,14 +590,14 @@ function PaneHeader({
                   onClick={onPrev}
                   disabled={!hasPrev}
                   title="Previous chapter"
-                  className="w-5 h-5 flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-20 disabled:cursor-default transition-colors rounded text-sm leading-none"
+                  className="w-5 h-5 flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-20 disabled:cursor-default transition-colors text-sm leading-none"
                 >
                   ‹
                 </button>
                 <button
                   ref={chapterBtnRef}
                   onClick={() => openPicker("chapter", chapterBtnRef)}
-                  className="px-1 text-[11px] text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors whitespace-nowrap"
+                  className="px-1 shell-kicker hover:text-[var(--text-primary)] whitespace-nowrap"
                 >
                   Ch. {chapter}
                 </button>
@@ -568,7 +605,7 @@ function PaneHeader({
                   onClick={onNext}
                   disabled={!hasNext}
                   title="Next chapter"
-                  className="w-5 h-5 flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-20 disabled:cursor-default transition-colors rounded text-sm leading-none"
+                  className="w-5 h-5 flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] disabled:opacity-20 disabled:cursor-default transition-colors text-sm leading-none"
                 >
                   ›
                 </button>
@@ -582,10 +619,10 @@ function PaneHeader({
           {hasComparisonProfile && onToggleComparisonDiffs && (
             <button
               onClick={onToggleComparisonDiffs}
-              className={`text-[10px] px-2 py-1 rounded-md border transition-colors uppercase tracking-[0.13em] font-medium ${
+              className={`shell-button ${
                 showComparisonDiffs
-                  ? "border-[var(--text-primary)] text-[var(--text-primary)]"
-                  : "border-[var(--border-color)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
+                  ? "shell-button-primary"
+                  : ""
               }`}
             >
               Diffs
@@ -596,7 +633,7 @@ function PaneHeader({
             <button
               onClick={onAddPane}
               title="Open new pane"
-              className="flex items-center gap-1 text-[11px] px-2 py-1 rounded-md border border-[var(--border-color)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
+              className="shell-button flex items-center gap-1"
             >
               <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="1" y="1" width="10" height="10" rx="1.5"/>
@@ -610,7 +647,7 @@ function PaneHeader({
             <button
               onClick={onClose}
               title="Close pane"
-              className="text-[11px] px-2 py-1 rounded-md border border-[var(--border-color)] text-[var(--text-secondary)] hover:text-red-500 hover:border-red-300 dark:hover:border-red-800 transition-colors"
+              className="shell-button shell-button-danger"
             >
               Close
             </button>
@@ -653,8 +690,8 @@ function DropdownItem({
       onClick={onClick}
       className={`w-full text-left px-3 py-2 text-xs transition-colors flex items-center justify-between gap-3 ${
         active
-          ? "text-[var(--text-primary)] font-medium bg-gray-100 dark:bg-gray-800"
-          : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-50 dark:hover:bg-gray-800/50"
+          ? "text-black font-medium bg-white"
+          : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-white/6"
       }`}
     >
       <span>{children}</span>

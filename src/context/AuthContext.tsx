@@ -50,7 +50,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, [services]);
 
   const cloudRepository = useMemo(() => {
-    if (!services || !user) return null;
+    if (!services || !user || user.isAnonymous) return null;
     return createFirestoreStudyRepository(services.db, user.uid);
   }, [services, user]);
 
