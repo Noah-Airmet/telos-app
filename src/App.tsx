@@ -44,6 +44,7 @@ import {
   removePaneFromLayout,
   updatePaneInLayout,
   withNotesDraftAnchor,
+  withNotesSelection,
 } from "./lib/workspace";
 
 function normalizeBookKey(value?: string | null) {
@@ -635,7 +636,7 @@ function App() {
         source_type: "note",
         label: "Study Note",
         content: note.text,
-        reference_label: note.block_id,
+        reference_label: note.reference_label ?? note.block_id,
         anchor: note.anchor,
         note_id: note.id,
         created_at: Date.now(),
@@ -700,6 +701,18 @@ function App() {
   const openNotesWithDraft = useCallback(
     (draftAnchor: TextAnchor) => {
       saveShellLayout((previous) => withNotesDraftAnchor(previous, draftAnchor));
+    },
+    [saveShellLayout]
+  );
+
+  const openNotesForSelection = useCallback(
+    (selectedNoteId: string | null) => {
+      saveShellLayout((previous) =>
+        withNotesSelection(previous, {
+          selectedNoteId,
+          scope: "currentChapter",
+        })
+      );
     },
     [saveShellLayout]
   );
@@ -799,10 +812,30 @@ function App() {
           <NotesPane
             draftNoteTarget={pane.state.draft_anchor}
             activePlanLabel={activePlan?.title ?? null}
+            activeReadingContext={{
+              workId: activeReadingLocation.book?.work_id ?? null,
+              bookLabel: activeReadingLocation.book?.name ?? null,
+              canonicalBookId: activeReadingLocation.book?.canonical_book_id ?? null,
+              chapter: activeReadingLocation.book ? activeReadingLocation.chapter : null,
+            }}
+            scope={pane.state.scope ?? "currentWork"}
+            selectedNoteId={pane.state.selected_note_id ?? null}
             isActive={isActive}
             onFocus={() => focusPane(pane.id)}
             onHeaderPointerDown={controls.onHeaderPointerDown}
             onClose={shellLayout && shellLayout.panes.length > 1 ? () => closePane(pane.id) : undefined}
+            onChangeScope={(scope) =>
+              updatePaneState(pane.id, "notes", (state) => ({
+                ...(state as Extract<AppPaneDescriptor, { type: "notes" }>["state"]),
+                scope,
+              }))
+            }
+            onSelectNote={(noteId) =>
+              updatePaneState(pane.id, "notes", (state) => ({
+                ...(state as Extract<AppPaneDescriptor, { type: "notes" }>["state"]),
+                selected_note_id: noteId,
+              }))
+            }
             onClearDraft={() =>
               updatePaneState(pane.id, "notes", (state) => ({
                 ...(state as Extract<AppPaneDescriptor, { type: "notes" }>["state"]),
@@ -938,6 +971,9 @@ function App() {
           onAddNote={openNotesWithDraft}
           activePlanLabel={activePlan?.title ?? null}
           onHeaderPointerDown={controls.onHeaderPointerDown}
+          onOpenNotesForBlock={(_blockId, noteIds) => {
+            openNotesForSelection(noteIds[0] ?? null);
+          }}
           onSendSelectionToPlan={activePlan ? captureSelectionToPlan : undefined}
         />
       );
@@ -1042,7 +1078,7 @@ function App() {
               New Reader
             </button>
             <button type="button" onClick={openPlannerHomePane} className="shell-button">
-              Planner Home
+              Workspace Home
             </button>
             <button type="button" onClick={openGlobalNotesPane} className="shell-button">
               Notes

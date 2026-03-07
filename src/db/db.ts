@@ -23,6 +23,13 @@ export interface TextAnchor {
   start_offset?: number;
   end_offset?: number;
   token_ids?: string[];
+  profile?: string;
+  work_id?: string;
+  canonical_book_id?: string;
+  chapter?: number | null;
+  verse?: number | null;
+  reference_label?: string;
+  quote?: string;
 }
 
 export interface BlockToken {
@@ -114,10 +121,26 @@ export interface Note {
   id: string;
   block_id: string;
   anchor?: TextAnchor;
+  profile?: string;
+  work_id?: string;
+  canonical_book_id?: string;
+  chapter?: number | null;
+  verse?: number | null;
+  reference_label?: string;
+  quote?: string;
   text: string;
   tags?: string[];
   created_at: number;
   updated_at: number;
+}
+
+export interface NoteQuery {
+  block_id?: string | null;
+  work_id?: string | null;
+  canonical_book_id?: string | null;
+  chapter?: number | null;
+  tags?: string[];
+  search?: string | null;
 }
 
 export interface ReadingState {
@@ -217,7 +240,11 @@ export interface PlannerOutlinePaneState {
 
 export interface NotesPaneState {
   draft_anchor?: TextAnchor | null;
+  scope?: NotesPaneScope;
+  selected_note_id?: string | null;
 }
+
+export type NotesPaneScope = "currentWork" | "currentChapter" | "allNotes";
 
 export interface CaptureTrayPaneState {
   plan_id: string | null;

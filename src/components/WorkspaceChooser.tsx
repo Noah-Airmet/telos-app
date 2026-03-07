@@ -75,7 +75,7 @@ export function WorkspaceChooser({
             BUILD
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-sm leading-7 text-[var(--text-secondary)]">
-            The reader is your calm study environment. The planner is where scriptures,
+            The reader is your calm study environment. The workspace is where scriptures,
             notes, and quotes become a teachable outline or the draft for an academic essay.
           </p>
           {lastPlan && (
@@ -96,8 +96,8 @@ export function WorkspaceChooser({
           />
 
           <WorkspaceCard
-            eyebrow="Planner"
-            title="Open Planner"
+            eyebrow="Workspace"
+            title="Open Workspace"
             description="Start from a recent lesson, choose a template, collect source material, and shape it into a structured lesson plan."
             hint={lastPlan ? "Jump back into your active lesson plan." : "Create a new document or open a recent one."}
             recommended={preferredWorkspace !== "reader"}

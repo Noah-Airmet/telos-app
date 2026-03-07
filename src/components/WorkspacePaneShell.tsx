@@ -32,7 +32,7 @@ export function WorkspacePaneShell({
       }`}
       onClick={onFocus}
     >
-      <header className="shell-pane-header" onPointerDown={onHeaderPointerDown}>
+      <header className="shell-pane-header shrink-0" onPointerDown={onHeaderPointerDown}>
         <div className="min-w-0 flex-1">
           <p className="shell-kicker">{kicker}</p>
           <div className="mt-1 flex items-end gap-3">
@@ -55,7 +55,7 @@ export function WorkspacePaneShell({
         </div>
       </header>
 
-      <div className="min-h-0 flex-1">{children}</div>
+      <div className="min-h-0 flex-1 overflow-hidden">{children}</div>
     </section>
   );
 }

@@ -32,7 +32,7 @@ export function PlannerHomePane({
 
   return (
     <WorkspacePaneShell
-      kicker="Planner Home"
+      kicker="Workspace Home"
       title="Plans"
       meta={`${lessonPlans.length} total`}
       isActive={isActive}

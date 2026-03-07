@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef, useCallback, useLayoutEffect, type PointerEventHandler } from "react";
+import { useEffect, useState, useRef, useCallback, useLayoutEffect, useMemo, type PointerEventHandler } from "react";
 import { createPortal } from "react-dom";
 import {
   getLocalDictionaryEntries,
@@ -6,6 +6,7 @@ import {
   type DictionaryEntry,
   type TelosDocument,
   type Highlight,
+  type Note,
   type TextAnchor,
 } from "../db/db";
 import type { BookEntry, TranslationManifest } from "../lib/scripture";
@@ -52,6 +53,7 @@ interface ReadingPaneProps {
   onAddNote?: (anchor: TextAnchor) => void;
   activePlanLabel?: string | null;
   onHeaderPointerDown?: PointerEventHandler<HTMLElement>;
+  onOpenNotesForBlock?: (blockId: string, noteIds: string[]) => void;
   onSendSelectionToPlan?: (selection: {
     blockId: string;
     text: string;
@@ -86,6 +88,7 @@ export function ReadingPane({
   onAddNote,
   activePlanLabel,
   onHeaderPointerDown,
+  onOpenNotesForBlock,
   onSendSelectionToPlan,
 }: ReadingPaneProps) {
   const { repository } = useAuth();
@@ -94,6 +97,7 @@ export function ReadingPane({
   const [loading, setLoading]       = useState(false);
   const scrollRef                   = useRef<HTMLDivElement>(null);
   const [highlights, setHighlights] = useState<Highlight[]>([]);
+  const [notes, setNotes] = useState<Note[]>([]);
   const [dictionaryEntries, setDictionaryEntries] = useState<DictionaryEntry[]>([]);
   const [selectedWord, setSelectedWord] = useState<{
     word: string;
@@ -117,6 +121,22 @@ export function ReadingPane({
   // ── Data subscriptions ────────────────────────────────────────────────────────
 
   useEffect(() => repository.subscribeHighlights(setHighlights), [repository]);
+
+  useEffect(() => {
+    if (!doc?.work_id) {
+      setNotes([]);
+      return;
+    }
+
+    return repository.subscribeNotesByFilter(
+      {
+        work_id: doc.work_id,
+        canonical_book_id: doc.canonical_book_id ?? undefined,
+        chapter,
+      },
+      setNotes
+    );
+  }, [chapter, doc?.canonical_book_id, doc?.work_id, repository]);
 
   useEffect(() => {
     setDictionaryEntries(getLocalDictionaryEntries());
@@ -246,10 +266,15 @@ export function ReadingPane({
     if (!syncBlockId || isActivePane) return;
     if (wasActivePane && lastVisibleBlockIdRef.current === syncBlockId) return;
 
-    const el = scrollRef.current?.querySelector(`[data-block-id="${syncBlockId}"]`);
-    if (el) {
+    const container = scrollRef.current;
+    const el = container?.querySelector<HTMLElement>(`[data-block-id="${syncBlockId}"]`);
+    if (container && el) {
+      const containerRect = container.getBoundingClientRect();
+      const elementRect = el.getBoundingClientRect();
+      const nextScrollTop = container.scrollTop + (elementRect.top - containerRect.top);
+
       lastVisibleBlockIdRef.current = syncBlockId;
-      el.scrollIntoView({ behavior: "auto", block: "start" });
+      container.scrollTo({ top: Math.max(nextScrollTop, 0), behavior: "auto" });
     }
   }, [syncBlockId, isActivePane, doc]);
 
@@ -277,6 +302,42 @@ export function ReadingPane({
     isActivePane,
     onHeaderPointerDown,
   };
+
+  const notesByBlockId = useMemo(() => {
+    const next = new Map<string, Note[]>();
+
+    for (const note of notes) {
+      const bucket = next.get(note.block_id) ?? [];
+      bucket.push(note);
+      next.set(note.block_id, bucket);
+    }
+
+    return next;
+  }, [notes]);
+
+  const buildDraftAnchor = useCallback(
+    (blockId: string, startOffset: number, endOffset: number, quote: string): TextAnchor => {
+      const block = doc?.blocks.find((entry) => entry.block_id === blockId);
+      const canonicalRef = block?.canonical_ref;
+
+      return {
+        block_id: blockId,
+        start_offset: startOffset,
+        end_offset: endOffset,
+        profile,
+        work_id: doc?.work_id,
+        canonical_book_id: doc?.canonical_book_id,
+        chapter: canonicalRef?.chapter ?? chapter,
+        verse: canonicalRef?.verse ?? null,
+        reference_label:
+          book && (canonicalRef?.chapter ?? chapter)
+            ? `${book.name} ${canonicalRef?.chapter ?? chapter}${canonicalRef?.verse ? `:${canonicalRef.verse}` : ""}`
+            : blockId,
+        quote,
+      };
+    },
+    [book, chapter, doc, profile]
+  );
 
   // ── Empty / loading ───────────────────────────────────────────────────────────
 
@@ -320,6 +381,7 @@ export function ReadingPane({
               key={block.block_id}
               block={block}
               highlights={highlights.filter((h) => h.block_id === block.block_id)}
+              noteCount={notesByBlockId.get(block.block_id)?.length ?? 0}
               comparisonText={
                 showComparisonDiffs
                   ? comparisonDoc?.blocks.find((b) => b.block_id === block.block_id)?.text
@@ -327,6 +389,14 @@ export function ReadingPane({
               }
               showComparisonDiff={Boolean(showComparisonDiffs)}
               onHighlightClick={handleHighlightClick}
+              onOpenNotes={() => {
+                const blockNotes = notesByBlockId.get(block.block_id) ?? [];
+                if (!blockNotes.length) return;
+                onOpenNotesForBlock?.(
+                  block.block_id,
+                  blockNotes.map((note) => note.id)
+                );
+              }}
             />
           ))}
         </div>
@@ -397,7 +467,16 @@ export function ReadingPane({
                   <button
                     onClick={(e) => {
                       e.stopPropagation();
-                      if (onAddNote) onAddNote({ block_id: selectionNode.blockId, start_offset: selectionNode.startOffset, end_offset: selectionNode.endOffset });
+                      if (onAddNote) {
+                        onAddNote(
+                          buildDraftAnchor(
+                            selectionNode.blockId,
+                            selectionNode.startOffset,
+                            selectionNode.endOffset,
+                            selectionNode.text
+                          )
+                        );
+                      }
                       setSelectionNode(null);
                       window.getSelection()?.removeAllRanges();
                     }}

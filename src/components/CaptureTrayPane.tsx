@@ -33,7 +33,8 @@ export function CaptureTrayPane({
       onClose={onClose}
       onHeaderPointerDown={onHeaderPointerDown}
     >
-      <div className="h-full min-h-0 overflow-y-auto p-5">
+      <div className="flex h-full min-h-0 flex-col">
+        <div className="min-h-0 flex-1 overflow-y-auto p-5">
         <div className="shell-block mb-5">
           <p className="shell-kicker">What Lives Here</p>
           <p className="mt-3 text-sm leading-7 text-[var(--text-secondary)]">
@@ -99,6 +100,7 @@ export function CaptureTrayPane({
             ))}
           </div>
         )}
+        </div>
       </div>
     </WorkspacePaneShell>
   );

@@ -3,9 +3,11 @@ import type { Block, Highlight } from "../db/db";
 interface VerseBlockProps {
   block: Block;
   highlights?: Highlight[];
+  noteCount?: number;
   comparisonText?: string;
   showComparisonDiff?: boolean;
   onHighlightClick?: (highlightId: string, rect: DOMRect) => void;
+  onOpenNotes?: () => void;
 }
 
 interface TextRange {
@@ -87,9 +89,11 @@ function buildDiffRanges(baseText: string, comparisonText?: string): TextRange[]
 export function VerseBlock({
   block,
   highlights = [],
+  noteCount = 0,
   comparisonText,
   showComparisonDiff = false,
   onHighlightClick,
+  onOpenNotes,
 }: VerseBlockProps) {
   if (block.type === "heading") {
     return (
@@ -199,11 +203,22 @@ export function VerseBlock({
       <p className="verse-text">
         {renderTextWithHighlights()}
       </p>
-      {hasComparisonDiff && (
-        <span className="mt-1 inline-flex rounded-full border border-amber-200 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-amber-700 dark:border-amber-500/40 dark:text-amber-300">
-          Diff
-        </span>
-      )}
+      <div className="mt-1 flex flex-wrap items-center gap-2">
+        {noteCount > 0 && (
+          <button
+            type="button"
+            onClick={onOpenNotes}
+            className="inline-flex rounded-full border border-[var(--border-color)] px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-[var(--text-secondary)] transition-colors hover:border-[var(--border-strong)] hover:text-[var(--text-primary)]"
+          >
+            {noteCount} Note{noteCount === 1 ? "" : "s"}
+          </button>
+        )}
+        {hasComparisonDiff && (
+          <span className="inline-flex rounded-full border border-amber-200 px-1.5 py-0.5 text-[10px] uppercase tracking-[0.14em] text-amber-700 dark:border-amber-500/40 dark:text-amber-300">
+            Diff
+          </span>
+        )}
+      </div>
     </div>
   );
 }

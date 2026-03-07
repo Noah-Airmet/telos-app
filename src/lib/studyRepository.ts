@@ -38,11 +38,13 @@ import {
   type LessonPlan,
   type LessonSource,
   type Note,
+  type NoteQuery,
   type PlannerState,
   type ReadingState,
   type ShellLayoutState,
 } from "../db/db";
 import type { Firestore } from "firebase/firestore";
+import { filterNotes, normalizeNote } from "./notes";
 
 export interface StudyRepository {
   mode: "local" | "cloud";
@@ -53,6 +55,8 @@ export interface StudyRepository {
   deleteHighlight(id: string): Promise<void>;
   listNotes(): Promise<Note[]>;
   subscribeNotes(callback: (notes: Note[]) => void): () => void;
+  listNotesByFilter(filter: NoteQuery): Promise<Note[]>;
+  subscribeNotesByFilter(filter: NoteQuery, callback: (notes: Note[]) => void): () => void;
   saveNote(note: Note): Promise<void>;
   deleteNote(id: string): Promise<void>;
   listLessonPlans(): Promise<LessonPlan[]>;
@@ -89,7 +93,7 @@ function sortHighlights(highlights: Highlight[]) {
 }
 
 function sortNotes(notes: Note[]) {
-  return [...notes].sort((a, b) => b.updated_at - a.updated_at);
+  return [...notes].map(normalizeNote).sort((a, b) => b.updated_at - a.updated_at);
 }
 
 function sortLessonPlans(lessonPlans: LessonPlan[]) {
@@ -143,8 +147,16 @@ export function createLocalStudyRepository(): StudyRepository {
         callback(sortNotes(getLocalNotes()));
       });
     },
+    async listNotesByFilter(filter) {
+      return filterNotes(sortNotes(getLocalNotes()), filter);
+    },
+    subscribeNotesByFilter(filter, callback) {
+      const emit = () => callback(filterNotes(sortNotes(getLocalNotes()), filter));
+      emit();
+      return subscribeToLocalStudyData(emit);
+    },
     async saveNote(note) {
-      saveLocalNote(note);
+      saveLocalNote(normalizeNote(note));
     },
     async deleteNote(id) {
       deleteLocalNote(id);
@@ -297,19 +309,27 @@ export function createFirestoreStudyRepository(
         query(userCollection(db, uid, "notes"), orderBy("updated_at", "desc"))
       );
 
-      return snapshot.docs.map((item) => item.data() as Note);
+      return sortNotes(snapshot.docs.map((item) => item.data() as Note));
     },
     subscribeNotes(callback) {
       return onSnapshot(
         query(userCollection(db, uid, "notes"), orderBy("updated_at", "desc")),
         (snapshot) => {
-          callback(snapshot.docs.map((item) => item.data() as Note));
+          callback(sortNotes(snapshot.docs.map((item) => item.data() as Note)));
         },
         handleFirestoreSubscriptionError("notes", callback, [])
       );
     },
+    async listNotesByFilter(filter) {
+      return filterNotes(await this.listNotes(), filter);
+    },
+    subscribeNotesByFilter(filter, callback) {
+      return this.subscribeNotes((notes) => {
+        callback(filterNotes(notes, filter));
+      });
+    },
     async saveNote(note) {
-      await setDoc(doc(db, "users", uid, "notes", note.id), note, {
+      await setDoc(doc(db, "users", uid, "notes", note.id), normalizeNote(note), {
         merge: true,
       });
     },

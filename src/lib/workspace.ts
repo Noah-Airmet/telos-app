@@ -2,6 +2,7 @@ import type {
   AppPaneDescriptor,
   CaptureTrayPaneState,
   NotesPaneState,
+  NotesPaneScope,
   PlannerHomePaneState,
   PlannerOutlinePaneState,
   ReadingPaneState,
@@ -239,7 +240,11 @@ export function withNotesDraftAnchor(
 ): ShellLayoutState {
   const notesPane = findFirstPaneByType(layout, "notes");
   if (!notesPane) {
-    return insertPaneAfter(layout, createNotesPane({ draft_anchor: draftAnchor }), layout.active_pane_id);
+    return insertPaneAfter(
+      layout,
+      createNotesPane({ draft_anchor: draftAnchor, scope: "currentChapter", selected_note_id: null }),
+      layout.active_pane_id
+    );
   }
 
   return {
@@ -250,6 +255,44 @@ export function withNotesDraftAnchor(
             state: {
               ...pane.state,
               draft_anchor: draftAnchor,
+            scope: pane.state.scope ?? "currentChapter",
+            selected_note_id: null,
+            },
+          }
+        : pane
+    ),
+    active_pane_id: notesPane.id,
+  };
+}
+
+export function withNotesSelection(
+  layout: ShellLayoutState,
+  selection: {
+    selectedNoteId: string | null;
+    scope?: NotesPaneScope;
+  }
+): ShellLayoutState {
+  const notesPane = findFirstPaneByType(layout, "notes");
+  if (!notesPane) {
+    return insertPaneAfter(
+      layout,
+      createNotesPane({
+        scope: selection.scope ?? "allNotes",
+        selected_note_id: selection.selectedNoteId,
+      }),
+      layout.active_pane_id
+    );
+  }
+
+  return {
+    ...updatePaneInLayout(layout, notesPane.id, (pane) =>
+      pane.type === "notes"
+        ? {
+            ...pane,
+            state: {
+              ...pane.state,
+              scope: selection.scope ?? pane.state.scope ?? "allNotes",
+              selected_note_id: selection.selectedNoteId,
             },
           }
         : pane
