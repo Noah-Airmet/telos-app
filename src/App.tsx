@@ -24,6 +24,13 @@ function getFirstChapterValue(book: BookEntry | null) {
   );
 }
 
+function getChapterValueForBook(book: BookEntry | null, chapter: number) {
+  if (!book) return chapter;
+  return book.chapters.some((c) => c.chapter === chapter)
+    ? chapter
+    : getFirstChapterValue(book);
+}
+
 function findMatchingBook(
   translation: TranslationManifest | undefined,
   activeBook: BookEntry | null
@@ -141,6 +148,38 @@ function App() {
     setPanes((prev) => prev.map((p) => (p.id === paneId ? { ...p, ...updates } : p)));
   }, []);
 
+  const syncPaneLocation = useCallback(
+    (
+      sourcePaneId: string,
+      nextBook: BookEntry | null,
+      nextChapter: number,
+      sourceUpdates: Partial<Omit<PaneState, "id">> = {}
+    ) => {
+      setPanes((prev) =>
+        prev.map((pane) => {
+          if (pane.id === sourcePaneId) {
+            return { ...pane, ...sourceUpdates, book: nextBook, chapter: nextChapter };
+          }
+
+          if (!nextBook || !pane.profile) return pane;
+
+          const translation = manifests.find((m) => m.profile === pane.profile);
+          if (!translation) return pane;
+
+          const matchingBook = findMatchingBook(translation, nextBook);
+          if (!matchingBook) return pane;
+
+          return {
+            ...pane,
+            book: matchingBook,
+            chapter: getChapterValueForBook(matchingBook, nextChapter),
+          };
+        })
+      );
+    },
+    [manifests]
+  );
+
   const addPane = useCallback(
     (afterPaneId: string) => {
       // Pick first translation not already open
@@ -194,30 +233,39 @@ function App() {
 
       if (direction === "prev") {
         if (ci > 0) {
-          updatePane(paneId, { chapter: pane.book.chapters[ci - 1].chapter || getFirstChapterValue(pane.book) });
+          syncPaneLocation(
+            paneId,
+            pane.book,
+            pane.book.chapters[ci - 1].chapter || getFirstChapterValue(pane.book)
+          );
         } else {
           const bi = translation.books.indexOf(pane.book);
           if (bi > 0) {
             const prev = translation.books[bi - 1];
-            updatePane(paneId, {
-              book: prev,
-              chapter: [...prev.chapters].reverse().find((c) => typeof c.chapter === "number")?.chapter || getFirstChapterValue(prev),
-            });
+            syncPaneLocation(
+              paneId,
+              prev,
+              [...prev.chapters].reverse().find((c) => typeof c.chapter === "number")?.chapter || getFirstChapterValue(prev)
+            );
           }
         }
       } else {
         if (ci < pane.book.chapters.length - 1) {
-          updatePane(paneId, { chapter: pane.book.chapters[ci + 1].chapter || getFirstChapterValue(pane.book) });
+          syncPaneLocation(
+            paneId,
+            pane.book,
+            pane.book.chapters[ci + 1].chapter || getFirstChapterValue(pane.book)
+          );
         } else {
           const bi = translation.books.indexOf(pane.book);
           if (bi < translation.books.length - 1) {
             const next = translation.books[bi + 1];
-            updatePane(paneId, { book: next, chapter: getFirstChapterValue(next) });
+            syncPaneLocation(paneId, next, getFirstChapterValue(next));
           }
         }
       }
     },
-    [panes, manifests, updatePane]
+    [panes, manifests, syncPaneLocation]
   );
 
   const hasPaneNav = useCallback(
@@ -246,20 +294,20 @@ function App() {
       const translation = manifests.find((m) => m.profile === profile);
       const currentBook = activePane.book;
       const match = translation && currentBook ? findMatchingBook(translation, currentBook) : null;
-      updatePane(activePaneId, {
-        profile,
-        book: match ?? translation?.books[0] ?? null,
-        chapter: match ? activePane.chapter : getFirstChapterValue(translation?.books[0] ?? null),
-      });
+      const nextBook = match ?? translation?.books[0] ?? null;
+      const nextChapter = match
+        ? getChapterValueForBook(nextBook, activePane.chapter)
+        : getFirstChapterValue(nextBook);
+      syncPaneLocation(activePaneId, nextBook, nextChapter, { profile });
     },
-    [activePaneId, manifests, activePane, updatePane]
+    [activePaneId, manifests, activePane, syncPaneLocation]
   );
 
   const handleSidebarSelectBook = useCallback(
     (book: BookEntry) => {
-      updatePane(activePaneId, { book, chapter: getFirstChapterValue(book) });
+      syncPaneLocation(activePaneId, book, getFirstChapterValue(book));
     },
-    [activePaneId, updatePane]
+    [activePaneId, syncPaneLocation]
   );
 
   // ── Guards ────────────────────────────────────────────────────────────────────
@@ -283,7 +331,10 @@ function App() {
         onSignOut={signOut}
         onSelectTranslation={handleSidebarSelectTranslation}
         onSelectBook={handleSidebarSelectBook}
-        onSelectChapter={(chapter) => updatePane(activePaneId, { chapter })}
+        onSelectChapter={(chapter) => {
+          if (!activePane.book) return;
+          syncPaneLocation(activePaneId, activePane.book, chapter);
+        }}
       />
 
       {panes.map((pane, idx) => (
@@ -304,13 +355,17 @@ function App() {
             onChangeProfile={(profile) => {
               const translation = manifests.find((m) => m.profile === profile);
               const match = translation && pane.book ? findMatchingBook(translation, pane.book) : null;
-              updatePane(pane.id, {
-                profile,
-                book: match ?? translation?.books[0] ?? null,
-              });
+              const nextBook = match ?? translation?.books[0] ?? null;
+              const nextChapter = match
+                ? getChapterValueForBook(nextBook, pane.chapter)
+                : getFirstChapterValue(nextBook);
+              syncPaneLocation(pane.id, nextBook, nextChapter, { profile });
             }}
-            onSelectBook={(book) => updatePane(pane.id, { book, chapter: getFirstChapterValue(book) })}
-            onSelectChapter={(chapter) => updatePane(pane.id, { chapter })}
+            onSelectBook={(book) => syncPaneLocation(pane.id, book, getFirstChapterValue(book))}
+            onSelectChapter={(chapter) => {
+              if (!pane.book) return;
+              syncPaneLocation(pane.id, pane.book, chapter);
+            }}
             onAddPane={() => addPane(pane.id)}
             onClose={panes.length > 1 ? () => closePane(pane.id) : undefined}
             // All panes after the first compare vs pane 0
@@ -331,7 +386,7 @@ function App() {
       <CommandPalette
         manifests={manifests}
         onSelect={(profile, book, chapter) => {
-          updatePane(activePaneId, { profile, book, chapter });
+          syncPaneLocation(activePaneId, book, chapter, { profile });
         }}
       />
     </div>
