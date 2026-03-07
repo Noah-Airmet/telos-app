@@ -148,7 +148,7 @@ function App() {
   const [hasHydratedShell, setHasHydratedShell] = useState(false);
   const [lessonPlans, setLessonPlans] = useState<LessonPlan[]>([]);
   const [lessonSourcesByPlanId, setLessonSourcesByPlanId] = useState<Record<string, LessonSource[]>>({});
-  const [syncBlockIds, setSyncBlockIds] = useState<Record<string, string | null>>({});
+  const [syncCompareUnitIds, setSyncCompareUnitIds] = useState<Record<string, string | null>>({});
   const [sidebarWidth, setSidebarWidth] = useState(() => {
     if (typeof window === "undefined") return 320;
     return Number(window.localStorage.getItem("telos_sidebar_width") ?? "320");
@@ -929,13 +929,13 @@ function App() {
     [saveShellLayout]
   );
 
-  const handleVisibleReadingBlockChange = useCallback(
-    (paneId: string, blockId: string) => {
+  const handleVisibleReadingCompareUnitChange = useCallback(
+    (paneId: string, compareUnitId: string) => {
       const pane = shellLayout?.panes.find((entry) => entry.id === paneId);
       if (!pane || !isReadingPane(pane) || !pane.state.sync_group_id) return;
-      setSyncBlockIds((previous) => ({
+      setSyncCompareUnitIds((previous) => ({
         ...previous,
-        [pane.state.sync_group_id as string]: blockId,
+        [pane.state.sync_group_id as string]: compareUnitId,
       }));
     },
     [shellLayout]
@@ -1215,10 +1215,12 @@ function App() {
               : undefined
           }
           isActivePane={isActive}
-          onVisibleBlockChange={(blockId) => handleVisibleReadingBlockChange(pane.id, blockId)}
-          syncBlockId={
+          onVisibleCompareUnitChange={(compareUnitId) =>
+            handleVisibleReadingCompareUnitChange(pane.id, compareUnitId)
+          }
+          syncCompareUnitId={
             !isActive && pane.state.sync_group_id
-              ? syncBlockIds[pane.state.sync_group_id] ?? undefined
+              ? syncCompareUnitIds[pane.state.sync_group_id] ?? undefined
               : undefined
           }
           onAddNote={openNotesWithDraft}

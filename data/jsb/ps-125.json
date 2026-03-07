@@ -1,0 +1,38 @@
+{
+  "document_id": "ps-125",
+  "title": "Psalms 125",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-125-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song of ascents. Those who trust in the Lord are like Mount Zion that cannot be moved, enduring forever."
+    },
+    {
+      "block_id": "jsb-ps-125-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Jerusalem, hills enfold it, and the Lord enfolds His people now and forever."
+    },
+    {
+      "block_id": "jsb-ps-125-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The scepter of the wicked shall never rest upon the land allotted to the righteous, that the righteous not set their hand to wrongdoing."
+    },
+    {
+      "block_id": "jsb-ps-125-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Do good, O Lord, to the good, to the upright in heart."
+    },
+    {
+      "block_id": "jsb-ps-125-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But those who in their crookedness act corruptly, let the Lord make them go the way of evildoers. May it be well with Israel!"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ import type {
 
 export function createReadingPane(
   state: Partial<ReadingPaneState> = {}
-): AppPaneDescriptor {
+): Extract<AppPaneDescriptor, { type: "reading" }> {
   return {
     id: crypto.randomUUID(),
     type: "reading",

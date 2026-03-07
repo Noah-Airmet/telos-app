@@ -1,0 +1,194 @@
+{
+  "document_id": "gen-1",
+  "title": "Genesis 1",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-gen-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When God began to create heaven and earth—"
+    },
+    {
+      "block_id": "jsb-gen-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "the earth being unformed and void, with darkness over the surface of the deep and a wind from God sweeping over the water—"
+    },
+    {
+      "block_id": "jsb-gen-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "God said, “Let there be light”; and there was light."
+    },
+    {
+      "block_id": "jsb-gen-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "God saw that the light was good, and God separated the light from the darkness."
+    },
+    {
+      "block_id": "jsb-gen-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "God called the light Day, and the darkness He called Night. And there was evening and there was morning, a first day."
+    },
+    {
+      "block_id": "jsb-gen-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "God said, “Let there be an expanse in the midst of the water, that it may separate water from water.”"
+    },
+    {
+      "block_id": "jsb-gen-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "God made the expanse, and it separated the water which was below the expanse from the water which was above the expanse. And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "God called the expanse Sky. And there was evening and there was morning, a second day."
+    },
+    {
+      "block_id": "jsb-gen-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "God said, “Let the water below the sky be gathered into one area, that the dry land may appear.” And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "God called the dry land Earth, and the gathering of waters He called Seas. And God saw that this was good."
+    },
+    {
+      "block_id": "jsb-gen-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And God said, “Let the earth sprout vegetation: seed-bearing plants, fruit trees of every kind on earth that bear fruit with the seed in it.” And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The earth brought forth vegetation: seed-bearing plants of every kind, and trees of every kind bearing fruit with the seed in it. And God saw that this was good."
+    },
+    {
+      "block_id": "jsb-gen-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And there was evening and there was morning, a third day."
+    },
+    {
+      "block_id": "jsb-gen-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "God said, “Let there be lights in the expanse of the sky to separate day from night; they shall serve as signs for the set times—the days and the years;"
+    },
+    {
+      "block_id": "jsb-gen-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and they serve as lights in the expanse of the sky to shine upon the earth.” And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "God made the two great lights, the greater light to dominate the day and the lesser light to dominate the night, and the stars."
+    },
+    {
+      "block_id": "jsb-gen-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And God set them in the expanse of the sky to shine upon the earth,"
+    },
+    {
+      "block_id": "jsb-gen-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "to dominate the day and the night, and to separate light from darkness. And God saw that this was good."
+    },
+    {
+      "block_id": "jsb-gen-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And there was evening and there was morning, a fourth day."
+    },
+    {
+      "block_id": "jsb-gen-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "God said, “Let the waters bring forth swarms of living creatures, and birds that fly above the earth across the expanse of the sky.”"
+    },
+    {
+      "block_id": "jsb-gen-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "God created the great sea monsters, and all the living creatures of every kind that creep, which the waters brought forth in swarms, and all the winged birds of every kind. And God saw that this was good."
+    },
+    {
+      "block_id": "jsb-gen-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "God blessed them, saying, “Be fertile and increase, fill the waters in the seas, and let the birds increase on the earth.”"
+    },
+    {
+      "block_id": "jsb-gen-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And there was evening and there was morning, a fifth day."
+    },
+    {
+      "block_id": "jsb-gen-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "God said, “Let the earth bring forth every kind of living creature: cattle, creeping things, and wild beasts of every kind.” And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "God made wild beasts of every kind and cattle of every kind, and all kinds of creeping things of the earth. And God saw that this was good."
+    },
+    {
+      "block_id": "jsb-gen-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And God said, “Let us make man in our image, after our likeness. They shall rule the fish of the sea, the birds of the sky, the cattle, the whole earth, and all the creeping things that creep on earth.”"
+    },
+    {
+      "block_id": "jsb-gen-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "And God created man in His image, in the image of God He created him; male and female He created them."
+    },
+    {
+      "block_id": "jsb-gen-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "God blessed them and God said to them, “Be fertile and increase, fill the earth and master it; and rule the fish of the sea, the birds of the sky, and all the living things that creep on earth.”"
+    },
+    {
+      "block_id": "jsb-gen-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "God said, “See, I give you every seed-bearing plant that is upon all the earth, and every tree that has seed-bearing fruit; they shall be yours for food."
+    },
+    {
+      "block_id": "jsb-gen-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And to all the animals on land, to all the birds of the sky, and to everything that creeps on earth, in which there is the breath of life, [I give] all the green plants for food.” And it was so."
+    },
+    {
+      "block_id": "jsb-gen-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "And God saw all that He had made, and found it very good. And there was evening and there was morning, the sixth day."
+    }
+  ]
+}

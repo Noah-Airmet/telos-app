@@ -1,0 +1,50 @@
+{
+  "document_id": "ps-110",
+  "title": "Psalms 110",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-110-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Of David. A psalm. The Lord said to my lord, “Sit at My right hand while I make your enemies your footstool.”"
+    },
+    {
+      "block_id": "jsb-ps-110-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord will stretch forth from Zion your mighty scepter; hold sway over your enemies!"
+    },
+    {
+      "block_id": "jsb-ps-110-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your people come forward willingly on your day of battle. In majestic holiness, from the womb, from the dawn, yours was the dew of youth."
+    },
+    {
+      "block_id": "jsb-ps-110-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord has sworn and will not relent, “You are a priest forever, a rightful king by My decree.”"
+    },
+    {
+      "block_id": "jsb-ps-110-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord is at your right hand. He crushes kings in the day of His anger."
+    },
+    {
+      "block_id": "jsb-ps-110-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He works judgment upon the nations, heaping up bodies, crushing heads far and wide."
+    },
+    {
+      "block_id": "jsb-ps-110-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He drinks from the stream on his way; therefore he holds his head high."
+    }
+  ]
+}

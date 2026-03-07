@@ -1,0 +1,20 @@
+{
+  "document_id": "ps-117",
+  "title": "Psalms 117",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-117-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord, all you nations; extol Him, all you peoples,"
+    },
+    {
+      "block_id": "jsb-ps-117-2",
+      "type": "verse",
+      "number": 2,
+      "text": "for great is His steadfast love toward us; the faithfulness of the Lord endures forever. Hallelujah."
+    }
+  ]
+}

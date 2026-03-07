@@ -1,0 +1,150 @@
+{
+  "document_id": "deut-16",
+  "title": "Deuteronomy 16",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-deut-16-heading-17",
+      "type": "heading",
+      "text": "SHOFETIM"
+    },
+    {
+      "block_id": "jsb-deut-16-heading-18",
+      "type": "heading",
+      "text": "שפטים"
+    },
+    {
+      "block_id": "jsb-deut-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Observe the month of Abib and offer a passover sacrifice to the Lord your God, for it was in the month of Abib, at night, that the Lord your God freed you from Egypt."
+    },
+    {
+      "block_id": "jsb-deut-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall slaughter the passover sacrifice for the Lord your God, from the flock and the herd, in the place where the Lord will choose to establish His name."
+    },
+    {
+      "block_id": "jsb-deut-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You shall not eat anything leavened with it; for seven days thereafter you shall eat unleavened bread, bread of distress—for you departed from the land of Egypt hurriedly—so that you may remember the day of your departure from the land of Egypt as long as you live."
+    },
+    {
+      "block_id": "jsb-deut-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For seven days no leaven shall be found with you in all your territory, and none of the flesh of what you slaughter on the evening of the first day shall be left until morning."
+    },
+    {
+      "block_id": "jsb-deut-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You are not permitted to slaughter the passover sacrifice in any of the settlements that the Lord your God is giving you;"
+    },
+    {
+      "block_id": "jsb-deut-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "but at the place where the Lord your God will choose to establish His name, there alone shall you slaughter the passover sacrifice, in the evening, at sundown, the time of day when you departed from Egypt."
+    },
+    {
+      "block_id": "jsb-deut-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You shall cook and eat it at the place that the Lord your God will choose; and in the morning you may start back on your journey home."
+    },
+    {
+      "block_id": "jsb-deut-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "After eating unleavened bread six days, you shall hold a solemn gathering for the Lord your God on the seventh day: you shall do no work."
+    },
+    {
+      "block_id": "jsb-deut-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall count off seven weeks; start to count the seven weeks when the sickle is first put to the standing grain."
+    },
+    {
+      "block_id": "jsb-deut-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Then you shall observe the Feast of Weeks for the Lord your God, offering your freewill contribution according as the Lord your God has blessed you."
+    },
+    {
+      "block_id": "jsb-deut-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "You shall rejoice before the Lord your God with your son and daughter, your male and female slave, the Levite in your communities, and the stranger, the fatherless, and the widow in your midst, at the place where the Lord your God will choose to establish His name."
+    },
+    {
+      "block_id": "jsb-deut-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Bear in mind that you were slaves in Egypt, and take care to obey these laws."
+    },
+    {
+      "block_id": "jsb-deut-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "After the ingathering from your threshing floor and your vat, you shall hold the Feast of Booths for seven days."
+    },
+    {
+      "block_id": "jsb-deut-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You shall rejoice in your festival, with your son and daughter, your male and female slave, the Levite, the stranger, the fatherless, and the widow in your communities."
+    },
+    {
+      "block_id": "jsb-deut-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "You shall hold a festival for the Lord your God seven days, in the place that the Lord will choose; for the Lord your God will bless all your crops and all your undertakings, and you shall have nothing but joy."
+    },
+    {
+      "block_id": "jsb-deut-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Three times a year—on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths—all your males shall appear before the Lord your God in the place that He will choose. They shall not appear before the Lord empty-handed,"
+    },
+    {
+      "block_id": "jsb-deut-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "but each with his own gift, according to the blessing that the Lord your God has bestowed upon you."
+    },
+    {
+      "block_id": "jsb-deut-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall appoint magistrates and officials for your tribes, in all the settlements that the Lord your God is giving you, and they shall govern the people with due justice."
+    },
+    {
+      "block_id": "jsb-deut-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You shall not judge unfairly: you shall show no partiality; you shall not take bribes, for bribes blind the eyes of the discerning and upset the plea of the just."
+    },
+    {
+      "block_id": "jsb-deut-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Justice, justice shall you pursue, that you may thrive and occupy the land that the Lord your God is giving you."
+    },
+    {
+      "block_id": "jsb-deut-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You shall not set up a sacred post—any kind of pole beside the altar of the Lord your God that you may make—"
+    },
+    {
+      "block_id": "jsb-deut-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "or erect a stone pillar; for such the Lord your God detests."
+    }
+  ]
+}

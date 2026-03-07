@@ -4,6 +4,36 @@ All notable changes to the Telos Gospel Library project will be documented in th
 
 ## [Unreleased]
 
+### Added
+- **Verse-based comparison model:** Added canonical `compare_units` plus verse-range metadata on render blocks in `src/db/db.ts` and `src/lib/scripture.ts`, so editions can preserve their own paragraph layout while Diffs and linked sync operate on shared verse identities.
+- **Regression coverage for verse-based Diffs:** Added `scripts/scripture-regression.test.ts` covering Hardy paragraph normalization, LDS coverage matching, and chapter-level compare readiness.
+- **Pane launcher workflow:** Added a dedicated in-shell pane chooser so the reading-pane `Add` button can open `Reader`, `Workspace`, or `Notes` panes without relying on the old global topbar creation controls.
+- **Auto-linking for matching readers:** New reader panes now automatically join an existing sync group when they open on a comparable work/book pair such as `2013 BoM` + `Hardy BoM` or `KJV` + `NRSVue`.
+- **Reader link state control:** Added a persistent header link toggle that shows `Linked` while panes are synced and remains available as a `Re-link` action after unlinking.
+- **Scoped notes views and note metadata:** Notes now support `Current Work`, `Current Chapter`, and `All Notes` views, and persist richer location metadata including work, canonical book, chapter, verse, reference labels, and quote snapshots.
+- **Block-level note indicators:** Reading panes now show note badges on anchored blocks and can reopen the notes pane focused on the corresponding note.
+
+### Changed
+- **Diff resolution now uses verse alignment instead of raw block identity:** `src/components/ReadingPane.tsx` now builds comparison text from canonical verse compare units rather than `block_id === block_id` lookup, which lets Hardy paragraphs compare against the corresponding 2013 BoM verses.
+- **Linked reading sync now follows canonical compare-unit IDs:** `src/App.tsx`, `src/components/ReadingPane.tsx`, and `src/components/VerseBlock.tsx` now sync linked panes by verse-level comparison identity instead of source block IDs, improving cross-edition scroll alignment.
+- **Hardy ingest now preserves layout separately from comparison units:** `scripts/lib/profiles/hardy-bom.ts` now emits paragraph-aware render blocks with verse-level compare units and verse-range metadata, preparing future ingests for structurally correct cross-edition comparison.
+- **Legacy Hardy chapter data now gets a runtime compatibility migration:** `src/lib/scripture.ts` derives verse ranges and compare units from already-ingested Hardy paragraph text so the new Diffs architecture works immediately even before a fresh EPUB re-ingest.
+- **Reading pane factory typing:** Tightened `createReadingPane()` in `src/lib/workspace.ts` to return a reading-pane descriptor explicitly, keeping the new compare-sync wiring type-safe.
+- **Workspace entry points:** Removed the always-visible topbar creation buttons for `Reader`, `Workspace`, and `Notes` in favor of the local pane-launcher flow.
+- **Reset action location:** Moved shell reset into the left sidebar settings drawer and renamed it to `Reset Workspace Layout` to make the behavior clearer.
+- **Workspace naming:** Updated user-facing `Planner` copy to `Workspace` across the chooser, workspace home pane, and shell controls while keeping persisted internal planner keys stable.
+- **Notes pane organization:** Saved notes now surface as scoped study artifacts with reference chips and quote excerpts instead of only raw `block_id` values.
+- **Library search row sizing:** Reduced the left-sidebar search field and filter trigger height so the controls sit tighter and align cleanly in the library header.
+
+### Fixed
+- **False positives from Hardy paragraph grouping:** Multi-verse Hardy paragraph blocks are now compared against the matching verse span in the peer edition rather than against a single verse block, eliminating the paragraph-driven Diffs noise that appeared in chapters like `1 Nephi 3`.
+- **Standalone verse numerals polluting inline diffs:** `src/components/VerseBlock.tsx` now ignores standalone verse-number tokens when diffing multi-verse render blocks, preventing editorial verse markers from being highlighted as textual variants.
+- **Unsafe compare availability assumptions:** `src/lib/scripture.ts` now marks chapters/books as compare-ready only when another edition shares that chapter coverage, and `src/components/ReadingPane.tsx` falls back to an explicit unavailable message when verse-aligned comparison cannot be trusted.
+- **Pane-switch scroll jolt:** Prevented inactive reading panes from briefly jolting during focus changes by tightening pane activation and sync-scroll behavior.
+- **Notes pane jump / blank-space bug:** Stabilized shell pane layout and notes-pane scrolling so switching chapters no longer pushes the notes header off-screen or opens dead space at the bottom.
+- **Reader sync container scrolling:** Replaced the inner sync path’s `scrollIntoView()` behavior with explicit container scrolling to avoid unintended layout shifts in adjacent panes.
+- **ReadingPane hook-order crash:** Moved newly introduced hooks ahead of early returns so local development no longer black-screens with `Rendered more hooks than during the previous render`.
+
 ## [0.5.0] - Day One Alpha Release - 2026-03-07
 ### Added
 - **Unified authenticated workspace shell:** Replaced the full-screen `reader vs planner` split with a single pane-based shell in `src/App.tsx` that can host `reading`, `plannerHome`, `plannerOutline`, `notes`, and `captureTray` panes side by side.

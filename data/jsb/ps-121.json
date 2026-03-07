@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-121",
+  "title": "Psalms 121",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-121-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song for ascents. I turn my eyes to the mountains; from where will my help come?"
+    },
+    {
+      "block_id": "jsb-ps-121-2",
+      "type": "verse",
+      "number": 2,
+      "text": "My help comes from the Lord, maker of heaven and earth."
+    },
+    {
+      "block_id": "jsb-ps-121-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He will not let your foot give way; your guardian will not slumber;"
+    },
+    {
+      "block_id": "jsb-ps-121-4",
+      "type": "verse",
+      "number": 4,
+      "text": "See, the guardian of Israel neither slumbers nor sleeps!"
+    },
+    {
+      "block_id": "jsb-ps-121-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord is your guardian, the Lord is your protection at your right hand."
+    },
+    {
+      "block_id": "jsb-ps-121-6",
+      "type": "verse",
+      "number": 6,
+      "text": "By day the sun will not strike you, nor the moon by night."
+    },
+    {
+      "block_id": "jsb-ps-121-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord will guard you from all harm; He will guard your life."
+    },
+    {
+      "block_id": "jsb-ps-121-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord will guard your going and coming now and forever."
+    }
+  ]
+}

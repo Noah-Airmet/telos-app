@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-13",
+  "title": "Psalms 13",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "For the leader. A psalm of David."
+    },
+    {
+      "block_id": "jsb-ps-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "How long, O Lord; will You ignore me forever? How long will You hide Your face from me?"
+    },
+    {
+      "block_id": "jsb-ps-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "How long will I have cares on my mind, grief in my heart all day? How long will my enemy have the upper hand?"
+    },
+    {
+      "block_id": "jsb-ps-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Look at me, answer me, O Lord, my God! Restore the luster to my eyes, lest I sleep the sleep of death;"
+    },
+    {
+      "block_id": "jsb-ps-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "lest my enemy say, “I have overcome him,” my foes exult when I totter."
+    },
+    {
+      "block_id": "jsb-ps-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But I trust in Your faithfulness, my heart will exult in Your deliverance. I will sing to the Lord, for He has been good to me."
+    }
+  ]
+}

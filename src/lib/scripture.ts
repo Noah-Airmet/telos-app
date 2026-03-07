@@ -74,7 +74,7 @@ function isComparableChapter(chapter: ChapterEntry) {
   return typeof chapter.chapter === "number" && Number.isFinite(chapter.chapter);
 }
 
-function normalizeManifest(rawManifests: TranslationManifest[]): TranslationManifest[] {
+export function normalizeManifest(rawManifests: TranslationManifest[]): TranslationManifest[] {
   const normalizedManifests = rawManifests.map((manifest) => {
     const bookGroups = new Map<string, BookEntry[]>();
 
@@ -111,7 +111,7 @@ function normalizeManifest(rawManifests: TranslationManifest[]): TranslationMani
 
       return {
         ...bestEntry,
-        compare_ready: isBookComparable(bestEntry),
+        compare_ready: false,
       };
     });
 
@@ -205,6 +205,116 @@ function normalizeVerseRange(block: Block, canonicalRef: CanonicalReference) {
   const verseStart = block.verse_start ?? canonicalRef.verse ?? null;
   const verseEnd = block.verse_end ?? verseStart;
   return { verseStart, verseEnd };
+}
+
+function splitLegacyHardyParagraphText(
+  text: string,
+  verseStart: number,
+  nextVerseStart: number | null
+) {
+  const markerPattern = /\b(\d{1,3})\b(?=\s+[A-Z“"'(\[])/g;
+  const markers: Array<{ verseNumber: number; index: number; markerLength: number }> = [];
+
+  let match = markerPattern.exec(text);
+  while (match) {
+    const verseNumber = parseInt(match[1], 10);
+    if (
+      verseNumber > verseStart &&
+      (nextVerseStart === null || verseNumber < nextVerseStart) &&
+      (markers.length === 0 || verseNumber > markers[markers.length - 1].verseNumber)
+    ) {
+      markers.push({
+        verseNumber,
+        index: match.index,
+        markerLength: match[0].length,
+      });
+    }
+    match = markerPattern.exec(text);
+  }
+
+  if (!markers.length) {
+    return [{ verseNumber: verseStart, text: text.trim() }];
+  }
+
+  const segments: Array<{ verseNumber: number; text: string }> = [];
+  let currentVerse = verseStart;
+  let lastIndex = 0;
+
+  for (const marker of markers) {
+    const segmentText = text.slice(lastIndex, marker.index).trim();
+    if (segmentText) {
+      segments.push({ verseNumber: currentVerse, text: segmentText });
+    }
+    currentVerse = marker.verseNumber;
+    lastIndex = marker.index + marker.markerLength;
+  }
+
+  const trailingText = text.slice(lastIndex).trim();
+  if (trailingText) {
+    segments.push({ verseNumber: currentVerse, text: trailingText });
+  }
+
+  return segments;
+}
+
+function migrateLegacyHardyDocument(document: TelosDocument): TelosDocument {
+  if ((document.compare_units?.length ?? 0) > 0) return document;
+
+  const verseBlocks = document.blocks.filter((block) => block.type === "verse");
+  const nextVerseStartByBlockId = new Map<string, number | null>();
+
+  verseBlocks.forEach((block, index) => {
+    const nextVerseBlock = verseBlocks[index + 1];
+    const nextVerseStart = nextVerseBlock ? inferCanonicalRef(nextVerseBlock.block_id).verse ?? null : null;
+    nextVerseStartByBlockId.set(block.block_id, nextVerseStart);
+  });
+
+  const compareUnits: CompareUnit[] = [];
+  const blocks = document.blocks.map((block) => {
+    if (block.type !== "verse" || block.compare_unit_ids?.length) return block;
+
+    const canonicalRef = block.canonical_ref || inferCanonicalRef(block.block_id);
+    const verseStart = canonicalRef.verse;
+    if (verseStart == null) return block;
+
+    const segments = splitLegacyHardyParagraphText(
+      block.text,
+      verseStart,
+      nextVerseStartByBlockId.get(block.block_id) ?? null
+    );
+    const inferredVerseEnd =
+      nextVerseStartByBlockId.get(block.block_id) != null
+        ? (nextVerseStartByBlockId.get(block.block_id) as number) - 1
+        : segments[segments.length - 1]?.verseNumber ?? verseStart;
+    const compareUnitIds = Array.from(
+      { length: Math.max(inferredVerseEnd - verseStart + 1, 1) },
+      (_, index) => `${canonicalRef.work}-${canonicalRef.book}-${canonicalRef.chapter}-${verseStart + index}`
+    );
+
+    compareUnits.push(
+      ...segments.map((segment) => ({
+        unit_id: `${canonicalRef.work}-${canonicalRef.book}-${canonicalRef.chapter}-${segment.verseNumber}`,
+        text: segment.text,
+        source_block_id: block.block_id,
+      }))
+    );
+
+    return {
+      ...block,
+      type: (segments.length > 1 ? "paragraph" : "verse") as Block["type"],
+      number: verseStart,
+      verse_start: verseStart,
+      verse_end: inferredVerseEnd,
+      compare_unit_ids: compareUnitIds,
+      sync_unit_id: compareUnitIds[0] ?? block.block_id,
+    };
+  });
+
+  return {
+    ...document,
+    blocks,
+    compare_units: compareUnits,
+  };
 }
 
 function normalizeBlock(block: Block): Block {
@@ -309,29 +419,36 @@ function tokenize(text: string) {
   }));
 }
 
-function normalizeDocument(profile: string, document: TelosDocument): TelosDocument {
-  const fallbackBlock = document.blocks.find((block) => block.type === "verse") || document.blocks[0];
+export function normalizeDocument(profile: string, document: TelosDocument): TelosDocument {
+  const migratedDocument = profile === "hardy-bom" ? migrateLegacyHardyDocument(document) : document;
+  const fallbackBlock =
+    migratedDocument.blocks.find((block) => block.type === "verse") || migratedDocument.blocks[0];
   const fallbackRef = fallbackBlock ? inferCanonicalRef(fallbackBlock.block_id) : null;
-  const blocks = document.blocks.map(normalizeBlock);
-  const compareUnits = dedupeStrings(
-    (document.compare_units?.map((unit) => unit.unit_id) ?? []).concat(
-      deriveCompareUnits(blocks).map((unit) => unit.unit_id)
-    )
-  )
-    .map((unitId) => {
-      const explicitUnit = document.compare_units?.find((unit) => unit.unit_id === unitId);
-      const derivedUnit = deriveCompareUnits(blocks).find((unit) => unit.unit_id === unitId);
-      return normalizeCompareUnit(explicitUnit ?? derivedUnit!);
-    })
+  const blocks = migratedDocument.blocks.map(normalizeBlock);
+  const explicitCompareUnits = migratedDocument.compare_units ?? [];
+  const derivedCompareUnits = deriveCompareUnits(blocks);
+  const compareUnitLookup = new Map<string, CompareUnit>();
+
+  for (const unit of derivedCompareUnits) {
+    compareUnitLookup.set(unit.unit_id, unit);
+  }
+
+  for (const unit of explicitCompareUnits) {
+    compareUnitLookup.set(unit.unit_id, unit);
+  }
+
+  const compareUnits = [...compareUnitLookup.values()]
+    .map(normalizeCompareUnit)
     .sort((left, right) => compareUnitSortKey(left).localeCompare(compareUnitSortKey(right)));
 
   return {
-    ...document,
-    edition_family: document.edition_family || inferEditionFamily(profile, document.translation),
-    work_id: document.work_id || fallbackRef?.work,
-    canonical_book_id: document.canonical_book_id || fallbackRef?.book,
-    footnotes: document.footnotes || [],
-    variants: document.variants || [],
+    ...migratedDocument,
+    edition_family:
+      migratedDocument.edition_family || inferEditionFamily(profile, migratedDocument.translation),
+    work_id: migratedDocument.work_id || fallbackRef?.work,
+    canonical_book_id: migratedDocument.canonical_book_id || fallbackRef?.book,
+    footnotes: migratedDocument.footnotes || [],
+    variants: migratedDocument.variants || [],
     blocks,
     compare_units: compareUnits,
   };

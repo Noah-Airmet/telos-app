@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-101",
+  "title": "Psalms 101",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-101-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Of David. A psalm. I will sing of faithfulness and justice; I will chant a hymn to You, O Lord."
+    },
+    {
+      "block_id": "jsb-ps-101-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I will study the way of the blameless; when shall I attain it? I will live without blame within my house."
+    },
+    {
+      "block_id": "jsb-ps-101-3",
+      "type": "verse",
+      "number": 3,
+      "text": "I will not set before my eyes anything base; I hate crooked dealing; I will have none of it."
+    },
+    {
+      "block_id": "jsb-ps-101-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Perverse thoughts will be far from me; I will know nothing of evil."
+    },
+    {
+      "block_id": "jsb-ps-101-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He who slanders his friend in secret I will destroy; I cannot endure the haughty and proud man."
+    },
+    {
+      "block_id": "jsb-ps-101-6",
+      "type": "verse",
+      "number": 6,
+      "text": "My eyes are on the trusty men of the land, to have them at my side. He who follows the way of the blameless shall be in my service."
+    },
+    {
+      "block_id": "jsb-ps-101-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He who deals deceitfully shall not live in my house; he who speaks untruth shall not stand before my eyes."
+    },
+    {
+      "block_id": "jsb-ps-101-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Each morning I will destroy all the wicked of the land, to rid the city of the Lord of all evildoers."
+    }
+  ]
+}

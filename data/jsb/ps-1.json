@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-1",
+  "title": "Psalms 1",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Happy is the man who has not followed the counsel of the wicked, or taken the path of sinners, or joined the company of the insolent;"
+    },
+    {
+      "block_id": "jsb-ps-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "rather, the teaching of the Lord is his delight, and he studies that teaching day and night."
+    },
+    {
+      "block_id": "jsb-ps-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He is like a tree planted beside streams of water, which yields its fruit in season, whose foliage never fades, and whatever it produces thrives."
+    },
+    {
+      "block_id": "jsb-ps-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Not so the wicked; rather, they are like chaff that wind blows away."
+    },
+    {
+      "block_id": "jsb-ps-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Therefore the wicked will not survive judgment, nor will sinners, in the assembly of the righteous."
+    },
+    {
+      "block_id": "jsb-ps-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For the Lord cherishes the way of the righteous, but the way of the wicked is doomed."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_id": "ps-120",
+  "title": "Psalms 120",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-120-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song of ascents. In my distress I called to the Lord and He answered me."
+    },
+    {
+      "block_id": "jsb-ps-120-2",
+      "type": "verse",
+      "number": 2,
+      "text": "O Lord, save me from treacherous lips, from a deceitful tongue!"
+    },
+    {
+      "block_id": "jsb-ps-120-3",
+      "type": "verse",
+      "number": 3,
+      "text": "What can you profit, what can you gain, O deceitful tongue?"
+    },
+    {
+      "block_id": "jsb-ps-120-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A warrior’s sharp arrows, with hot coals of broom-wood."
+    },
+    {
+      "block_id": "jsb-ps-120-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Woe is me, that I live with Meshech, that I dwell among the clans of Kedar."
+    },
+    {
+      "block_id": "jsb-ps-120-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Too long have I dwelt with those who hate peace."
+    },
+    {
+      "block_id": "jsb-ps-120-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I am all peace; but when I speak, they are for war."
+    }
+  ]
+}

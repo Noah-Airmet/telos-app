@@ -83,6 +83,21 @@ function bookIdToName(bookId: string): string {
     "1-macc": "1 Maccabees", "2-macc": "2 Maccabees",
     "1-esd": "1 Esdras", "pr-man": "Prayer of Manasseh",
     "3-macc": "3 Maccabees", "2-esd": "2 Esdras", "4-macc": "4 Maccabees",
+    // Pearl of Great Price
+    moses: "Book of Moses", abr: "Book of Abraham",
+    "js-m": "Joseph Smith—Matthew", "js-h": "Joseph Smith—History",
+    aof: "Articles of Faith",
+    // Proclamations
+    "proclamation-family": "The Family: A Proclamation to the World",
+    "proclamation-living-christ": "The Living Christ: The Testimony of the Apostles",
+    "proclamation-restoration": "The Restoration of the Fulness of the Gospel",
+    // Come, Follow Me 2026
+    "cfm-2026-intro": "Introductory Materials",
+    "cfm-2026-tkm": "Thoughts to Keep in Mind",
+    "cfm-2026-lesson": "Weekly Lessons",
+    "cfm-2026-appendix": "Appendixes",
+    // Turley — How We Got the D&C
+    "turley-dc": "How We Got the Doctrine and Covenants",
   };
   return map[bookId] || bookId;
 }
@@ -92,6 +107,11 @@ const profileLabels: Record<string, string> = {
   kjv: "KJV",
   nrsvue: "NRSVue",
   "hardy-bom": "Hardy",
+  "lds-pogp": "LDS",
+  "proclamations": "LDS",
+  "cfm-2026": "CFM 2026",
+  "turley-dc": "Turley",
+  "jsb": "NJPS",
 };
 
 const manifests: TranslationManifest[] = [];

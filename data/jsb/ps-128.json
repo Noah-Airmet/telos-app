@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-128",
+  "title": "Psalms 128",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-128-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song of ascents. Happy are all who fear the Lord, who follow His ways."
+    },
+    {
+      "block_id": "jsb-ps-128-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall enjoy the fruit of your labors; you shall be happy and you shall prosper."
+    },
+    {
+      "block_id": "jsb-ps-128-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your wife shall be like a fruitful vine within your house; your sons, like olive saplings around your table."
+    },
+    {
+      "block_id": "jsb-ps-128-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So shall the man who fears the Lord be blessed."
+    },
+    {
+      "block_id": "jsb-ps-128-5",
+      "type": "verse",
+      "number": 5,
+      "text": "May the Lord bless you from Zion; may you share the prosperity of Jerusalem all the days of your life,"
+    },
+    {
+      "block_id": "jsb-ps-128-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and live to see your children’s children. May all be well with Israel!"
+    }
+  ]
+}

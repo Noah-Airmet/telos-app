@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-98",
+  "title": "Psalms 98",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-98-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A psalm. Sing to the Lord a new song, for He has worked wonders; His right hand, His holy arm, has won Him victory."
+    },
+    {
+      "block_id": "jsb-ps-98-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord has manifested His victory, has displayed His triumph in the sight of the nations."
+    },
+    {
+      "block_id": "jsb-ps-98-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He was mindful of His steadfast love and faithfulness toward the house of Israel; all the ends of the earth beheld the victory of our God."
+    },
+    {
+      "block_id": "jsb-ps-98-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Raise a shout to the Lord, all the earth, break into joyous songs of praise!"
+    },
+    {
+      "block_id": "jsb-ps-98-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Sing praise to the Lord with the lyre, with the lyre and melodious song."
+    },
+    {
+      "block_id": "jsb-ps-98-6",
+      "type": "verse",
+      "number": 6,
+      "text": "With trumpets and the blast of the horn raise a shout before the Lord, the King."
+    },
+    {
+      "block_id": "jsb-ps-98-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Let the sea and all within it thunder, the world and its inhabitants;"
+    },
+    {
+      "block_id": "jsb-ps-98-8",
+      "type": "verse",
+      "number": 8,
+      "text": "let the rivers clap their hands, the mountains sing joyously together"
+    },
+    {
+      "block_id": "jsb-ps-98-9",
+      "type": "verse",
+      "number": 9,
+      "text": "at the presence of the Lord, for He is coming to rule the earth; He will rule the world justly, and its peoples with equity."
+    }
+  ]
+}

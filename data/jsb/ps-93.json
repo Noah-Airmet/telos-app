@@ -1,0 +1,38 @@
+{
+  "document_id": "ps-93",
+  "title": "Psalms 93",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-93-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is king, He is robed in grandeur; the Lord is robed, He is girded with strength. The world stands firm; it cannot be shaken."
+    },
+    {
+      "block_id": "jsb-ps-93-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Your throne stands firm from of old; from eternity You have existed."
+    },
+    {
+      "block_id": "jsb-ps-93-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The ocean sounds, O Lord, the ocean sounds its thunder, the ocean sounds its pounding."
+    },
+    {
+      "block_id": "jsb-ps-93-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Above the thunder of the mighty waters, more majestic than the breakers of the sea is the Lord, majestic on high."
+    },
+    {
+      "block_id": "jsb-ps-93-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Your decrees are indeed enduring; holiness befits Your house, O Lord, for all times."
+    }
+  ]
+}

@@ -1,5 +1,12 @@
 import * as cheerio from "cheerio";
-import type { Profile, TelosDocument, Block, TocEntry, EpubSpineEntry } from "../types.js";
+import type {
+  Profile,
+  TelosDocument,
+  Block,
+  CompareUnit,
+  TocEntry,
+  EpubSpineEntry,
+} from "../types.js";
 import type AdmZip from "adm-zip";
 
 // The Hardy "Annotated Book of Mormon" (Oxford University Press):
@@ -47,7 +54,57 @@ interface ParsedParagraph {
   chapterLabel: number | null;
   verseNumber: number | null;
   isCommentary: boolean;
+  commentaryVerseStart: number | null;
+  commentaryVerseEnd: number | null;
   text: string;
+  verseSegments: Array<{
+    verseNumber: number;
+    text: string;
+  }>;
+}
+
+function normalizeWhitespace(text: string) {
+  return text.replace(/\s+/g, " ").trim();
+}
+
+function buildVerseSegments(markedText: string, fallbackVerseNumber: number | null) {
+  const segments: Array<{ verseNumber: number; text: string }> = [];
+  const markerPattern = /\[\[VERSE:(\d+)]]/g;
+  let currentVerse = fallbackVerseNumber;
+  let lastIndex = 0;
+
+  const flushSegment = (parts: string[]) => {
+    const text = normalizeWhitespace(parts.join(" "));
+    if (currentVerse === null || !text) return;
+    segments.push({
+      verseNumber: currentVerse,
+      text,
+    });
+  };
+
+  let match = markerPattern.exec(markedText);
+  let currentParts: string[] = [];
+
+  while (match) {
+    const textBeforeMarker = markedText.slice(lastIndex, match.index);
+    if (textBeforeMarker.trim()) {
+      currentParts.push(textBeforeMarker);
+    }
+    flushSegment(currentParts);
+
+    currentVerse = parseInt(match[1], 10);
+    currentParts = [];
+    lastIndex = match.index + match[0].length;
+    match = markerPattern.exec(markedText);
+  }
+
+  const trailingText = markedText.slice(lastIndex);
+  if (trailingText.trim()) {
+    currentParts.push(trailingText);
+  }
+  flushSegment(currentParts);
+
+  return segments;
 }
 
 function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParagraph {
@@ -56,12 +113,20 @@ function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParag
     chapterLabel: null,
     verseNumber: null,
     isCommentary: false,
+    commentaryVerseStart: null,
+    commentaryVerseEnd: null,
     text: "",
+    verseSegments: [],
   };
 
   const label = $el.find("span.label");
   if (label.length > 0) {
     const labelText = label.text().trim();
+    const commentaryRangeMatch = labelText.match(/(\d+)\s*[–-]\s*(\d+)/);
+    if (commentaryRangeMatch) {
+      result.commentaryVerseStart = parseInt(commentaryRangeMatch[1], 10);
+      result.commentaryVerseEnd = parseInt(commentaryRangeMatch[2], 10);
+    }
     // Commentary labels end in ":", ".", or contain ranges like "1–4:"
     if (/[:.]\s*$/.test(labelText) || /\d+\s*[–-]\s*\d+\s*:/.test(labelText)) {
       result.isCommentary = true;
@@ -87,23 +152,34 @@ function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParag
     });
   }
 
-  // Clean text: strip labels, verse-number sup, footnote links, empty id spans
+  // Clean text: strip labels, preserve verse markers for splitting, drop footnotes.
   const $clone = $el.clone();
   $clone.find("span.label").remove();
-  const firstSup = $clone.find("sup").first();
-  if (firstSup.length && /^\d+$/.test(firstSup.text().trim())) {
-    const parent = firstSup.parent();
-    if (parent.is("a[href*='note']")) {
-      parent.remove();
-    } else {
-      firstSup.remove();
+  $clone.find("sup").each((_, sup) => {
+    const $sup = $(sup);
+    if ($sup.closest("span.label").length > 0) {
+      $sup.remove();
+      return;
     }
-  }
+    if ($sup.closest("a[href*='note']").length > 0) return;
+    const text = $sup.text().trim();
+    if (/^\d+$/.test(text)) {
+      $sup.replaceWith(` [[VERSE:${text}]] `);
+      return;
+    }
+    $sup.remove();
+  });
   $clone.find("a[href*='note']").remove();
   $clone.find("span[id]").each((_, s) => {
     if (!$(s).text().trim()) $(s).remove();
   });
-  result.text = $clone.text().replace(/\s+/g, " ").trim();
+  const markedText = normalizeWhitespace($clone.text());
+  const fallbackVerseNumber = result.verseNumber ?? (result.chapterLabel !== null ? 1 : null);
+  result.verseSegments = buildVerseSegments(markedText, fallbackVerseNumber);
+  if (result.verseNumber === null && result.verseSegments.length > 0) {
+    result.verseNumber = result.verseSegments[0].verseNumber;
+  }
+  result.text = normalizeWhitespace(markedText.replace(/\[\[VERSE:(\d+)]]/g, "$1 "));
 
   return result;
 }
@@ -141,6 +217,7 @@ export const hardyBomProfile: Profile = {
     let currentBook = { abbrev: "1-ne", name: "1 Nephi" };
     let currentChapter = 0;
     let chapterBlocks: Block[] = [];
+    let chapterCompareUnits: CompareUnit[] = [];
     let lastVerseId = "bom-1-ne-0-0";
     let commentaryCount = 0;
 
@@ -161,15 +238,18 @@ export const hardyBomProfile: Profile = {
             type: "study-bible",
             translation: "Hardy Annotated",
             blocks: chapterBlocks,
+            compare_units: chapterCompareUnits,
           });
         }
         // Carry the orphaned headings forward as the start of the next chapter
         chapterBlocks = trailingHeadings;
+        chapterCompareUnits = [];
       } else {
         // currentChapter = 0 means we haven't entered any chapter yet.
         // Discard prose commentary (preface/intro essays) but keep any headings
         // that accumulated — they belong to the first chapter of this book.
         chapterBlocks = chapterBlocks.filter(b => b.type === "heading");
+        chapterCompareUnits = [];
       }
       commentaryCount = 0;
     }
@@ -187,6 +267,7 @@ export const hardyBomProfile: Profile = {
         currentChapter = 0;
         lastVerseId = `bom-${tocBook.abbrev}-0-0`;
         commentaryCount = 0;
+        chapterCompareUnits = [];
       }
 
       const $ = cheerio.load(html);
@@ -256,22 +337,37 @@ export const hardyBomProfile: Profile = {
                 block_id: `${lastVerseId}-commentary-${commentaryCount}`,
                 type: "commentary",
                 text: parsed.text,
+                verse_start: parsed.commentaryVerseStart,
+                verse_end: parsed.commentaryVerseEnd,
               });
             }
             return;
           }
 
-          if (parsed.verseNumber !== null) {
-            const blockId = `bom-${currentBook.abbrev}-${currentChapter}-${parsed.verseNumber}`;
-            lastVerseId = blockId;
+          if (parsed.verseSegments.length > 0) {
+            const compareUnits = parsed.verseSegments.map((segment) => ({
+              unit_id: `bom-${currentBook.abbrev}-${currentChapter}-${segment.verseNumber}`,
+              text: segment.text,
+              source_block_id: `bom-${currentBook.abbrev}-${currentChapter}-${parsed.verseSegments[0].verseNumber}`,
+            }));
+            const compareUnitIds = compareUnits.map((unit) => unit.unit_id);
+            const blockId = compareUnitIds[0];
+            const verseStart = parsed.verseSegments[0].verseNumber;
+            const verseEnd = parsed.verseSegments[parsed.verseSegments.length - 1].verseNumber;
+            lastVerseId = compareUnitIds[compareUnitIds.length - 1];
             commentaryCount = 0;
             if (parsed.text) {
               chapterBlocks.push({
                 block_id: blockId,
-                type: "verse",
-                number: parsed.verseNumber,
+                type: compareUnitIds.length > 1 ? "paragraph" : "verse",
+                number: verseStart,
                 text: parsed.text,
+                verse_start: verseStart,
+                verse_end: verseEnd,
+                compare_unit_ids: compareUnitIds,
+                sync_unit_id: compareUnitIds[0],
               });
+              chapterCompareUnits.push(...compareUnits);
             }
           } else if (parsed.text && parsed.text.length > 10) {
             commentaryCount++;

@@ -1,0 +1,300 @@
+{
+  "document_id": "lev-11",
+  "title": "Leviticus 11",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-lev-11-heading-47",
+      "type": "heading",
+      "text": "TAZRIAʿ"
+    },
+    {
+      "block_id": "jsb-lev-11-heading-48",
+      "type": "heading",
+      "text": "תזריע"
+    },
+    {
+      "block_id": "jsb-lev-11-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses and Aaron, saying to them:"
+    },
+    {
+      "block_id": "jsb-lev-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the Israelite people thus: These are the creatures that you may eat from among all the land animals:"
+    },
+    {
+      "block_id": "jsb-lev-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "any animal that has true hoofs, with clefts through the hoofs, and that chews the cud—such you may eat."
+    },
+    {
+      "block_id": "jsb-lev-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The following, however, of those that either chew the cud or have true hoofs, you shall not eat: the camel—although it chews the cud, it has no true hoofs: it is unclean for you;"
+    },
+    {
+      "block_id": "jsb-lev-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "the daman—although it chews the cud, it has no true hoofs: it is unclean for you;"
+    },
+    {
+      "block_id": "jsb-lev-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "the hare—although it chews the cud, it has no true hoofs: it is unclean for you;"
+    },
+    {
+      "block_id": "jsb-lev-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and the swine—although it has true hoofs, with the hoofs cleft through, it does not chew the cud: it is unclean for you."
+    },
+    {
+      "block_id": "jsb-lev-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You shall not eat of their flesh or touch their carcasses; they are unclean for you."
+    },
+    {
+      "block_id": "jsb-lev-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "These you may eat of all that live in water: anything in water, whether in the seas or in the streams, that has fins and scales—these you may eat."
+    },
+    {
+      "block_id": "jsb-lev-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But anything in the seas or in the streams that has no fins and scales, among all the swarming things of the water and among all the other living creatures that are in the water—they are an abomination for you"
+    },
+    {
+      "block_id": "jsb-lev-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and an abomination for you they shall remain: you shall not eat of their flesh and you shall abominate their carcasses."
+    },
+    {
+      "block_id": "jsb-lev-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Everything in water that has no fins and scales shall be an abomination for you."
+    },
+    {
+      "block_id": "jsb-lev-11-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The following you shall abominate among the birds—they shall not be eaten, they are an abomination: the eagle, the vulture, and the black vulture;"
+    },
+    {
+      "block_id": "jsb-lev-11-14",
+      "type": "verse",
+      "number": 14,
+      "text": "the kite, falcons of every variety;"
+    },
+    {
+      "block_id": "jsb-lev-11-15",
+      "type": "verse",
+      "number": 15,
+      "text": "all varieties of raven;"
+    },
+    {
+      "block_id": "jsb-lev-11-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the ostrich, the nighthawk, the sea gull; hawks of every variety;"
+    },
+    {
+      "block_id": "jsb-lev-11-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the little owl, the cormorant, and the great owl;"
+    },
+    {
+      "block_id": "jsb-lev-11-18",
+      "type": "verse",
+      "number": 18,
+      "text": "the white owl, the pelican, and the bustard;"
+    },
+    {
+      "block_id": "jsb-lev-11-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the stork; herons of every variety; the hoopoe, and the bat."
+    },
+    {
+      "block_id": "jsb-lev-11-20",
+      "type": "verse",
+      "number": 20,
+      "text": "All winged swarming things that walk on fours shall be an abomination for you."
+    },
+    {
+      "block_id": "jsb-lev-11-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But these you may eat among all the winged swarming things that walk on fours: all that have, above their feet, jointed legs to leap with on the ground—"
+    },
+    {
+      "block_id": "jsb-lev-11-22",
+      "type": "verse",
+      "number": 22,
+      "text": "of these you may eat the following: locusts of every variety; all varieties of bald locust; crickets of every variety; and all varieties of grasshopper."
+    },
+    {
+      "block_id": "jsb-lev-11-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But all other winged swarming things that have four legs shall be an abomination for you."
+    },
+    {
+      "block_id": "jsb-lev-11-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And the following shall make you unclean—whoever touches their carcasses shall be unclean until evening,"
+    },
+    {
+      "block_id": "jsb-lev-11-25",
+      "type": "verse",
+      "number": 25,
+      "text": "and whoever carries the carcasses of any of them shall wash his clothes and be unclean until evening—"
+    },
+    {
+      "block_id": "jsb-lev-11-26",
+      "type": "verse",
+      "number": 26,
+      "text": "every animal that has true hoofs but without clefts through the hoofs, or that does not chew the cud. They are unclean for you; whoever touches them shall be unclean."
+    },
+    {
+      "block_id": "jsb-lev-11-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Also all animals that walk on paws, among those that walk on fours, are unclean for you; whoever touches their carcasses shall be unclean until evening."
+    },
+    {
+      "block_id": "jsb-lev-11-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And anyone who carries their carcasses shall wash his clothes and remain unclean until evening. They are unclean for you."
+    },
+    {
+      "block_id": "jsb-lev-11-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The following shall be unclean for you from among the things that swarm on the earth: the mole, the mouse, and great lizards of every variety;"
+    },
+    {
+      "block_id": "jsb-lev-11-30",
+      "type": "verse",
+      "number": 30,
+      "text": "the gecko, the land crocodile, the lizard, the sand lizard, and the chameleon."
+    },
+    {
+      "block_id": "jsb-lev-11-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Those are for you the unclean among all the swarming things; whoever touches them when they are dead shall be unclean until evening."
+    },
+    {
+      "block_id": "jsb-lev-11-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And anything on which one of them falls when dead shall be unclean: be it any article of wood, or a cloth, or a skin, or a sack—any such article that can be put to use shall be dipped in water, and it shall remain unclean until evening; then it shall be clean."
+    },
+    {
+      "block_id": "jsb-lev-11-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And if any of those falls into an earthen vessel, everything inside it shall be unclean and [the vessel] itself you shall break."
+    },
+    {
+      "block_id": "jsb-lev-11-34",
+      "type": "verse",
+      "number": 34,
+      "text": "As to any food that may be eaten, it shall become unclean if it came in contact with water; as to any liquid that may be drunk, it shall become unclean if it was inside any vessel."
+    },
+    {
+      "block_id": "jsb-lev-11-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Everything on which the carcass of any of them falls shall be unclean: an oven or stove shall be smashed. They are unclean and unclean they shall remain for you."
+    },
+    {
+      "block_id": "jsb-lev-11-36",
+      "type": "verse",
+      "number": 36,
+      "text": "However, a spring or cistern in which water is collected shall be clean, but whoever touches such a carcass in it shall be unclean."
+    },
+    {
+      "block_id": "jsb-lev-11-37",
+      "type": "verse",
+      "number": 37,
+      "text": "If such a carcass falls upon seed grain that is to be sown, it is clean;"
+    },
+    {
+      "block_id": "jsb-lev-11-38",
+      "type": "verse",
+      "number": 38,
+      "text": "but if water is put on the seed and any part of a carcass falls upon it, it shall be unclean for you."
+    },
+    {
+      "block_id": "jsb-lev-11-39",
+      "type": "verse",
+      "number": 39,
+      "text": "If an animal that you may eat has died, anyone who touches its carcass shall be unclean until evening;"
+    },
+    {
+      "block_id": "jsb-lev-11-40",
+      "type": "verse",
+      "number": 40,
+      "text": "anyone who eats of its carcass shall wash his clothes and remain unclean until evening; and anyone who carries its carcass shall wash his clothes and remain unclean until evening."
+    },
+    {
+      "block_id": "jsb-lev-11-41",
+      "type": "verse",
+      "number": 41,
+      "text": "All the things that swarm upon the earth are an abomination; they shall not be eaten."
+    },
+    {
+      "block_id": "jsb-lev-11-42",
+      "type": "verse",
+      "number": 42,
+      "text": "You shall not eat, among all things that swarm upon the earth, anything that crawls on its belly, or anything that walks on fours, or anything that has many legs; for they are an abomination."
+    },
+    {
+      "block_id": "jsb-lev-11-43",
+      "type": "verse",
+      "number": 43,
+      "text": "You shall not draw abomination upon yourselves through anything that swarms; you shall not make yourselves unclean therewith and thus become unclean."
+    },
+    {
+      "block_id": "jsb-lev-11-44",
+      "type": "verse",
+      "number": 44,
+      "text": "For I the Lord am your God: you shall sanctify yourselves and be holy, for I am holy. You shall not make yourselves unclean through any swarming thing that moves upon the earth."
+    },
+    {
+      "block_id": "jsb-lev-11-45",
+      "type": "verse",
+      "number": 45,
+      "text": "For I the Lord am He who brought you up from the land of Egypt to be your God: you shall be holy, for I am holy."
+    },
+    {
+      "block_id": "jsb-lev-11-46",
+      "type": "verse",
+      "number": 46,
+      "text": "These are the instructions concerning animals, birds, all living creatures that move in water, and all creatures that swarm on earth,"
+    },
+    {
+      "block_id": "jsb-lev-11-47",
+      "type": "verse",
+      "number": 47,
+      "text": "for distinguishing between the unclean and the clean, between the living things that may be eaten and the living things that may not be eaten."
+    }
+  ]
+}

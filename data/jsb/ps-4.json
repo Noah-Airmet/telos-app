@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-4",
+  "title": "Psalms 4",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "For the leader; with instrumental music. A psalm of David."
+    },
+    {
+      "block_id": "jsb-ps-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Answer me when I call, O God, my vindicator! You freed me from distress; have mercy on me and hear my prayer."
+    },
+    {
+      "block_id": "jsb-ps-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You men, how long will my glory be mocked, will you love illusions, have recourse to frauds?Selah."
+    },
+    {
+      "block_id": "jsb-ps-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Know that the Lord singles out the faithful for Himself; the Lord hears when I call to Him."
+    },
+    {
+      "block_id": "jsb-ps-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So tremble, and sin no more; ponder it on your bed, and sigh."
+    },
+    {
+      "block_id": "jsb-ps-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Offer sacrifices in righteousness and trust in the Lord."
+    },
+    {
+      "block_id": "jsb-ps-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Many say, “O for good days!” Bestow Your favor on us, O Lord."
+    },
+    {
+      "block_id": "jsb-ps-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You put joy into my heart when their grain and wine show increase."
+    },
+    {
+      "block_id": "jsb-ps-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Safe and sound, I lie down and sleep, for You alone, O Lord, keep me secure."
+    }
+  ]
+}

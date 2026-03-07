@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-82",
+  "title": "Psalms 82",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-82-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A psalm of Asaph. God stands in the divine assembly; among the divine beings He pronounces judgment."
+    },
+    {
+      "block_id": "jsb-ps-82-2",
+      "type": "verse",
+      "number": 2,
+      "text": "How long will you judge perversely, showing favor to the wicked?Selah."
+    },
+    {
+      "block_id": "jsb-ps-82-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Judge the wretched and the orphan, vindicate the lowly and the poor,"
+    },
+    {
+      "block_id": "jsb-ps-82-4",
+      "type": "verse",
+      "number": 4,
+      "text": "rescue the wretched and the needy; save them from the hand of the wicked."
+    },
+    {
+      "block_id": "jsb-ps-82-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They neither know nor understand, they go about in darkness; all the foundations of the earth totter."
+    },
+    {
+      "block_id": "jsb-ps-82-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I had taken you for divine beings, sons of the Most High, all of you;"
+    },
+    {
+      "block_id": "jsb-ps-82-7",
+      "type": "verse",
+      "number": 7,
+      "text": "but you shall die as men do, fall like any prince."
+    },
+    {
+      "block_id": "jsb-ps-82-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Arise, O God, judge the earth, for all the nations are Your possession."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-149",
+  "title": "Psalms 149",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-149-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hallelujah. Sing to the Lord a new song, His praises in the congregation of the faithful."
+    },
+    {
+      "block_id": "jsb-ps-149-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Let Israel rejoice in its maker; let the children of Zion exult in their king."
+    },
+    {
+      "block_id": "jsb-ps-149-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let them praise His name in dance; with timbrel and lyre let them chant His praises."
+    },
+    {
+      "block_id": "jsb-ps-149-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For the Lord delights in His people; He adorns the lowly with victory."
+    },
+    {
+      "block_id": "jsb-ps-149-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the faithful exult in glory; let them shout for joy upon their couches,"
+    },
+    {
+      "block_id": "jsb-ps-149-6",
+      "type": "verse",
+      "number": 6,
+      "text": "with paeans to God in their throats and two-edged swords in their hands,"
+    },
+    {
+      "block_id": "jsb-ps-149-7",
+      "type": "verse",
+      "number": 7,
+      "text": "to impose retribution upon the nations, punishment upon the peoples,"
+    },
+    {
+      "block_id": "jsb-ps-149-8",
+      "type": "verse",
+      "number": 8,
+      "text": "binding their kings with shackles, their nobles with chains of iron,"
+    },
+    {
+      "block_id": "jsb-ps-149-9",
+      "type": "verse",
+      "number": 9,
+      "text": "executing the doom decreed against them. This is the glory of all His faithful. Hallelujah."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "ps-123",
+  "title": "Psalms 123",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-123-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song of ascents. To You, enthroned in heaven, I turn my eyes."
+    },
+    {
+      "block_id": "jsb-ps-123-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the eyes of slaves follow their master’s hand, as the eyes of a slave-girl follow the hand of her mistress, so our eyes are toward the Lord our God, awaiting His favor."
+    },
+    {
+      "block_id": "jsb-ps-123-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Show us favor, O Lord, show us favor! We have had more than enough of contempt."
+    },
+    {
+      "block_id": "jsb-ps-123-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Long enough have we endured the scorn of the complacent, the contempt of the haughty."
+    }
+  ]
+}

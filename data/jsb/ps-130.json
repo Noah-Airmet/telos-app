@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-130",
+  "title": "Psalms 130",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-130-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A song of ascents. Out of the depths I call You, O Lord."
+    },
+    {
+      "block_id": "jsb-ps-130-2",
+      "type": "verse",
+      "number": 2,
+      "text": "O Lord, listen to my cry; let Your ears be attentive to my plea for mercy."
+    },
+    {
+      "block_id": "jsb-ps-130-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If You keep account of sins, O Lord, Lord, who will survive?"
+    },
+    {
+      "block_id": "jsb-ps-130-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Yours is the power to forgive so that You may be held in awe."
+    },
+    {
+      "block_id": "jsb-ps-130-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I look to the Lord; I look to Him; I await His word."
+    },
+    {
+      "block_id": "jsb-ps-130-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I am more eager for the Lord than watchmen for the morning, watchmen for the morning."
+    },
+    {
+      "block_id": "jsb-ps-130-7",
+      "type": "verse",
+      "number": 7,
+      "text": "O Israel, wait for the Lord; for with the Lord is steadfast love and great power to redeem."
+    },
+    {
+      "block_id": "jsb-ps-130-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It is He who will redeem Israel from all their iniquities."
+    }
+  ]
+}

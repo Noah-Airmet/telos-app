@@ -1,0 +1,428 @@
+{
+  "document_id": "ezra-2",
+  "title": "Ezra 2",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ezra-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "These are the people of the province who came up from among the captive exiles whom King Nebuchadnezzar of Babylon had carried into exile to Babylon, who returned to Jerusalem and Judah, each to his own city,"
+    },
+    {
+      "block_id": "jsb-ezra-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah: The list of the men of the people of Israel:"
+    },
+    {
+      "block_id": "jsb-ezra-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the sons of Parosh—2,172;"
+    },
+    {
+      "block_id": "jsb-ezra-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "the sons of Shephatiah—372;"
+    },
+    {
+      "block_id": "jsb-ezra-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "the sons of Arah—775;"
+    },
+    {
+      "block_id": "jsb-ezra-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "the sons of Pahath-moab: the sons of Jeshua and Joab—2,812;"
+    },
+    {
+      "block_id": "jsb-ezra-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "the sons of Elam—1,254;"
+    },
+    {
+      "block_id": "jsb-ezra-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "the sons of Zattu—945;"
+    },
+    {
+      "block_id": "jsb-ezra-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "the sons of Zaccai—760;"
+    },
+    {
+      "block_id": "jsb-ezra-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "the sons of Bani—642;"
+    },
+    {
+      "block_id": "jsb-ezra-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "the sons of Bebai—623;"
+    },
+    {
+      "block_id": "jsb-ezra-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "the sons of Azgad—1,222;"
+    },
+    {
+      "block_id": "jsb-ezra-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "the sons of Adonikam—666;"
+    },
+    {
+      "block_id": "jsb-ezra-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "the sons of Bigvai—2,056;"
+    },
+    {
+      "block_id": "jsb-ezra-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "the sons of Adin—454;"
+    },
+    {
+      "block_id": "jsb-ezra-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the sons of Ater: Hezekiah—98;"
+    },
+    {
+      "block_id": "jsb-ezra-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the sons of Bezai—323;"
+    },
+    {
+      "block_id": "jsb-ezra-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "the sons of Jorah—112;"
+    },
+    {
+      "block_id": "jsb-ezra-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the sons of Hashum—223;"
+    },
+    {
+      "block_id": "jsb-ezra-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "the sons of Gibbar—95;"
+    },
+    {
+      "block_id": "jsb-ezra-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "the sons of Bethlehem—123;"
+    },
+    {
+      "block_id": "jsb-ezra-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "the sons of Netophah—56;"
+    },
+    {
+      "block_id": "jsb-ezra-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "the sons of Anathoth—128;"
+    },
+    {
+      "block_id": "jsb-ezra-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "the sons of Azmaveth—42;"
+    },
+    {
+      "block_id": "jsb-ezra-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "the sons of Kiriath-arim: Chephirah and Beeroth—743;"
+    },
+    {
+      "block_id": "jsb-ezra-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "the sons of Ramah and Geba—621;"
+    },
+    {
+      "block_id": "jsb-ezra-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "the men of Michmas—122;"
+    },
+    {
+      "block_id": "jsb-ezra-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "the men of Beth-el and Ai—223;"
+    },
+    {
+      "block_id": "jsb-ezra-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "the men of Nebo—52;"
+    },
+    {
+      "block_id": "jsb-ezra-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "the sons of Magbish—156;"
+    },
+    {
+      "block_id": "jsb-ezra-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "the sons of the other Elam—1,254;"
+    },
+    {
+      "block_id": "jsb-ezra-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "the sons of Harim—320;"
+    },
+    {
+      "block_id": "jsb-ezra-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "the sons of Lod, Hadid, and Ono—725;"
+    },
+    {
+      "block_id": "jsb-ezra-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "the sons of Jericho—345;"
+    },
+    {
+      "block_id": "jsb-ezra-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "the sons of Senaah—3,630."
+    },
+    {
+      "block_id": "jsb-ezra-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The priests: the sons of Jedaiah: the house of Jeshua—973;"
+    },
+    {
+      "block_id": "jsb-ezra-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "the sons of Immer—1,052;"
+    },
+    {
+      "block_id": "jsb-ezra-2-38",
+      "type": "verse",
+      "number": 38,
+      "text": "the sons of Pashhur—1,247;"
+    },
+    {
+      "block_id": "jsb-ezra-2-39",
+      "type": "verse",
+      "number": 39,
+      "text": "the sons of Harim—1,017."
+    },
+    {
+      "block_id": "jsb-ezra-2-40",
+      "type": "verse",
+      "number": 40,
+      "text": "The Levites: the sons of Jeshua and Kadmiel: the sons of Hodaviah—74."
+    },
+    {
+      "block_id": "jsb-ezra-2-41",
+      "type": "verse",
+      "number": 41,
+      "text": "The singers: the sons of Asaph—128."
+    },
+    {
+      "block_id": "jsb-ezra-2-42",
+      "type": "verse",
+      "number": 42,
+      "text": "The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, all told—139."
+    },
+    {
+      "block_id": "jsb-ezra-2-43",
+      "type": "verse",
+      "number": 43,
+      "text": "The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,"
+    },
+    {
+      "block_id": "jsb-ezra-2-44",
+      "type": "verse",
+      "number": 44,
+      "text": "the sons of Keros, the sons of Siaha, the sons of Padon,"
+    },
+    {
+      "block_id": "jsb-ezra-2-45",
+      "type": "verse",
+      "number": 45,
+      "text": "the sons of Lebanah, the sons of Hagabah, the sons of Akkub,"
+    },
+    {
+      "block_id": "jsb-ezra-2-46",
+      "type": "verse",
+      "number": 46,
+      "text": "the sons of Hagab, the sons of Salmai, the sons of Hanan,"
+    },
+    {
+      "block_id": "jsb-ezra-2-47",
+      "type": "verse",
+      "number": 47,
+      "text": "the sons of Giddel, the sons of Gahar, the sons of Reaiah,"
+    },
+    {
+      "block_id": "jsb-ezra-2-48",
+      "type": "verse",
+      "number": 48,
+      "text": "the sons of Rezin, the sons of Nekoda, the sons of Gazzam,"
+    },
+    {
+      "block_id": "jsb-ezra-2-49",
+      "type": "verse",
+      "number": 49,
+      "text": "the sons of Uzza, the sons of Paseah, the sons of Besai,"
+    },
+    {
+      "block_id": "jsb-ezra-2-50",
+      "type": "verse",
+      "number": 50,
+      "text": "the sons of Asnah, the sons of Meunim, the sons of Nephusim,"
+    },
+    {
+      "block_id": "jsb-ezra-2-51",
+      "type": "verse",
+      "number": 51,
+      "text": "the sons of Bakbuk, the sons of Hakupha, the sons of Harhur,"
+    },
+    {
+      "block_id": "jsb-ezra-2-52",
+      "type": "verse",
+      "number": 52,
+      "text": "the sons of Bazluth, the sons of Mehida, the sons of Harsha,"
+    },
+    {
+      "block_id": "jsb-ezra-2-53",
+      "type": "verse",
+      "number": 53,
+      "text": "the sons of Barkos, the sons of Sisera, the sons of Temah,"
+    },
+    {
+      "block_id": "jsb-ezra-2-54",
+      "type": "verse",
+      "number": 54,
+      "text": "the sons of Neziah, the sons of Hatipha."
+    },
+    {
+      "block_id": "jsb-ezra-2-55",
+      "type": "verse",
+      "number": 55,
+      "text": "The sons of Solomon’s servants: the sons of Sotai, the sons of Hassophereth, the sons of Peruda,"
+    },
+    {
+      "block_id": "jsb-ezra-2-56",
+      "type": "verse",
+      "number": 56,
+      "text": "the sons of Jaalah, the sons of Darkon, the sons of Giddel,"
+    },
+    {
+      "block_id": "jsb-ezra-2-57",
+      "type": "verse",
+      "number": 57,
+      "text": "the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Ami."
+    },
+    {
+      "block_id": "jsb-ezra-2-58",
+      "type": "verse",
+      "number": 58,
+      "text": "The total of temple servants and the sons of Solomon’s servants—392."
+    },
+    {
+      "block_id": "jsb-ezra-2-59",
+      "type": "verse",
+      "number": 59,
+      "text": "The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer—they were unable to tell whether their father’s house and descent were Israelite:"
+    },
+    {
+      "block_id": "jsb-ezra-2-60",
+      "type": "verse",
+      "number": 60,
+      "text": "the sons of Delaiah, the sons of Tobiah, the sons of Nekoda—652."
+    },
+    {
+      "block_id": "jsb-ezra-2-61",
+      "type": "verse",
+      "number": 61,
+      "text": "Of the sons of the priests, the sons of Habaiah, the sons of Hakkoz, the sons of Barzillai who had married a daughter of Barzillai and had taken his name—"
+    },
+    {
+      "block_id": "jsb-ezra-2-62",
+      "type": "verse",
+      "number": 62,
+      "text": "these searched for their genealogical records, but they could not be found, so they were disqualified for the priesthood."
+    },
+    {
+      "block_id": "jsb-ezra-2-63",
+      "type": "verse",
+      "number": 63,
+      "text": "The Tirshatha ordered them not to eat of the most holy things until a priest with Urim and Thummim should appear."
+    },
+    {
+      "block_id": "jsb-ezra-2-64",
+      "type": "verse",
+      "number": 64,
+      "text": "The sum of the entire community was 42,360,"
+    },
+    {
+      "block_id": "jsb-ezra-2-65",
+      "type": "verse",
+      "number": 65,
+      "text": "not counting their male and female servants, those being 7,337; they also had 200 male and female singers."
+    },
+    {
+      "block_id": "jsb-ezra-2-66",
+      "type": "verse",
+      "number": 66,
+      "text": "Their horses—736; their mules—245;"
+    },
+    {
+      "block_id": "jsb-ezra-2-67",
+      "type": "verse",
+      "number": 67,
+      "text": "their camels—435; their asses—6,720."
+    },
+    {
+      "block_id": "jsb-ezra-2-68",
+      "type": "verse",
+      "number": 68,
+      "text": "Some of the chiefs of the clans, on arriving at the House of the Lord in Jerusalem, gave a freewill offering to erect the House of God on its site."
+    },
+    {
+      "block_id": "jsb-ezra-2-69",
+      "type": "verse",
+      "number": 69,
+      "text": "In accord with their means, they donated to the treasury of the work: gold—6,100 drachmas, silver—5,000 minas, and priestly robes—100."
+    },
+    {
+      "block_id": "jsb-ezra-2-70",
+      "type": "verse",
+      "number": 70,
+      "text": "The priests, the Levites and some of the people, and the singers, gatekeepers, and the temple servants took up residence in their towns and all Israel in their towns."
+    }
+  ]
+}

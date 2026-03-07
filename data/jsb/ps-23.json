@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-23",
+  "title": "Psalms 23",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A psalm of David. The Lord is my shepherd; I lack nothing."
+    },
+    {
+      "block_id": "jsb-ps-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He makes me lie down in green pastures; He leads me to water in places of repose;"
+    },
+    {
+      "block_id": "jsb-ps-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He renews my life; He guides me in right paths as befits His name."
+    },
+    {
+      "block_id": "jsb-ps-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Though I walk through a valley of deepest darkness, I fear no harm, for You are with me; Your rod and Your staff—they comfort me."
+    },
+    {
+      "block_id": "jsb-ps-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You spread a table for me in full view of my enemies; You anoint my head with oil; my drink is abundant."
+    },
+    {
+      "block_id": "jsb-ps-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Only goodness and steadfast love shall pursue me all the days of my life, and I shall dwell in the house of the Lord for many long years."
+    }
+  ]
+}

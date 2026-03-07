@@ -1,0 +1,276 @@
+{
+  "document_id": "gen-36",
+  "title": "Genesis 36",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-gen-36-heading-43",
+      "type": "heading",
+      "text": "VA-YESHEV"
+    },
+    {
+      "block_id": "jsb-gen-36-heading-44",
+      "type": "heading",
+      "text": "וישב"
+    },
+    {
+      "block_id": "jsb-gen-36-1",
+      "type": "verse",
+      "number": 1,
+      "text": "This is the line of Esau—that is, Edom."
+    },
+    {
+      "block_id": "jsb-gen-36-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Esau took his wives from among the Canaanite women—Adah daughter of Elon the Hittite, and Oholibamah daughter of Anah daughter of Zibeon the Hivite—"
+    },
+    {
+      "block_id": "jsb-gen-36-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and also Basemath daughter of Ishmael and sister of Nebaioth."
+    },
+    {
+      "block_id": "jsb-gen-36-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Adah bore to Esau Eliphaz; Basemath bore Reuel;"
+    },
+    {
+      "block_id": "jsb-gen-36-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and Oholibamah bore Jeush, Jalam, and Korah. Those were the sons of Esau, who were born to him in the land of Canaan."
+    },
+    {
+      "block_id": "jsb-gen-36-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Esau took his wives, his sons and daughters, and all the members of his household, his cattle and all his livestock, and all the property that he had acquired in the land of Canaan, and went to another land because of his brother Jacob."
+    },
+    {
+      "block_id": "jsb-gen-36-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For their possessions were too many for them to dwell together, and the land where they sojourned could not support them because of their livestock."
+    },
+    {
+      "block_id": "jsb-gen-36-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So Esau settled in the hill country of Seir—Esau being Edom."
+    },
+    {
+      "block_id": "jsb-gen-36-9",
+      "type": "verse",
+      "number": 9,
+      "text": "This, then, is the line of Esau, the ancestor of the Edomites, in the hill country of Seir."
+    },
+    {
+      "block_id": "jsb-gen-36-10",
+      "type": "verse",
+      "number": 10,
+      "text": "These are the names of Esau’s sons: Eliphaz, the son of Esau’s wife Adah; Reuel, the son of Esau’s wife Basemath."
+    },
+    {
+      "block_id": "jsb-gen-36-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz."
+    },
+    {
+      "block_id": "jsb-gen-36-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Timna was a concubine of Esau’s son Eliphaz; she bore Amalek to Eliphaz. Those were the descendants of Esau’s wife Adah."
+    },
+    {
+      "block_id": "jsb-gen-36-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And these were the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. Those were the descendants of Esau’s wife Basemath."
+    },
+    {
+      "block_id": "jsb-gen-36-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And these were the sons of Esau’s wife Oholibamah, daughter of Anah daughter of Zibeon: she bore to Esau Jeush, Jalam, and Korah."
+    },
+    {
+      "block_id": "jsb-gen-36-15",
+      "type": "verse",
+      "number": 15,
+      "text": "These are the clans of the children of Esau. The descendants of Esau’s first-born Eliphaz: the clans Teman, Omar, Zepho, Kenaz,"
+    },
+    {
+      "block_id": "jsb-gen-36-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Korah, Gatam, and Amalek; these are the clans of Eliphaz in the land of Edom. Those are the descendants of Adah."
+    },
+    {
+      "block_id": "jsb-gen-36-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And these are the descendants of Esau’s son Reuel: the clans Nahath, Zerah, Shammah, and Mizzah; these are the clans of Reuel in the land of Edom. Those are the descendants of Esau’s wife Basemath."
+    },
+    {
+      "block_id": "jsb-gen-36-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And these are the descendants of Esau’s wife Oholibamah: the clans Jeush, Jalam, and Korah; these are the clans of Esau’s wife Oholibamah, the daughter of Anah."
+    },
+    {
+      "block_id": "jsb-gen-36-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Those were the sons of Esau—that is, Edom—and those are their clans."
+    },
+    {
+      "block_id": "jsb-gen-36-20",
+      "type": "verse",
+      "number": 20,
+      "text": "These were the sons of Seir the Horite, who were settled in the land: Lotan, Shobal, Zibeon, Anah,"
+    },
+    {
+      "block_id": "jsb-gen-36-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Dishon, Ezer, and Dishan. Those are the clans of the Horites, the descendants of Seir, in the land of Edom."
+    },
+    {
+      "block_id": "jsb-gen-36-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The sons of Lotan were Hori and Hemam; and Lotan’s sister was Timna."
+    },
+    {
+      "block_id": "jsb-gen-36-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The sons of Shobal were these: Alvan, Manahath, Ebal, Shepho, and Onam."
+    },
+    {
+      "block_id": "jsb-gen-36-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The sons of Zibeon were these: Aiah and Anah—that was the Anah who discovered the hot springs in the wilderness while pasturing the asses of his father Zibeon."
+    },
+    {
+      "block_id": "jsb-gen-36-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The children of Anah were these: Dishon and Anah’s daughter Oholibamah."
+    },
+    {
+      "block_id": "jsb-gen-36-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The sons of Dishon were these: Hemdan, Eshban, Ithran, and Cheran."
+    },
+    {
+      "block_id": "jsb-gen-36-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The sons of Ezer were these: Bilhan, Zaavan, and Akan."
+    },
+    {
+      "block_id": "jsb-gen-36-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And the sons of Dishan were these: Uz and Aran."
+    },
+    {
+      "block_id": "jsb-gen-36-29",
+      "type": "verse",
+      "number": 29,
+      "text": "These are the clans of the Horites: the clans Lotan, Shobal, Zibeon, Anah,"
+    },
+    {
+      "block_id": "jsb-gen-36-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Dishon, Ezer, and Dishan. Those are the clans of the Horites, clan by clan, in the land of Seir."
+    },
+    {
+      "block_id": "jsb-gen-36-31",
+      "type": "verse",
+      "number": 31,
+      "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites."
+    },
+    {
+      "block_id": "jsb-gen-36-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Bela son of Beor reigned in Edom, and the name of his city was Dinhabah."
+    },
+    {
+      "block_id": "jsb-gen-36-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When Bela died, Jobab son of Zerah, from Bozrah, succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When Jobab died, Husham of the land of the Temanites succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-35",
+      "type": "verse",
+      "number": 35,
+      "text": "When Husham died, Hadad son of Bedad, who defeated the Midianites in the country of Moab, succeeded him as king; the name of his city was Avith."
+    },
+    {
+      "block_id": "jsb-gen-36-36",
+      "type": "verse",
+      "number": 36,
+      "text": "When Hadad died, Samlah of Masrekah succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-37",
+      "type": "verse",
+      "number": 37,
+      "text": "When Samlah died, Saul of Rehoboth-on-the-river succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-38",
+      "type": "verse",
+      "number": 38,
+      "text": "When Saul died, Baal-hanan son of Achbor succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-39",
+      "type": "verse",
+      "number": 39,
+      "text": "And when Baal-hanan son of Achbor died, Hadar succeeded him as king; the name of his city was Pau, and his wife’s name was Mehetabel daughter of Matred daughter of Me‑zahab."
+    },
+    {
+      "block_id": "jsb-gen-36-40",
+      "type": "verse",
+      "number": 40,
+      "text": "These are the names of the clans of Esau, each with its families and locality, name by name: the clans Timna, Alvah, Jetheth,"
+    },
+    {
+      "block_id": "jsb-gen-36-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Oholibamah, Elah, Pinon,"
+    },
+    {
+      "block_id": "jsb-gen-36-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Kenaz, Teman, Mibzar,"
+    },
+    {
+      "block_id": "jsb-gen-36-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Magdiel, and Iram. Those are the clans of Edom—that is, of Esau, father of the Edomites—by their settlements in the land which they hold."
+    }
+  ]
+}

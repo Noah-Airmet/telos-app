@@ -252,19 +252,19 @@ export function ReadingPane({
   // ── Scroll sync ───────────────────────────────────────────────────────────────
 
   const observerRef = useRef<IntersectionObserver | null>(null);
-  const lastVisibleBlockIdRef = useRef<string | null>(null);
+  const lastVisibleCompareUnitIdRef = useRef<string | null>(null);
   const previousIsActivePaneRef = useRef(Boolean(isActivePane));
 
   useEffect(() => {
-    if (!doc || !isActivePane || !onVisibleBlockChange) return;
+    if (!doc || !isActivePane || !onVisibleCompareUnitChange) return;
     observerRef.current = new IntersectionObserver(
       (entries) => {
         const v = entries.find((e) => e.isIntersecting);
         if (v) {
-          const id = v.target.getAttribute("data-block-id");
-          if (id) {
-            lastVisibleBlockIdRef.current = id;
-            onVisibleBlockChange(id);
+          const compareUnitId = v.target.getAttribute("data-sync-unit-id");
+          if (compareUnitId) {
+            lastVisibleCompareUnitIdRef.current = compareUnitId;
+            onVisibleCompareUnitChange(compareUnitId);
           }
         }
       },
@@ -274,26 +274,32 @@ export function ReadingPane({
       scrollRef.current?.querySelectorAll(".verse-container").forEach((el) => observerRef.current?.observe(el));
     }, 100);
     return () => { clearTimeout(t); observerRef.current?.disconnect(); };
-  }, [doc, isActivePane, onVisibleBlockChange]);
+  }, [doc, isActivePane, onVisibleCompareUnitChange]);
 
   useLayoutEffect(() => {
     const wasActivePane = previousIsActivePaneRef.current;
     previousIsActivePaneRef.current = Boolean(isActivePane);
 
-    if (!syncBlockId || isActivePane) return;
-    if (wasActivePane && lastVisibleBlockIdRef.current === syncBlockId) return;
+    if (!syncCompareUnitId || isActivePane) return;
+    if (wasActivePane && lastVisibleCompareUnitIdRef.current === syncCompareUnitId) return;
 
     const container = scrollRef.current;
-    const el = container?.querySelector<HTMLElement>(`[data-block-id="${syncBlockId}"]`);
+    const targetBlock = doc?.blocks.find((block) =>
+      blockContainsCompareUnit(block, syncCompareUnitId) ||
+      getBlockPrimaryCompareUnitId(block) === syncCompareUnitId
+    );
+    const el = targetBlock
+      ? container?.querySelector<HTMLElement>(`[data-block-id="${targetBlock.block_id}"]`)
+      : null;
     if (container && el) {
       const containerRect = container.getBoundingClientRect();
       const elementRect = el.getBoundingClientRect();
       const nextScrollTop = container.scrollTop + (elementRect.top - containerRect.top);
 
-      lastVisibleBlockIdRef.current = syncBlockId;
+      lastVisibleCompareUnitIdRef.current = syncCompareUnitId;
       container.scrollTo({ top: Math.max(nextScrollTop, 0), behavior: "auto" });
     }
-  }, [syncBlockId, isActivePane, doc]);
+  }, [syncCompareUnitId, isActivePane, doc]);
 
   // ── Keyboard nav (only when this pane is active) ─────────────────────────────
 
@@ -356,6 +362,21 @@ export function ReadingPane({
     [book, chapter, doc, profile]
   );
 
+  const getComparisonTextForBlock = useCallback(
+    (block: TelosDocument["blocks"][number]) => {
+      if (!canShowComparisonDiffs) return undefined;
+      if (!hasFullComparisonCoverage(block, comparisonIndex)) return undefined;
+
+      const text = (block.compare_unit_ids ?? [])
+        .map((unitId) => comparisonIndex.get(unitId)?.text ?? "")
+        .join(" ")
+        .trim();
+
+      return text || undefined;
+    },
+    [canShowComparisonDiffs, comparisonIndex]
+  );
+
   // ── Empty / loading ───────────────────────────────────────────────────────────
 
   if (!book) {
@@ -393,18 +414,19 @@ export function ReadingPane({
 
       <div ref={scrollRef} className={`min-h-0 flex-1 overflow-y-auto px-6 py-8 lg:px-10 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
         <div className="mx-auto w-full max-w-[42rem] space-y-4 text-content relative">
+          {showComparisonDiffs && comparisonDoc && !canShowComparisonDiffs && (
+            <p className="rounded-md border border-[var(--border-color)] bg-[var(--surface-overlay)] px-3 py-2 text-sm text-[var(--text-secondary)]">
+              Diffs are unavailable for this chapter pairing because the editions do not share enough verse-aligned coverage.
+            </p>
+          )}
           {doc.blocks.map((block) => (
             <VerseBlock
               key={block.block_id}
               block={block}
               highlights={highlights.filter((h) => h.block_id === block.block_id)}
               noteCount={notesByBlockId.get(block.block_id)?.length ?? 0}
-              comparisonText={
-                showComparisonDiffs
-                  ? comparisonDoc?.blocks.find((b) => b.block_id === block.block_id)?.text
-                  : undefined
-              }
-              showComparisonDiff={Boolean(showComparisonDiffs)}
+              comparisonText={getComparisonTextForBlock(block)}
+              showComparisonDiff={canShowComparisonDiffs}
               onHighlightClick={handleHighlightClick}
               onOpenNotes={() => {
                 const blockNotes = notesByBlockId.get(block.block_id) ?? [];

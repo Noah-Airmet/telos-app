@@ -1,0 +1,44 @@
+{
+  "document_id": "ps-70",
+  "title": "Psalms 70",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-70-1",
+      "type": "verse",
+      "number": 1,
+      "text": "For the leader. Of David. Lehazkir."
+    },
+    {
+      "block_id": "jsb-ps-70-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hasten, O God, to save me; O Lord, to aid me!"
+    },
+    {
+      "block_id": "jsb-ps-70-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let those who seek my life be frustrated and disgraced; let those who wish me harm, fall back in shame."
+    },
+    {
+      "block_id": "jsb-ps-70-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let those who say, “Aha! Aha!” turn back because of their frustration."
+    },
+    {
+      "block_id": "jsb-ps-70-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But let all who seek You be glad and rejoice in You; let those who are eager for Your deliverance always say, “Extolled be God!”"
+    },
+    {
+      "block_id": "jsb-ps-70-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But I am poor and needy; O God, hasten to me! You are my help and my rescuer; O Lord, do not delay."
+    }
+  ]
+}

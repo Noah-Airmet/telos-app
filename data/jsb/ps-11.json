@@ -1,0 +1,50 @@
+{
+  "document_id": "ps-11",
+  "title": "Psalms 11",
+  "type": "scripture",
+  "translation": "NJPS",
+  "blocks": [
+    {
+      "block_id": "jsb-ps-11-1",
+      "type": "verse",
+      "number": 1,
+      "text": "For the leader. Of David. In the Lord I take refuge; how can you say to me, “Take to the hills like a bird!"
+    },
+    {
+      "block_id": "jsb-ps-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For see, the wicked bend the bow, they set their arrow on the string to shoot from the shadows at the upright."
+    },
+    {
+      "block_id": "jsb-ps-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When the foundations are destroyed, what can the righteous man do?”"
+    },
+    {
+      "block_id": "jsb-ps-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord is in His holy palace; the Lord—His throne is in heaven; His eyes behold, His gaze searches mankind."
+    },
+    {
+      "block_id": "jsb-ps-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord seeks out the righteous man, but loathes the wicked one who loves injustice."
+    },
+    {
+      "block_id": "jsb-ps-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He will rain down upon the wicked blazing coals and sulfur; a scorching wind shall be their lot."
+    },
+    {
+      "block_id": "jsb-ps-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For the Lord is righteous; He loves righteous deeds; the upright shall behold His face."
+    }
+  ]
+}
