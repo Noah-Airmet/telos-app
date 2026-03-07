@@ -4,6 +4,31 @@ All notable changes to the Telos Gospel Library project will be documented in th
 
 ## [Unreleased]
 
+## [0.5.0] - Day One Alpha Release - 2026-03-07
+### Added
+- **Unified authenticated workspace shell:** Replaced the full-screen `reader vs planner` split with a single pane-based shell in `src/App.tsx` that can host `reading`, `plannerHome`, `plannerOutline`, `notes`, and `captureTray` panes side by side.
+- **Persisted shell layout model:** Added `ShellLayoutState` plus typed pane descriptors in `src/db/db.ts`, with repository support in `src/lib/studyRepository.ts` so active pane, pane order, pane widths, and pane-specific state reopen reliably across sessions.
+- **Planner pane decomposition:** Added `PlannerHomePane`, `PlannerOutlinePane`, `CaptureTrayPane`, `NotesPane`, `PaneHost`, `WorkspacePaneShell`, and `src/lib/workspace.ts` to turn planner, notes, and capture flows into first-class pane renderers instead of standalone pages or fixed rails.
+- **Pane drag reordering:** Added simple VS Code-style pane rearranging by dragging pane headers, including a delayed drag start and gray insertion placeholder.
+- **Sidebar collapse and resize controls:** The library rail can now collapse to a slim strip and can be resized horizontally for smaller or denser laptop layouts.
+- **Inline onboarding for study surfaces:** Added guidance text clarifying that `Notes` are for personal reflections while `Capture Tray` is a staging area for source material headed into a lesson outline.
+
+### Changed
+- **Brutalist authenticated design system:** Pulled landing-page language into `src/index.css` and restyled the chooser, sidebar, planner panes, command palette, and reader chrome with hard borders, inverse dark surfaces, mono metadata, italic serif callouts, and oversized uppercase hierarchy.
+- **Planner navigation now replaces planner panes:** Opening or creating a lesson from planner surfaces now replaces the current planner pane instead of spawning multiple new panes, keeping the workflow manageable on smaller screens.
+- **Reading panes now use explicit peer relationships:** Comparison/sync behavior was refactored away from `primary vs secondary` assumptions toward explicit `sync_group_id` and `linked_to_pane_id` state.
+- **Notes rail became an openable pane:** The old dedicated notes region was converted into a movable workspace pane that can sit beside reading and planner panes.
+- **Workspace chooser and post-login flow:** The authenticated entry path now routes through the unified shell/chooser model instead of branching into separate fullscreen shells.
+- **Reader layout for narrow panes:** Adjusted reading-pane spacing and removed the horizontal text scaling hack so scripture text behaves correctly in multi-pane layouts and narrower widths.
+- **Library controls:** Reworked the search/filter row so the search field uses the blocky mono shell font, the filter controls live behind a dropdown button, and the search/filter controls align cleanly.
+
+### Fixed
+- **Anonymous test login black screen:** Temporary test login now stays on the local repository instead of switching into Firestore-backed mode, preventing permission-denied snapshot failures from blanking the UI.
+- **Firestore listener failure handling:** Cloud subscriptions now fail soft and return empty/null fallback state instead of leaving the authenticated shell hung when permissions are insufficient.
+- **Duplicate pane creation on single click:** Shell layout persistence no longer performs write side effects inside React state updaters, which was causing duplicate pane opens in development.
+- **Header disappearance / broken scrolling during pane operations:** Stabilized the pane host drag structure and moved the reading header into normal layout flow to prevent layout corruption when adding or reorganizing panes.
+- **Reader text overflow in split panes:** Fixed right-edge spillover by constraining the text column and removing CSS that artificially widened reader content.
+
 ## [0.4.0] - Library, N-Pane Windowing & Navigation Overhaul
 
 ### Added
