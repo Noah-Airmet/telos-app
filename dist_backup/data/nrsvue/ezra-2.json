@@ -1,0 +1,433 @@
+{
+  "document_id": "ezra-2",
+  "title": "Ezra 2",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ezra-2-heading-list-of-the-returned",
+      "type": "heading",
+      "text": "List of the Returned Exiles"
+    },
+    {
+      "block_id": "ezra-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now these are the people of the province who came from those captive exiles whom King Nebuchadnezzar of Babylon had carried captive to Babylon; they returned to Jerusalem and Judah, all to their own towns."
+    },
+    {
+      "block_id": "ezra-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah."
+    },
+    {
+      "block_id": "ezra-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the descendants of Parosh, two thousand one hundred seventy-two."
+    },
+    {
+      "block_id": "ezra-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Of Shephatiah, three hundred seventy-two."
+    },
+    {
+      "block_id": "ezra-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Of Arah, seven hundred seventy-five."
+    },
+    {
+      "block_id": "ezra-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Of Pahath-moab, namely, the descendants of Jeshua and Joab, two thousand eight hundred twelve."
+    },
+    {
+      "block_id": "ezra-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Of Elam, one thousand two hundred fifty-four."
+    },
+    {
+      "block_id": "ezra-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Of Zattu, nine hundred forty-five."
+    },
+    {
+      "block_id": "ezra-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Of Zaccai, seven hundred sixty."
+    },
+    {
+      "block_id": "ezra-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Of Bani, six hundred forty-two."
+    },
+    {
+      "block_id": "ezra-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Of Bebai, six hundred twenty-three."
+    },
+    {
+      "block_id": "ezra-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Of Azgad, one thousand two hundred twenty-two."
+    },
+    {
+      "block_id": "ezra-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Of Adonikam, six hundred sixty-six."
+    },
+    {
+      "block_id": "ezra-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Of Bigvai, two thousand fifty-six."
+    },
+    {
+      "block_id": "ezra-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Of Adin, four hundred fifty-four."
+    },
+    {
+      "block_id": "ezra-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Of Ater, namely, of Hezekiah, ninety-eight."
+    },
+    {
+      "block_id": "ezra-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Of Bezai, three hundred twenty-three."
+    },
+    {
+      "block_id": "ezra-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Of Jorah, one hundred twelve."
+    },
+    {
+      "block_id": "ezra-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Of Hashum, two hundred twenty-three."
+    },
+    {
+      "block_id": "ezra-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Of Gibbar, ninety-five."
+    },
+    {
+      "block_id": "ezra-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Of Bethlehem, one hundred twenty-three."
+    },
+    {
+      "block_id": "ezra-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The people of Netophah, fifty-six."
+    },
+    {
+      "block_id": "ezra-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Of Anathoth, one hundred twenty-eight."
+    },
+    {
+      "block_id": "ezra-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The descendants of Azmaveth, forty-two."
+    },
+    {
+      "block_id": "ezra-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Of Kiriatharim, Chephirah, and Beeroth, seven hundred forty-three."
+    },
+    {
+      "block_id": "ezra-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Of Ramah and Geba, six hundred twenty-one."
+    },
+    {
+      "block_id": "ezra-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The people of Michmas, one hundred twenty-two."
+    },
+    {
+      "block_id": "ezra-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Of Bethel and Ai, two hundred twenty-three."
+    },
+    {
+      "block_id": "ezra-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The descendants of Nebo, fifty-two."
+    },
+    {
+      "block_id": "ezra-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Of Magbish, one hundred fifty-six."
+    },
+    {
+      "block_id": "ezra-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Of the other Elam, one thousand two hundred fifty-four."
+    },
+    {
+      "block_id": "ezra-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Of Harim, three hundred twenty."
+    },
+    {
+      "block_id": "ezra-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Of Lod, Hadid, and Ono, seven hundred twenty-five."
+    },
+    {
+      "block_id": "ezra-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Of Jericho, three hundred forty-five."
+    },
+    {
+      "block_id": "ezra-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Of Senaah, three thousand six hundred thirty."
+    },
+    {
+      "block_id": "ezra-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The priests: the descendants of Jedaiah, of the house of Jeshua, nine hundred seventy-three."
+    },
+    {
+      "block_id": "ezra-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Of Immer, one thousand fifty-two."
+    },
+    {
+      "block_id": "ezra-2-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Of Pashhur, one thousand two hundred forty-seven."
+    },
+    {
+      "block_id": "ezra-2-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Of Harim, one thousand seventeen."
+    },
+    {
+      "block_id": "ezra-2-40",
+      "type": "verse",
+      "number": 40,
+      "text": "The Levites: the descendants of Jeshua and Kadmiel, of the descendants of Hodaviah, seventy-four."
+    },
+    {
+      "block_id": "ezra-2-41",
+      "type": "verse",
+      "number": 41,
+      "text": "The singers: the descendants of Asaph, one hundred twenty-eight."
+    },
+    {
+      "block_id": "ezra-2-42",
+      "type": "verse",
+      "number": 42,
+      "text": "The descendants of the gatekeepers: of Shallum, of Ater, of Talmon, of Akkub, of Hatita, and of Shobai, in all one hundred thirty-nine."
+    },
+    {
+      "block_id": "ezra-2-43",
+      "type": "verse",
+      "number": 43,
+      "text": "The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,"
+    },
+    {
+      "block_id": "ezra-2-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Keros, Siaha, Padon,"
+    },
+    {
+      "block_id": "ezra-2-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Lebanah, Hagabah, Akkub,"
+    },
+    {
+      "block_id": "ezra-2-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Hagab, Shamlai, Hanan,"
+    },
+    {
+      "block_id": "ezra-2-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Giddel, Gahar, Reaiah,"
+    },
+    {
+      "block_id": "ezra-2-48",
+      "type": "verse",
+      "number": 48,
+      "text": "Rezin, Nekoda, Gazzam,"
+    },
+    {
+      "block_id": "ezra-2-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Uzza, Paseah, Besai,"
+    },
+    {
+      "block_id": "ezra-2-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Asnah, Meunim, Nephisim,"
+    },
+    {
+      "block_id": "ezra-2-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Bakbuk, Hakupha, Harhur,"
+    },
+    {
+      "block_id": "ezra-2-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Bazluth, Mehida, Harsha,"
+    },
+    {
+      "block_id": "ezra-2-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Barkos, Sisera, Temah,"
+    },
+    {
+      "block_id": "ezra-2-54",
+      "type": "verse",
+      "number": 54,
+      "text": "Neziah, and Hatipha."
+    },
+    {
+      "block_id": "ezra-2-55",
+      "type": "verse",
+      "number": 55,
+      "text": "The descendants of Solomon’s servants: Sotai, Hassophereth, Peruda,"
+    },
+    {
+      "block_id": "ezra-2-56",
+      "type": "verse",
+      "number": 56,
+      "text": "Jaalah, Darkon, Giddel,"
+    },
+    {
+      "block_id": "ezra-2-57",
+      "type": "verse",
+      "number": 57,
+      "text": "Shephatiah, Hattil, Pochereth-hazzebaim, and Ami."
+    },
+    {
+      "block_id": "ezra-2-58",
+      "type": "verse",
+      "number": 58,
+      "text": "All the temple servants and the descendants of Solomon’s servants were three hundred ninety-two."
+    },
+    {
+      "block_id": "ezra-2-59",
+      "type": "verse",
+      "number": 59,
+      "text": "The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, though they could not prove their families or their descent, whether they belonged to Israel:"
+    },
+    {
+      "block_id": "ezra-2-60",
+      "type": "verse",
+      "number": 60,
+      "text": "the descendants of Delaiah, Tobiah, and Nekoda, six hundred fifty-two."
+    },
+    {
+      "block_id": "ezra-2-61",
+      "type": "verse",
+      "number": 61,
+      "text": "Also, of the descendants of the priests: the descendants of Habaiah, Hakkoz, and Barzillai (who had married one of the daughters of Barzillai the Gileadite and was called by their name)."
+    },
+    {
+      "block_id": "ezra-2-62",
+      "type": "verse",
+      "number": 62,
+      "text": "These looked for their entries in the genealogical records, but they were not found there, so they were excluded from the priesthood as unclean;"
+    },
+    {
+      "block_id": "ezra-2-63",
+      "type": "verse",
+      "number": 63,
+      "text": "the governor told them that they were not to partake of the most holy food until there should be a priest to consult Urim and Thummim."
+    },
+    {
+      "block_id": "ezra-2-64",
+      "type": "verse",
+      "number": 64,
+      "text": "The whole assembly together was forty-two thousand three hundred sixty,"
+    },
+    {
+      "block_id": "ezra-2-65",
+      "type": "verse",
+      "number": 65,
+      "text": "besides their male and female servants, of whom there were seven thousand three hundred thirty-seven, and they had two hundred male and female singers."
+    },
+    {
+      "block_id": "ezra-2-66",
+      "type": "verse",
+      "number": 66,
+      "text": "They had seven hundred thirty-six horses, two hundred forty-five mules,"
+    },
+    {
+      "block_id": "ezra-2-67",
+      "type": "verse",
+      "number": 67,
+      "text": "four hundred thirty-five camels, and six thousand seven hundred twenty donkeys."
+    },
+    {
+      "block_id": "ezra-2-68",
+      "type": "verse",
+      "number": 68,
+      "text": "As soon as they came to the house of the Lord in Jerusalem, some of the heads of families made freewill offerings for the house of God, to erect it on its site."
+    },
+    {
+      "block_id": "ezra-2-69",
+      "type": "verse",
+      "number": 69,
+      "text": "According to their resources they gave to the building fund sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priestly robes."
+    },
+    {
+      "block_id": "ezra-2-70",
+      "type": "verse",
+      "number": 70,
+      "text": "The priests, the Levites, and some of the people, as well as the singers, the gatekeepers, and the temple servants, lived in their towns and all Israel in their towns."
+    }
+  ]
+}

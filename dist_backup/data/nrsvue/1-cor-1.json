@@ -1,0 +1,209 @@
+{
+  "document_id": "1-cor-1",
+  "title": "1 Corinthians 1",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "1-cor-1-heading-salutation",
+      "type": "heading",
+      "text": "Salutation"
+    },
+    {
+      "block_id": "1-cor-1-heading-divisions-in-the-chu",
+      "type": "heading",
+      "text": "Divisions in the Church"
+    },
+    {
+      "block_id": "1-cor-1-heading-christ-the-power-and",
+      "type": "heading",
+      "text": "Christ the Power and Wisdom of God"
+    },
+    {
+      "block_id": "1-cor-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,"
+    },
+    {
+      "block_id": "1-cor-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "To the church of God that is in Corinth, to those who are sanctified in Christ Jesus, called to be saints, together with all those who in every place call on the name of our Lord Jesus Christ, both their Lord and ours:"
+    },
+    {
+      "block_id": "1-cor-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "block_id": "1-cor-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I give thanks to my God always for you because of the grace of God that has been given you in Christ Jesus,"
+    },
+    {
+      "block_id": "1-cor-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "for in every way you have been enriched in him, in speech and knowledge of every kind—"
+    },
+    {
+      "block_id": "1-cor-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "just as the testimony of Christ has been strengthened among you—"
+    },
+    {
+      "block_id": "1-cor-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "so that you are not lacking in any gift as you wait for the revealing of our Lord Jesus Christ."
+    },
+    {
+      "block_id": "1-cor-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He will also strengthen you to the end, so that you may be blameless on the day of our Lord Jesus Christ."
+    },
+    {
+      "block_id": "1-cor-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "God is faithful, by whom you were called into the partnership of his Son, Jesus Christ our Lord."
+    },
+    {
+      "block_id": "1-cor-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now I appeal to you, brothers and sisters, by the name of our Lord Jesus Christ, that all of you be in agreement and that there be no divisions among you but that you be knit together in the same mind and the same purpose."
+    },
+    {
+      "block_id": "1-cor-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For it has been made clear to me by Chloe’s people that there are quarrels among you, my brothers and sisters."
+    },
+    {
+      "block_id": "1-cor-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "What I mean is that each of you says, “I belong to Paul,” or “I belong to Apollos,” or “I belong to Cephas,” or “I belong to Christ.”"
+    },
+    {
+      "block_id": "1-cor-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Has Christ been divided? Was Paul crucified for you? Or were you baptized in the name of Paul?"
+    },
+    {
+      "block_id": "1-cor-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I thank God that I baptized none of you except Crispus and Gaius,"
+    },
+    {
+      "block_id": "1-cor-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "so that no one can say that you were baptized in my name."
+    },
+    {
+      "block_id": "1-cor-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I did baptize also the household of Stephanas; beyond that, I do not know whether I baptized anyone else."
+    },
+    {
+      "block_id": "1-cor-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For Christ did not send me to baptize but to proclaim the gospel—and not with eloquent wisdom, so that the cross of Christ might not be emptied of its power."
+    },
+    {
+      "block_id": "1-cor-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God."
+    },
+    {
+      "block_id": "1-cor-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For it is written,"
+    },
+    {
+      "block_id": "1-cor-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Where is the one who is wise? Where is the scholar? Where is the debater of this age? Has not God made foolish the wisdom of the world?"
+    },
+    {
+      "block_id": "1-cor-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For since, in the wisdom of God, the world did not know God through wisdom, God decided, through the foolishness of the proclamation, to save those who believe."
+    },
+    {
+      "block_id": "1-cor-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For Jews ask for signs and Greeks desire wisdom,"
+    },
+    {
+      "block_id": "1-cor-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "but we proclaim Christ crucified, a stumbling block to Jews and foolishness to gentiles,"
+    },
+    {
+      "block_id": "1-cor-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God."
+    },
+    {
+      "block_id": "1-cor-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength."
+    },
+    {
+      "block_id": "1-cor-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Consider your own call, brothers and sisters: not many of you were wise by human standards, not many were powerful, not many were of noble birth."
+    },
+    {
+      "block_id": "1-cor-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;"
+    },
+    {
+      "block_id": "1-cor-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "God chose what is low and despised in the world, things that are not, to abolish things that are,"
+    },
+    {
+      "block_id": "1-cor-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "so that no one might boast in the presence of God."
+    },
+    {
+      "block_id": "1-cor-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "In contrast, God is why you are in Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption,"
+    },
+    {
+      "block_id": "1-cor-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "in order that, as it is written, “Let the one who boasts, boast in the Lord.”"
+    }
+  ]
+}

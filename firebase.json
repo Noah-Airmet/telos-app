@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "telos-app-testing-xyz",
+    "site": "telos-app-51401",
     "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [

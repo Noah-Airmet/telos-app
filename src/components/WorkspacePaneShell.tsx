@@ -3,6 +3,7 @@ import type { PointerEventHandler, ReactNode } from "react";
 interface WorkspacePaneShellProps {
   kicker: string;
   title: string;
+  titleContent?: ReactNode;
   meta?: string | null;
   isActive?: boolean;
   onFocus?: () => void;
@@ -15,6 +16,7 @@ interface WorkspacePaneShellProps {
 export function WorkspacePaneShell({
   kicker,
   title,
+  titleContent,
   meta,
   isActive,
   onFocus,
@@ -25,18 +27,20 @@ export function WorkspacePaneShell({
 }: WorkspacePaneShellProps) {
   return (
     <section
-      className={`shell-pane flex h-full min-w-0 flex-col ${
+      className={`shell-pane flex h-full min-h-0 min-w-0 flex-col overflow-hidden ${
         isActive ? "shell-pane-active" : "shell-pane-inactive"
       }`}
-      onPointerDown={onFocus}
+      onClick={onFocus}
     >
       <header className="shell-pane-header" onPointerDown={onHeaderPointerDown}>
         <div className="min-w-0 flex-1">
           <p className="shell-kicker">{kicker}</p>
           <div className="mt-1 flex items-end gap-3">
-            <h2 className="truncate text-lg font-black uppercase tracking-[-0.04em]">
-              {title}
-            </h2>
+            {titleContent ?? (
+              <h2 className="truncate text-lg font-black uppercase tracking-[-0.04em]">
+                {title}
+              </h2>
+            )}
             {meta && <span className="shell-meta hidden sm:inline">{meta}</span>}
           </div>
         </div>

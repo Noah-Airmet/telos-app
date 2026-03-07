@@ -1,0 +1,203 @@
+{
+  "document_id": "phil-1",
+  "title": "Philippians 1",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "phil-1-heading-salutation",
+      "type": "heading",
+      "text": "Salutation"
+    },
+    {
+      "block_id": "phil-1-heading-paul’s-prayer-for-th",
+      "type": "heading",
+      "text": "Paul’s Prayer for the Philippians"
+    },
+    {
+      "block_id": "phil-1-heading-paul’s-present-circu",
+      "type": "heading",
+      "text": "Paul’s Present Circumstances"
+    },
+    {
+      "block_id": "phil-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Paul and Timothy, servants of Christ Jesus,"
+    },
+    {
+      "block_id": "phil-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "block_id": "phil-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "I thank my God for every remembrance of you,"
+    },
+    {
+      "block_id": "phil-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "always in every one of my prayers for all of you, praying with joy"
+    },
+    {
+      "block_id": "phil-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "for your partnership in the gospel from the first day until now."
+    },
+    {
+      "block_id": "phil-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I am confident of this, that the one who began a good work in you will continue to complete it until the day of Jesus Christ."
+    },
+    {
+      "block_id": "phil-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "It is right for me to think this way about all of you, because I hold you in my heart, for all of you are my partners in God’s grace, both in my imprisonment and in the defense and confirmation of the gospel."
+    },
+    {
+      "block_id": "phil-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For God is my witness, how I long for all of you with the tender affection of Christ Jesus."
+    },
+    {
+      "block_id": "phil-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And this is my prayer, that your love may overflow more and more with knowledge and full insight"
+    },
+    {
+      "block_id": "phil-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "to help you to determine what really matters, so that in the day of Christ you may be pure and blameless,"
+    },
+    {
+      "block_id": "phil-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "having produced the harvest of righteousness that comes through Jesus Christ for the glory and praise of God."
+    },
+    {
+      "block_id": "phil-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I want you to know, brothers and sisters, that what has happened to me has actually resulted in the progress of the gospel,"
+    },
+    {
+      "block_id": "phil-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "so that it has become known throughout the whole imperial guard and to everyone else that my imprisonment is for Christ,"
+    },
+    {
+      "block_id": "phil-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and most of the brothers and sisters, having been made confident in the Lord by my imprisonment, dare to speak the word with greater boldness and without fear."
+    },
+    {
+      "block_id": "phil-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Some proclaim Christ from envy and rivalry but others from goodwill."
+    },
+    {
+      "block_id": "phil-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "These proclaim Christ out of love, knowing that I have been put here for the defense of the gospel;"
+    },
+    {
+      "block_id": "phil-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the others proclaim Christ out of selfish ambition, not sincerely but intending to increase my suffering in my imprisonment."
+    },
+    {
+      "block_id": "phil-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "What does it matter? Just this, that Christ is proclaimed in every way, whether out of false motives or true, and in that I rejoice."
+    },
+    {
+      "block_id": "phil-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "for I know that through your prayers and the help of the Spirit of Jesus Christ this will turn out for my salvation."
+    },
+    {
+      "block_id": "phil-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "It is my eager expectation and hope that I will not be put to shame in any way but that by my speaking with all boldness Christ will be exalted now as always in my body, whether by life or by death."
+    },
+    {
+      "block_id": "phil-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For to me, living is Christ and dying is gain."
+    },
+    {
+      "block_id": "phil-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If I am to live in the flesh, that means fruitful labor for me, yet I cannot say which I will choose."
+    },
+    {
+      "block_id": "phil-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I am hard pressed between the two: my desire is to depart and be with Christ, for that is far better,"
+    },
+    {
+      "block_id": "phil-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "but to remain in the flesh is more necessary for you."
+    },
+    {
+      "block_id": "phil-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Since I am convinced of this, I know that I will remain and continue with all of you for your progress and joy in faith,"
+    },
+    {
+      "block_id": "phil-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "so that, by my presence again with you, your boast might abound in Christ Jesus because of me."
+    },
+    {
+      "block_id": "phil-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Only, live your life in a manner worthy of the gospel of Christ, so that, whether I come and see you or am absent and hear about you, I will know that you are standing firm in one spirit, striving side by side with one mind for the faith of the gospel"
+    },
+    {
+      "block_id": "phil-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "and in no way frightened by those opposing you. For them, this is evidence of their destruction but of your salvation. And this is God’s doing."
+    },
+    {
+      "block_id": "phil-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For he has graciously granted you the privilege not only of believing in Christ but of suffering for him as well,"
+    },
+    {
+      "block_id": "phil-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "since you are having the same struggle that you saw I had and now hear that I still have."
+    }
+  ]
+}

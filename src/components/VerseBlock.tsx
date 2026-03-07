@@ -5,6 +5,7 @@ interface VerseBlockProps {
   highlights?: Highlight[];
   comparisonText?: string;
   showComparisonDiff?: boolean;
+  onHighlightClick?: (highlightId: string, rect: DOMRect) => void;
 }
 
 interface TextRange {
@@ -88,6 +89,7 @@ export function VerseBlock({
   highlights = [],
   comparisonText,
   showComparisonDiff = false,
+  onHighlightClick,
 }: VerseBlockProps) {
   if (block.type === "heading") {
     return (
@@ -146,9 +148,14 @@ export function VerseBlock({
           <mark
             key={`segment-${start}-${end}`}
             style={{ backgroundColor: highlight.color }}
-            className={`rounded-[2px] px-0.5 selection:bg-[var(--text-secondary)] selection:text-white ${
+            className={`rounded-[2px] px-0.5 text-black selection:bg-[var(--text-secondary)] selection:text-white ${
               hasDiff ? "ring-1 ring-amber-300/70 dark:ring-amber-500/60" : ""
-            }`}
+            } ${onHighlightClick ? "cursor-pointer hover:opacity-80 transition-opacity" : ""}`}
+            onClick={(e) => {
+              if (onHighlightClick) {
+                onHighlightClick(highlight.id, e.currentTarget.getBoundingClientRect());
+              }
+            }}
           >
             {text}
           </mark>

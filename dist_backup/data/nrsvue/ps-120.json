@@ -1,0 +1,50 @@
+{
+  "document_id": "ps-120",
+  "title": "Psalms 120",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-120-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In my distress I cry to the Lord,"
+    },
+    {
+      "block_id": "ps-120-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Deliver me, O Lord,"
+    },
+    {
+      "block_id": "ps-120-3",
+      "type": "verse",
+      "number": 3,
+      "text": "What shall be given to you?"
+    },
+    {
+      "block_id": "ps-120-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A warrior’s sharp arrows,"
+    },
+    {
+      "block_id": "ps-120-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Woe is me, that I am an alien in Meshech,"
+    },
+    {
+      "block_id": "ps-120-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Too long have I had my dwelling"
+    },
+    {
+      "block_id": "ps-120-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I am for peace,"
+    }
+  ]
+}

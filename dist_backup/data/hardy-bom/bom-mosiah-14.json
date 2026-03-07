@@ -1,0 +1,24 @@
+{
+  "document_id": "bom-mosiah-14",
+  "title": "Mosiah 14",
+  "type": "study-bible",
+  "translation": "Hardy Annotated",
+  "blocks": [
+    {
+      "block_id": "bom-mosiah-14-1",
+      "type": "verse",
+      "number": 1,
+      "text": "“Yea, even doth not Isaiah say:"
+    },
+    {
+      "block_id": "bom-mosiah-14-heading-1",
+      "type": "heading",
+      "text": "Abinadi Interprets Isaiah 52–53: Mosiah 15–16"
+    },
+    {
+      "block_id": "bom-mosiah-14-1-commentary-1",
+      "type": "commentary",
+      "text": "(with quotations from passages cited in chapters 12 and 14 in bold)"
+    }
+  ]
+}

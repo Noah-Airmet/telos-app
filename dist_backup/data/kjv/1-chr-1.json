@@ -1,0 +1,367 @@
+{
+  "document_id": "1-chr-1",
+  "title": "1 Chronicles 1",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "1-chr-1-heading-0",
+      "type": "heading",
+      "text": "Adam's Line to Noah"
+    },
+    {
+      "block_id": "1-chr-1-heading-1",
+      "type": "heading",
+      "text": "Descendants of Japheth"
+    },
+    {
+      "block_id": "1-chr-1-heading-2",
+      "type": "heading",
+      "text": "Descendants of Ham"
+    },
+    {
+      "block_id": "1-chr-1-heading-3",
+      "type": "heading",
+      "text": "Descendants of Shem"
+    },
+    {
+      "block_id": "1-chr-1-heading-4",
+      "type": "heading",
+      "text": "Descendants of Abraham"
+    },
+    {
+      "block_id": "1-chr-1-heading-5",
+      "type": "heading",
+      "text": "Descendants of Isaac"
+    },
+    {
+      "block_id": "1-chr-1-heading-6",
+      "type": "heading",
+      "text": "The Rulers of Edom"
+    },
+    {
+      "block_id": "1-chr-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Adam, Sheth, Enosh,"
+    },
+    {
+      "block_id": "1-chr-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Kenan, Mahalaleel, Jered,"
+    },
+    {
+      "block_id": "1-chr-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Henoch, Methuselah, Lamech,"
+    },
+    {
+      "block_id": "1-chr-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Noah, Shem, Ham, and Japheth."
+    },
+    {
+      "block_id": "1-chr-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+    },
+    {
+      "block_id": "1-chr-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah."
+    },
+    {
+      "block_id": "1-chr-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+    },
+    {
+      "block_id": "1-chr-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The sons of Ham; Cush, and Mizraim, Put, and Canaan."
+    },
+    {
+      "block_id": "1-chr-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan."
+    },
+    {
+      "block_id": "1-chr-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And Cush begat Nimrod: he began to be mighty upon the earth."
+    },
+    {
+      "block_id": "1-chr-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+    },
+    {
+      "block_id": "1-chr-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim."
+    },
+    {
+      "block_id": "1-chr-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And Canaan begat Zidon his firstborn, and Heth,"
+    },
+    {
+      "block_id": "1-chr-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The Jebusite also, and the Amorite, and the Girgashite,"
+    },
+    {
+      "block_id": "1-chr-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And the Hivite, and the Arkite, and the Sinite,"
+    },
+    {
+      "block_id": "1-chr-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite."
+    },
+    {
+      "block_id": "1-chr-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech."
+    },
+    {
+      "block_id": "1-chr-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And Arphaxad begat Shelah, and Shelah begat Eber."
+    },
+    {
+      "block_id": "1-chr-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And unto Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother's name was Joktan."
+    },
+    {
+      "block_id": "1-chr-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+    },
+    {
+      "block_id": "1-chr-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Hadoram also, and Uzal, and Diklah,"
+    },
+    {
+      "block_id": "1-chr-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And Ebal, and Abimael, and Sheba,"
+    },
+    {
+      "block_id": "1-chr-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And Ophir, and Havilah, and Jobab. All these were the sons of Joktan."
+    },
+    {
+      "block_id": "1-chr-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Shem, Arphaxad, Shelah,"
+    },
+    {
+      "block_id": "1-chr-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Eber, Peleg, Reu,"
+    },
+    {
+      "block_id": "1-chr-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Serug, Nahor, Terah,"
+    },
+    {
+      "block_id": "1-chr-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Abram; the same is Abraham."
+    },
+    {
+      "block_id": "1-chr-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The sons of Abraham; Isaac, and Ishmael."
+    },
+    {
+      "block_id": "1-chr-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,"
+    },
+    {
+      "block_id": "1-chr-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Mishma, and Dumah, Massa, Hadad, and Tema,"
+    },
+    {
+      "block_id": "1-chr-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael."
+    },
+    {
+      "block_id": "1-chr-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan."
+    },
+    {
+      "block_id": "1-chr-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah."
+    },
+    {
+      "block_id": "1-chr-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "And Abraham begat Isaac. The sons of Isaac; Esau and Israel."
+    },
+    {
+      "block_id": "1-chr-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah."
+    },
+    {
+      "block_id": "1-chr-1-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek."
+    },
+    {
+      "block_id": "1-chr-1-37",
+      "type": "verse",
+      "number": 37,
+      "text": "The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah."
+    },
+    {
+      "block_id": "1-chr-1-38",
+      "type": "verse",
+      "number": 38,
+      "text": "And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan."
+    },
+    {
+      "block_id": "1-chr-1-39",
+      "type": "verse",
+      "number": 39,
+      "text": "And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister."
+    },
+    {
+      "block_id": "1-chr-1-40",
+      "type": "verse",
+      "number": 40,
+      "text": "The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah."
+    },
+    {
+      "block_id": "1-chr-1-41",
+      "type": "verse",
+      "number": 41,
+      "text": "The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran."
+    },
+    {
+      "block_id": "1-chr-1-42",
+      "type": "verse",
+      "number": 42,
+      "text": "The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran."
+    },
+    {
+      "block_id": "1-chr-1-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah."
+    },
+    {
+      "block_id": "1-chr-1-44",
+      "type": "verse",
+      "number": 44,
+      "text": "And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead."
+    },
+    {
+      "block_id": "1-chr-1-45",
+      "type": "verse",
+      "number": 45,
+      "text": "And when Jobab was dead, Husham of the land of the Temanites reigned in his stead."
+    },
+    {
+      "block_id": "1-chr-1-46",
+      "type": "verse",
+      "number": 46,
+      "text": "And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith."
+    },
+    {
+      "block_id": "1-chr-1-47",
+      "type": "verse",
+      "number": 47,
+      "text": "And when Hadad was dead, Samlah of Masrekah reigned in his stead."
+    },
+    {
+      "block_id": "1-chr-1-48",
+      "type": "verse",
+      "number": 48,
+      "text": "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead."
+    },
+    {
+      "block_id": "1-chr-1-49",
+      "type": "verse",
+      "number": 49,
+      "text": "And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead."
+    },
+    {
+      "block_id": "1-chr-1-50",
+      "type": "verse",
+      "number": 50,
+      "text": "And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city was Pai; and his wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab."
+    },
+    {
+      "block_id": "1-chr-1-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,"
+    },
+    {
+      "block_id": "1-chr-1-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Duke Aholibamah, duke Elah, duke Pinon,"
+    },
+    {
+      "block_id": "1-chr-1-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Duke Kenaz, duke Teman, duke Mibzar,"
+    },
+    {
+      "block_id": "1-chr-1-54",
+      "type": "verse",
+      "number": 54,
+      "text": "Duke Magdiel, duke Iram. These are the dukes of Edom."
+    }
+  ]
+}

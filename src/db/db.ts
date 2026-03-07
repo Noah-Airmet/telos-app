@@ -154,6 +154,7 @@ export interface LessonPlan {
   title: string;
   type: LessonPlanType;
   status: LessonPlanStatus;
+  body_markdown?: string;
   last_opened_at: number;
   created_at: number;
   updated_at: number;

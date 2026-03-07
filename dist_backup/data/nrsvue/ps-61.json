@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-61",
+  "title": "Psalms 61",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-61-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear my cry, O God;"
+    },
+    {
+      "block_id": "ps-61-2",
+      "type": "verse",
+      "number": 2,
+      "text": "From the end of the earth I call to you,"
+    },
+    {
+      "block_id": "ps-61-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for you are my refuge,"
+    },
+    {
+      "block_id": "ps-61-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let me abide in your tent forever,"
+    },
+    {
+      "block_id": "ps-61-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For you, O God, have heard my vows;"
+    },
+    {
+      "block_id": "ps-61-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Prolong the life of the king;"
+    },
+    {
+      "block_id": "ps-61-7",
+      "type": "verse",
+      "number": 7,
+      "text": "May he be enthroned forever before God;"
+    },
+    {
+      "block_id": "ps-61-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So I will always sing praises to your name,"
+    }
+  ]
+}

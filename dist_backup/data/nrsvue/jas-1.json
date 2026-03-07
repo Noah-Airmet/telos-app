@@ -1,0 +1,195 @@
+{
+  "document_id": "jas-1",
+  "title": "James 1",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "jas-1-heading-salutation",
+      "type": "heading",
+      "text": "Salutation"
+    },
+    {
+      "block_id": "jas-1-heading-faith-and-wisdom",
+      "type": "heading",
+      "text": "Faith and Wisdom"
+    },
+    {
+      "block_id": "jas-1-heading-poverty-and-riches",
+      "type": "heading",
+      "text": "Poverty and Riches"
+    },
+    {
+      "block_id": "jas-1-heading-trial-and-temptation",
+      "type": "heading",
+      "text": "Trial and Temptation"
+    },
+    {
+      "block_id": "jas-1-heading-hearing-and-doing-th",
+      "type": "heading",
+      "text": "Hearing and Doing the Word"
+    },
+    {
+      "block_id": "jas-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "James, a servant of God and of the Lord Jesus Christ,"
+    },
+    {
+      "block_id": "jas-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "My brothers and sisters, whenever you face various trials, consider it all joy,"
+    },
+    {
+      "block_id": "jas-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "because you know that the testing of your faith produces endurance."
+    },
+    {
+      "block_id": "jas-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And let endurance complete its work, so that you may be complete and whole, lacking in nothing."
+    },
+    {
+      "block_id": "jas-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If any of you is lacking in wisdom, ask God, who gives to all generously and ungrudgingly, and it will be given you."
+    },
+    {
+      "block_id": "jas-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But ask in faith, never doubting, for the one who doubts is like a wave of the sea, driven and tossed by the wind."
+    },
+    {
+      "block_id": "jas-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": ","
+    },
+    {
+      "block_id": "jas-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For the doubter, being double-minded and unstable in every way, must not expect to receive anything from the Lord."
+    },
+    {
+      "block_id": "jas-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let the brother or sister of humble means boast in having a high position"
+    },
+    {
+      "block_id": "jas-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and the rich in having been humbled, because the rich will disappear like a flower in the field."
+    },
+    {
+      "block_id": "jas-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For the sun rises with its scorching heat and withers the field; its flower falls, and its beauty perishes. It is the same way with the rich; in the midst of a busy life, they will wither away."
+    },
+    {
+      "block_id": "jas-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Blessed is anyone who endures temptation. Such a one has stood the test and will receive the crown of life that the Lord has promised to those who love him."
+    },
+    {
+      "block_id": "jas-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "No one, when tempted, should say, “I am being tempted by God,” for God cannot be tempted by evil and he himself tempts no one."
+    },
+    {
+      "block_id": "jas-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But one is tempted by one’s own desire, being lured and enticed by it;"
+    },
+    {
+      "block_id": "jas-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "then, when desire has conceived, it engenders sin, and sin, when it is fully grown, gives birth to death."
+    },
+    {
+      "block_id": "jas-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do not be deceived, my beloved brothers and sisters."
+    },
+    {
+      "block_id": "jas-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Every generous act of giving, with every perfect gift, is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.,"
+    },
+    {
+      "block_id": "jas-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "In fulfillment of his own purpose he gave birth to us by the word of truth, so that we would become a kind of first fruits of his creatures."
+    },
+    {
+      "block_id": "jas-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You must understand this, my beloved brothers and sisters: let everyone be quick to listen, slow to speak, slow to anger,"
+    },
+    {
+      "block_id": "jas-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "for human anger does not produce God’s righteousness."
+    },
+    {
+      "block_id": "jas-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Therefore rid yourselves of all sordidness and rank growth of wickedness, and welcome with meekness the implanted word that has the power to save your souls."
+    },
+    {
+      "block_id": "jas-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But be doers of the word and not merely hearers who deceive themselves."
+    },
+    {
+      "block_id": "jas-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For if any are hearers of the word and not doers, they are like those who look at themselves in a mirror;"
+    },
+    {
+      "block_id": "jas-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "for they look at themselves and, on going away, immediately forget what they were like."
+    },
+    {
+      "block_id": "jas-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "But those who look into the perfect law, the law of liberty, and persevere, being not hearers who forget but doers who act—they will be blessed in their doing."
+    },
+    {
+      "block_id": "jas-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "If any think they are religious and do not bridle their tongues but deceive their hearts, their religion is worthless."
+    },
+    {
+      "block_id": "jas-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Religion that is pure and undefiled before God the Father is this: to care for orphans and widows in their distress and to keep oneself unstained by the world."
+    }
+  ]
+}

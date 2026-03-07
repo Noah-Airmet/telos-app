@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-130",
+  "title": "Psalms 130",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-130-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Out of the depths I cry to you, O Lord."
+    },
+    {
+      "block_id": "ps-130-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Lord, hear my voice!"
+    },
+    {
+      "block_id": "ps-130-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If you, O Lord, should mark iniquities,"
+    },
+    {
+      "block_id": "ps-130-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But there is forgiveness with you,"
+    },
+    {
+      "block_id": "ps-130-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I wait for the Lord; my soul waits,"
+    },
+    {
+      "block_id": "ps-130-6",
+      "type": "verse",
+      "number": 6,
+      "text": "my soul waits for the Lord"
+    },
+    {
+      "block_id": "ps-130-7",
+      "type": "verse",
+      "number": 7,
+      "text": "O Israel, hope in the Lord!"
+    },
+    {
+      "block_id": "ps-130-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It is he who will redeem Israel"
+    }
+  ]
+}

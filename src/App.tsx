@@ -12,8 +12,6 @@ import { ReadingPane } from "./components/ReadingPane";
 import { useAuth } from "./context/AuthContext";
 import type {
   AppPaneDescriptor,
-  LessonBlock,
-  LessonBlockKind,
   LessonPlan,
   LessonPlanType,
   LessonSource,
@@ -26,9 +24,9 @@ import type {
 import type { BookEntry, TranslationManifest } from "./lib/scripture";
 import { loadManifest } from "./lib/scripture";
 import {
-  buildLessonBlockFromSource,
+  buildMarkdownFromSource,
+  createBodyMarkdownFromLegacyBlocks,
   createLessonPlanFromTemplate,
-  createStarterBlocks,
   exportLessonPlanToMarkdown,
 } from "./lib/planner";
 import {
@@ -115,9 +113,9 @@ function App() {
   const [plannerState, setPlannerState] = useState<PlannerState | null>(null);
   const [shellLayout, setShellLayout] = useState<ShellLayoutState | null>(null);
   const shellLayoutRef = useRef<ShellLayoutState | null>(null);
+  const migratingLegacyPlanIdsRef = useRef<Set<string>>(new Set());
   const [hasHydratedShell, setHasHydratedShell] = useState(false);
   const [lessonPlans, setLessonPlans] = useState<LessonPlan[]>([]);
-  const [lessonBlocksByPlanId, setLessonBlocksByPlanId] = useState<Record<string, LessonBlock[]>>({});
   const [lessonSourcesByPlanId, setLessonSourcesByPlanId] = useState<Record<string, LessonSource[]>>({});
   const [syncBlockIds, setSyncBlockIds] = useState<Record<string, string | null>>({});
   const [sidebarWidth, setSidebarWidth] = useState(() => {
@@ -186,19 +184,40 @@ function App() {
     if (status !== "authenticated") return;
     if (openPlanIds.length === 0) return;
 
-    const unsubscribers = openPlanIds.flatMap((planId) => [
-      repository.subscribeLessonBlocks(planId, (blocks) => {
-        setLessonBlocksByPlanId((previous) => ({ ...previous, [planId]: blocks }));
-      }),
+    const unsubscribers = openPlanIds.map((planId) =>
       repository.subscribeLessonSources(planId, (sources) => {
         setLessonSourcesByPlanId((previous) => ({ ...previous, [planId]: sources }));
-      }),
-    ]);
+      })
+    );
 
     return () => {
       unsubscribers.forEach((unsubscribe) => unsubscribe());
     };
   }, [openPlanIds, repository, status]);
+
+  useEffect(() => {
+    if (status !== "authenticated") return;
+
+    lessonPlans.forEach((plan) => {
+      if (typeof plan.body_markdown === "string") return;
+      if (migratingLegacyPlanIdsRef.current.has(plan.id)) return;
+
+      migratingLegacyPlanIdsRef.current.add(plan.id);
+      repository
+        .listLessonBlocks(plan.id)
+        .then((blocks) =>
+          repository.saveLessonPlan({
+            ...plan,
+            body_markdown: createBodyMarkdownFromLegacyBlocks(blocks),
+            updated_at: Date.now(),
+          })
+        )
+        .catch(console.error)
+        .finally(() => {
+          migratingLegacyPlanIdsRef.current.delete(plan.id);
+        });
+    });
+  }, [lessonPlans, repository, status]);
 
   const saveShellLayout = useCallback(
     (updater: ShellLayoutState | ((previous: ShellLayoutState) => ShellLayoutState)) => {
@@ -530,10 +549,7 @@ function App() {
   const handleCreatePlan = useCallback(
     async (type: LessonPlanType, sourcePaneId?: string) => {
       const plan = createLessonPlanFromTemplate(type);
-      const blocks = createStarterBlocks(plan.id, type);
-
       await repository.saveLessonPlan(plan);
-      await Promise.all(blocks.map((block) => repository.saveLessonBlock(block)));
       await handleOpenPlan(plan.id, sourcePaneId);
     },
     [handleOpenPlan, repository]
@@ -552,70 +568,27 @@ function App() {
     [getPlanById, repository]
   );
 
-  const updateLessonBlock = useCallback(
-    (planId: string, blockId: string, updates: Partial<LessonBlock>) => {
-      const block = lessonBlocksByPlanId[planId]?.find((entry) => entry.id === blockId);
-      if (!block) return;
-      repository.saveLessonBlock({ ...block, ...updates }).catch(console.error);
-      void savePlan(planId, {});
+  const updatePlanMarkdown = useCallback(
+    (planId: string, bodyMarkdown: string) => {
+      void savePlan(planId, { body_markdown: bodyMarkdown });
     },
-    [lessonBlocksByPlanId, repository, savePlan]
-  );
-
-  const addLessonBlock = useCallback(
-    (planId: string, kind: LessonBlockKind) => {
-      const nextOrder =
-        (lessonBlocksByPlanId[planId] ?? []).reduce((max, block) => Math.max(max, block.order), -1) + 1;
-      repository
-        .saveLessonBlock({
-          id: crypto.randomUUID(),
-          lesson_plan_id: planId,
-          kind,
-          content: "",
-          order: nextOrder,
-        })
-        .catch(console.error);
-      void savePlan(planId, {});
-    },
-    [lessonBlocksByPlanId, repository, savePlan]
-  );
-
-  const deleteLessonBlock = useCallback(
-    (planId: string, blockId: string) => {
-      repository.deleteLessonBlock(planId, blockId).catch(console.error);
-      void savePlan(planId, {});
-    },
-    [repository, savePlan]
-  );
-
-  const moveLessonBlock = useCallback(
-    async (planId: string, blockId: string, direction: "up" | "down") => {
-      const ordered = [...(lessonBlocksByPlanId[planId] ?? [])].sort((a, b) => a.order - b.order);
-      const index = ordered.findIndex((block) => block.id === blockId);
-      if (index < 0) return;
-      const swapIndex = direction === "up" ? index - 1 : index + 1;
-      if (swapIndex < 0 || swapIndex >= ordered.length) return;
-      const current = ordered[index];
-      const target = ordered[swapIndex];
-      await Promise.all([
-        repository.saveLessonBlock({ ...current, order: target.order }),
-        repository.saveLessonBlock({ ...target, order: current.order }),
-      ]);
-      await savePlan(planId, {});
-    },
-    [lessonBlocksByPlanId, repository, savePlan]
+    [savePlan]
   );
 
   const insertSourceIntoOutline = useCallback(
     async (planId: string, sourceId: string) => {
       const source = lessonSourcesByPlanId[planId]?.find((entry) => entry.id === sourceId);
       if (!source) return;
-      const nextOrder =
-        (lessonBlocksByPlanId[planId] ?? []).reduce((max, block) => Math.max(max, block.order), -1) + 1;
-      await repository.saveLessonBlock(buildLessonBlockFromSource(planId, nextOrder, source));
-      await savePlan(planId, {});
+      const plan = getPlanById(planId);
+      if (!plan) return;
+      const nextSnippet = buildMarkdownFromSource(source);
+      const currentBody = (plan.body_markdown ?? "").trimEnd();
+      const separator = currentBody ? "\n\n" : "";
+      await savePlan(planId, {
+        body_markdown: `${currentBody}${separator}${nextSnippet}\n`,
+      });
     },
-    [lessonBlocksByPlanId, lessonSourcesByPlanId, repository, savePlan]
+    [getPlanById, lessonSourcesByPlanId, savePlan]
   );
 
   const removeLessonSource = useCallback(
@@ -676,7 +649,7 @@ function App() {
     (planId: string) => {
       const plan = getPlanById(planId);
       if (!plan) return;
-      const markdown = exportLessonPlanToMarkdown(plan, lessonBlocksByPlanId[planId] ?? []);
+      const markdown = exportLessonPlanToMarkdown(plan);
       const blob = new Blob([markdown], { type: "text/markdown;charset=utf-8" });
       const url = URL.createObjectURL(blob);
       const anchor = document.createElement("a");
@@ -686,7 +659,42 @@ function App() {
       anchor.click();
       URL.revokeObjectURL(url);
     },
-    [getPlanById, lessonBlocksByPlanId]
+    [getPlanById]
+  );
+
+  const deleteLessonPlan = useCallback(
+    async (planId: string) => {
+      await repository.deleteLessonPlan(planId);
+      if (plannerState?.last_opened_plan_id === planId) {
+        persistPlannerState({ last_opened_plan_id: null });
+      }
+      saveShellLayout((previous) => {
+        const panes = previous.panes.filter((pane) => {
+          if (pane.type === "plannerOutline" || pane.type === "captureTray") {
+            return pane.state.plan_id !== planId;
+          }
+          return true;
+        });
+
+        const activePaneStillExists = panes.some((pane) => pane.id === previous.active_pane_id);
+
+        return {
+          ...previous,
+          panes,
+          active_pane_id: activePaneStillExists ? previous.active_pane_id : panes[0]?.id ?? null,
+          pane_widths: normalizePaneWidths(
+            panes,
+            Object.fromEntries(
+              Object.entries(previous.pane_widths ?? {}).filter(([paneId]) =>
+                panes.some((pane) => pane.id === paneId)
+              )
+            )
+          ),
+          updated_at: Date.now(),
+        };
+      });
+    },
+    [persistPlannerState, plannerState?.last_opened_plan_id, repository, saveShellLayout]
   );
 
   const openNotesWithDraft = useCallback(
@@ -729,6 +737,9 @@ function App() {
             onOpenPlan={(planId) => {
               void handleOpenPlan(planId, pane.id);
             }}
+            onDeletePlan={(planId) => {
+              void deleteLessonPlan(planId);
+            }}
             onOpenReader={() => {
               void openStandaloneReadingPane();
             }}
@@ -741,7 +752,6 @@ function App() {
         return (
           <PlannerOutlinePane
             lessonPlan={getPlanById(planId)}
-            lessonBlocks={planId ? lessonBlocksByPlanId[planId] ?? [] : []}
             isActive={isActive}
             onFocus={() => focusPane(pane.id)}
             onHeaderPointerDown={controls.onHeaderPointerDown}
@@ -750,21 +760,9 @@ function App() {
               if (!planId) return;
               void savePlan(planId, { title });
             }}
-            onUpdateBlock={(blockId, updates) => {
+            onUpdateBodyMarkdown={(bodyMarkdown) => {
               if (!planId) return;
-              updateLessonBlock(planId, blockId, updates);
-            }}
-            onAddBlock={(kind) => {
-              if (!planId) return;
-              addLessonBlock(planId, kind);
-            }}
-            onDeleteBlock={(blockId) => {
-              if (!planId) return;
-              deleteLessonBlock(planId, blockId);
-            }}
-            onMoveBlock={(blockId, direction) => {
-              if (!planId) return;
-              void moveLessonBlock(planId, blockId, direction);
+              updatePlanMarkdown(planId, bodyMarkdown);
             }}
             onExportMarkdown={() => {
               if (!planId) return;

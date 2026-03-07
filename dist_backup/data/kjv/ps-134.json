@@ -1,0 +1,31 @@
+{
+  "document_id": "ps-134",
+  "title": "Psalms 134",
+  "type": "scripture",
+  "translation": "KJV",
+  "blocks": [
+    {
+      "block_id": "ps-134-heading-0",
+      "type": "heading",
+      "text": "Praise the Lord, All You Servants"
+    },
+    {
+      "block_id": "ps-134-1",
+      "type": "verse",
+      "number": 1,
+      "text": "A Song of degrees. Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."
+    },
+    {
+      "block_id": "ps-134-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Lift up your hands in the sanctuary, and bless the LORD."
+    },
+    {
+      "block_id": "ps-134-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The LORD that made heaven and earth bless thee out of Zion."
+    }
+  ]
+}

@@ -246,12 +246,12 @@ export function PaneHost({
 
             <div
               data-pane-id={pane.id}
-              className={`relative flex min-w-0 ${
+              className={`relative flex min-h-0 min-w-0 ${
                 dragState?.paneId === pane.id ? "opacity-45" : ""
               }`}
               style={{ width: `${resolvedWidths[pane.id] ?? 100 / panes.length}%` }}
             >
-              <div className="min-w-0 flex-1" onPointerDown={() => onFocusPane(pane.id)}>
+              <div className="flex min-h-0 min-w-0 flex-1" onClick={() => onFocusPane(pane.id)}>
                 {renderPane(pane, {
                   onHeaderPointerDown: (event) => handleHeaderPointerDown(pane.id, event),
                 })}

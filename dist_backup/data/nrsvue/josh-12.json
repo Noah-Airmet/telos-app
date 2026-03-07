@@ -1,0 +1,66 @@
+{
+  "document_id": "josh-12",
+  "title": "Joshua 12",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "josh-12-heading-the-kings-conquered-",
+      "type": "heading",
+      "text": "The Kings Conquered by Moses"
+    },
+    {
+      "block_id": "josh-12-heading-the-kings-conquered-",
+      "type": "heading",
+      "text": "The Kings Conquered by Joshua"
+    },
+    {
+      "block_id": "josh-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now these are the kings of the land whom the Israelites defeated, whose land they occupied beyond the Jordan toward the east, from the Wadi Arnon to Mount Hermon, with all the Arabah eastward:"
+    },
+    {
+      "block_id": "josh-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "King Sihon of the Amorites who lived at Heshbon and ruled from Aroer, which is on the edge of the Wadi Arnon, and from the middle of the valley as far as the Wadi Jabbok, the boundary of the Ammonites, that is, half of Gilead,"
+    },
+    {
+      "block_id": "josh-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and the Arabah to the Sea of Chinneroth eastward, and in the direction of Beth-jeshimoth, to the sea of the Arabah, the Dead Sea, southward to the foot of the slopes of Pisgah;"
+    },
+    {
+      "block_id": "josh-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and King Og of Bashan, one of the last of the Rephaim, who lived at Ashtaroth and at Edrei"
+    },
+    {
+      "block_id": "josh-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and ruled over Mount Hermon and Salecah and all Bashan to the boundary of the Geshurites and the Maacathites, and over half of Gilead to the boundary of King Sihon of Heshbon."
+    },
+    {
+      "block_id": "josh-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Moses, the servant of the Lord, and the Israelites defeated them, and Moses the servant of the Lord gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh."
+    },
+    {
+      "block_id": "josh-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The following are the kings of the land whom Joshua and the Israelites defeated on the west side of the Jordan, from Baal-gad in the valley of Lebanon to Mount Halak, which rises toward Seir (and Joshua gave their land to the tribes of Israel as a possession according to their allotments,"
+    },
+    {
+      "block_id": "josh-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "in the hill country, in the lowland, in the Arabah, in the slopes, in the wilderness, and in the Negeb, the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):"
+    }
+  ]
+}

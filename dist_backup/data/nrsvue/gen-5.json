@@ -1,0 +1,205 @@
+{
+  "document_id": "gen-5",
+  "title": "Genesis 5",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "gen-5-heading-adam’s-descendants-t",
+      "type": "heading",
+      "text": "Adam’s Descendants to Noah and His Sons"
+    },
+    {
+      "block_id": "gen-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "This is the list of the descendants of Adam. When God created humans, he made them in the likeness of God."
+    },
+    {
+      "block_id": "gen-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Male and female he created them, and he blessed them and called them humans when they were created."
+    },
+    {
+      "block_id": "gen-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When Adam had lived one hundred thirty years, he became the father of a son in his likeness, according to his image, and named him Seth."
+    },
+    {
+      "block_id": "gen-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The days of Adam after he became the father of Seth were eight hundred years, and he had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Thus all the days that Adam lived were nine hundred thirty years, and he died."
+    },
+    {
+      "block_id": "gen-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When Seth had lived one hundred five years, he became the father of Enosh."
+    },
+    {
+      "block_id": "gen-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Seth lived after the birth of Enosh eight hundred seven years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Thus all the days of Seth were nine hundred twelve years, and he died."
+    },
+    {
+      "block_id": "gen-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When Enosh had lived ninety years, he became the father of Kenan."
+    },
+    {
+      "block_id": "gen-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Enosh lived after the birth of Kenan eight hundred fifteen years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Thus all the days of Enosh were nine hundred five years, and he died."
+    },
+    {
+      "block_id": "gen-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When Kenan had lived seventy years, he became the father of Mahalalel."
+    },
+    {
+      "block_id": "gen-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Kenan lived after the birth of Mahalalel eight hundred and forty years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Thus all the days of Kenan were nine hundred and ten years, and he died."
+    },
+    {
+      "block_id": "gen-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "When Mahalalel had lived sixty-five years, he became the father of Jared."
+    },
+    {
+      "block_id": "gen-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Mahalalel lived after the birth of Jared eight hundred thirty years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Thus all the days of Mahalalel were eight hundred ninety-five years, and he died."
+    },
+    {
+      "block_id": "gen-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "When Jared had lived one hundred sixty-two years he became the father of Enoch."
+    },
+    {
+      "block_id": "gen-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Jared lived after the birth of Enoch eight hundred years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Thus all the days of Jared were nine hundred sixty-two years, and he died."
+    },
+    {
+      "block_id": "gen-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "When Enoch had lived sixty-five years, he became the father of Methuselah."
+    },
+    {
+      "block_id": "gen-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Enoch walked with God after the birth of Methuselah three hundred years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Thus all the days of Enoch were three hundred sixty-five years."
+    },
+    {
+      "block_id": "gen-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Enoch walked with God; then he was no more, because God took him."
+    },
+    {
+      "block_id": "gen-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "When Methuselah had lived one hundred eighty-seven years, he became the father of Lamech."
+    },
+    {
+      "block_id": "gen-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Methuselah lived after the birth of Lamech seven hundred eighty-two years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Thus all the days of Methuselah were nine hundred sixty-nine years, and he died."
+    },
+    {
+      "block_id": "gen-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When Lamech had lived one hundred eighty-two years, he became the father of a son;"
+    },
+    {
+      "block_id": "gen-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "he named him Noah, saying, “Out of the ground that the Lord has cursed this one shall bring us relief from our work and from the toil of our hands.”"
+    },
+    {
+      "block_id": "gen-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Lamech lived after the birth of Noah five hundred ninety-five years and had other sons and daughters."
+    },
+    {
+      "block_id": "gen-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Thus all the days of Lamech were seven hundred seventy-seven years, and he died."
+    },
+    {
+      "block_id": "gen-5-32",
+      "type": "verse",
+      "number": 32,
+      "text": "After Noah was five hundred years old, Noah became the father of Shem, Ham, and Japheth."
+    }
+  ]
+}

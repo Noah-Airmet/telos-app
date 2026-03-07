@@ -345,7 +345,7 @@ export function Sidebar({
 
       {/* ── Search ── */}
       <div className="px-3 pt-3 pb-2">
-        <div className="flex items-start gap-2">
+        <div className="flex items-stretch gap-2">
           <div className="relative min-w-0 flex-1">
             <input
               type="text"
@@ -353,6 +353,13 @@ export function Sidebar({
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="shell-input shell-search-input w-full px-3 pr-9"
+              style={{
+                height: "2.5rem",
+                paddingTop: "0",
+                paddingBottom: "0",
+                fontSize: "0.72rem",
+                letterSpacing: "0.24em",
+              }}
             />
             {searchQuery && (
               <button
@@ -370,6 +377,11 @@ export function Sidebar({
             onClick={() => setShowFilters((value) => !value)}
             className={`shell-button shell-icon-button ${showFilters ? "shell-button-primary" : ""}`}
             title="Filters"
+            style={{
+              height: "2.5rem",
+              width: "2.5rem",
+              padding: "0",
+            }}
           >
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
               <path d="M1.5 2.25h9M3.5 6h5M5 9.75h2"/>

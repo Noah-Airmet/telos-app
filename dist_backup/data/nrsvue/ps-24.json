@@ -1,0 +1,68 @@
+{
+  "document_id": "ps-24",
+  "title": "Psalms 24",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-24-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The earth is the Lord’s and all that is in it,"
+    },
+    {
+      "block_id": "ps-24-2",
+      "type": "verse",
+      "number": 2,
+      "text": "for he has founded it on the seas"
+    },
+    {
+      "block_id": "ps-24-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Who shall ascend the hill of the Lord?"
+    },
+    {
+      "block_id": "ps-24-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Those who have clean hands and pure hearts,"
+    },
+    {
+      "block_id": "ps-24-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They will receive blessing from the Lord"
+    },
+    {
+      "block_id": "ps-24-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Such is the company of those who seek him,"
+    },
+    {
+      "block_id": "ps-24-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Lift up your heads, O gates!"
+    },
+    {
+      "block_id": "ps-24-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Who is the King of glory?"
+    },
+    {
+      "block_id": "ps-24-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Lift up your heads, O gates!"
+    },
+    {
+      "block_id": "ps-24-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Who is this King of glory?"
+    }
+  ]
+}

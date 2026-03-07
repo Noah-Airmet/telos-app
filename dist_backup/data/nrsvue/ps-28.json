@@ -1,0 +1,62 @@
+{
+  "document_id": "ps-28",
+  "title": "Psalms 28",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-28-1",
+      "type": "verse",
+      "number": 1,
+      "text": "To you, O Lord, I call;"
+    },
+    {
+      "block_id": "ps-28-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear the voice of my supplication,"
+    },
+    {
+      "block_id": "ps-28-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not drag me away with the wicked,"
+    },
+    {
+      "block_id": "ps-28-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Repay them according to their work"
+    },
+    {
+      "block_id": "ps-28-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Because they do not regard the works of the Lord"
+    },
+    {
+      "block_id": "ps-28-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Blessed be the Lord,"
+    },
+    {
+      "block_id": "ps-28-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord is my strength and my shield;"
+    },
+    {
+      "block_id": "ps-28-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord is the strength of his people;"
+    },
+    {
+      "block_id": "ps-28-9",
+      "type": "verse",
+      "number": 9,
+      "text": "O save your people and bless your heritage;"
+    }
+  ]
+}

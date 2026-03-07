@@ -1,0 +1,197 @@
+{
+  "document_id": "deut-14",
+  "title": "Deuteronomy 14",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "deut-14-heading-pagan-practices-forb",
+      "type": "heading",
+      "text": "Pagan Practices Forbidden"
+    },
+    {
+      "block_id": "deut-14-heading-clean-and-unclean-fo",
+      "type": "heading",
+      "text": "Clean and Unclean Foods"
+    },
+    {
+      "block_id": "deut-14-heading-regulations-concerni",
+      "type": "heading",
+      "text": "Regulations concerning Tithes"
+    },
+    {
+      "block_id": "deut-14-1",
+      "type": "verse",
+      "number": 1,
+      "text": "“You are children of the Lord your God. You must not lacerate yourselves or shave your forelocks for the dead."
+    },
+    {
+      "block_id": "deut-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For you are a people holy to the Lord your God; it is you the Lord has chosen out of all the peoples on earth to be his people, his treasured possession."
+    },
+    {
+      "block_id": "deut-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“You shall not eat any abhorrent thing."
+    },
+    {
+      "block_id": "deut-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "These are the animals you may eat: the ox, the sheep, the goat,"
+    },
+    {
+      "block_id": "deut-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope, and the mountain sheep."
+    },
+    {
+      "block_id": "deut-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Any animal that divides the hoof and has the hoof cleft in two and chews the cud, among the animals, you may eat."
+    },
+    {
+      "block_id": "deut-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Yet of those that chew the cud or have the hoof cleft you shall not eat these: the camel, the hare, and the rock badger because they chew the cud but do not divide the hoof; they are unclean for you."
+    },
+    {
+      "block_id": "deut-14-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And the pig, because it divides the hoof but does not chew the cud, is unclean for you. You shall not eat their meat, and you shall not touch their carcasses."
+    },
+    {
+      "block_id": "deut-14-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“Of all that live in water you may eat these: whatever has fins and scales you may eat."
+    },
+    {
+      "block_id": "deut-14-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And whatever does not have fins and scales you shall not eat; it is unclean for you."
+    },
+    {
+      "block_id": "deut-14-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“You may eat any clean birds."
+    },
+    {
+      "block_id": "deut-14-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But these are the ones that you shall not eat: the eagle, the vulture, the osprey,"
+    },
+    {
+      "block_id": "deut-14-13",
+      "type": "verse",
+      "number": 13,
+      "text": "the buzzard, the kite of any kind;"
+    },
+    {
+      "block_id": "deut-14-14",
+      "type": "verse",
+      "number": 14,
+      "text": "every raven of any kind;"
+    },
+    {
+      "block_id": "deut-14-15",
+      "type": "verse",
+      "number": 15,
+      "text": "the ostrich, the nighthawk, the sea gull, the hawk of any kind;"
+    },
+    {
+      "block_id": "deut-14-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the little owl and the great owl, the water hen"
+    },
+    {
+      "block_id": "deut-14-17",
+      "type": "verse",
+      "number": 17,
+      "text": "and the desert owl, the carrion vulture and the cormorant,"
+    },
+    {
+      "block_id": "deut-14-18",
+      "type": "verse",
+      "number": 18,
+      "text": "the stork, the heron of any kind, the hoopoe, and the bat."
+    },
+    {
+      "block_id": "deut-14-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And all winged insects are unclean for you; they shall not be eaten."
+    },
+    {
+      "block_id": "deut-14-20",
+      "type": "verse",
+      "number": 20,
+      "text": "You may eat any clean winged creature."
+    },
+    {
+      "block_id": "deut-14-21",
+      "type": "verse",
+      "number": 21,
+      "text": "“You shall not eat anything that dies of itself; you may give it to aliens residing in your towns for them to eat, or you may sell it to a foreigner. For you are a people holy to the Lord your God."
+    },
+    {
+      "block_id": "deut-14-22",
+      "type": "verse",
+      "number": 22,
+      "text": "“Set apart a tithe of all the yield of your seed that is brought in yearly from the field."
+    },
+    {
+      "block_id": "deut-14-23",
+      "type": "verse",
+      "number": 23,
+      "text": "In the presence of the Lord your God, in the place that he will choose as a dwelling for his name, you shall eat the tithe of your grain, your wine, and your oil, as well as the firstlings of your herd and flock, so that you may learn to fear the Lord your God always."
+    },
+    {
+      "block_id": "deut-14-24",
+      "type": "verse",
+      "number": 24,
+      "text": "But if, when the Lord your God has blessed you, the distance is so great that you are unable to transport it, because the place where the Lord your God will choose to set his name is too far away from you,"
+    },
+    {
+      "block_id": "deut-14-25",
+      "type": "verse",
+      "number": 25,
+      "text": "then you may turn it into money. With the money secure in hand, go to the place that the Lord your God will choose;"
+    },
+    {
+      "block_id": "deut-14-26",
+      "type": "verse",
+      "number": 26,
+      "text": "spend the money for whatever you wish: oxen, sheep, wine, strong drink, or whatever you desire. And you shall eat there in the presence of the Lord your God, you and your household rejoicing together."
+    },
+    {
+      "block_id": "deut-14-27",
+      "type": "verse",
+      "number": 27,
+      "text": "As for the Levites resident in your towns, do not neglect them, because they have no allotment or inheritance with you."
+    },
+    {
+      "block_id": "deut-14-28",
+      "type": "verse",
+      "number": 28,
+      "text": "“Every third year you shall bring out the full tithe of your produce for that year and store it within your towns;"
+    },
+    {
+      "block_id": "deut-14-29",
+      "type": "verse",
+      "number": 29,
+      "text": "the Levites, because they have no allotment or inheritance with you, as well as the resident aliens, the orphans, and the widows in your towns, may come and eat their fill so that the Lord your God may bless you in all the work that you undertake."
+    }
+  ]
+}

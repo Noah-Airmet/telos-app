@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-114",
+  "title": "Psalms 114",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-114-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When Israel went out from Egypt,"
+    },
+    {
+      "block_id": "ps-114-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Judah became God’s sanctuary,"
+    },
+    {
+      "block_id": "ps-114-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The sea looked and fled;"
+    },
+    {
+      "block_id": "ps-114-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The mountains skipped like rams,"
+    },
+    {
+      "block_id": "ps-114-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why is it, O sea, that you flee?"
+    },
+    {
+      "block_id": "ps-114-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O mountains, that you skip like rams?"
+    },
+    {
+      "block_id": "ps-114-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Tremble, O earth, at the presence of the Lord,"
+    },
+    {
+      "block_id": "ps-114-8",
+      "type": "verse",
+      "number": 8,
+      "text": "who turns the rock into a pool of water,"
+    }
+  ]
+}

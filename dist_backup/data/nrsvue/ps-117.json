@@ -1,0 +1,20 @@
+{
+  "document_id": "ps-117",
+  "title": "Psalms 117",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-117-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord, all you nations!"
+    },
+    {
+      "block_id": "ps-117-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For great is his steadfast love toward us,"
+    }
+  ]
+}

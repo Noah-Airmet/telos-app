@@ -1,0 +1,50 @@
+{
+  "document_id": "ps-67",
+  "title": "Psalms 67",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-67-1",
+      "type": "verse",
+      "number": 1,
+      "text": "May God be gracious to us and bless us"
+    },
+    {
+      "block_id": "ps-67-2",
+      "type": "verse",
+      "number": 2,
+      "text": "that your way may be known upon earth,"
+    },
+    {
+      "block_id": "ps-67-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let the peoples praise you, O God;"
+    },
+    {
+      "block_id": "ps-67-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let the nations be glad and sing for joy,"
+    },
+    {
+      "block_id": "ps-67-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the peoples praise you, O God;"
+    },
+    {
+      "block_id": "ps-67-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The earth has yielded its increase;"
+    },
+    {
+      "block_id": "ps-67-7",
+      "type": "verse",
+      "number": 7,
+      "text": "May God continue to bless us;"
+    }
+  ]
+}

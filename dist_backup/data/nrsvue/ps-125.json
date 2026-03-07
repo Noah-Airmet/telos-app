@@ -1,0 +1,38 @@
+{
+  "document_id": "ps-125",
+  "title": "Psalms 125",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-125-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Those who trust in the Lord are like Mount Zion,"
+    },
+    {
+      "block_id": "ps-125-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the mountains surround Jerusalem,"
+    },
+    {
+      "block_id": "ps-125-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For the scepter of wickedness shall not rest"
+    },
+    {
+      "block_id": "ps-125-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Do good, O Lord, to those who are good"
+    },
+    {
+      "block_id": "ps-125-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But those who turn aside to their own crooked ways,"
+    }
+  ]
+}

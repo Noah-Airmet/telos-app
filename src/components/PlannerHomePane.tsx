@@ -12,6 +12,7 @@ interface PlannerHomePaneProps {
   onHeaderPointerDown?: PointerEventHandler<HTMLElement>;
   onCreatePlan: (type: LessonPlanType) => void;
   onOpenPlan: (planId: string) => void;
+  onDeletePlan: (planId: string) => void;
   onOpenReader: () => void;
 }
 
@@ -24,6 +25,7 @@ export function PlannerHomePane({
   onHeaderPointerDown,
   onCreatePlan,
   onOpenPlan,
+  onDeletePlan,
   onOpenReader,
 }: PlannerHomePaneProps) {
   const pinnedSet = new Set(pinnedPlanIds ?? []);
@@ -83,7 +85,7 @@ export function PlannerHomePane({
               onClick={() => onCreatePlan("custom")}
               className="shell-button shell-button-primary"
             >
-              New Blank Plan
+              New Blank Slate
             </button>
           </div>
 
@@ -99,24 +101,33 @@ export function PlannerHomePane({
               </div>
             ) : (
               lessonPlans.map((plan) => (
-                <button
-                  key={plan.id}
-                  type="button"
-                  onClick={() => onOpenPlan(plan.id)}
-                  className="shell-list-item"
-                >
+                <div key={plan.id} className="shell-list-item">
                   <div className="flex items-start justify-between gap-4">
-                    <div className="min-w-0">
+                    <button
+                      type="button"
+                      onClick={() => onOpenPlan(plan.id)}
+                      className="min-w-0 flex-1 text-left"
+                    >
                       <h4 className="truncate text-lg font-black uppercase tracking-[-0.04em]">
                         {plan.title}
                       </h4>
                       <p className="mt-2 text-sm text-[var(--text-secondary)]">
                         {getLessonPlanTypeLabel(plan.type)}
                       </p>
+                    </button>
+                    <div className="flex items-center gap-3">
+                      {pinnedSet.has(plan.id) && <span className="shell-meta">Pinned</span>}
+                      <button
+                        type="button"
+                        onClick={() => onDeletePlan(plan.id)}
+                        className="shell-button shell-button-danger"
+                        aria-label={`Delete ${plan.title}`}
+                      >
+                        X
+                      </button>
                     </div>
-                    {pinnedSet.has(plan.id) && <span className="shell-meta">Pinned</span>}
                   </div>
-                </button>
+                </div>
               ))
             )}
           </div>

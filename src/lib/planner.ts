@@ -1,6 +1,5 @@
 import type {
   LessonBlock,
-  LessonBlockKind,
   LessonPlan,
   LessonPlanType,
   LessonSource,
@@ -11,32 +10,97 @@ export interface PlannerTemplateDefinition {
   label: string;
   description: string;
   title: string;
+  body_markdown: string;
 }
 
 export const PLANNER_TEMPLATES: PlannerTemplateDefinition[] = [
   {
     type: "elders-quorum",
-    label: "Elders Quorum",
-    description: "Discussion-first outline for quorum teaching.",
-    title: "Elders Quorum Lesson",
+    label: "EQ/RS",
+    description: "Discussion-first study and teaching document for elders quorum or relief society.",
+    title: "EQ/RS Lesson",
+    body_markdown: `## Objective
+
+What do you hope changes for people after this discussion?
+
+## Opening Question
+
+What question will invite people into the text instead of just listening?
+
+## Scriptures
+
+- Add key passages here
+
+## Discussion Flow
+
+- What should the class wrestle with together?
+- Where might you pause and ask for responses?
+
+## Invitations
+
+- What is one concrete invitation for the week?
+`,
   },
   {
     type: "gospel-doctrine",
     label: "Gospel Doctrine",
     description: "Scripture-heavy lesson flow for class teaching.",
     title: "Gospel Doctrine Lesson",
+    body_markdown: `## Big Idea
+
+Write the doctrinal center of the lesson in one strong paragraph.
+
+## Scripture Flow
+
+- Passage 1
+- Passage 2
+- Passage 3
+
+## Questions
+
+- What questions open the room up?
+- Which verses should people sit with for a minute?
+
+## Closing Invitation
+
+- Summarize the main invitation here
+`,
   },
   {
     type: "talk-prep",
     label: "Talk Prep",
     description: "Gather quotes, scriptures, and transitions for a talk.",
     title: "Talk Outline",
+    body_markdown: `## Theme
+
+What is the one sentence you want people to remember?
+
+## Core Scriptures
+
+- Add your anchor passages
+
+## Supporting Quotes
+
+> Add key quotations here
+
+## Transitions
+
+How will you move from one section to the next?
+
+## Closing
+
+Draft the final paragraph you want to land on.
+`,
   },
   {
     type: "custom",
-    label: "Blank Plan",
-    description: "Start from a clean page with gentle structure.",
-    title: "Untitled Lesson",
+    label: "Blank Slate",
+    description: "Open a quiet page for essays, class writing, or anything else.",
+    title: "Untitled Document",
+    body_markdown: `## Working Title
+
+Start writing here.
+`,
   },
 ];
 
@@ -55,115 +119,15 @@ export function createLessonPlanFromTemplate(type: LessonPlanType): LessonPlan {
     title: template?.title ?? "Untitled Lesson",
     type,
     status: "draft",
+    body_markdown: template?.body_markdown ?? "",
     last_opened_at: now,
     created_at: now,
     updated_at: now,
   };
 }
 
-function createBlock(
-  lessonPlanId: string,
-  order: number,
-  kind: LessonBlockKind,
-  content: string,
-  referenceLabel?: string
-): LessonBlock {
-  return {
-    id: crypto.randomUUID(),
-    lesson_plan_id: lessonPlanId,
-    kind,
-    content,
-    order,
-    reference_label: referenceLabel,
-  };
-}
-
-export function createStarterBlocks(
-  lessonPlanId: string,
-  type: LessonPlanType
-): LessonBlock[] {
-  const sectionsByType: Record<LessonPlanType, Array<[LessonBlockKind, string]>> = {
-    "elders-quorum": [
-      ["heading", "Objective"],
-      ["text", "What change or invitation should this discussion produce?"],
-      ["heading", "Opening Question"],
-      ["question", "What is one question that will invite the quorum into the text?"],
-      ["heading", "Key Scriptures"],
-      ["scripture", ""],
-      ["heading", "Discussion Prompts"],
-      ["question", "What do you hope people will wrestle with together?"],
-      ["heading", "Takeaways"],
-      ["checklist", "Invitation for the week\nFollow-up question"],
-    ],
-    "gospel-doctrine": [
-      ["heading", "Big Idea"],
-      ["text", "Write the doctrinal center of the lesson in one paragraph."],
-      ["heading", "Scripture Flow"],
-      ["scripture", ""],
-      ["heading", "Questions"],
-      ["question", "Which passages invite participation rather than lecturing?"],
-      ["heading", "Quotes"],
-      ["quote", ""],
-      ["heading", "Closing Invitation"],
-      ["checklist", "Bear testimony\nInvite reflection"],
-    ],
-    "talk-prep": [
-      ["heading", "Theme"],
-      ["text", "What is the one sentence you want people to remember?"],
-      ["heading", "Core Scriptures"],
-      ["scripture", ""],
-      ["heading", "Supporting Quotes"],
-      ["quote", ""],
-      ["heading", "Transitions"],
-      ["text", "How will you move from one section to the next?"],
-      ["heading", "Closing"],
-      ["text", "Write the ending you want to land on."],
-    ],
-    custom: [
-      ["heading", "Objective"],
-      ["text", ""],
-      ["heading", "Scriptures"],
-      ["scripture", ""],
-      ["heading", "Questions"],
-      ["question", ""],
-    ],
-  };
-
-  return sectionsByType[type].map(([kind, content], index) =>
-    createBlock(lessonPlanId, index, kind, content)
-  );
-}
-
-export function buildLessonBlockFromSource(
-  lessonPlanId: string,
-  order: number,
-  source: LessonSource
-): LessonBlock {
-  const kind: LessonBlockKind =
-    source.source_type === "scripture"
-      ? "scripture"
-      : source.source_type === "note"
-        ? "text"
-        : "quote";
-
-  return {
-    id: crypto.randomUUID(),
-    lesson_plan_id: lessonPlanId,
-    kind,
-    order,
-    source_id: source.id,
-    reference_label: source.reference_label ?? source.label,
-    anchor: source.anchor,
-    content: source.content,
-  };
-}
-
-export function exportLessonPlanToMarkdown(
-  lessonPlan: LessonPlan,
-  lessonBlocks: LessonBlock[]
-): string {
-  const header = [`# ${lessonPlan.title}`, "", `_Template: ${getLessonPlanTypeLabel(lessonPlan.type)}_`, ""];
-  const lines = lessonBlocks
+export function createBodyMarkdownFromLegacyBlocks(lessonBlocks: LessonBlock[]): string {
+  const lines = [...lessonBlocks]
     .sort((a, b) => a.order - b.order)
     .flatMap((block) => {
       const trimmed = block.content.trim();
@@ -173,16 +137,16 @@ export function exportLessonPlanToMarkdown(
       }
 
       if (block.kind === "question") {
-        return [`- Question: ${trimmed || "Add discussion question"}`, ""];
+        return [`- ${trimmed || "Add discussion question"}`, ""];
       }
 
       if (block.kind === "checklist") {
-        const items = (trimmed || "Add action item")
+        return (trimmed || "Add action item")
           .split("\n")
           .map((item) => item.trim())
           .filter(Boolean)
-          .map((item) => `- [ ] ${item}`);
-        return [...items, ""];
+          .map((item) => `- [ ] ${item}`)
+          .concat("");
       }
 
       if (block.kind === "scripture") {
@@ -197,5 +161,31 @@ export function exportLessonPlanToMarkdown(
       return [trimmed || "_Add notes_", ""];
     });
 
-  return [...header, ...lines].join("\n").trim() + "\n";
+  return lines.join("\n").trim() + "\n";
+}
+
+export function buildMarkdownFromSource(
+  source: LessonSource
+): string {
+  const label = source.reference_label ?? source.label;
+
+  if (source.source_type === "scripture") {
+    return `**${label}**\n\n${source.content.trim()}`;
+  }
+
+  if (source.source_type === "note") {
+    return `### Note\n\n${source.content.trim()}`;
+  }
+
+  return `> ${source.content.trim().split("\n").join("\n> ")}`;
+}
+
+export function exportLessonPlanToMarkdown(lessonPlan: LessonPlan): string {
+  const title = lessonPlan.title.trim() || "Untitled Document";
+  const body = (lessonPlan.body_markdown ?? "").trim();
+  const templateLabel = getLessonPlanTypeLabel(lessonPlan.type);
+
+  return [`# ${title}`, "", `_Template: ${templateLabel}_`, body ? `\n${body}` : ""]
+    .join("\n")
+    .trim() + "\n";
 }

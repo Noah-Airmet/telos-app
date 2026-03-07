@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-138",
+  "title": "Psalms 138",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "ps-138-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I give you thanks, O Lord, with my whole heart;"
+    },
+    {
+      "block_id": "ps-138-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I bow down toward your holy temple"
+    },
+    {
+      "block_id": "ps-138-3",
+      "type": "verse",
+      "number": 3,
+      "text": "On the day I called, you answered me;"
+    },
+    {
+      "block_id": "ps-138-4",
+      "type": "verse",
+      "number": 4,
+      "text": "All the kings of the earth shall praise you, O Lord,"
+    },
+    {
+      "block_id": "ps-138-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They shall sing of the ways of the Lord,"
+    },
+    {
+      "block_id": "ps-138-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For though the Lord is high, he regards the lowly,"
+    },
+    {
+      "block_id": "ps-138-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Though I walk in the midst of trouble,"
+    },
+    {
+      "block_id": "ps-138-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord will fulfill his purpose for me;"
+    }
+  ]
+}

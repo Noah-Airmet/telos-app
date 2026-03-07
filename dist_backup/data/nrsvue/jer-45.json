@@ -1,0 +1,43 @@
+{
+  "document_id": "jer-45",
+  "title": "Jeremiah 45",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "jer-45-heading-a-word-of-comfort-to",
+      "type": "heading",
+      "text": "A Word of Comfort to Baruch"
+    },
+    {
+      "block_id": "jer-45-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word that the prophet Jeremiah spoke to Baruch son of Neriah, when he wrote these words in a scroll at the dictation of Jeremiah, in the fourth year of King Jehoiakim son of Josiah of Judah:"
+    },
+    {
+      "block_id": "jer-45-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Thus says the Lord, the God of Israel, to you, O Baruch:"
+    },
+    {
+      "block_id": "jer-45-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You said, “Woe is me! The Lord has added sorrow to my pain; I am weary with my groaning, and I find no rest.”"
+    },
+    {
+      "block_id": "jer-45-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Thus you shall say to him, “Thus says the Lord: I am going to break down what I have built and pluck up what I have planted—that is, the whole land."
+    },
+    {
+      "block_id": "jer-45-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And you, do you seek great things for yourself? Do not seek them, for I am going to bring disaster upon all flesh, says the Lord, but I will give you your life as a prize of war in every place to which you may go.”"
+    }
+  ]
+}

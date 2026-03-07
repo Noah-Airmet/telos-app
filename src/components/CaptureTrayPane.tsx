@@ -92,7 +92,7 @@ export function CaptureTrayPane({
                     onClick={() => onInsertSourceIntoOutline(source.id)}
                     className="shell-button shell-button-primary"
                   >
-                    Insert Into Outline
+                    Insert Into Document
                   </button>
                 </div>
               </article>

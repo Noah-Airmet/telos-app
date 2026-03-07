@@ -1,0 +1,116 @@
+{
+  "document_id": "sir-12",
+  "title": "Sirach 12",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "sir-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "If you do good, know to whom you do it,"
+    },
+    {
+      "block_id": "sir-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Do good to the devout, and you will be repaid—"
+    },
+    {
+      "block_id": "sir-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "No good comes to one who persists in evil"
+    },
+    {
+      "block_id": "sir-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Give to the devout, but do not help the sinner."
+    },
+    {
+      "block_id": "sir-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Do good to the humble, but do not give to the ungodly;"
+    },
+    {
+      "block_id": "sir-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For the Most High also hates sinners"
+    },
+    {
+      "block_id": "sir-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Give to the one who is good, but do not help the sinner."
+    },
+    {
+      "block_id": "sir-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "A friend is not known in prosperity,"
+    },
+    {
+      "block_id": "sir-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "One’s enemies are friendly when one prospers,"
+    },
+    {
+      "block_id": "sir-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Never trust your enemy,"
+    },
+    {
+      "block_id": "sir-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Even if he humbles himself and walks bowed down,"
+    },
+    {
+      "block_id": "sir-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Do not put him next to you,"
+    },
+    {
+      "block_id": "sir-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Who pities a snake charmer when he is bitten"
+    },
+    {
+      "block_id": "sir-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So no one pities people who associate with sinners"
+    },
+    {
+      "block_id": "sir-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "They stand by you for a while,"
+    },
+    {
+      "block_id": "sir-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Enemies speak sweetly with their lips,"
+    },
+    {
+      "block_id": "sir-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If evil comes upon you, you will find them there ahead of you;"
+    },
+    {
+      "block_id": "sir-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then they will shake their heads and clap their hands"
+    }
+  ]
+}
