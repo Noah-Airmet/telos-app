@@ -4,6 +4,7 @@ import { WorkspaceChooser } from "./components/WorkspaceChooser";
 import { Sidebar } from "./components/Sidebar";
 import { CommandPalette } from "./components/CommandPalette";
 import { PaneHost } from "./components/PaneHost";
+import { PaneLauncherPane } from "./components/PaneLauncherPane";
 import { PlannerHomePane } from "./components/PlannerHomePane";
 import { PlannerOutlinePane } from "./components/PlannerOutlinePane";
 import { CaptureTrayPane } from "./components/CaptureTrayPane";
@@ -32,6 +33,7 @@ import {
 import {
   createCaptureTrayPane,
   createNotesPane,
+  createPaneLauncherPane,
   createPlannerHomePane,
   createPlannerOutlinePane,
   createReadingPane,
@@ -106,6 +108,34 @@ function isPlanPane(
   pane: AppPaneDescriptor
 ): pane is Extract<AppPaneDescriptor, { type: "plannerOutline" | "captureTray" }> {
   return pane.type === "plannerOutline" || pane.type === "captureTray";
+}
+
+function shouldAutoLinkReadingLocations(
+  sourceLocation: ReturnType<typeof getBookFromPaneState>,
+  targetLocation: ReturnType<typeof getBookFromPaneState>
+) {
+  return Boolean(
+    sourceLocation.translation?.compare_ready &&
+      targetLocation.translation?.compare_ready &&
+      sourceLocation.book?.compare_ready &&
+      targetLocation.book?.compare_ready &&
+      sourceLocation.book?.work_id &&
+      sourceLocation.book.work_id === targetLocation.book?.work_id &&
+      sourceLocation.book.canonical_book_id &&
+      sourceLocation.book.canonical_book_id === targetLocation.book?.canonical_book_id
+  );
+}
+
+function clearReadingLinkState(pane: Extract<AppPaneDescriptor, { type: "reading" }>): AppPaneDescriptor {
+  return {
+    ...pane,
+    state: {
+      ...pane.state,
+      sync_group_id: null,
+      linked_to_pane_id: null,
+      show_comparison_diffs: false,
+    },
+  };
 }
 
 function App() {
@@ -305,100 +335,282 @@ function App() {
     persistPlannerState({ preferred_workspace: "planner" });
   }, [persistPlannerState, saveShellLayout]);
 
-  const openGlobalNotesPane = useCallback(() => {
+  const openGlobalNotesPane = useCallback((sourcePaneId?: string) => {
     saveShellLayout((previous) => {
       const notesPane = previous.panes.find((pane) => pane.type === "notes");
       if (notesPane) {
+        const panes = sourcePaneId
+          ? previous.panes.filter((pane) => pane.id !== sourcePaneId)
+          : previous.panes;
         return {
           ...previous,
+          panes,
           active_pane_id: notesPane.id,
+          pane_widths: normalizePaneWidths(
+            panes,
+            Object.fromEntries(
+              Object.entries(previous.pane_widths ?? {}).filter(([paneId]) =>
+                panes.some((pane) => pane.id === paneId)
+              )
+            )
+          ),
           updated_at: Date.now(),
         };
+      }
+      if (sourcePaneId) {
+        return replacePaneInLayout(previous, sourcePaneId, createNotesPane());
       }
       return insertPaneAfter(previous, createNotesPane(), previous.active_pane_id);
     });
   }, [saveShellLayout]);
 
-  const openPlannerHomePane = useCallback(() => {
-    saveShellLayout((previous) => insertPaneAfter(previous, createPlannerHomePane(), previous.active_pane_id));
+  const openPlannerHomePane = useCallback((sourcePaneId?: string) => {
+    saveShellLayout((previous) =>
+      sourcePaneId
+        ? replacePaneInLayout(previous, sourcePaneId, createPlannerHomePane())
+        : insertPaneAfter(previous, createPlannerHomePane(), previous.active_pane_id)
+    );
     persistPlannerState({ preferred_workspace: "planner" });
   }, [persistPlannerState, saveShellLayout]);
 
-  const openStandaloneReadingPane = useCallback(async () => {
+  const openStandaloneReadingPane = useCallback(async (
+    replacementPaneId?: string,
+    linkSourcePaneId?: string | null
+  ) => {
     const saved = await repository.getReadingState();
-    saveShellLayout((previous) =>
-      insertPaneAfter(
-        previous,
-        createReadingPane({
-          profile: saved?.profile ?? activeReadingPane?.state.profile ?? "lds-bom",
-          book_id: saved?.book_id ?? activeReadingPane?.state.book_id ?? null,
-          chapter: saved?.chapter ?? activeReadingPane?.state.chapter ?? 1,
-        }),
-        previous.active_pane_id
-      )
-    );
-  }, [activeReadingPane, repository, saveShellLayout]);
+    saveShellLayout((previous) => {
+      const sourceReadingPane =
+        (linkSourcePaneId
+          ? previous.panes.find((pane) => pane.id === linkSourcePaneId)
+          : activeReadingPane
+            ? previous.panes.find((pane) => pane.id === activeReadingPane.id)
+            : null) ?? null;
+      const linkSourceReadingPane = sourceReadingPane && isReadingPane(sourceReadingPane) ? sourceReadingPane : null;
+      const defaultReadingState = linkSourceReadingPane?.state ?? activeReadingPane?.state ?? null;
+
+      const readingPane = createReadingPane({
+        profile: defaultReadingState?.profile ?? saved?.profile ?? "lds-bom",
+        book_id: defaultReadingState?.book_id ?? saved?.book_id ?? null,
+        chapter: defaultReadingState?.chapter ?? saved?.chapter ?? 1,
+      });
+      const nextReadingPaneId = replacementPaneId ?? readingPane.id;
+
+      let nextLayout = replacementPaneId
+        ? replacePaneInLayout(previous, replacementPaneId, readingPane)
+        : insertPaneAfter(previous, readingPane, previous.active_pane_id);
+
+      if (!linkSourceReadingPane) return nextLayout;
+
+      const sourceLocation = getBookFromPaneState(manifests, linkSourceReadingPane.state);
+      const targetLocation = getBookFromPaneState(manifests, readingPane.state);
+      if (!shouldAutoLinkReadingLocations(sourceLocation, targetLocation)) return nextLayout;
+
+      const sharedSyncGroupId = linkSourceReadingPane.state.sync_group_id ?? crypto.randomUUID();
+
+      nextLayout = updatePaneInLayout(nextLayout, nextReadingPaneId, (pane) => {
+        if (!isReadingPane(pane)) return pane;
+        return {
+          ...pane,
+          state: {
+            ...pane.state,
+            sync_group_id: sharedSyncGroupId,
+            linked_to_pane_id: linkSourceReadingPane.id,
+            show_comparison_diffs: true,
+          },
+        };
+      });
+
+      if (!linkSourceReadingPane.state.sync_group_id) {
+        nextLayout = updatePaneInLayout(nextLayout, linkSourceReadingPane.id, (pane) => {
+          if (!isReadingPane(pane)) return pane;
+          return {
+            ...pane,
+            state: {
+              ...pane.state,
+              sync_group_id: sharedSyncGroupId,
+            },
+          };
+        });
+      }
+
+      return nextLayout;
+    });
+  }, [activeReadingPane, manifests, repository, saveShellLayout]);
 
   const openReadingPaneAt = useCallback(
     (profile: string, bookId: string, chapter: number) => {
+      saveShellLayout((previous) => {
+        const readingPane = createReadingPane({
+          profile,
+          book_id: bookId,
+          chapter,
+        });
+        let nextLayout = insertPaneAfter(previous, readingPane, previous.active_pane_id);
+
+        if (!activeReadingPane) return nextLayout;
+
+        const sourcePane = previous.panes.find((pane) => pane.id === activeReadingPane.id);
+        if (!sourcePane || !isReadingPane(sourcePane)) return nextLayout;
+
+        const sourceLocation = getBookFromPaneState(manifests, sourcePane.state);
+        const targetLocation = getBookFromPaneState(manifests, readingPane.state);
+        if (!shouldAutoLinkReadingLocations(sourceLocation, targetLocation)) return nextLayout;
+
+        const sharedSyncGroupId = sourcePane.state.sync_group_id ?? crypto.randomUUID();
+
+        nextLayout = updatePaneInLayout(nextLayout, readingPane.id, (pane) => {
+          if (!isReadingPane(pane)) return pane;
+          return {
+            ...pane,
+            state: {
+              ...pane.state,
+              sync_group_id: sharedSyncGroupId,
+              linked_to_pane_id: sourcePane.id,
+              show_comparison_diffs: true,
+            },
+          };
+        });
+
+        if (!sourcePane.state.sync_group_id) {
+          nextLayout = updatePaneInLayout(nextLayout, sourcePane.id, (pane) => {
+            if (!isReadingPane(pane)) return pane;
+            return {
+              ...pane,
+              state: {
+                ...pane.state,
+                sync_group_id: sharedSyncGroupId,
+              },
+            };
+          });
+        }
+
+        return nextLayout;
+      });
+    },
+    [activeReadingPane, manifests, saveShellLayout]
+  );
+
+  const openPaneLauncher = useCallback(
+    (sourcePaneId: string) => {
       saveShellLayout((previous) =>
-        insertPaneAfter(
-          previous,
-          createReadingPane({
-            profile,
-            book_id: bookId,
-            chapter,
-          }),
-          previous.active_pane_id
-        )
+        insertPaneAfter(previous, createPaneLauncherPane({ source_pane_id: sourcePaneId }), sourcePaneId)
       );
     },
     [saveShellLayout]
   );
 
-  const addLinkedReadingPane = useCallback(
-    (sourcePaneId: string) => {
-      if (!shellLayout) return;
-      const sourcePane = shellLayout.panes.find((pane) => pane.id === sourcePaneId);
-      if (!sourcePane || !isReadingPane(sourcePane)) return;
-
-      const sourceLocation = getBookFromPaneState(manifests, sourcePane.state);
-      const usedProfiles = new Set(
-        shellLayout.panes.filter(isReadingPane).map((pane) => pane.state.profile).filter(Boolean)
-      );
-      const nextManifest =
-        manifests.find((manifest) => !usedProfiles.has(manifest.profile)) ??
-        manifests.find((manifest) => manifest.profile !== sourcePane.state.profile) ??
-        manifests[0] ??
-        null;
-      const matchingBook =
-        nextManifest && sourceLocation.book
-          ? findMatchingBook(nextManifest, sourceLocation.book) ?? nextManifest.books[0] ?? null
-          : nextManifest?.books[0] ?? null;
-
-      saveShellLayout((previous) =>
-        insertPaneAfter(
-          previous,
-          createReadingPane({
-            profile: nextManifest?.profile ?? sourcePane.state.profile,
-            book_id: matchingBook?.book_id ?? sourcePane.state.book_id,
-            chapter: sourceLocation.chapter,
-            sync_group_id: sourcePane.state.sync_group_id ?? crypto.randomUUID(),
-            linked_to_pane_id: sourcePane.id,
-            show_comparison_diffs: true,
-          }),
-          sourcePaneId
-        )
-      );
-    },
-    [manifests, saveShellLayout, shellLayout]
-  );
+  const resetWorkspaceLayout = useCallback(() => {
+    setShellLayout(null);
+    repository.saveShellLayoutState(createShellLayoutState([])).catch(console.error);
+  }, [repository]);
 
   const closePane = useCallback(
     (paneId: string) => {
       saveShellLayout((previous) => removePaneFromLayout(previous, paneId));
     },
     [saveShellLayout]
+  );
+
+  const unlinkReadingPane = useCallback(
+    (paneId: string) => {
+      saveShellLayout((previous) => {
+        const pane = previous.panes.find((entry) => entry.id === paneId);
+        if (!pane || !isReadingPane(pane) || !pane.state.sync_group_id) {
+          return previous;
+        }
+
+        const groupMembers = previous.panes.filter(
+          (entry) =>
+            isReadingPane(entry) &&
+            entry.state.sync_group_id &&
+            entry.state.sync_group_id === pane.state.sync_group_id
+        );
+        if (groupMembers.length <= 1) {
+          return updatePaneInLayout(previous, paneId, (entry) =>
+            isReadingPane(entry) ? clearReadingLinkState(entry) : entry
+          );
+        }
+
+        const remainingMembers = groupMembers.filter((entry) => entry.id !== paneId);
+
+        return {
+          ...previous,
+          panes: previous.panes.map((entry) => {
+            if (!isReadingPane(entry)) return entry;
+            if (entry.id === paneId) return clearReadingLinkState(entry);
+            if (entry.state.sync_group_id !== pane.state.sync_group_id) return entry;
+
+            if (remainingMembers.length === 1) {
+              return clearReadingLinkState(entry);
+            }
+
+            if (entry.state.linked_to_pane_id === paneId || !entry.state.linked_to_pane_id) {
+              const fallbackLinkedPane = remainingMembers.find((candidate) => candidate.id !== entry.id) ?? null;
+              return {
+                ...entry,
+                state: {
+                  ...entry.state,
+                  linked_to_pane_id: fallbackLinkedPane?.id ?? null,
+                  show_comparison_diffs: fallbackLinkedPane ? entry.state.show_comparison_diffs : false,
+                },
+              };
+            }
+
+            return entry;
+          }),
+          updated_at: Date.now(),
+        };
+      });
+    },
+    [saveShellLayout]
+  );
+
+  const relinkReadingPane = useCallback(
+    (paneId: string, targetPaneId: string) => {
+      saveShellLayout((previous) => {
+        const pane = previous.panes.find((entry) => entry.id === paneId);
+        const targetPane = previous.panes.find((entry) => entry.id === targetPaneId);
+        if (!pane || !targetPane || !isReadingPane(pane) || !isReadingPane(targetPane)) {
+          return previous;
+        }
+
+        const sourceLocation = getBookFromPaneState(manifests, pane.state);
+        const targetLocation = getBookFromPaneState(manifests, targetPane.state);
+        if (!shouldAutoLinkReadingLocations(sourceLocation, targetLocation)) {
+          return previous;
+        }
+
+        const sharedSyncGroupId = targetPane.state.sync_group_id ?? crypto.randomUUID();
+        let nextLayout = updatePaneInLayout(previous, pane.id, (entry) => {
+          if (!isReadingPane(entry)) return entry;
+          return {
+            ...entry,
+            state: {
+              ...entry.state,
+              sync_group_id: sharedSyncGroupId,
+              linked_to_pane_id: targetPane.id,
+              show_comparison_diffs: true,
+            },
+          };
+        });
+
+        if (!targetPane.state.sync_group_id) {
+          nextLayout = updatePaneInLayout(nextLayout, targetPane.id, (entry) => {
+            if (!isReadingPane(entry)) return entry;
+            return {
+              ...entry,
+              state: {
+                ...entry.state,
+                sync_group_id: sharedSyncGroupId,
+              },
+            };
+          });
+        }
+
+        return nextLayout;
+      });
+    },
+    [manifests, saveShellLayout]
   );
 
   const focusPane = useCallback(
@@ -735,6 +947,26 @@ function App() {
   ) => {
       const isActive = shellLayout?.active_pane_id === pane.id;
 
+      if (pane.type === "paneLauncher") {
+        return (
+          <PaneLauncherPane
+            isActive={isActive}
+            onFocus={() => focusPane(pane.id)}
+            onHeaderPointerDown={controls.onHeaderPointerDown}
+            onClose={shellLayout && shellLayout.panes.length > 1 ? () => closePane(pane.id) : undefined}
+            onOpenReader={() => {
+              void openStandaloneReadingPane(pane.id, pane.state.source_pane_id ?? null);
+            }}
+            onOpenWorkspace={() => {
+              openPlannerHomePane(pane.id);
+            }}
+            onOpenNotes={() => {
+              openGlobalNotesPane(pane.id);
+            }}
+          />
+        );
+      }
+
       if (pane.type === "plannerHome") {
         return (
           <PlannerHomePane
@@ -852,7 +1084,19 @@ function App() {
           ? shellLayout?.panes.find((entry) => entry.id === pane.state.linked_to_pane_id)
           : null;
       const linkedReadingPane = linkedPane && isReadingPane(linkedPane) ? linkedPane : null;
+      const linkedPeers = shellLayout?.panes.filter(
+        (entry) =>
+          isReadingPane(entry) &&
+          entry.id !== pane.id &&
+          entry.state.sync_group_id &&
+          entry.state.sync_group_id === pane.state.sync_group_id
+      ) ?? [];
       const paneLocation = getBookFromPaneState(manifests, pane.state);
+      const linkablePeers = shellLayout?.panes.filter((entry) => {
+        if (!isReadingPane(entry) || entry.id === pane.id) return false;
+        const candidateLocation = getBookFromPaneState(manifests, entry.state);
+        return shouldAutoLinkReadingLocations(paneLocation, candidateLocation);
+      }) ?? [];
       const comparisonLocation = linkedReadingPane
         ? getBookFromPaneState(manifests, linkedReadingPane.state)
         : { translation: null, book: null, chapter: 1 };
@@ -945,7 +1189,16 @@ function App() {
           onSelectChapter={(chapter) => {
             syncReadingGroupLocation(pane.id, pane.state.profile, paneLocation.book?.book_id ?? null, chapter);
           }}
-          onAddPane={() => addLinkedReadingPane(pane.id)}
+          onAddPane={() => openPaneLauncher(pane.id)}
+          canRelinkPane={linkedPeers.length === 0 && linkablePeers.length > 0}
+          isLinkedPane={linkedPeers.length > 0}
+          onToggleLinked={
+            linkedPeers.length > 0
+              ? () => unlinkReadingPane(pane.id)
+              : linkablePeers.length > 0
+                ? () => relinkReadingPane(pane.id, linkablePeers[0].id)
+                : undefined
+          }
           onClose={shellLayout && shellLayout.panes.length > 1 ? () => closePane(pane.id) : undefined}
           comparisonProfile={linkedReadingPane?.state.profile ?? undefined}
           comparisonBook={comparisonLocation.book}
@@ -1007,10 +1260,12 @@ function App() {
           <button
             type="button"
             onClick={() => setIsSidebarCollapsed(false)}
-            className="shell-button px-2"
+            className="flex h-8 w-8 items-center justify-center border border-[var(--border-color)] text-[var(--text-secondary)] transition-colors hover:text-[var(--text-primary)]"
             title="Expand library"
           >
-            →
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M3.5 2.5 7.5 6l-4 3.5"/>
+            </svg>
           </button>
           <div className="shell-kicker [writing-mode:vertical-rl] rotate-180">Library</div>
           <div className="shell-meta [writing-mode:vertical-rl] rotate-180">{mode}</div>
@@ -1028,6 +1283,7 @@ function App() {
               userName={user?.displayName || user?.email || null}
               onSignOut={signOut}
               onCollapse={() => setIsSidebarCollapsed(true)}
+              onResetWorkspaceLayout={resetWorkspaceLayout}
               onSelectTranslation={(profile) => {
                 if (!activeReadingPane) return;
                 const translation = manifests.find((manifest) => manifest.profile === profile);
@@ -1074,15 +1330,6 @@ function App() {
           </div>
 
           <div className="flex flex-wrap items-center gap-2">
-            <button type="button" onClick={() => void openStandaloneReadingPane()} className="shell-button">
-              New Reader
-            </button>
-            <button type="button" onClick={openPlannerHomePane} className="shell-button">
-              Workspace Home
-            </button>
-            <button type="button" onClick={openGlobalNotesPane} className="shell-button">
-              Notes
-            </button>
             {activePlanId && (
               <button
                 type="button"
@@ -1096,16 +1343,6 @@ function App() {
                 Capture Tray
               </button>
             )}
-            <button
-              type="button"
-              onClick={() => {
-                setShellLayout(null);
-                repository.saveShellLayoutState(createShellLayoutState([])).catch(console.error);
-              }}
-              className="shell-button"
-            >
-              Reset
-            </button>
           </div>
         </header>
 

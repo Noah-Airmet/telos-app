@@ -40,6 +40,9 @@ interface ReadingPaneProps {
   onSelectChapter?: (chapter: number) => void;
   // Pane management
   onAddPane?: () => void;  // opens a new pane to the right
+  isLinkedPane?: boolean;
+  canRelinkPane?: boolean;
+  onToggleLinked?: () => void;
   onClose?: () => void;    // closes this pane (undefined = last pane, hide button)
   // Comparison diffs
   comparisonProfile?: string;
@@ -77,6 +80,9 @@ export function ReadingPane({
   onSelectBook,
   onSelectChapter,
   onAddPane,
+  isLinkedPane,
+  canRelinkPane,
+  onToggleLinked,
   onClose,
   comparisonProfile,
   comparisonBook,
@@ -296,7 +302,7 @@ export function ReadingPane({
     profile, book, chapter, currentTranslation, manifests,
     onPrev, onNext, hasPrev, hasNext,
     onChangeProfile, onSelectBook, onSelectChapter,
-    onAddPane, onClose,
+    onAddPane, isLinkedPane, canRelinkPane, onToggleLinked, onClose,
     showComparisonDiffs, onToggleComparisonDiffs,
     hasComparisonProfile: !!comparisonProfile,
     isActivePane,
@@ -583,6 +589,9 @@ interface PaneHeaderProps {
   onSelectBook?: (book: BookEntry) => void;
   onSelectChapter?: (chapter: number) => void;
   onAddPane?: () => void;
+  isLinkedPane?: boolean;
+  canRelinkPane?: boolean;
+  onToggleLinked?: () => void;
   onClose?: () => void;
   hasComparisonProfile: boolean;
   showComparisonDiffs?: boolean;
@@ -605,6 +614,9 @@ function PaneHeader({
   onSelectBook,
   onSelectChapter,
   onAddPane,
+  isLinkedPane,
+  canRelinkPane,
+  onToggleLinked,
   onClose,
   hasComparisonProfile,
   showComparisonDiffs,
@@ -765,6 +777,35 @@ function PaneHeader({
 
         {/* ── Right controls ── */}
         <div className="flex items-center gap-1.5 flex-shrink-0">
+          {(isLinkedPane || canRelinkPane) && onToggleLinked && (
+            <button
+              onClick={onToggleLinked}
+              title={
+                isLinkedPane
+                  ? "Linked to matching pane. Click to unlink."
+                  : "This pane can be linked back to a matching pane."
+              }
+              className={`shell-button flex items-center gap-1 ${isLinkedPane ? "shell-button-primary" : ""}`}
+            >
+              <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round">
+                {isLinkedPane ? (
+                  <>
+                    <path d="M4.5 7.5 7.5 4.5"/>
+                    <path d="M3.2 8.8 1.8 7.4a1.8 1.8 0 0 1 0-2.5l1.1-1.1a1.8 1.8 0 0 1 2.5 0l1 1"/>
+                    <path d="m8.8 3.2 1.4 1.4a1.8 1.8 0 0 1 0 2.5l-1.1 1.1a1.8 1.8 0 0 1-2.5 0l-1-1"/>
+                  </>
+                ) : (
+                  <>
+                    <path d="M2.2 4.1 3.3 3a1.8 1.8 0 0 1 2.5 0l.8.8"/>
+                    <path d="m8 8 .7.7a1.8 1.8 0 0 0 2.5 0l1.1-1.1a1.8 1.8 0 0 0 0-2.5L11.1 4.7"/>
+                    <path d="M4.2 7.8 7.8 4.2"/>
+                    <path d="M4.6 4.2 7.8 7.4"/>
+                  </>
+                )}
+              </svg>
+              {isLinkedPane ? "Linked" : "Re-link"}
+            </button>
+          )}
           {hasComparisonProfile && onToggleComparisonDiffs && (
             <button
               onClick={onToggleComparisonDiffs}

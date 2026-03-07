@@ -15,19 +15,23 @@ interface TextRange {
   end: number;
 }
 
-function tokenize(text: string) {
+function tokenize(text: string, ignoreStandaloneNumbers = false) {
   return Array.from(text.matchAll(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g)).map((match) => ({
     normalized: match[0].toLowerCase(),
     start: match.index ?? 0,
     end: (match.index ?? 0) + match[0].length,
-  }));
+  })).filter((token) => !(ignoreStandaloneNumbers && /^\d+$/.test(text.slice(token.start, token.end))));
 }
 
-function buildDiffRanges(baseText: string, comparisonText?: string): TextRange[] {
+function buildDiffRanges(
+  baseText: string,
+  comparisonText?: string,
+  options?: { ignoreStandaloneNumbers?: boolean }
+): TextRange[] {
   if (!comparisonText || comparisonText === baseText) return [];
 
-  const baseTokens = tokenize(baseText);
-  const comparisonTokens = tokenize(comparisonText);
+  const baseTokens = tokenize(baseText, options?.ignoreStandaloneNumbers);
+  const comparisonTokens = tokenize(comparisonText, options?.ignoreStandaloneNumbers);
 
   if (!baseTokens.length || !comparisonTokens.length) {
     return baseTokens.map((token) => ({ start: token.start, end: token.end }));
@@ -117,8 +121,14 @@ export function VerseBlock({
     );
   }
 
+  const diffOptions = {
+    ignoreStandaloneNumbers: (block.compare_unit_ids?.length ?? 0) > 1,
+  };
+
   const renderTextWithHighlights = () => {
-    const diffRanges = showComparisonDiff ? buildDiffRanges(block.text, comparisonText) : [];
+    const diffRanges = showComparisonDiff
+      ? buildDiffRanges(block.text, comparisonText, diffOptions)
+      : [];
     const boundaries = new Set<number>([0, block.text.length]);
     const sortedHighlights = [...highlights].sort((a, b) => a.start_offset - b.start_offset);
     const nodes: React.ReactNode[] = [];
@@ -187,13 +197,15 @@ export function VerseBlock({
     return nodes;
   };
 
-  const hasComparisonDiff = showComparisonDiff && buildDiffRanges(block.text, comparisonText).length > 0;
+  const hasComparisonDiff =
+    showComparisonDiff && buildDiffRanges(block.text, comparisonText, diffOptions).length > 0;
 
   // verse or paragraph
   return (
     <div
       className={`relative group verse-container ${hasComparisonDiff ? "rounded-md bg-amber-50/40 px-2 -mx-2 dark:bg-amber-500/5" : ""}`}
       data-block-id={block.block_id}
+      data-sync-unit-id={block.sync_unit_id ?? ""}
     >
       {block.number != null && (
         <span className="absolute -left-8 top-1 text-xs font-sans font-medium text-[var(--text-secondary)] opacity-0 group-hover:opacity-100 transition-opacity select-none" contentEditable={false}>

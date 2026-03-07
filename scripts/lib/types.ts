@@ -3,6 +3,16 @@ export interface Block {
   type: "verse" | "heading" | "summary" | "paragraph" | "commentary";
   number?: number;
   text: string;
+  verse_start?: number | null;
+  verse_end?: number | null;
+  compare_unit_ids?: string[];
+  sync_unit_id?: string | null;
+}
+
+export interface CompareUnit {
+  unit_id: string;
+  text: string;
+  source_block_id?: string;
 }
 
 export interface TelosDocument {
@@ -11,6 +21,7 @@ export interface TelosDocument {
   type: "scripture" | "study-bible" | "commentary";
   translation: string;
   blocks: Block[];
+  compare_units?: CompareUnit[];
 }
 
 export interface ChapterResult {

@@ -3,6 +3,7 @@ import type {
   CaptureTrayPaneState,
   NotesPaneState,
   NotesPaneScope,
+  PaneLauncherPaneState,
   PlannerHomePaneState,
   PlannerOutlinePaneState,
   ReadingPaneState,
@@ -33,6 +34,16 @@ export function createPlannerHomePane(
   return {
     id: crypto.randomUUID(),
     type: "plannerHome",
+    state,
+  };
+}
+
+export function createPaneLauncherPane(
+  state: PaneLauncherPaneState = {}
+): AppPaneDescriptor {
+  return {
+    id: crypto.randomUUID(),
+    type: "paneLauncher",
     state,
   };
 }
@@ -255,8 +266,8 @@ export function withNotesDraftAnchor(
             state: {
               ...pane.state,
               draft_anchor: draftAnchor,
-            scope: pane.state.scope ?? "currentChapter",
-            selected_note_id: null,
+              scope: pane.state.scope ?? "currentChapter",
+              selected_note_id: null,
             },
           }
         : pane

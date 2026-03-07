@@ -40,6 +40,14 @@ export interface BlockToken {
   end_offset: number;
 }
 
+export interface CompareUnit {
+  unit_id: string;
+  text: string;
+  canonical_ref?: CanonicalReference;
+  tokens?: BlockToken[];
+  source_block_id?: string;
+}
+
 export interface ApparatusPointer {
   id: string;
   kind: "footnote" | "variant" | "crossref" | "dictionary";
@@ -51,6 +59,10 @@ export interface Block {
   number?: number;
   text: string;
   canonical_ref?: CanonicalReference;
+  verse_start?: number | null;
+  verse_end?: number | null;
+  compare_unit_ids?: string[];
+  sync_unit_id?: string | null;
   tokens?: BlockToken[];
   apparatus?: ApparatusPointer[];
 }
@@ -104,6 +116,7 @@ export interface TelosDocument {
   footnotes?: Footnote[];
   variants?: TextVariant[];
   blocks: Block[];
+  compare_units?: CompareUnit[];
 }
 
 export interface Highlight {
@@ -216,6 +229,7 @@ export interface PlannerState {
 
 export type AppPaneType =
   | "reading"
+  | "paneLauncher"
   | "plannerHome"
   | "plannerOutline"
   | "notes"
@@ -232,6 +246,10 @@ export interface ReadingPaneState {
 
 export interface PlannerHomePaneState {
   emphasis?: "recent" | "templates";
+}
+
+export interface PaneLauncherPaneState {
+  source_pane_id?: string | null;
 }
 
 export interface PlannerOutlinePaneState {
@@ -252,6 +270,7 @@ export interface CaptureTrayPaneState {
 
 export type AppPaneDescriptor =
   | { id: string; type: "reading"; state: ReadingPaneState }
+  | { id: string; type: "paneLauncher"; state: PaneLauncherPaneState }
   | { id: string; type: "plannerHome"; state: PlannerHomePaneState }
   | { id: string; type: "plannerOutline"; state: PlannerOutlinePaneState }
   | { id: string; type: "notes"; state: NotesPaneState }

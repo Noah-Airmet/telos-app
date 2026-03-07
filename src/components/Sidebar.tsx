@@ -116,6 +116,7 @@ interface SidebarProps {
   userName: string | null;
   onSignOut: () => Promise<void>;
   onCollapse: () => void;
+  onResetWorkspaceLayout: () => void;
   onSelectTranslation: (profile: string) => void;
   onSelectBook: (book: BookEntry) => void;
   onSelectChapter: (chapter: number) => void;
@@ -133,6 +134,7 @@ export function Sidebar({
   userName,
   onSignOut,
   onCollapse,
+  onResetWorkspaceLayout,
   onSelectTranslation,
   onSelectBook,
   onSelectChapter,
@@ -339,6 +341,23 @@ export function Sidebar({
             {importMessage && (
               <p className="text-[10px] text-[var(--text-secondary)]">{importMessage}</p>
             )}
+          </div>
+
+          <div className="px-4 py-3 space-y-2">
+            <div className="flex items-center justify-between">
+              <p className="shell-kicker">Workspace</p>
+            </div>
+            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+              Reset the current pane layout and return to the chooser. Your notes, highlights,
+              and study data stay intact.
+            </p>
+            <button
+              type="button"
+              onClick={onResetWorkspaceLayout}
+              className="shell-button shell-button-danger w-full justify-center"
+            >
+              Reset Workspace Layout
+            </button>
           </div>
         </div>
       )}
