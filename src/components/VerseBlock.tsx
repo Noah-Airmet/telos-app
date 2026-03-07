@@ -115,8 +115,6 @@ export function VerseBlock({
     const diffRanges = showComparisonDiff ? buildDiffRanges(block.text, comparisonText) : [];
     const boundaries = new Set<number>([0, block.text.length]);
     const sortedHighlights = [...highlights].sort((a, b) => a.start_offset - b.start_offset);
-    const tokens = block.tokens || [];
-    const tokenIndex = new Map(tokens.map((token) => [`${token.start_offset}:${token.end_offset}`, token]));
     const nodes: React.ReactNode[] = [];
 
     for (const highlight of sortedHighlights) {
@@ -129,10 +127,7 @@ export function VerseBlock({
       boundaries.add(diffRange.end);
     }
 
-    for (const token of tokens) {
-      boundaries.add(token.start_offset);
-      boundaries.add(token.end_offset);
-    }
+
 
     const orderedBoundaries = [...boundaries].sort((a, b) => a - b);
 
@@ -141,13 +136,10 @@ export function VerseBlock({
       const end = orderedBoundaries[index + 1];
       const text = block.text.substring(start, end);
 
-      if (!text) continue;
-
       const highlight = sortedHighlights.find(
         (item) => item.start_offset <= start && item.end_offset >= end
       );
       const hasDiff = diffRanges.some((range) => range.start <= start && range.end >= end);
-      const token = tokenIndex.get(`${start}:${end}`);
 
       if (highlight) {
         nodes.push(
@@ -164,29 +156,7 @@ export function VerseBlock({
         continue;
       }
 
-      if (token) {
-        nodes.push(
-          <span
-            key={`segment-${start}-${end}`}
-            onClick={(event) => {
-              event.stopPropagation();
-              const selection = window.getSelection();
-              if (selection) {
-                const range = document.createRange();
-                range.selectNodeContents(event.currentTarget as Node);
-                selection.removeAllRanges();
-                selection.addRange(range);
-              }
-            }}
-            className={`cursor-pointer rounded-[2px] px-0.5 transition-colors hover:bg-blue-100 dark:hover:bg-blue-500/20 ${
-              hasDiff ? "bg-amber-200/60 dark:bg-amber-500/20" : ""
-            }`}
-          >
-            {text}
-          </span>
-        );
-        continue;
-      }
+
 
       if (hasDiff) {
         nodes.push(
