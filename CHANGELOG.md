@@ -4,6 +4,25 @@ All notable changes to the Telos Gospel Library project will be documented in th
 
 ## [Unreleased]
 
+## [0.4.0] - Library, N-Pane Windowing & Navigation Overhaul
+
+### Added
+- **Library sidebar redesign:** Left sidebar rebuilt as a Logos-style resource library with six collapsible collections (Standard Works, Bible Translations, Commentaries, Conference Talks, Manuals, BYO Imports). Live works coexist with styled placeholder entries to communicate the app's intended scope. Includes text search across all works, filter pills (Canonical, Study, Commentary, All), and a settings drawer.
+- **N-pane windowing system:** Replaced the fixed primary/secondary pane model with a `PaneState[]` array in `App.tsx`. Any number of panes can be open side by side. Each pane independently tracks its own profile, book, and chapter. `activePaneId` tracks focus; sidebar navigation always targets the focused pane.
+- **Add/close pane controls:** Each pane header exposes an "Add" button (opens a new pane to the right, auto-selecting the next unused translation and matching book/chapter) and a "Close" button (hidden on the last remaining pane).
+- **Breadcrumb header with stepper:** Pane headers display a `Translation · Book · ‹ Ch. N ›` breadcrumb. Prev/next chapter arrows are grouped tight against the chapter label as a stepper unit rather than on the far outer edges of the header.
+- **Chapter picker in sidebar:** Clicking a book in the sidebar now expands an inline chapter grid below it (6-column, keyboard arrow-navigable). Selecting a chapter navigates the active pane directly.
+- **Chapter grid picker in header:** Clicking `Ch. N` in the breadcrumb opens a chapter number grid via portal dropdown.
+
+### Fixed
+- **Dropdown pickers were non-functional:** `backdrop-filter: blur()` on `.glass-header` creates a CSS stacking context, trapping absolutely-positioned dropdowns inside the header's `z-20` layer. Fixed by rendering all picker dropdowns via `React.createPortal` to `document.body` at `fixed` coordinates derived from `getBoundingClientRect()`. Transparent backdrop overlay handles close-on-outside-click.
+- **Inactive pane opacity made glass header look broken:** `opacity-80` on the entire `<main>` plus `opacity-70` on the header doubly dimmed the glassmorphism effect, making it appear visually buggy. Fixed by removing opacity from `<main>` and the header entirely — only the scroll content area (`overflow-y-auto` div) is dimmed (`opacity-60`) on inactive panes.
+- **Scroll position jolt on pane switch:** When switching active panes, the previously active pane briefly re-scrolled due to the `syncBlockId` effect firing on `isActivePane` change. Fixed with `useLayoutEffect` + refs tracking `lastVisibleBlockId` and `wasActivePane` to skip redundant scroll-syncs.
+
+### Changed
+- **Translation label:** LDS Book of Mormon edition renamed from `"LDS"` to `"2013 BoM"` across `data/manifest.json`, all 239 chapter JSON files, and the `lds-bom` ingest profile.
+- **Pane activation:** Panes activate on click, not hover.
+
 ## [0.3.0] - Pipeline Repair & AI Inspection Tooling
 
 ### Fixed
