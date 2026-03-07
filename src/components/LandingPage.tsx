@@ -11,6 +11,7 @@ export function LandingPage() {
   const clockRef = useRef<HTMLDivElement>(null);
   const mouseXRef = useRef<HTMLSpanElement>(null);
   const mouseYRef = useRef<HTMLSpanElement>(null);
+  const progressBarRef = useRef<HTMLDivElement>(null);
   const [imageLoaded, setImageLoaded] = useState(false);
 
   useEffect(() => {
@@ -54,12 +55,14 @@ export function LandingPage() {
     const handleScroll = () => {
       if (mainRef.current) {
         const { scrollTop, scrollHeight, clientHeight } = mainRef.current;
-        // The document is now significantly longer due to the stretched 3rd verse.
-        // We want the fade to trigger as they enter the 3rd verse section and finish
-        // before they leave it.
         const maxScroll = scrollHeight - clientHeight;
         if (maxScroll > 0) {
           const rawProgress = scrollTop / maxScroll;
+          // Global progress bar update
+          if (progressBarRef.current) {
+            progressBarRef.current.style.width = `${rawProgress * 100}%`;
+          }
+          // The document is now significantly longer due to the stretched 3rd verse.
           // Trigger the fade between 25% and 40% of the new massive scroll depth
           scrollProgress = Math.max(0, Math.min(1, (rawProgress - 0.25) / 0.15));
         }
@@ -274,6 +277,10 @@ export function LandingPage() {
       <div className="edge-indicator edge-top-left">
         <div>DEV@TELOS.COM</div>
         <div ref={clockRef}>SLC, UT_00:00:00</div>
+      </div>
+
+      <div className="edge-indicator scroll-progress-container">
+        <div className="scroll-progress-fill" ref={progressBarRef}></div>
       </div>
 
       <div className="edge-indicator edge-bottom-left">

@@ -163,6 +163,25 @@
     gap: 2rem; /* Creates space between email and clock */
 }
 
+.landing-page-root .scroll-progress-container {
+    top: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 400px;
+    height: 8px;
+    border: 1px solid #ffffff;
+    background: transparent;
+    display: flex;
+    align-items: stretch;
+}
+
+.landing-page-root .scroll-progress-fill {
+    width: 0%;
+    background-color: #ffffff;
+    /* Brutalist transition - snappy but clean */
+    transition: width 0.05s linear;
+}
+
 .landing-page-root .edge-bottom-left {
     bottom: 1.5rem;
     left: 1.5rem;
