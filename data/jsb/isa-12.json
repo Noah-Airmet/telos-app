@@ -1,7 +1,7 @@
 {
   "document_id": "isa-12",
   "title": "Isaiah 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Behold the God who gives me triumph! I am confident, unafraid; For Yah the Lord is my strength and might, And He has been my deliverance.”"
+    },
+    {
+      "block_id": "jsb-isa-12-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “song.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-12-3",

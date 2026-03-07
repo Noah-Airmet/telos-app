@@ -1,7 +1,7 @@
 {
   "document_id": "ruth-2",
   "title": "Ruth 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,36 @@
       "text": "She said, ‘Please let me glean and gather among the sheaves behind the reapers.’ She has been on her feet ever since she came this morning. She has rested but little in the hut.”"
     },
     {
+      "block_id": "jsb-ruth-2-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ruth",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ruth-2-8",
       "type": "verse",
       "number": 8,
       "text": "Boaz said to Ruth, “Listen to me, daughter. Don’t go to glean in another field. Don’t go elsewhere, but stay here close to my girls."
+    },
+    {
+      "block_id": "jsb-ruth-2-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “Have you not heard, daughter?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ruth",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ruth-2-9",
@@ -123,6 +149,19 @@
       "type": "verse",
       "number": 20,
       "text": "Naomi said to her daughter-in-law, “Blessed be he of the Lord, who has not failed in His kindness to the living or to the dead! For,” Naomi explained to her daughter-in-law, “the man is related to us; he is one of our redeeming kinsmen.”"
+    },
+    {
+      "block_id": "jsb-ruth-2-20-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Lev. 25.25 and note and Deut. 25.5–6. The fact that Boaz was a kinsman of Ruth’s dead husband opened up the possibility of providing an heir for the latter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ruth",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ruth-2-21",

@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-39",
   "title": "Ezekiel 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "all the people of the land shall bury them. The day I manifest My glory shall bring renown to them—declares the Lord god."
     },
     {
+      "block_id": "jsb-ezek-39-13-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 39,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ezek-39-14",
       "type": "verse",
       "number": 14,
@@ -125,6 +138,19 @@
       "text": "And you shall sate yourselves at My table with horses, charioteers, warriors, and all fighting men—declares the Lord god."
     },
     {
+      "block_id": "jsb-ezek-39-20-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “chariots”; Septuagint reads “riders.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 39,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ezek-39-21",
       "type": "verse",
       "number": 21,
@@ -159,6 +185,19 @@
       "type": "verse",
       "number": 26,
       "text": "They will bear their shame and all their trespasses that they committed against Me, when they dwell in their land secure and untroubled,"
+    },
+    {
+      "block_id": "jsb-ezek-39-26-commentary-3",
+      "type": "commentary",
+      "text": "Change of diacritical point yields “forget.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 39,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-ezek-39-27",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-15",
   "title": "1 Kings 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "He reigned three years in Jerusalem; his mother’s name was Maacah daughter of Abishalom."
+    },
+    {
+      "block_id": "jsb-1-kgs-15-2-commentary-1",
+      "type": "commentary",
+      "text": "2 Chron. 13.2 reads “Micaiah daughter of Uriel of Gibeah”; cf. v. 10 below, where Maacah, daughter of Abishalom, appears as mother of Asa.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-kgs-15-3",
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "There was war between Abijam and Jeroboam all the days of his life."
+    },
+    {
+      "block_id": "jsb-1-kgs-15-6-commentary-2",
+      "type": "commentary",
+      "text": "So several mss.; most mss. and the editions read “Rehoboam.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 15,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-kgs-15-7",
@@ -83,6 +109,19 @@
       "text": "He also deposed his mother Maacah from the rank of queen mother, because she had made an abominable thing for [the goddess] Asherah. Asa cut down her abominable thing and burnt it in the Wadi Kidron."
     },
     {
+      "block_id": "jsb-1-kgs-15-13-commentary-3",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 15,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-kgs-15-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +132,19 @@
       "type": "verse",
       "number": 15,
       "text": "He brought into the House of the Lord all the consecrated things of his father and his own consecrated things—silver, gold, and utensils."
+    },
+    {
+      "block_id": "jsb-1-kgs-15-15-commentary-4",
+      "type": "commentary",
+      "text": "So kethib and 2 Chron. 15.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 15,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-1-kgs-15-16",

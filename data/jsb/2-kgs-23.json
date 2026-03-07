@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-23",
   "title": "2 Kings 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,16 +23,81 @@
       "text": "The king stood by the pillar and solemnized the covenant before the Lord: that they would follow the Lord and observe His commandments, His injunctions, and His laws with all their heart and soul; that they would fulfill all the terms of this covenant as inscribed upon the scroll. And all the people entered into the covenant."
     },
     {
+      "block_id": "jsb-2-kgs-23-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “on a platform,” cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-2-kgs-23-3-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-2-kgs-23-4",
       "type": "verse",
       "number": 4,
       "text": "Then the king ordered the high priest Hilkiah, the priests of the second rank, and the guards of the threshold to bring out of the Temple of the Lord all the objects made for Baal and Asherah and all the host of heaven. He burned them outside Jerusalem in the fields of Kidron, and he removed the ashes to Bethel."
     },
     {
+      "block_id": "jsb-2-kgs-23-4-commentary-3",
+      "type": "commentary",
+      "text": "For this goddess, cf. 1 Kings 18.19; ordinarily asherah is rendered “sacred post,” e.g., 2 Kings 17.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-2-kgs-23-4-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-2-kgs-23-5",
       "type": "verse",
       "number": 5,
       "text": "He suppressed the idolatrous priests whom the kings of Judah had appointed to make offerings at the shrines in the towns of Judah and in the environs of Jerusalem, and those who made offerings to Baal, to the sun and moon and constellations—all the host of heaven."
+    },
+    {
+      "block_id": "jsb-2-kgs-23-5-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “and he offered.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-kgs-23-6",
@@ -53,10 +118,36 @@
       "text": "He brought all the priests from the towns of Judah [to Jerusalem] and defiled the shrines where the priests had been making offerings—from Geba to Beer-sheba. He also demolished the shrines of the gates, which were at the entrance of the gate of Joshua, the city prefect—which were on a person’s left [upon entering] the city gate."
     },
     {
+      "block_id": "jsb-2-kgs-23-8-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-2-kgs-23-9",
       "type": "verse",
       "number": 9,
       "text": "The priests of the shrines, however, did not ascend the altar of the Lord in Jerusalem, but they ate unleavened bread along with their kinsmen."
+    },
+    {
+      "block_id": "jsb-2-kgs-23-9-commentary-7",
+      "type": "commentary",
+      "text": "This verse may be understood in connection with vv. 21–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-kgs-23-10",
@@ -71,16 +162,68 @@
       "text": "He did away with the horses that the kings of Judah had dedicated to the sun, at the entrance of the House of the Lord, near the chamber of the eunuch Nathan-melech, which was in the precincts. He burned the chariots of the sun."
     },
     {
+      "block_id": "jsb-2-kgs-23-11-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “from entering.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-kgs-23-12",
       "type": "verse",
       "number": 12,
       "text": "And the king tore down the altars made by the kings of Judah on the roof by the upper chamber of Ahaz, and the altars made by Manasseh in the two courts of the House of the Lord. He removed them quickly from there and scattered their rubble in the Kidron Valley."
     },
     {
+      "block_id": "jsb-2-kgs-23-12-commentary-9",
+      "type": "commentary",
+      "text": "Heb. “ran from there.” Emendation yields “smashed them there.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-kgs-23-13",
       "type": "verse",
       "number": 13,
       "text": "The king also defiled the shrines facing Jerusalem, to the south of the Mount of the Destroyer, which King Solomon of Israel had built for Ashtoreth, the abomination of the Sidonians, for Chemosh, the abomination of Moab, and for Milcom, the detestable thing of the Ammonites."
+    },
+    {
+      "block_id": "jsb-2-kgs-23-13-commentary-10",
+      "type": "commentary",
+      "text": "Heb. har ha‑mashḥith: a derogatory play on har ha‑mishḥah (“Mount of Ointment”); Mishnah Middoth 2.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-2-kgs-23-13-commentary-11",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 11.5, 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-23-14",
@@ -107,10 +250,49 @@
       "text": "He asked, “What is the marker I see there?” And the men of the town replied, “That is the grave of the man of God who came from Judah and foretold these things that you have done to the altar of Bethel.”"
     },
     {
+      "block_id": "jsb-2-kgs-23-17-commentary-12",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 13.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-2-kgs-23-18",
       "type": "verse",
       "number": 18,
       "text": "“Let him be,” he said, “let no one disturb his bones.” So they left his bones undisturbed together with the bones of the prophet who came from Samaria."
+    },
+    {
+      "block_id": "jsb-2-kgs-23-18-commentary-13",
+      "type": "commentary",
+      "text": "See 1 Kings 13.31–32 and note e below.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-2-kgs-23-18-commentary-14",
+      "type": "commentary",
+      "text": "The prophet lived in Bethel, which, in Josiah’s time, was part of the Assyrian province of Samaria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-kgs-23-19",
@@ -149,6 +331,19 @@
       "text": "Josiah also did away with the necromancers and the mediums, the idols and the fetishes—all the detestable things that were to be seen in the land of Judah and Jerusalem. Thus he fulfilled the terms of the Teaching recorded in the scroll that the priest Hilkiah had found in the House of the Lord."
     },
     {
+      "block_id": "jsb-2-kgs-23-24-commentary-15",
+      "type": "commentary",
+      "text": "Lit. “the ghosts and the familiar spirits.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-2-kgs-23-25",
       "type": "verse",
       "number": 25,
@@ -179,6 +374,19 @@
       "text": "In his days, Pharaoh Neco, king of Egypt, marched against the king of Assyria to the River Euphrates; King Josiah marched toward him, but when he confronted him at Megiddo, [Pharaoh Neco] slew him."
     },
     {
+      "block_id": "jsb-2-kgs-23-29-commentary-16",
+      "type": "commentary",
+      "text": "I.e., the Chaldean Empire; cf. Isa. 52.4 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-2-kgs-23-30",
       "type": "verse",
       "number": 30,
@@ -207,6 +415,19 @@
       "type": "verse",
       "number": 34,
       "text": "Then Pharaoh Neco appointed Eliakim son of Josiah king in place of his father Josiah, changing his name to Jehoiakim. He took Jehoahaz and brought him to Egypt, where he died."
+    },
+    {
+      "block_id": "jsb-2-kgs-23-34-commentary-17",
+      "type": "commentary",
+      "text": "So 2 Chron. 36.4; Heb. here “he came.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 23,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-2-kgs-23-35",

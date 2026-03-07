@@ -1,7 +1,7 @@
 {
   "document_id": "num-3",
   "title": "Numbers 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "But Nadab and Abihu died by the will of the Lord, when they offered alien fire before the Lord in the wilderness of Sinai; and they left no sons. So it was Eleazar and Ithamar who served as priests in the lifetime of their father Aaron."
+    },
+    {
+      "block_id": "jsb-num-3-4-commentary-1",
+      "type": "commentary",
+      "text": "Others “before.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-num-3-5",
@@ -155,6 +168,19 @@
       "text": "The duties of the Gershonites in the Tent of Meeting comprised: the Tabernacle, the tent, its covering, and the screen for the entrance of the Tent of Meeting;"
     },
     {
+      "block_id": "jsb-num-3-25-commentary-2",
+      "type": "commentary",
+      "text": "See note on Exod. 26.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 3,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-num-3-26",
       "type": "verse",
       "number": 26,
@@ -189,6 +215,19 @@
       "type": "verse",
       "number": 31,
       "text": "Their duties comprised: the ark, the table, the lampstand, the altars, and the sacred utensils that were used with them, and the screen—all the service connected with these."
+    },
+    {
+      "block_id": "jsb-num-3-31-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the screening curtain; cf. 4–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 3,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-num-3-32",

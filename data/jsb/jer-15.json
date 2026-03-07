@@ -1,7 +1,7 @@
 {
   "document_id": "jer-15",
   "title": "Jeremiah 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The Lord said to me, “Even if Moses and Samuel were to intercede with Me, I would not be won over to that people. Dismiss them from My presence, and let them go forth!"
+    },
+    {
+      "block_id": "jsb-jer-15-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “stand before Me,” as Jeremiah is doing now; cf. 18.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-jer-15-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "And I will appoint over them four kinds [of punishment]—declares the Lord—the sword to slay, the dogs to drag, the birds of the sky, and the beasts of the earth to devour and destroy."
+    },
+    {
+      "block_id": "jsb-jer-15-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-jer-15-4",
@@ -53,6 +79,32 @@
       "text": "Their widows shall be more numerous Than the sands of the seas. I will bring against them— Young men and mothers together— A destroyer at noonday. I will bring down suddenly upon them Alarm and terror."
     },
     {
+      "block_id": "jsb-jer-15-8-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-jer-15-8-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-15-9",
       "type": "verse",
       "number": 9,
@@ -71,16 +123,55 @@
       "text": "The Lord said: Surely, a mere remnant of you Will I spare for a better fate! By the enemy from the north In a time of distress and a time of disaster, Surely, I will have you struck down!"
     },
     {
+      "block_id": "jsb-jer-15-11-commentary-5",
+      "type": "commentary",
+      "text": "Moved up from v. 12 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-jer-15-12",
       "type": "verse",
       "number": 12,
       "text": "Can iron break iron and bronze?"
     },
     {
+      "block_id": "jsb-jer-15-12-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “He shall shatter iron—iron and bronze!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-jer-15-13",
       "type": "verse",
       "number": 13,
       "text": "I will hand over your wealth and your treasures As a spoil, free of charge, Because of all your sins throughout your territory."
+    },
+    {
+      "block_id": "jsb-jer-15-13-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-jer-15-14",
@@ -93,6 +184,19 @@
       "type": "verse",
       "number": 15,
       "text": "O Lord, you know— Remember me and take thought of me, Avenge me on those who persecute me; Do not yield to Your patience, Do not let me perish! Consider how I have borne insult On Your account."
+    },
+    {
+      "block_id": "jsb-jer-15-15-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “Do not take me away.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 15,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-jer-15-16",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-73",
   "title": "Psalms 73",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "Fat shuts out their eyes; their fancies are extravagant."
+    },
+    {
+      "block_id": "jsb-ps-73-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-73-8",
@@ -131,6 +144,19 @@
       "text": "My mind was stripped of its reason, my feelings were numbed."
     },
     {
+      "block_id": "jsb-ps-73-21-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “I was pierced through in my kidneys.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-ps-73-22",
       "type": "verse",
       "number": 22,
@@ -149,6 +175,19 @@
       "text": "You guided me by Your counsel and led me toward honor."
     },
     {
+      "block_id": "jsb-ps-73-24-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “And afterward receive me with glory.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-ps-73-25",
       "type": "verse",
       "number": 25,
@@ -159,6 +198,19 @@
       "type": "verse",
       "number": 26,
       "text": "My body and mind fail; but God is the stay of my mind, my portion forever."
+    },
+    {
+      "block_id": "jsb-ps-73-26-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “rock.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-ps-73-27",

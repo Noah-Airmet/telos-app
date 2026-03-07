@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-30",
   "title": "2 Chronicles 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "for at the time, they were unable to keep it, for not enough priests had sanctified themselves, nor had the people assembled in Jerusalem."
+    },
+    {
+      "block_id": "jsb-2-chr-30-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., on its proper date; cf. Num. 9.1–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 30,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-chr-30-4",

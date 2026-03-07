@@ -1,7 +1,7 @@
 {
   "document_id": "ps-85",
   "title": "Psalms 85",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,16 +17,94 @@
       "text": "O Lord, You will favor Your land, restore Jacob’s fortune;"
     },
     {
+      "block_id": "jsb-ps-85-2-commentary-1",
+      "type": "commentary",
+      "text": "Or “have favored.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-ps-85-2-commentary-2",
+      "type": "commentary",
+      "text": "Or “have restored.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-85-3",
       "type": "verse",
       "number": 3,
       "text": "You will forgive Your people’s iniquity, pardon all their sins; selah"
     },
     {
+      "block_id": "jsb-ps-85-3-commentary-3",
+      "type": "commentary",
+      "text": "Or “have forgiven.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-ps-85-3-commentary-4",
+      "type": "commentary",
+      "text": "Or “have pardoned.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-85-4",
       "type": "verse",
       "number": 4,
       "text": "You will withdraw all Your anger, turn away from Your rage."
+    },
+    {
+      "block_id": "jsb-ps-85-4-commentary-5",
+      "type": "commentary",
+      "text": "Or “have withdrawn.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-ps-85-4-commentary-6",
+      "type": "commentary",
+      "text": "Or “have turned.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-85-5",

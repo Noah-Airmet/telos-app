@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-8",
   "title": "Ecclesiastes 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,81 @@
       "text": "Who is like the wise man, and who knows the meaning of the adage: “A man’s wisdom lights up his face, So that his deep discontent is dissembled”?"
     },
     {
+      "block_id": "jsb-eccl-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Some ancient versions read “Who here is wise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-eccl-8-1-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “face”; cf. 1 Sam. 1.18; Job 9.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-eccl-8-2",
       "type": "verse",
       "number": 2,
       "text": "I do! “Obey the king’s orders—and don’t rush into uttering an oath by God.”"
     },
     {
+      "block_id": "jsb-eccl-8-2-commentary-3",
+      "type": "commentary",
+      "text": "Moved up from v. 3 for English word order.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-eccl-8-2-commentary-4",
+      "type": "commentary",
+      "text": "The answer to the inquiry about the implications of the proverb in v. 1 is given in the form of another proverb, of which only the first half is relevant and is enlarged upon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-eccl-8-3",
       "type": "verse",
       "number": 3,
       "text": "Leave his presence; do not tarry in a dangerous situation, for he can do anything he pleases;"
+    },
+    {
+      "block_id": "jsb-eccl-8-3-commentary-5",
+      "type": "commentary",
+      "text": "Or “Give ground before him; do not resist.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-eccl-8-4",
@@ -35,10 +100,49 @@
       "text": "One who obeys orders will not suffer from the dangerous situation. A wise man, however, will bear in mind that there is a time of doom."
     },
     {
+      "block_id": "jsb-eccl-8-5-commentary-6",
+      "type": "commentary",
+      "text": "The same idiom as in 7.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-eccl-8-5-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “time and doom”; cf. the synonymous “time of misfortune,” lit. “time and misfortune,” 9.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-eccl-8-6",
       "type": "verse",
       "number": 6,
       "text": "For there is a time for every experience, including the doom; for a man’s calamity overwhelms him."
+    },
+    {
+      "block_id": "jsb-eccl-8-6-commentary-8",
+      "type": "commentary",
+      "text": "Still another term for death; cf. “the time of calamity” for “the hour of death,” 9.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-eccl-8-7",
@@ -53,6 +157,32 @@
       "text": "No man has authority over the lifebreath—to hold back the lifebreath; there is no authority over the day of death. There is no mustering out from that war; wickedness is powerless to save its owner."
     },
     {
+      "block_id": "jsb-eccl-8-8-commentary-9",
+      "type": "commentary",
+      "text": "From leaving the body when the time comes; see 12.7; cf. Pss. 104.29; 146.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-eccl-8-8-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “riches.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-eccl-8-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +193,19 @@
       "type": "verse",
       "number": 10,
       "text": "And then I saw scoundrels coming from the Holy Site and being brought to burial, while such as had acted righteously were forgotten in the city. And here is another frustration:"
+    },
+    {
+      "block_id": "jsb-eccl-8-10-commentary-11",
+      "type": "commentary",
+      "text": "Meaning uncertain; emendation yields “approaching [to minister]. They would come and profane the Holy Site.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-eccl-8-11",
@@ -81,6 +224,19 @@
       "type": "verse",
       "number": 13,
       "text": "and it will not be well with the scoundrel, and he will not live long, because he does not revere God”—"
+    },
+    {
+      "block_id": "jsb-eccl-8-13-commentary-12",
+      "type": "commentary",
+      "text": "See note on 6.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-eccl-8-14",

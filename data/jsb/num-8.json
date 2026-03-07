@@ -1,7 +1,7 @@
 {
   "document_id": "num-8",
   "title": "Numbers 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Speak to Aaron and say to him, “When you mount the lamps, let the seven lamps give light at the front of the lampstand.”"
+    },
+    {
+      "block_id": "jsb-num-8-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Exod. 25.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-8-3",
@@ -71,6 +84,19 @@
       "text": "and let Aaron designate the Levites before the Lord as an elevation offering from the Israelites, that they may perform the service of the Lord."
     },
     {
+      "block_id": "jsb-num-8-11-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “elevate.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 8,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-num-8-12",
       "type": "verse",
       "number": 12,
@@ -117,6 +143,19 @@
       "type": "verse",
       "number": 19,
       "text": "and from among the Israelites I formally assign the Levites to Aaron and his sons, to perform the service for the Israelites in the Tent of Meeting and to make expiation for the Israelites, so that no plague may afflict the Israelites for coming too near the sanctuary."
+    },
+    {
+      "block_id": "jsb-num-8-19-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “when the Israelites come.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 8,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-num-8-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-44",
   "title": "Genesis 44",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -169,6 +169,19 @@
       "type": "verse",
       "number": 26,
       "text": "We answered, ‘We cannot go down; only if our youngest brother is with us can we go down, for we may not show our faces to the man unless our youngest brother is with us.’"
+    },
+    {
+      "block_id": "jsb-gen-44-26-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “see the man’s face.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 44,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-gen-44-27",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-6",
   "title": "Exodus 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "text": "I appeared to Abraham, Isaac, and Jacob as El Shaddai, but I did not make Myself known to them by My name הוהי."
     },
     {
+      "block_id": "jsb-exod-6-3-commentary-1",
+      "type": "commentary",
+      "text": "This divine name is traditionally not pronounced; instead, Adonai, “(the) Lord,” is regularly substituted for it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-exod-6-4",
       "type": "verse",
       "number": 4,
@@ -61,6 +74,19 @@
       "type": "verse",
       "number": 8,
       "text": "I will bring you into the land which I swore to give to Abraham, Isaac, and Jacob, and I will give it to you for a possession, I the Lord.”"
+    },
+    {
+      "block_id": "jsb-exod-6-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-exod-6-9",
@@ -99,10 +125,36 @@
       "text": "The following are the heads of their respective clans. The sons of Reuben, Israel’s first-born: Enoch and Pallu, Hezron and Carmi; those are the families of Reuben."
     },
     {
+      "block_id": "jsb-exod-6-14-commentary-3",
+      "type": "commentary",
+      "text": "Or “Hanoch”; cf. on Gen. 46.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 6,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-exod-6-15",
       "type": "verse",
       "number": 15,
       "text": "The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Saul the son of a Canaanite woman; those are the families of Simeon."
+    },
+    {
+      "block_id": "jsb-exod-6-15-commentary-4",
+      "type": "commentary",
+      "text": "Or “Shaul”; cf. on Gen. 46.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 6,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-exod-6-16",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-25",
   "title": "Genesis 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -37,6 +37,19 @@
       "type": "verse",
       "number": 4,
       "text": "The descendants of Midian were Ephah, Epher, Enoch, Abida, and Eldaah. All these were descendants of Keturah."
+    },
+    {
+      "block_id": "jsb-gen-25-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “Hanoch.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-gen-25-5",
@@ -147,6 +160,19 @@
       "text": "But the children struggled in her womb, and she said, “If so, why do I exist?” She went to inquire of the Lord,"
     },
     {
+      "block_id": "jsb-gen-25-22-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-gen-25-23",
       "type": "verse",
       "number": 23,
@@ -165,10 +191,36 @@
       "text": "The first one emerged red, like a hairy mantle all over; so they named him Esau."
     },
     {
+      "block_id": "jsb-gen-25-25-commentary-3",
+      "type": "commentary",
+      "text": "Synonym of “Seir,” play on Heb. seʿar “hair.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-gen-25-26",
       "type": "verse",
       "number": 26,
       "text": "Then his brother emerged, holding on to the heel of Esau; so they named him Jacob. Isaac was sixty years old when they were born."
+    },
+    {
+      "block_id": "jsb-gen-25-26-commentary-4",
+      "type": "commentary",
+      "text": "Play on Heb. ʿaqeb “heel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-gen-25-27",
@@ -183,6 +235,19 @@
       "text": "Isaac favored Esau because he had a taste for game; but Rebekah favored Jacob."
     },
     {
+      "block_id": "jsb-gen-25-28-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “game was in his mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-gen-25-29",
       "type": "verse",
       "number": 29,
@@ -193,6 +258,19 @@
       "type": "verse",
       "number": 30,
       "text": "And Esau said to Jacob, “Give me some of that red stuff to gulp down, for I am famished”—which is why he was named Edom."
+    },
+    {
+      "block_id": "jsb-gen-25-30-commentary-6",
+      "type": "commentary",
+      "text": "Play on Heb. ʾadom “red.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 25,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-gen-25-31",

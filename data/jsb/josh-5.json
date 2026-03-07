@@ -1,7 +1,7 @@
 {
   "document_id": "josh-5",
   "title": "Joshua 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "So Joshua had flint knives made, and the Israelites were circumcised at Gibeath-haaraloth."
+    },
+    {
+      "block_id": "jsb-josh-5-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., “the Hill of Foreskins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-josh-5-4",
@@ -59,6 +72,32 @@
       "text": "And the Lord said to Joshua, “Today I have rolled away from you the disgrace of Egypt.” So that place was called Gilgal, as it still is."
     },
     {
+      "block_id": "jsb-josh-5-9-commentary-2",
+      "type": "commentary",
+      "text": "I.e., of the Egyptian bondage.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-josh-5-9-commentary-3",
+      "type": "commentary",
+      "text": "Interpreted as “rolling.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-josh-5-10",
       "type": "verse",
       "number": 10,
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "On that same day, when they ate of the produce of the land, the manna ceased. The Israelites got no more manna; that year they ate of the yield of the land of Canaan."
+    },
+    {
+      "block_id": "jsb-josh-5-12-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “on the day after.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-josh-5-13",

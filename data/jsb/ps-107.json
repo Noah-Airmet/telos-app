@@ -1,7 +1,7 @@
 {
   "document_id": "ps-107",
   "title": "Psalms 107",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -123,6 +123,19 @@
       "type": "verse",
       "number": 20,
       "text": "He gave an order and healed them; He delivered them from the pits."
+    },
+    {
+      "block_id": "jsb-ps-107-20-commentary-1",
+      "type": "commentary",
+      "text": "Viz., of death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ps-107-21",

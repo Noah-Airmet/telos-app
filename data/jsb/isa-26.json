@@ -1,7 +1,7 @@
 {
   "document_id": "isa-26",
   "title": "Isaiah 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "At night I yearn for You with all my being, I seek You with all the spirit within me. For when Your judgments are wrought on earth, The inhabitants of the world learn righteousness."
     },
     {
+      "block_id": "jsb-isa-26-9-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “my spirit in the morning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-26-10",
       "type": "verse",
       "number": 10,
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "O Lord! May You appoint well-being for us, Since You have also requited all our misdeeds."
+    },
+    {
+      "block_id": "jsb-isa-26-12-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-26-13",
@@ -95,10 +121,36 @@
       "text": "When You added to the nation, O Lord, When You added to the nation, Extending all the boundaries of the land, You were honored."
     },
     {
+      "block_id": "jsb-isa-26-15-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of vv. 15–16 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-isa-26-16",
       "type": "verse",
       "number": 16,
       "text": "O Lord! In their distress, they sought You; Your chastisement reduced them To anguished whispered prayer."
+    },
+    {
+      "block_id": "jsb-isa-26-16-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “anguish”; taking ṣaqun as a noun formed like zadon and sason.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-26-17",
@@ -113,10 +165,36 @@
       "text": "We were with child, we writhed— It is as though we had given birth to wind; We have won no victory on earth; The inhabitants of the world have not come to life!"
     },
     {
+      "block_id": "jsb-isa-26-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-isa-26-19",
       "type": "verse",
       "number": 19,
       "text": "Oh, let Your dead revive! Let corpses arise! Awake and shout for joy, You who dwell in the dust!— For Your dew is like the dew on fresh growth; You make the land of the shades come to life."
+    },
+    {
+      "block_id": "jsb-isa-26-19-commentary-6",
+      "type": "commentary",
+      "text": "Grammar of Heb. unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 26,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-26-20",

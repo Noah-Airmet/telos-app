@@ -1,7 +1,7 @@
 {
   "document_id": "job-33",
   "title": "Job 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "For God speaks time and again— Though man does not perceive it—"
     },
     {
+      "block_id": "jsb-job-33-14-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “once … twice.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 33,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-job-33-15",
       "type": "verse",
       "number": 15,
@@ -155,6 +168,19 @@
       "text": "Let his flesh be healthier than in his youth; Let him return to his younger days.”"
     },
     {
+      "block_id": "jsb-job-33-25-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 33,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-job-33-26",
       "type": "verse",
       "number": 26,
@@ -167,10 +193,36 @@
       "text": "He declares to men, “I have sinned; I have perverted what was right; But I was not paid back for it.”"
     },
     {
+      "block_id": "jsb-job-33-27-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the contrite man.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 33,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-job-33-28",
       "type": "verse",
       "number": 28,
       "text": "He redeemed him from passing into the Pit; He will enjoy the light."
+    },
+    {
+      "block_id": "jsb-job-33-28-commentary-4",
+      "type": "commentary",
+      "text": "Or with kethib, “me … I.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 33,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-job-33-29",

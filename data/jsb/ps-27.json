@@ -1,7 +1,7 @@
 {
   "document_id": "ps-27",
   "title": "Psalms 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "When evil men assail me to devour my flesh— it is they, my foes and my enemies, who stumble and fall."
     },
     {
+      "block_id": "jsb-ps-27-2-commentary-1",
+      "type": "commentary",
+      "text": "Or “to slander me”; cf. Dan. 3.8; 6.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 27,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-27-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "One thing I ask of the Lord, only that do I seek: to live in the house of the Lord all the days of my life, to gaze upon the beauty of the Lord, to frequent His temple."
+    },
+    {
+      "block_id": "jsb-ps-27-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 27,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-27-5",

@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-2",
   "title": "2 Samuel 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,10 +53,36 @@
       "text": "But Abner son of Ner, Saul’s army commander, had taken Ish-bosheth son of Saul and brought him across to Mahanaim"
     },
     {
+      "block_id": "jsb-2-sam-2-8-commentary-1",
+      "type": "commentary",
+      "text": "Meaning “Man of Shame,” deliberately altered from Ish-baal, “man of Baal”; cf. 1 Chron. 8.33; 9.39, and note at 2 Sam. 4.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-2-sam-2-9",
       "type": "verse",
       "number": 9,
       "text": "and made him king over Gilead, the Ashurites, Jezreel, Ephraim, and Benjamin—over all Israel."
+    },
+    {
+      "block_id": "jsb-2-sam-2-9-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-sam-2-10",
@@ -83,10 +109,36 @@
       "text": "and Joab son of Zeruiah and the soldiers of David [also] came out. They confronted one another at the pool of Gibeon: one group sat on one side of the pool, and the other group on the other side of the pool."
     },
     {
+      "block_id": "jsb-2-sam-2-13-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint adds “from Hebron.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-sam-2-14",
       "type": "verse",
       "number": 14,
       "text": "Abner said to Joab, “Let the young men come forward and sport before us.” “Yes, let them,” Joab answered."
+    },
+    {
+      "block_id": "jsb-2-sam-2-14-commentary-4",
+      "type": "commentary",
+      "text": "I.e., engage in single combat.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-sam-2-15",
@@ -101,6 +153,32 @@
       "text": "Each one grasped his opponent’s head [and thrust] his dagger into his opponent’s side; thus they fell together. That place, which is in Gibeon, was called Helkath-hazzurim."
     },
     {
+      "block_id": "jsb-2-sam-2-16-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint adds “with his hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-2-sam-2-16-commentary-6",
+      "type": "commentary",
+      "text": "Meaning perhaps “the Field of the Flints (or Blades).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-2-sam-2-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +189,19 @@
       "type": "verse",
       "number": 18,
       "text": "The three sons of Zeruiah were there—Joab, Abishai, and Asahel. Asahel was swift of foot, like a gazelle in the open field."
+    },
+    {
+      "block_id": "jsb-2-sam-2-18-commentary-7",
+      "type": "commentary",
+      "text": "A sister of David, 1 Chron. 2.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-sam-2-19",
@@ -143,6 +234,19 @@
       "text": "When he refused to desist, Abner struck him in the belly with a backward thrust of his spear and the spear protruded from his back. He fell there and died on the spot. And all who came to the place where Asahel fell and died halted;"
     },
     {
+      "block_id": "jsb-2-sam-2-23-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-2-sam-2-24",
       "type": "verse",
       "number": 24,
@@ -165,6 +269,19 @@
       "type": "verse",
       "number": 27,
       "text": "And Joab replied, “As God lives, if you hadn’t spoken up, the troops would have given up the pursuit of their kinsmen only the next morning.”"
+    },
+    {
+      "block_id": "jsb-2-sam-2-27-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “If you had only spoken up, the troops would already have given up the pursuit of their kinsmen this morning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 2,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-2-sam-2-28",

@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-2",
   "title": "Ezekiel 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "“And you, mortal, do not fear them and do not fear their words, though thistles and thorns press against you, and you sit upon scorpions. Do not be afraid of their words and do not be dismayed by them, though they are a rebellious breed;"
+    },
+    {
+      "block_id": "jsb-ezek-2-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “are with.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ezek-2-7",

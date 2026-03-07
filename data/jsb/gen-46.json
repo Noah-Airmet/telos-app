@@ -1,7 +1,7 @@
 {
   "document_id": "gen-46",
   "title": "Genesis 46",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,10 +59,36 @@
       "text": "Reuben’s sons: Enoch, Pallu, Hezron, and Carmi."
     },
     {
+      "block_id": "jsb-gen-46-9-commentary-1",
+      "type": "commentary",
+      "text": "Or “Hanoch.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-gen-46-10",
       "type": "verse",
       "number": 10,
       "text": "Simeon’s sons: Jemuel, Jamin, Ohad, Jachin, Zohar, and Saul the son of a Canaanite woman."
+    },
+    {
+      "block_id": "jsb-gen-46-10-commentary-2",
+      "type": "commentary",
+      "text": "Or “Shaul.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-gen-46-11",
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "Those were the sons whom Leah bore to Jacob in Paddan-aram, in addition to his daughter Dinah. Persons in all, male and female: 33."
+    },
+    {
+      "block_id": "jsb-gen-46-15-commentary-3",
+      "type": "commentary",
+      "text": "Including Jacob.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-gen-46-16",
@@ -143,6 +182,19 @@
       "text": "Dan’s son: Hushim."
     },
     {
+      "block_id": "jsb-gen-46-23-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “sons.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-gen-46-24",
       "type": "verse",
       "number": 24,
@@ -161,10 +213,36 @@
       "text": "All the persons belonging to Jacob who came to Egypt—his own issue, aside from the wives of Jacob’s sons—all these persons numbered 66."
     },
     {
+      "block_id": "jsb-gen-46-26-commentary-5",
+      "type": "commentary",
+      "text": "Not including Joseph and Joseph’s two sons.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-gen-46-27",
       "type": "verse",
       "number": 27,
       "text": "And Joseph’s sons who were born to him in Egypt were two in number. Thus the total of Jacob’s household who came to Egypt was seventy persons."
+    },
+    {
+      "block_id": "jsb-gen-46-27-commentary-6",
+      "type": "commentary",
+      "text": "Including Jacob and Joseph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-gen-46-28",
@@ -177,6 +255,19 @@
       "type": "verse",
       "number": 29,
       "text": "Joseph ordered his chariot and went to Goshen to meet his father Israel; he presented himself to him and, embracing him around the neck, he wept on his neck a good while."
+    },
+    {
+      "block_id": "jsb-gen-46-29-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “hitched.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 46,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-gen-46-30",

@@ -1,7 +1,7 @@
 {
   "document_id": "esth-9",
   "title": "Esther 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "They also killed Parshandatha, Dalphon, Aspatha,"
+    },
+    {
+      "block_id": "jsb-esth-9-7-commentary-1",
+      "type": "commentary",
+      "text": "Moved up from v. 10 for greater clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-esth-9-8",
@@ -155,6 +168,19 @@
       "text": "But when [Esther] came before the king, he commanded: “With the promulgation of this decree, let the evil plot, which he devised against the Jews, recoil on his own head!” So they impaled him and his sons on the stake."
     },
     {
+      "block_id": "jsb-esth-9-25-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 9,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-esth-9-26",
       "type": "verse",
       "number": 26,
@@ -179,16 +205,55 @@
       "text": "Then Queen Esther daughter of Abihail wrote a second letter of Purim for the purpose of confirming with full authority the aforementioned one of Mordecai the Jew."
     },
     {
+      "block_id": "jsb-esth-9-29-commentary-3",
+      "type": "commentary",
+      "text": "Force of vv. 29–31 uncertain in part. Verse 29 reads literally, “Then Queen Esther, daughter of Abihail, and Mordecai the Jew, wrote with full authority to confirm this second letter of Purim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 9,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-esth-9-30",
       "type": "verse",
       "number": 30,
       "text": "Dispatches were sent to all the Jews in the hundred and twenty-seven provinces of the realm of Ahasuerus with an ordinance of “equity and honesty:”"
     },
     {
+      "block_id": "jsb-esth-9-30-commentary-4",
+      "type": "commentary",
+      "text": "I.e., of new holidays, the instituting of which is linked to love of equity and honesty in Zech. 8.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 9,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-esth-9-31",
       "type": "verse",
       "number": 31,
       "text": "These days of Purim shall be observed at their proper time, as Mordecai the Jew—and now Queen Esther—has obligated them to do, and just as they have assumed for themselves and their descendants the obligation of the fasts with their lamentations."
+    },
+    {
+      "block_id": "jsb-esth-9-31-commentary-5",
+      "type": "commentary",
+      "text": "The Jews had long been observing fast days in commemoration of national calamities; see Zech. 7.5; 8.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 9,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-esth-9-32",

@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-10",
   "title": "2 Samuel 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Some time afterward, the king of Ammon died, and his son Hanun succeeded him as king."
+    },
+    {
+      "block_id": "jsb-2-sam-10-1-commentary-1",
+      "type": "commentary",
+      "text": "This chapter is found also in 1 Chron. 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-10-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "the Ammonite officials said to their lord Hanun, “Do you think David is really honoring your father just because he sent you men with condolences? Why, David has sent his courtiers to you to explore and spy out the city, and to overthrow it.”"
+    },
+    {
+      "block_id": "jsb-2-sam-10-3-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “reconnoiter”; cf. Deut. 1.22; Josh. 2.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-10-4",
@@ -39,6 +65,19 @@
       "type": "verse",
       "number": 6,
       "text": "The Ammonites realized that they had incurred the wrath of David; so the Ammonites sent agents and hired Arameans of Beth-rehob and Arameans of Zobah—20,000 foot soldiers—the king of Maacah [with] 1,000 men, and 12,000 men from Tob."
+    },
+    {
+      "block_id": "jsb-2-sam-10-6-commentary-3",
+      "type": "commentary",
+      "text": "See note at 1 Sam. 13.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-2-sam-10-7",
@@ -65,6 +104,19 @@
       "text": "and the rest of the troops he put under the command of his brother Abishai and arrayed them against the Ammonites."
     },
     {
+      "block_id": "jsb-2-sam-10-10-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “Abshai.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-sam-10-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +127,19 @@
       "type": "verse",
       "number": 12,
       "text": "Let us be strong and resolute for the sake of our people and the land of our God; and the Lord will do what He deems right.”"
+    },
+    {
+      "block_id": "jsb-2-sam-10-12-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “towns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-2-sam-10-13",
@@ -101,6 +166,19 @@
       "text": "Hadadezer sent for and brought out the Arameans from across the Euphrates; they came to Helam, led by Shobach, Hadadezer’s army commander."
     },
     {
+      "block_id": "jsb-2-sam-10-16-commentary-6",
+      "type": "commentary",
+      "text": "Many editions read “Hadarezer…Hadarezer’s.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-2-sam-10-17",
       "type": "verse",
       "number": 17,
@@ -113,10 +191,49 @@
       "text": "but the Arameans were put to flight by Israel. David killed 700 Aramean charioteers and 40,000 horsemen; he also struck down Shobach, Hadadezer’s army commander, who died there."
     },
     {
+      "block_id": "jsb-2-sam-10-18-commentary-7",
+      "type": "commentary",
+      "text": "1 Chron. 19.18 reads “foot soldiers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-2-sam-10-18-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-2-sam-10-19",
       "type": "verse",
       "number": 19,
       "text": "And when all the vassal kings of Hadadezer saw that they had been routed by Israel, they submitted to Israel and became their vassals. And the Arameans were afraid to help the Ammonites any more."
+    },
+    {
+      "block_id": "jsb-2-sam-10-19-commentary-9",
+      "type": "commentary",
+      "text": "See note a-a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     }
   ]
 }

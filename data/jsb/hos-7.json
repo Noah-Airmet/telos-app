@@ -1,7 +1,7 @@
 {
   "document_id": "hos-7",
   "title": "Hosea 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "And they do not consider That I remembered all their wickedness. Why, their misdeeds have been all around them, They have been ever before Me."
     },
     {
+      "block_id": "jsb-hos-7-2-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-hos-7-3",
       "type": "verse",
       "number": 3,
       "text": "In malice they make a king merry, And officials in treachery."
+    },
+    {
+      "block_id": "jsb-hos-7-3-commentary-2",
+      "type": "commentary",
+      "text": "Vv. 3–6 would read well in the order 4, 6, 3, 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-hos-7-4",
@@ -29,16 +55,68 @@
       "text": "They commit adultery, all of them, Like an oven fired by a baker, Who desists from stoking only From the kneading of the dough to its leavening."
     },
     {
+      "block_id": "jsb-hos-7-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “rage.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-hos-7-5",
       "type": "verse",
       "number": 5,
       "text": "The day they made our king sick [And] officials with the poison of wine, He gave his hand to traitors."
     },
     {
+      "block_id": "jsb-hos-7-5-commentary-4",
+      "type": "commentary",
+      "text": "I.e., he trusted traitors; but meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-hos-7-6",
       "type": "verse",
       "number": 6,
       "text": "For they approach their ambush With their hearts like an oven: Through the night Their baker has slept; In the morning, it flares up Like a blazing fire."
+    },
+    {
+      "block_id": "jsb-hos-7-6-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-hos-7-6-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “rage.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-hos-7-7",
@@ -53,10 +131,36 @@
       "text": "Ephraim is among the peoples; He is rotting away. Ephraim is like a cake— Incapable of turning."
     },
     {
+      "block_id": "jsb-hos-7-8-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hos-7-9",
       "type": "verse",
       "number": 9,
       "text": "Strangers have consumed his strength, But he has taken no notice; Also, mold is scattered over him, But he has taken no notice."
+    },
+    {
+      "block_id": "jsb-hos-7-9-commentary-8",
+      "type": "commentary",
+      "text": "Like Akkadian shību; others “gray hairs.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-hos-7-10",
@@ -89,6 +193,58 @@
       "text": "But they did not cry out to Me sincerely As they lay wailing. They debauch over new grain and new wine, They are faithless to Me."
     },
     {
+      "block_id": "jsb-hos-7-14-commentary-9",
+      "type": "commentary",
+      "text": "This verse would read well after 8.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-hos-7-14-commentary-10",
+      "type": "commentary",
+      "text": "I.e., in penitence; cf. Isa. 58.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-hos-7-14-commentary-11",
+      "type": "commentary",
+      "text": "Cf. Aramaic gar/yegur “to commit adultery”; for the thought, cf. 4.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-hos-7-14-commentary-12",
+      "type": "commentary",
+      "text": "Taking yasuru as equivalent to yasoru, from sarar; cf. 9.15 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-hos-7-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +255,45 @@
       "type": "verse",
       "number": 16,
       "text": "They come back; They have been of no use, Like a slack bow. Their officers shall fall by the sword, Because of the stammering of their tongues. Such shall be [the results of] their jabbering In the land of Egypt."
+    },
+    {
+      "block_id": "jsb-hos-7-16-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-hos-7-16-commentary-14",
+      "type": "commentary",
+      "text": "Cf. Arabic zaghūm and zughmūm “a stammerer.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-hos-7-16-commentary-15",
+      "type": "commentary",
+      "text": "I.e., the negotiations conducted in the Egyptian language.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 7,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

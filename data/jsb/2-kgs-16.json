@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-16",
   "title": "2 Kings 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "At that time King Rezin of Aram recovered Elath for Aram; he drove out the Judites from Elath, and Edomites came to Elath and settled there, as is still the case."
     },
     {
+      "block_id": "jsb-2-kgs-16-6-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “Edom.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-2-kgs-16-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "The king of Assyria responded to his request; the king of Assyria marched against Damascus and captured it. He deported its inhabitants to Kir and put Rezin to death."
+    },
+    {
+      "block_id": "jsb-2-kgs-16-9-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-kgs-16-10",
@@ -89,10 +115,62 @@
       "text": "As for the bronze altar which had been before the Lord, he moved it from its place in front of the Temple, between the [new] altar and the House of the Lord, and placed it on the north side of the [new] altar."
     },
     {
+      "block_id": "jsb-2-kgs-16-14-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-kgs-16-15",
       "type": "verse",
       "number": 15,
       "text": "And King Ahaz commanded the priest Uriah: “On the great altar you shall offer the morning burnt offering and the evening meal offering and the king’s burnt offering and his meal offering, with the burnt offerings of all the people of the land, their meal offerings and their libations. And against it you shall dash the blood of all the burnt offerings and all the blood of the sacrifices. And I will decide about the bronze altar.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-16-15-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the new one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-2-kgs-16-15-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-2-kgs-16-15-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the old one, cf. v. 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-2-kgs-16-16",
@@ -111,6 +189,32 @@
       "type": "verse",
       "number": 18,
       "text": "on account of the king of Assyria. He also extended to the House of the Lord the sabbath passage that had been built in the palace and the king’s outer entrance."
+    },
+    {
+      "block_id": "jsb-2-kgs-16-18-commentary-7",
+      "type": "commentary",
+      "text": "I.e., because of the metal given him in tribute.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-2-kgs-16-18-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 16,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-kgs-16-19",

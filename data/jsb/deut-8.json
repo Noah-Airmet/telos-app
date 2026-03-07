@@ -1,7 +1,7 @@
 {
   "document_id": "deut-8",
   "title": "Deuteronomy 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,10 +89,36 @@
       "text": "beware lest your heart grow haughty and you forget the Lord your God—who freed you from the land of Egypt, the house of bondage;"
     },
     {
+      "block_id": "jsb-deut-8-14-commentary-1",
+      "type": "commentary",
+      "text": "Heb. pen moved down from v. 12 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-deut-8-15",
       "type": "verse",
       "number": 15,
       "text": "who led you through the great and terrible wilderness with its seraph serpents and scorpions, a parched land with no water in it, who brought forth water for you from the flinty rock;"
+    },
+    {
+      "block_id": "jsb-deut-8-15-commentary-2",
+      "type": "commentary",
+      "text": "See note at Num. 21.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 8,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-deut-8-16",

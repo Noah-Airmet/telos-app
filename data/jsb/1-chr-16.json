@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-16",
   "title": "1 Chronicles 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "They brought in the Ark of God and set it up inside the tent that David had pitched for it, and they sacrificed burnt offerings and offerings of well-being before God."
+    },
+    {
+      "block_id": "jsb-1-chr-16-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–3, cf. 2 Sam. 6.17–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-16-2",
@@ -53,6 +66,19 @@
       "text": "“Praise the Lord; call on His name; proclaim His deeds among the peoples."
     },
     {
+      "block_id": "jsb-1-chr-16-8-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 8–22, cf. Ps. 105.1–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 16,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-1-chr-16-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "Turn to the Lord, to His might; seek His presence constantly."
+    },
+    {
+      "block_id": "jsb-1-chr-16-11-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the Ark; cf. Pss. 78.61; 132.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 16,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-chr-16-12",
@@ -143,6 +182,19 @@
       "text": "“Sing to the Lord, all the earth. proclaim His victory day after day."
     },
     {
+      "block_id": "jsb-1-chr-16-23-commentary-4",
+      "type": "commentary",
+      "text": "With vv. 23–33, cf. Ps. 96.1–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 16,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-1-chr-16-24",
       "type": "verse",
       "number": 24,
@@ -213,6 +265,19 @@
       "type": "verse",
       "number": 35,
       "text": "Declare: Deliver us, O God, our deliverer, and gather us and save us from the nations, to acclaim Your holy name, to glory in Your praise."
+    },
+    {
+      "block_id": "jsb-1-chr-16-35-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Ps. 106.47–48.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 16,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-1-chr-16-36",

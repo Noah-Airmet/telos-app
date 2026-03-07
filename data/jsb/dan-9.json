@@ -1,7 +1,7 @@
 {
   "document_id": "dan-9",
   "title": "Daniel 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -149,6 +149,32 @@
       "text": "“Seventy weeks have been decreed for your people and your holy city until the measure of transgression is filled and that of sin complete, until iniquity is expiated, and eternal righteousness ushered in; and prophetic vision ratified, and the Holy of Holies anointed."
     },
     {
+      "block_id": "jsb-dan-9-24-commentary-1",
+      "type": "commentary",
+      "text": "Viz., of years.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 9,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "jsb-dan-9-24-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “sealed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 9,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-dan-9-25",
       "type": "verse",
       "number": 25,
@@ -161,10 +187,36 @@
       "text": "And after those sixty-two weeks, the anointed one will disappear and vanish. The army of a leader who is to come will destroy the city and the sanctuary, but its end will come through a flood. Desolation is decreed until the end of war."
     },
     {
+      "block_id": "jsb-dan-9-26-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 9,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-dan-9-27",
       "type": "verse",
       "number": 27,
       "text": "During one week he will make a firm covenant with many. For half a week he will put a stop to the sacrifice and the meal offering. At the corner [of the altar] will be an appalling abomination until the decreed destruction will be poured down upon the appalling thing.”"
+    },
+    {
+      "block_id": "jsb-dan-9-27-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 9,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     }
   ]
 }

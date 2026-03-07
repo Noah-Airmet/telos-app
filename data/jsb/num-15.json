@@ -1,7 +1,7 @@
 {
   "document_id": "num-15",
   "title": "Numbers 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -31,6 +31,19 @@
       "type": "verse",
       "number": 3,
       "text": "and would present an offering by fire to the Lord from the herd or from the flock, be it burnt offering or sacrifice, in fulfillment of a vow explicitly uttered, or as a freewill offering, or at your fixed occasions, producing an odor pleasing to the Lord:"
+    },
+    {
+      "block_id": "jsb-num-15-3-commentary-1",
+      "type": "commentary",
+      "text": "See note at Lev. 22.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 15,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-15-4",
@@ -99,6 +112,19 @@
       "text": "And when, throughout the ages, a stranger who has taken up residence with you, or one who lives among you, would present an offering by fire of pleasing odor to the Lord—as you do, so shall it be done by"
     },
     {
+      "block_id": "jsb-num-15-14-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 15,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-num-15-15",
       "type": "verse",
       "number": 15,
@@ -133,6 +159,19 @@
       "type": "verse",
       "number": 20,
       "text": "as the first yield of your baking, you shall set aside a loaf as a gift; you shall set it aside as a gift like the gift from the threshing floor."
+    },
+    {
+      "block_id": "jsb-num-15-20-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. ʿarisah uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 15,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-num-15-21",
@@ -193,6 +232,19 @@
       "type": "verse",
       "number": 30,
       "text": "But the person, be he citizen or stranger, who acts defiantly reviles the Lord; that person shall be cut off from among his people."
+    },
+    {
+      "block_id": "jsb-num-15-30-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “with upraised hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 15,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-num-15-31",

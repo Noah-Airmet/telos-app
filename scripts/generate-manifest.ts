@@ -24,6 +24,8 @@ interface BookEntry {
 interface TranslationManifest {
   translation: string;
   profile: string;
+  source_type?: "scripture" | "studyBible" | "commentary";
+  preferred_base_profile?: string;
   books: BookEntry[];
 }
 
@@ -114,6 +116,10 @@ const profileLabels: Record<string, string> = {
   "jsb": "NJPS",
 };
 
+const studyBibleProfiles: Record<string, string> = {
+  jsb: "jsb",
+};
+
 const manifests: TranslationManifest[] = [];
 
 for (const profile of fs.readdirSync(dataDir).sort()) {
@@ -148,11 +154,16 @@ for (const profile of fs.readdirSync(dataDir).sort()) {
     });
   }
 
-  manifests.push({
+  const manifest: TranslationManifest = {
     translation: profileLabels[profile] || profile,
     profile,
     books,
-  });
+  };
+  if (studyBibleProfiles[profile]) {
+    manifest.source_type = "studyBible";
+    manifest.preferred_base_profile = studyBibleProfiles[profile];
+  }
+  manifests.push(manifest);
 }
 
 const outPath = path.join(dataDir, "manifest.json");

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-44",
   "title": "Psalms 44",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -95,6 +95,19 @@
       "text": "You make us a byword among the nations, a laughingstock among the peoples."
     },
     {
+      "block_id": "jsb-ps-44-15-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “a wagging of the head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 44,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ps-44-16",
       "type": "verse",
       "number": 16,
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "though You cast us, crushed, to where the sea monster is, and covered us over with deepest darkness."
+    },
+    {
+      "block_id": "jsb-ps-44-20-commentary-2",
+      "type": "commentary",
+      "text": "Heb. tannim = tannin, as in Ezek. 29.3 and 32.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 44,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ps-44-21",

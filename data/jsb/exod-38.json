@@ -1,7 +1,7 @@
 {
   "document_id": "exod-38",
   "title": "Exodus 38",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -63,10 +63,36 @@
       "text": "He made the laver of copper and its stand of copper, from the mirrors of the women who performed tasks at the entrance of the Tent of Meeting."
     },
     {
+      "block_id": "jsb-exod-38-8-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-exod-38-9",
       "type": "verse",
       "number": 9,
       "text": "He made the enclosure: On the south side, a hundred cubits of hangings of fine twisted linen for the enclosure—"
+    },
+    {
+      "block_id": "jsb-exod-38-9-commentary-2",
+      "type": "commentary",
+      "text": "Cf. note at 26.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-exod-38-10",
@@ -105,6 +131,19 @@
       "text": "and fifteen cubits of hangings on the other flank—on each side of the gate of the enclosure—with their three posts and their three sockets."
     },
     {
+      "block_id": "jsb-exod-38-15-commentary-3",
+      "type": "commentary",
+      "text": "Which accounts for the remaining 20 cubits; cf. v. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-exod-38-16",
       "type": "verse",
       "number": 16,
@@ -121,6 +160,19 @@
       "type": "verse",
       "number": 18,
       "text": "The screen of the gate of the enclosure, done in embroidery, was of blue, purple, and crimson yarns, and fine twisted linen. It was twenty cubits long. Its height—or width—was five cubits, like that of the hangings of the enclosure."
+    },
+    {
+      "block_id": "jsb-exod-38-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-exod-38-19",
@@ -159,6 +211,19 @@
       "text": "All the gold that was used for the work, in all the work of the sanctuary—the elevation offering of gold—came to 29 talents and 730 shekels by the sanctuary weight."
     },
     {
+      "block_id": "jsb-exod-38-24-commentary-5",
+      "type": "commentary",
+      "text": "A talent here equals 3,000 shekels.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-exod-38-25",
       "type": "verse",
       "number": 25,
@@ -169,6 +234,19 @@
       "type": "verse",
       "number": 26,
       "text": "a half-shekel a head, half a shekel by the sanctuary weight, for each one who was entered in the records, from the age of twenty years up, 603,550 men."
+    },
+    {
+      "block_id": "jsb-exod-38-26-commentary-6",
+      "type": "commentary",
+      "text": "Heb. beqaʿ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 38,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-exod-38-27",

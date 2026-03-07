@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-7",
   "title": "1 Kings 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "He built the Lebanon Forest House with four rows of cedar columns, and with hewn cedar beams above the columns. Its length was 100 cubits, its breadth 50 cubits, and its height 30 cubits."
     },
     {
+      "block_id": "jsb-1-kgs-7-2-commentary-1",
+      "type": "commentary",
+      "text": "So called because of the rows of cedar columns. Septuagint reads “three rows” instead of “four rows”; cf. v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-1-kgs-7-3",
       "type": "verse",
       "number": 3,
       "text": "It was paneled above with cedar, with the planks that were above on the 45 columns—15 in each row."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-3-commentary-2",
+      "type": "commentary",
+      "text": "Apparently the “planks” connected the columns longitudinally, and the “beams” (v. 2) connected the planks transversely.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-1-kgs-7-4",
@@ -35,16 +61,55 @@
       "text": "All the doorways and doorposts had square frames—with three tiers of windows facing each other."
     },
     {
+      "block_id": "jsb-1-kgs-7-5-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “windows.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-kgs-7-6",
       "type": "verse",
       "number": 6,
       "text": "He made the portico of columns 50 cubits long and 30 cubits wide; the portico was in front of [the columns], and there were columns with a canopy in front of them."
     },
     {
+      "block_id": "jsb-1-kgs-7-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-kgs-7-7",
       "type": "verse",
       "number": 7,
       "text": "He made the throne portico, where he was to pronounce judgment—the Hall of Judgment. It was paneled with cedar from floor to floor."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-7-commentary-5",
+      "type": "commentary",
+      "text": "Syriac reads “rafters.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-kgs-7-8",
@@ -57,6 +122,19 @@
       "type": "verse",
       "number": 9,
       "text": "All these buildings, from foundation to coping and all the way out to the great courtyard, were of choice stones, hewn according to measure, smooth on all sides."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-9-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “sawed with a saw in the inside and outside.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-1-kgs-7-10",
@@ -89,6 +167,19 @@
       "text": "He was the son of a widow of the tribe of Naphtali, and his father had been a Tyrian, a coppersmith. He was endowed with skill, ability, and talent for executing all work in bronze. He came to King Solomon and executed all his work."
     },
     {
+      "block_id": "jsb-1-kgs-7-14-commentary-7",
+      "type": "commentary",
+      "text": "Heb. neḥosheth means both copper and bronze. In the translation “copper” is ordinarily used to denote the natural product and “bronze” for the artifacts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-1-kgs-7-15",
       "type": "verse",
       "number": 15,
@@ -113,6 +204,32 @@
       "text": "He made the columns so that there were two rows [of pomegranates] encircling the top of the one network, to cover the capitals that were on the top of the pomegranates; and he did the same for [the network on] the second capital."
     },
     {
+      "block_id": "jsb-1-kgs-7-18-commentary-8",
+      "type": "commentary",
+      "text": "Two Heb. mss. read “pomegranates.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-1-kgs-7-18-commentary-9",
+      "type": "commentary",
+      "text": "About fifty Heb. mss. read “columns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-kgs-7-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +240,32 @@
       "type": "verse",
       "number": 20,
       "text": "so also the capitals upon the two columns extended above and next to the bulge that was beside the network. There were 200 pomegranates in rows around the top of the second capital."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-20-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “belly”; exact force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-1-kgs-7-20-commentary-11",
+      "type": "commentary",
+      "text": "I.e., each of the two capitals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-1-kgs-7-21",
@@ -141,6 +284,19 @@
       "type": "verse",
       "number": 23,
       "text": "Then he made the tank of cast metal, 10 cubits across from brim to brim, completely round; it was 5 cubits high, and it measured 30 cubits in circumference."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-23-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “sea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-kgs-7-24",
@@ -173,6 +329,19 @@
       "text": "The structure of the laver stands was as follows: They had insets, and there were insets within the frames;"
     },
     {
+      "block_id": "jsb-1-kgs-7-28-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “frames.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-1-kgs-7-29",
       "type": "verse",
       "number": 29,
@@ -183,6 +352,19 @@
       "type": "verse",
       "number": 30,
       "text": "Each laver stand had four bronze wheels and [two] bronze axletrees. Its four legs had brackets; the brackets were under the laver, cast with spirals beyond each."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-30-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-1-kgs-7-31",
@@ -279,6 +461,19 @@
       "type": "verse",
       "number": 46,
       "text": "The king had them cast in earthen molds, in the plain of the Jordan between Succoth and Zarethan."
+    },
+    {
+      "block_id": "jsb-1-kgs-7-46-commentary-15",
+      "type": "commentary",
+      "text": "Lit. “in the thick of the earth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 7,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
     },
     {
       "block_id": "jsb-1-kgs-7-47",

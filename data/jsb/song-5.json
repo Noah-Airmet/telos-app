@@ -1,7 +1,7 @@
 {
   "document_id": "song-5",
   "title": "Song of Songs 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "I was asleep, But my heart was wakeful. Hark, my beloved knocks! “Let me in, my own, My darling, my faultless dove! For my head is drenched with dew, My locks with the damp of night.”"
     },
     {
+      "block_id": "jsb-song-5-2-commentary-1",
+      "type": "commentary",
+      "text": "In vv. 2–8 the maiden relates a dream.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-song-5-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,32 @@
       "type": "verse",
       "number": 4,
       "text": "My beloved took his hand off the latch, And my heart was stirred for him."
+    },
+    {
+      "block_id": "jsb-song-5-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-song-5-4-commentary-3",
+      "type": "commentary",
+      "text": "Many manuscripts and editions read “within me” (ʿalai).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-song-5-5",
@@ -41,10 +80,36 @@
       "text": "I opened the door for my beloved, But my beloved had turned and gone. I was faint because of what he said. I sought, but found him not; I called, but he did not answer."
     },
     {
+      "block_id": "jsb-song-5-6-commentary-4",
+      "type": "commentary",
+      "text": "Change of vocalization yields “because of him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-song-5-7",
       "type": "verse",
       "number": 7,
       "text": "I met the watchmen Who patrol the town; They struck me, they bruised me. The guards of the walls Stripped me of my mantle."
+    },
+    {
+      "block_id": "jsb-song-5-7-commentary-5",
+      "type": "commentary",
+      "text": "See note at 3.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-song-5-8",
@@ -57,6 +122,19 @@
       "type": "verse",
       "number": 9,
       "text": "How is your beloved better than another, O fairest of women? How is your beloved better than another That you adjure us so?"
+    },
+    {
+      "block_id": "jsb-song-5-9-commentary-6",
+      "type": "commentary",
+      "text": "Or “What sort of beloved is your beloved?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-song-5-10",
@@ -77,10 +155,36 @@
       "text": "His eyes are like doves By watercourses, Bathed in milk, Set by a brimming pool."
     },
     {
+      "block_id": "jsb-song-5-12-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-song-5-13",
       "type": "verse",
       "number": 13,
       "text": "His cheeks are like beds of spices, Banks of perfume His lips are like lilies; They drip flowing myrrh."
+    },
+    {
+      "block_id": "jsb-song-5-13-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint vocalizes as participle, “producing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-song-5-14",

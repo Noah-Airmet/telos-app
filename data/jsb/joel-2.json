@@ -1,7 +1,7 @@
 {
   "document_id": "joel-2",
   "title": "Joel 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,16 +41,55 @@
       "text": "Peoples tremble before them, All faces turn ashen."
     },
     {
+      "block_id": "jsb-joel-2-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. Nah. 2.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-joel-2-7",
       "type": "verse",
       "number": 7,
       "text": "They rush like warriors, They scale a wall like fighters. And each keeps to his own track. Their paths never cross;"
     },
     {
+      "block_id": "jsb-joel-2-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-joel-2-8",
       "type": "verse",
       "number": 8,
       "text": "No one jostles another, Each keeps to his own course. And should they fall through a loophole, They do not get hurt."
+    },
+    {
+      "block_id": "jsb-joel-2-8-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-joel-2-9",
@@ -89,6 +128,19 @@
       "text": "Who knows but He may turn and relent, And leave a blessing behind For meal offering and drink offering To the Lord your God?"
     },
     {
+      "block_id": "jsb-joel-2-14-commentary-4",
+      "type": "commentary",
+      "text": "When the locusts depart, there will again be yield enough for offerings; see 1.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-joel-2-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +151,19 @@
       "type": "verse",
       "number": 16,
       "text": "Gather the people, Bid the congregation purify themselves. Bring together the old, Gather the babes And the sucklings at the breast; Let the bridegroom come out of his chamber, The bride from her canopied couch."
+    },
+    {
+      "block_id": "jsb-joel-2-16-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Exod. 19.10; Zeph. 1.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-joel-2-17",
@@ -123,6 +188,45 @@
       "type": "verse",
       "number": 20,
       "text": "I will drive the northerner far from you, I will thrust it into a parched and desolate land— Its van to the Eastern Sea And its rear to the Western Sea; And the stench of it shall go up, And the foul smell rise.” For [the Lord] shall work great deeds."
+    },
+    {
+      "block_id": "jsb-joel-2-20-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the locusts. Emendation yields “My multitude”; cf. “nation” (1.6), “horde,” “army,” and “host” (2.2, 5, 11, and 25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-joel-2-20-commentary-7",
+      "type": "commentary",
+      "text": "The Dead Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-joel-2-20-commentary-8",
+      "type": "commentary",
+      "text": "The Mediterranean Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-joel-2-21",
@@ -153,6 +257,19 @@
       "type": "verse",
       "number": 25,
       "text": "“I will repay you for the years Consumed by swarms and hoppers, By grubs and locusts, The great army I let loose against you."
+    },
+    {
+      "block_id": "jsb-joel-2-25-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “double what was.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 2,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-joel-2-26",

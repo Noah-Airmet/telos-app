@@ -1,7 +1,7 @@
 {
   "document_id": "isa-30",
   "title": "Isaiah 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,32 @@
       "text": "Though his officers are present in Zoan, And his messengers reach as far as Hanes,"
     },
     {
+      "block_id": "jsb-isa-30-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “Tanis.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-30-4-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “kings”; cf. 19.2 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-30-5",
       "type": "verse",
       "number": 5,
@@ -41,16 +67,81 @@
       "text": "The “Beasts of the Negeb” Pronouncement. Through a land of distress and hardship, Of lion and roaring king-beast, Of viper and flying seraph, They convey their wealth on the backs of asses, Their treasures on camels’ humps, To a people of no avail."
     },
     {
+      "block_id": "jsb-isa-30-6-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “Through the wasteland of the Negeb / Through a…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-30-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-30-6-commentary-5",
+      "type": "commentary",
+      "text": "See note on 14.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-30-7",
       "type": "verse",
       "number": 7,
       "text": "For the help of Egypt Shall be vain and empty. Truly, I call this, “They are a threat that has ceased.”"
     },
     {
+      "block_id": "jsb-isa-30-7-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Disgrace and chagrin”; cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-30-8",
       "type": "verse",
       "number": 8,
       "text": "Now, Go, write it down on a tablet And inscribe it in a record, That it may be with them for future days, A witness forever."
+    },
+    {
+      "block_id": "jsb-isa-30-8-commentary-7",
+      "type": "commentary",
+      "text": "Understanding ʿad, with Targum, as a variant of ʿed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-30-9",
@@ -125,6 +216,19 @@
       "text": "My Lord will provide for you meager bread and scant water. Then your Guide will no more be ignored, but your eyes will watch your Guide;"
     },
     {
+      "block_id": "jsb-isa-30-20-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-30-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +239,19 @@
       "type": "verse",
       "number": 22,
       "text": "And you will treat as unclean the silver overlay of your images and the golden plating of your idols. You will cast them away like a menstruous woman. “Out!” you will call to them."
+    },
+    {
+      "block_id": "jsb-isa-30-22-commentary-9",
+      "type": "commentary",
+      "text": "Change of vocalization yields “keep.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-isa-30-23",
@@ -167,16 +284,68 @@
       "text": "Behold the Lord Himself Comes from afar In blazing wrath, With a heavy burden— His lips full of fury, His tongue like devouring fire,"
     },
     {
+      "block_id": "jsb-isa-30-27-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “The name of the Lord.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "jsb-isa-30-27-commentary-11",
+      "type": "commentary",
+      "text": "Presumably with a heavy load of punishment. Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-isa-30-28",
       "type": "verse",
       "number": 28,
       "text": "And his breath like a raging torrent Reaching halfway up the neck— To set a misguiding yoke upon nations And a misleading bridle upon the jaws of peoples,"
     },
     {
+      "block_id": "jsb-isa-30-28-commentary-12",
+      "type": "commentary",
+      "text": "Interpreting naphath like Arabic nāf; meaning of line uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-isa-30-29",
       "type": "verse",
       "number": 29,
       "text": "For you, there shall be singing As on a night when a festival is hallowed; There shall be rejoicing as when they march With flute, with timbrels, and with lyres To the Rock of Israel on the Mount of the Lord."
+    },
+    {
+      "block_id": "jsb-isa-30-29-commentary-13",
+      "type": "commentary",
+      "text": "Brought from v. 32 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-isa-30-30",
@@ -197,10 +366,49 @@
       "text": "And each time the appointed staff passes by, The Lord will bring down [His arm] upon him And will do battle with him as he waves it."
     },
     {
+      "block_id": "jsb-isa-30-32-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-isa-30-33",
       "type": "verse",
       "number": 33,
       "text": "The Topheth has long been ready for him; He too is destined for Melech— His firepit has been made both wide and deep, With plenty of fire and firewood, And with the breath of the Lord Burning in it like a stream of sulfur."
+    },
+    {
+      "block_id": "jsb-isa-30-33-commentary-15",
+      "type": "commentary",
+      "text": "A site near Jerusalem at which human beings were sacrificed by fire in periods of paganizing; see 2 Kings 23.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "jsb-isa-30-33-commentary-16",
+      "type": "commentary",
+      "text": "Cf. Molech, Lev. 18.21; 20.2–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 30,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     }
   ]
 }

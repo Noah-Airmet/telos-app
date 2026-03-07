@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-1",
   "title": "1 Kings 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "His courtiers said to him, “Let a young virgin be sought for my lord the king, to wait upon Your Majesty and be his attendant; and let her lie in your bosom, and my lord the king will be warm.”"
+    },
+    {
+      "block_id": "jsb-1-kgs-1-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-kgs-1-3",
@@ -35,10 +48,49 @@
       "text": "Now Adonijah son of Haggith went about boasting, “I will be king!” He provided himself with chariots and horses, and an escort of fifty outrunners."
     },
     {
+      "block_id": "jsb-1-kgs-1-5-commentary-2",
+      "type": "commentary",
+      "text": "Or “presumed to think.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-1-kgs-1-5-commentary-3",
+      "type": "commentary",
+      "text": "Others “horsemen”; meaning of Heb. parash(im) not always certain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-kgs-1-6",
       "type": "verse",
       "number": 6,
       "text": "His father had never scolded him: “Why did you do that?” He was the one born after Absalom and, like him, was very handsome."
+    },
+    {
+      "block_id": "jsb-1-kgs-1-6-commentary-4",
+      "type": "commentary",
+      "text": "Thus, Absalom having died, Adonijah was David’s oldest living son.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-kgs-1-7",
@@ -57,6 +109,19 @@
       "type": "verse",
       "number": 9,
       "text": "Adonijah made a sacrificial feast of sheep, oxen, and fatlings at the Zoheleth stone which is near En‑rogel; he invited all his brother princes and all the king’s courtiers of the tribe of Judah;"
+    },
+    {
+      "block_id": "jsb-1-kgs-1-9-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “all his brothers sons of the king.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-1-kgs-1-10",
@@ -113,6 +178,19 @@
       "text": "Yet now Adonijah has become king, and you, my lord the king, know nothing about it."
     },
     {
+      "block_id": "jsb-1-kgs-1-18-commentary-6",
+      "type": "commentary",
+      "text": "So many mss. and ancient versions; usual editions “now.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-kgs-1-19",
       "type": "verse",
       "number": 19,
@@ -147,6 +225,19 @@
       "type": "verse",
       "number": 24,
       "text": "Nathan said, “O lord king, you must have said, ‘Adonijah shall succeed me as king and he shall sit upon my throne.’"
+    },
+    {
+      "block_id": "jsb-1-kgs-1-24-commentary-7",
+      "type": "commentary",
+      "text": "Or (cf. Rashi, Ralbag, Radak) “have you said …?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-1-kgs-1-25",
@@ -201,6 +292,19 @@
       "type": "verse",
       "number": 33,
       "text": "the king said to them, “Take my loyal soldiers, and have my son Solomon ride on my mule and bring him down to Gihon."
+    },
+    {
+      "block_id": "jsb-1-kgs-1-33-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “your lord’s men.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 1,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-1-kgs-1-34",

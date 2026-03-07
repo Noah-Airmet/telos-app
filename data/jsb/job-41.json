@@ -1,7 +1,7 @@
 {
   "document_id": "job-41",
   "title": "Job 41",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -129,6 +129,19 @@
       "type": "verse",
       "number": 21,
       "text": "Clubs are regarded as stubble; He scoffs at the quivering javelin."
+    },
+    {
+      "block_id": "jsb-job-41-21-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 41,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-job-41-22",

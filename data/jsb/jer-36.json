@@ -1,7 +1,7 @@
 {
   "document_id": "jer-36",
   "title": "Jeremiah 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -95,6 +95,19 @@
       "text": "They said, “Sit down and read it to us.” And Baruch read it to them."
     },
     {
+      "block_id": "jsb-jer-36-15-commentary-1",
+      "type": "commentary",
+      "text": "Change of vocalization yields “Read it again”; cf. Targum and Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 36,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-jer-36-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "And they questioned Baruch further, “Tell us how you wrote down all these words that he spoke.”"
+    },
+    {
+      "block_id": "jsb-jer-36-17-commentary-2",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 36,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-jer-36-18",

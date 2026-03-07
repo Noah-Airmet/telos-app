@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-23",
   "title": "2 Samuel 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,45 @@
       "type": "verse",
       "number": 1,
       "text": "These are the last words of David: The utterance of David son of Jesse, The utterance of the man set on high, The anointed of the God of Jacob, The favorite of the songs of Israel:"
+    },
+    {
+      "block_id": "jsb-2-sam-23-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of much of this poem (vv. 1–7) uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-2-sam-23-1-commentary-2",
+      "type": "commentary",
+      "text": "4QSama reads “God raised up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-2-sam-23-1-commentary-3",
+      "type": "commentary",
+      "text": "Or “The favorite of the Mighty One of Israel”; cf. Exod. 15.2. Others “The sweet singer of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-23-2",
@@ -23,10 +62,36 @@
       "text": "The God of Israel has spoken, The Rock of Israel said concerning me: “He who rules men justly, He who rules in awe of God"
     },
     {
+      "block_id": "jsb-2-sam-23-3-commentary-4",
+      "type": "commentary",
+      "text": "So many Heb. mss. Most mss. and the printed editions lack “in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-2-sam-23-4",
       "type": "verse",
       "number": 4,
       "text": "Is like the light of morning at sunrise, A morning without clouds— Through sunshine and rain [Bringing] vegetation out of the earth.”"
+    },
+    {
+      "block_id": "jsb-2-sam-23-4-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-sam-23-5",
@@ -51,6 +116,45 @@
       "type": "verse",
       "number": 8,
       "text": "These are the names of David’s warriors: Josheb-basshebeth, a Tahchemonite, the chief officer—he is Adino the Eznite; [he wielded his spear] against eight hundred and slew them on one occasion."
+    },
+    {
+      "block_id": "jsb-2-sam-23-8-commentary-6",
+      "type": "commentary",
+      "text": "A number of these names, with variations, are found in 1 Chron. 11 and 27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-2-sam-23-8-commentary-7",
+      "type": "commentary",
+      "text": "Preserved in 1 Chron. 11.11; similarly some Septuagint mss. of 2 Sam.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-2-sam-23-8-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “slain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-sam-23-9",
@@ -83,6 +187,32 @@
       "text": "Once, during the harvest, three of the thirty chiefs went down to David at the cave of Adullam, while a force of Philistines was encamped in the Valley of Rephaim."
     },
     {
+      "block_id": "jsb-2-sam-23-13-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-2-sam-23-13-commentary-10",
+      "type": "commentary",
+      "text": "See note at 1 Sam. 22.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-sam-23-14",
       "type": "verse",
       "number": 14,
@@ -107,10 +237,49 @@
       "text": "For he said, “The Lord forbid that I should do this! Can [I drink] the blood of the men who went at the risk of their lives?” So he would not drink it. Such were the exploits of the three warriors."
     },
     {
+      "block_id": "jsb-2-sam-23-17-commentary-11",
+      "type": "commentary",
+      "text": "So Septuagint and 1 Chron. 11.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-2-sam-23-18",
       "type": "verse",
       "number": 18,
       "text": "Abishai, the brother of Joab son of Zeruiah, was head of another three. He once wielded his spear against three hundred and slew them."
+    },
+    {
+      "block_id": "jsb-2-sam-23-18-commentary-12",
+      "type": "commentary",
+      "text": "Two Heb. mss. and Syriac read “the thirty”; cf. vv. 23–24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-2-sam-23-18-commentary-13",
+      "type": "commentary",
+      "text": "Lit. “slain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-sam-23-19",
@@ -119,16 +288,55 @@
       "text": "He won a name among the three; since he was the most highly regarded among the three, he became their leader. However, he did not attain to the three."
     },
     {
+      "block_id": "jsb-2-sam-23-19-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “thirty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-2-sam-23-20",
       "type": "verse",
       "number": 20,
       "text": "Benaiah son of Jehoiada, from Kabzeel, was a brave soldier who performed great deeds. He killed the two [sons] of Ariel of Moab. Once, on a snowy day, he went down into a pit and killed a lion."
     },
     {
+      "block_id": "jsb-2-sam-23-20-commentary-15",
+      "type": "commentary",
+      "text": "Heb. “the son of a brave soldier.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-sam-23-21",
       "type": "verse",
       "number": 21,
       "text": "He also killed an Egyptian, a huge man. The Egyptian had a spear in his hand, yet [Benaiah] went down against him with a club, wrenched the spear out of the Egyptian’s hand, and killed him with his own spear."
+    },
+    {
+      "block_id": "jsb-2-sam-23-21-commentary-16",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. 1 Chron. 11.23 reads “a giant of a man.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-2-sam-23-22",
@@ -141,6 +349,19 @@
       "type": "verse",
       "number": 23,
       "text": "He was highly regarded among the thirty, but he did not attain to the three. David put him in charge of his bodyguard."
+    },
+    {
+      "block_id": "jsb-2-sam-23-23-commentary-17",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-2-sam-23-24",
@@ -237,6 +458,19 @@
       "type": "verse",
       "number": 39,
       "text": "Uriah the Hittite: thirty-seven in all."
+    },
+    {
+      "block_id": "jsb-2-sam-23-39-commentary-18",
+      "type": "commentary",
+      "text": "Septuagint and 1 Chron. 11 differ from the foregoing lists in vv. 8–38, and from each other in the number and forms of the names.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 23,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
     }
   ]
 }

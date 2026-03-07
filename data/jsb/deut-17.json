@@ -1,7 +1,7 @@
 {
   "document_id": "deut-17",
   "title": "Deuteronomy 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "A person shall be put to death only on the testimony of two or more witnesses; he must not be put to death on the testimony of a single witness.—"
+    },
+    {
+      "block_id": "jsb-deut-17-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “three.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 17,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-deut-17-7",
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "When he is seated on his royal throne, he shall have a copy of this Teaching written for him on a scroll by the levitical priests."
+    },
+    {
+      "block_id": "jsb-deut-17-18-commentary-2",
+      "type": "commentary",
+      "text": "Nuance of Heb. milliphne uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 17,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-deut-17-19",

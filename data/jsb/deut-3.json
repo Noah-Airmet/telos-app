@@ -1,7 +1,7 @@
 {
   "document_id": "deut-3",
   "title": "Deuteronomy 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "text": "all those towns were fortified with high walls, gates, and bars—apart from a great number of unwalled towns."
     },
     {
+      "block_id": "jsb-deut-3-5-commentary-1",
+      "type": "commentary",
+      "text": "I.e., two-leaf doors.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-deut-3-6",
       "type": "verse",
       "number": 6,
@@ -75,16 +88,55 @@
       "text": "all the towns of the Tableland and the whole of Gilead and Bashan as far as Salcah and Edrei, the towns of Og’s kingdom in Bashan."
     },
     {
+      "block_id": "jsb-deut-3-10-commentary-2",
+      "type": "commentary",
+      "text": "Others “Salecah” or “Salchah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-deut-3-11",
       "type": "verse",
       "number": 11,
       "text": "Only King Og of Bashan was left of the remaining Rephaim. His bedstead, an iron bedstead, is now in Rabbah of the Ammonites; it is nine cubits long and four cubits wide, by the standard cubit!"
     },
     {
+      "block_id": "jsb-deut-3-11-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “by a man’s forearm.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-deut-3-12",
       "type": "verse",
       "number": 12,
       "text": "And this is the land which we apportioned at that time: The part from Aroer along the wadi Arnon, with part of the hill country of Gilead and its towns, I assigned to the Reubenites and the Gadites."
+    },
+    {
+      "block_id": "jsb-deut-3-12-commentary-4",
+      "type": "commentary",
+      "text": "Vv. 12–13 proceed from south to north; vv. 14–16 from north to south.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-deut-3-13",
@@ -97,6 +149,19 @@
       "type": "verse",
       "number": 14,
       "text": "Jair son of Manasseh received the whole Argob district (that is, Bashan) as far as the boundary of the Geshurites and the Maacathites, and named it after himself: Havvoth-jair—as is still the case."
+    },
+    {
+      "block_id": "jsb-deut-3-14-commentary-5",
+      "type": "commentary",
+      "text": "I.e., “villages of Jair.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-deut-3-15",
@@ -117,10 +182,36 @@
       "text": "[We also seized] the Arabah, from the foot of the slopes of Pisgah on the east, to the edge of the Jordan, and from Chinnereth down to the sea of the Arabah, the Dead Sea."
     },
     {
+      "block_id": "jsb-deut-3-17-commentary-6",
+      "type": "commentary",
+      "text": "Continuing vv. 8–10; cf. 4.47–49.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-deut-3-18",
       "type": "verse",
       "number": 18,
       "text": "At that time I charged you, saying, “The Lord your God has given you this country to possess. You must go as shock-troops, warriors all, at the head of your Israelite kinsmen."
+    },
+    {
+      "block_id": "jsb-deut-3-18-commentary-7",
+      "type": "commentary",
+      "text": "I.e., the two and a half tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 3,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-deut-3-19",

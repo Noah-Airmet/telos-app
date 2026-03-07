@@ -1,7 +1,7 @@
 {
   "document_id": "deut-4",
   "title": "Deuteronomy 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -215,6 +215,19 @@
       "text": "It has been clearly demonstrated to you that the Lord alone is God; there is none beside Him."
     },
     {
+      "block_id": "jsb-deut-4-35-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “You have been shown to know.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 4,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
       "block_id": "jsb-deut-4-36",
       "type": "verse",
       "number": 36,
@@ -225,6 +238,19 @@
       "type": "verse",
       "number": 37,
       "text": "And because He loved your fathers, He chose their heirs after them; He Himself, in His great might, led you out of Egypt,"
+    },
+    {
+      "block_id": "jsb-deut-4-37-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “With His face (or Presence)”; cf. note at Exod. 33.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 4,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-deut-4-38",
@@ -291,6 +317,19 @@
       "type": "verse",
       "number": 48,
       "text": "from Aroer on the banks of the wadi Arnon, as far as Mount Sion, that is, Hermon;"
+    },
+    {
+      "block_id": "jsb-deut-4-48-commentary-3",
+      "type": "commentary",
+      "text": "Cf. “Sirion,” 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 4,
+        "verse": 48
+      },
+      "verse_start": 48,
+      "verse_end": 48
     },
     {
       "block_id": "jsb-deut-4-49",

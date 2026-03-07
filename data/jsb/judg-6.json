@@ -1,7 +1,7 @@
 {
   "document_id": "judg-6",
   "title": "Judges 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "The hand of the Midianites prevailed over Israel; and because of Midian, the Israelites provided themselves with refuges in the caves and strongholds of the mountains."
     },
     {
+      "block_id": "jsb-judg-6-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-judg-6-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "they would attack them, destroy the produce of the land all the way to Gaza, and leave no means of sustenance in Israel, not a sheep or an ox or an ass."
+    },
+    {
+      "block_id": "jsb-judg-6-4-commentary-2",
+      "type": "commentary",
+      "text": "I.e., by grazing their livestock.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-judg-6-5",
@@ -149,10 +175,36 @@
       "text": "So Gideon built there an altar to the Lord and called it Adonai-shalom. To this day it stands in Ophrah of the Abiezrites."
     },
     {
+      "block_id": "jsb-judg-6-24-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “The Lord, ‘All-is-well.’”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-judg-6-25",
       "type": "verse",
       "number": 25,
       "text": "That night the Lord said to him: “Take the young bull belonging to your father and another bull seven years old; pull down the altar of Baal which belongs to your father, and cut down the sacred post which is beside it."
+    },
+    {
+      "block_id": "jsb-judg-6-25-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-judg-6-26",
@@ -197,6 +249,19 @@
       "text": "That day they named him Jerubbaal, meaning “Let Baal contend with him, since he tore down his altar.”"
     },
     {
+      "block_id": "jsb-judg-6-32-commentary-5",
+      "type": "commentary",
+      "text": "I.e., Gideon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-judg-6-33",
       "type": "verse",
       "number": 33,
@@ -213,6 +278,19 @@
       "type": "verse",
       "number": 35,
       "text": "And he sent messengers throughout Manasseh, and they too rallied behind him. He then sent messengers through Asher, Zebulun, and Naphtali, and they came up to meet the Manassites."
+    },
+    {
+      "block_id": "jsb-judg-6-35-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 6,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-judg-6-36",

@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-7",
   "title": "2 Kings 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "For the Lord had caused the Aramean camp to hear a sound of chariots, a sound of horses—the din of a huge army. They said to one another, “The king of Israel must have hired the kings of the Hittites and the kings of Mizraim to attack us!”"
+    },
+    {
+      "block_id": "jsb-2-kgs-7-6-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 10.28 and note d there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-2-kgs-7-7",
@@ -83,10 +96,49 @@
       "text": "But one of the courtiers spoke up, “Let a few of the remaining horses that are still here be taken—they are like those that are left here of the whole multitude of Israel, out of the whole multitude of Israel that have perished—and let us send and find out.”"
     },
     {
+      "block_id": "jsb-2-kgs-7-13-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 7,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-2-kgs-7-13-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 7,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-kgs-7-14",
       "type": "verse",
       "number": 14,
       "text": "They took two teams of horses and the king sent them after the Aramean army, saying, “Go and find out.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-7-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-kgs-7-15",

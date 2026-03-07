@@ -1,7 +1,7 @@
 {
   "document_id": "judg-9",
   "title": "Judges 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "“Put this question to all the citizens of Shechem: Which is better for you, to be ruled by seventy men—by all the sons of Jerubbaal—or to be ruled by one man? And remember, I am your own flesh and blood.”"
+    },
+    {
+      "block_id": "jsb-judg-9-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “bone and flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-judg-9-3",
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "All the citizens of Shechem and all Beth-millo convened, and they proclaimed Abimelech king at the terebinth of the pillar at Shechem."
+    },
+    {
+      "block_id": "jsb-judg-9-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-judg-9-7",
@@ -173,10 +199,36 @@
       "text": "Gaal son of Ebed said, “Who is Abimelech and who are [we] Shechemites, that we should serve him? This same son of Jerubbaal and his lieutenant Zebul once served the men of Hamor, the father of Shechem; so why should we serve him?"
     },
     {
+      "block_id": "jsb-judg-9-28-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-judg-9-29",
       "type": "verse",
       "number": 29,
       "text": "Oh, if only this people were under my command, I would get rid of Abimelech! One would challenge Abimelech, ‘Fill up your ranks and come out here!’”"
+    },
+    {
+      "block_id": "jsb-judg-9-29-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “I.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-judg-9-30",
@@ -189,6 +241,32 @@
       "type": "verse",
       "number": 31,
       "text": "He sent messages to Abimelech at Tormah to say, “Gaal son of Ebed and his companions have come to Shechem and they are inciting the city against you."
+    },
+    {
+      "block_id": "jsb-judg-9-31-commentary-5",
+      "type": "commentary",
+      "text": "Called “Arumah” in v. 41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "jsb-judg-9-31-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-judg-9-32",
@@ -251,6 +329,19 @@
       "text": "Then Abimelech stayed in Arumah, while Zebul expelled Gaal and his companions and kept them out of Shechem."
     },
     {
+      "block_id": "jsb-judg-9-41-commentary-7",
+      "type": "commentary",
+      "text": "Cf. “Tormah” in v. 31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-judg-9-42",
       "type": "verse",
       "number": 42,
@@ -269,6 +360,19 @@
       "text": "While Abimelech and the column that followed him dashed ahead and took up a position at the entrance of the city gate, the other two columns rushed upon all that were in the open and struck them down."
     },
     {
+      "block_id": "jsb-judg-9-44-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “columns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
       "block_id": "jsb-judg-9-45",
       "type": "verse",
       "number": 45,
@@ -281,6 +385,45 @@
       "text": "When all the citizens of the Tower of Shechem learned of this, they went into the tunnel of the temple of El‑berith."
     },
     {
+      "block_id": "jsb-judg-9-46-commentary-9",
+      "type": "commentary",
+      "text": "Perhaps identical with Beth-millo of vv. 6 and 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "jsb-judg-9-46-commentary-10",
+      "type": "commentary",
+      "text": "Cf. 1 Sam. 13.6; others “citadel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "jsb-judg-9-46-commentary-11",
+      "type": "commentary",
+      "text": "Called “Baal-berith” in v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
       "block_id": "jsb-judg-9-47",
       "type": "verse",
       "number": 47,
@@ -291,6 +434,19 @@
       "type": "verse",
       "number": 48,
       "text": "Abimelech and all the troops he had with him went up on Mount Zalmon. Taking an ax in his hand, Abimelech lopped off a tree limb and lifted it onto his shoulder. Then he said to the troops that accompanied him, “What you saw me do—quick, do the same!”"
+    },
+    {
+      "block_id": "jsb-judg-9-48-commentary-12",
+      "type": "commentary",
+      "text": "Heb. plural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 9,
+        "verse": 48
+      },
+      "verse_start": 48,
+      "verse_end": 48
     },
     {
       "block_id": "jsb-judg-9-49",

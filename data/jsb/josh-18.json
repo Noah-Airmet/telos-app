@@ -1,7 +1,7 @@
 {
   "document_id": "josh-18",
   "title": "Joshua 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -95,6 +95,19 @@
       "text": "The southern rim: From the outskirts of Kiriath-jearim, the boundary passed westward and ran on to the fountain of the Waters of Nephtoah."
     },
     {
+      "block_id": "jsb-josh-18-15-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “eastward.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 18,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-josh-18-16",
       "type": "verse",
       "number": 16,
@@ -171,6 +184,32 @@
       "type": "verse",
       "number": 28,
       "text": "Zela, Eleph, and Jebus—that is, Jerusalem—Gibeath [and] Kiriath: 14 towns, with their villages. That was the portion of the Benjaminites, by their clans."
+    },
+    {
+      "block_id": "jsb-josh-18-28-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “the Jebusite.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 18,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-josh-18-28-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “and Kiriath-jearim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 18,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     }
   ]
 }

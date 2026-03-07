@@ -1,7 +1,7 @@
 {
   "document_id": "job-26",
   "title": "Job 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "He it is who stretched out Zaphon over chaos, Who suspended earth over emptiness."
     },
     {
+      "block_id": "jsb-job-26-7-commentary-1",
+      "type": "commentary",
+      "text": "Used for heaven; cf. Isa. 14.13; Ps. 48.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 26,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-job-26-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "He shuts off the view of His throne, Spreading His cloud over it."
+    },
+    {
+      "block_id": "jsb-job-26-9-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 26,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-job-26-10",
@@ -81,6 +107,19 @@
       "type": "verse",
       "number": 13,
       "text": "By His wind the heavens were calmed; His hand pierced the Elusive Serpent."
+    },
+    {
+      "block_id": "jsb-job-26-13-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Isa. 27.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 26,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-job-26-14",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-6",
   "title": "Genesis 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,10 +27,36 @@
       "text": "the divine beings saw how beautiful the daughters of men were and took wives from among those that pleased them.—"
     },
     {
+      "block_id": "jsb-gen-6-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “the sons of God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-gen-6-3",
       "type": "verse",
       "number": 3,
       "text": "The Lord said, “My breath shall not abide in man forever, since he too is flesh; let the days allowed him be one hundred and twenty years.”—"
+    },
+    {
+      "block_id": "jsb-gen-6-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-gen-6-4",
@@ -109,6 +135,19 @@
       "type": "verse",
       "number": 16,
       "text": "Make an opening for daylight in the ark, and terminate it within a cubit of the top. Put the entrance to the ark in its side; make it with bottom, second, and third decks."
+    },
+    {
+      "block_id": "jsb-gen-6-16-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-gen-6-17",

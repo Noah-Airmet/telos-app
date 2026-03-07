@@ -1,7 +1,7 @@
 {
   "document_id": "ps-84",
   "title": "Psalms 84",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,36 @@
       "text": "They pass through the Valley of Baca, regarding it as a place of springs, as if the early rain had covered it with blessing."
     },
     {
+      "block_id": "jsb-ps-84-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 84,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-84-8",
       "type": "verse",
       "number": 8,
       "text": "They go from rampart to rampart, appearing before God in Zion."
+    },
+    {
+      "block_id": "jsb-ps-84-8-commentary-2",
+      "type": "commentary",
+      "text": "Others “strength to strength.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 84,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-84-9",
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "For the Lord God is sun and shield; the Lord bestows grace and glory; He does not withhold His bounty from those who live without blame."
+    },
+    {
+      "block_id": "jsb-ps-84-12-commentary-3",
+      "type": "commentary",
+      "text": "Or “bulwark,” with Targum; cf. Isa. 54.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 84,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ps-84-13",

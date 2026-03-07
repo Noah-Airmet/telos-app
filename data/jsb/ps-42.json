@@ -1,7 +1,7 @@
 {
   "document_id": "ps-42",
   "title": "Psalms 42",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Like a hind crying for water, my soul cries for You, O God;"
+    },
+    {
+      "block_id": "jsb-ps-42-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “watercourses.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-42-3",
@@ -35,10 +48,36 @@
       "text": "When I think of this, I pour out my soul: how I walked with the crowd, moved with them, the festive throng, to the House of God with joyous shouts of praise."
     },
     {
+      "block_id": "jsb-ps-42-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-42-6",
       "type": "verse",
       "number": 6,
       "text": "Why so downcast, my soul, why disquieted within me? Have hope in God; I will yet praise Him for His saving presence."
+    },
+    {
+      "block_id": "jsb-ps-42-6-commentary-3",
+      "type": "commentary",
+      "text": "Several ancient versions and Heb. mss. connect the first word in v. 7 with the end of 6, reading yeshuʿot panai weʾElohai, “my ever-present help, my God,” as in vv. 12 and Ps. 43.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-42-7",

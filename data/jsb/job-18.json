@@ -1,7 +1,7 @@
 {
   "document_id": "job-18",
   "title": "Job 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "You who tear yourself to pieces in anger— Will earth’s order be disrupted for your sake? Will rocks be dislodged from their place?"
+    },
+    {
+      "block_id": "jsb-job-18-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the earth be abandoned.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 18,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-job-18-5",
@@ -77,6 +90,19 @@
       "text": "His progeny hunger; Disaster awaits his wife."
     },
     {
+      "block_id": "jsb-job-18-12-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “rib” (cf. Gen. 2.22); or “stumbling.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 18,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-job-18-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "He is torn from the safety of his tent; Terror marches him to the king."
+    },
+    {
+      "block_id": "jsb-job-18-14-commentary-3",
+      "type": "commentary",
+      "text": "Viz., of the netherworld.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-job-18-15",

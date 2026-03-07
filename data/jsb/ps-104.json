@@ -1,7 +1,7 @@
 {
   "document_id": "ps-104",
   "title": "Psalms 104",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "You water the mountains from Your lofts; the earth is sated from the fruit of Your work."
     },
     {
+      "block_id": "jsb-ps-104-13-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “His.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-104-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "wine that cheers the hearts of men oil that makes the face shine, and bread that sustains man’s life."
+    },
+    {
+      "block_id": "jsb-ps-104-15-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “to make the face shine from oil.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ps-104-16",

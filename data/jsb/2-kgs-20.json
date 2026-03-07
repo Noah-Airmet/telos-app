@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-20",
   "title": "2 Kings 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "Isaiah replied, “This is the sign for you from the Lord that the Lord will do the thing that He has promised: Shall the shadow advance ten steps or recede ten steps?”"
     },
     {
+      "block_id": "jsb-2-kgs-20-9-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 20,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-kgs-20-10",
       "type": "verse",
       "number": 10,
@@ -71,16 +84,55 @@
       "text": "So the prophet Isaiah called to the Lord, and He made the shadow which had descended on the dial of Ahaz recede ten steps."
     },
     {
+      "block_id": "jsb-2-kgs-20-11-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “steps.” A model of a dial with steps has been discovered in Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 20,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-kgs-20-12",
       "type": "verse",
       "number": 12,
       "text": "At that time, King Berodach-baladan son of Baladan of Babylon sent [envoys with] a letter and a gift to Hezekiah, for he had heard about Hezekiah’s illness."
     },
     {
+      "block_id": "jsb-2-kgs-20-12-commentary-3",
+      "type": "commentary",
+      "text": "Several mss. and the parallel Isa. 39.1 read “Merodach.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 20,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-kgs-20-13",
       "type": "verse",
       "number": 13,
       "text": "Hezekiah heard about them and he showed them all his treasurehouse—the silver, the gold, the spices, and the fragrant oil—and his armory, and everything that was to be found in his storehouses. There was nothing in his palace or in all his realm that Hezekiah did not show them."
+    },
+    {
+      "block_id": "jsb-2-kgs-20-13-commentary-4",
+      "type": "commentary",
+      "text": "Isa. 39.2 reads “Hezekiah was pleased by their coming.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 20,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-20-14",
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "Hezekiah declared to Isaiah, “The word of the Lord that you have spoken is good.” For he thought, “It means that safety is assured for my time.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-20-19-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “there shall be safety and faithfulness in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 20,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-2-kgs-20-20",

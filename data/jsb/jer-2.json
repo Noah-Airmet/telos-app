@@ -1,7 +1,7 @@
 {
   "document_id": "jer-2",
   "title": "Jeremiah 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "The priests never asked themselves, “Where is the Lord?” The guardians of the Teaching ignored Me; The rulers rebelled against Me, And the prophets prophesied by Baal And followed what can do no good."
     },
     {
+      "block_id": "jsb-jer-2-8-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “shepherds”; cf. 3.15; 23.1 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-2-9",
       "type": "verse",
       "number": 9,
@@ -101,10 +114,62 @@
       "text": "Those, too, in Noph and Tahpanhes Will lay bare your head."
     },
     {
+      "block_id": "jsb-jer-2-16-commentary-2",
+      "type": "commentary",
+      "text": "Cities in Egypt. The Egyptians, like the Assyrians, will prove a disappointment; cf. v. 36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-jer-2-16-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-jer-2-17",
       "type": "verse",
       "number": 17,
       "text": "See, that is the price you have paid For forsaking the Lord your God While He led you in the way."
+    },
+    {
+      "block_id": "jsb-jer-2-17-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “that is what your forsaking the Lord your God is doing to you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-jer-2-17-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-jer-2-18",
@@ -125,6 +190,32 @@
       "text": "For long ago you broke your yoke, Tore off your yoke-bands, And said, “I will not work!” On every high hill and under every verdant tree, You recline as a whore."
     },
     {
+      "block_id": "jsb-jer-2-20-commentary-6",
+      "type": "commentary",
+      "text": "For the form, cf. shaqqamti, Judg. 5.7; others “I.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-jer-2-20-commentary-7",
+      "type": "commentary",
+      "text": "Following the kethib; qere “transgress.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-jer-2-21",
       "type": "verse",
       "number": 21,
@@ -143,6 +234,19 @@
       "text": "How can you say, “I am not defiled, I have not gone after the Baalim”? Look at your deeds in the Valley, Consider what you have done! Like a lustful she-camel, Restlessly running about,"
     },
     {
+      "block_id": "jsb-jer-2-23-commentary-8",
+      "type": "commentary",
+      "text": "I.e., of Hinnom; cf. 7.31–32; 32.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-jer-2-24",
       "type": "verse",
       "number": 24,
@@ -153,6 +257,19 @@
       "type": "verse",
       "number": 25,
       "text": "Save your foot from going bare, And your throat from thirst. But you say, “It is no use. No, I love the strangers, And after them I must go.”"
+    },
+    {
+      "block_id": "jsb-jer-2-25-commentary-9",
+      "type": "commentary",
+      "text": "I.e., other gods.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-jer-2-26",
@@ -191,6 +308,19 @@
       "text": "O generation, behold the word of the Lord! Have I been like a desert to Israel, Or like a land of deep gloom? Then why do My people say, “We have broken loose, We will not come to You any more?”"
     },
     {
+      "block_id": "jsb-jer-2-31-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-jer-2-32",
       "type": "verse",
       "number": 32,
@@ -209,6 +339,19 @@
       "text": "Moreover, on your garments is found The lifeblood of the innocent poor— You did not catch them breaking in. Yet, despite all these things,"
     },
     {
+      "block_id": "jsb-jer-2-34-commentary-11",
+      "type": "commentary",
+      "text": "In which case there might have been an excuse for killing them; cf. Exod. 22.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-jer-2-35",
       "type": "verse",
       "number": 35,
@@ -225,6 +368,19 @@
       "type": "verse",
       "number": 37,
       "text": "From this way, too, you will come out With your hands on your head; For the Lord has rejected those you trust, You will not prosper with them."
+    },
+    {
+      "block_id": "jsb-jer-2-37-commentary-12",
+      "type": "commentary",
+      "text": "A gesture of wild grief; cf. 2 Sam. 13.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-31",
   "title": "Genesis 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "but your father has cheated me, changing my wages time and again. God, however, would not let him do me harm."
     },
     {
+      "block_id": "jsb-gen-31-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “ten times.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-gen-31-8",
       "type": "verse",
       "number": 8,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "“Once, at the mating time of the flocks, I had a dream in which I saw that the he‑goats mating with the flock were streaked, speckled, and mottled."
+    },
+    {
+      "block_id": "jsb-gen-31-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “I raised my eyes and saw in a dream, behold.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-gen-31-11",
@@ -123,6 +149,19 @@
       "type": "verse",
       "number": 20,
       "text": "Jacob kept Laban the Aramean in the dark, not telling him that he was fleeing,"
+    },
+    {
+      "block_id": "jsb-gen-31-20-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “stole the mind of Laban the Aramean”; similarly in v. 26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-gen-31-21",
@@ -245,16 +284,55 @@
       "text": "Often, scorching heat ravaged me by day and frost by night; and sleep fled from my eyes."
     },
     {
+      "block_id": "jsb-gen-31-40-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “I was.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
       "block_id": "jsb-gen-31-41",
       "type": "verse",
       "number": 41,
       "text": "Of the twenty years that I spent in your household, I served you fourteen years for your two daughters, and six years for your flocks; and you changed my wages time and again."
     },
     {
+      "block_id": "jsb-gen-31-41-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “ten times.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-gen-31-42",
       "type": "verse",
       "number": 42,
       "text": "Had not the God of my father, the God of Abraham and the Fear of Isaac, been with me, you would have sent me away empty-handed. But God took notice of my plight and the toil of my hands, and He gave judgment last night.”"
+    },
+    {
+      "block_id": "jsb-gen-31-42-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. paḥad uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-gen-31-43",
@@ -287,6 +365,32 @@
       "text": "Laban named it Yegar-sahadutha, but Jacob named it Gal-ed."
     },
     {
+      "block_id": "jsb-gen-31-47-commentary-7",
+      "type": "commentary",
+      "text": "Aramaic for “the mound (or, stone-heap) of witness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
+      "block_id": "jsb-gen-31-47-commentary-8",
+      "type": "commentary",
+      "text": "Heb. for “the mound (or, stone-heap) of witness,” reflecting the name Gilead, v. 23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
       "block_id": "jsb-gen-31-48",
       "type": "verse",
       "number": 48,
@@ -297,6 +401,19 @@
       "type": "verse",
       "number": 49,
       "text": "and [it was called] Mizpah, because he said, “May the Lord watch between you and me, when we are out of sight of each other."
+    },
+    {
+      "block_id": "jsb-gen-31-49-commentary-9",
+      "type": "commentary",
+      "text": "Heb. yiṣeph, associated with Mizpah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 31,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
     },
     {
       "block_id": "jsb-gen-31-50",

@@ -1,7 +1,7 @@
 {
   "document_id": "lam-3",
   "title": "Lamentations 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "א I am the man who has known affliction Under the rod of His wrath;"
+    },
+    {
+      "block_id": "jsb-lam-3-1-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “whom the Lord has shepherded with.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-lam-3-2",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "All around me He has built Misery and hardship;"
+    },
+    {
+      "block_id": "jsb-lam-3-5-commentary-2",
+      "type": "commentary",
+      "text": "Taking rosh as equivalent to resh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-lam-3-6",
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "He has forced me off my way and mangled me, He has left me numb."
+    },
+    {
+      "block_id": "jsb-lam-3-11-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-lam-3-12",
@@ -251,6 +290,19 @@
       "text": "Let us lift up our hearts with our hands To God in heaven:"
     },
     {
+      "block_id": "jsb-lam-3-41-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “to”; emendation yields “rather than”; cf. Joel 2.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-lam-3-42",
       "type": "verse",
       "number": 42,
@@ -293,6 +345,19 @@
       "text": "My eyes shed streams of water Over the ruin of my poor people."
     },
     {
+      "block_id": "jsb-lam-3-48-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “the daughter of my”; so frequently in poetry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 48
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
       "block_id": "jsb-lam-3-49",
       "type": "verse",
       "number": 49,
@@ -303,6 +368,19 @@
       "type": "verse",
       "number": 50,
       "text": "Until the Lord looks down And beholds from heaven."
+    },
+    {
+      "block_id": "jsb-lam-3-50-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields: 5“Until the Lord looks down from heaven / And beholds 51my affliction. / The Lord has brought me grief.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 50
+      },
+      "verse_start": 50,
+      "verse_end": 50
     },
     {
       "block_id": "jsb-lam-3-51",
@@ -393,6 +471,19 @@
       "type": "verse",
       "number": 65,
       "text": "Give them anguish of heart; Your curse be upon them!"
+    },
+    {
+      "block_id": "jsb-lam-3-65-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3,
+        "verse": 65
+      },
+      "verse_start": 65,
+      "verse_end": 65
     },
     {
       "block_id": "jsb-lam-3-66",

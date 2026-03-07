@@ -1,7 +1,7 @@
 {
   "document_id": "deut-28",
   "title": "Deuteronomy 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "The Lord will put to rout before you the enemies who attack you; they will march out against you by a single road, but flee from you by many roads."
     },
     {
+      "block_id": "jsb-deut-28-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “seven.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-deut-28-8",
       "type": "verse",
       "number": 8,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "And all the peoples of the earth shall see that the Lord’s name is proclaimed over you, and they shall stand in fear of you."
+    },
+    {
+      "block_id": "jsb-deut-28-10-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the Lord recognizes you as His own; cf. Isa. 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-deut-28-11",
@@ -137,6 +163,19 @@
       "text": "The Lord will strike you with consumption, fever, and inflammation, with scorching heat and drought, with blight and mildew; they shall hound you until you perish."
     },
     {
+      "block_id": "jsb-deut-28-22-commentary-3",
+      "type": "commentary",
+      "text": "Exact nature of these afflictions uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-deut-28-23",
       "type": "verse",
       "number": 23,
@@ -155,6 +194,19 @@
       "text": "The Lord will put you to rout before your enemies; you shall march out against them by a single road, but flee from them by many roads; and you shall become a horror to all the kingdoms of the earth."
     },
     {
+      "block_id": "jsb-deut-28-25-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “seven.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-deut-28-26",
       "type": "verse",
       "number": 26,
@@ -167,10 +219,36 @@
       "text": "The Lord will strike you with the Egyptian inflammation, with hemorrhoids, boil-scars, and itch, from which you shall never recover."
     },
     {
+      "block_id": "jsb-deut-28-27-commentary-5",
+      "type": "commentary",
+      "text": "See Exod. 9.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-deut-28-28",
       "type": "verse",
       "number": 28,
       "text": "The Lord will strike you with madness, blindness, and dismay."
+    },
+    {
+      "block_id": "jsb-deut-28-28-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “numbness of heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-28-29",
@@ -183,6 +261,19 @@
       "type": "verse",
       "number": 30,
       "text": "If you pay the bride-price for a wife, another man shall enjoy her. If you build a house, you shall not live in it. If you plant a vineyard, you shall not harvest it."
+    },
+    {
+      "block_id": "jsb-deut-28-30-commentary-7",
+      "type": "commentary",
+      "text": "Cf. 20.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-deut-28-31",
@@ -387,6 +478,19 @@
       "type": "verse",
       "number": 64,
       "text": "The Lord will scatter you among all the peoples from one end of the earth to the other, and there you shall serve other gods, wood and stone, whom neither you nor your ancestors have experienced."
+    },
+    {
+      "block_id": "jsb-deut-28-64-commentary-8",
+      "type": "commentary",
+      "text": "See note at 11.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28,
+        "verse": 64
+      },
+      "verse_start": 64,
+      "verse_end": 64
     },
     {
       "block_id": "jsb-deut-28-65",

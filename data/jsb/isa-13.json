@@ -1,7 +1,7 @@
 {
   "document_id": "isa-13",
   "title": "Isaiah 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "I have summoned My purified guests To execute My wrath; Behold, I have called My stalwarts, My proudly exultant ones.”"
     },
     {
+      "block_id": "jsb-isa-13-3-commentary-1",
+      "type": "commentary",
+      "text": "The impending slaughter is spoken of as a sacrificial meal, for which the guests were notified to purify themselves ritually; cf. Zeph. 1.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-13-4",
       "type": "verse",
       "number": 4,
       "text": "Hark! a tumult on the mountains— As of a mighty force; Hark! an uproar of kingdoms, Nations assembling! The Lord of Hosts is mustering A host for war."
+    },
+    {
+      "block_id": "jsb-isa-13-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-13-5",
@@ -41,6 +67,19 @@
       "text": "Howl! For the day of the Lord is near; It shall come like havoc from Shaddai."
     },
     {
+      "block_id": "jsb-isa-13-6-commentary-3",
+      "type": "commentary",
+      "text": "Traditionally rendered “the Almighty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-13-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +90,19 @@
       "type": "verse",
       "number": 8,
       "text": "And, overcome by terror, They shall be seized by pangs and throes, Writhe like a woman in travail. They shall gaze at each other in horror, Their faces livid with fright."
+    },
+    {
+      "block_id": "jsb-isa-13-8-commentary-4",
+      "type": "commentary",
+      "text": "Taking the root lhb as a variant of bhl: others “shall be faces of flame.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-13-9",
@@ -83,6 +135,19 @@
       "text": "Therefore shall heaven be shaken, And earth leap out of its place, At the fury of the Lord of Hosts On the day of His burning wrath."
     },
     {
+      "block_id": "jsb-isa-13-13-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “I will shake heaven.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-isa-13-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +158,19 @@
       "type": "verse",
       "number": 15,
       "text": "All who remain shall be pierced through, All who are caught Shall fall by the sword."
+    },
+    {
+      "block_id": "jsb-isa-13-15-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “flee.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-13-16",
@@ -129,6 +207,19 @@
       "type": "verse",
       "number": 21,
       "text": "But beasts shall lie down there, And the houses be filled with owls; There shall ostriches make their home, And there shall satyrs dance."
+    },
+    {
+      "block_id": "jsb-isa-13-21-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-13-22",

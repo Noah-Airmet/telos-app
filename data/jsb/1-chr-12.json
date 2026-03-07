@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-12",
   "title": "1 Chronicles 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "Joelah and Zebadiah, sons of Jeroham of Gedor."
+    },
+    {
+      "block_id": "jsb-1-chr-12-8-commentary-1",
+      "type": "commentary",
+      "text": "Or, “the troop,” reading Heb. gedud with several mss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-chr-12-9",
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "It was they who gave support to David against the band, for all were valiant men; and they were officers of the force."
+    },
+    {
+      "block_id": "jsb-1-chr-12-22-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the band of Amalekite raiders; cf. 1 Sam. 30.8, 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 12,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-chr-12-23",

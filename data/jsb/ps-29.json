@@ -1,7 +1,7 @@
 {
   "document_id": "ps-29",
   "title": "Psalms 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "He makes Lebanon skip like a calf, Sirion, like a young wild ox."
     },
     {
+      "block_id": "jsb-ps-29-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “He makes them skip like a calf, Lebanon and Sirion, etc.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 29,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-29-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "the voice of the Lord causes hinds to calve, and strips forests bare; while in His temple all say “Glory!”"
+    },
+    {
+      "block_id": "jsb-ps-29-9-commentary-2",
+      "type": "commentary",
+      "text": "Or “brings ewes to early birth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 29,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ps-29-10",

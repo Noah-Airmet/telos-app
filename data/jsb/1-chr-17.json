@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-17",
   "title": "1 Chronicles 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When David settled in his palace, David said to the prophet Nathan, “Here I am dwelling in a house of cedar, while the Ark of the Covenant of the Lord is under tent-cloths.”"
+    },
+    {
+      "block_id": "jsb-1-chr-17-1-commentary-1",
+      "type": "commentary",
+      "text": "With this chapter, cf. 2 Sam. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 17,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-17-2",
@@ -65,6 +78,19 @@
       "text": "ever since I appointed judges over My people Israel. I will subdue all your enemies. And I declare to you: The Lord will build a house for you."
     },
     {
+      "block_id": "jsb-1-chr-17-10-commentary-2",
+      "type": "commentary",
+      "text": "I.e., a dynasty; play on “house” (i.e., Temple) in v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 17,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-1-chr-17-11",
       "type": "verse",
       "number": 11,
@@ -107,6 +133,19 @@
       "text": "Yet even this, O God, has seemed too little to You; for You have spoken of Your servant’s house for the future. You regard me as a man of distinction, O Lord God."
     },
     {
+      "block_id": "jsb-1-chr-17-17-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 17,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-1-chr-17-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +156,19 @@
       "type": "verse",
       "number": 19,
       "text": "O Lord, for Your servant’s sake, and of Your own accord, You have wrought this great thing, and made known all these great things."
+    },
+    {
+      "block_id": "jsb-1-chr-17-19-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 17,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-1-chr-17-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-8",
   "title": "Exodus 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -107,6 +107,19 @@
       "text": "For if you do not let My people go, I will let loose swarms of insects against you and your courtiers and your people and your houses; the houses of the Egyptians, and the very ground they stand on, shall be filled with swarms of insects."
     },
     {
+      "block_id": "jsb-exod-8-17-commentary-1",
+      "type": "commentary",
+      "text": "Others “wild beasts.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 8,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-exod-8-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +130,19 @@
       "type": "verse",
       "number": 19,
       "text": "And I will make a distinction between My people and your people. Tomorrow this sign shall come to pass.’”"
+    },
+    {
+      "block_id": "jsb-exod-8-19-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of peduth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 8,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-8-20",

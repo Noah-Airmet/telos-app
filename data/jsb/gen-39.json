@@ -1,7 +1,7 @@
 {
   "document_id": "gen-39",
   "title": "Genesis 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -141,6 +141,19 @@
       "type": "verse",
       "number": 23,
       "text": "The chief jailer did not supervise anything that was in Joseph’s charge, because the Lord was with him, and whatever he did the Lord made successful."
+    },
+    {
+      "block_id": "jsb-gen-39-23-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 39,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "prov-4",
   "title": "Proverbs 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "The beginning of wisdom is—acquire wisdom; With all your acquisitions, acquire discernment."
+    },
+    {
+      "block_id": "jsb-prov-4-7-commentary-1",
+      "type": "commentary",
+      "text": "Or “best part.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 4,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-prov-4-8",

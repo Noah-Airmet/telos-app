@@ -1,7 +1,7 @@
 {
   "document_id": "judg-16",
   "title": "Judges 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,32 @@
       "type": "verse",
       "number": 2,
       "text": "The Gazites [learned] that Samson had come there, so they gathered and lay in ambush for him in the town gate the whole night; and all night long they kept whispering to each other, “When daylight comes, we’ll kill him.”"
+    },
+    {
+      "block_id": "jsb-judg-16-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of parts of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-judg-16-2-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “were told.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-judg-16-3",
@@ -45,6 +71,19 @@
       "type": "verse",
       "number": 7,
       "text": "Samson replied, “If I were to be tied with seven fresh tendons that had not been dried, I should become as weak as an ordinary man.”"
+    },
+    {
+      "block_id": "jsb-judg-16-7-commentary-3",
+      "type": "commentary",
+      "text": "For use as bowstrings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-judg-16-8",
@@ -83,10 +122,49 @@
       "text": "Then Delilah said to Samson, “You have been deceiving me all along; you have been lying to me! Tell me, how could you be tied up?” He answered her, “If you weave seven locks of my head into the web.”"
     },
     {
+      "block_id": "jsb-judg-16-13-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint adds “and pin it with a peg to the wall, I shall become as weak as an ordinary man. So Delilah put him to sleep and wove the seven locks of his head into the web.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-judg-16-14",
       "type": "verse",
       "number": 14,
       "text": "And she pinned it with a peg and cried to him, “Samson, the Philistines are upon you!” Awaking from his sleep, he pulled out the peg, the loom, and the web."
+    },
+    {
+      "block_id": "jsb-judg-16-14-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint adds “to the wall.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-judg-16-14-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-judg-16-15",
@@ -119,10 +197,36 @@
       "text": "She lulled him to sleep on her lap. Then she called in a man, and she had him cut off the seven locks of his head; thus she weakened him and made him helpless: his strength slipped away from him."
     },
     {
+      "block_id": "jsb-judg-16-19-commentary-7",
+      "type": "commentary",
+      "text": "Taking wattaḥel as equivalent to wattaḥal; cf. vv. 7, 11, and 17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-judg-16-20",
       "type": "verse",
       "number": 20,
       "text": "She cried, “Samson, the Philistines are upon you!” And he awoke from his sleep, thinking he would break loose and shake himself free as he had the other times. For he did not know that the Lord had departed from him."
+    },
+    {
+      "block_id": "jsb-judg-16-20-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-judg-16-21",
@@ -147,6 +251,19 @@
       "type": "verse",
       "number": 24,
       "text": "When the people saw him, they sang praises to their god, chanting, “Our god has delivered into our hands The enemy who devastated our land, And who slew so many of us.”"
+    },
+    {
+      "block_id": "jsb-judg-16-24-commentary-9",
+      "type": "commentary",
+      "text": "This verse would read well after v. 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 16,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-judg-16-25",

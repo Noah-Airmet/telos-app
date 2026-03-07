@@ -1,7 +1,7 @@
 {
   "document_id": "exod-23",
   "title": "Exodus 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "You shall neither side with the mighty to do wrong—you shall not give perverse testimony in a dispute so as to pervert it in favor of the mighty—"
+    },
+    {
+      "block_id": "jsb-exod-23-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “multitude.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 23,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-exod-23-3",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "When you see the ass of your enemy lying under its burden and would refrain from raising it, you must nevertheless raise it with him."
+    },
+    {
+      "block_id": "jsb-exod-23-5-commentary-2",
+      "type": "commentary",
+      "text": "For this use of the verb ʿzb, cf. Neh. 3.8, 34. For the whole verse see Deut. 22.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 23,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-exod-23-6",
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "You shall observe the Feast of Unleavened Bread—eating unleavened bread for seven days as I have commanded you—at the set time in the month of Abib, for in it you went forth from Egypt; and none shall appear before Me empty-handed;"
+    },
+    {
+      "block_id": "jsb-exod-23-15-commentary-3",
+      "type": "commentary",
+      "text": "See note at 13.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 23,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-exod-23-16",
@@ -167,10 +206,36 @@
       "text": "I will send forth My terror before you, and I will throw into panic all the people among whom you come, and I will make all your enemies turn tail before you."
     },
     {
+      "block_id": "jsb-exod-23-27-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “back.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 23,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-exod-23-28",
       "type": "verse",
       "number": 28,
       "text": "I will send a plague ahead of you, and it shall drive out before you the Hivites, the Canaanites, and the Hittites."
+    },
+    {
+      "block_id": "jsb-exod-23-28-commentary-5",
+      "type": "commentary",
+      "text": "Others “hornet”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 23,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-exod-23-29",

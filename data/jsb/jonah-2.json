@@ -1,7 +1,7 @@
 {
   "document_id": "jonah-2",
   "title": "Jonah 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "They who cling to empty folly Forsake their own welfare,"
+    },
+    {
+      "block_id": "jsb-jonah-2-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jonah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jonah-2-10",

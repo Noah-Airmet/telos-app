@@ -1,7 +1,7 @@
 {
   "document_id": "neh-9",
   "title": "Nehemiah 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "“You alone are the Lord. You made the heavens, the highest heavens, and all their host, the earth and everything upon it, the seas and everything in them. You keep them all alive, and the host of heaven prostrate themselves before You."
+    },
+    {
+      "block_id": "jsb-neh-9-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the heavens of the.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-neh-9-7",
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "“You gave them kingdoms and peoples, and allotted them territory. They took possession of the land of Sihon, the land of the king of Heshbon, and the land of Og, king of Bashan."
+    },
+    {
+      "block_id": "jsb-neh-9-22-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 9,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-neh-9-23",

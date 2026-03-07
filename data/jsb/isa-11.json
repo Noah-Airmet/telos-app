@@ -1,7 +1,7 @@
 {
   "document_id": "isa-11",
   "title": "Isaiah 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "He shall sense the truth by his reverence for the Lord: He shall not judge by what his eyes behold, Nor decide by what his ears perceive."
     },
     {
+      "block_id": "jsb-isa-11-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “His sensing [shall be]”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-11-4",
       "type": "verse",
       "number": 4,
       "text": "Thus he shall judge the poor with equity And decide with justice for the lowly of the land. He shall strike down a land with the rod of his mouth And slay the wicked with the breath of his lips."
+    },
+    {
+      "block_id": "jsb-isa-11-4-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “the ruthless.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-11-5",
@@ -41,6 +67,19 @@
       "text": "The wolf shall dwell with the lamb, The leopard lie down with the kid; The calf, the beast of prey, and the fatling together, With a little boy to herd them."
     },
     {
+      "block_id": "jsb-isa-11-6-commentary-3",
+      "type": "commentary",
+      "text": "1QIsa reads: “The calf and the beast of prey shall feed”; so too the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-11-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +92,36 @@
       "text": "A babe shall play Over a viper’s hole, And an infant pass his hand Over an adder’s den."
     },
     {
+      "block_id": "jsb-isa-11-8-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-11-9",
       "type": "verse",
       "number": 9,
       "text": "In all of My sacred mount Nothing evil or vile shall be done; For the land shall be filled with devotion to the Lord As water covers the sea."
+    },
+    {
+      "block_id": "jsb-isa-11-9-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the Holy Land; cf. Exod. 15.17; Ps. 78.54.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-isa-11-10",
@@ -69,6 +134,19 @@
       "type": "verse",
       "number": 11,
       "text": "In that day, my Lord will apply His hand again to redeeming the other part of His people from Assyria—as also from Egypt, Pathros, Nubia, Elam, Shinar, Hamath, and the coastlands."
+    },
+    {
+      "block_id": "jsb-isa-11-11-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the part outside the Holy Land; lit. “the rest that will remain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-11-12",
@@ -95,10 +173,36 @@
       "text": "The Lord will dry up the tongue of the Egyptian sea.—He will raise His hand over the Euphrates with the might of His wind and break it into seven wadis, so that it can be trodden dry-shod."
     },
     {
+      "block_id": "jsb-isa-11-15-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-isa-11-16",
       "type": "verse",
       "number": 16,
       "text": "Thus there shall be a highway for the other part of His people out of Assyria, such as there was for Israel when it left the land of Egypt."
+    },
+    {
+      "block_id": "jsb-isa-11-16-commentary-8",
+      "type": "commentary",
+      "text": "I.e., the part outside the Holy Land; lit. “the rest that will remain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 11,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-75",
   "title": "Psalms 75",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,36 @@
       "text": "Do not lift your horns up high in vainglorious bluster."
     },
     {
+      "block_id": "jsb-ps-75-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “with arrogant neck you speak.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-75-7",
       "type": "verse",
       "number": 7,
       "text": "For what lifts a man comes not from the east or the west or the wilderness;"
+    },
+    {
+      "block_id": "jsb-ps-75-7-commentary-2",
+      "type": "commentary",
+      "text": "Reading midbār with many mss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-75-8",

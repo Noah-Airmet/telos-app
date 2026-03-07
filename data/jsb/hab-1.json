@@ -1,7 +1,7 @@
 {
   "document_id": "hab-1",
   "title": "Habakkuk 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,32 @@
       "type": "verse",
       "number": 3,
       "text": "Why do You make me see iniquity [Why] do You look upon wrong?— Raiding and violence are before me, Strife continues and contention goes on."
+    },
+    {
+      "block_id": "jsb-hab-1-3-commentary-1",
+      "type": "commentary",
+      "text": "Targum and Syriac “So that I look.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-hab-1-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-hab-1-4",
@@ -47,16 +73,68 @@
       "text": "They are terrible, dreadful; They make their own laws and rules."
     },
     {
+      "block_id": "jsb-hab-1-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Their law and majesty proceed from themselves.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-hab-1-8",
       "type": "verse",
       "number": 8,
       "text": "Their horses are swifter than leopards, Fleeter than wolves of the steppe. Their steeds gallop—their steeds Come flying from afar. Like vultures rushing toward food,"
     },
     {
+      "block_id": "jsb-hab-1-8-commentary-4",
+      "type": "commentary",
+      "text": "Understanding ʿereb as synonymous with ʿarabah; cf. Jer. 5.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-hab-1-8-commentary-5",
+      "type": "commentary",
+      "text": "The Qumran Habakkuk commentary (hereafter 1QpHab) reads “and spread [wings].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hab-1-9",
       "type": "verse",
       "number": 9,
       "text": "They all come, bent on rapine. The thrust of their van is forward, And they amass captives like sand."
+    },
+    {
+      "block_id": "jsb-hab-1-9-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-hab-1-10",
@@ -71,10 +149,36 @@
       "text": "Then they pass on like the wind, They transgress and incur guilt, For they ascribe their might to their god.”"
     },
     {
+      "block_id": "jsb-hab-1-11-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-hab-1-12",
       "type": "verse",
       "number": 12,
       "text": "You, O Lord, are from everlasting; My holy God, You never die. O Lord, You have made them a subject of contention; O Rock, You have made them a cause for complaint."
+    },
+    {
+      "block_id": "jsb-hab-1-12-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “we,” a change made by a pious scribe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-hab-1-13",
@@ -89,6 +193,19 @@
       "text": "You have made mankind like the fish of the sea, Like creeping things that have no ruler."
     },
     {
+      "block_id": "jsb-hab-1-14-commentary-9",
+      "type": "commentary",
+      "text": "1QpHab “[for him] to rule over”; cf. Gen. 1.28; Ps. 8.7–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-hab-1-15",
       "type": "verse",
       "number": 15,
@@ -101,10 +218,36 @@
       "text": "That is why he sacrifices to his trawl And makes offerings to his net; For through them his portion is rich And his nourishment fat."
     },
     {
+      "block_id": "jsb-hab-1-16-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “bread”; cf. Gen. 49.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-hab-1-17",
       "type": "verse",
       "number": 17,
       "text": "Shall he then keep emptying his trawl, And slaying nations without pity?"
+    },
+    {
+      "block_id": "jsb-hab-1-17-commentary-11",
+      "type": "commentary",
+      "text": "1QpHab “drawing his sword.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     }
   ]
 }

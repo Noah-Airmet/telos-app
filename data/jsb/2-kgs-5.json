@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-5",
   "title": "2 Kings 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Naaman, commander of the army of the king of Aram, was important to his lord and high in his favor, for through him the Lord had granted victory to Aram. But the man, though a great warrior, was a leper."
+    },
+    {
+      "block_id": "jsb-2-kgs-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. note on Lev. 13.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-kgs-5-2",
@@ -83,6 +96,19 @@
       "text": "But his servants came forward and spoke to him. “Sir,” they said, “if the prophet told you to do something difficult, would you not do it? How much more when he has only said to you, ‘Bathe and be clean.’”"
     },
     {
+      "block_id": "jsb-2-kgs-5-13-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “[My] father.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-kgs-5-14",
       "type": "verse",
       "number": 14,
@@ -125,6 +151,19 @@
       "text": "Gehazi, the attendant of Elisha the man of God, thought: “My master has let that Aramean Naaman off without accepting what he brought! As the Lord lives, I will run after him and get something from him.”"
     },
     {
+      "block_id": "jsb-2-kgs-5-20-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “has prevented that Aramean Naaman from having what he brought accepted.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 5,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-kgs-5-21",
       "type": "verse",
       "number": 21,
@@ -159,6 +198,19 @@
       "type": "verse",
       "number": 26,
       "text": "Then [Elisha] said to him, “Did not my spirit go along when a man got down from his chariot to meet you? Is this a time to take money in order to buy clothing and olive groves and vineyards, sheep and oxen, and male and female slaves?"
+    },
+    {
+      "block_id": "jsb-2-kgs-5-26-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 5,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-2-kgs-5-27",

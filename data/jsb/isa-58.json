@@ -1,7 +1,7 @@
 {
   "document_id": "isa-58",
   "title": "Isaiah 58",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "No, this is the fast I desire: To unlock fetters of wickedness, And untie the cords of the yoke To let the oppressed go free; To break off every yoke."
     },
     {
+      "block_id": "jsb-isa-58-6-commentary-1",
+      "type": "commentary",
+      "text": "Change of vocalization yields “lawlessness”; cf. muṭṭeh, Ezek. 9.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-58-7",
       "type": "verse",
       "number": 7,
@@ -59,16 +72,55 @@
       "text": "Then, when you call, the Lord will answer; When you cry, He will say: Here I am. If you banish the yoke from your midst, The menacing hand, and evil speech,"
     },
     {
+      "block_id": "jsb-isa-58-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “Extending the finger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-58-10",
       "type": "verse",
       "number": 10,
       "text": "And you offer your compassion to the hungry And satisfy the famished creature— Then shall your light shine in darkness, And your gloom shall be like noonday."
     },
     {
+      "block_id": "jsb-isa-58-10-commentary-3",
+      "type": "commentary",
+      "text": "Some Heb. mss. and ancient versions read “bread.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-58-11",
       "type": "verse",
       "number": 11,
       "text": "The Lord will guide you always; He will slake your thirst in parched places And give strength to your bones. You shall be like a watered garden, Like a spring whose waters do not fail."
+    },
+    {
+      "block_id": "jsb-isa-58-11-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-58-12",
@@ -83,10 +135,36 @@
       "text": "If you refrain from trampling the sabbath, From pursuing your affairs on My holy day; If you call the sabbath “delight,” The Lord’s holy day “honored”; And if you honor it and go not your ways Nor look to your affairs, nor strike bargains—"
     },
     {
+      "block_id": "jsb-isa-58-13-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “turn back your foot from.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-isa-58-14",
       "type": "verse",
       "number": 14,
       "text": "Then you can seek the favor of the Lord. I will set you astride the heights of the earth, And let you enjoy the heritage of your father Jacob— For the mouth of the Lord has spoken."
+    },
+    {
+      "block_id": "jsb-isa-58-14-commentary-6",
+      "type": "commentary",
+      "text": "Cf. Ps. 37.4; Job 22.26–27; 27.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 58,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

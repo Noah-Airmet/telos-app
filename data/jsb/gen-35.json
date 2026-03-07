@@ -1,7 +1,7 @@
 {
   "document_id": "gen-35",
   "title": "Genesis 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,36 @@
       "text": "There he built an altar and named the site El‑bethel, for it was there that God had revealed Himself to him when he was fleeing from his brother."
     },
     {
+      "block_id": "jsb-gen-35-7-commentary-1",
+      "type": "commentary",
+      "text": "“The God of Bethel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-gen-35-8",
       "type": "verse",
       "number": 8,
       "text": "Deborah, Rebekah’s nurse, died, and was buried under the oak below Bethel; so it was named Allon-bacuth."
+    },
+    {
+      "block_id": "jsb-gen-35-8-commentary-2",
+      "type": "commentary",
+      "text": "Understood as “the oak of the weeping.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-gen-35-9",
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "And God said to him, “I am El Shaddai. Be fertile and increase; A nation, yea an assembly of nations, Shall descend from you. Kings shall issue from your loins."
+    },
+    {
+      "block_id": "jsb-gen-35-11-commentary-3",
+      "type": "commentary",
+      "text": "Cf. 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-gen-35-12",
@@ -111,6 +150,32 @@
       "type": "verse",
       "number": 18,
       "text": "But as she breathed her last—for she was dying—she named him Ben-oni; but his father called him Benjamin."
+    },
+    {
+      "block_id": "jsb-gen-35-18-commentary-4",
+      "type": "commentary",
+      "text": "Understood as “son of my suffering (or, strength).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-gen-35-18-commentary-5",
+      "type": "commentary",
+      "text": "I.e., “son of the right hand,” or “son of the south.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-gen-35-19",
@@ -177,6 +242,19 @@
       "type": "verse",
       "number": 29,
       "text": "when he breathed his last and died. He was gathered to his kin in ripe old age; and he was buried by his sons Esau and Jacob."
+    },
+    {
+      "block_id": "jsb-gen-35-29-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “Isaac.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 35,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-15",
   "title": "Isaiah 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "He went up to the temple to weep, Dibon [went] to the outdoor shrines. Over Nebo and Medeba Moab is wailing; On every head is baldness, Every beard is shorn."
     },
     {
+      "block_id": "jsb-isa-15-2-commentary-1",
+      "type": "commentary",
+      "text": "Regarded as the principal city of Moab.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-15-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Heshbon and Elealeh cry out, Their voice carries to Jahaz. Therefore, The shock troops of Moab shout, His body is convulsed."
+    },
+    {
+      "block_id": "jsb-isa-15-4-commentary-2",
+      "type": "commentary",
+      "text": "Change of vocalization yields “The loins of Moab are trembling.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 15,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-15-5",
@@ -57,6 +83,45 @@
       "type": "verse",
       "number": 9,
       "text": "Ah, the waters of Dimon are full of blood For I pour added [water] on Dimon; I drench it—for Moab’s refugees— With soil for its remnant."
+    },
+    {
+      "block_id": "jsb-isa-15-9-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “tears.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 15,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-isa-15-9-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 16.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 15,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-isa-15-9-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “tears”; cf. Ugaritic ʾdmʿt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 15,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     }
   ]
 }

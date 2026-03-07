@@ -1,7 +1,7 @@
 {
   "document_id": "jer-23",
   "title": "Jeremiah 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,10 +59,49 @@
       "text": "Concerning the prophets. My heart is crushed within me, All my bones are trembling; I have become like a drunken man, Like one overcome by wine— Because of the Lord and His holy word."
     },
     {
+      "block_id": "jsb-jer-23-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-jer-23-10",
       "type": "verse",
       "number": 10,
       "text": "For the land is full of adulterers, The land mourns because of a curse; The pastures of the wilderness are dried up. For they run to do evil, They strain to do wrong."
+    },
+    {
+      "block_id": "jsb-jer-23-10-commentary-2",
+      "type": "commentary",
+      "text": "A few Heb. mss. and Septuagint read “these.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-jer-23-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Their running is wickedness, / Their straining is iniquity.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-23-11",
@@ -113,10 +152,36 @@
       "text": "But he who has stood in the council of the Lord, And seen, and heard His word— He who has listened to His word must obey."
     },
     {
+      "block_id": "jsb-jer-23-18-commentary-4",
+      "type": "commentary",
+      "text": "Change of vocalization yields “announce it”; cf. vv. 22, 28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-23-19",
       "type": "verse",
       "number": 19,
       "text": "Lo, the storm of the Lord goes forth in fury, A whirling storm, It shall whirl down upon the heads of the wicked."
+    },
+    {
+      "block_id": "jsb-jer-23-19-commentary-5",
+      "type": "commentary",
+      "text": "This section constitutes the word of God to which Jeremiah refers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-23-20",
@@ -161,6 +226,19 @@
       "text": "How long will there be in the minds of the prophets who prophesy falsehood—the prophets of their own deceitful minds—"
     },
     {
+      "block_id": "jsb-jer-23-26-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-jer-23-27",
       "type": "verse",
       "number": 27,
@@ -191,6 +269,19 @@
       "text": "I am going to deal with the prophets—declares the Lord—who wag their tongues and make oracular utterances."
     },
     {
+      "block_id": "jsb-jer-23-31-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-jer-23-32",
       "type": "verse",
       "number": 32,
@@ -201,6 +292,32 @@
       "type": "verse",
       "number": 33,
       "text": "And when this people—or a prophet or a priest—asks you, “What is the burden of the Lord?” you shall answer them, “What is the burden? I will cast you off”— declares the Lord."
+    },
+    {
+      "block_id": "jsb-jer-23-33-commentary-8",
+      "type": "commentary",
+      "text": "I.e., pronouncement; cf. Isa. 13.1, 15.1, etc., where the word rendered “pronouncement” can also mean “burden.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "jsb-jer-23-33-commentary-9",
+      "type": "commentary",
+      "text": "Septuagint and other versions read “You are the burden!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-jer-23-34",
@@ -237,6 +354,19 @@
       "type": "verse",
       "number": 39,
       "text": "I will utterly forget you and I will cast you away from My presence, together with the city that I gave to you and your fathers."
+    },
+    {
+      "block_id": "jsb-jer-23-39-commentary-10",
+      "type": "commentary",
+      "text": "Some Heb. mss., Septuagint, and other versions read “lift you up,” a word from the same root as “burden.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
     },
     {
       "block_id": "jsb-jer-23-40",

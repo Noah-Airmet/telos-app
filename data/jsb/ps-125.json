@@ -1,7 +1,7 @@
 {
   "document_id": "ps-125",
   "title": "Psalms 125",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "The scepter of the wicked shall never rest upon the land allotted to the righteous, that the righteous not set their hand to wrongdoing."
+    },
+    {
+      "block_id": "jsb-ps-125-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-125-4",

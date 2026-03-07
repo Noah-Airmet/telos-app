@@ -1,7 +1,7 @@
 {
   "document_id": "lev-8",
   "title": "Leviticus 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -61,6 +61,19 @@
       "type": "verse",
       "number": 8,
       "text": "He put the breastpiece on him, and put into the breastpiece the Urim and Thummim."
+    },
+    {
+      "block_id": "jsb-lev-8-8-commentary-1",
+      "type": "commentary",
+      "text": "See note on Exod. 28.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-lev-8-9",
@@ -153,6 +166,19 @@
       "text": "and it was slaughtered. Moses took some of its blood and put it on the ridge of Aaron’s right ear, and on the thumb of his right hand, and on the big toe of his right foot."
     },
     {
+      "block_id": "jsb-lev-8-23-commentary-2",
+      "type": "commentary",
+      "text": "Or “lobe.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 8,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-lev-8-24",
       "type": "verse",
       "number": 24,
@@ -199,6 +225,19 @@
       "type": "verse",
       "number": 31,
       "text": "Moses said to Aaron and his sons: Boil the flesh at the entrance of the Tent of Meeting and eat it there with the bread that is in the basket of ordination—as I commanded: Aaron and his sons shall eat it;"
+    },
+    {
+      "block_id": "jsb-lev-8-31-commentary-3",
+      "type": "commentary",
+      "text": "Or, vocalizing ṣuwwethi, “I have been commanded”; cf. below, vv. 35 and 10.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 8,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-lev-8-32",

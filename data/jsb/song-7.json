@@ -1,7 +1,7 @@
 {
   "document_id": "song-7",
   "title": "Song of Songs 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Turn back, turn back, O maid of Shulem! Turn back, turn back, That we may gaze upon you. “Why will you gaze at the Shulammite In the Mahanaim dance?”"
+    },
+    {
+      "block_id": "jsb-song-7-1-commentary-1",
+      "type": "commentary",
+      "text": "With many manuscripts and editions; others read “like.” Meaning of entire line uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-song-7-2",
@@ -41,6 +54,32 @@
       "text": "The head upon you is like crimson wool, The locks of your head are like purple— A king is held captive in the tresses."
     },
     {
+      "block_id": "jsb-song-7-6-commentary-2",
+      "type": "commentary",
+      "text": "So Ibn Janah and Ibn Ezra, taking karmel as a by-form of karmil: cf. 2 Chron. 2.6, 13; 3.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-song-7-6-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-song-7-7",
       "type": "verse",
       "number": 7,
@@ -65,6 +104,19 @@
       "text": "And your mouth like choicest wine. “Let it flow to my beloved as new wine Gliding over the lips of sleepers.”"
     },
     {
+      "block_id": "jsb-song-7-10-commentary-4",
+      "type": "commentary",
+      "text": "See note at 1.4 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 7,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-song-7-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +127,19 @@
       "type": "verse",
       "number": 12,
       "text": "Come, my beloved, Let us go into the open; Let us lodge among the henna shrubs."
+    },
+    {
+      "block_id": "jsb-song-7-12-commentary-5",
+      "type": "commentary",
+      "text": "Or “in the villages.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-song-7-13",

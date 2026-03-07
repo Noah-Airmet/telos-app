@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-29",
   "title": "2 Chronicles 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "The wrath of the Lord was upon Judah and Jerusalem; He made them an object of horror, amazement, and hissing as you see with your own eyes."
+    },
+    {
+      "block_id": "jsb-2-chr-29-8-commentary-1",
+      "type": "commentary",
+      "text": "See note at Jer. 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 29,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-chr-29-9",

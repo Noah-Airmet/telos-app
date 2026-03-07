@@ -1,7 +1,7 @@
 {
   "document_id": "job-28",
   "title": "Job 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "They open up a shaft far from where men live, [In places] forgotten by wayfarers, Destitute of men, far removed."
+    },
+    {
+      "block_id": "jsb-job-28-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 28,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-job-28-5",

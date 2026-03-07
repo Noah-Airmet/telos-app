@@ -1,7 +1,7 @@
 {
   "document_id": "num-31",
   "title": "Numbers 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "Moses dispatched them on the campaign, a thousand from each tribe, with Phinehas son of Eleazar serving as a priest on the campaign, equipped with the sacred utensils and the trumpets for sounding the blasts."
+    },
+    {
+      "block_id": "jsb-num-31-6-commentary-1",
+      "type": "commentary",
+      "text": "Perhaps the Urim; cf. 27.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 31,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-num-31-7",
@@ -99,6 +112,19 @@
       "type": "verse",
       "number": 16,
       "text": "Yet they are the very ones who, at the bidding of Balaam, induced the Israelites to trespass against the Lord in the matter of Peor, so that the Lord’s community was struck by the plague."
+    },
+    {
+      "block_id": "jsb-num-31-16-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. hayu…limsor uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 31,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-num-31-17",
@@ -303,6 +329,19 @@
       "type": "verse",
       "number": 50,
       "text": "So we have brought as an offering to the Lord such articles of gold as each of us came upon: armlets, bracelets, signet rings, earrings, and pendants, that expiation may be made for our persons before the Lord.”"
+    },
+    {
+      "block_id": "jsb-num-31-50-commentary-3",
+      "type": "commentary",
+      "text": "See note at Exod. 35.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 31,
+        "verse": 50
+      },
+      "verse_start": 50,
+      "verse_end": 50
     },
     {
       "block_id": "jsb-num-31-51",

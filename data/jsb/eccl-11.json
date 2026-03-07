@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-11",
   "title": "Ecclesiastes 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "If the clouds are filled, they will pour down rain on the earth; and if a tree falls to the south or to the north, the tree will stay where it falls."
     },
     {
+      "block_id": "jsb-eccl-11-3-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields, “if a thunderbolt (lit. arrow, cf., e.g., 2 Sam. 22.15) falls…where the thunderbolt falls, only there will it strike.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-eccl-11-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "Just as you do not know how the lifebreath passes into the limbs within the womb of the pregnant woman, so you cannot foresee the actions of God, who causes all things to happen."
+    },
+    {
+      "block_id": "jsb-eccl-11-5-commentary-2",
+      "type": "commentary",
+      "text": "So many mss. and Targum; most mss. read “like.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 11,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-eccl-11-6",

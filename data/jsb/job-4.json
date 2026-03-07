@@ -1,7 +1,7 @@
 {
   "document_id": "job-4",
   "title": "Job 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "The lion may roar, the cub may howl, But the teeth of the king of beasts are broken."
     },
     {
+      "block_id": "jsb-job-4-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-job-4-11",
       "type": "verse",
       "number": 11,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "If He cannot trust His own servants, And casts reproach on His angels,"
+    },
+    {
+      "block_id": "jsb-job-4-18-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-job-4-19",

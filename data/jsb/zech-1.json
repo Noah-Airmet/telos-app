@@ -1,7 +1,7 @@
 {
   "document_id": "zech-1",
   "title": "Zechariah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the eighth month of the second year of Darius, this word of the Lord came to the prophet Zechariah son of Berechiah son of Iddo:"
+    },
+    {
+      "block_id": "jsb-zech-1-1-commentary-1",
+      "type": "commentary",
+      "text": "A clause like “Say to the people” is here understood; cf. 7.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-zech-1-2",
@@ -53,6 +66,45 @@
       "text": "In the night, I had a vision. I saw a man, mounted on a bay horse, standing among the myrtles in the Deep, and behind him were bay, sorrel, and white horses."
     },
     {
+      "block_id": "jsb-zech-1-8-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “between the mountains”; cf. 6.1. In 6.1 ff. four teams of horses leave the Lord’s abode to roam the four quarters of the earth; in 1.8 ff. they are about to reenter His abode after such a reconnaissance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-zech-1-8-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint adds “dappled”; cf. 6.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-zech-1-8-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “black”; cf. 6.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-zech-1-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +121,19 @@
       "type": "verse",
       "number": 11,
       "text": "And in fact, they reported to the angel of the Lord who was standing among the myrtles, “We have roamed the earth, and have found all the earth dwelling in tranquility.”"
+    },
+    {
+      "block_id": "jsb-zech-1-11-commentary-5",
+      "type": "commentary",
+      "text": "Upheavals at the start of Darius’ reign had encouraged hopes of an early restoration of the Davidic dynasty (cf. Hag. 2.21 ff.). Now these hopes were dashed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-zech-1-12",

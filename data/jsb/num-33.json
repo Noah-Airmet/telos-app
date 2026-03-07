@@ -1,7 +1,7 @@
 {
   "document_id": "num-33",
   "title": "Numbers 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "They set out from Rameses in the first month, on the fifteenth day of the first month. It was on the morrow of the passover offering that the Israelites started out defiantly, in plain view of all the Egyptians."
+    },
+    {
+      "block_id": "jsb-num-33-3-commentary-1",
+      "type": "commentary",
+      "text": "See note at Exod. 14.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 33,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-33-4",
@@ -53,6 +66,19 @@
       "text": "They set out from Pene-hahiroth and passed through the sea into the wilderness; and they made a three-days’ journey in the wilderness of Etham and encamped at Marah."
     },
     {
+      "block_id": "jsb-num-33-8-commentary-2",
+      "type": "commentary",
+      "text": "Many Hebrew manuscripts and ancient versions read “Pi.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 33,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-num-33-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "They set out from Elim and encamped by the Sea of Reeds."
+    },
+    {
+      "block_id": "jsb-num-33-10-commentary-3",
+      "type": "commentary",
+      "text": "See note at Exod. 10.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 33,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-num-33-11",
@@ -245,6 +284,19 @@
       "text": "And the Canaanite, king of Arad, who dwelt in the Negeb, in the land of Canaan, learned of the coming of the Israelites."
     },
     {
+      "block_id": "jsb-num-33-40-commentary-4",
+      "type": "commentary",
+      "text": "See 21.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 33,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
       "block_id": "jsb-num-33-41",
       "type": "verse",
       "number": 41,
@@ -315,6 +367,19 @@
       "type": "verse",
       "number": 52,
       "text": "you shall dispossess all the inhabitants of the land; you shall destroy all their figured objects; you shall destroy all their molten images, and you shall demolish all their cult places."
+    },
+    {
+      "block_id": "jsb-num-33-52-commentary-5",
+      "type": "commentary",
+      "text": "See note at Lev. 26.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 33,
+        "verse": 52
+      },
+      "verse_start": 52,
+      "verse_end": 52
     },
     {
       "block_id": "jsb-num-33-53",

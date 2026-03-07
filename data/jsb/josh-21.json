@@ -1,7 +1,7 @@
 {
   "document_id": "josh-21",
   "title": "Joshua 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -71,6 +71,19 @@
       "text": "To them were assigned in the hill country of Judah Kiriath-arba—that is, Hebron—together with the pastures around it. [Arba was] the father of the Anokites."
     },
     {
+      "block_id": "jsb-josh-21-11-commentary-1",
+      "type": "commentary",
+      "text": "Elsewhere Anakites; cf. Num. 13.22; Deut. 9.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 21,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-josh-21-12",
       "type": "verse",
       "number": 12,
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "As for the other clans of the Kohathites, the remaining Levites descended from Kohath, the towns in their lot were: From the tribe of Ephraim"
+    },
+    {
+      "block_id": "jsb-josh-21-20-commentary-2",
+      "type": "commentary",
+      "text": "Explicating v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 21,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-josh-21-21",
@@ -215,6 +241,19 @@
       "text": "Dimnah with its pastures, and Nahalal with its pastures—4 towns."
     },
     {
+      "block_id": "jsb-josh-21-35-commentary-3",
+      "type": "commentary",
+      "text": "Some mss. and editions add the following (cf. 1 Chron. 6.63–64): “And from the tribe of Reuben: Bezer with its pastures, Jahaz with its pastures, Kedemoth with its pastures, and Mephaath with its pastures—4 towns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 21,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
       "block_id": "jsb-josh-21-36",
       "type": "verse",
       "number": 36,
@@ -243,6 +282,19 @@
       "type": "verse",
       "number": 40,
       "text": "Thus those towns were assigned, every town with its surrounding pasture; and so it was with all those towns."
+    },
+    {
+      "block_id": "jsb-josh-21-40-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 21,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
     },
     {
       "block_id": "jsb-josh-21-41",

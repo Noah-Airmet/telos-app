@@ -1,7 +1,7 @@
 {
   "document_id": "deut-13",
   "title": "Deuteronomy 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "saying, “Let us follow and worship another god”—whom you have not experienced—even if the sign or portent that he named to you comes true,"
+    },
+    {
+      "block_id": "jsb-deut-13-3-commentary-1",
+      "type": "commentary",
+      "text": "See note on 11.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-deut-13-4",
@@ -45,6 +58,45 @@
       "type": "verse",
       "number": 7,
       "text": "If your brother, your own mother’s son, or your son or daughter, or the wife of your bosom, or your closest friend entices you in secret, saying, “Come let us worship other gods”—whom neither you nor your fathers have experienced—"
+    },
+    {
+      "block_id": "jsb-deut-13-7-commentary-2",
+      "type": "commentary",
+      "text": "Samaritan reads, “the son of your father or the son of your mother.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-deut-13-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “your friend who is as yourself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-deut-13-7-commentary-4",
+      "type": "commentary",
+      "text": "See note on 11.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-deut-13-8",

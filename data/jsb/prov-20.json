@@ -1,7 +1,7 @@
 {
   "document_id": "prov-20",
   "title": "Proverbs 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,6 +101,19 @@
       "text": "Seize his garment, for he stood surety for another; Take it as a pledge, [for he stood surety] for an unfamiliar woman."
     },
     {
+      "block_id": "jsb-prov-20-16-commentary-1",
+      "type": "commentary",
+      "text": "Or “a stranger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 20,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-prov-20-17",
       "type": "verse",
       "number": 17,
@@ -155,6 +168,19 @@
       "text": "It is a snare for a man to pledge a sacred gift rashly And to give thought to his vows only after they have been made."
     },
     {
+      "block_id": "jsb-prov-20-25-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 20,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-prov-20-26",
       "type": "verse",
       "number": 26,
@@ -183,6 +209,19 @@
       "type": "verse",
       "number": 30,
       "text": "Bruises and wounds are repayment for evil, Striking at ­one’s inmost parts."
+    },
+    {
+      "block_id": "jsb-prov-20-30-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 20,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     }
   ]
 }

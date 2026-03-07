@@ -1,7 +1,7 @@
 {
   "document_id": "job-15",
   "title": "Job 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "How your heart has carried you away, How your eyes have failed you,"
     },
     {
+      "block_id": "jsb-job-15-12-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 15,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-job-15-13",
       "type": "verse",
       "number": 13,
@@ -149,6 +162,19 @@
       "text": "Troubles terrify him, anxiety overpowers him, Like a king expecting a siege."
     },
     {
+      "block_id": "jsb-job-15-24-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 15,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-job-15-25",
       "type": "verse",
       "number": 25,
@@ -159,6 +185,19 @@
       "type": "verse",
       "number": 26,
       "text": "He runs at Him defiantly With his thickly bossed shield."
+    },
+    {
+      "block_id": "jsb-job-15-26-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “with neck.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 15,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-job-15-27",

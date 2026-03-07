@@ -1,7 +1,7 @@
 {
   "document_id": "job-27",
   "title": "Job 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "I persist in my righteousness and will not yield; I shall be free of reproach as long as I live."
+    },
+    {
+      "block_id": "jsb-job-27-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 27,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-job-27-7",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-30",
   "title": "1 Samuel 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "David said to the priest Abiathar son of Ahimelech, “Bring the ephod up to me.” When Abiathar brought up the ephod to David,"
+    },
+    {
+      "block_id": "jsb-1-sam-30-7-commentary-1",
+      "type": "commentary",
+      "text": "See note at 2.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-sam-30-8",
@@ -107,6 +120,19 @@
       "text": "David attacked them from before dawn until the evening of the next day; none of them escaped, except four hundred young men who mounted camels and got away."
     },
     {
+      "block_id": "jsb-1-sam-30-17-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-1-sam-30-18",
       "type": "verse",
       "number": 18,
@@ -125,6 +151,19 @@
       "text": "David took all the flocks and herds, which [the troops] drove ahead of the other livestock; and they declared, “This is David’s spoil.”"
     },
     {
+      "block_id": "jsb-1-sam-30-20-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-sam-30-21",
       "type": "verse",
       "number": 21,
@@ -137,10 +176,36 @@
       "text": "But all the mean and churlish fellows among the men who had accompanied David spoke up, “Since they did not accompany us, we will not give them any of the spoil that we seized—except that each may take his wife and children and go.”"
     },
     {
+      "block_id": "jsb-1-sam-30-22-commentary-4",
+      "type": "commentary",
+      "text": "So some mss. and versions; most mss. and editions read “me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-1-sam-30-23",
       "type": "verse",
       "number": 23,
       "text": "David, however, spoke up, “You must not do that, my brothers, in view of what the Lord has granted us, guarding us and delivering into our hands the band that attacked us."
+    },
+    {
+      "block_id": "jsb-1-sam-30-23-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “after.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-sam-30-24",
@@ -165,6 +230,19 @@
       "type": "verse",
       "number": 27,
       "text": "[He sent the spoil to the elders] in Bethel, Ramoth-negeb, and Jattir;"
+    },
+    {
+      "block_id": "jsb-1-sam-30-27-commentary-6",
+      "type": "commentary",
+      "text": "Called Bethul in Josh. 19.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 30,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-1-sam-30-28",

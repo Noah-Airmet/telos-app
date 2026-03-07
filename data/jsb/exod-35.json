@@ -1,7 +1,7 @@
 {
   "document_id": "exod-35",
   "title": "Exodus 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "blue, purple, and crimson yarns, fine linen, and goats’ hair;"
+    },
+    {
+      "block_id": "jsb-exod-35-6-commentary-1",
+      "type": "commentary",
+      "text": "See 25.4 ff. and the notes there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 35,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-exod-35-7",
@@ -137,6 +150,19 @@
       "text": "Men and women, all whose hearts moved them, all who would make an elevation offering of gold to the Lord, came bringing brooches, earrings, rings, and pendants—gold objects of all kinds."
     },
     {
+      "block_id": "jsb-exod-35-22-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. kumaz uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 35,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-exod-35-23",
       "type": "verse",
       "number": 23,
@@ -195,6 +221,19 @@
       "type": "verse",
       "number": 32,
       "text": "and has inspired him to make designs for work in gold, silver, and copper,"
+    },
+    {
+      "block_id": "jsb-exod-35-32-commentary-3",
+      "type": "commentary",
+      "text": "Moved up from v. 34 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 35,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-exod-35-33",

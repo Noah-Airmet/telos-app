@@ -1,7 +1,7 @@
 {
   "document_id": "isa-40",
   "title": "Isaiah 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "A voice rings out: “Proclaim!” Another asks, “What shall I proclaim?” “All flesh is grass, All its goodness like flowers of the field:"
     },
     {
+      "block_id": "jsb-isa-40-6-commentary-1",
+      "type": "commentary",
+      "text": "1QIsa and Septuagint read “And I asked.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-40-7",
       "type": "verse",
       "number": 7,
@@ -65,6 +78,19 @@
       "text": "Behold, the Lord god comes in might, And His arm wins triumph for Him; See, His reward is with Him, His recompense before Him."
     },
     {
+      "block_id": "jsb-isa-40-10-commentary-2",
+      "type": "commentary",
+      "text": "The reward and recompense to the cities of Judah; cf. Jer. 31.14, 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-40-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "Who measured the waters with the hollow of His hand, And gauged the skies with a span, And meted earth’s dust with a measure, And weighed the mountains with a scale And the hills with a balance?"
+    },
+    {
+      "block_id": "jsb-isa-40-12-commentary-3",
+      "type": "commentary",
+      "text": "Heb. shalish “third,” probably a third of an ephah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-40-13",
@@ -119,16 +158,55 @@
       "text": "The idol? A woodworker shaped it, And a smith overlaid it with gold, Forging links of silver."
     },
     {
+      "block_id": "jsb-isa-40-19-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-40-20",
       "type": "verse",
       "number": 20,
       "text": "As a gift, he chooses the mulberry— A wood that does not rot— Then seeks a skillful woodworker To make a firm idol, That will not topple."
     },
     {
+      "block_id": "jsb-isa-40-20-commentary-5",
+      "type": "commentary",
+      "text": "Heb. mesukkan; according to a Jewish tradition, preserved by Jerome, a kind of wood; a similar word denotes a kind of wood in Akkadian.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-40-21",
       "type": "verse",
       "number": 21,
       "text": "Do you not know? Have you not heard? Have you not been told From the very first? Have you not discerned How the earth was founded?"
+    },
+    {
+      "block_id": "jsb-isa-40-21-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-40-22",
@@ -189,6 +267,19 @@
       "type": "verse",
       "number": 31,
       "text": "But they who trust in the Lord shall renew their strength As eagles grow new plumes: They shall run and not grow weary, They shall march and not grow faint."
+    },
+    {
+      "block_id": "jsb-isa-40-31-commentary-7",
+      "type": "commentary",
+      "text": "Alluding to a popular belief that eagles regain their youth when they molt; cf. Ps. 103.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 40,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     }
   ]
 }

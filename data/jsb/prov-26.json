@@ -1,7 +1,7 @@
 {
   "document_id": "prov-26",
   "title": "Proverbs 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "As a sparrow must flit and a swallow fly, So a gratuitous curse must backfire."
+    },
+    {
+      "block_id": "jsb-prov-26-2-commentary-1",
+      "type": "commentary",
+      "text": "Kethib, “fail.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 26,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-prov-26-3",
@@ -41,6 +54,19 @@
       "text": "He who sends a message by a dullard Will wear out legs and must put up with lawlessness."
     },
     {
+      "block_id": "jsb-prov-26-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “drink.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 26,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-prov-26-7",
       "type": "verse",
       "number": 7,
@@ -63,6 +89,32 @@
       "type": "verse",
       "number": 10,
       "text": "A master can produce anything, But he who hires a dullard is as one who hires transients."
+    },
+    {
+      "block_id": "jsb-prov-26-10-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 26,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-prov-26-10-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 26,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-prov-26-11",

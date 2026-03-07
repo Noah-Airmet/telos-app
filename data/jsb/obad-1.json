@@ -1,7 +1,7 @@
 {
   "document_id": "obad-1",
   "title": "Obadiah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "How could you gaze with glee On your brother that day, On his day of calamity! How could you gloat Over the people of Judah On that day of ruin! How could you loudly jeer On a day of anguish!"
     },
     {
+      "block_id": "jsb-obad-1-12-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Do not,” and so through v. 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-obad-1-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +100,19 @@
       "type": "verse",
       "number": 14,
       "text": "How could you stand at the passes To cut down its fugitives! How could you betray those who fled On that day of anguish!"
+    },
+    {
+      "block_id": "jsb-obad-1-14-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-obad-1-15",
@@ -101,10 +127,49 @@
       "text": "That same cup that you drank on My Holy Mount Shall all nations drink evermore, Drink till their speech grows thick, And they become as though they had never been."
     },
     {
+      "block_id": "jsb-obad-1-16-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the Israelites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-obad-1-16-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “at My hand,” cf. Isa. 51.17; Jer. 25.15; Ps. 75.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-obad-1-17",
       "type": "verse",
       "number": 17,
       "text": "But on Zion’s mount a remnant shall survive, And it shall be holy. The House of Jacob shall dispossess Those who dispossessed them."
+    },
+    {
+      "block_id": "jsb-obad-1-17-commentary-5",
+      "type": "commentary",
+      "text": "I.e., inviolate; cf. Jer. 2.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-obad-1-18",
@@ -119,16 +184,94 @@
       "text": "Thus they shall possess the Negeb and Mount Esau as well, the Shephelah and Philistia. They shall possess the Ephraimite country and the district of Samaria, and Benjamin along with Gilead."
     },
     {
+      "block_id": "jsb-obad-1-19-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 19–21 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-obad-1-19-commentary-7",
+      "type": "commentary",
+      "text": "After the exile of the northern tribes, the city and district of Samaria were occupied mainly by non-Israelites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-obad-1-19-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “the land of the Ammonites.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-obad-1-20",
       "type": "verse",
       "number": 20,
       "text": "And that exiled force of Israelites [shall possess] what belongs to the Phoenicians as far as Zarephath, while the Jerusalemite exile community of Sepharad shall possess the towns of the Negeb."
     },
     {
+      "block_id": "jsb-obad-1-20-commentary-9",
+      "type": "commentary",
+      "text": "A town in southern Phoenicia; see 1 Kings 17.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-obad-1-20-commentary-10",
+      "type": "commentary",
+      "text": "Probably Asia Minor, called Saparda in Persian cuneiform inscriptions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-obad-1-21",
       "type": "verse",
       "number": 21,
-      "text": "For liberators shall march up on Mount Zion to wreak judgment on Mount Esau; and dominion shall be the Lord’s. 1: Introduction to the book. 1a: NJPS follows the Tg. and translates the title of the book as The prophecy of Obadiah. This translation is preferable to the usual, more etymological “The vision of Obadiah” (e.g., NRSV), because visual elements do not figure prominently in the book (the same holds true for Isa. 1.1). The title, however, should be not understood as meaning that the ensuing text contains only a report of God’s words to Obadiah. God is surely not the only speaker in the book. It is unusual to introduce a biblical character by one name only, without a patronymic or name of a father (contrast Isa. 1.1; Jer. 1.1; Hos. 1.1; etc.). The lack of a more precise reference to Obadiah allowed the readers of the book to wonder whether the Obadiah of this book was the same Obadiah who figures prominently in 1 Kings ch 18. 1b: Thus said my Lord God concerning Edom: The Heb is better translated, “Thus said the Lord God concerning Edom.” More importantly, the four lines of the translation that follow the title of the book (1a) are rearranged. The Heb text places “Thus said the Lord God concerning Edom” before We have received tidings from the Lord. Those who favor the rearrangement of the text adopted in NJPS maintain that it makes more contextual sense to have thus said … just before v. 2. But others claim that the presence of the expression at the beginning of the book points to an important theological claim, namely that the entire prophetic book—including words uttered by God but also by a human prophetic speaker—is to be considered the Lord’s word, and as such shares divine origin and authority. 2–4: First condemnation of Edom: its foolishness and self-deluding reliance on its own terrain. These vv. use well-known rhetorical techniques to characterize Edom as foolish while it claims to be wise. They represent Edom as one who inanely claims that the Lord is unable to reach it because of its mountainous territory, and at the same time considers scaling into the celestial realm. This type of characterization of the “enemy” is common in the ancient Near East. Edom was associated with wisdom in the Bible (v. 8; Jer. 49.7). 3: Rock (Heb “selaʿ”) is a pun on the name “Sela,” one of the important cities of Edom (perhaps near the ancient city of Petra). 5–7: Second condemnation of Edom: its foolishness and self-deluding reliance on human allies. Edom is presented as one who inanely trusts unreliable allies, who will turn against it and utterly destroy it. The section leads up to the obvious conclusion: He [Edom] is bereft of understanding. This type of characterization of the “enemy” is also common in the ancient Near East. 5: Vintagers (Heb “botzrim”) evokes the name of another main Edomite city, “Botzrah” (Bozrah). 7: Another possible, and perhaps more likely, understanding of the first part of the v. is: “All your allies have deceived you, / they have driven you to the border” (NRSV). In any case, it is clear that the trusted allies of Edom contributed to its downfall. Eating bread together was a sign of close relationship. 8–15: Judgment over Edom: the two days of destruction. Edom and the nations (other than Israel). The last passage in the set focuses on the actions of Edom against his brother on that day of Jerusalem’s destruction and directly relates it to the future day of Edom’s destruction (notice the repetition of “on that day”). The motto of this section is to a large extent as you did, so shall it be done to you (v. 15, and contrast with Prov. 24.29). But as the unit concludes, the object of the divine wrath shifts from Edom to all nations (that is, nations other than Israel), suggesting to the readers that Edom also symbolizes all the nations. Edom’s actions, behavior, and future judgment are not an aberration, but rather paradigmatic for those of the nations. 8: In that day, Heb “on that day,” just as all other “on … day” in this unit. 9: Teman, a grandson of Esau (Edom, Gen. 36.11), here, as often in prophetic literature, a synonym for Edom (e.g., Jer. 49.7, 20; Ezek. 25.13). The name itself means “South”; Edom was south of Judah. 10: Your brother Jacob, i.e., Israel. Jacob and Esau were brothers (Gen. 25.20–34). 15b–18: On salvation for postmonarchic Israel/Zion and judgment over Edom/the nations. 15b: This line is shared by the previous unit and this one. (Sharing expressions or lines between two neighboring units within a literary text is not uncommon in prophetic literature.) The feature brings here the two units together; this makes the book more cohesive, and contributes to the flow of the reading. 16–17: The text creates both a temporal differentiation between Israel that already drank the cup (see Jer. 25.15–29), and the nations that shall drink it, and a spatial one between holy Mt. Zion and the rest of the world. 17: The Heb clearly states that it is Zion’s mount that shall be holy, not the remnant. 18: And no survivor shall be left of the House of Esau: This claim has later been understood as pointing to the world to come and to the place of “those whose evil deeds are like to those of Esau” rather than specifically to Romans (or non-Jews in general). See b. A. Z. 10b. 19–21: The concluding note of the book: a particular image of, and a divine promise for, the ideal future. As the translators’ note b in NJPS suggests, the text is somewhat difficult. V. 19 is probably better understood as follows: “Those of the Negev (South) will and should inherit/possess [the whole of] Mt. Esau (the mountain of Esau); those of the Shephelah (the coastal plain) will and should inherit/possess the [whole of (the land of) the] Philistines; they (i.e., those of the Shephelah) will and should inherit/possess [all of] the land/highland of Ephraim and [all of] the land/highland of Samaria; and the Benjaminites, [all of the Gilead]”; cf. the Tg. Alternative readings and understandings of v. 20 have been advanced. Among them, “The exiles (exilic community) of this territory who are (consist of) the Israelites who are among the Canaanites (i.e., Phoenicians) will and should inherit/possess [what belongs to the Canaanites/Phoenicians] as far as Zarephath, while the Jerusalemite exiles (exilic community) who are in Sepharad will and should inherit/possess the towns of the Negev/South.” Although all agree that the text communicates that Israel will repossess the land, the question at stake is which social and geographical structure is envisioned for that Israel. Sepharad was identified in the Tg. as Spain. (It is more likely to be Sardis, a main city in Asia Minor.) The equation Sepharad = Spain, however, became a cornerstone in Jewish self-identification for centuries. The Jews of Spain and their descendants are called, and call themselves, Sepharadim (or Sefaradim). Some scholars prefer to translate “saviors” instead of liberators and “to judge” rather than to wreak judgment on Mount Esau. The conclusion of the book originally evoked the language associated with the time of the Judges, who are sometimes called deliverers or liberators (see, e.g., Judg. 3.9). In later Jewish tradition, some understood the text as pointing to a messianic time. Such an understanding raises questions about the identity of the mentioned saviors (see Radak on Mic. 5.4; Ibn Ezra; Abravanel). The final sentence may be translated as “the kingdom will be the Lord’s” or even better, “the kingship (i.e., the office of the king) will be the Lord’s.” In other words, at that time the Lord will be manifest (in Israel and in the entire world) as the king. In this case, Obadiah, like Deutero-Isaiah, is imagining an ideal future in which a Davidic messiah plays no role. Lit. “Do not,” and so through v. 14. Meaning of Heb. uncertain. I.e., the Israelites. Emendation yields “at My hand,” cf. Isa. 51.17; Jer. 25.15; Ps. 75.9. I.e., inviolate; cf. Jer. 2.3. Meaning of parts of vv. 19–21 uncertain. After the exile of the northern tribes, the city and district of Samaria were occupied mainly by non-Israelites. Emendation yields “the land of the Ammonites.” A town in southern Phoenicia; see 1 Kings 17.9. Probably Asia Minor, called Saparda in Persian cuneiform inscriptions. Several ancient versions read, “they [the exiles from Jerusalem named in the preceding verse] shall march up victorious.”"
+      "text": "For liberators shall march up on Mount Zion to wreak judgment on Mount Esau; and dominion shall be the Lord’s. 1: Introduction to the book. 1a: NJPS follows the Tg. and translates the title of the book as The prophecy of Obadiah. This translation is preferable to the usual, more etymological “The vision of Obadiah” (e.g., NRSV), because visual elements do not figure prominently in the book (the same holds true for Isa. 1.1). The title, however, should be not understood as meaning that the ensuing text contains only a report of God’s words to Obadiah. God is surely not the only speaker in the book. It is unusual to introduce a biblical character by one name only, without a patronymic or name of a father (contrast Isa. 1.1; Jer. 1.1; Hos. 1.1; etc.). The lack of a more precise reference to Obadiah allowed the readers of the book to wonder whether the Obadiah of this book was the same Obadiah who figures prominently in 1 Kings ch 18. 1b: Thus said my Lord God concerning Edom: The Heb is better translated, “Thus said the Lord God concerning Edom.” More importantly, the four lines of the translation that follow the title of the book (1a) are rearranged. The Heb text places “Thus said the Lord God concerning Edom” before We have received tidings from the Lord. Those who favor the rearrangement of the text adopted in NJPS maintain that it makes more contextual sense to have thus said … just before v. 2. But others claim that the presence of the expression at the beginning of the book points to an important theological claim, namely that the entire prophetic book—including words uttered by God but also by a human prophetic speaker—is to be considered the Lord’s word, and as such shares divine origin and authority. 2–4: First condemnation of Edom: its foolishness and self-deluding reliance on its own terrain. These vv. use well-known rhetorical techniques to characterize Edom as foolish while it claims to be wise. They represent Edom as one who inanely claims that the Lord is unable to reach it because of its mountainous territory, and at the same time considers scaling into the celestial realm. This type of characterization of the “enemy” is common in the ancient Near East. Edom was associated with wisdom in the Bible (v. 8; Jer. 49.7). 3: Rock (Heb “selaʿ”) is a pun on the name “Sela,” one of the important cities of Edom (perhaps near the ancient city of Petra). 5–7: Second condemnation of Edom: its foolishness and self-deluding reliance on human allies. Edom is presented as one who inanely trusts unreliable allies, who will turn against it and utterly destroy it. The section leads up to the obvious conclusion: He [Edom] is bereft of understanding. This type of characterization of the “enemy” is also common in the ancient Near East. 5: Vintagers (Heb “botzrim”) evokes the name of another main Edomite city, “Botzrah” (Bozrah). 7: Another possible, and perhaps more likely, understanding of the first part of the v. is: “All your allies have deceived you, / they have driven you to the border” (NRSV). In any case, it is clear that the trusted allies of Edom contributed to its downfall. Eating bread together was a sign of close relationship. 8–15: Judgment over Edom: the two days of destruction. Edom and the nations (other than Israel). The last passage in the set focuses on the actions of Edom against his brother on that day of Jerusalem’s destruction and directly relates it to the future day of Edom’s destruction (notice the repetition of “on that day”). The motto of this section is to a large extent as you did, so shall it be done to you (v. 15, and contrast with Prov. 24.29). But as the unit concludes, the object of the divine wrath shifts from Edom to all nations (that is, nations other than Israel), suggesting to the readers that Edom also symbolizes all the nations. Edom’s actions, behavior, and future judgment are not an aberration, but rather paradigmatic for those of the nations. 8: In that day, Heb “on that day,” just as all other “on … day” in this unit. 9: Teman, a grandson of Esau (Edom, Gen. 36.11), here, as often in prophetic literature, a synonym for Edom (e.g., Jer. 49.7, 20; Ezek. 25.13). The name itself means “South”; Edom was south of Judah. 10: Your brother Jacob, i.e., Israel. Jacob and Esau were brothers (Gen. 25.20–34). 15b–18: On salvation for postmonarchic Israel/Zion and judgment over Edom/the nations. 15b: This line is shared by the previous unit and this one. (Sharing expressions or lines between two neighboring units within a literary text is not uncommon in prophetic literature.) The feature brings here the two units together; this makes the book more cohesive, and contributes to the flow of the reading. 16–17: The text creates both a temporal differentiation between Israel that already drank the cup (see Jer. 25.15–29), and the nations that shall drink it, and a spatial one between holy Mt. Zion and the rest of the world. 17: The Heb clearly states that it is Zion’s mount that shall be holy, not the remnant. 18: And no survivor shall be left of the House of Esau: This claim has later been understood as pointing to the world to come and to the place of “those whose evil deeds are like to those of Esau” rather than specifically to Romans (or non-Jews in general). See b. A. Z. 10b. 19–21: The concluding note of the book: a particular image of, and a divine promise for, the ideal future. As the translators’ note b in NJPS suggests, the text is somewhat difficult. V. 19 is probably better understood as follows: “Those of the Negev (South) will and should inherit/possess [the whole of] Mt. Esau (the mountain of Esau); those of the Shephelah (the coastal plain) will and should inherit/possess the [whole of (the land of) the] Philistines; they (i.e., those of the Shephelah) will and should inherit/possess [all of] the land/highland of Ephraim and [all of] the land/highland of Samaria; and the Benjaminites, [all of the Gilead]”; cf. the Tg. Alternative readings and understandings of v. 20 have been advanced. Among them, “The exiles (exilic community) of this territory who are (consist of) the Israelites who are among the Canaanites (i.e., Phoenicians) will and should inherit/possess [what belongs to the Canaanites/Phoenicians] as far as Zarephath, while the Jerusalemite exiles (exilic community) who are in Sepharad will and should inherit/possess the towns of the Negev/South.” Although all agree that the text communicates that Israel will repossess the land, the question at stake is which social and geographical structure is envisioned for that Israel. Sepharad was identified in the Tg. as Spain. (It is more likely to be Sardis, a main city in Asia Minor.) The equation Sepharad = Spain, however, became a cornerstone in Jewish self-identification for centuries. The Jews of Spain and their descendants are called, and call themselves, Sepharadim (or Sefaradim). Some scholars prefer to translate “saviors” instead of liberators and “to judge” rather than to wreak judgment on Mount Esau. The conclusion of the book originally evoked the language associated with the time of the Judges, who are sometimes called deliverers or liberators (see, e.g., Judg. 3.9). In later Jewish tradition, some understood the text as pointing to a messianic time. Such an understanding raises questions about the identity of the mentioned saviors (see Radak on Mic. 5.4; Ibn Ezra; Abravanel). The final sentence may be translated as “the kingdom will be the Lord’s” or even better, “the kingship (i.e., the office of the king) will be the Lord’s.” In other words, at that time the Lord will be manifest (in Israel and in the entire world) as the king. In this case, Obadiah, like Deutero-Isaiah, is imagining an ideal future in which a Davidic messiah plays no role."
+    },
+    {
+      "block_id": "jsb-obad-1-21-commentary-11",
+      "type": "commentary",
+      "text": "Several ancient versions read, “they [the exiles from Jerusalem named in the preceding verse] shall march up victorious.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     }
   ]
 }

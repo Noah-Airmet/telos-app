@@ -1,7 +1,7 @@
 {
   "document_id": "ps-21",
   "title": "Psalms 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "You set them ablaze like a furnace when You show Your presence. The Lord in anger destroys them; fire consumes them."
     },
     {
+      "block_id": "jsb-ps-21-10-commentary-1",
+      "type": "commentary",
+      "text": "Or “at the time of Your anger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 21,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ps-21-11",
       "type": "verse",
       "number": 11,
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "For You make them turn back by Your bows aimed at their face."
+    },
+    {
+      "block_id": "jsb-ps-21-13-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 21,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-ps-21-14",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-16",
   "title": "1 Samuel 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "But the Lord said to Samuel, “Pay no attention to his appearance or his stature, for I have rejected him. For not as man sees [does the Lord see]; man sees only what is visible, but the Lord sees into the heart.”"
     },
     {
+      "block_id": "jsb-1-sam-16-7-commentary-1",
+      "type": "commentary",
+      "text": "These words are preserved in the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-1-sam-16-8",
       "type": "verse",
       "number": 8,
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "Then Samuel asked Jesse, “Are these all the boys you have?” He replied, “There is still the youngest; he is tending the flock.” And Samuel said to Jesse, “Send someone to bring him, for we will not sit down to eat until he gets here.”"
+    },
+    {
+      "block_id": "jsb-1-sam-16-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 16,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-sam-16-12",
@@ -101,6 +127,19 @@
       "text": "Let our lord give the order [and] the courtiers in attendance on you will look for someone who is skilled at playing the lyre; whenever the evil spirit of God comes over you, he will play it and you will feel better.”"
     },
     {
+      "block_id": "jsb-1-sam-16-16-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 16,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-sam-16-17",
       "type": "verse",
       "number": 17,
@@ -123,6 +162,19 @@
       "type": "verse",
       "number": 20,
       "text": "Jesse took an ass [laden with] bread, a skin of wine, and a kid, and sent them to Saul by his son David."
+    },
+    {
+      "block_id": "jsb-1-sam-16-20-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 16,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-1-sam-16-21",

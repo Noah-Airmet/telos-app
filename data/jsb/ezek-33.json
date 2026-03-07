@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-33",
   "title": "Ezekiel 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "Now, O mortal, say to your fellow countrymen: The righteousness of the righteous shall not save him when he transgresses, nor shall the wickedness of the wicked cause him to stumble when he turns back from his wickedness. The righteous shall not survive through his righteousness when he sins."
     },
     {
+      "block_id": "jsb-ezek-33-12-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ezek-33-13",
       "type": "verse",
       "number": 13,
@@ -95,6 +108,19 @@
       "text": "if the wicked man restores a pledge, makes good what he has taken by robbery, follows the laws of life, and does not commit iniquity—he shall live, he shall not die."
     },
     {
+      "block_id": "jsb-ezek-33-15-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Lev. 18.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ezek-33-16",
       "type": "verse",
       "number": 16,
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "When a righteous man turns away from his righteous deeds and commits iniquity, he shall die for it."
+    },
+    {
+      "block_id": "jsb-ezek-33-18-commentary-3",
+      "type": "commentary",
+      "text": "Or “in spite of them,” i.e., his righteous deeds.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ezek-33-19",
@@ -191,6 +230,32 @@
       "text": "They will come to you in crowds and sit before you in throngs and will hear your words, but they will not obey them. For they produce nothing but lust with their mouths; and their hearts pursue nothing but gain."
     },
     {
+      "block_id": "jsb-ezek-33-31-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Lit. “as a people come, and sit before you as My people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "jsb-ezek-33-31-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-ezek-33-32",
       "type": "verse",
       "number": 32,
@@ -201,6 +266,19 @@
       "type": "verse",
       "number": 33,
       "text": "But when it comes—and come it will—they shall know that a prophet has been among them."
+    },
+    {
+      "block_id": "jsb-ezek-33-33-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the punishment predicted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 33,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     }
   ]
 }

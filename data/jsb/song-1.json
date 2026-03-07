@@ -1,7 +1,7 @@
 {
   "document_id": "song-1",
   "title": "Song of Songs 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "The Song of Songs, by Solomon."
     },
     {
+      "block_id": "jsb-song-1-1-commentary-1",
+      "type": "commentary",
+      "text": "Or “concerning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-song-1-2",
       "type": "verse",
       "number": 2,
       "text": "Oh, give me of the kisses of your mouth, For your love is more delightful than wine."
+    },
+    {
+      "block_id": "jsb-song-1-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “Let him give me of the kisses of his mouth!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-song-1-3",
@@ -23,10 +49,49 @@
       "text": "Your ointments yield a sweet fragrance, Your name is like finest oil— Therefore do maidens love you."
     },
     {
+      "block_id": "jsb-song-1-3-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-song-1-4",
       "type": "verse",
       "number": 4,
       "text": "Draw me after you, let us run! The king has brought me to his chambers. Let us delight and rejoice in your love, Savoring it more than wine— Like new wine they love you!"
+    },
+    {
+      "block_id": "jsb-song-1-4-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “Bring me, O king, to your chambers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-song-1-4-commentary-5",
+      "type": "commentary",
+      "text": "Understanding mesharim as related to tirosh; cf. Aramaic merath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-song-1-5",
@@ -47,10 +112,36 @@
       "text": "Tell me, you whom I love so well; Where do you pasture your sheep? Where do you rest them at noon? Let me not be as one who strays Beside the flocks of your fellows."
     },
     {
+      "block_id": "jsb-song-1-7-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-song-1-8",
       "type": "verse",
       "number": 8,
       "text": "If you do not know, O fairest of women, Go follow the tracks of the sheep, And graze your kids By the tents of the shepherds."
+    },
+    {
+      "block_id": "jsb-song-1-8-commentary-7",
+      "type": "commentary",
+      "text": "As a pretext for coming.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-song-1-9",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-48",
   "title": "Genesis 48",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "But progeny born to you after them shall be yours; they shall be recorded instead of their brothers in their inheritance."
+    },
+    {
+      "block_id": "jsb-gen-48-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “under the name.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 48,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-gen-48-7",
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "And now, I assign to you one portion more than to your brothers, which I wrested from the Amorites with my sword and bow.”"
+    },
+    {
+      "block_id": "jsb-gen-48-22-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. shekhem uncertain; others “mountain slope.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 48,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "lev-18",
   "title": "Leviticus 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "text": "Your father’s nakedness, that is, the nakedness of your mother, you shall not uncover; she is your mother—you shall not uncover her nakedness."
     },
     {
+      "block_id": "jsb-lev-18-7-commentary-1",
+      "type": "commentary",
+      "text": "A man and his wife are one flesh (Gen. 2.24), even if he should die or divorce her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 18,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-lev-18-8",
       "type": "verse",
       "number": 8,
@@ -73,6 +86,19 @@
       "type": "verse",
       "number": 10,
       "text": "The nakedness of your son’s daughter, or of your daughter’s daughter—do not uncover their nakedness; for their nakedness is yours."
+    },
+    {
+      "block_id": "jsb-lev-18-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 18,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-lev-18-11",
@@ -109,6 +135,19 @@
       "type": "verse",
       "number": 16,
       "text": "Do not uncover the nakedness of your brother’s wife; it is the nakedness of your brother."
+    },
+    {
+      "block_id": "jsb-lev-18-16-commentary-3",
+      "type": "commentary",
+      "text": "A man and his wife are one flesh (Gen. 2.24), even if he should die or divorce her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 18,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-lev-18-17",

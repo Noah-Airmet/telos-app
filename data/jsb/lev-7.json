@@ -1,7 +1,7 @@
 {
   "document_id": "lev-7",
   "title": "Leviticus 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "Out of this he shall offer one of each kind as a gift to the Lord; it shall go to the priest who dashes the blood of the offering of well-being."
     },
     {
+      "block_id": "jsb-lev-7-14-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “offering.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-lev-7-15",
       "type": "verse",
       "number": 15,
@@ -131,6 +144,19 @@
       "text": "When a person touches anything unclean, be it human uncleanness or an unclean animal or any unclean creature, and eats flesh from the Lord’s sacrifices of well-being, that person shall be cut off from his kin."
     },
     {
+      "block_id": "jsb-lev-7-21-commentary-2",
+      "type": "commentary",
+      "text": "Heb. sheqeṣ, lit. “abomination”; several mss. and ancient versions read shereṣ “swarming things.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 7,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-lev-7-22",
       "type": "verse",
       "number": 22,
@@ -141,6 +167,19 @@
       "type": "verse",
       "number": 23,
       "text": "Speak to the Israelite people thus: You shall eat no fat of ox or sheep or goat."
+    },
+    {
+      "block_id": "jsb-lev-7-23-commentary-3",
+      "type": "commentary",
+      "text": "I.e., hard, coarse fat (suet); cf. 3.3–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-lev-7-24",
@@ -213,6 +252,32 @@
       "type": "verse",
       "number": 35,
       "text": "Those shall be the perquisites of Aaron and the perquisites of his sons from the Lord’s offerings by fire, once they have been inducted to serve the Lord as priests;"
+    },
+    {
+      "block_id": "jsb-lev-7-35-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “anointment,” i.e., accruing from anointment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 7,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "jsb-lev-7-35-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “brought forward.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 7,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-lev-7-36",

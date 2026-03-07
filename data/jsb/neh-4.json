@@ -1,7 +1,7 @@
 {
   "document_id": "neh-4",
   "title": "Nehemiah 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Because of them we prayed to our God, and set up a watch over them day and night."
     },
     {
+      "block_id": "jsb-neh-4-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the workers on the walls.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-neh-4-4",
       "type": "verse",
       "number": 4,
@@ -39,6 +52,45 @@
       "type": "verse",
       "number": 6,
       "text": "When the Jews living near them would arrive, they would tell us time and again “…from all the places where…you shall come back to us…”"
+    },
+    {
+      "block_id": "jsb-neh-4-6-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the foes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-neh-4-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “ten times.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-neh-4-6-commentary-4",
+      "type": "commentary",
+      "text": "Heb. seems to be abbreviated; a possible restoration of the sentence, with the missing elements enclosed in brackets, is: [of their evil plan; and we would say to them,] “From all the places where [you get such information] you shall come back to us [and convey it].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-neh-4-7",
@@ -105,6 +157,19 @@
       "type": "verse",
       "number": 17,
       "text": "Nor did I, my brothers, my servants, or the guards following me ever take off our clothes, [or] each his weapon, even at the water."
+    },
+    {
+      "block_id": "jsb-neh-4-17-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 4,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     }
   ]
 }

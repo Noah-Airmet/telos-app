@@ -1,7 +1,7 @@
 {
   "document_id": "prov-16",
   "title": "Proverbs 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "Every haughty person is an abomination to the Lord; Assuredly, he will not go unpunished."
+    },
+    {
+      "block_id": "jsb-prov-16-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Hand to hand”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 16,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-prov-16-6",
@@ -161,10 +174,49 @@
       "text": "The appetite of a laborer labors for him, Because his hunger forces him on."
     },
     {
+      "block_id": "jsb-prov-16-26-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 16,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-prov-16-26-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 16,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-prov-16-27",
       "type": "verse",
       "number": 27,
       "text": "A scoundrel plots evil; What is on his lips is like a scorching fire."
+    },
+    {
+      "block_id": "jsb-prov-16-27-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 16,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-prov-16-28",

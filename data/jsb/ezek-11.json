@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-11",
   "title": "Ezekiel 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "who say: ‘There is no need now to build houses; this [city] is the pot, and we are the meat.’"
+    },
+    {
+      "block_id": "jsb-ezek-11-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the exiles will not return.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-11-4",
@@ -95,6 +108,19 @@
       "text": "“O mortal, [I will save] your brothers, your brothers, the men of your kindred, all of that very House of Israel to whom the inhabitants of Jerusalem say, ‘Keep far from the Lord; the land has been given as a heritage to us.’"
     },
     {
+      "block_id": "jsb-ezek-11-15-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the exiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 11,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ezek-11-16",
       "type": "verse",
       "number": 16,
@@ -117,6 +143,19 @@
       "type": "verse",
       "number": 19,
       "text": "I will give them one heart and put a new spirit in them; I will remove the heart of stone from their bodies and give them a heart of flesh,"
+    },
+    {
+      "block_id": "jsb-ezek-11-19-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 11,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ezek-11-20",

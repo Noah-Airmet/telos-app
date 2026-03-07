@@ -1,7 +1,7 @@
 {
   "document_id": "gen-17",
   "title": "Genesis 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -19,6 +19,19 @@
       "type": "verse",
       "number": 1,
       "text": "When Abram was ninety-nine years old, the Lord appeared to Abram and said to him, “I am El Shaddai. Walk in My ways and be blameless."
+    },
+    {
+      "block_id": "jsb-gen-17-1-commentary-1",
+      "type": "commentary",
+      "text": "Traditionally rendered “God Almighty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 17,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-gen-17-2",
@@ -43,6 +56,19 @@
       "type": "verse",
       "number": 5,
       "text": "And you shall no longer be called Abram, but your name shall be Abraham, for I make you the father of a multitude of nations."
+    },
+    {
+      "block_id": "jsb-gen-17-5-commentary-2",
+      "type": "commentary",
+      "text": "Understood as “father of a multitude.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 17,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-gen-17-6",
@@ -105,6 +131,19 @@
       "text": "And God said to Abraham, “As for your wife Sarai, you shall not call her Sarai, but her name shall be Sarah."
     },
     {
+      "block_id": "jsb-gen-17-15-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “princess.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 17,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-gen-17-16",
       "type": "verse",
       "number": 16,
@@ -129,10 +168,36 @@
       "text": "God said, “Nevertheless, Sarah your wife shall bear you a son, and you shall name him Isaac; and I will maintain My covenant with him as an everlasting covenant for his offspring to come."
     },
     {
+      "block_id": "jsb-gen-17-19-commentary-4",
+      "type": "commentary",
+      "text": "Heb. Yiṣḥaq, from ṣaḥaq, “laugh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 17,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-gen-17-20",
       "type": "verse",
       "number": 20,
       "text": "As for Ishmael, I have heeded you. I hereby bless him. I will make him fertile and exceedingly numerous. He shall be the father of twelve chieftains, and I will make of him a great nation."
+    },
+    {
+      "block_id": "jsb-gen-17-20-commentary-5",
+      "type": "commentary",
+      "text": "Heb. shemaʿtikha, play on “Ishmael.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 17,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-gen-17-21",

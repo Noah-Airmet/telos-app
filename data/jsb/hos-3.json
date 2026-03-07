@@ -1,7 +1,7 @@
 {
   "document_id": "hos-3",
   "title": "Hosea 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "The Lord said to me further, “Go, befriend a woman who, while befriended by a companion, consorts with others, just as the Lord befriends the Israelites, but they turn to other gods and love the cups of the grape.”"
     },
     {
+      "block_id": "jsb-hos-3-1-commentary-1",
+      "type": "commentary",
+      "text": "For “befriend,” see Deut. 10.19. For God’s befriending Israel, see Hos. 2.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-hos-3-1-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “‘to other gods.’ And so I befriended a woman of lust.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-hos-3-2",
       "type": "verse",
       "number": 2,
       "text": "Then I hired her for fifteen [shekels of] silver, a ḥomer of barley, and a lethech of barley;"
+    },
+    {
+      "block_id": "jsb-hos-3-2-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “a jar of wine.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-hos-3-3",
@@ -23,10 +62,36 @@
       "text": "and I stipulated with her, “In return, you are to go a long time without either fornicating or marrying; even I [shall not cohabit] with you.”"
     },
     {
+      "block_id": "jsb-hos-3-3-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “for me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-hos-3-4",
       "type": "verse",
       "number": 4,
       "text": "For the Israelites shall go a long time without king and without officials, without sacrifice and without cult pillars, and without ephod and teraphim."
+    },
+    {
+      "block_id": "jsb-hos-3-4-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “altar.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-hos-3-5",

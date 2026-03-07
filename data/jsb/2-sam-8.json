@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-8",
   "title": "2 Samuel 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "Some time afterward, David attacked the Philistines and subdued them; and David took Metheg-ammah from the Philistines."
     },
     {
+      "block_id": "jsb-2-sam-8-1-commentary-1",
+      "type": "commentary",
+      "text": "This chapter is reproduced, with some variations, in 1 Chron. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-2-sam-8-1-commentary-2",
+      "type": "commentary",
+      "text": "If not a place name, meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-2-sam-8-2",
       "type": "verse",
       "number": 2,
       "text": "He also defeated the Moabites. He made them lie down on the ground and he measured them off with a cord; he measured out two lengths of cord for those who were to be put to death, and one length for those to be spared. And the Moabites became tributary vassals of David."
     },
     {
+      "block_id": "jsb-2-sam-8-2-commentary-3",
+      "type": "commentary",
+      "text": "I.e., he repeatedly doomed twice the number he spared.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-2-sam-8-3",
       "type": "verse",
       "number": 3,
       "text": "David defeated Hadadezer son of Rehob, king of Zobah, who was then on his way to restore his monument at the Euphrates River."
+    },
+    {
+      "block_id": "jsb-2-sam-8-3-commentary-4",
+      "type": "commentary",
+      "text": "On yad in this sense, cf. 18.18; 1 Chron. 18.3; 1 Sam. 15.12. Others “dominion.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-8-4",
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 7,
       "text": "David took the gold shields carried by Hadadezer’s retinue and brought them to Jerusalem;"
+    },
+    {
+      "block_id": "jsb-2-sam-8-7-commentary-5",
+      "type": "commentary",
+      "text": "Or “quivers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-2-sam-8-8",
@@ -77,16 +142,55 @@
       "text": "from Edom, Moab, and Ammon; from the Philistines and the Amalekites, and from the plunder of Hadadezer son of Rehob, king of Zobah."
     },
     {
+      "block_id": "jsb-2-sam-8-12-commentary-6",
+      "type": "commentary",
+      "text": "So several mss., Septuagint, and 1 Chron. 18.11–13; and cf. v. 14 below. Printed editions and most mss. read “Aram.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-sam-8-13",
       "type": "verse",
       "number": 13,
       "text": "David gained fame when he returned from defeating Edom in the Valley of Salt, 18,000 in all."
     },
     {
+      "block_id": "jsb-2-sam-8-13-commentary-7",
+      "type": "commentary",
+      "text": "1 Chron. 18.12 and Ps. 60.1 read differently.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-sam-8-14",
       "type": "verse",
       "number": 14,
       "text": "He stationed garrisons in Edom—he stationed garrisons in all of Edom—and all the Edomites became vassals of David. The Lord gave David victory wherever he went."
+    },
+    {
+      "block_id": "jsb-2-sam-8-14-commentary-8",
+      "type": "commentary",
+      "text": "This phrase is lacking in 1 Chron. 18.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-sam-8-15",
@@ -107,10 +211,49 @@
       "text": "Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe;"
     },
     {
+      "block_id": "jsb-2-sam-8-17-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “Abiathar son of Ahimelech,” cf., e.g., 20.25; 1 Sam. 22.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-2-sam-8-17-commentary-10",
+      "type": "commentary",
+      "text": "“Sheva” in 20.25; “Shavsha” in 1 Chron. 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-2-sam-8-18",
       "type": "verse",
       "number": 18,
       "text": "Benaiah son of Jehoiada was commander of the Cherethites and the Pelethites; and David’s sons were priests."
+    },
+    {
+      "block_id": "jsb-2-sam-8-18-commentary-11",
+      "type": "commentary",
+      "text": "So Targum (cf. 20.23; 1 Chron. 18.17); Heb. “and.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 8,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     }
   ]
 }

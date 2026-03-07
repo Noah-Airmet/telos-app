@@ -1,7 +1,7 @@
 {
   "document_id": "jer-46",
   "title": "Jeremiah 46",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "The swift cannot get away, The warrior cannot escape. In the north, by the river Euphrates, They stagger and fall."
+    },
+    {
+      "block_id": "jsb-jer-46-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Let not the swift get away, / Let not the warrior escape.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-jer-46-7",
@@ -101,16 +114,55 @@
       "text": "He made many stumble, They fell over one another. They said: “Up! let us return to our people, To the land of our birth, Because of the deadly sword.”"
     },
     {
+      "block_id": "jsb-jer-46-16-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-jer-46-17",
       "type": "verse",
       "number": 17,
       "text": "There they called Pharaoh king of Egypt: “Braggart who let the hour go by.”"
     },
     {
+      "block_id": "jsb-jer-46-17-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-jer-46-18",
       "type": "verse",
       "number": 18,
       "text": "As I live—declares the King, Whose name is Lord of Hosts— As surely as Tabor is among the mountains And Carmel is by the sea, So shall this come to pass."
+    },
+    {
+      "block_id": "jsb-jer-46-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-46-19",
@@ -123,6 +175,32 @@
       "type": "verse",
       "number": 20,
       "text": "Egypt is a handsome heifer— A gadfly from the north is coming, coming!"
+    },
+    {
+      "block_id": "jsb-jer-46-20-commentary-5",
+      "type": "commentary",
+      "text": "Or “butcher”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-jer-46-20-commentary-6",
+      "type": "commentary",
+      "text": "Many mss. read “will come upon her.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-jer-46-21",
@@ -153,6 +231,19 @@
       "type": "verse",
       "number": 25,
       "text": "The Lord of Hosts, the God of Israel, has said: I will inflict punishment on Amon of No and on Pharaoh—on Egypt, her gods, and her kings—on Pharaoh and all who rely on him."
+    },
+    {
+      "block_id": "jsb-jer-46-25-commentary-7",
+      "type": "commentary",
+      "text": "Tutelary deity of the city No (Thebes); cf. Nah. 3.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 46,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-jer-46-26",

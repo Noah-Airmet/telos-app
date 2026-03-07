@@ -1,7 +1,7 @@
 {
   "document_id": "ps-110",
   "title": "Psalms 110",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "Your people come forward willingly on your day of battle. In majestic holiness, from the womb, from the dawn, yours was the dew of youth."
     },
     {
+      "block_id": "jsb-ps-110-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-110-4",
       "type": "verse",
       "number": 4,
       "text": "The Lord has sworn and will not relent, “You are a priest forever, a rightful king by My decree.”"
+    },
+    {
+      "block_id": "jsb-ps-110-4-commentary-2",
+      "type": "commentary",
+      "text": "Or “after the manner of Melchizedek.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-110-5",

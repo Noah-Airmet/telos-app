@@ -1,7 +1,7 @@
 {
   "document_id": "lam-2",
   "title": "Lamentations 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "א Alas! The Lord in His wrath Has shamed Fair Zion, Has cast down from heaven to earth The majesty of Israel. He did not remember His Footstool On His day of wrath."
+    },
+    {
+      "block_id": "jsb-lam-2-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-lam-2-1-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-lam-2-2",
@@ -41,6 +67,19 @@
       "text": "ו He has stripped His Booth like a garden, He has destroyed His Tabernacle; The Lord has ended in Zion Festival and sabbath; In His raging anger He has spurned King and priest."
     },
     {
+      "block_id": "jsb-lam-2-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “(Tent of) Meeting.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-lam-2-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +92,49 @@
       "text": "ח The Lord resolved to destroy The wall of Fair Zion; He measured with a line, refrained not From bringing destruction. He has made wall and rampart to mourn, Together they languish."
     },
     {
+      "block_id": "jsb-lam-2-8-commentary-4",
+      "type": "commentary",
+      "text": "I.e., He made His plans.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-lam-2-9",
       "type": "verse",
       "number": 9,
       "text": "טHer gates have sunk into the ground, He has smashed her bars to bits; Her king and her leaders are in exile, Instruction is no more; Her prophets, too, receive No vision from the Lord."
+    },
+    {
+      "block_id": "jsb-lam-2-9-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “among the nations.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-lam-2-9-commentary-6",
+      "type": "commentary",
+      "text": "Heb. torah, here priestly instruction; cf. Jer. 18.18; Hag. 2.11; Mal. 2.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-lam-2-10",
@@ -71,6 +149,32 @@
       "text": "כ My eyes are spent with tears, My heart is in tumult, My being melts away Over the ruin of my poor people, As babes and sucklings languish In the squares of the city."
     },
     {
+      "block_id": "jsb-lam-2-11-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “My liver spills on the ground.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-lam-2-11-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “the daughter of my people”; so elsewhere in poetry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-lam-2-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +185,19 @@
       "type": "verse",
       "number": 13,
       "text": "מWhat can I take as witness or liken To you, O Fair Jerusalem? What can I match with you to console you, O Fair Maiden Zion? For your ruin is vast as the sea: Who can heal you?"
+    },
+    {
+      "block_id": "jsb-lam-2-13-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “compare.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-lam-2-14",
@@ -95,10 +212,36 @@
       "text": "ס All who pass your way Clap their hands at you; They hiss and wag their head At Fair Jerusalem: “Is this the city that was called Perfect in Beauty, Joy of All the Earth?”"
     },
     {
+      "block_id": "jsb-lam-2-15-commentary-10",
+      "type": "commentary",
+      "text": "These gestures were intended to ward off the calamity from the viewer; cf., e.g., Jer. 18.16 and note; Job 27.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-lam-2-16",
       "type": "verse",
       "number": 16,
       "text": "פ All your enemies Jeer at you; They hiss and gnash their teeth, And cry: “We’ve ruined her! Ah, this is the day we hoped for; We have lived to see it!”"
+    },
+    {
+      "block_id": "jsb-lam-2-16-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “We have attained, we have seen.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-lam-2-17",
@@ -113,6 +256,19 @@
       "text": "צTheir heart cried out to the Lord. O wall of Fair Zion, Shed tears like a torrent Day and night! Give yourself no respite, Your eyes no rest."
     },
     {
+      "block_id": "jsb-lam-2-18-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields “Cry aloud.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-lam-2-19",
       "type": "verse",
       "number": 19,
@@ -125,6 +281,19 @@
       "text": "רSee, O Lord, and behold, To whom You have done this! Alas, women eat their own fruit, Their new-born babes! Alas, priest and prophet are slain In the Sanctuary of the Lord!"
     },
     {
+      "block_id": "jsb-lam-2-20-commentary-13",
+      "type": "commentary",
+      "text": "The root has this meaning in Arabic; others “dandled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-lam-2-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +304,19 @@
       "type": "verse",
       "number": 22,
       "text": "תYou summoned, as on a festival, My neighbors from roundabout. On the day of the wrath of the Lord, None survived or escaped; Those whom I bore and reared My foe has consumed."
+    },
+    {
+      "block_id": "jsb-lam-2-22-commentary-14",
+      "type": "commentary",
+      "text": "The root has this meaning in Arabic; others “dandled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     }
   ]
 }

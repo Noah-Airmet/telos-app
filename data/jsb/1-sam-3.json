@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-3",
   "title": "1 Samuel 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "And I declare to him that I sentence his house to endless punishment for the iniquity he knew about—how his sons committed sacrilege at will—and he did not rebuke them."
     },
     {
+      "block_id": "jsb-1-sam-3-13-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “against God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 3,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-sam-3-14",
       "type": "verse",
       "number": 14,
@@ -107,6 +120,19 @@
       "text": "And [Eli] asked, “What did He say to you? Keep nothing from me. Thus and more may God do to you if you keep from me a single word of all that He said to you!”"
     },
     {
+      "block_id": "jsb-1-sam-3-17-commentary-2",
+      "type": "commentary",
+      "text": "A formula of adjuration.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 3,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-1-sam-3-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +143,19 @@
       "type": "verse",
       "number": 19,
       "text": "Samuel grew up and the Lord was with him: He did not leave any of Samuel’s predictions unfulfilled."
+    },
+    {
+      "block_id": "jsb-1-sam-3-19-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 3,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-1-sam-3-20",

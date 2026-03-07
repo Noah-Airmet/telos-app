@@ -1,7 +1,7 @@
 {
   "document_id": "ps-141",
   "title": "Psalms 141",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,32 @@
       "type": "verse",
       "number": 5,
       "text": "Let the righteous man strike me in loyalty, let him reprove me; let my head not refuse such choice oil. My prayers are still against their evil deeds."
+    },
+    {
+      "block_id": "jsb-ps-141-5-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of vv. 5–7 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-ps-141-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the evildoers of v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-141-6",

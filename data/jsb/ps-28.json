@@ -1,7 +1,7 @@
 {
   "document_id": "ps-28",
   "title": "Psalms 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Do not count me with the wicked and evildoers who profess goodwill toward their fellows while malice is in their heart."
+    },
+    {
+      "block_id": "jsb-ps-28-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “drag me off”; Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-28-4",
@@ -47,10 +60,36 @@
       "text": "The Lord is my strength and my shield; my heart trusts in Him. I was helped, and my heart exulted, so I will glorify Him with my song."
     },
     {
+      "block_id": "jsb-ps-28-7-commentary-2",
+      "type": "commentary",
+      "text": "Or “strengthened.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-28-8",
       "type": "verse",
       "number": 8,
       "text": "The Lord is their strength; He is a stronghold for the deliverance of His anointed."
+    },
+    {
+      "block_id": "jsb-ps-28-8-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint, Saadia, and others render, and some mss. read, ʿoz leʿammo, “the strength of His people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-28-9",

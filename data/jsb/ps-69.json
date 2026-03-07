@@ -1,7 +1,7 @@
 {
   "document_id": "ps-69",
   "title": "Psalms 69",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader. On shoshannim. Of David."
+    },
+    {
+      "block_id": "jsb-ps-69-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 69,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-69-2",
@@ -129,6 +142,19 @@
       "type": "verse",
       "number": 21,
       "text": "Reproach breaks my heart, I am in despair; I hope for consolation, but there is none, for comforters, but find none."
+    },
+    {
+      "block_id": "jsb-ps-69-21-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 69,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ps-69-22",

@@ -1,7 +1,7 @@
 {
   "document_id": "josh-19",
   "title": "Joshua 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "Eltolad, Bethul, Hormah,"
     },
     {
+      "block_id": "jsb-josh-19-4-commentary-1",
+      "type": "commentary",
+      "text": "15.30 reads “Chesil.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-josh-19-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "Beth-lebaoth, and Sharuhen—13 towns, with their villages."
+    },
+    {
+      "block_id": "jsb-josh-19-6-commentary-2",
+      "type": "commentary",
+      "text": "15.32 reads “Shilhim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-josh-19-7",
@@ -71,6 +97,19 @@
       "text": "their boundary ascended westward to Maralah, touching Dabbesheth and touching the wadi alongside Jokneam."
     },
     {
+      "block_id": "jsb-josh-19-11-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the southern one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-josh-19-12",
       "type": "verse",
       "number": 12,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "Then it turned—that is, the boundary on the north—to Hannathon. Its extreme limits were the Valley of Iphtah-el,"
+    },
+    {
+      "block_id": "jsb-josh-19-14-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the northwest corner, opposite the starting point, Sarid.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-josh-19-15",
@@ -167,10 +219,49 @@
       "text": "It also ran along the east side to Beth-dagon, and touched Zebulun and the Valley of Iphtah-el to the north, [as also] Beth-emek and Neiel; then it ran to Cabul on the north,"
     },
     {
+      "block_id": "jsb-josh-19-27-commentary-5",
+      "type": "commentary",
+      "text": "I.e., from Helkath, v. 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "jsb-josh-19-27-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-josh-19-28",
       "type": "verse",
       "number": 28,
       "text": "Ebron, Rehob, Hammon, and Kanah, up to Great Sidon."
+    },
+    {
+      "block_id": "jsb-josh-19-28-commentary-7",
+      "type": "commentary",
+      "text": "Some Heb. mss., as well as Josh. 21.30 and 1 Chron. 6.59, read “Abdon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-josh-19-29",
@@ -201,6 +292,19 @@
       "type": "verse",
       "number": 33,
       "text": "Their boundary ran from Heleph, Elon-bezaanannim, Adami-nekeb, and Jabneel to Lakkum, and it ended at the Jordan."
+    },
+    {
+      "block_id": "jsb-josh-19-33-commentary-8",
+      "type": "commentary",
+      "text": "The geography of vv. 33–35 is unclear in part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-josh-19-34",
@@ -285,6 +389,19 @@
       "type": "verse",
       "number": 47,
       "text": "But the territory of the Danites slipped from their grasp. So the Danites migrated and made war on Leshem. They captured it and put it to the sword; they took possession of it and settled in it. And they changed the name of Leshem to Dan, after their ancestor Dan."
+    },
+    {
+      "block_id": "jsb-josh-19-47-commentary-9",
+      "type": "commentary",
+      "text": "Called Laish in Judg. 18.7 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 19,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
     },
     {
       "block_id": "jsb-josh-19-48",

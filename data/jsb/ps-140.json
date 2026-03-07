@@ -1,7 +1,7 @@
 {
   "document_id": "ps-140",
   "title": "Psalms 140",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "O Lord, keep me out of the clutches of the wicked; save me from lawless men who scheme to make me fall."
     },
     {
+      "block_id": "jsb-ps-140-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “push my feet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-140-6",
       "type": "verse",
       "number": 6,
@@ -53,10 +66,36 @@
       "text": "O God, my Lord, the strength of my deliverance, You protected my head on the day of battle."
     },
     {
+      "block_id": "jsb-ps-140-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “arms.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-140-9",
       "type": "verse",
       "number": 9,
       "text": "O Lord, do not grant the desires of the wicked; do not let their plan succeed, else they be exalted. Selah."
+    },
+    {
+      "block_id": "jsb-ps-140-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ps-140-10",

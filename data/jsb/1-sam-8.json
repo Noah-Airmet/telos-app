@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-8",
   "title": "1 Samuel 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -99,6 +99,19 @@
       "type": "verse",
       "number": 16,
       "text": "He will take your male and female slaves, your choice young men, and your asses, and put them to work for him."
+    },
+    {
+      "block_id": "jsb-1-sam-8-16-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “cattle.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 8,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-1-sam-8-17",

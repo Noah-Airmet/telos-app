@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-5",
   "title": "2 Samuel 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "All the tribes of Israel came to David at Hebron and said, “We are your own flesh and blood."
     },
     {
+      "block_id": "jsb-2-sam-5-1-commentary-1",
+      "type": "commentary",
+      "text": "The account in vv. 1–3 and 6–10 is to be found also, with variations, in 1 Chron. 11.1–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-2-sam-5-2",
       "type": "verse",
       "number": 2,
       "text": "Long before now, when Saul was king over us, it was you who led Israel in war; and the Lord said to you: You shall shepherd My people Israel; you shall be ruler of Israel.”"
+    },
+    {
+      "block_id": "jsb-2-sam-5-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “led Israel out and in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-sam-5-3",
@@ -41,6 +67,19 @@
       "text": "The king and his men set out for Jerusalem against the Jebusites who inhabited the region. David was told, “You will never get in here! Even the blind and the lame will turn you back.” (They meant: David will never enter here.)"
     },
     {
+      "block_id": "jsb-2-sam-5-6-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-2-sam-5-7",
       "type": "verse",
       "number": 7,
@@ -59,6 +98,19 @@
       "text": "David occupied the stronghold and renamed it the City of David; David also fortified the surrounding area, from the Millo inward."
     },
     {
+      "block_id": "jsb-2-sam-5-9-commentary-4",
+      "type": "commentary",
+      "text": "A citadel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-sam-5-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +121,19 @@
       "type": "verse",
       "number": 11,
       "text": "King Hiram of Tyre sent envoys to David with cedar logs, carpenters, and stonemasons; and they built a palace for David."
+    },
+    {
+      "block_id": "jsb-2-sam-5-11-commentary-5",
+      "type": "commentary",
+      "text": "The account in vv. 11–25 is to be found also, with variations, in 1 Chron. 14.1–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-sam-5-12",
@@ -89,6 +154,19 @@
       "text": "These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, and Solomon;"
     },
     {
+      "block_id": "jsb-2-sam-5-14-commentary-6",
+      "type": "commentary",
+      "text": "The list in vv. 14–16 is found, in addition to 1 Chron. 14.4–7, in 1 Chron. 3.5–8, with variations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-sam-5-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +183,32 @@
       "type": "verse",
       "number": 17,
       "text": "When the Philistines heard that David had been anointed king over Israel, the Philistines marched up in search of David; but David heard of it, and he went down to the fastness."
+    },
+    {
+      "block_id": "jsb-2-sam-5-17-commentary-7",
+      "type": "commentary",
+      "text": "Vv. 17–25 continue the narrative of v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-2-sam-5-17-commentary-8",
+      "type": "commentary",
+      "text": "Probably the stronghold of Adullam (cf. 1 Sam. 22.4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-2-sam-5-18",
@@ -125,6 +229,19 @@
       "text": "Thereupon David marched to Baal-perazim, and David defeated them there. And he said, “The Lord has broken through my enemies before me as waters break through [a dam].” That is why that place was named Baal-perazim."
     },
     {
+      "block_id": "jsb-2-sam-5-20-commentary-9",
+      "type": "commentary",
+      "text": "Interpreted as “Baal of Breaches.” Cf. 6.8 below, and the name Perez in Gen. 38.29 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-sam-5-21",
       "type": "verse",
       "number": 21,
@@ -141,6 +258,19 @@
       "type": "verse",
       "number": 23,
       "text": "David inquired of the Lord, and He answered, “Do not go up, but circle around behind them and confront them at the baca trees."
+    },
+    {
+      "block_id": "jsb-2-sam-5-23-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 5,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-2-sam-5-24",

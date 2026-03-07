@@ -1,7 +1,7 @@
 {
   "document_id": "jer-22",
   "title": "Jeremiah 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,32 @@
       "text": "Do not weep for the dead And do not lament for him; Weep rather for him who is leaving, For he shall never come back To see the land of his birth!"
     },
     {
+      "block_id": "jsb-jer-22-10-commentary-1",
+      "type": "commentary",
+      "text": "I.e., Josiah; see 2 Kings 23.29–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-jer-22-10-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the king called by his throne name Jehoahaz in 2 Kings 23.31 ff., and by his private name Shallum here in v. 11 and in 1 Chron. 3.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-jer-22-11",
       "type": "verse",
       "number": 11,
@@ -95,10 +121,36 @@
       "text": "Do you think you are more a king Because you compete in cedar? Your father ate and drank And dispensed justice and equity— Then all went well with him."
     },
     {
+      "block_id": "jsb-jer-22-15-commentary-3",
+      "type": "commentary",
+      "text": "I.e., he was content with the simple necessities of life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-jer-22-16",
       "type": "verse",
       "number": 16,
       "text": "He upheld the rights of the poor and needy— Then all was well. That is truly heeding Me —declares the Lord."
+    },
+    {
+      "block_id": "jsb-jer-22-16-commentary-4",
+      "type": "commentary",
+      "text": "Or “That is the reward for heeding Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-22-17",
@@ -113,6 +165,19 @@
       "text": "Assuredly, thus said the Lord concerning Jehoiakim son of Josiah, king of Judah: They shall not mourn for him, “Ah, brother! Ah, sister!” They shall not mourn for him, “Ah, lord! Ah, his majesty!”"
     },
     {
+      "block_id": "jsb-jer-22-18-commentary-5",
+      "type": "commentary",
+      "text": "They shall express neither sorrow at the loss of a relative nor grief at the death of a ruler.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-22-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +188,19 @@
       "type": "verse",
       "number": 20,
       "text": "Climb Lebanon and cry out, Raise your voice in Bashan, Cry out from Abarim, For all your lovers are crushed."
+    },
+    {
+      "block_id": "jsb-jer-22-20-commentary-6",
+      "type": "commentary",
+      "text": "Israel is addressed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-jer-22-21",
@@ -137,16 +215,55 @@
       "text": "All your shepherds shall be devoured by the wind, And your lovers shall go into captivity. Then you shall be shamed and humiliated Because of all your depravity."
     },
     {
+      "block_id": "jsb-jer-22-22-commentary-7",
+      "type": "commentary",
+      "text": "Change of vocalization yields “paramours.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-jer-22-23",
       "type": "verse",
       "number": 23,
       "text": "You who dwell in Lebanon, Nestled among the cedars, How much grace will you have When pains come upon you, Travail as in childbirth!"
     },
     {
+      "block_id": "jsb-jer-22-23-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint reads “How you will groan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-jer-22-24",
       "type": "verse",
       "number": 24,
       "text": "As I live—declares the Lord—if you, O King Coniah, son of Jehoiakim, of Judah, were a signet on my right hand, I would tear you off even from there."
+    },
+    {
+      "block_id": "jsb-jer-22-24-commentary-9",
+      "type": "commentary",
+      "text": "Heb. “If Coniah … were … ”; Coniah (Jeconiah in 24.1) is identical with Jehoiachin, 2 Kings 24.8 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 22,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-jer-22-25",

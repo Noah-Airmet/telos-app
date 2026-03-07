@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-34",
   "title": "2 Chronicles 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem."
+    },
+    {
+      "block_id": "jsb-2-chr-34-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 22; 23.1–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 34,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-34-2",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "They came to the high priest Hilkiah and delivered to him the silver brought to the House of God, which the Levites, the guards of the threshold, had collected from Manasseh and Ephraim and from all the remnant of Israel and from all Judah and Benjamin and the inhabitants of Jerusalem."
+    },
+    {
+      "block_id": "jsb-2-chr-34-9-commentary-2",
+      "type": "commentary",
+      "text": "With kethib and ancient versions; qere, “they returned to Jerusalem.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 34,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-chr-34-10",
@@ -135,6 +161,19 @@
       "type": "verse",
       "number": 22,
       "text": "Hilkiah and those whom the king [had ordered] went to the prophetess Huldah, wife of Shallum son of Tokhath son of Hasrah, keeper of the wardrobe, who was living in Jerusalem in the Mishneh, and spoke to her accordingly."
+    },
+    {
+      "block_id": "jsb-2-chr-34-22-commentary-3",
+      "type": "commentary",
+      "text": "A quarter in Jerusalem; cf. Zeph. 1.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 34,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-2-chr-34-23",

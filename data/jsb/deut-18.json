@@ -1,7 +1,7 @@
 {
   "document_id": "deut-18",
   "title": "Deuteronomy 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The levitical priests, the whole tribe of Levi, shall have no territorial portion with Israel. They shall live only off the Lord’s offerings by fire as their portion,"
+    },
+    {
+      "block_id": "jsb-deut-18-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “its,” i.e., the tribe’s.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 18,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-deut-18-2",
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "They shall receive equal shares of the dues, without regard to personal gifts or patrimonies."
+    },
+    {
+      "block_id": "jsb-deut-18-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 18,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-deut-18-9",

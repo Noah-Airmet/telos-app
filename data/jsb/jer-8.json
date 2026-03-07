@@ -1,7 +1,7 @@
 {
   "document_id": "jer-8",
   "title": "Jeremiah 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,32 @@
       "text": "I will make an end of them —declares the Lord: No grapes left on the vine, No figs on the fig tree, The leaves all withered; Whatever I have given them is gone."
     },
     {
+      "block_id": "jsb-jer-8-13-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; change of vocalization yields “Their fruit harvest has been gathered in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-jer-8-13-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-jer-8-14",
       "type": "verse",
       "number": 14,
@@ -113,10 +139,36 @@
       "text": "When in grief I would seek comfort, My heart is sick within me."
     },
     {
+      "block_id": "jsb-jer-8-18-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 8,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-8-19",
       "type": "verse",
       "number": 19,
       "text": "“Is not the Lord in Zion? Is not her King within her? Why then did they anger Me with their images, With alien futilities?” Hark! The outcry of my poor people From the land far and wide:"
+    },
+    {
+      "block_id": "jsb-jer-8-19-commentary-4",
+      "type": "commentary",
+      "text": "Here God is speaking.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 8,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-8-20",

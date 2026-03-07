@@ -1,7 +1,7 @@
 {
   "document_id": "deut-31",
   "title": "Deuteronomy 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,10 +21,36 @@
       "text": "Moses went and spoke these things to all Israel."
     },
     {
+      "block_id": "jsb-deut-31-1-commentary-1",
+      "type": "commentary",
+      "text": "An ancient Heb. ms. and the Septuagint read: “When Moses had finished speaking …”; cf. 29.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 31,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-deut-31-2",
       "type": "verse",
       "number": 2,
       "text": "He said to them: I am now one hundred and twenty years old, I can no longer be active. Moreover, the Lord has said to me, “You shall not go across yonder Jordan.”"
+    },
+    {
+      "block_id": "jsb-deut-31-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “come and go.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 31,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-deut-31-3",
@@ -73,6 +99,19 @@
       "type": "verse",
       "number": 10,
       "text": "And Moses instructed them as follows: Every seventh year, the year set for remission, at the Feast of Booths,"
+    },
+    {
+      "block_id": "jsb-deut-31-10-commentary-3",
+      "type": "commentary",
+      "text": "See note at 15.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-deut-31-11",

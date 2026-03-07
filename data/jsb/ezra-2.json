@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-2",
   "title": "Ezra 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "These are the people of the province who came up from among the captive exiles whom King Nebuchadnezzar of Babylon had carried into exile to Babylon, who returned to Jerusalem and Judah, each to his own city,"
+    },
+    {
+      "block_id": "jsb-ezra-2-1-commentary-1",
+      "type": "commentary",
+      "text": "This chapter appears as Neh. 7.6–73 with variations in the names and numbers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ezra-2-2",
@@ -371,6 +384,19 @@
       "text": "Of the sons of the priests, the sons of Habaiah, the sons of Hakkoz, the sons of Barzillai who had married a daughter of Barzillai and had taken his name—"
     },
     {
+      "block_id": "jsb-ezra-2-61-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “their.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 2,
+        "verse": 61
+      },
+      "verse_start": 61,
+      "verse_end": 61
+    },
+    {
       "block_id": "jsb-ezra-2-62",
       "type": "verse",
       "number": 62,
@@ -381,6 +407,19 @@
       "type": "verse",
       "number": 63,
       "text": "The Tirshatha ordered them not to eat of the most holy things until a priest with Urim and Thummim should appear."
+    },
+    {
+      "block_id": "jsb-ezra-2-63-commentary-3",
+      "type": "commentary",
+      "text": "A Persian title.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 2,
+        "verse": 63
+      },
+      "verse_start": 63,
+      "verse_end": 63
     },
     {
       "block_id": "jsb-ezra-2-64",

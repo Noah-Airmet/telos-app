@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-3",
   "title": "1 Kings 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "And now, O Lord my God, You have made Your servant king in place of my father David; but I am a young lad, with no experience in leadership."
+    },
+    {
+      "block_id": "jsb-1-kgs-3-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “do not know to go out and come in”; cf. Num. 27.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 3,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-kgs-3-8",

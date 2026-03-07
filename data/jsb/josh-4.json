@@ -1,7 +1,7 @@
 {
   "document_id": "josh-4",
   "title": "Joshua 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "The priests who bore the Ark remained standing in the middle of the Jordan until all the instructions that the Lord had ordered Joshua to convey to the people had been carried out. And so the people speedily crossed over, just as Moses had assured Joshua in his charge to him."
     },
     {
+      "block_id": "jsb-josh-4-10-commentary-1",
+      "type": "commentary",
+      "text": "Connection of clause uncertain; cf. Deut. 31.7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-josh-4-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +88,32 @@
       "type": "verse",
       "number": 12,
       "text": "The Reubenites, the Gadites, and the half-tribe of Manasseh went across armed in the van of the Israelites, as Moses had charged them."
+    },
+    {
+      "block_id": "jsb-josh-4-12-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 4,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-josh-4-12-commentary-3",
+      "type": "commentary",
+      "text": "See Num. 32.20–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 4,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-josh-4-13",

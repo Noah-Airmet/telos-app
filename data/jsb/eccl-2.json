@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-2",
   "title": "Ecclesiastes 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "I further amassed silver and gold and treasures of kings and provinces; and I got myself male and female singers, as well as the luxuries of commoners—coffers and coffers of them."
     },
     {
+      "block_id": "jsb-eccl-2-8-commentary-1",
+      "type": "commentary",
+      "text": "The Heb. shiddah occurs only here in the Bible; in the Mishnah it designates a kind of chest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-eccl-2-9",
       "type": "verse",
       "number": 9,
@@ -65,6 +78,19 @@
       "text": "I withheld from my eyes nothing they asked for, and denied myself no enjoyment; rather, I got enjoyment out of all my wealth. And that was all I got out of my wealth."
     },
     {
+      "block_id": "jsb-eccl-2-10-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint and a few Heb. manuscripts have “(in exchange) for”; cf. 2.24; 3.13, 22; 5.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-eccl-2-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +101,32 @@
       "type": "verse",
       "number": 12,
       "text": "For what will the man be like who will succeed the one who is ruling over what was built up long ago? My thoughts also turned to appraising wisdom and madness and folly."
+    },
+    {
+      "block_id": "jsb-eccl-2-12-commentary-3",
+      "type": "commentary",
+      "text": "The order of the two sentences in this verse is reversed in the translation for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-eccl-2-12-commentary-4",
+      "type": "commentary",
+      "text": "Change of vocalization yields “me, and who is to rule”; cf. vv. 18–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-eccl-2-13",
@@ -99,6 +151,19 @@
       "type": "verse",
       "number": 16,
       "text": "because the wise man, just like the fool, is not remembered forever; for, as the succeeding days roll by, both are forgotten. Alas, the wise man dies, just like the fool!"
+    },
+    {
+      "block_id": "jsb-eccl-2-16-commentary-5",
+      "type": "commentary",
+      "text": "See note on 1.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-eccl-2-17",
@@ -155,10 +220,36 @@
       "text": "For who eats and who enjoys but myself?"
     },
     {
+      "block_id": "jsb-eccl-2-25-commentary-6",
+      "type": "commentary",
+      "text": "Some mss. and ancient versions read mimmennu, “by His doing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-eccl-2-26",
       "type": "verse",
       "number": 26,
       "text": "To the man, namely, who pleases Him He has given the wisdom and shrewdness to enjoy himself; and to him who displeases, He has given the urge to gather and amass—only for handing on to one who is pleasing to God. That too is futile and pursuit of wind."
+    },
+    {
+      "block_id": "jsb-eccl-2-26-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “wisdom and knowledge and enjoyment.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 2,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     }
   ]
 }

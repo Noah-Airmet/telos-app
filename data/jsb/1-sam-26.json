@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-26",
   "title": "1 Samuel 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "David went at once to the place where Saul had encamped, and David saw the spot where Saul and his army commander, Abner son of Ner, lay asleep. Saul lay asleep inside the barricade and the troops were posted around him."
     },
     {
+      "block_id": "jsb-1-sam-26-5-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 23.19 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 26,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-26-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "So David and Abishai approached the troops by night, and found Saul fast asleep inside the barricade, his spear stuck in the ground at his head, and Abner and the troops sleeping around him."
+    },
+    {
+      "block_id": "jsb-1-sam-26-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. 17.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 26,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-sam-26-8",
@@ -119,6 +145,19 @@
       "text": "Now let my lord the king hear his servant out. If the Lord has incited you against me, let Him be appeased by an offering; but if it is men, may they be accursed of the Lord! For they have driven me out today, so that I cannot have a share in the Lord’s possession, but am told, ‘Go and worship other gods.’"
     },
     {
+      "block_id": "jsb-1-sam-26-19-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Amos 5.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 26,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-26-20",
       "type": "verse",
       "number": 20,
@@ -141,6 +180,19 @@
       "type": "verse",
       "number": 23,
       "text": "And the Lord will requite every man for his right conduct and loyalty—for this day the Lord delivered you into my hands and I would not raise a hand against the Lord’s anointed."
+    },
+    {
+      "block_id": "jsb-1-sam-26-23-commentary-4",
+      "type": "commentary",
+      "text": "So many mss.; other mss. and editions omit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 26,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-sam-26-24",

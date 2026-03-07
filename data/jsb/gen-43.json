@@ -1,7 +1,7 @@
 {
   "document_id": "gen-43",
   "title": "Genesis 43",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "But Judah said to him, “The man warned us, ‘Do not let me see your faces unless your brother is with you.’"
+    },
+    {
+      "block_id": "jsb-gen-43-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Do not see my face.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 43,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-gen-43-4",
@@ -131,6 +144,19 @@
       "text": "But when we arrived at the night encampment and opened our bags, there was each one’s money in the mouth of his bag, our money in full. So we have brought it back with us."
     },
     {
+      "block_id": "jsb-gen-43-21-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “by its weight.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 43,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-gen-43-22",
       "type": "verse",
       "number": 22,
@@ -207,6 +233,19 @@
       "type": "verse",
       "number": 34,
       "text": "Portions were served them from his table; but Benjamin’s portion was several times that of anyone else. And they drank their fill with him."
+    },
+    {
+      "block_id": "jsb-gen-43-34-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 43,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     }
   ]
 }

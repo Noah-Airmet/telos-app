@@ -1,7 +1,7 @@
 {
   "document_id": "prov-8",
   "title": "Proverbs 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -99,6 +99,19 @@
       "type": "verse",
       "number": 16,
       "text": "Through me princes rule, Great men and all the righteous judges."
+    },
+    {
+      "block_id": "jsb-prov-8-16-commentary-1",
+      "type": "commentary",
+      "text": "According to some Heb. mss. and printed editions, “judges of the earth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 8,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-prov-8-17",

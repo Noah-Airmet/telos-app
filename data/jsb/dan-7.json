@@ -1,7 +1,7 @@
 {
   "document_id": "dan-7",
   "title": "Daniel 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "As I looked on, Thrones were set in place, And the Ancient of Days took His seat. His garment was like white snow, And the hair of His head was like lamb’s wool. His throne was tongues of flame; Its wheels were blazing fire."
     },
     {
+      "block_id": "jsb-dan-7-9-commentary-1",
+      "type": "commentary",
+      "text": "Or “clean.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-dan-7-10",
       "type": "verse",
       "number": 10,
@@ -107,6 +120,19 @@
       "text": "‘These great beasts, four in number [mean] four kingdoms will arise out of the earth;"
     },
     {
+      "block_id": "jsb-dan-7-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “kings.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-dan-7-18",
       "type": "verse",
       "number": 18,
@@ -153,6 +179,19 @@
       "type": "verse",
       "number": 25,
       "text": "He will speak words against the Most High, and will harass the holy ones of the Most High. He will think of changing times and laws, and they will be delivered into his power for a time, times, and half a time."
+    },
+    {
+      "block_id": "jsb-dan-7-25-commentary-3",
+      "type": "commentary",
+      "text": "I.e., a year, two years, and a half a year.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-dan-7-26",

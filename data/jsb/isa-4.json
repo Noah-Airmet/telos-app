@@ -1,7 +1,7 @@
 {
   "document_id": "isa-4",
   "title": "Isaiah 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,32 @@
       "text": "In that day, The radiance of the Lord Will lend beauty and glory, And the splendor of the land [Will give] dignity and majesty, To the survivors of Israel."
     },
     {
+      "block_id": "jsb-isa-4-2-commentary-1",
+      "type": "commentary",
+      "text": "For the interpretation of this verse, cf. 28.5. For “radiance,” cf. Septuagint and the Syriac ṣemḥa, and for “splendor,” cf. the meaning of peri in 10.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-4-2-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “my Lord”; cf. the parallelism (in reverse order) in 3.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-4-3",
       "type": "verse",
       "number": 3,
@@ -29,10 +55,49 @@
       "text": "When my Lord has washed away The filth of the daughters of Zion, And from Jerusalem’s midst Has rinsed out her infamy— In a spirit of judgment And in a spirit of purging—"
     },
     {
+      "block_id": "jsb-isa-4-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “Daughter Zion,” i.e., Zion personified; cf. 1.8 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 4,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-4-5",
       "type": "verse",
       "number": 5,
       "text": "the Lord will create over the whole shrine and meeting place of Mount Zion cloud by day and smoke with a glow of flaming fire by night. Indeed, over all the glory shall hang a canopy,"
+    },
+    {
+      "block_id": "jsb-isa-4-5-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “spread”; cf. Ps. 105.39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 4,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-isa-4-5-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “His whole shrine.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 4,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-4-6",

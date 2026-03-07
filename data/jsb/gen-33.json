@@ -1,7 +1,7 @@
 {
   "document_id": "gen-33",
   "title": "Genesis 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -107,6 +107,19 @@
       "text": "But Jacob journeyed on to Succoth, and built a house for himself and made stalls for his cattle; that is why the place was called Succoth."
     },
     {
+      "block_id": "jsb-gen-33-17-commentary-1",
+      "type": "commentary",
+      "text": "Meaning “stalls,” “huts,” “booths.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 33,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-gen-33-18",
       "type": "verse",
       "number": 18,
@@ -119,10 +132,36 @@
       "text": "The parcel of land where he pitched his tent he purchased from the children of Hamor, Shechem’s father, for a hundred kesitahs."
     },
     {
+      "block_id": "jsb-gen-33-19-commentary-2",
+      "type": "commentary",
+      "text": "Heb. qesiṭah, a unit of unknown value.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 33,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-gen-33-20",
       "type": "verse",
       "number": 20,
       "text": "He set up an altar there, and called it El‑elohe-yisrael."
+    },
+    {
+      "block_id": "jsb-gen-33-20-commentary-3",
+      "type": "commentary",
+      "text": "“El, God of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 33,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

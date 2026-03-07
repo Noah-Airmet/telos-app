@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-6",
   "title": "1 Samuel 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The Ark of the Lord remained in the territory of the Philistines seven months."
+    },
+    {
+      "block_id": "jsb-1-sam-6-1-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint continues “and mice invaded their fields”; cf. vv. 4, 5, 18, and note at 5.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-sam-6-2",
@@ -23,10 +36,36 @@
       "text": "They answered, “If you are going to send the Ark of the God of Israel away, do not send it away without anything; you must also pay an indemnity to Him. Then you will be healed, and He will make Himself known to you; otherwise His hand will not turn away from you.”"
     },
     {
+      "block_id": "jsb-1-sam-6-3-commentary-2",
+      "type": "commentary",
+      "text": "Or “and you will know why His hand would not turn away from you.” Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-6-4",
       "type": "verse",
       "number": 4,
       "text": "They asked, “What is the indemnity that we should pay to Him?” They answered, “Five golden hemorrhoids and five golden mice, corresponding to the number of lords of the Philistines; for the same plague struck all of you and your lords."
+    },
+    {
+      "block_id": "jsb-1-sam-6-4-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-sam-6-5",
@@ -83,6 +122,19 @@
       "text": "The people of Beth-shemesh were reaping their wheat harvest in the valley. They looked up and saw the Ark, and they rejoiced when they saw [it]."
     },
     {
+      "block_id": "jsb-1-sam-6-13-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “As they met it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-sam-6-14",
       "type": "verse",
       "number": 14,
@@ -113,10 +165,62 @@
       "text": "As for the golden mice, their number accorded with all the Philistine towns that belonged to the five lords—both fortified towns and unwalled villages, as far as the great stone on which the Ark of the Lord was set down, to this day, in the field of Joshua of Beth-shemesh."
     },
     {
+      "block_id": "jsb-1-sam-6-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of vv. 18 and 19 uncertain in part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-1-sam-6-18-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “villages, as witness there is.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-1-sam-6-18-commentary-7",
+      "type": "commentary",
+      "text": "Reading ʾeben with some Heb. mss., Septuagint, and Targum, most mss. and editions ʾabel, “meadow [?].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-sam-6-19",
       "type": "verse",
       "number": 19,
       "text": "[The Lord] struck at the men of Beth-shemesh because they looked into the Ark of the Lord; He struck down seventy men among the people [and] fifty thousand men. The people mourned, for He had inflicted a great slaughter upon the population."
+    },
+    {
+      "block_id": "jsb-1-sam-6-19-commentary-8",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 6,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-1-sam-6-20",

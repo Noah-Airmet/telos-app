@@ -1,7 +1,7 @@
 {
   "document_id": "gen-10",
   "title": "Genesis 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "The descendants of Javan: Elishah and Tarshish, the Kittim and the Dodanim."
     },
     {
+      "block_id": "jsb-gen-10-4-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint and 1 Chron. 1.7 “Rodanim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-gen-10-5",
       "type": "verse",
       "number": 5,
       "text": "From these the maritime nations branched out. [These are the descendants of Japheth] by their lands—each with its language—their clans and their nations."
+    },
+    {
+      "block_id": "jsb-gen-10-5-commentary-2",
+      "type": "commentary",
+      "text": "Cf. vv. 20 and 31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-gen-10-6",
@@ -65,6 +91,19 @@
       "text": "The mainstays of his kingdom were Babylon, Erech, Accad, and Calneh in the land of Shinar."
     },
     {
+      "block_id": "jsb-gen-10-10-commentary-3",
+      "type": "commentary",
+      "text": "Heb. we-khalneh, better vocalized we-khullanah “all of them being.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 10,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-gen-10-11",
       "type": "verse",
       "number": 11,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "the Pathrusim, the Casluhim, and the Caphtorim, whence the Philistines came forth."
+    },
+    {
+      "block_id": "jsb-gen-10-14-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the Cretans; moved up for the sake of clarity; cf. Amos 9.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 10,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-gen-10-15",
@@ -153,6 +205,19 @@
       "type": "verse",
       "number": 25,
       "text": "Two sons were born to Eber: the name of the first was Peleg, for in his days the earth was divided; and the name of his brother was Joktan."
+    },
+    {
+      "block_id": "jsb-gen-10-25-commentary-5",
+      "type": "commentary",
+      "text": "Heb. niphlegah, play on “Peleg.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 10,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-gen-10-26",

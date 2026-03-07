@@ -1,7 +1,7 @@
 {
   "document_id": "ps-131",
   "title": "Psalms 131",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "but I have taught myself to be contented like a weaned child with its mother; like a weaned child am I in my mind."
+    },
+    {
+      "block_id": "jsb-ps-131-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 131,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-131-3",

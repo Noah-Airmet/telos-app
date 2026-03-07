@@ -1,7 +1,7 @@
 {
   "document_id": "neh-10",
   "title": "Nehemiah 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "“On the sealed copy [are subscribed]: Nehemiah the Tirshatha son of Hacaliah and Zedekiah,"
+    },
+    {
+      "block_id": "jsb-neh-10-2-commentary-1",
+      "type": "commentary",
+      "text": "Heb. plural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-neh-10-3",
@@ -231,6 +244,19 @@
       "type": "verse",
       "number": 38,
       "text": "“We will bring to the storerooms of the House of our God the first part of our dough, and our gifts [of grain], and of the fruit of every tree, wine and oil for the priests, and the tithes of our land for the Levites—the Levites who collect the tithe in all our towns subject to royal service."
+    },
+    {
+      "block_id": "jsb-neh-10-38-commentary-2",
+      "type": "commentary",
+      "text": "For this sense of ʿabodah, “service,” cf. 5.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 10,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
     },
     {
       "block_id": "jsb-neh-10-39",

@@ -1,7 +1,7 @@
 {
   "document_id": "zech-13",
   "title": "Zechariah 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "In that day, too—declares the Lord of Hosts—I will erase the very names of the idols from the land; they shall not be uttered any more. And I will also make the “prophets” and the unclean spirit vanish from the land."
     },
     {
+      "block_id": "jsb-zech-13-2-commentary-1",
+      "type": "commentary",
+      "text": "To which abnormal human behavior was attributed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-zech-13-3",
       "type": "verse",
       "number": 3,
@@ -29,10 +42,62 @@
       "text": "In that day, every “prophet” will be ashamed of the “visions” [he had] when he “prophesied.” In order to deceive, he will not wear a hairy mantle,"
     },
     {
+      "block_id": "jsb-zech-13-4-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “They.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-zech-13-4-commentary-3",
+      "type": "commentary",
+      "text": "In imitation of Elijah; cf. 2 Kings 1.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-zech-13-5",
       "type": "verse",
       "number": 5,
       "text": "and he will declare, “I am not a ‘prophet’; I am a tiller of the soil; you see, I was plied with the red stuff from my youth on.”"
+    },
+    {
+      "block_id": "jsb-zech-13-5-commentary-4",
+      "type": "commentary",
+      "text": "I.e., I was addicted to wine like Noah, the tiller of the soil (cf. Gen. 9.20–21), hence my hallucinations and ravings; cf. Prov. 23.33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-zech-13-5-commentary-5",
+      "type": "commentary",
+      "text": "Connecting ʾadam with ʾadom “red” (cf. Prov. 23.31); but meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-zech-13-6",
@@ -41,10 +106,62 @@
       "text": "And if he is asked, “What are those sores on your back?” he will reply, “From being beaten in the homes of my friends.”"
     },
     {
+      "block_id": "jsb-zech-13-6-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “sores between your arms”; cf. 2 Kings 9.24. Sores are sometimes symptoms of hysteria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-zech-13-6-commentary-7",
+      "type": "commentary",
+      "text": "Presumably for making drunken scenes; cf. Prov. 23.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-zech-13-7",
       "type": "verse",
       "number": 7,
       "text": "O sword! Rouse yourself against My shepherd, The man in charge of My flock —says the Lord of Hosts. Strike down the shepherd And let the flock scatter; And I will also turn My hand Against all the shepherd boys."
+    },
+    {
+      "block_id": "jsb-zech-13-7-commentary-8",
+      "type": "commentary",
+      "text": "Vv. 7–9 would read well after 11.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-zech-13-7-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-zech-13-8",

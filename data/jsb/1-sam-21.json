@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-21",
   "title": "1 Samuel 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "David answered the priest Ahimelech, “The king has ordered me on a mission, and he said to me, ‘No one must know anything about the mission on which I am sending you and for which I have given you orders.’ So I have directed [my] young men to such and such a place."
     },
     {
+      "block_id": "jsb-1-sam-21-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. 4QSamb (cf. Septuagint) reads “made an appointment with [my] young men at…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-21-4",
       "type": "verse",
       "number": 4,
       "text": "Now then, what have you got on hand? Any loaves of bread? Let me have them—or whatever is available.”"
+    },
+    {
+      "block_id": "jsb-1-sam-21-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-sam-21-5",
@@ -41,6 +67,19 @@
       "text": "In reply to the priest, David said, “I assure you that women have been kept from us, as always. Whenever I went on a mission, even if the journey was a common one, the vessels of the young men were consecrated; all the more then may consecrated food be put into their vessels today.”"
     },
     {
+      "block_id": "jsb-1-sam-21-6-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain in part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-sam-21-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +90,32 @@
       "type": "verse",
       "number": 8,
       "text": "Now one of Saul’s officials was there that day, detained before the Lord; his name was Doeg the Edomite, Saul’s chief herdsman."
+    },
+    {
+      "block_id": "jsb-1-sam-21-8-commentary-4",
+      "type": "commentary",
+      "text": "I.e., excluded from the shrine, perhaps because of ritual impurity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-1-sam-21-8-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-21-9",
@@ -87,6 +152,19 @@
       "type": "verse",
       "number": 14,
       "text": "So he concealed his good sense from them; he feigned madness for their benefit. He scratched marks on the doors of the gate and let his saliva run down his beard."
+    },
+    {
+      "block_id": "jsb-1-sam-21-14-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “in their hand”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 21,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-sam-21-15",

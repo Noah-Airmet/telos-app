@@ -1,7 +1,7 @@
 {
   "document_id": "josh-16",
   "title": "Joshua 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "together with the towns marked off for the Ephraimites within the territory of the Manassites—all those towns with their villages."
+    },
+    {
+      "block_id": "jsb-josh-16-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-josh-16-10",

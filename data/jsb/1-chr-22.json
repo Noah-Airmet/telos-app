@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-22",
   "title": "1 Chronicles 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,32 @@
       "text": "But you will have a son who will be a man at rest, for I will give him rest from all his enemies on all sides; Solomon will be his name and I shall confer peace and quiet on Israel in his time."
     },
     {
+      "block_id": "jsb-1-chr-22-9-commentary-1",
+      "type": "commentary",
+      "text": "Heb. Shelomoh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 22,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-1-chr-22-9-commentary-2",
+      "type": "commentary",
+      "text": "Heb. shalom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 22,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-1-chr-22-10",
       "type": "verse",
       "number": 10,
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "See, by denying myself, I have laid aside for the House of the Lord one hundred thousand talents of gold and one million talents of silver, and so much copper and iron it cannot be weighed; I have also laid aside wood and stone, and you shall add to them."
+    },
+    {
+      "block_id": "jsb-1-chr-22-14-commentary-3",
+      "type": "commentary",
+      "text": "With Targum; or “in my poverty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-chr-22-15",

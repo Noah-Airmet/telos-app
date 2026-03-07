@@ -1,7 +1,7 @@
 {
   "document_id": "ps-39",
   "title": "Psalms 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "I was dumb, silent; I was very still while my pain was intense."
     },
     {
+      "block_id": "jsb-ps-39-3-commentary-1",
+      "type": "commentary",
+      "text": "Cf. use of ṭwb in Hos. 10.1; Jonah 4.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 39,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-39-4",
       "type": "verse",
       "number": 4,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "You have made my life just handbreadths long; its span is as nothing in Your sight; no man endures any longer than a breath.Selah."
+    },
+    {
+      "block_id": "jsb-ps-39-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 39,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-39-7",

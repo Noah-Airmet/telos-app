@@ -1,7 +1,7 @@
 {
   "document_id": "esth-7",
   "title": "Esther 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "For we have been sold, my people and I, to be destroyed, massacred, and exterminated. Had we only been sold as bondmen and bondwomen, I would have kept silent; for the adversary is not worthy of the king’s trouble.”"
     },
     {
+      "block_id": "jsb-esth-7-4-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “a trifle” (ḥiṣṣar), lit. “little finger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 7,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-esth-7-5",
       "type": "verse",
       "number": 5,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "When the king returned from the palace garden to the banquet room, Haman was lying prostrate on the couch on which Esther reclined. “Does he mean,” cried the king, “to ravish the queen in my own palace?” No sooner did these words leave the king’s lips than Haman’s face was covered."
+    },
+    {
+      "block_id": "jsb-esth-7-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “blanched”; cf. Ps. 34.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 7,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-esth-7-9",

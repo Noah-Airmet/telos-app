@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-31",
   "title": "Ezekiel 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,49 @@
       "text": "Assyria was a cedar in Lebanon With beautiful branches and shady thickets, Of lofty stature, With its top among leafy trees."
     },
     {
+      "block_id": "jsb-ezek-31-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-ezek-31-3-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “clouds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ezek-31-4",
       "type": "verse",
       "number": 4,
       "text": "Waters nourished it, The deep made it grow tall, Washing with its streams The place where it was planted, Making its channels well up To all the trees of the field."
+    },
+    {
+      "block_id": "jsb-ezek-31-4-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “more than for all.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezek-31-5",
@@ -65,6 +104,32 @@
       "text": "Assuredly, thus said the Lord god: Because it towered high in stature, and thrust its top up among the leafy trees, and it was arrogant in its height,"
     },
     {
+      "block_id": "jsb-ezek-31-10-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-ezek-31-10-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint reads “clouds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-31-11",
       "type": "verse",
       "number": 11,
@@ -89,10 +154,36 @@
       "text": "so that no trees by water should exalt themselves in stature or set their tops among the leafy trees, and that no well-watered tree may reach up to them in height. For they are all consigned to death, to the lowest part of the netherworld, together with human beings who descend into the Pit."
     },
     {
+      "block_id": "jsb-ezek-31-14-commentary-6",
+      "type": "commentary",
+      "text": "To which popular belief relegated those who died uncircumcised or by the sword; cf. v. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ezek-31-15",
       "type": "verse",
       "number": 15,
       "text": "Thus said the Lord god: On the day it went down to Sheol, I closed the deep over it and covered it; I held back its streams, and the great waters were checked. I made Lebanon mourn deeply for it, and all the trees of the field languished on its account."
+    },
+    {
+      "block_id": "jsb-ezek-31-15-commentary-7",
+      "type": "commentary",
+      "text": "Cf. Aramaic ʾabulla, “gate.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-31-16",
@@ -105,6 +196,19 @@
       "type": "verse",
       "number": 17,
       "text": "They also descended with it into Sheol, to those slain by the sword, together with its supporters, they who had lived under its shadow among the nations."
+    },
+    {
+      "block_id": "jsb-ezek-31-17-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “arm.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 31,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-ezek-31-18",

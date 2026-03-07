@@ -1,7 +1,7 @@
 {
   "document_id": "lev-26",
   "title": "Leviticus 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -19,6 +19,19 @@
       "type": "verse",
       "number": 1,
       "text": "You shall not make idols for yourselves, or set up for yourselves carved images or pillars, or place figured stones in your land to worship upon, for I the Lord am your God."
+    },
+    {
+      "block_id": "jsb-lev-26-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. maskith uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 26,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-lev-26-2",
@@ -109,6 +122,19 @@
       "type": "verse",
       "number": 16,
       "text": "I in turn will do this to you: I will wreak misery upon you—consumption and fever, which cause the eyes to pine and the body to languish; you shall sow your seed to no purpose, for your enemies shall eat it."
+    },
+    {
+      "block_id": "jsb-lev-26-16-commentary-2",
+      "type": "commentary",
+      "text": "Precise nature of these ills is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 26,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-lev-26-17",
@@ -259,6 +285,19 @@
       "type": "verse",
       "number": 41,
       "text": "When I, in turn, have been hostile to them and have removed them into the land of their enemies, then at last shall their obdurate heart humble itself, and they shall atone for their iniquity."
+    },
+    {
+      "block_id": "jsb-lev-26-41-commentary-3",
+      "type": "commentary",
+      "text": "Others “uncircumcised”; lit. “blocked.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 26,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-lev-26-42",

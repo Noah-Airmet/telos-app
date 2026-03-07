@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-12",
   "title": "1 Kings 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Jeroboam son of Nebat learned of it while he was still in Egypt; for Jeroboam had fled from King Solomon, and had settled in Egypt."
+    },
+    {
+      "block_id": "jsb-1-kgs-12-2-commentary-1",
+      "type": "commentary",
+      "text": "2 Chron. 10.2 reads “So Jeroboam returned from Egypt.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-kgs-12-3",
@@ -101,6 +114,19 @@
       "text": "When all Israel saw that the king had not listened to them, the people answered the king: “We have no portion in David, No share in Jesse’s son! To your tents, O Israel! Now look to your own House, O David.” So the Israelites returned to their homes."
     },
     {
+      "block_id": "jsb-1-kgs-12-16-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “tents.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 12,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-kgs-12-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "King Rehoboam sent Adoram, who was in charge of the forced labor, but all Israel pelted him to death with stones. Thereupon King Rehoboam hurriedly mounted his chariot and fled to Jerusalem."
+    },
+    {
+      "block_id": "jsb-1-kgs-12-18-commentary-3",
+      "type": "commentary",
+      "text": "Elsewhere called Adoniram; cf. 2 Sam. 20.24 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 12,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-1-kgs-12-19",
@@ -171,6 +210,19 @@
       "type": "verse",
       "number": 28,
       "text": "So the king took counsel and made two golden calves. He said to the people, “You have been going up to Jerusalem long enough. This is your god, O Israel, who brought you up from the land of Egypt!”"
+    },
+    {
+      "block_id": "jsb-1-kgs-12-28-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 12,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-1-kgs-12-29",

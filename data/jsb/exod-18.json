@@ -1,7 +1,7 @@
 {
   "document_id": "exod-18",
   "title": "Exodus 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "and her two sons—of whom one was named Gershom, that is to say, “I have been a stranger in a foreign land”;"
     },
     {
+      "block_id": "jsb-exod-18-3-commentary-1",
+      "type": "commentary",
+      "text": "Heb. ger.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 18,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-exod-18-4",
       "type": "verse",
       "number": 4,
       "text": "and the other was named Eliezer, meaning, “The God of my father was my help, and He delivered me from the sword of Pharaoh.”"
+    },
+    {
+      "block_id": "jsb-exod-18-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “(My) God is help.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 18,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-exod-18-5",
@@ -71,6 +97,19 @@
       "text": "Now I know that the Lord is greater than all gods, yes, by the result of their very schemes against [the people].”"
     },
     {
+      "block_id": "jsb-exod-18-11-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-exod-18-12",
       "type": "verse",
       "number": 12,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "But when Moses’ father-in-law saw how much he had to do for the people, he said, “What is this thing that you are doing to the people? Why do you act alone, while all the people stand about you from morning until evening?”"
+    },
+    {
+      "block_id": "jsb-exod-18-14-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “sit” as magistrate; cf. v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-exod-18-15",

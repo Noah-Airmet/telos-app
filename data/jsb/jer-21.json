@@ -1,7 +1,7 @@
 {
   "document_id": "jer-21",
   "title": "Jeremiah 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "Whoever remains in this city shall die by the sword, by famine, and by pestilence; but whoever leaves and goes over to the Chaldeans who are besieging you shall live; he shall at least gain his life."
     },
     {
+      "block_id": "jsb-jer-21-9-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “he shall have his life as booty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 21,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-jer-21-10",
       "type": "verse",
       "number": 10,
@@ -83,10 +96,36 @@
       "text": "I will deal with you, O inhabitants of the valley, O rock of the plain—declares the Lord— You who say, “Who can come down against us? Who can get into our lairs?”"
     },
     {
+      "block_id": "jsb-jer-21-13-commentary-2",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 21,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-jer-21-14",
       "type": "verse",
       "number": 14,
       "text": "I will punish you according to your deeds —declares the Lord. I will set fire to its forest; It shall consume all that is around it."
+    },
+    {
+      "block_id": "jsb-jer-21-14-commentary-3",
+      "type": "commentary",
+      "text": "Perhaps a reference to the royal palace; cf. 1 Kings 7.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 21,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

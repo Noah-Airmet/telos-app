@@ -1,7 +1,7 @@
 {
   "document_id": "neh-7",
   "title": "Nehemiah 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,32 @@
       "text": "I said to them, “The gates of Jerusalem are not to be opened until the heat of the day, and before you leave your posts let the doors be closed and barred. And assign the inhabitants of Jerusalem to watches, each man to his watch, and each in front of his own house.”"
     },
     {
+      "block_id": "jsb-neh-7-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “sun.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-neh-7-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “while they are still standing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-neh-7-4",
       "type": "verse",
       "number": 4,
@@ -39,6 +65,19 @@
       "type": "verse",
       "number": 6,
       "text": "These are the people of the province who came up from among the captive exiles that Nebuchadnezzar, king of Babylon, had deported, and who returned to Jerusalem and to Judah, each to his own city,"
+    },
+    {
+      "block_id": "jsb-neh-7-6-commentary-3",
+      "type": "commentary",
+      "text": "Vv. 6–43 appear as Ezra 2 with variations in the names and numbers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-neh-7-7",
@@ -383,6 +422,19 @@
       "text": "Of the priests: the sons of Habaiah, the sons of Hakkoz, the sons of Barzillai who had married a daughter of Barzillai the Gileadite and had taken his name—"
     },
     {
+      "block_id": "jsb-neh-7-63-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “their.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 63
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    },
+    {
       "block_id": "jsb-neh-7-64",
       "type": "verse",
       "number": 64,
@@ -393,6 +445,19 @@
       "type": "verse",
       "number": 65,
       "text": "The Tirshatha ordered them not to eat of the most holy things until a priest with Urim and Thummim should appear."
+    },
+    {
+      "block_id": "jsb-neh-7-65-commentary-5",
+      "type": "commentary",
+      "text": "A Persian title.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 65
+      },
+      "verse_start": 65,
+      "verse_end": 65
     },
     {
       "block_id": "jsb-neh-7-66",
@@ -411,6 +476,19 @@
       "type": "verse",
       "number": 68,
       "text": "[Their horses—736, their mules—245,] camels—435, asses—6,720."
+    },
+    {
+      "block_id": "jsb-neh-7-68-commentary-6",
+      "type": "commentary",
+      "text": "These words are missing in some mss. and editions; but cf. Ezra 2.66.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 7,
+        "verse": 68
+      },
+      "verse_start": 68,
+      "verse_end": 68
     },
     {
       "block_id": "jsb-neh-7-69",

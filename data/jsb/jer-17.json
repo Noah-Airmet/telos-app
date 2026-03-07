@@ -1,7 +1,7 @@
 {
   "document_id": "jer-17",
   "title": "Jeremiah 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The guilt of Judah is inscribed With a stylus of iron, Engraved with an adamant point On the tablet of their hearts, And on the horns of their altars,"
+    },
+    {
+      "block_id": "jsb-jer-17-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Surely the horns of their altars / Are as a memorial against them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-jer-17-2",
@@ -23,10 +36,36 @@
       "text": "Because of the sin of your shrines Throughout your borders, I will make your rampart a heap in the field, And all your treasures a spoil."
     },
     {
+      "block_id": "jsb-jer-17-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-17-4",
       "type": "verse",
       "number": 4,
       "text": "You will forfeit, by your own act, The inheritance I have given you; I will make you a slave to your enemies In a land you have never known. For you have kindled the flame of My wrath Which shall burn for all time."
+    },
+    {
+      "block_id": "jsb-jer-17-4-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Your hand must let go.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-17-5",
@@ -39,6 +78,19 @@
       "type": "verse",
       "number": 6,
       "text": "He shall be like a bush in the desert, Which does not sense the coming of good: It is set in the scorched places of the wilderness, In a barren land without inhabitant."
+    },
+    {
+      "block_id": "jsb-jer-17-6-commentary-4",
+      "type": "commentary",
+      "text": "Or “tamarisk”; exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-jer-17-7",
@@ -71,6 +123,19 @@
       "text": "Like a partridge hatching what she did not lay, So is one who amasses wealth by unjust means; In the middle of his life it will leave him, And in the end he will be proved a fool."
     },
     {
+      "block_id": "jsb-jer-17-11-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-jer-17-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +146,32 @@
       "type": "verse",
       "number": 13,
       "text": "O Hope of Israel! O Lord! All who forsake You shall be put to shame, Those in the land who turn from You Shall be doomed men, For they have forsaken the Lord, The Fount of living waters."
+    },
+    {
+      "block_id": "jsb-jer-17-13-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-jer-17-13-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “inscribed”; meaning of line uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-jer-17-14",
@@ -99,6 +190,19 @@
       "type": "verse",
       "number": 16,
       "text": "But I have not evaded Being a shepherd in your service, Nor have I longed for the fatal day. You know the utterances of my lips, They were ever before You."
+    },
+    {
+      "block_id": "jsb-jer-17-16-commentary-8",
+      "type": "commentary",
+      "text": "Exact force of Heb. uncertain. Emendation yields “urged you to [bring] misfortune.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-17-17",
@@ -129,6 +233,19 @@
       "type": "verse",
       "number": 21,
       "text": "Thus said the Lord: Guard yourselves for your own sake against carrying burdens on the sabbath day, and bringing them through the gates of Jerusalem."
+    },
+    {
+      "block_id": "jsb-jer-17-21-commentary-9",
+      "type": "commentary",
+      "text": "Or “merchandise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-jer-17-22",

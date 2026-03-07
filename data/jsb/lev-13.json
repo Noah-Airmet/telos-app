@@ -1,7 +1,7 @@
 {
   "document_id": "lev-13",
   "title": "Leviticus 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,10 +27,36 @@
       "text": "When a person has on the skin of his body a swelling, a rash, or a discoloration, and it develops into a scaly affection on the skin of his body, it shall be reported to Aaron the priest or to one of his sons, the priests."
     },
     {
+      "block_id": "jsb-lev-13-2-commentary-1",
+      "type": "commentary",
+      "text": "Or “he shall be brought.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-lev-13-3",
       "type": "verse",
       "number": 3,
       "text": "The priest shall examine the affection on the skin of his body: if hair in the affected patch has turned white and the affection appears to be deeper than the skin of his body, it is a leprous affection; when the priest sees it, he shall pronounce him unclean."
+    },
+    {
+      "block_id": "jsb-lev-13-3-commentary-2",
+      "type": "commentary",
+      "text": "Heb. ṣaraʿath is used for a variety of diseases. Where a human being is declared unclean by reason of ṣaraʿath, the traditional translation “leprosy” has been retained without regard to modern medical terminology.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-lev-13-4",
@@ -69,10 +95,36 @@
       "text": "When a person has a scaly affection, it shall be reported to the priest."
     },
     {
+      "block_id": "jsb-lev-13-9-commentary-3",
+      "type": "commentary",
+      "text": "See note a at 13.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-lev-13-10",
       "type": "verse",
       "number": 10,
       "text": "If the priest finds on the skin a white swelling which has turned some hair white, with a patch of undiscolored flesh in the swelling,"
+    },
+    {
+      "block_id": "jsb-lev-13-10-commentary-4",
+      "type": "commentary",
+      "text": "Others “quick raw flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-lev-13-11",
@@ -285,6 +337,19 @@
       "text": "As for the person with a leprous affection, his clothes shall be rent, his head shall be left bare, and he shall cover over his upper lip; and he shall call out, “Unclean! Unclean!”"
     },
     {
+      "block_id": "jsb-lev-13-45-commentary-5",
+      "type": "commentary",
+      "text": "See note at 10.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 45
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
       "block_id": "jsb-lev-13-46",
       "type": "verse",
       "number": 46,
@@ -307,6 +372,19 @@
       "type": "verse",
       "number": 49,
       "text": "if the affection in the cloth or the skin, in the warp or the woof, or in any article of skin, is streaky green or red, it is an eruptive affection. It shall be shown to the priest;"
+    },
+    {
+      "block_id": "jsb-lev-13-49-commentary-6",
+      "type": "commentary",
+      "text": "Or “yellow.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
     },
     {
       "block_id": "jsb-lev-13-50",
@@ -343,6 +421,19 @@
       "type": "verse",
       "number": 55,
       "text": "And if, after the affected article has been washed, the priest sees that the affection has not changed color and that it has not spread, it is unclean. It shall be consumed in fire; it is a fret, whether on its inner side or on its outer side."
+    },
+    {
+      "block_id": "jsb-lev-13-55-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. peḥetheth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13,
+        "verse": 55
+      },
+      "verse_start": 55,
+      "verse_end": 55
     },
     {
       "block_id": "jsb-lev-13-56",

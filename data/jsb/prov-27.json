@@ -1,7 +1,7 @@
 {
   "document_id": "prov-27",
   "title": "Proverbs 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "Seize his garment, for he stood surety for another; Take it as a pledge, [for he stood surety] for an unfamiliar woman."
     },
     {
+      "block_id": "jsb-prov-27-13-commentary-1",
+      "type": "commentary",
+      "text": "Or “a stranger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 27,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-prov-27-14",
       "type": "verse",
       "number": 14,
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "As iron sharpens iron So a man sharpens the wit of his friend."
+    },
+    {
+      "block_id": "jsb-prov-27-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “face.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 27,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-prov-27-18",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-25",
   "title": "Exodus 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,32 @@
       "text": "tanned ram skins, dolphin skins, and acacia wood;"
     },
     {
+      "block_id": "jsb-exod-25-5-commentary-1",
+      "type": "commentary",
+      "text": "Others “rams’ skins dyed red.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 25,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-exod-25-5-commentary-2",
+      "type": "commentary",
+      "text": "Or “dugong”; meaning of Hebrew taḥash uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 25,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-exod-25-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +71,19 @@
       "type": "verse",
       "number": 7,
       "text": "lapis lazuli and other stones for setting, for the ephod and for the breastpiece."
+    },
+    {
+      "block_id": "jsb-exod-25-7-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Gen. 2.12 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 25,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-exod-25-8",

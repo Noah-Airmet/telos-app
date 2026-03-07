@@ -1,7 +1,7 @@
 {
   "document_id": "prov-1",
   "title": "Proverbs 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "The fear of the Lord is the beginning of knowledge; Fools despise wisdom and discipline."
+    },
+    {
+      "block_id": "jsb-prov-1-7-commentary-1",
+      "type": "commentary",
+      "text": "Or “best part.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-prov-1-8",
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "Wisdom cries aloud in the streets, Raises her voice in the squares."
+    },
+    {
+      "block_id": "jsb-prov-1-20-commentary-2",
+      "type": "commentary",
+      "text": "In Proverbs, wisdom is personified as a woman.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-prov-1-21",

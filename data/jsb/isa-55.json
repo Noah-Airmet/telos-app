@@ -1,7 +1,7 @@
 {
   "document_id": "isa-55",
   "title": "Isaiah 55",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,32 @@
       "text": "As I made him a leader of peoples, A prince and commander of peoples,"
     },
     {
+      "block_id": "jsb-isa-55-4-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Sam. 22.44–45 (Ps. 18.44–45).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 55,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-55-4-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Targum; others “witness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 55,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-55-5",
       "type": "verse",
       "number": 5,
@@ -53,6 +79,19 @@
       "text": "For My plans are not your plans, Nor are My ways your ways —declares the Lord."
     },
     {
+      "block_id": "jsb-isa-55-8-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “words”; cf. v. 11 and 40.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 55,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-55-9",
       "type": "verse",
       "number": 9,
@@ -65,6 +104,19 @@
       "text": "For as the rain or snow drops from heaven And returns not there, But soaks the earth And makes it bring forth vegetation, Yielding seed for sowing and bread for eating,"
     },
     {
+      "block_id": "jsb-isa-55-10-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “seed for the sower and bread for the eater.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 55,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-55-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +127,19 @@
       "type": "verse",
       "number": 12,
       "text": "Yea, you shall leave in joy and be led home secure. Before you, mount and hill shall shout aloud, And all the trees of the field shall clap their hands."
+    },
+    {
+      "block_id": "jsb-isa-55-12-commentary-5",
+      "type": "commentary",
+      "text": "I.e., leave the Babylonian exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 55,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-55-13",

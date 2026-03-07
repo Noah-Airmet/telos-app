@@ -1,7 +1,7 @@
 {
   "document_id": "exod-11",
   "title": "Exodus 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "but not a dog shall snarl at any of the Israelites, at man or beast—in order that you may know that the Lord makes a distinction between Egypt and Israel."
+    },
+    {
+      "block_id": "jsb-exod-11-7-commentary-1",
+      "type": "commentary",
+      "text": "Others “move (or whet) his tongue.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 11,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-exod-11-8",

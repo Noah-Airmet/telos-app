@@ -1,7 +1,7 @@
 {
   "document_id": "josh-11",
   "title": "Joshua 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "and to the other kings in the north—in the hill country, in the Arabah south of Chinnereth, in the lowlands, and in the district of Dor on the west;"
+    },
+    {
+      "block_id": "jsb-josh-11-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 11,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-josh-11-3",
@@ -51,6 +64,32 @@
       "type": "verse",
       "number": 8,
       "text": "The Lord delivered them into the hands of Israel, and they defeated them and pursued them all the way to Great Sidon and Misrephothmaim, and all the way to the Valley of Mizpeh on the east; they crushed them, letting none escape."
+    },
+    {
+      "block_id": "jsb-josh-11-8-commentary-2",
+      "type": "commentary",
+      "text": "Change of vocalization yields “and Misrephoth on the west.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-josh-11-8-commentary-3",
+      "type": "commentary",
+      "text": "Apparently identical with Mizpah in v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-josh-11-9",
@@ -105,6 +144,19 @@
       "type": "verse",
       "number": 17,
       "text": "[everything] from Mount Halak, which ascends to Seir, all the way to Baal-gad in the Valley of the Lebanon at the foot of Mount Hermon; and he captured all the kings there and executed them."
+    },
+    {
+      "block_id": "jsb-josh-11-17-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the valley between the Lebanon and Anti-Lebanon ranges.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 11,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-josh-11-18",

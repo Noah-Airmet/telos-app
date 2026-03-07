@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-4",
   "title": "1 Samuel 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "and Samuel’s word went forth to all Israel. Israel marched out to engage the Philistines in battle; they encamped near Eben-ezer, while the Philistines encamped at Aphek."
     },
     {
+      "block_id": "jsb-1-sam-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Preceding this, Septuagint has “In those days, the Philistines gathered for war against Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-1-sam-4-2",
       "type": "verse",
       "number": 2,
       "text": "The Philistines arrayed themselves against Israel; and when the battle was fought, Israel was routed by the Philistines, who slew about four thousand men on the field of battle."
+    },
+    {
+      "block_id": "jsb-1-sam-4-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-sam-4-3",
@@ -77,6 +103,19 @@
       "text": "A Benjaminite ran from the battlefield and reached Shiloh the same day; his clothes were rent and there was earth on his head."
     },
     {
+      "block_id": "jsb-1-sam-4-12-commentary-3",
+      "type": "commentary",
+      "text": "I.e., as a sign of mourning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 4,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-1-sam-4-13",
       "type": "verse",
       "number": 13,
@@ -111,6 +150,19 @@
       "type": "verse",
       "number": 18,
       "text": "When he mentioned the Ark of God, [Eli] fell backward off the seat beside the gate, broke his neck and died; for he was an old man and heavy. He had been a chieftain of Israel for forty years."
+    },
+    {
+      "block_id": "jsb-1-sam-4-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-1-sam-4-19",

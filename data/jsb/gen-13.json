@@ -1,7 +1,7 @@
 {
   "document_id": "gen-13",
   "title": "Genesis 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "Is not the whole land before you? Let us separate: if you go north, I will go south; and if you go south, I will go north.”"
+    },
+    {
+      "block_id": "jsb-gen-13-9-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Please separate from me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 13,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-gen-13-10",

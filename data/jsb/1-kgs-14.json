@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-14",
   "title": "1 Kings 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "Therefore I will bring disaster upon the House of Jeroboam and will cut off from Jeroboam every male, bond and free, in Israel. I will sweep away the House of Jeroboam utterly, as dung is swept away."
     },
     {
+      "block_id": "jsb-1-kgs-14-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; possibly “kinsman and friend,” cf. 16.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 14,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-1-kgs-14-11",
       "type": "verse",
       "number": 11,
@@ -87,6 +100,19 @@
       "type": "verse",
       "number": 14,
       "text": "Moreover, the Lord will raise up a king over Israel who will destroy the House of Jeroboam, this day and even now."
+    },
+    {
+      "block_id": "jsb-1-kgs-14-14-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 14,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-kgs-14-15",
@@ -165,6 +191,19 @@
       "type": "verse",
       "number": 27,
       "text": "King Rehoboam had bronze shields made instead, and he entrusted them to the officers of the guard who guarded the entrance to the royal palace."
+    },
+    {
+      "block_id": "jsb-1-kgs-14-27-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “runners.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 14,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-1-kgs-14-28",

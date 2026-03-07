@@ -1,7 +1,7 @@
 {
   "document_id": "prov-29",
   "title": "Proverbs 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -131,6 +131,19 @@
       "text": "A slave pampered from youth Will come to a bad end."
     },
     {
+      "block_id": "jsb-prov-29-21-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 29,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-prov-29-22",
       "type": "verse",
       "number": 22,
@@ -147,6 +160,19 @@
       "type": "verse",
       "number": 24,
       "text": "He who shares with a thief is his own enemy; He hears the imprecation and does not tell."
+    },
+    {
+      "block_id": "jsb-prov-29-24-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Lev. 5.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 29,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-prov-29-25",

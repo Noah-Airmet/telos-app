@@ -1,7 +1,7 @@
 {
   "document_id": "jer-16",
   "title": "Jeremiah 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "For thus said the Lord: Do not enter a house of mourning, Do not go to lament and to condole with them; For I have withdrawn My favor from that people —declares the Lord— My kindness and compassion."
     },
     {
+      "block_id": "jsb-jer-16-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “religious gathering.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-jer-16-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +58,32 @@
       "type": "verse",
       "number": 7,
       "text": "They shall not break bread for a mourner To comfort him for a bereavement, Nor offer one a cup of consolation For the loss of his father or mother."
+    },
+    {
+      "block_id": "jsb-jer-16-7-commentary-2",
+      "type": "commentary",
+      "text": "So a few mss. Most mss. and editions read “to them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-jer-16-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “mourning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-jer-16-8",
@@ -111,6 +150,32 @@
       "type": "verse",
       "number": 18,
       "text": "I will pay them in full— Nay, doubly for their iniquity and their sins— Because they have defiled My land With the corpses of their abominations, And have filled My own possession With their abhorrent things."
+    },
+    {
+      "block_id": "jsb-jer-16-18-commentary-4",
+      "type": "commentary",
+      "text": "See note to Isa. 65.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-jer-16-18-commentary-5",
+      "type": "commentary",
+      "text": "I.e., their lifeless idols.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-16-19",

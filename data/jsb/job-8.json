@@ -1,7 +1,7 @@
 {
   "document_id": "job-8",
   "title": "Job 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -87,6 +87,19 @@
       "type": "verse",
       "number": 14,
       "text": "Whose confidence is a thread of gossamer, Whose trust is a spider’s web."
+    },
+    {
+      "block_id": "jsb-job-8-14-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-job-8-15",

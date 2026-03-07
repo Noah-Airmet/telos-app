@@ -1,7 +1,7 @@
 {
   "document_id": "neh-2",
   "title": "Nehemiah 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -123,6 +123,19 @@
       "type": "verse",
       "number": 20,
       "text": "I said to them in reply, “The God of Heaven will grant us success, and we, His servants, will start building. But you have no share or claim or stake in Jerusalem!”"
+    },
+    {
+      "block_id": "jsb-neh-2-20-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “record.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

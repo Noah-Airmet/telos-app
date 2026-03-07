@@ -1,7 +1,7 @@
 {
   "document_id": "isa-10",
   "title": "Isaiah 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "What will you do on the day of punishment, When the calamity comes from afar? To whom will you flee for help, And how will you save your carcasses"
     },
     {
+      "block_id": "jsb-isa-10-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; for “carcasses,” compare the rendering of kabod in v. 16; 22.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-10-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "Ha! Assyria, rod of My anger, In whose hand, as a staff, is My fury!"
+    },
+    {
+      "block_id": "jsb-isa-10-5-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Who is a staff in the hand of my fury.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-10-6",
@@ -53,6 +79,19 @@
       "text": "For he thinks, “After all, I have kings as my captains!"
     },
     {
+      "block_id": "jsb-isa-10-8-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “all the kingdoms fared alike!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-10-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +102,19 @@
       "type": "verse",
       "number": 10,
       "text": "Since I was able to seize The insignificant kingdoms, Whose images exceeded Jerusalem’s and Samaria’s,"
+    },
+    {
+      "block_id": "jsb-isa-10-10-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “Since I was able to seize / those kingdoms and their images, / Why is Jerusalem better than Samaria?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-10-11",
@@ -77,10 +129,36 @@
       "text": "But when my Lord has carried out all his purpose on Mount Zion and in Jerusalem, He will punish the majestic pride and overbearing arrogance of the king of Assyria."
     },
     {
+      "block_id": "jsb-isa-10-12-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “I.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-10-13",
       "type": "verse",
       "number": 13,
       "text": "For he thought, “By the might of my hand have I wrought it, By my skill, for I am clever: I have erased the borders of peoples; I have plundered their treasures, And exiled their vast populations."
+    },
+    {
+      "block_id": "jsb-isa-10-13-commentary-6",
+      "type": "commentary",
+      "text": "According to vv. 6–7, Assyria was to plunder, but not to exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-isa-10-14",
@@ -95,10 +173,62 @@
       "text": "Does an ax boast over him who hews with it, Or a saw magnify itself above him who wields it? As though the rod raised him who lifts it, As though the staff lifted the man!"
     },
     {
+      "block_id": "jsb-isa-10-15-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “not-wood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-isa-10-16",
       "type": "verse",
       "number": 16,
       "text": "Assuredly, The Sovereign Lord of Hosts will send A wasting away in its fatness; And under its body shall burn A burning like that of fire, Destroying frame and flesh. It shall be like a sick man who pines away."
+    },
+    {
+      "block_id": "jsb-isa-10-16-commentary-8",
+      "type": "commentary",
+      "text": "Presumably Israel’s. These verses would read well after 9.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-isa-10-16-commentary-9",
+      "type": "commentary",
+      "text": "Cf. note at v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-isa-10-16-commentary-10",
+      "type": "commentary",
+      "text": "Brought up from v. 18 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-10-17",
@@ -123,6 +253,19 @@
       "type": "verse",
       "number": 20,
       "text": "And in that day, The remnant of Israel And the escaped of the House of Jacob Shall lean no more upon him that beats it, But shall lean sincerely On the Lord, the Holy One of Israel."
+    },
+    {
+      "block_id": "jsb-isa-10-20-commentary-11",
+      "type": "commentary",
+      "text": "I.e., upon Assyria (see v. 24). Ahaz’s reliance on Assyria was interpreted by Isaiah as lack of faith in the Lord; see 7.13 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-isa-10-21",
@@ -155,16 +298,55 @@
       "text": "For very soon My wrath will have spent itself, and My anger that was bent on wasting them.”"
     },
     {
+      "block_id": "jsb-isa-10-25-commentary-12",
+      "type": "commentary",
+      "text": "Presumably Assyria; meaning of Heb. uncertain. Emendation yields “My anger against the world shall cease.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-isa-10-26",
       "type": "verse",
       "number": 26,
       "text": "The Lord of Hosts will brandish a scourge over him as when He beat Midian at the Rock of Oreb, and will wield His staff as He did over the Egyptians by the sea."
     },
     {
+      "block_id": "jsb-isa-10-26-commentary-13",
+      "type": "commentary",
+      "text": "See Judg. 7.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-isa-10-27",
       "type": "verse",
       "number": 27,
       "text": "And in that day, His burden shall drop from your back, And his yoke from your neck; The yoke shall be destroyed because of fatness."
+    },
+    {
+      "block_id": "jsb-isa-10-27-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “And his yoke shall leave your neck. / He came up from Jeshimon / 28By the ascent of Aiath, / He proceeded to Migron; / At Michmas he commanded his forces: / 29‘Make the crossing; / Geba is to be our night quarters!’” Jeshimon is the southeast corner of the Jordan Valley, Num. 21.20; 23.28; Aiath is elsewhere called Ai.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-isa-10-28",
@@ -197,6 +379,19 @@
       "text": "This same day at Nob He shall stand and wave his hand. O mount of Fair Zion! O hill of Jerusalem!"
     },
     {
+      "block_id": "jsb-isa-10-32-commentary-15",
+      "type": "commentary",
+      "text": "I.e., the Assyrian king, arriving at Nob (close to Jerusalem), shall beckon his army onward; cf. 13.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-isa-10-33",
       "type": "verse",
       "number": 33,
@@ -207,6 +402,19 @@
       "type": "verse",
       "number": 34,
       "text": "The thickets of the forest shall be hacked away with iron, And the Lebanon trees shall fall in their majesty."
+    },
+    {
+      "block_id": "jsb-isa-10-34-commentary-16",
+      "type": "commentary",
+      "text": "Or “by the bronze,” connecting Heb. ʾaddir with Akkadian urudu, “bronze.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 10,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     }
   ]
 }

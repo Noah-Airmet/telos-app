@@ -1,7 +1,7 @@
 {
   "document_id": "mic-1",
   "title": "Micah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "All this is for the transgression of Jacob, And for the sins of the House of Israel. What is the transgression of Jacob But Samaria, And what the shrines of Judah But Jerusalem?"
     },
     {
+      "block_id": "jsb-mic-1-5-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “sins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-mic-1-6",
       "type": "verse",
       "number": 6,
@@ -59,10 +72,62 @@
       "text": "For her wound is incurable, It has reached Judah, It has spread to the gate of my people, To Jerusalem."
     },
     {
+      "block_id": "jsb-mic-1-9-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the ­nation’s.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-mic-1-10",
       "type": "verse",
       "number": 10,
       "text": "Tell it not in Gath, Refrain from weeping; In Beth-­leaphrah, Strew dust over your [head]."
+    },
+    {
+      "block_id": "jsb-mic-1-10-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of much of vv. 10–13 uncertain. They may refer to the transfer of part of western Judah to Philistine rule by Sennacherib of Assyria in the year 701 b.c.e.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-mic-1-10-commentary-4",
+      "type": "commentary",
+      "text": "So that enemies may not gloat; cf. 2 Sam. 1.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-mic-1-10-commentary-5",
+      "type": "commentary",
+      "text": "Heb. ≤aphar, a play on Beth-­leaphrah; vv. 10–15 contain several similar puns.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-mic-1-11",
@@ -89,6 +154,19 @@
       "text": "Truly, you must give a farewell gift To Moresheth-­gath. The houses of Achzib are To the kings of Israel Like a spring that fails."
     },
     {
+      "block_id": "jsb-mic-1-14-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Fair Achzib is.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-mic-1-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +177,19 @@
       "type": "verse",
       "number": 16,
       "text": "Shear off your hair and make yourself bald For the children you once delighted in; Make yourself as bald as a vulture, For they have been banished from you."
+    },
+    {
+      "block_id": "jsb-mic-1-16-commentary-7",
+      "type": "commentary",
+      "text": "A common rite of mourning; cf. Jer. 7.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

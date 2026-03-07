@@ -1,7 +1,7 @@
 {
   "document_id": "isa-17",
   "title": "Isaiah 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "The towns of Aroer shall be deserted; They shall be a place for flocks To lie down, with none disturbing."
     },
     {
+      "block_id": "jsb-isa-17-2-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields (cf. Septuagint) “Its towns shall be deserted forevermore.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 17,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-17-3",
       "type": "verse",
       "number": 3,
       "text": "Fortresses shall cease from Ephraim, And sovereignty from Damascus; The remnant of Aram shall become Like the mass of Israelites —declares the Lord of Hosts."
+    },
+    {
+      "block_id": "jsb-isa-17-3-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Aram.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-17-4",
@@ -41,6 +67,19 @@
       "text": "Only gleanings shall be left of him, As when one beats an olive tree: Two berries or three on the topmost branch, Four or five on the boughs of the crown —declares the Lord, the God of Israel."
     },
     {
+      "block_id": "jsb-isa-17-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “on her boughs, the many-branched one.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 17,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-17-7",
       "type": "verse",
       "number": 7,
@@ -59,10 +98,36 @@
       "text": "In that day, their fortress cities shall be like the deserted sites which the Horesh and the Amir abandoned because of the Israelites; and there shall be desolation."
     },
     {
+      "block_id": "jsb-isa-17-9-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “the Amorites and the Hivites.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 17,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-17-10",
       "type": "verse",
       "number": 10,
       "text": "Truly, you have forgotten the God who saves you And have not remembered the Rock who shelters you; That is why, though you plant a delightful sapling, What you sow proves a disappointing slip."
+    },
+    {
+      "block_id": "jsb-isa-17-10-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “true.” So Vulgate (cf. Septuagint); cf. Jer. 2.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 17,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-17-11",

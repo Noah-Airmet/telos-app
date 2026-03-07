@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-6",
   "title": "2 Samuel 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,49 @@
       "text": "Then David and all the troops that were with him set out from Baalim of Judah to bring up from there the Ark of God to which the Name was attached, the name Lord of Hosts Enthroned on the Cherubim."
     },
     {
+      "block_id": "jsb-2-sam-6-2-commentary-1",
+      "type": "commentary",
+      "text": "Vv. 2–12 are found also in 1 Chron. 13.5–14, with variations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-2-sam-6-2-commentary-2",
+      "type": "commentary",
+      "text": "Identical with Baalah, another name for Kiriath-jearim, where the Ark had been kept (cf. 1 Sam. 6.21; 1 Chron. 13.6; Josh. 15.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-2-sam-6-3",
       "type": "verse",
       "number": 3,
       "text": "They loaded the Ark of God onto a new cart and conveyed it from the house of Abinadab, which was on the hill; and Abinadab’s sons, Uzza and Ahio, guided the new cart."
+    },
+    {
+      "block_id": "jsb-2-sam-6-3-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint and 4QSama read “cart alongside.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-6-4",
@@ -29,10 +68,36 @@
       "text": "They conveyed it from Abinadab’s house on the hill, [Uzzah walking] alongside the Ark of God and Ahio walking in front of the Ark."
     },
     {
+      "block_id": "jsb-2-sam-6-4-commentary-4",
+      "type": "commentary",
+      "text": "Cf. vv. 6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-2-sam-6-5",
       "type": "verse",
       "number": 5,
       "text": "Meanwhile, David and all the House of Israel danced before the Lord to [the sound of] all kinds of cypress wood [instruments], with lyres, harps, timbrels, sistrums, and cymbals."
+    },
+    {
+      "block_id": "jsb-2-sam-6-5-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Kimhi; the parallel passage 1 Chron. 13.8 reads “with all their might and with songs.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-sam-6-6",
@@ -47,10 +112,36 @@
       "text": "The Lord was incensed at Uzzah. And God struck him down on the spot for his indiscretion, and he died there beside the Ark of God."
     },
     {
+      "block_id": "jsb-2-sam-6-7-commentary-6",
+      "type": "commentary",
+      "text": "So Targum; 1 Chron. 13.10 reads “because he had laid a hand on the Ark.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-2-sam-6-8",
       "type": "verse",
       "number": 8,
       "text": "David was distressed because the Lord had inflicted a breach upon Uzzah; and that place was named Perez-uzzah, as it is still called."
+    },
+    {
+      "block_id": "jsb-2-sam-6-8-commentary-7",
+      "type": "commentary",
+      "text": "I.e., “the Breach of Uzzah”; cf. 5.20 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-sam-6-9",
@@ -77,10 +168,36 @@
       "text": "It was reported to King David: “The Lord has blessed Obed-edom’s house and all that belongs to him because of the Ark of God.” Thereupon David went and brought up the Ark of God from the house of Obed-edom to the City of David, amid rejoicing."
     },
     {
+      "block_id": "jsb-2-sam-6-12-commentary-8",
+      "type": "commentary",
+      "text": "Vv. 12b–14 are found, with variations, in 1 Chron. 15.25–27; vv. 15–19a, with variations, in 1 Chron. 15.28–16.3; vv. 19b–20a, with variations, in 1 Chron. 16.43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-sam-6-13",
       "type": "verse",
       "number": 13,
       "text": "When the bearers of the Ark of the Lord had moved forward six paces, he sacrificed an ox and a fatling."
+    },
+    {
+      "block_id": "jsb-2-sam-6-13-commentary-9",
+      "type": "commentary",
+      "text": "4QSama reads “seven oxen and seven [rams]”; cf. 1 Chron. 15.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-sam-6-14",
@@ -119,6 +236,19 @@
       "text": "And he distributed among all the people—the entire multitude of Israel, man and woman alike—to each a loaf of bread, a cake made in a pan, and a raisin cake. Then all the people left for their homes."
     },
     {
+      "block_id": "jsb-2-sam-6-19-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-2-sam-6-20",
       "type": "verse",
       "number": 20,
@@ -135,6 +265,19 @@
       "type": "verse",
       "number": 22,
       "text": "and dishonor myself even more, and be low in my own esteem; but among the slavegirls that you speak of I will be honored.”"
+    },
+    {
+      "block_id": "jsb-2-sam-6-22-commentary-11",
+      "type": "commentary",
+      "text": "Septuagint reads “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 6,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-2-sam-6-23",

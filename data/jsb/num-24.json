@@ -1,7 +1,7 @@
 {
   "document_id": "num-24",
   "title": "Numbers 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,32 @@
       "type": "verse",
       "number": 3,
       "text": "Taking up his theme, he said: Word of Balaam son of Beor, Word of the man whose eye is true,"
+    },
+    {
+      "block_id": "jsb-num-24-3-commentary-1",
+      "type": "commentary",
+      "text": "Some of the poetic portions of this chapter are unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-num-24-3-commentary-2",
+      "type": "commentary",
+      "text": "Others “whose eye is (or, eyes are) open”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-24-4",
@@ -47,16 +73,55 @@
       "text": "Their boughs drip with moisture, Their roots have abundant water. Their king shall rise above Agag, Their kingdom shall be exalted."
     },
     {
+      "block_id": "jsb-num-24-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “and its seed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-num-24-8",
       "type": "verse",
       "number": 8,
       "text": "God who freed them from Egypt Is for them like the horns of the wild ox. They shall devour enemy nations, Crush their bones, And smash their arrows."
     },
     {
+      "block_id": "jsb-num-24-8-commentary-4",
+      "type": "commentary",
+      "text": "See note at 23.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-num-24-9",
       "type": "verse",
       "number": 9,
       "text": "They crouch, they lie down like a lion, Like the king of beasts; who dare rouse them? Blessed are they who bless you, Accursed they who curse you!"
+    },
+    {
+      "block_id": "jsb-num-24-9-commentary-5",
+      "type": "commentary",
+      "text": "Heb. labi, another word for “lion”; cf. note at 23.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-24-10",
@@ -107,6 +172,19 @@
       "text": "What I see for them is not yet, What I behold will not be soon: A star rises from Jacob, A scepter comes forth from Israel; It smashes the brow of Moab, The foundation of all children of Seth."
     },
     {
+      "block_id": "jsb-num-24-17-commentary-6",
+      "type": "commentary",
+      "text": "Samaritan “the pate of,” cf. Jer. 48.45; others “breaks down.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-num-24-18",
       "type": "verse",
       "number": 18,
@@ -135,6 +213,19 @@
       "type": "verse",
       "number": 22,
       "text": "Yet shall Kain be consumed, When Asshur takes you captive."
+    },
+    {
+      "block_id": "jsb-num-24-22-commentary-7",
+      "type": "commentary",
+      "text": "I.e., the Kenites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 24,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-num-24-23",

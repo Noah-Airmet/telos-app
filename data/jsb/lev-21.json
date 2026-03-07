@@ -1,7 +1,7 @@
 {
   "document_id": "lev-21",
   "title": "Leviticus 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "But he shall not defile himself as a kinsman by marriage, and so profane himself."
+    },
+    {
+      "block_id": "jsb-lev-21-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “as a husband among his kin”; meaning uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 21,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-lev-21-5",
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "The priest who is exalted above his fellows, on whose head the anointing oil has been poured and who has been ordained to wear the vestments, shall not bare his head or rend his vestments."
+    },
+    {
+      "block_id": "jsb-lev-21-10-commentary-2",
+      "type": "commentary",
+      "text": "See note at 10.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 21,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-lev-21-11",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "No one at all who has a defect shall be qualified: no man who is blind, or lame, or has a limb too short or too long;"
+    },
+    {
+      "block_id": "jsb-lev-21-18-commentary-3",
+      "type": "commentary",
+      "text": "Or “mutilated or has a limb too long.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 21,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-lev-21-19",

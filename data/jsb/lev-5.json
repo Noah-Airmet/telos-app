@@ -1,7 +1,7 @@
 {
   "document_id": "lev-5",
   "title": "Leviticus 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "text": "If a person incurs guilt— When he has heard a public imprecation and—although able to testify as one who has either seen or learned of the matter—he does not give information, so that he is subject to punishment;"
     },
     {
+      "block_id": "jsb-lev-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Namely, against one who withholds testimony.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-lev-5-2",
       "type": "verse",
       "number": 2,
@@ -37,6 +50,19 @@
       "type": "verse",
       "number": 4,
       "text": "Or when a person utters an oath to bad or good purpose—whatever a man may utter in an oath—and, though he has known it, the fact has escaped him, but later he realizes his guilt in any of these matters—"
+    },
+    {
+      "block_id": "jsb-lev-5-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “utters with his lips.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-lev-5-5",
@@ -123,6 +149,19 @@
       "text": "He shall bring to the priest a ram without blemish from the flock, or the equivalent, as a guilt offering. The priest shall make expiation on his behalf for the error that he committed unwittingly, and he shall be forgiven."
     },
     {
+      "block_id": "jsb-lev-5-18-commentary-3",
+      "type": "commentary",
+      "text": "I.e., in currency; cf. v. 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 5,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-lev-5-19",
       "type": "verse",
       "number": 19,
@@ -139,6 +178,19 @@
       "type": "verse",
       "number": 21,
       "text": "When a person sins and commits a trespass against the Lord by dealing deceitfully with his fellow in the matter of a deposit or a pledge, or through robbery, or by defrauding his fellow,"
+    },
+    {
+      "block_id": "jsb-lev-5-21-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 5,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-lev-5-22",

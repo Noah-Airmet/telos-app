@@ -1,7 +1,7 @@
 {
   "document_id": "ps-22",
   "title": "Psalms 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "But You are the Holy One, enthroned, the Praise of Israel."
     },
     {
+      "block_id": "jsb-ps-22-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “But You are holy, enthroned upon the praises of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-22-5",
       "type": "verse",
       "number": 5,
@@ -53,6 +66,19 @@
       "text": "All who see me mock me; they curl their lips, they shake their heads."
     },
     {
+      "block_id": "jsb-ps-22-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “they open wide with a lip.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-22-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "You drew me from the womb, made me secure at my mother’s breast."
+    },
+    {
+      "block_id": "jsb-ps-22-10-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-22-11",
@@ -95,6 +134,19 @@
       "text": "My life ebbs away: all my bones are disjointed; my heart is like wax, melting within me;"
     },
     {
+      "block_id": "jsb-ps-22-15-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “I am poured out like water.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ps-22-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +157,19 @@
       "type": "verse",
       "number": 17,
       "text": "Dogs surround me; a pack of evil ones closes in on me, like lions [they maul] my hands and feet."
+    },
+    {
+      "block_id": "jsb-ps-22-17-commentary-5",
+      "type": "commentary",
+      "text": "With Rashi; cf. Isa. 38.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-ps-22-18",
@@ -131,10 +196,36 @@
       "text": "Save my life from the sword, my precious life from the clutches of a dog."
     },
     {
+      "block_id": "jsb-ps-22-21-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “only one.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-ps-22-22",
       "type": "verse",
       "number": 22,
       "text": "Deliver me from a lion’s mouth; from the horns of wild oxen rescue me."
+    },
+    {
+      "block_id": "jsb-ps-22-22-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “answer.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ps-22-23",
@@ -155,10 +246,36 @@
       "text": "For He did not scorn, He did not spurn the plea of the lowly; He did not hide His face from him; when he cried out to Him, He listened."
     },
     {
+      "block_id": "jsb-ps-22-25-commentary-8",
+      "type": "commentary",
+      "text": "Or “plight.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-ps-22-26",
       "type": "verse",
       "number": 26,
       "text": "Because of You I offer praise in the great congregation; I pay my vows in the presence of His worshipers."
+    },
+    {
+      "block_id": "jsb-ps-22-26-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “From You is my praise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-ps-22-27",
@@ -183,6 +300,19 @@
       "type": "verse",
       "number": 30,
       "text": "All those in full vigor shall eat and prostrate themselves; all those at death’s door, whose spirits flag, shall bend the knee before Him."
+    },
+    {
+      "block_id": "jsb-ps-22-30-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “All the fat ones of the earth shall eat and worship; / All they that go down to the dust shall kneel before Him, / Even he that cannot keep his soul alive.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 22,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-ps-22-31",

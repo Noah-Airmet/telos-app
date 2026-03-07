@@ -1,7 +1,7 @@
 {
   "document_id": "lev-22",
   "title": "Leviticus 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "No man of Aaron’s offspring who has an eruption or a discharge shall eat of the sacred donations until he is clean. If one touches anything made unclean by a corpse, or if a man has an emission of semen,"
+    },
+    {
+      "block_id": "jsb-lev-22-4-commentary-1",
+      "type": "commentary",
+      "text": "See chapters 13 and 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-lev-22-5",
@@ -131,6 +144,19 @@
       "text": "And when a man offers, from the herd or the flock, a sacrifice of well-being to the Lord for an explicit vow or as a freewill offering, it must, to be acceptable, be without blemish; there must be no defect in it."
     },
     {
+      "block_id": "jsb-lev-22-21-commentary-2",
+      "type": "commentary",
+      "text": "Or “unspecified” or “extraordinary”; meaning of Heb. lephalle uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 22,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-lev-22-22",
       "type": "verse",
       "number": 22,
@@ -147,6 +173,19 @@
       "type": "verse",
       "number": 24,
       "text": "You shall not offer to the Lord anything [with its testes] bruised or crushed or torn or cut. You shall have no such practices in your own land,"
+    },
+    {
+      "block_id": "jsb-lev-22-24-commentary-3",
+      "type": "commentary",
+      "text": "I.e., mutilations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 22,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-lev-22-25",

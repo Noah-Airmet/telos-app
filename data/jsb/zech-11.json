@@ -1,7 +1,7 @@
 {
   "document_id": "zech-11",
   "title": "Zechariah 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,36 @@
       "text": "So I tended the sheep meant for slaughter, for those poor men of the sheep. I got two staffs, one of which I named Favor and the other Unity, and I proceeded to tend the sheep."
     },
     {
+      "block_id": "jsb-zech-11-7-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “for the sheep dealers”; cf. the word rendered “trader” in 14.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-zech-11-8",
       "type": "verse",
       "number": 8,
       "text": "But I lost the three shepherds in one month; then my patience with them was at an end, and they in turn were disgusted with me."
+    },
+    {
+      "block_id": "jsb-zech-11-8-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “a third of the flock.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-zech-11-9",
@@ -65,10 +91,49 @@
       "text": "Taking my staff Favor, I cleft it in two, so as to annul the covenant I had made with all the peoples;"
     },
     {
+      "block_id": "jsb-zech-11-10-commentary-3",
+      "type": "commentary",
+      "text": "Perhaps alluding to the prediction of 14.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-zech-11-11",
       "type": "verse",
       "number": 11,
       "text": "and when it was annulled that day, the same poor men of the sheep who watched me realized that it was a message from the Lord."
+    },
+    {
+      "block_id": "jsb-zech-11-11-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “the sheep dealers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-zech-11-11-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “hired.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-zech-11-12",
@@ -83,10 +148,36 @@
       "text": "the noble sum that I was worth in their estimation. The Lord said to me, “Deposit it in the treasury.” And I took the thirty shekels and deposited it in the treasury in the House of the Lord."
     },
     {
+      "block_id": "jsb-zech-11-13-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-zech-11-14",
       "type": "verse",
       "number": 14,
       "text": "Then I cleft in two my second staff, Unity, in order to annul the brotherhood between Judah and Israel."
+    },
+    {
+      "block_id": "jsb-zech-11-14-commentary-7",
+      "type": "commentary",
+      "text": "Two mss. of the Septuagint have “Jerusalem”; cf. 12.2–3; 14.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 11,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-zech-11-15",

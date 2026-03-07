@@ -1,7 +1,7 @@
 {
   "document_id": "isa-31",
   "title": "Isaiah 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "But He too is wise! He has brought on misfortune, And has not canceled His word. So He shall rise against the house of evildoers, And the allies of the workers of iniquity."
+    },
+    {
+      "block_id": "jsb-isa-31-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “help.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-31-3",
@@ -41,6 +54,19 @@
       "text": "Return, O children of Israel, to Him to whom they have been so shamefully false;"
     },
     {
+      "block_id": "jsb-isa-31-6-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Then the children of Israel shall return.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-31-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +79,62 @@
       "text": "Then Assyria shall fall, Not by the sword of man; A sword not of humans shall devour him. He shall shrivel before the sword, And his young men pine away."
     },
     {
+      "block_id": "jsb-isa-31-8-commentary-3",
+      "type": "commentary",
+      "text": "From root nss; cf. 10.18; others “flee.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-31-8-commentary-4",
+      "type": "commentary",
+      "text": "From root mss; cf. 10.18; others “become tributary.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-31-9",
       "type": "verse",
       "number": 9,
       "text": "His rock shall melt with terror, And his officers shall collapse from weakness— Declares the Lord, who has a fire in Zion, Who has an oven in Jerusalem."
+    },
+    {
+      "block_id": "jsb-isa-31-9-commentary-5",
+      "type": "commentary",
+      "text": "Cf. note c; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-isa-31-9-commentary-6",
+      "type": "commentary",
+      "text": "Cf. 30.33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 31,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     }
   ]
 }

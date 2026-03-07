@@ -1,7 +1,7 @@
 {
   "document_id": "jer-33",
   "title": "Jeremiah 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "For thus said the Lord, the God of Israel, concerning the houses of this city and the palaces of the kings of Judah that were torn down for [defense] against the siegemounds and against the sword,"
     },
     {
+      "block_id": "jsb-jer-33-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 33,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-jer-33-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "I am going to bring her relief and healing. I will heal them and reveal to them abundance of true favor."
+    },
+    {
+      "block_id": "jsb-jer-33-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 33,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-jer-33-7",
@@ -57,6 +83,19 @@
       "type": "verse",
       "number": 9,
       "text": "And she shall gain through Me renown, joy, fame, and glory above all the nations on earth, when they hear of all the good fortune I provide for them. They will thrill and quiver because of all the good fortune and all the prosperity that I provide for her."
+    },
+    {
+      "block_id": "jsb-jer-33-9-commentary-3",
+      "type": "commentary",
+      "text": "I.e., for Judah and Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 33,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jer-33-10",
@@ -147,6 +186,19 @@
       "type": "verse",
       "number": 24,
       "text": "You see what this people said: “The two families which the Lord chose have now been rejected by Him.” Thus they despise My people, and regard them as no longer a nation."
+    },
+    {
+      "block_id": "jsb-jer-33-24-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 33,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-jer-33-25",

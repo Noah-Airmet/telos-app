@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-4",
   "title": "Ezekiel 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "Then take an iron plate and place it as an iron wall between yourself and the city, and set your face against it. Thus it shall be under siege, you shall besiege it. This shall be an omen for the House of Israel."
     },
     {
+      "block_id": "jsb-ezek-4-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., in hostility.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ezek-4-4",
       "type": "verse",
       "number": 4,
       "text": "“Then lie on your left side, and let it bear the punishment of the House of Israel; for as many days as you lie on it you shall bear their punishment."
+    },
+    {
+      "block_id": "jsb-ezek-4-4-commentary-2",
+      "type": "commentary",
+      "text": "Since left and right also denote north and south (e.g., 16.46), the left side represents Israel, the northern kingdom, and the right side Judah, the southern kingdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 4,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezek-4-5",
@@ -77,6 +103,19 @@
       "text": "“Eat it as a barley cake; you shall bake it on human excrement before their eyes."
     },
     {
+      "block_id": "jsb-ezek-4-12-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 4,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ezek-4-13",
       "type": "verse",
       "number": 13,
@@ -99,6 +138,19 @@
       "type": "verse",
       "number": 16,
       "text": "And He said to me, “O mortal, I am going to break the staff of bread in Jerusalem, and they shall eat bread by weight, in anxiety, and drink water by measure, in horror,"
+    },
+    {
+      "block_id": "jsb-ezek-4-16-commentary-4",
+      "type": "commentary",
+      "text": "Resuming the thought of v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-ezek-4-17",

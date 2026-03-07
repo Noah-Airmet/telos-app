@@ -1,7 +1,7 @@
 {
   "document_id": "isa-28",
   "title": "Isaiah 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "Ah, the proud crowns of the drunkards of Ephraim, Whose glorious beauty is but wilted flowers On the heads of men bloated with rich food, Who are overcome by wine!"
     },
     {
+      "block_id": "jsb-isa-28-1-commentary-1",
+      "type": "commentary",
+      "text": "Ge is contracted from geʾe; cf. Ibn Ezra.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-28-2",
       "type": "verse",
       "number": 2,
       "text": "Lo, my Lord has something strong and mighty, Like a storm of hail, A shower of pestilence. Something like a storm of massive, torrential rain Shall be hurled with force to the ground."
+    },
+    {
+      "block_id": "jsb-isa-28-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “water.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-28-3",
@@ -27,6 +53,19 @@
       "type": "verse",
       "number": 4,
       "text": "The wilted flowers— On the heads of men bloated with rich food— That are his glorious beauty. They shall be like an early fig Before the fruit harvest; Whoever sees it devours it While it is still in his hand."
+    },
+    {
+      "block_id": "jsb-isa-28-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “on the bough.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-28-5",
@@ -59,6 +98,19 @@
       "text": "“To whom would he give instruction? To whom expound a message? To those newly weaned from milk, Just taken away from the breast?"
     },
     {
+      "block_id": "jsb-isa-28-9-commentary-4",
+      "type": "commentary",
+      "text": "This is the drunkards’ reaction to Isaiah’s reproof.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-28-10",
       "type": "verse",
       "number": 10,
@@ -77,16 +129,55 @@
       "text": "is he who declares to them, “This is the resting place, let the weary rest; this is the place of repose.” They refuse to listen."
     },
     {
+      "block_id": "jsb-isa-28-12-commentary-5",
+      "type": "commentary",
+      "text": "I.e., do not embark on any political adventure at this time.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-28-13",
       "type": "verse",
       "number": 13,
       "text": "To them the word of the Lord is: “Mutter upon mutter, Murmur upon murmur, Now here, now there.” And so they will march, But they shall fall backward, And be injured and snared and captured."
     },
     {
+      "block_id": "jsb-isa-28-13-commentary-6",
+      "type": "commentary",
+      "text": "I.e., embark on the political adventure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-isa-28-14",
       "type": "verse",
       "number": 14,
       "text": "Hear now the word of the Lord, You men of mockery, Who govern that people In Jerusalem!"
+    },
+    {
+      "block_id": "jsb-isa-28-14-commentary-7",
+      "type": "commentary",
+      "text": "Or “composers of taunt-verses for that people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-isa-28-15",
@@ -101,10 +192,49 @@
       "text": "Assuredly, Thus said the Lord god: “Behold, I will found in Zion, Stone by stone, A tower of precious cornerstones, Exceedingly firm; He who trusts need not fear."
     },
     {
+      "block_id": "jsb-isa-28-16-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-28-17",
       "type": "verse",
       "number": 17,
       "text": "But I will apply judgment as a measuring line And retribution as weights; Hail shall sweep away the refuge of falsehood, And flood-waters engulf your shelter."
+    },
+    {
+      "block_id": "jsb-isa-28-17-commentary-9",
+      "type": "commentary",
+      "text": "As in 1.27; 5.16; 10.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-isa-28-17-commentary-10",
+      "type": "commentary",
+      "text": "I.e., I will make judgment and retribution My plan of action; cf. 34.11; 2 Kings 21.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-isa-28-18",
@@ -131,6 +261,19 @@
       "text": "For the Lord will arise As on the hill of Perazim, He will rouse Himself As in the vale of Gibeon, To do His work— Strange is His work! And to perform His task— Astounding is His task!"
     },
     {
+      "block_id": "jsb-isa-28-21-commentary-11",
+      "type": "commentary",
+      "text": "Instead of giving victory, as at Baal-perazim and Gibeon (cf. 2 Sam. 5.19–25; 1 Chron. 14.9–16), He will inflict punishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-isa-28-22",
       "type": "verse",
       "number": 22,
@@ -155,6 +298,19 @@
       "text": "When he has smoothed its surface, Does he not rather broadcast black cumin And scatter cumin, Or set wheat in a row, Barley in a strip, And emmer in a patch?"
     },
     {
+      "block_id": "jsb-isa-28-25-commentary-12",
+      "type": "commentary",
+      "text": "In some Near Eastern countries, wheat is actually planted rather than scattered.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-isa-28-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +327,45 @@
       "type": "verse",
       "number": 28,
       "text": "It is cereal that is crushed. For even if he threshes it thoroughly, And the wheel of his sledge and his horses overwhelm it, He does not crush it."
+    },
+    {
+      "block_id": "jsb-isa-28-28-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “threshed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-isa-28-28-commentary-14",
+      "type": "commentary",
+      "text": "Taking lo as equivalent to lu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-isa-28-28-commentary-15",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 28,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-isa-28-29",

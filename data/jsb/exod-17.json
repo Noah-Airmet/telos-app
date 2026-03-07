@@ -1,7 +1,7 @@
 {
   "document_id": "exod-17",
   "title": "Exodus 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,32 @@
       "text": "The place was named Massah and Meribah, because the Israelites quarreled and because they tried the Lord, saying, “Is the Lord present among us or not?”"
     },
     {
+      "block_id": "jsb-exod-17-7-commentary-1",
+      "type": "commentary",
+      "text": "I.e., “Trial.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 17,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-exod-17-7-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “Quarrel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 17,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-exod-17-8",
       "type": "verse",
       "number": 8,
@@ -93,6 +119,19 @@
       "text": "And Joshua overwhelmed the people of Amalek with the sword."
     },
     {
+      "block_id": "jsb-exod-17-13-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Amalek and his people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 17,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-exod-17-14",
       "type": "verse",
       "number": 14,
@@ -105,10 +144,36 @@
       "text": "And Moses built an altar and named it Adonai-nissi."
     },
     {
+      "block_id": "jsb-exod-17-15-commentary-4",
+      "type": "commentary",
+      "text": "I.e., “The Lord is my banner.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 17,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-exod-17-16",
       "type": "verse",
       "number": 16,
       "text": "He said, “It means, ‘Hand upon the throne of the Lord!’ The Lord will be at war with Amalek throughout the ages.”"
+    },
+    {
+      "block_id": "jsb-exod-17-16-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. kes uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 17,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

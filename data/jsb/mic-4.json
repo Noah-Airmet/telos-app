@@ -1,7 +1,7 @@
 {
   "document_id": "mic-4",
   "title": "Micah 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "In the days to come, The Mount of the Lord’s House shall stand Firm above the mountains; And it shall tower above the hills. The peoples shall gaze on it with joy,"
     },
     {
+      "block_id": "jsb-mic-4-1-commentary-1",
+      "type": "commentary",
+      "text": "For vv. 1–3 cf. Isa. 2.2–4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-mic-4-2",
       "type": "verse",
       "number": 2,
       "text": "And the many nations shall go and shall say: “Come, Let us go up to the Mount of the Lord, To the House of the God of Jacob; That He may instruct us in His ways, And that we may walk in His paths.” For instruction shall come forth from Zion, The word of the Lord from Jerusalem."
     },
     {
+      "block_id": "jsb-mic-4-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., oracles will be obtainable.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-mic-4-3",
       "type": "verse",
       "number": 3,
       "text": "Thus He will judge among the many peoples, And arbitrate for the multitude of nations, However distant; And they shall beat their swords into plowshares And their spears into pruning hooks. Nation shall not take up Sword against nation; They shall never again know war;"
+    },
+    {
+      "block_id": "jsb-mic-4-3-commentary-3",
+      "type": "commentary",
+      "text": "More exactly, the iron points with which wooden plows were tipped.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-mic-4-3-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Judg. 3.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-mic-4-4",
@@ -47,10 +99,62 @@
       "text": "And I will turn the lame into a remnant And the expelled into a populous nation. And the Lord will reign over them on Mount Zion Now and for evermore."
     },
     {
+      "block_id": "jsb-mic-4-7-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “weaklings”; cf. Ezek. 34.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-mic-4-8",
       "type": "verse",
       "number": 8,
       "text": "And you, O Migdal-­eder, Outpost of Fair Zion, It shall come to you: The former monarchy shall return— The kingship of Fair Jerusalem."
+    },
+    {
+      "block_id": "jsb-mic-4-8-commentary-6",
+      "type": "commentary",
+      "text": "Apparently near Bethlehem; see Gen. 35.19–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-mic-4-8-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-mic-4-8-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “the House of Israel”; cf. 5.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-mic-4-9",
@@ -63,6 +167,19 @@
       "type": "verse",
       "number": 10,
       "text": "Writhe and scream, Fair Zion, Like a woman in travail! For now you must leave the city And dwell in the country— And you will reach Babylon. There you shall be saved, There the Lord will redeem you From the hands of your foes."
+    },
+    {
+      "block_id": "jsb-mic-4-10-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-mic-4-11",
@@ -81,6 +198,19 @@
       "type": "verse",
       "number": 13,
       "text": "Up and thresh, Fair Zion! For I will give you horns of iron And provide you with hoofs of bronze, And you will crush the many peoples. You will devote their riches to the Lord, Their wealth to the Lord of all the earth."
+    },
+    {
+      "block_id": "jsb-mic-4-13-commentary-10",
+      "type": "commentary",
+      "text": "Heb. -ti serves here as the ending of the ­ second-­person singular feminine; cf. Judg. 5.7 and note; Jer. 2.20; etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 4,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-mic-4-14",

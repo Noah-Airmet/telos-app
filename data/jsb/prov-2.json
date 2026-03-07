@@ -1,7 +1,7 @@
 {
   "document_id": "prov-2",
   "title": "Proverbs 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -99,6 +99,19 @@
       "type": "verse",
       "number": 16,
       "text": "It will save you from the forbidden woman, From the alien woman whose talk is smooth,"
+    },
+    {
+      "block_id": "jsb-prov-2-16-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “strange.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-prov-2-17",

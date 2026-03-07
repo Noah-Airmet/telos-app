@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-19",
   "title": "1 Kings 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,55 @@
       "text": "When Ahab told Jezebel all that Elijah had done and how he had put all the prophets to the sword,"
     },
     {
+      "block_id": "jsb-1-kgs-19-1-commentary-1",
+      "type": "commentary",
+      "text": "Of Baal; see 18.40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-1-kgs-19-2",
       "type": "verse",
       "number": 2,
       "text": "Jezebel sent a messenger to Elijah, saying, “Thus and more may the gods do if by this time tomorrow I have not made you like one of them.”"
     },
     {
+      "block_id": "jsb-1-kgs-19-2-commentary-2",
+      "type": "commentary",
+      "text": "A formula of imprecation. Many Heb. mss. and Septuagint add “to me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-1-kgs-19-3",
       "type": "verse",
       "number": 3,
       "text": "Frightened, he fled at once for his life. He came to Beer-sheba, which is in Judah, and left his servant there;"
+    },
+    {
+      "block_id": "jsb-1-kgs-19-3-commentary-3",
+      "type": "commentary",
+      "text": "So many Heb. mss. and Septuagint; most mss., and the editions, read “And he saw, and.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-1-kgs-19-4",
@@ -77,6 +116,19 @@
       "text": "After the earthquake—fire; but the Lord was not in the fire. And after the fire—a soft murmuring sound."
     },
     {
+      "block_id": "jsb-1-kgs-19-12-commentary-4",
+      "type": "commentary",
+      "text": "Others “a still, small voice.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-1-kgs-19-13",
       "type": "verse",
       "number": 13,
@@ -125,10 +177,49 @@
       "text": "He left the oxen and ran after Elijah, saying: “Let me kiss my father and mother good-by, and I will follow you.” And he answered him, “Go back. What have I done to you?”"
     },
     {
+      "block_id": "jsb-1-kgs-19-20-commentary-5",
+      "type": "commentary",
+      "text": "I.e., I am not stopping you.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-kgs-19-21",
       "type": "verse",
       "number": 21,
       "text": "He turned back from him and took the yoke of oxen and slaughtered them; he boiled their meat with the gear of the oxen and gave it to the people, and they ate. Then he arose and followed Elijah and became his attendant."
+    },
+    {
+      "block_id": "jsb-1-kgs-19-21-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “them, the flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "jsb-1-kgs-19-21-commentary-7",
+      "type": "commentary",
+      "text": "I.e., using it as firewood; cf. 2 Sam. 24.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 19,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     }
   ]
 }

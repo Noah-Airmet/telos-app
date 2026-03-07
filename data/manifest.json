@@ -6468,7 +6468,9 @@
           }
         ]
       }
-    ]
+    ],
+    "source_type": "studyBible",
+    "preferred_base_profile": "jsb"
   },
   {
     "translation": "KJV",

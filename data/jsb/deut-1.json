@@ -1,7 +1,7 @@
 {
   "document_id": "deut-1",
   "title": "Deuteronomy 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "These are the words that Moses addressed to all Israel on the other side of the Jordan.—Through the wilderness, in the Arabah near Suph, between Paran and Tophel, Laban, Hazeroth, and Di‑zahab,"
+    },
+    {
+      "block_id": "jsb-deut-1-1-commentary-1",
+      "type": "commentary",
+      "text": "The rest of this verse and v. 2 are unclear; cf. v. 19 and Num. 33.16–36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-deut-1-2",
@@ -29,6 +42,19 @@
       "text": "after he had defeated Sihon king of the Amorites, who dwelt in Heshbon, and King Og of Bashan, who dwelt at Ashtaroth [and] Edrei."
     },
     {
+      "block_id": "jsb-deut-1-4-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Josh. 12.4; 13.12, 31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-deut-1-5",
       "type": "verse",
       "number": 5,
@@ -45,6 +71,32 @@
       "type": "verse",
       "number": 7,
       "text": "Start out and make your way to the hill country of the Amorites and to all their neighbors in the Arabah, the hill country, the Shephelah, the Negeb, the seacoast, the land of the Canaanites, and the Lebanon, as far as the Great River, the river Euphrates."
+    },
+    {
+      "block_id": "jsb-deut-1-7-commentary-3",
+      "type": "commentary",
+      "text": "Others “Lowland.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-deut-1-7-commentary-4",
+      "type": "commentary",
+      "text": "I.e., Phoenicia.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-deut-1-8",
@@ -167,10 +219,36 @@
       "text": "You sulked in your tents and said, “It is because the Lord hates us that He brought us out of the land of Egypt, to hand us over to the Amorites to wipe us out."
     },
     {
+      "block_id": "jsb-deut-1-27-commentary-5",
+      "type": "commentary",
+      "text": "Precise meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-deut-1-28",
       "type": "verse",
       "number": 28,
       "text": "What kind of place are we going to? Our kinsmen have taken the heart out of us, saying, ‘We saw there a people stronger and taller than we, large cities with walls sky-high, and even Anakites.’”"
+    },
+    {
+      "block_id": "jsb-deut-1-28-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “Where.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-1-29",
@@ -249,6 +327,19 @@
       "type": "verse",
       "number": 41,
       "text": "You replied to me, saying, “We stand guilty before the Lord. We will go up now and fight, just as the Lord our God commanded us.” And you all girded yourselves with war gear and recklessly started for the hill country."
+    },
+    {
+      "block_id": "jsb-deut-1-41-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 1,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-deut-1-42",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-10",
   "title": "Exodus 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "type": "verse",
       "number": 19,
       "text": "The Lord caused a shift to a very strong west wind, which lifted the locusts and hurled them into the Sea of Reeds; not a single locust remained in all the territory of Egypt."
+    },
+    {
+      "block_id": "jsb-exod-10-19-commentary-1",
+      "type": "commentary",
+      "text": "Traditionally, but incorrectly, “Red Sea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-10-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "lev-2",
   "title": "Leviticus 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -75,6 +75,19 @@
       "type": "verse",
       "number": 12,
       "text": "You may bring them to the Lord as an offering of choice products; but they shall not be offered up on the altar for a pleasing odor."
+    },
+    {
+      "block_id": "jsb-lev-2-12-commentary-1",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-lev-2-13",

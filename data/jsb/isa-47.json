@@ -1,7 +1,7 @@
 {
   "document_id": "isa-47",
   "title": "Isaiah 47",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Your nakedness shall be uncovered, And your shame shall be exposed. I will take vengeance, And let no man intercede."
+    },
+    {
+      "block_id": "jsb-isa-47-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “And not be appeased, / Says our Redeemer, whose name is Lord of Hosts, / The Holy One of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 47,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-47-4",
@@ -71,16 +84,55 @@
       "text": "Evil is coming upon you Which you will not know how to charm away; Disaster is falling upon you Which you will not be able to appease; Coming upon you suddenly Is ruin of which you know nothing."
     },
     {
+      "block_id": "jsb-isa-47-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “bribe.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 47,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-47-12",
       "type": "verse",
       "number": 12,
       "text": "Stand up, with your spells and your many enchantments On which you labored since youth! Perhaps you’ll be able to profit, Perhaps you will find strength."
     },
     {
+      "block_id": "jsb-isa-47-12-commentary-3",
+      "type": "commentary",
+      "text": "Taking ʿaraṣ as a variant of ʿaṣar; cf. 2 Chron. 20.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 47,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-47-13",
       "type": "verse",
       "number": 13,
       "text": "You are helpless, despite all your art. Let them stand up and help you now, The scanners of heaven, the star-gazers, Who announce, month by month, Whatever will come upon you."
+    },
+    {
+      "block_id": "jsb-isa-47-13-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 47,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-isa-47-14",

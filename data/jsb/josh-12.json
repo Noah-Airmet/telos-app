@@ -1,7 +1,7 @@
 {
   "document_id": "josh-12",
   "title": "Joshua 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "King Sihon of the Amorites, who resided in Heshbon and ruled over part of Gilead—from Aroer on the bank of the Wadi Arnon and the wadi proper up to the Wadi Jabbok [and] the border of the Ammonites—"
+    },
+    {
+      "block_id": "jsb-josh-12-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of vv. 2 and 3 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-josh-12-3",
@@ -41,6 +54,19 @@
       "text": "These were vanquished by Moses, the servant of the Lord, and the Israelites; and Moses, the servant of the Lord, assigned that territory as a possession to the Reubenites, the Gadites, and the half-tribe of Manasseh."
     },
     {
+      "block_id": "jsb-josh-12-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-josh-12-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "in the hill country, in the lowlands, in the Arabah, in the slopes, in the wilderness, and in the Negeb—[in the land of] the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites."
+    },
+    {
+      "block_id": "jsb-josh-12-8-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the slopes of Pisgah; cf. 13.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-josh-12-9",
@@ -141,6 +180,19 @@
       "type": "verse",
       "number": 23,
       "text": "the king of Dor in the district of Dor 1 the king of Goiim in Gilgal 1"
+    },
+    {
+      "block_id": "jsb-josh-12-23-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-josh-12-24",

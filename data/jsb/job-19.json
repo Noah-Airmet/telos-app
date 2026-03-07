@@ -1,7 +1,7 @@
 {
   "document_id": "job-19",
   "title": "Job 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Time and again you humiliate me, And are not ashamed to abuse me."
+    },
+    {
+      "block_id": "jsb-job-19-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Ten times.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 19,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-job-19-4",
@@ -137,6 +150,19 @@
       "text": "Why do you pursue me like God, Maligning me insatiably?"
     },
     {
+      "block_id": "jsb-job-19-22-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “You are not satisfied with my flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 19,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-job-19-23",
       "type": "verse",
       "number": 23,
@@ -167,10 +193,36 @@
       "text": "I myself, not another, would behold Him; Would see with my own eyes: My heart pines within me."
     },
     {
+      "block_id": "jsb-job-19-27-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “kidneys.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 19,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-job-19-28",
       "type": "verse",
       "number": 28,
       "text": "You say, “How do we persecute him? The root of the matter is in him.”"
+    },
+    {
+      "block_id": "jsb-job-19-28-commentary-4",
+      "type": "commentary",
+      "text": "With many mss. and versions; printed editions, “me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 19,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-job-19-29",

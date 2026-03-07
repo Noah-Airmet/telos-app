@@ -1,7 +1,7 @@
 {
   "document_id": "deut-24",
   "title": "Deuteronomy 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "Then the first husband who divorced her shall not take her to wife again, since she has been defiled—for that would be abhorrent to the Lord. You must not bring sin upon the land that the Lord your God is giving you as a heritage."
     },
     {
+      "block_id": "jsb-deut-24-4-commentary-1",
+      "type": "commentary",
+      "text": "I.e., disqualified for him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 24,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-deut-24-5",
       "type": "verse",
       "number": 5,
@@ -53,10 +66,36 @@
       "text": "In cases of a skin affection be most careful to do exactly as the levitical priests instruct you. Take care to do as I have commanded them."
     },
     {
+      "block_id": "jsb-deut-24-8-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Lev. 13.1 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 24,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-deut-24-9",
       "type": "verse",
       "number": 9,
       "text": "Remember what the Lord your God did to Miriam on the journey after you left Egypt."
+    },
+    {
+      "block_id": "jsb-deut-24-9-commentary-3",
+      "type": "commentary",
+      "text": "See Num. 12.10 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 24,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-deut-24-10",

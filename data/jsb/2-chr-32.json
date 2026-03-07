@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-32",
   "title": "2 Chronicles 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "After these faithful deeds, King Sennacherib of Assyria invaded Judah and encamped against its fortified towns with the aim of taking them over."
+    },
+    {
+      "block_id": "jsb-2-chr-32-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 18–20; Isa. 36–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 32,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-32-2",

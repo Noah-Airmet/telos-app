@@ -1,7 +1,7 @@
 {
   "document_id": "ps-58",
   "title": "Psalms 58",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "O mighty ones, do you really decree what is just? Do you judge mankind with equity?"
+    },
+    {
+      "block_id": "jsb-ps-58-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 58,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-58-3",

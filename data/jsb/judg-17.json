@@ -1,7 +1,7 @@
 {
   "document_id": "judg-17",
   "title": "Judges 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "There was a man in the hill country of Ephraim whose name was Micah."
     },
     {
+      "block_id": "jsb-judg-17-1-commentary-1",
+      "type": "commentary",
+      "text": "“Micaihu” here and in v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 17,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-judg-17-2",
       "type": "verse",
       "number": 2,
       "text": "He said to his mother, “The eleven hundred shekels of silver that were taken from you, so that you uttered an imprecation which you repeated in my hearing—I have that silver; I took it.” “Blessed of the Lord be my son,” said his mother."
+    },
+    {
+      "block_id": "jsb-judg-17-2-commentary-2",
+      "type": "commentary",
+      "text": "Cursing anyone who knew the whereabouts of the silver and did not disclose it; cf. Lev. 5.1; 1 Kings 8.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 17,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-judg-17-2-commentary-3",
+      "type": "commentary",
+      "text": "In order to nullify the imprecation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 17,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-judg-17-3",
@@ -63,6 +102,19 @@
       "type": "verse",
       "number": 10,
       "text": "“Stay with me,” Micah said to him, “and be a father and a priest to me, and I will pay you ten shekels of silver a year, an allowance of clothing, and your food.” The Levite went."
+    },
+    {
+      "block_id": "jsb-judg-17-10-commentary-4",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 17,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-judg-17-11",

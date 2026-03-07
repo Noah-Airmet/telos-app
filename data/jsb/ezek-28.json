@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-28",
   "title": "Ezekiel 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "O mortal, say to the prince of Tyre: Thus said the Lord god: Because you have been so haughty and have said, “I am a god; I sit enthroned like a god in the heart of the seas,” whereas you are not a god but a man, though you deemed your mind equal to a god’s—"
+    },
+    {
+      "block_id": "jsb-ezek-28-2-commentary-1",
+      "type": "commentary",
+      "text": "This sentence is continued in v. 6; vv. 3–5 are parenthetical.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 28,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-28-3",
@@ -47,6 +60,19 @@
       "text": "I swear I will bring against you Strangers, the most ruthless of nations. They shall unsheathe their swords Against your prized shrewdness, And they shall strike down your splendor."
     },
     {
+      "block_id": "jsb-ezek-28-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 28,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ezek-28-8",
       "type": "verse",
       "number": 8,
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "By the hands of strangers you shall die The death of the uncircumcised; For I have spoken —declares the Lord god."
+    },
+    {
+      "block_id": "jsb-ezek-28-10-commentary-3",
+      "type": "commentary",
+      "text": "According to popular belief, those who die uncircumcised and those left unburied are relegated to the lower level of the netherworld; cf. 31.18; 32.19 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 28,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ezek-28-11",
@@ -83,10 +122,36 @@
       "text": "You were in Eden, the garden of God; Every precious stone was your adornment: Carnelian, chrysolite, and amethyst; Beryl, lapis lazuli, and jasper; Sapphire, turquoise, and emerald; And gold beautifully wrought for you, Mined for you, prepared the day you were created."
     },
     {
+      "block_id": "jsb-ezek-28-13-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. On the stones, see note at Exod. 28.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 28,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ezek-28-14",
       "type": "verse",
       "number": 14,
       "text": "I created you as a cherub With outstretched shielding wings; And you resided on God’s holy mountain; You walked among stones of fire."
+    },
+    {
+      "block_id": "jsb-ezek-28-14-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 28,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ezek-28-15",

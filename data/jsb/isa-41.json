@@ -1,7 +1,7 @@
 {
   "document_id": "isa-41",
   "title": "Isaiah 41",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "Stand silent before Me, coastlands, And let nations renew their strength. Let them approach to state their case; Let us come forward together for argument."
     },
     {
+      "block_id": "jsb-isa-41-1-commentary-1",
+      "type": "commentary",
+      "text": "Connection of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-41-2",
       "type": "verse",
       "number": 2,
       "text": "Who has roused a victor from the East, Summoned him to His service? Has delivered up nations to him, And trodden sovereigns down? Has rendered their swords like dust, Their bows like wind-blown straw?"
     },
     {
+      "block_id": "jsb-isa-41-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “victory.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-41-2-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-41-3",
       "type": "verse",
       "number": 3,
       "text": "He pursues them, he goes on unscathed; No shackle is placed on his feet."
+    },
+    {
+      "block_id": "jsb-isa-41-3-commentary-4",
+      "type": "commentary",
+      "text": "ʾrḥ has this meaning in Old Aramaic.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-41-4",
@@ -89,6 +141,19 @@
       "text": "Fear not, O worm Jacob, O men of Israel: I will help you —declares the Lord— I your Redeemer, the Holy One of Israel."
     },
     {
+      "block_id": "jsb-isa-41-14-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “maggot.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-41-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +170,19 @@
       "type": "verse",
       "number": 17,
       "text": "The poor and the needy Seek water, and there is none; Their tongue is parched with thirst. I the Lord will respond to them. I, the God of Israel, will not forsake them."
+    },
+    {
+      "block_id": "jsb-isa-41-17-commentary-6",
+      "type": "commentary",
+      "text": "I.e., on the homeward march through the desert.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-isa-41-18",
@@ -137,10 +215,49 @@
       "text": "Let them approach and tell us what will happen. Tell us what has occurred, And we will take note of it; Or announce to us what will occur, That we may know the outcome."
     },
     {
+      "block_id": "jsb-isa-41-22-commentary-7",
+      "type": "commentary",
+      "text": "Taking yaggishu intransitively; cf. hiqriv. Exod. 14.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-isa-41-22-commentary-8",
+      "type": "commentary",
+      "text": "I.e., former prophecies by your gods which have been fulfilled.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-isa-41-23",
       "type": "verse",
       "number": 23,
       "text": "Foretell what is yet to happen, That we may know that you are gods! Do anything, good or bad, That we may be awed and see."
+    },
+    {
+      "block_id": "jsb-isa-41-23-commentary-9",
+      "type": "commentary",
+      "text": "Change of vocalization yields “fear”; cf. v. 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-isa-41-24",
@@ -165,6 +282,19 @@
       "type": "verse",
       "number": 27,
       "text": "The things once predicted to Zion— Behold, here they are! And again I send a herald to Jerusalem."
+    },
+    {
+      "block_id": "jsb-isa-41-27-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 41,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-isa-41-28",

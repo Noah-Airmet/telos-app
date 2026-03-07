@@ -1,7 +1,7 @@
 {
   "document_id": "ps-47",
   "title": "Psalms 47",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "for God is king over all the earth; sing a hymn."
+    },
+    {
+      "block_id": "jsb-ps-47-8-commentary-1",
+      "type": "commentary",
+      "text": "Heb. maskil, a musical term of uncertain meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-47-9",

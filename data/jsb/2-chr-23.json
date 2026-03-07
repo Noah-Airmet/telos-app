@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-23",
   "title": "2 Chronicles 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the seventh year, Jehoiada took courage and brought the chiefs of the hundreds, Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri, into a compact with him."
+    },
+    {
+      "block_id": "jsb-2-chr-23-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 11.4–20",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 23,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-23-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "and the entire assembly made a covenant with the king in the House of God. He said to them, “The son of the king shall be king according to the promise the Lord made concerning the sons of David."
+    },
+    {
+      "block_id": "jsb-2-chr-23-3-commentary-2",
+      "type": "commentary",
+      "text": "I.e., Jehoiada.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-chr-23-4",

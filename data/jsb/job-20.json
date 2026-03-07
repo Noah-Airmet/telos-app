@@ -1,7 +1,7 @@
 {
   "document_id": "job-20",
   "title": "Job 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -123,6 +123,19 @@
       "type": "verse",
       "number": 20,
       "text": "He will not see his children tranquil; He will not preserve one of his dear ones."
+    },
+    {
+      "block_id": "jsb-job-20-20-commentary-1",
+      "type": "commentary",
+      "text": "For this meaning of beṭen and ḥamud, cf. Hos. 9.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 20,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-job-20-21",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-2",
   "title": "Psalms 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Why do nations assemble, and peoples plot vain things;"
+    },
+    {
+      "block_id": "jsb-ps-2-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “utter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-2-2",
@@ -47,6 +60,19 @@
       "text": "Let me tell of the decree: the Lord said to me, “You are My son, I have fathered you this day."
     },
     {
+      "block_id": "jsb-ps-2-7-commentary-2",
+      "type": "commentary",
+      "text": "Compare 2 Sam. 7.14, and Ps. 89.27 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-2-8",
       "type": "verse",
       "number": 8,
@@ -71,10 +97,36 @@
       "text": "Serve the Lord in awe; tremble with fright,"
     },
     {
+      "block_id": "jsb-ps-2-11-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “rejoice with trembling.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-ps-2-12",
       "type": "verse",
       "number": 12,
       "text": "pay homage in good faith, lest He be angered, and your way be doomed in the mere flash of His anger. Happy are all who take refuge in Him."
+    },
+    {
+      "block_id": "jsb-ps-2-12-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "deut-23",
   "title": "Deuteronomy 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "No man shall marry his father’s former wife, so as to remove his father’s garment."
+    },
+    {
+      "block_id": "jsb-deut-23-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., lay claim to what his father had possessed. Cf. Lev. 18.8; 20.11; Ezek. 16.8; Ruth 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 23,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-deut-23-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "No one misbegotten shall be admitted into the congregation of the Lord; none of his descendants, even in the tenth generation, shall be admitted into the congregation of the Lord."
+    },
+    {
+      "block_id": "jsb-deut-23-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. mamzer uncertain; in Jewish law, the offspring of adultery or incest between Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-deut-23-4",
@@ -57,6 +83,19 @@
       "type": "verse",
       "number": 9,
       "text": "Children born to them may be admitted into the congregation of the Lord in the third generation."
+    },
+    {
+      "block_id": "jsb-deut-23-9-commentary-3",
+      "type": "commentary",
+      "text": "I.e., of residence in Israel’s territory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 23,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-deut-23-10",
@@ -117,6 +156,19 @@
       "type": "verse",
       "number": 19,
       "text": "You shall not bring the fee of a whore or the pay of a dog into the house of the Lord your God in fulfillment of any vow, for both are abhorrent to the Lord your God."
+    },
+    {
+      "block_id": "jsb-deut-23-19-commentary-4",
+      "type": "commentary",
+      "text": "I.e., a male prostitute.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 23,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-deut-23-20",

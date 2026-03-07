@@ -1,7 +1,7 @@
 {
   "document_id": "joel-1",
   "title": "Joel 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "What the cutter has left, the locust has devoured; What the locust has left, the grub has devoured; And what the grub has left, the hopper has devoured."
     },
     {
+      "block_id": "jsb-joel-1-4-commentary-1",
+      "type": "commentary",
+      "text": "The Heb. terms translated “cutter, locust, grub, and hopper” are of uncertain meaning; they probably designate stages in the development of the locust.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-joel-1-5",
       "type": "verse",
       "number": 5,
       "text": "Wake up, you drunkards, and weep, Wail, all you swillers of wine— For the new wine that is denied you!"
+    },
+    {
+      "block_id": "jsb-joel-1-5-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “cut off from your mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-joel-1-6",
@@ -95,6 +121,19 @@
       "text": "Alas for the day! For the day of the Lord is near; It shall come like havoc from Shaddai."
     },
     {
+      "block_id": "jsb-joel-1-15-commentary-3",
+      "type": "commentary",
+      "text": "Traditionally “the Almighty”; see Gen. 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-joel-1-16",
       "type": "verse",
       "number": 16,
@@ -107,16 +146,55 @@
       "text": "The seeds have shriveled Under their clods. The granaries are desolate, Barns are in ruins, For the new grain has failed."
     },
     {
+      "block_id": "jsb-joel-1-17-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-joel-1-18",
       "type": "verse",
       "number": 18,
       "text": "How the beasts groan! The herds of cattle are bewildered Because they have no pasture, And the flocks of sheep are dazed."
     },
     {
+      "block_id": "jsb-joel-1-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-joel-1-19",
       "type": "verse",
       "number": 19,
       "text": "To You, O Lord, I call. For fire has consumed The pastures in the wilderness, And flame has devoured All the trees of the countryside."
+    },
+    {
+      "block_id": "jsb-joel-1-19-commentary-6",
+      "type": "commentary",
+      "text": "I.e., scorching heat.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-joel-1-20",

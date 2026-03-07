@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-5",
   "title": "Ecclesiastes 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Keep your mouth from being rash, and let not your throat be quick to bring forth speech before God. For God is in heaven and you are on earth; that is why your words should be few."
+    },
+    {
+      "block_id": "jsb-eccl-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. leb, lit. “heart,” sometimes designates the organ of speech; cf. Isa. 33.18; 59.13; Pss. 19.15; 49.4; Job. 8.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-eccl-5-2",
@@ -35,10 +48,49 @@
       "text": "Don’t let your mouth bring you into disfavor, and don’t plead before the messenger that it was an error, but fear God; else God may be angered by your talk and destroy your possessions."
     },
     {
+      "block_id": "jsb-eccl-5-5-commentary-2",
+      "type": "commentary",
+      "text": "Some ancient versions read “God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-eccl-5-5-commentary-3",
+      "type": "commentary",
+      "text": "Moved up from v. 6 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-eccl-5-6",
       "type": "verse",
       "number": 6,
       "text": "For much dreaming leads to futility and to superfluous talk."
+    },
+    {
+      "block_id": "jsb-eccl-5-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain. Emendation yields “Much brooding results in dreams; and much talk in futilities”; cf. v. 2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-eccl-5-7",
@@ -51,6 +103,19 @@
       "type": "verse",
       "number": 8,
       "text": "Thus the greatest advantage in all the land is his: he controls a field that is cultivated."
+    },
+    {
+      "block_id": "jsb-eccl-5-8-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the high official profits from the labor of others; but meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-eccl-5-9",
@@ -71,6 +136,19 @@
       "text": "A worker’s sleep is sweet, whether he has much or little to eat; but the rich man’s abundance doesn’t let him sleep."
     },
     {
+      "block_id": "jsb-eccl-5-11-commentary-6",
+      "type": "commentary",
+      "text": "Some ancient versions have “slave’s.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-eccl-5-12",
       "type": "verse",
       "number": 12,
@@ -89,6 +167,19 @@
       "text": "Another grave evil is this: He must depart just as he came. As he came out of his mother’s womb, so must he depart at last, naked as he came. He can take nothing of his wealth to carry with him."
     },
     {
+      "block_id": "jsb-eccl-5-14-commentary-7",
+      "type": "commentary",
+      "text": "Moved up from v. 15 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-eccl-5-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +190,19 @@
       "type": "verse",
       "number": 16,
       "text": "Besides, all his days he eats in darkness, with much vexation and grief and anger."
+    },
+    {
+      "block_id": "jsb-eccl-5-16-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint reads “are [spent] in darkness and mourning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-eccl-5-17",
@@ -117,6 +221,19 @@
       "type": "verse",
       "number": 19,
       "text": "For [such a man] will not brood much over the days of his life, because God keeps him busy enjoying himself."
+    },
+    {
+      "block_id": "jsb-eccl-5-19-commentary-9",
+      "type": "commentary",
+      "text": "The thought of which is depressing; see v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     }
   ]
 }

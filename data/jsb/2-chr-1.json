@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-1",
   "title": "2 Chronicles 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Then Solomon, and all the assemblage with him, went to the shrine at Gibeon, for the Tent of Meeting, which Moses the servant of the Lord had made in the wilderness, was there. ("
+    },
+    {
+      "block_id": "jsb-2-chr-1-3-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 3–13, cf. 1 Kings 3.4–15; with vv. 14–17, cf. 1 Kings 10.26–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-chr-1-4",
@@ -65,6 +78,19 @@
       "text": "Grant me then the wisdom and the knowledge to lead this people, for who can govern Your great people?”"
     },
     {
+      "block_id": "jsb-2-chr-1-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “that I may go out before this people and come in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-chr-1-11",
       "type": "verse",
       "number": 11,
@@ -105,6 +131,19 @@
       "type": "verse",
       "number": 17,
       "text": "A chariot imported from Egypt cost 600 shekels of silver, and a horse 150. These in turn were exported by them to all the kings of the Hittites and the kings of the Arameans."
+    },
+    {
+      "block_id": "jsb-2-chr-1-17-commentary-3",
+      "type": "commentary",
+      "text": "That is, Solomon’s dealers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-2-chr-1-18",

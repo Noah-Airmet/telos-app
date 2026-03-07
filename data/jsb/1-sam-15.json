@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-15",
   "title": "1 Samuel 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Now go, attack Amalek, and proscribe all that belongs to him. Spare no one, but kill alike men and women, infants and sucklings, oxen and sheep, camels and asses!”"
     },
     {
+      "block_id": "jsb-1-sam-15-3-commentary-1",
+      "type": "commentary",
+      "text": "See note at Josh. 6.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-15-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "Then Saul advanced as far as the city of Amalek and lay in wait in the wadi."
+    },
+    {
+      "block_id": "jsb-1-sam-15-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-1-sam-15-6",
@@ -57,6 +83,32 @@
       "type": "verse",
       "number": 9,
       "text": "but Saul and the troops spared Agag and the best of the sheep, the oxen, the second-born, the lambs, and all else that was of value. They would not proscribe them; they proscribed only what was cheap and worthless."
+    },
+    {
+      "block_id": "jsb-1-sam-15-9-commentary-3",
+      "type": "commentary",
+      "text": "Targum and Syriac read “fatlings.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-1-sam-15-9-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-1-sam-15-10",
@@ -119,6 +171,19 @@
       "text": "Why did you disobey the Lord and swoop down on the spoil in defiance of the Lord’s will?”"
     },
     {
+      "block_id": "jsb-1-sam-15-19-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “and do what was evil in the sight of the Lord.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-15-20",
       "type": "verse",
       "number": 20,
@@ -141,6 +206,19 @@
       "type": "verse",
       "number": 23,
       "text": "For rebellion is like the sin of divination, Defiance, like the iniquity of teraphim. Because you rejected the Lord’s command, He has rejected you as king.”"
+    },
+    {
+      "block_id": "jsb-1-sam-15-23-commentary-6",
+      "type": "commentary",
+      "text": "Idols consulted for oracles; see Ezek. 21.26; Zech. 10.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-sam-15-24",
@@ -179,6 +257,19 @@
       "text": "Moreover, the Glory of Israel does not deceive or change His mind, for He is not human that He should change His mind.”"
     },
     {
+      "block_id": "jsb-1-sam-15-29-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-1-sam-15-30",
       "type": "verse",
       "number": 30,
@@ -197,10 +288,36 @@
       "text": "Samuel said, “Bring forward to me King Agag of Amalek.” Agag approached him with faltering steps; and Agag said, “Ah, bitter death is at hand!”"
     },
     {
+      "block_id": "jsb-1-sam-15-32-commentary-8",
+      "type": "commentary",
+      "text": "From root maʿad, “to falter”; cf. Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-1-sam-15-33",
       "type": "verse",
       "number": 33,
       "text": "Samuel said: “As your sword has bereaved women, So shall your mother be bereaved among women.” And Samuel cut Agag down before the Lord at Gilgal."
+    },
+    {
+      "block_id": "jsb-1-sam-15-33-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 15,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-1-sam-15-34",

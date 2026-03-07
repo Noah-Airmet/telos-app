@@ -1,7 +1,7 @@
 {
   "document_id": "dan-5",
   "title": "Daniel 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "The king called loudly for the exorcists, Chaldeans, and diviners to be brought. The king addressed the wise men of Babylon, “Whoever can read this writing and tell me its meaning shall be clothed in purple and wear a golden chain on his neck, and shall rule as one of three in the kingdom.”"
+    },
+    {
+      "block_id": "jsb-dan-5-7-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Dan. 6.3; or “third in rank.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 5,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-dan-5-8",
@@ -161,16 +174,55 @@
       "text": "And this is its meaning: mene—God has numbered [the days of] your kingdom and brought it to an end;"
     },
     {
+      "block_id": "jsb-dan-5-26-commentary-2",
+      "type": "commentary",
+      "text": "Aramaic mena.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 5,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-dan-5-27",
       "type": "verse",
       "number": 27,
       "text": "tekel—you have been weighed in the balance and found wanting;"
     },
     {
+      "block_id": "jsb-dan-5-27-commentary-3",
+      "type": "commentary",
+      "text": "Aramaic tekilta.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 5,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-dan-5-28",
       "type": "verse",
       "number": 28,
       "text": "peres—your kingdom has been divided and given to the Medes and the Persians.”"
+    },
+    {
+      "block_id": "jsb-dan-5-28-commentary-4",
+      "type": "commentary",
+      "text": "Aramaic perisat.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 5,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-dan-5-29",

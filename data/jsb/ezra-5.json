@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-5",
   "title": "Ezra 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Then the prophets, Haggai the prophet and Zechariah son of Iddo, prophesied to the Jews in Judah and Jerusalem, inspired by the God of Israel."
+    },
+    {
+      "block_id": "jsb-ezra-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “with the name of the God of Israel upon them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ezra-5-2",
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Then we said to them, “What are the names of the men who are engaged in the building?”"
+    },
+    {
+      "block_id": "jsb-ezra-5-4-commentary-2",
+      "type": "commentary",
+      "text": "The officials of v. 3; cf. v. 10. Greek and Syriac read “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezra-5-5",

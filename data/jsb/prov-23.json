@@ -1,7 +1,7 @@
 {
   "document_id": "prov-23",
   "title": "Proverbs 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,6 +101,19 @@
       "text": "I shall rejoice with all my heart When your lips speak right things."
     },
     {
+      "block_id": "jsb-prov-23-16-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “kidneys.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 23,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-prov-23-17",
       "type": "verse",
       "number": 17,
@@ -167,6 +180,19 @@
       "text": "A harlot is a deep pit; A forbidden woman is a narrow well."
     },
     {
+      "block_id": "jsb-prov-23-27-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “alien.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 23,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-prov-23-28",
       "type": "verse",
       "number": 28,
@@ -203,10 +229,36 @@
       "text": "Your eyes will see strange sights; Your heart will speak distorted things."
     },
     {
+      "block_id": "jsb-prov-23-33-commentary-3",
+      "type": "commentary",
+      "text": "See note to 15.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 23,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
       "block_id": "jsb-prov-23-34",
       "type": "verse",
       "number": 34,
       "text": "You will be like one lying in bed on high seas, Like one lying on top of the rigging."
+    },
+    {
+      "block_id": "jsb-prov-23-34-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 23,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-prov-23-35",

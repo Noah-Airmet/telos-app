@@ -1,7 +1,7 @@
 {
   "document_id": "dan-8",
   "title": "Daniel 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "An army was arrayed iniquitously against the regular offering; it hurled truth to the ground and prospered in what it did."
     },
     {
+      "block_id": "jsb-dan-8-12-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 8,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-dan-8-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +100,19 @@
       "type": "verse",
       "number": 14,
       "text": "He answered me, “For twenty-three hundred evenings and mornings; then the sanctuary shall be cleansed.”"
+    },
+    {
+      "block_id": "jsb-dan-8-14-commentary-2",
+      "type": "commentary",
+      "text": "Several ancient versions “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-dan-8-15",
@@ -143,6 +169,19 @@
       "text": "When their kingdoms are at an end, when the measure of transgression has been filled, then a king will arise, impudent and versed in intrigue."
     },
     {
+      "block_id": "jsb-dan-8-23-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “transgressors.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 8,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-dan-8-24",
       "type": "verse",
       "number": 24,
@@ -165,6 +204,19 @@
       "type": "verse",
       "number": 27,
       "text": "So I, Daniel, was stricken, and languished many days. Then I arose and attended to the king’s business, but I was dismayed by the vision and no one could explain it."
+    },
+    {
+      "block_id": "jsb-dan-8-27-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 8,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     }
   ]
 }

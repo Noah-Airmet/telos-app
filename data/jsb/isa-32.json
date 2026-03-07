@@ -1,7 +1,7 @@
 {
   "document_id": "isa-32",
   "title": "Isaiah 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "In little more than a year, You shall be troubled, O confident ones, When the vintage is over And no ingathering takes place."
     },
     {
+      "block_id": "jsb-isa-32-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-32-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "Lament upon the breasts, For the pleasant fields, For the spreading grapevines,"
+    },
+    {
+      "block_id": "jsb-isa-32-12-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “for the fields.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-32-13",
@@ -89,10 +115,49 @@
       "text": "For the castle shall be abandoned, The noisy city forsaken; Citadel and tower shall become Bare places forever, A stamping ground for wild asses, A pasture for flocks—"
     },
     {
+      "block_id": "jsb-isa-32-14-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “Brushland, desert.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-isa-32-14-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “onagers”; cf. Job 39.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-32-15",
       "type": "verse",
       "number": 15,
       "text": "Till a spirit from on high is poured out on us, And wilderness is transformed into farm land, While farm land rates as mere brush."
+    },
+    {
+      "block_id": "jsb-isa-32-15-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the transformed wilderness will surpass in fertility what is now used as farm land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-32-16",
@@ -119,10 +184,36 @@
       "text": "And the brush shall sink and vanish, Even as the city is laid low."
     },
     {
+      "block_id": "jsb-isa-32-19-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-32-20",
       "type": "verse",
       "number": 20,
       "text": "Happy shall you be who sow by all waters, Who send out cattle and asses to pasture."
+    },
+    {
+      "block_id": "jsb-isa-32-20-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “let loose the feet of cattle and asses”; cf. 7.25 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 32,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

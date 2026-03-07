@@ -1,7 +1,7 @@
 {
   "document_id": "num-14",
   "title": "Numbers 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "And they said to one another, “Let us head back for Egypt.”"
+    },
+    {
+      "block_id": "jsb-num-14-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “set the head and return to”; cf. Neh. 9.17. Others “Let us make a captain and return to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-num-14-5",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "only you must not rebel against the Lord. Have no fear then of the people of the country, for they are our prey: their protection has departed from them, but the Lord is with us. Have no fear of them!”"
+    },
+    {
+      "block_id": "jsb-num-14-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “food (or, bread).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-14-10",
@@ -107,6 +133,19 @@
       "text": "Therefore, I pray, let my Lord’s forbearance be great, as You have declared, saying,"
     },
     {
+      "block_id": "jsb-num-14-17-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Exod. 34.6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-num-14-18",
       "type": "verse",
       "number": 18,
@@ -137,6 +176,19 @@
       "text": "none of the men who have seen My Presence and the signs that I have performed in Egypt and in the wilderness, and who have tried Me these many times and have disobeyed Me,"
     },
     {
+      "block_id": "jsb-num-14-22-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “ten”; cf. note at Gen. 31.41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-num-14-23",
       "type": "verse",
       "number": 23,
@@ -153,6 +205,19 @@
       "type": "verse",
       "number": 25,
       "text": "Now the Amalekites and the Canaanites occupy the valleys. Start out, then, tomorrow and march into the wilderness by way of the Sea of Reeds.”"
+    },
+    {
+      "block_id": "jsb-num-14-25-commentary-5",
+      "type": "commentary",
+      "text": "See note at Exod. 10.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-num-14-26",
@@ -183,6 +248,19 @@
       "type": "verse",
       "number": 30,
       "text": "not one shall enter the land in which I swore to settle you—save Caleb son of Jephunneh and Joshua son of Nun."
+    },
+    {
+      "block_id": "jsb-num-14-30-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-num-14-31",
@@ -267,6 +345,19 @@
       "type": "verse",
       "number": 44,
       "text": "Yet defiantly they marched toward the crest of the hill country, though neither the Lord’s Ark of the Covenant nor Moses stirred from the camp."
+    },
+    {
+      "block_id": "jsb-num-14-44-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 14,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
     },
     {
       "block_id": "jsb-num-14-45",

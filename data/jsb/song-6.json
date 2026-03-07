@@ -1,7 +1,7 @@
 {
   "document_id": "song-6",
   "title": "Song of Songs 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "You are beautiful, my darling, as Tirzah, Comely as Jerusalem, Awesome as bannered hosts."
+    },
+    {
+      "block_id": "jsb-song-6-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-song-6-5",

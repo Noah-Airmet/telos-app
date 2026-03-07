@@ -1,7 +1,7 @@
 {
   "document_id": "ps-31",
   "title": "Psalms 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,10 +59,36 @@
       "text": "and do not hand me over to my enemy, but grant me relief."
     },
     {
+      "block_id": "jsb-ps-31-9-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “make my feet stand in a broad place.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-ps-31-10",
       "type": "verse",
       "number": 10,
       "text": "Have mercy on me, O Lord, for I am in distress; my eyes are wasted by vexation, my substance and body too."
+    },
+    {
+      "block_id": "jsb-ps-31-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-31-11",
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "I hear the whisperings of many, intrigue on every side, as they scheme together against me, plotting to take my life."
+    },
+    {
+      "block_id": "jsb-ps-31-14-commentary-3",
+      "type": "commentary",
+      "text": "Others “terror.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-31-15",
@@ -129,6 +168,19 @@
       "type": "verse",
       "number": 21,
       "text": "You grant them the protection of Your presence against scheming men; You shelter them in Your pavilion from contentious tongues."
+    },
+    {
+      "block_id": "jsb-ps-31-21-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ps-31-22",

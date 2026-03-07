@@ -1,7 +1,7 @@
 {
   "document_id": "hos-1",
   "title": "Hosea 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,32 @@
       "text": "When the Lord first spoke to Hosea, the Lord said to Hosea, “Go, get yourself a wife of whoredom and children of whoredom; for the land will stray from following the Lord.”"
     },
     {
+      "block_id": "jsb-hos-1-2-commentary-1",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-hos-1-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “whore away.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-hos-1-3",
       "type": "verse",
       "number": 3,
@@ -29,6 +55,32 @@
       "text": "and the Lord instructed him, “Name him Jezreel; for, I will soon punish the House of Jehu for the bloody deeds at Jezreel and put an end to the monarchy of the House of Israel."
     },
     {
+      "block_id": "jsb-hos-1-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “Israel”; cf. next note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-hos-1-4-commentary-4",
+      "type": "commentary",
+      "text": "See 1 Kings 21.1–24; 2 Kings 9.21–35. Emendation yields “the Baal days”; cf. 2.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-hos-1-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +91,32 @@
       "type": "verse",
       "number": 6,
       "text": "She conceived again and bore a daughter; and He said to him, “Name her Lo‑ruhamah; for I will no longer accept the House of Israel or pardon them. ("
+    },
+    {
+      "block_id": "jsb-hos-1-6-commentary-5",
+      "type": "commentary",
+      "text": "I.e., “Not-accepted”; cf. 2.3, 6, and 2.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-hos-1-6-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “but will disown them”; cf. 9.15 and elsewhere.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-hos-1-7",
@@ -57,6 +135,45 @@
       "type": "verse",
       "number": 9,
       "text": "Then He said, “Name him Lo‑ammi; for you are not My people, and I will not be your [God].”"
+    },
+    {
+      "block_id": "jsb-hos-1-9-commentary-7",
+      "type": "commentary",
+      "text": "I.e., “Not-My-People.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-hos-1-9-commentary-8",
+      "type": "commentary",
+      "text": "I.e., you and your fellow countrymen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-hos-1-9-commentary-9",
+      "type": "commentary",
+      "text": "Cf. 2.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     }
   ]
 }

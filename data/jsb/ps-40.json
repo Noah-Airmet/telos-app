@@ -1,7 +1,7 @@
 {
   "document_id": "ps-40",
   "title": "Psalms 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,36 @@
       "text": "You, O Lord my God, have done many things; the wonders You have devised for us cannot be set out before You; I would rehearse the tale of them, but they are more than can be told."
     },
     {
+      "block_id": "jsb-ps-40-6-commentary-1",
+      "type": "commentary",
+      "text": "Or “You, O Lord my God, have done many things—/ the wonders You have devised for us; / none can equal You.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-40-7",
       "type": "verse",
       "number": 7,
       "text": "You gave me to understand that You do not desire sacrifice and meal offering; You do not ask for burnt offering and purification offering."
+    },
+    {
+      "block_id": "jsb-ps-40-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-40-8",
@@ -83,10 +109,36 @@
       "text": "For misfortunes without number envelop me; my iniquities have caught up with me; I cannot see; they are more than the hairs of my head; I am at my wits’ end."
     },
     {
+      "block_id": "jsb-ps-40-13-commentary-3",
+      "type": "commentary",
+      "text": "Or “my courage fails me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-40-14",
       "type": "verse",
       "number": 14,
       "text": "O favor me, Lord, and save me; O Lord, hasten to my aid."
+    },
+    {
+      "block_id": "jsb-ps-40-14-commentary-4",
+      "type": "commentary",
+      "text": "With vv. 14–18, cf. Ps. 70.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-40-15",

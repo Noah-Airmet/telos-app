@@ -1,7 +1,7 @@
 {
   "document_id": "isa-57",
   "title": "Isaiah 57",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "Yet he shall come to peace, He shall have rest on his couch Who walked straightforward."
     },
     {
+      "block_id": "jsb-isa-57-2-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “They shall have rest on their couches.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-57-3",
       "type": "verse",
       "number": 3,
       "text": "But as for you, come closer, You sons of a sorceress, You offspring of an adulterer and a harlot!"
+    },
+    {
+      "block_id": "jsb-isa-57-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “she acts the harlot.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-57-4",
@@ -35,10 +61,62 @@
       "text": "You who inflame yourselves Among the terebinths, Under every verdant tree; Who slaughter children in the wadis, Among the clefts of the rocks."
     },
     {
+      "block_id": "jsb-isa-57-5-commentary-3",
+      "type": "commentary",
+      "text": "I.e., in some frenzied idolatrous rite.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-isa-57-5-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “under.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-57-6",
       "type": "verse",
       "number": 6,
       "text": "With such are your share and portion, They, they are your allotment; To them you have poured out libations, Presented offerings. Should I relent in the face of this?"
+    },
+    {
+      "block_id": "jsb-isa-57-6-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-57-6-commentary-6",
+      "type": "commentary",
+      "text": "The cult-trees referred to above in v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-57-7",
@@ -53,10 +131,88 @@
       "text": "Behind the door and doorpost You have directed your thoughts; Abandoning Me, you have gone up On the couch you made so wide. You have made a covenant with them, You have loved bedding with them; You have chosen lust."
     },
     {
+      "block_id": "jsb-isa-57-8-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-57-8-commentary-8",
+      "type": "commentary",
+      "text": "The cult-trees referred to above in v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-57-8-commentary-9",
+      "type": "commentary",
+      "text": "I.e., with the objects behind door and doorpost.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-57-8-commentary-10",
+      "type": "commentary",
+      "text": "Like Ugaritic yd, from root ydd, “to love.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-57-9",
       "type": "verse",
       "number": 9,
       "text": "You have approached the king with oil, You have provided many perfumes. And you have sent your envoys afar, Even down to the netherworld."
+    },
+    {
+      "block_id": "jsb-isa-57-9-commentary-11",
+      "type": "commentary",
+      "text": "Or “Molech.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-isa-57-9-commentary-12",
+      "type": "commentary",
+      "text": "I.e., you have brought tribute to alien cults as to a king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-isa-57-10",
@@ -71,10 +227,62 @@
       "text": "Whom do you dread and fear, That you tell lies? But you gave no thought to Me, You paid no heed. It is because I have stood idly by so long That you have no fear of Me."
     },
     {
+      "block_id": "jsb-isa-57-11-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “Them you dreaded and feared, / And so you gave them thought.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-57-11-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “and shut My eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-57-12",
       "type": "verse",
       "number": 12,
       "text": "I hereby pronounce judgment upon your deeds: Your assorted [idols] shall not avail you,"
+    },
+    {
+      "block_id": "jsb-isa-57-12-commentary-15",
+      "type": "commentary",
+      "text": "Lit. “your retribution and your deeds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-isa-57-12-commentary-16",
+      "type": "commentary",
+      "text": "Brought up from v. 13 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-57-13",
@@ -101,10 +309,49 @@
       "text": "For I will not always contend, I will not be angry forever: Nay, I who make spirits flag, Also create the breath of life."
     },
     {
+      "block_id": "jsb-isa-57-16-commentary-17",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-57-17",
       "type": "verse",
       "number": 17,
       "text": "For their sinful greed I was angry; I struck them and turned away in My wrath. Though stubborn, they follow the way of their hearts,"
+    },
+    {
+      "block_id": "jsb-isa-57-17-commentary-18",
+      "type": "commentary",
+      "text": "I.e., Israel’s. Cf. “My people,” v. 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-isa-57-17-commentary-19",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “When they have walked broken in the contrition of their hearts.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-isa-57-18",
@@ -117,6 +364,32 @@
       "type": "verse",
       "number": 19,
       "text": "heartening, comforting words: It shall be well, Well with the far and the near —said the Lord— And I will heal them."
+    },
+    {
+      "block_id": "jsb-isa-57-19-commentary-20",
+      "type": "commentary",
+      "text": "Lit. “the vigor of”; cf. Eccl. 12.1 and postbiblical bori.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-isa-57-19-commentary-21",
+      "type": "commentary",
+      "text": "The Heb. nib is otherwise unknown; its meaning is inferred from that of nid (cf. the verb nad “to condole”) in the parallel expression in Job 16.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 57,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-57-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "neh-6",
   "title": "Nehemiah 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,32 @@
       "type": "verse",
       "number": 6,
       "text": "Its text was: “Word has reached the nations, and Geshem too says that you and the Jews are planning to rebel—for which reason you are building the wall—and that you are to be their king. Such is the word."
+    },
+    {
+      "block_id": "jsb-neh-6-6-commentary-1",
+      "type": "commentary",
+      "text": "Heb. Gashmu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 6,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-neh-6-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 6,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-neh-6-7",
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "“O my God, remember against Tobiah and Sanballat these deeds of theirs, and against Noadiah the prophetess, and against the other prophets that they wished to intimidate me!”"
+    },
+    {
+      "block_id": "jsb-neh-6-14-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 6,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-neh-6-15",

@@ -1,7 +1,7 @@
 {
   "document_id": "jer-20",
   "title": "Jeremiah 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "Pashhur thereupon had Jeremiah flogged and put in the cell at the Upper Benjamin Gate in the House of the Lord."
     },
     {
+      "block_id": "jsb-jer-20-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 20,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-jer-20-3",
       "type": "verse",
       "number": 3,
       "text": "The next day, Pashhur released Jeremiah from the cell. But Jeremiah said to him, “The Lord has named you not Pashhur, but Magor-missabib."
+    },
+    {
+      "block_id": "jsb-jer-20-3-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “Terror all around”; cf. v. 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 20,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-jer-20-4",
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "Let that man become like the cities Which the Lord overthrew without relenting! Let him hear shrieks in the morning And battle shouts at noontide—"
+    },
+    {
+      "block_id": "jsb-jer-20-16-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “day.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 20,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-20-17",

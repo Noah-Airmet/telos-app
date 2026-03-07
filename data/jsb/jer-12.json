@@ -1,7 +1,7 @@
 {
   "document_id": "jer-12",
   "title": "Jeremiah 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "You will win, O Lord, if I make claim against You, Yet I shall present charges against You: Why does the way of the wicked prosper? Why are the workers of treachery at ease?"
+    },
+    {
+      "block_id": "jsb-jer-12-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “be in the right.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-jer-12-2",
@@ -29,10 +42,49 @@
       "text": "How long must the land languish, And the grass of all the countryside dry up? Must beasts and birds perish, Because of the evil of its inhabitants, Who say, “He will not look upon our future”?"
     },
     {
+      "block_id": "jsb-jer-12-4-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “ways.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-jer-12-5",
       "type": "verse",
       "number": 5,
       "text": "If you race with the foot-runners and they exhaust you, How then can you compete with horses? If you are secure only in a tranquil land, How will you fare in the jungle of the Jordan?"
+    },
+    {
+      "block_id": "jsb-jer-12-5-commentary-3",
+      "type": "commentary",
+      "text": "God here replies to Jeremiah’s plea in vv. 1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-jer-12-5-commentary-4",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “not secure.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-jer-12-6",
@@ -53,10 +105,36 @@
       "text": "My own people acted toward Me Like a lion in the forest; She raised her voice against Me— Therefore I have rejected her."
     },
     {
+      "block_id": "jsb-jer-12-8-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “possession”; the land as well as the people, as is clear in v. 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-12-9",
       "type": "verse",
       "number": 9,
       "text": "My own people acts toward Me Like a bird of prey [or] a hyena; Let the birds of prey surround her! Go, gather all the wild beasts, Bring them to devour!"
+    },
+    {
+      "block_id": "jsb-jer-12-9-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jer-12-10",
@@ -69,6 +147,19 @@
       "type": "verse",
       "number": 11,
       "text": "They have made her a desolation; Desolate, she pours out grief to Me. The whole land is laid desolate, But no man gives it thought."
+    },
+    {
+      "block_id": "jsb-jer-12-11-commentary-7",
+      "type": "commentary",
+      "text": "Heb. “He has.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-jer-12-12",
@@ -99,6 +190,19 @@
       "type": "verse",
       "number": 16,
       "text": "And if they learn the ways of My people, to swear by My name—“As the Lord lives”—just as they once taught My people to swear by Baal, then they shall be built up in the midst of My people."
+    },
+    {
+      "block_id": "jsb-jer-12-16-commentary-8",
+      "type": "commentary",
+      "text": "Or “incorporated into.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 12,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-12-17",

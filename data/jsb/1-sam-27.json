@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-27",
   "title": "1 Samuel 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,16 +53,68 @@
       "text": "David and his men went up and raided the Geshurites, the Gizrites, and the Amalekites—who were the inhabitants of the region of Olam, all the way to Shur and to the land of Egypt.—"
     },
     {
+      "block_id": "jsb-1-sam-27-8-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “Telam” (cf. “Telaim” in 15.4; and “Telem” in Josh. 15.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 27,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-1-sam-27-9",
       "type": "verse",
       "number": 9,
       "text": "When David attacked a region, he would leave no man or woman alive; he would take flocks, herds, asses, camels, and clothing. When he returned and came to Achish,"
     },
     {
+      "block_id": "jsb-1-sam-27-9-commentary-2",
+      "type": "commentary",
+      "text": "Change of vocalization yields “brought it”; cf. v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 27,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-1-sam-27-10",
       "type": "verse",
       "number": 10,
       "text": "Achish would ask, “Where did you raid today?” and David would reply, “The Negeb of Judah,” or “the Negeb of the Jerahmeelites,” or “the Negeb of the Kenites.”"
+    },
+    {
+      "block_id": "jsb-1-sam-27-10-commentary-3",
+      "type": "commentary",
+      "text": "So some mss. and Targum; Septuagint and 4QSama read “Whom.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 27,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-1-sam-27-10-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the part of the Negeb occupied by these clans.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 27,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-1-sam-27-11",
@@ -75,6 +127,19 @@
       "type": "verse",
       "number": 12,
       "text": "Achish trusted David. He thought: “He has aroused the wrath of his own people Israel, and so he will be my vassal forever.”"
+    },
+    {
+      "block_id": "jsb-1-sam-27-12-commentary-5",
+      "type": "commentary",
+      "text": "Cf. note at 13.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 27,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     }
   ]
 }

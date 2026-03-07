@@ -1,7 +1,7 @@
 {
   "document_id": "jer-44",
   "title": "Jeremiah 44",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,16 +53,55 @@
       "text": "For you vex me by your deeds, making offering to other gods in the land of Egypt where you have come to sojourn, so that you shall be cut off and become a curse and a mockery among all the nations of earth."
     },
     {
+      "block_id": "jsb-jer-44-8-commentary-1",
+      "type": "commentary",
+      "text": "See note at 24.9; 42.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-44-9",
       "type": "verse",
       "number": 9,
       "text": "Have you forgotten the wicked acts of your forefathers, of the kings of Judah and their wives, and your own wicked acts and those of your wives, which were committed in the land of Judah and in the streets of Jerusalem?"
     },
     {
+      "block_id": "jsb-jer-44-9-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-jer-44-10",
       "type": "verse",
       "number": 10,
       "text": "No one has shown contrition to this day, and no one has shown reverence. You have not followed the Teaching and the laws that I set before you and before your fathers."
+    },
+    {
+      "block_id": "jsb-jer-44-10-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “They.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-44-11",
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "I will take the remnant of Judah who turned their faces toward the land of Egypt, to go and sojourn there, and they shall be utterly consumed in the land of Egypt. They shall fall by the sword, they shall be consumed by famine; great and small alike shall die by the sword and by famine, and they shall become an execration and a desolation, a curse and a mockery."
+    },
+    {
+      "block_id": "jsb-jer-44-12-commentary-4",
+      "type": "commentary",
+      "text": "See note at 24.9; 42.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-jer-44-13",
@@ -107,6 +159,32 @@
       "text": "On the contrary, we will do everything that we have vowed—to make offerings to the Queen of Heaven and to pour libations to her, as we used to do, we and our fathers, our kings and our officials, in the towns of Judah and the streets of Jerusalem. For then we had plenty to eat, we were well-off, and suffered no misfortune."
     },
     {
+      "block_id": "jsb-jer-44-17-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “everything that has gone forth from our mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-jer-44-17-commentary-6",
+      "type": "commentary",
+      "text": "Cf. 7.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-jer-44-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +195,19 @@
       "type": "verse",
       "number": 19,
       "text": "And when we make offerings to the Queen of Heaven and pour libations to her, is it without our husbands’ approval that we have made cakes in her likeness and poured libations to her?”"
+    },
+    {
+      "block_id": "jsb-jer-44-19-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-44-20",
@@ -153,6 +244,19 @@
       "type": "verse",
       "number": 25,
       "text": "Thus said the Lord of Hosts, the God of Israel: You and your wives have confirmed by deed what you spoke in words: ‘We will fulfill the vows which we made, to burn incense to the Queen of Heaven and to pour libations to her.’ So fulfill your vows; perform your vows!"
+    },
+    {
+      "block_id": "jsb-jer-44-25-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “spoken with your mouth and fulfilled by your hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 44,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-jer-44-26",

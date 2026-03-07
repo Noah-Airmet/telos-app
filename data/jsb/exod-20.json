@@ -1,7 +1,7 @@
 {
   "document_id": "exod-20",
   "title": "Exodus 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -19,6 +19,19 @@
       "type": "verse",
       "number": 1,
       "text": "God spoke all these words, saying:"
+    },
+    {
+      "block_id": "jsb-exod-20-1-commentary-1",
+      "type": "commentary",
+      "text": "Tradition varies as to the division of the Commandments in vv. 2–14, and as to the numbering of the verses from 13 on.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 20,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-exod-20-2",
@@ -55,6 +68,19 @@
       "type": "verse",
       "number": 7,
       "text": "You shall not swear falsely by the name of the Lord your God; for the Lord will not clear one who swears falsely by His name."
+    },
+    {
+      "block_id": "jsb-exod-20-7-commentary-2",
+      "type": "commentary",
+      "text": "Others “take in vain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 20,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-exod-20-8",
@@ -139,6 +165,19 @@
       "type": "verse",
       "number": 21,
       "text": "Make for Me an altar of earth and sacrifice on it your burnt offerings and your sacrifices of well-being, your sheep and your oxen; in every place where I cause My name to be mentioned I will come to you and bless you."
+    },
+    {
+      "block_id": "jsb-exod-20-21-commentary-3",
+      "type": "commentary",
+      "text": "Others “peace-offering.” Meaning of shelamin uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 20,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-exod-20-22",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-22",
   "title": "Exodus 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "If the thief is seized while tunneling, and he is beaten to death, there is no bloodguilt in his case."
     },
     {
+      "block_id": "jsb-exod-22-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., under a wall for housebreaking.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-exod-22-2",
       "type": "verse",
       "number": 2,
       "text": "If the sun has risen on him, there is bloodguilt in that case.—He must make restitution; if he lacks the means, he shall be sold for his theft."
+    },
+    {
+      "block_id": "jsb-exod-22-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the thief of 21.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-exod-22-3",
@@ -29,10 +55,36 @@
       "text": "When a man lets his livestock loose to graze in another’s land, and so allows a field or a vineyard to be grazed bare, he must make restitution for the impairment of that field or vineyard."
     },
     {
+      "block_id": "jsb-exod-22-4-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “excellence.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-exod-22-5",
       "type": "verse",
       "number": 5,
       "text": "When a fire is started and spreads to thorns, so that stacked, standing, or growing grain is consumed, he who started the fire must make restitution."
+    },
+    {
+      "block_id": "jsb-exod-22-5-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “field.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-exod-22-6",
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 7,
       "text": "if the thief is not caught, the owner of the house shall depose before God that he has not laid hands on the other’s property."
+    },
+    {
+      "block_id": "jsb-exod-22-7-commentary-5",
+      "type": "commentary",
+      "text": "See note on 21.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-exod-22-8",
@@ -95,6 +160,19 @@
       "text": "If a man seduces a virgin for whom the bride-price has not been paid, and lies with her, he must make her his wife by payment of a bride-price."
     },
     {
+      "block_id": "jsb-exod-22-15-commentary-6",
+      "type": "commentary",
+      "text": "So that she is unmarried; cf. Deut. 20.7; 22.23 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-exod-22-16",
       "type": "verse",
       "number": 16,
@@ -107,6 +185,19 @@
       "text": "You shall not tolerate a sorceress."
     },
     {
+      "block_id": "jsb-exod-22-17-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “let live.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-exod-22-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +208,19 @@
       "type": "verse",
       "number": 19,
       "text": "Whoever sacrifices to a god other than the Lord alone shall be proscribed."
+    },
+    {
+      "block_id": "jsb-exod-22-19-commentary-8",
+      "type": "commentary",
+      "text": "See Lev. 27.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-22-20",
@@ -173,10 +277,36 @@
       "text": "You shall not put off the skimming of the first yield of your vats. You shall give Me the first-born among your sons."
     },
     {
+      "block_id": "jsb-exod-22-28-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-exod-22-29",
       "type": "verse",
       "number": 29,
       "text": "You shall do the same with your cattle and your flocks: seven days it shall remain with its mother; on the eighth day you shall give it to Me."
+    },
+    {
+      "block_id": "jsb-exod-22-29-commentary-10",
+      "type": "commentary",
+      "text": "I.e., the male first-born.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 22,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-exod-22-30",

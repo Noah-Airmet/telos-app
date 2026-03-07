@@ -1,7 +1,7 @@
 {
   "document_id": "amos-1",
   "title": "Amos 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The words of Amos, a sheepbreeder from Tekoa, who prophesied concerning Israel in the reigns of Kings Uzziah of Judah and Jeroboam son of Joash of Israel, two years before the earthquake."
+    },
+    {
+      "block_id": "jsb-amos-1-1-commentary-1",
+      "type": "commentary",
+      "text": "See Zech. 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-amos-1-2",
@@ -23,10 +36,49 @@
       "text": "Thus said the Lord: For three transgressions of Damascus, For four, I will not revoke it: Because they threshed Gilead With threshing boards of iron."
     },
     {
+      "block_id": "jsb-amos-1-3-commentary-2",
+      "type": "commentary",
+      "text": "I.e, the decree of punishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-amos-1-4",
       "type": "verse",
       "number": 4,
       "text": "I will send down fire upon the palace of Hazael, And it shall devour the fortresses of Ben-hadad."
+    },
+    {
+      "block_id": "jsb-amos-1-4-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Lam. 1.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-amos-1-4-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 13.22–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-amos-1-5",
@@ -39,6 +91,32 @@
       "type": "verse",
       "number": 6,
       "text": "Thus said the Lord: For three transgressions of Gaza, For four, I will not revoke it: Because they exiled an entire population, Which they delivered to Edom."
+    },
+    {
+      "block_id": "jsb-amos-1-6-commentary-5",
+      "type": "commentary",
+      "text": "I.e., they cooperated in the annexation of Israelite territory; cf. Jer. 13.19 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-amos-1-6-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Aram”; cf. Isa. 9.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-amos-1-7",
@@ -59,6 +137,32 @@
       "text": "Thus said the Lord: For three transgressions of Tyre, For four, I will not revoke it: Because they handed over An entire population to Edom, Ignoring the covenant of brotherhood. Places mentioned in the oracles against the nations"
     },
     {
+      "block_id": "jsb-amos-1-9-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “Aram.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-amos-1-9-commentary-8",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 5.26; 9.12–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-amos-1-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +173,19 @@
       "type": "verse",
       "number": 11,
       "text": "Thus said the Lord: For three transgressions of Edom, For four, I will not revoke it: Because he pursued his brother with the sword And repressed all pity, Because his anger raged unceasing And his fury stormed unchecked."
+    },
+    {
+      "block_id": "jsb-amos-1-11-commentary-9",
+      "type": "commentary",
+      "text": "Cf. Akkadian shamaru and Jer. 3.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-amos-1-12",

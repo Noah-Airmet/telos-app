@@ -1,7 +1,7 @@
 {
   "document_id": "prov-13",
   "title": "Proverbs 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "He who guards his tongue preserves his life; He who opens wide his lips, it is his ruin."
+    },
+    {
+      "block_id": "jsb-prov-13-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-prov-13-4",
@@ -65,6 +78,19 @@
       "text": "Arrogance yields nothing but strife; Wisdom belongs to those who seek advice."
     },
     {
+      "block_id": "jsb-prov-13-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 13,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-prov-13-11",
       "type": "verse",
       "number": 11,
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "Good sense wins favor; The way of treacherous men is unchanging."
+    },
+    {
+      "block_id": "jsb-prov-13-15-commentary-3",
+      "type": "commentary",
+      "text": "Or “harsh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 13,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-prov-13-16",

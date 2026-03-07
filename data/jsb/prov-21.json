@@ -1,7 +1,7 @@
 {
   "document_id": "prov-21",
   "title": "Proverbs 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "Treasures acquired by a lying tongue Are like driven vapor, heading for extinction."
+    },
+    {
+      "block_id": "jsb-prov-21-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 21,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-prov-21-7",

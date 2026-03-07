@@ -1,7 +1,7 @@
 {
   "document_id": "ps-139",
   "title": "Psalms 139",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -71,6 +71,19 @@
       "text": "If I say, “Surely darkness will conceal me, night will provide me with cover,”"
     },
     {
+      "block_id": "jsb-ps-139-11-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Rashi, Ibn Ezra; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 139,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-ps-139-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "It was You who created my conscience; You fashioned me in my mother’s womb."
+    },
+    {
+      "block_id": "jsb-ps-139-13-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “kidneys.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 139,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-ps-139-14",
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "Your eyes saw my unformed limbs; they were all recorded in Your book; in due time they were formed, to the very last one of them."
+    },
+    {
+      "block_id": "jsb-ps-139-16-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 139,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-ps-139-17",

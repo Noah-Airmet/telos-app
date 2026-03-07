@@ -1,7 +1,7 @@
 {
   "document_id": "isa-16",
   "title": "Isaiah 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Dispatch as messenger The ruler of the land, From Sela in the wilderness To the mount of Fair Zion:"
+    },
+    {
+      "block_id": "jsb-isa-16-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of vv. 1 and 2 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-isa-16-2",
@@ -23,10 +36,36 @@
       "text": "Give advice, Offer counsel. At high noon make Your shadow like night: Conceal the outcasts, Betray not the fugitives."
     },
     {
+      "block_id": "jsb-isa-16-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-16-4",
       "type": "verse",
       "number": 4,
       "text": "Let Moab’s outcasts Find asylum in you; Be a shelter for them Against the despoiler.” For violence has vanished, Rapine is ended, And marauders have perished from this land."
+    },
+    {
+      "block_id": "jsb-isa-16-4-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “my outcasts, Moab.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-16-5",
@@ -35,10 +74,36 @@
       "text": "And a throne shall be established in goodness In the tent of David, And on it shall sit in faithfulness A ruler devoted to justice And zealous for equity."
     },
     {
+      "block_id": "jsb-isa-16-5-commentary-4",
+      "type": "commentary",
+      "text": "14.32, above, would read well here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-16-6",
       "type": "verse",
       "number": 6,
       "text": "“We have heard of Moab’s pride— Most haughty is he— Of his pride and haughtiness and arrogance, And of the iniquity in him.”"
+    },
+    {
+      "block_id": "jsb-isa-16-6-commentary-5",
+      "type": "commentary",
+      "text": "Baddaw is a suffixed form of the preposition bede: Nah. 2.13; Hab. 2.13; Job 39.25; with suffixes, Job 11.3, 41.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-16-7",
@@ -47,10 +112,36 @@
       "text": "Ah, let Moab howl; Let all in Moab howl! For the raisin-cakes of Kir-hareseth You shall moan most pitifully."
     },
     {
+      "block_id": "jsb-isa-16-7-commentary-6",
+      "type": "commentary",
+      "text": "Jer. 48.36 has “men.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-16-8",
       "type": "verse",
       "number": 8,
       "text": "The vineyards of Heshbon are withered, And the vines of Sibmah; Their tendrils spread To Baale-goiim, And reached to Jazer, And strayed to the desert; Their shoots spread out And crossed the sea."
+    },
+    {
+      "block_id": "jsb-isa-16-8-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-16-9",
@@ -59,10 +150,36 @@
       "text": "Therefore, As I weep for Jazer, So I weep for Sibmah’s vines; O Heshbon and Elealeh, I drench you with my tears. Ended are the shouts Over your fig and grain harvests."
     },
     {
+      "block_id": "jsb-isa-16-9-commentary-8",
+      "type": "commentary",
+      "text": "Jer. 48.32 reads “A ravager has come down / Upon your fig and grape harvests.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-16-10",
       "type": "verse",
       "number": 10,
       "text": "Rejoicing and gladness Are gone from the farm land; In the vineyards no shouting Or cheering is heard. No more does the treader Tread wine in the presses— The shouts have been silenced."
+    },
+    {
+      "block_id": "jsb-isa-16-10-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “I have silenced.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 16,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-16-11",

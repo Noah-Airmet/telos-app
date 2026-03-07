@@ -1,7 +1,7 @@
 {
   "document_id": "job-7",
   "title": "Job 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "My days fly faster than a weaver’s shuttle, And come to their end without hope."
     },
     {
+      "block_id": "jsb-job-7-6-commentary-1",
+      "type": "commentary",
+      "text": "Or “when the thread runs out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-job-7-7",
       "type": "verse",
       "number": 7,
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "Am I the sea or the Dragon, That You have set a watch over me?"
+    },
+    {
+      "block_id": "jsb-job-7-12-commentary-2",
+      "type": "commentary",
+      "text": "See note at 3.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-job-7-13",

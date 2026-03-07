@@ -1,7 +1,7 @@
 {
   "document_id": "gen-40",
   "title": "Genesis 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -93,6 +93,19 @@
       "text": "In three days Pharaoh will pardon you and restore you to your post; you will place Pharaoh’s cup in his hand, as was your custom formerly when you were his cupbearer."
     },
     {
+      "block_id": "jsb-gen-40-13-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “lift up your head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 40,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-gen-40-14",
       "type": "verse",
       "number": 14,
@@ -109,6 +122,19 @@
       "type": "verse",
       "number": 16,
       "text": "When the chief baker saw how favorably he had interpreted, he said to Joseph, “In my dream, similarly, there were three openwork baskets on my head."
+    },
+    {
+      "block_id": "jsb-gen-40-16-commentary-2",
+      "type": "commentary",
+      "text": "Others “baskets with white bread” or “white baskets”; meaning of Heb. ḥori uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 40,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-gen-40-17",
@@ -133,6 +159,19 @@
       "type": "verse",
       "number": 20,
       "text": "On the third day—his birthday—Pharaoh made a banquet for all his officials, and he singled out his chief cupbearer and his chief baker from among his officials."
+    },
+    {
+      "block_id": "jsb-gen-40-20-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “lifted the head of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 40,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-gen-40-21",

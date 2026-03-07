@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-12",
   "title": "1 Samuel 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Here I am! Testify against me, in the presence of the Lord and in the presence of His anointed one: Whose ox have I taken, or whose ass have I taken? Whom have I defrauded or whom have I robbed? From whom have I taken a bribe to look the other way? I will return it to you.”"
     },
     {
+      "block_id": "jsb-1-sam-12-3-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “or a pair of sandals? [cf. Amos 2.6] Testify against me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-12-4",
       "type": "verse",
       "number": 4,
@@ -35,10 +48,49 @@
       "text": "He said to them, “The Lord then is witness, and His anointed is witness, to your admission this day that you have found nothing in my possession.” They responded, “He is!”"
     },
     {
+      "block_id": "jsb-1-sam-12-5-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “against you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-1-sam-12-5-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “he.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-12-6",
       "type": "verse",
       "number": 6,
       "text": "Samuel said to the people, “The Lord [is witness], He who appointed Moses and Aaron and who brought your fathers out of the land of Egypt."
+    },
+    {
+      "block_id": "jsb-1-sam-12-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-12-7",
@@ -51,6 +103,19 @@
       "type": "verse",
       "number": 8,
       "text": "“When Jacob came to Egypt,…your fathers cried out to the Lord, and the Lord sent Moses and Aaron, who brought your fathers out of Egypt and settled them in this place."
+    },
+    {
+      "block_id": "jsb-1-sam-12-8-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint adds “the Egyptians oppressed them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-12-9",
@@ -69,6 +134,19 @@
       "type": "verse",
       "number": 11,
       "text": "And the Lord sent Jerubbaal and Bedan and Jephthah and Samuel, and delivered you from the enemies around you; and you dwelt in security."
+    },
+    {
+      "block_id": "jsb-1-sam-12-11-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint “Barak.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-sam-12-12",
@@ -105,6 +183,19 @@
       "type": "verse",
       "number": 17,
       "text": "It is the season of the wheat harvest. I will pray to the Lord and He will send thunder and rain; then you will take thought and realize what a wicked thing you did in the sight of the Lord when you asked for a king.”"
+    },
+    {
+      "block_id": "jsb-1-sam-12-17-commentary-7",
+      "type": "commentary",
+      "text": "When thunderstorms do not occur in the land of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 12,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-1-sam-12-18",

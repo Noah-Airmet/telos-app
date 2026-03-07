@@ -1,7 +1,7 @@
 {
   "document_id": "gen-37",
   "title": "Genesis 37",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Now Israel loved Joseph best of all his sons, for he was the child of his old age; and he had made him an ornamented tunic."
+    },
+    {
+      "block_id": "jsb-gen-37-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “a coat of many colors”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-gen-37-4",
@@ -219,6 +232,19 @@
       "type": "verse",
       "number": 36,
       "text": "The Midianites, meanwhile, sold him in Egypt to Potiphar, a courtier of Pharaoh and his chief steward."
+    },
+    {
+      "block_id": "jsb-gen-37-36-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “Medanites.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     }
   ]
 }

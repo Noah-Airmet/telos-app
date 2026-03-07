@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-21",
   "title": "2 Kings 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -81,6 +81,19 @@
       "type": "verse",
       "number": 13,
       "text": "I will apply to Jerusalem the measuring line of Samaria and the weights of the House of Ahab; I will wipe Jerusalem clean as one wipes a dish and turns it upside down."
+    },
+    {
+      "block_id": "jsb-2-kgs-21-13-commentary-1",
+      "type": "commentary",
+      "text": "I.e., I will bring the same fate upon it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 21,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-21-14",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-4",
   "title": "Genesis 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "Now the man knew his wife Eve, and she conceived and bore Cain, saying, “I have gained a male child with the help of the Lord.”"
+    },
+    {
+      "block_id": "jsb-gen-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. yadaʿ, often in a sexual sense.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-gen-4-1-commentary-2",
+      "type": "commentary",
+      "text": "Heb. qanithi, connected with “Cain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-gen-4-2",
@@ -47,10 +73,36 @@
       "text": "Surely, if you do right, There is uplift. But if you do not do right Sin couches at the door; Its urge is toward you, Yet you can be its master.”"
     },
     {
+      "block_id": "jsb-gen-4-7-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-gen-4-8",
       "type": "verse",
       "number": 8,
       "text": "Cain said to his brother Abel…and when they were in the field, Cain set upon his brother Abel and killed him."
+    },
+    {
+      "block_id": "jsb-gen-4-8-commentary-4",
+      "type": "commentary",
+      "text": "Ancient versions, including the Targum, read “Come, let us go out into the field.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-gen-4-9",
@@ -69,6 +121,19 @@
       "type": "verse",
       "number": 11,
       "text": "Therefore, you shall be more cursed than the ground, which opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+      "block_id": "jsb-gen-4-11-commentary-5",
+      "type": "commentary",
+      "text": "See 3.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-gen-4-12",
@@ -113,6 +178,19 @@
       "text": "To Enoch was born Irad, and Irad begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech."
     },
     {
+      "block_id": "jsb-gen-4-18-commentary-6",
+      "type": "commentary",
+      "text": "Heb. Meḥijael.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-gen-4-19",
       "type": "verse",
       "number": 19,
@@ -153,6 +231,19 @@
       "type": "verse",
       "number": 25,
       "text": "Adam knew his wife again, and she bore a son and named him Seth, meaning, “God has provided me with another offspring in place of Abel,” for Cain had killed him."
+    },
+    {
+      "block_id": "jsb-gen-4-25-commentary-7",
+      "type": "commentary",
+      "text": "Or “established for me”; Heb. shath, connected with “Seth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-gen-4-26",

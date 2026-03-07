@@ -1,7 +1,7 @@
 {
   "document_id": "exod-32",
   "title": "Exodus 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,32 @@
       "type": "verse",
       "number": 4,
       "text": "This he took from them and cast in a mold, and made it into a molten calf. And they exclaimed, “This is your god, O Israel, who brought you out of the land of Egypt!”"
+    },
+    {
+      "block_id": "jsb-exod-32-4-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Zech. 11.13 (beth hayyoṣer, “foundry”); others “fashioned it with a graving tool.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 32,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-exod-32-4-commentary-2",
+      "type": "commentary",
+      "text": "Others “These are your gods.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 32,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-exod-32-5",
@@ -155,6 +181,19 @@
       "text": "Moses saw that the people were out of control—since Aaron had let them get out of control—so that they were a menace to any who might oppose them."
     },
     {
+      "block_id": "jsb-exod-32-25-commentary-3",
+      "type": "commentary",
+      "text": "Others “an object of derision.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 32,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-exod-32-26",
       "type": "verse",
       "number": 26,
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "And Moses said, “Dedicate yourselves to the Lord this day—for each of you has been against son and brother—that He may bestow a blessing upon you today.”"
+    },
+    {
+      "block_id": "jsb-exod-32-29-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “fill your hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 32,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-exod-32-30",
@@ -213,6 +265,19 @@
       "type": "verse",
       "number": 35,
       "text": "Then the Lord sent a plague upon the people, for what they did with the calf that Aaron made."
+    },
+    {
+      "block_id": "jsb-exod-32-35-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 32,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     }
   ]
 }

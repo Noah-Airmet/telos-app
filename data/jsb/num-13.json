@@ -1,7 +1,7 @@
 {
   "document_id": "num-13",
   "title": "Numbers 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "From the tribe of Ephraim, Hosea son of Nun."
+    },
+    {
+      "block_id": "jsb-num-13-8-commentary-1",
+      "type": "commentary",
+      "text": "Or “Hoshea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 13,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-num-13-9",
@@ -131,6 +144,19 @@
       "text": "They went up and scouted the land, from the wilderness of Zin to Rehob, at Lebo-hamath."
     },
     {
+      "block_id": "jsb-num-13-21-commentary-2",
+      "type": "commentary",
+      "text": "Others “the entrance to Hamath.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-num-13-22",
       "type": "verse",
       "number": 22,
@@ -147,6 +173,19 @@
       "type": "verse",
       "number": 24,
       "text": "That place was named the wadi Eshcol because of the cluster that the Israelites cut down there."
+    },
+    {
+      "block_id": "jsb-num-13-24-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “cluster.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 13,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-num-13-25",
@@ -201,6 +240,19 @@
       "type": "verse",
       "number": 33,
       "text": "we saw the Nephilim there—the Anakites are part of the Nephilim—and we looked like grasshoppers to ourselves, and so we must have looked to them.”"
+    },
+    {
+      "block_id": "jsb-num-13-33-commentary-4",
+      "type": "commentary",
+      "text": "See Gen. 6.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 13,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     }
   ]
 }

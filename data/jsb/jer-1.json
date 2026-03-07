@@ -1,7 +1,7 @@
 {
   "document_id": "jer-1",
   "title": "Jeremiah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -71,16 +71,55 @@
       "text": "The word of the Lord came to me: What do you see, Jeremiah? I replied: I see a branch of an almond tree."
     },
     {
+      "block_id": "jsb-jer-1-11-commentary-1",
+      "type": "commentary",
+      "text": "Heb. shaqed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-jer-1-12",
       "type": "verse",
       "number": 12,
       "text": "The Lord said to me: You have seen right, For I am watchful to bring My word to pass."
     },
     {
+      "block_id": "jsb-jer-1-12-commentary-2",
+      "type": "commentary",
+      "text": "Heb. shoqed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-jer-1-13",
       "type": "verse",
       "number": 13,
       "text": "And the word of the Lord came to me a second time: What do you see? I replied: I see a steaming pot, Tipped away from the north."
+    },
+    {
+      "block_id": "jsb-jer-1-13-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 1,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-jer-1-14",
@@ -101,6 +140,19 @@
       "text": "And I will argue My case against them For all their wickedness: They have forsaken Me And sacrificed to other gods And worshiped the works of their hands."
     },
     {
+      "block_id": "jsb-jer-1-16-commentary-4",
+      "type": "commentary",
+      "text": "I.e., against Jerusalem and Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-jer-1-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +163,19 @@
       "type": "verse",
       "number": 18,
       "text": "I make you this day A fortified city, And an iron pillar, And bronze walls Against the whole land— Against Judah’s kings and officers, And against its priests and citizens."
+    },
+    {
+      "block_id": "jsb-jer-1-18-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “the people of the land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 1,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-1-19",

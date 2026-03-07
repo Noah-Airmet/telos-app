@@ -1,7 +1,7 @@
 {
   "document_id": "gen-12",
   "title": "Genesis 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "I will make of you a great nation, And I will bless you; I will make your name great, And you shall be a blessing."
+    },
+    {
+      "block_id": "jsb-gen-12-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., a standard by which blessing is invoked; cf. v. 3 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-12-3",
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "As he was about to enter Egypt, he said to his wife Sarai, “I know what a beautiful woman you are."
+    },
+    {
+      "block_id": "jsb-gen-12-11-commentary-2",
+      "type": "commentary",
+      "text": "Or “You”; cf. the second person feminine form -ti in Judg. 5.7; Jer. 2.20; Mic. 4.13, etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 12,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-gen-12-12",

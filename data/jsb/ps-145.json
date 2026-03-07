@@ -1,7 +1,7 @@
 {
   "document_id": "ps-145",
   "title": "Psalms 145",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "ה The glorious majesty of Your splendor and Your wondrous acts will I recite."
+    },
+    {
+      "block_id": "jsb-ps-145-5-commentary-1",
+      "type": "commentary",
+      "text": "A Qumran Pss. scroll reads: “they will speak of, and Your wonders.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 145,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-145-6",
@@ -129,6 +142,19 @@
       "type": "verse",
       "number": 21,
       "text": "ת My mouth shall utter the praise of the Lord, and all creatures shall bless His holy name forever and ever."
+    },
+    {
+      "block_id": "jsb-ps-145-21-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 145,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     }
   ]
 }

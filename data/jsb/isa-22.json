@@ -1,7 +1,7 @@
 {
   "document_id": "isa-22",
   "title": "Isaiah 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "The “Valley of Vision” Pronouncement. What can have happened to you That you have gone, all of you, up on the roofs,"
     },
     {
+      "block_id": "jsb-isa-22-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-isa-22-1-commentary-2",
+      "type": "commentary",
+      "text": "Vv. 1–3 describe a scene of mourning to take place in Jerusalem in the near future. In the ancient Near East, public weeping took place on the low flat roofs as well as in the streets and squares; cf. above, 15.3; Jer. 48.38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-22-2",
       "type": "verse",
       "number": 2,
       "text": "O you who were full of tumult, You clamorous town, You city so gay? Your slain are not the slain of the sword Nor the dead of battle."
+    },
+    {
+      "block_id": "jsb-isa-22-2-commentary-3",
+      "type": "commentary",
+      "text": "I.e., executed, instead of dying in battle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-22-3",
@@ -23,16 +62,55 @@
       "text": "Your officers have all departed, They fled far away; Your survivors were all taken captive, Taken captive without their bows."
     },
     {
+      "block_id": "jsb-isa-22-3-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-22-4",
       "type": "verse",
       "number": 4,
       "text": "That is why I say, “Let me be, I will weep bitterly. Press not to comfort me For the ruin of my poor people.”"
     },
     {
+      "block_id": "jsb-isa-22-4-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “the young woman, my people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-22-5",
       "type": "verse",
       "number": 5,
       "text": "For my Lord god of Hosts had a day Of tumult and din and confusion— Kir raged in the Valley of Vision, And Shoa on the hill;"
+    },
+    {
+      "block_id": "jsb-isa-22-5-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. On Kir see 2 Kings 16.9; Amos 1.5; 9.7; on Shoa see Ezek. 23.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-22-6",
@@ -47,16 +125,68 @@
       "text": "And your choicest lowlands Were filled with chariots and horsemen: They stormed at Judah’s gateway"
     },
     {
+      "block_id": "jsb-isa-22-7-commentary-7",
+      "type": "commentary",
+      "text": "Brought up from 8a for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-22-8",
       "type": "verse",
       "number": 8,
       "text": "And pressed beyond its screen. You gave thought on that day To the arms in the Forest House,"
     },
     {
+      "block_id": "jsb-isa-22-8-commentary-8",
+      "type": "commentary",
+      "text": "Judah’s gateway is the upper course of the Valley of Elah. The screen is the fortress Azekah, at the mouth of the gateway, which was captured by the Assyrians.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-22-8-commentary-9",
+      "type": "commentary",
+      "text": "See 1 Kings 7.2–5; 10.16–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-22-9",
       "type": "verse",
       "number": 9,
       "text": "And you took note of the many breaches In the City of David. And you collected the water of the Lower Pool;"
+    },
+    {
+      "block_id": "jsb-isa-22-9-commentary-10",
+      "type": "commentary",
+      "text": "This clause would read well after the prose part of v. 11a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-isa-22-10",
@@ -101,16 +231,81 @@
       "text": "What have you here, and whom have you here, That you have hewn out a tomb for yourself here?— O you who have hewn your tomb on high; O you who have hollowed out for yourself an abode in the cliff!"
     },
     {
+      "block_id": "jsb-isa-22-16-commentary-11",
+      "type": "commentary",
+      "text": "Heb. “his,” “himself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-22-17",
       "type": "verse",
       "number": 17,
       "text": "The Lord is about to shake you Severely, fellow, and then wrap you around Himself."
     },
     {
+      "block_id": "jsb-isa-22-17-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields “as a garment is shaken out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-isa-22-17-commentary-13",
+      "type": "commentary",
+      "text": "I.e., and walk off with you; cf. Jer. 43.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-isa-22-18",
       "type": "verse",
       "number": 18,
       "text": "Indeed, He will wind you about Him as a headdress, a turban. Off to a broad land! There shall you die, and there shall be the chariots bearing your body, O shame of your master’s house!"
+    },
+    {
+      "block_id": "jsb-isa-22-18-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “as a turban is wound about.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-isa-22-18-commentary-15",
+      "type": "commentary",
+      "text": "Emendation yields “abode [cf. v. 16] of your body” [cf. 10.3, 16].",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-isa-22-19",
@@ -143,16 +338,55 @@
       "text": "He shall be a seat of honor to his father’s household. I will fix him as a peg in a firm place,"
     },
     {
+      "block_id": "jsb-isa-22-23-commentary-16",
+      "type": "commentary",
+      "text": "Emendation yields “master’s”; cf. v. 18 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-isa-22-24",
       "type": "verse",
       "number": 24,
       "text": "on which all the substance of his father’s household shall be hung: the sprouts and the leaves—all the small vessels, from bowls to all sorts of jars."
     },
     {
+      "block_id": "jsb-isa-22-24-commentary-17",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-isa-22-25",
       "type": "verse",
       "number": 25,
       "text": "In that day—declares the Lord of Hosts—the peg fixed in a firm place shall give way: it shall be cut down and shall fall, and the weight it supports shall be destroyed. For it is the Lord who has spoken."
+    },
+    {
+      "block_id": "jsb-isa-22-25-commentary-18",
+      "type": "commentary",
+      "text": "Apparently continues v. 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 22,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     }
   ]
 }

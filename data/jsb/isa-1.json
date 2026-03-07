@@ -1,7 +1,7 @@
 {
   "document_id": "isa-1",
   "title": "Isaiah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,36 @@
       "text": "Your land is a waste, Your cities burnt down; Before your eyes, the yield of your soil Is consumed by strangers— A wasteland as overthrown by strangers!"
     },
     {
+      "block_id": "jsb-isa-1-7-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “like Sodom overthrown.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-1-8",
       "type": "verse",
       "number": 8,
       "text": "Fair Zion is left Like a booth in a vineyard, Like a hut in a cucumber field, Like a city beleaguered."
+    },
+    {
+      "block_id": "jsb-isa-1-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “Daughter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-1-9",
@@ -77,10 +103,36 @@
       "text": "That you come to appear before Me— Who asked that of you? Trample My courts"
     },
     {
+      "block_id": "jsb-isa-1-12-commentary-3",
+      "type": "commentary",
+      "text": "Others “To trample My courts? / 13Bring no more vain oblations.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-1-13",
       "type": "verse",
       "number": 13,
       "text": "no more; Bringing oblations is futile, Incense is offensive to Me. New moon and sabbath, Proclaiming of solemnities, Assemblies with iniquity, I cannot abide."
+    },
+    {
+      "block_id": "jsb-isa-1-13-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint “Fast and assembly”; cf. Joel 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-isa-1-14",
@@ -107,6 +159,19 @@
       "text": "Learn to do good. Devote yourselves to justice; Aid the wronged. Uphold the rights of the orphan; Defend the cause of the widow."
     },
     {
+      "block_id": "jsb-isa-1-17-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-isa-1-18",
       "type": "verse",
       "number": 18,
@@ -125,6 +190,19 @@
       "text": "But if you refuse and disobey, You will be devoured [by] the sword.— For it was the Lord who spoke."
     },
     {
+      "block_id": "jsb-isa-1-20-commentary-6",
+      "type": "commentary",
+      "text": "Or “you will be fed the sword.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-1-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +213,32 @@
       "type": "verse",
       "number": 22,
       "text": "Your silver has turned to dross; Your wine is cut with water."
+    },
+    {
+      "block_id": "jsb-isa-1-22-commentary-7",
+      "type": "commentary",
+      "text": "I.e., Jerusalem’s.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-isa-1-22-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-isa-1-23",
@@ -155,6 +259,19 @@
       "text": "I will turn My hand against you, And smelt out your dross as with lye, And remove all your slag:"
     },
     {
+      "block_id": "jsb-isa-1-25-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “in a crucible”; cf. 48.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-isa-1-26",
       "type": "verse",
       "number": 26,
@@ -165,6 +282,32 @@
       "type": "verse",
       "number": 27,
       "text": "Zion shall be saved in the judgment; Her repentant ones, in the retribution."
+    },
+    {
+      "block_id": "jsb-isa-1-27-commentary-10",
+      "type": "commentary",
+      "text": "Others “Zion shall be saved by justice, / Her repentant ones by righteousness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "jsb-isa-1-27-commentary-11",
+      "type": "commentary",
+      "text": "For this meaning cf. 5.16; 10.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-isa-1-28",
@@ -179,6 +322,19 @@
       "text": "Truly, you shall be shamed Because of the terebinths you desired, And you shall be confounded Because of the gardens you coveted."
     },
     {
+      "block_id": "jsb-isa-1-29-commentary-12",
+      "type": "commentary",
+      "text": "Heb. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-isa-1-30",
       "type": "verse",
       "number": 30,
@@ -189,6 +345,19 @@
       "type": "verse",
       "number": 31,
       "text": "Stored wealth shall become as tow, And he who amassed it a spark; And the two shall burn together, With none to quench."
+    },
+    {
+      "block_id": "jsb-isa-1-31-commentary-13",
+      "type": "commentary",
+      "text": "Connecting ḥason with ḥasan, “to store” (23.18), and ḥosen, “treasure” (33.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     }
   ]
 }

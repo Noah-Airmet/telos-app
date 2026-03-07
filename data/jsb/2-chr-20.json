@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-20",
   "title": "2 Chronicles 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "After that, Moabites, Ammonites, together with some Ammonim, came against Jehoshaphat to wage war."
+    },
+    {
+      "block_id": "jsb-2-chr-20-1-commentary-1",
+      "type": "commentary",
+      "text": "Probably for mʿnym “Meunites” (1 Chron. 4.41); cf. Kimhi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 20,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-20-2",
@@ -189,6 +202,19 @@
       "type": "verse",
       "number": 31,
       "text": "Jehoshaphat reigned over Judah. He was thirty-five years old when he became king, and he reigned in Jerusalem for twenty-five years. His mother’s name was Azubah daughter of Shilhi."
+    },
+    {
+      "block_id": "jsb-2-chr-20-31-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 31–37, cf. 1 Kings 22.41–49.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 20,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-2-chr-20-32",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-19",
   "title": "Psalms 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,49 @@
       "text": "There is no utterance, there are no words, whose sound goes unheard."
     },
     {
+      "block_id": "jsb-ps-19-4-commentary-1",
+      "type": "commentary",
+      "text": "With Septuagint, Symmachus, and Vulgate; or “their sound is not heard.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 19,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-19-5",
       "type": "verse",
       "number": 5,
       "text": "Their voice carries throughout the earth, their words to the end of the world. He placed in them a tent for the sun,"
+    },
+    {
+      "block_id": "jsb-ps-19-5-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Septuagint, Symmachus, and Vulgate; Arabic qawwah, “to shout.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 19,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-ps-19-5-commentary-3",
+      "type": "commentary",
+      "text": "Viz., the heavens.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 19,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-19-6",
@@ -89,10 +128,36 @@
       "text": "and from willful sins keep Your servant; let them not dominate me; then shall I be blameless and clear of grave offense."
     },
     {
+      "block_id": "jsb-ps-19-14-commentary-4",
+      "type": "commentary",
+      "text": "Or “arrogant men”; cf. Ps. 119.51.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 19,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ps-19-15",
       "type": "verse",
       "number": 15,
       "text": "May the words of my mouth and the prayer of my heart be acceptable to You, O Lord, my rock and my redeemer."
+    },
+    {
+      "block_id": "jsb-ps-19-15-commentary-5",
+      "type": "commentary",
+      "text": "For leb as a source of speech, see note to Eccl. 5.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 19,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     }
   ]
 }

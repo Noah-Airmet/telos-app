@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-7",
   "title": "Ezekiel 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "Thus said the Lord god: A singular disaster; a disaster is coming."
     },
     {
+      "block_id": "jsb-ezek-7-5-commentary-1",
+      "type": "commentary",
+      "text": "A number of mss. and editions, as well as Targum, read “Disaster after disaster.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ezek-7-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "The cycle has come around for you, O inhabitants of the land; the time has come; the day is near. There is panic on the mountains, not joy."
+    },
+    {
+      "block_id": "jsb-ezek-7-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-7-8",
@@ -101,6 +127,19 @@
       "text": "And if any survive, they shall take to the mountains; they shall be like doves of the valley, moaning together—every one for his iniquity."
     },
     {
+      "block_id": "jsb-ezek-7-16-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “like moaning doves. All of them shall perish.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-ezek-7-17",
       "type": "verse",
       "number": 17,
@@ -125,6 +164,19 @@
       "text": "for out of their beautiful adornments, in which they took pride, they made their images and their detestable abominations—therefore I will make them an unclean thing to them."
     },
     {
+      "block_id": "jsb-ezek-7-20-commentary-4",
+      "type": "commentary",
+      "text": "I.e., their adornments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ezek-7-21",
       "type": "verse",
       "number": 21,
@@ -143,6 +195,19 @@
       "text": "Forge the chain, for the land is full of bloody crimes, and the city is full of lawlessness."
     },
     {
+      "block_id": "jsb-ezek-7-23-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-ezek-7-24",
       "type": "verse",
       "number": 24,
@@ -153,6 +218,19 @@
       "type": "verse",
       "number": 25,
       "text": "Horror comes, and they shall seek safety, but there shall be none."
+    },
+    {
+      "block_id": "jsb-ezek-7-25-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 7,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-ezek-7-26",

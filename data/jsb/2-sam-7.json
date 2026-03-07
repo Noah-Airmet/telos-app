@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-7",
   "title": "2 Samuel 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When the king was settled in his palace and the Lord had granted him safety from all the enemies around him,"
+    },
+    {
+      "block_id": "jsb-2-sam-7-1-commentary-1",
+      "type": "commentary",
+      "text": "This chapter is found, with variations, also in 1 Chron. 17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-7-2",
@@ -47,6 +60,19 @@
       "text": "As I moved about wherever the Israelites went, did I ever reproach any of the tribal leaders whom I appointed to care for My people Israel: Why have you not built Me a house of cedar?"
     },
     {
+      "block_id": "jsb-2-sam-7-7-commentary-2",
+      "type": "commentary",
+      "text": "Understanding shibṭe as “scepters”; so Kimhi. 1 Chron. 17.6 reads “chieftains”; cf. below, v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-2-sam-7-8",
       "type": "verse",
       "number": 8,
@@ -71,6 +97,19 @@
       "text": "ever since I appointed chieftains over My people Israel. I will give you safety from all your enemies. “The Lord declares to you that He, the Lord, will establish a house for you."
     },
     {
+      "block_id": "jsb-2-sam-7-11-commentary-3",
+      "type": "commentary",
+      "text": "I.e., a dynasty; play on “house” (i.e., Temple) in v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-sam-7-12",
       "type": "verse",
       "number": 12,
@@ -89,16 +128,55 @@
       "text": "I will be a father to him, and he shall be a son to Me. When he does wrong, I will chastise him with the rod of men and the affliction of mortals;"
     },
     {
+      "block_id": "jsb-2-sam-7-14-commentary-4",
+      "type": "commentary",
+      "text": "I.e., only as a human father would.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-sam-7-15",
       "type": "verse",
       "number": 15,
       "text": "but I will never withdraw My favor from him as I withdrew it from Saul, whom I removed to make room for you."
     },
     {
+      "block_id": "jsb-2-sam-7-15-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “from before you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-2-sam-7-16",
       "type": "verse",
       "number": 16,
       "text": "Your house and your kingship shall ever be secure before you; your throne shall be established forever.”"
+    },
+    {
+      "block_id": "jsb-2-sam-7-16-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint reads “before Me,” i.e., “by My favor.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-sam-7-17",
@@ -117,6 +195,19 @@
       "type": "verse",
       "number": 19,
       "text": "Yet even this, O Lord god, has seemed too little to You; for You have spoken of Your servant’s house also for the future. May that be the law for the people, O Lord god."
+    },
+    {
+      "block_id": "jsb-2-sam-7-19-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-2-sam-7-20",
@@ -141,6 +232,32 @@
       "type": "verse",
       "number": 23,
       "text": "And who is like Your people Israel, a unique nation on earth, whom God went and redeemed as His people, winning renown for Himself and doing great and marvelous deeds for them [and] for Your land—[driving out] nations and their gods before Your people, whom You redeemed for Yourself from Egypt."
+    },
+    {
+      "block_id": "jsb-2-sam-7-23-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “you,” apparently denoting Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-2-sam-7-23-commentary-9",
+      "type": "commentary",
+      "text": "So 1 Chron. 17.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-2-sam-7-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-56",
   "title": "Isaiah 56",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,10 +65,49 @@
       "text": "The watchmen are blind, all of them, They perceive nothing. They are all dumb dogs That cannot bark; They lie sprawling, They love to drowse."
     },
     {
+      "block_id": "jsb-isa-56-10-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 56,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-isa-56-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 56,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-56-11",
       "type": "verse",
       "number": 11,
       "text": "Moreover, the dogs are greedy; They never know satiety. As for the shepherds, they know not What it is to give heed. Everyone has turned his own way, Every last one seeks his own advantage."
+    },
+    {
+      "block_id": "jsb-isa-56-11-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Neither do the shepherds ever know sufficiency (hon).” Cf. hon in Prov. 30.15, 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 56,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-56-12",

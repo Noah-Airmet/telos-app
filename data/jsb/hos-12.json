@@ -1,7 +1,7 @@
 {
   "document_id": "hos-12",
   "title": "Hosea 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "Ephraim surrounds Me with deceit, The House of Israel with guile. (But Judah stands firm with God And is faithful to the Holy One.)"
     },
     {
+      "block_id": "jsb-hos-12-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the deceit and guile they practice on each other (below vv. 8–9) is constantly noted by the Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-hos-12-2",
       "type": "verse",
       "number": 2,
       "text": "Ephraim tends the wind And pursues the gale; He is forever adding Illusion to calamity. Now they make a covenant with Assyria, Now oil is carried to Egypt."
+    },
+    {
+      "block_id": "jsb-hos-12-2-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “futility.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-hos-12-2-commentary-3",
+      "type": "commentary",
+      "text": "I.e., they foolishly depend on alliances instead of on the Lord; cf. 5.13; 7.10–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-hos-12-3",
@@ -23,10 +62,36 @@
       "text": "The Lord once indicted Judah, And punished Jacob for his conduct, Requited him for his deeds."
     },
     {
+      "block_id": "jsb-hos-12-3-commentary-4",
+      "type": "commentary",
+      "text": "Presumably the patriarch Judah. Emendation would yield “Israel”; cf. next note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-hos-12-4",
       "type": "verse",
       "number": 4,
       "text": "In the womb he tried to supplant his brother; Grown to manhood, he strove with a divine being,"
+    },
+    {
+      "block_id": "jsb-hos-12-4-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Gen. 25.26 and 32.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-hos-12-5",
@@ -35,10 +100,36 @@
       "text": "He strove with an angel and prevailed— The other had to weep and implore him. At Bethel [Jacob] would meet him, There to commune with him."
     },
     {
+      "block_id": "jsb-hos-12-5-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “us.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-hos-12-6",
       "type": "verse",
       "number": 6,
       "text": "Yet the Lord, the God of Hosts, Must be invoked as “Lord.”"
+    },
+    {
+      "block_id": "jsb-hos-12-6-commentary-7",
+      "type": "commentary",
+      "text": "I.e., one should not invoke any of the angelic hosts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-hos-12-7",
@@ -59,10 +150,49 @@
       "text": "Ephraim thinks, “Ah, I have become rich; I have gotten power! All my gains do not amount To an offense which is real guilt.”"
     },
     {
+      "block_id": "jsb-hos-12-9-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-hos-12-10",
       "type": "verse",
       "number": 10,
       "text": "I the Lord have been your God Ever since the land of Egypt. I will let you dwell in your tents again As in the days of old,"
+    },
+    {
+      "block_id": "jsb-hos-12-10-commentary-9",
+      "type": "commentary",
+      "text": "I.e., securely; see 2 Kings 13.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-hos-12-10-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “fixed season.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-hos-12-11",
@@ -77,10 +207,36 @@
       "text": "As for Gilead, it is worthless; And to no purpose have they Been sacrificing oxen in Gilgal: The altars of these are also Like stone heaps upon a plowed field."
     },
     {
+      "block_id": "jsb-hos-12-12-commentary-11",
+      "type": "commentary",
+      "text": "I.e., the cults of Gilead and Gilgal are as worthless as that of Bethel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-hos-12-13",
       "type": "verse",
       "number": 13,
       "text": "Then Jacob had to flee to the land of Aram; There Israel served for a wife, For a wife he had to guard [sheep]."
+    },
+    {
+      "block_id": "jsb-hos-12-13-commentary-12",
+      "type": "commentary",
+      "text": "This is the punishment mentioned in 12.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-hos-12-14",
@@ -89,10 +245,36 @@
       "text": "But when the Lord Brought Israel up from Egypt, It was through a prophet; Through a prophet they were guarded."
     },
     {
+      "block_id": "jsb-hos-12-14-commentary-13",
+      "type": "commentary",
+      "text": "I.e., not through an angel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-hos-12-15",
       "type": "verse",
       "number": 15,
       "text": "Ephraim gave bitter offense, And his Lord cast his crimes upon him And requited him for his mockery."
+    },
+    {
+      "block_id": "jsb-hos-12-15-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of 12.15–13.1 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     }
   ]
 }

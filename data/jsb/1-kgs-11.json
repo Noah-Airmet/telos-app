@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-11",
   "title": "1 Kings 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "from the nations of which the Lord had said to the Israelites, “None of you shall join them and none of them shall join you, lest they turn your heart away to follow their gods.” Such Solomon clung to and loved."
+    },
+    {
+      "block_id": "jsb-1-kgs-11-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., in marriage; cf. Deut. 7.3–4; 23.4, 8–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-kgs-11-3",
@@ -71,6 +84,19 @@
       "text": "And the Lord said to Solomon, “Because you are guilty of this—you have not kept My covenant and the laws which I enjoined upon you—I will tear the kingdom away from you and give it to one of your servants."
     },
     {
+      "block_id": "jsb-1-kgs-11-11-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “This is with you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-kgs-11-12",
       "type": "verse",
       "number": 12,
@@ -95,6 +121,19 @@
       "text": "When David was in Edom, Joab the army commander went up to bury the slain, and he killed every male in Edom;"
     },
     {
+      "block_id": "jsb-1-kgs-11-15-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “defeated”; cf. 2 Sam. 8.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-1-kgs-11-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +144,19 @@
       "type": "verse",
       "number": 17,
       "text": "But Hadad, together with some Edomite men, servants of his father, escaped and headed for Egypt; Hadad was then a young boy."
+    },
+    {
+      "block_id": "jsb-1-kgs-11-17-commentary-4",
+      "type": "commentary",
+      "text": "Heb. Adad.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-1-kgs-11-18",
@@ -125,6 +177,19 @@
       "text": "The sister of Tahpenes bore him a son, Genubath. Tahpenes weaned him in Pharaoh’s palace, and Genubath remained in Pharaoh’s palace among the sons of Pharaoh."
     },
     {
+      "block_id": "jsb-1-kgs-11-20-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint reads “reared.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-kgs-11-21",
       "type": "verse",
       "number": 21,
@@ -141,6 +206,19 @@
       "type": "verse",
       "number": 23,
       "text": "Another adversary that God raised up against Solomon was Rezon son of Eliada, who had fled from his lord, King Hadadezer of Zobah,"
+    },
+    {
+      "block_id": "jsb-1-kgs-11-23-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-kgs-11-24",
@@ -225,6 +303,19 @@
       "type": "verse",
       "number": 37,
       "text": "But you have been chosen by Me; reign wherever you wish, and you shall be king over Israel."
+    },
+    {
+      "block_id": "jsb-1-kgs-11-37-commentary-7",
+      "type": "commentary",
+      "text": "I.e., establish your residence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 11,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-1-kgs-11-38",

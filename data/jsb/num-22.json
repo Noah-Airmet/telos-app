@@ -1,7 +1,7 @@
 {
   "document_id": "num-22",
   "title": "Numbers 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "text": "sent messengers to Balaam son of Beor in Pethor, which is by the Euphrates, in the land of his kinsfolk, to invite him, saying, “There is a people that came out of Egypt; it hides the earth from view, and it is settled next to me."
     },
     {
+      "block_id": "jsb-num-22-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the River.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 22,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-num-22-6",
       "type": "verse",
       "number": 6,
@@ -55,6 +68,19 @@
       "type": "verse",
       "number": 7,
       "text": "The elders of Moab and the elders of Midian, versed in divination, set out. They came to Balaam and gave him Balak’s message."
+    },
+    {
+      "block_id": "jsb-num-22-7-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “with divination in their power (hand).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-num-22-8",
@@ -201,10 +227,36 @@
       "text": "Then the Lord uncovered Balaam’s eyes, and he saw the angel of the Lord standing in the way, his drawn sword in his hand; thereupon he bowed right down to the ground."
     },
     {
+      "block_id": "jsb-num-22-31-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “and prostrated himself to his nostrils.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 22,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-num-22-32",
       "type": "verse",
       "number": 32,
       "text": "The angel of the Lord said to him, “Why have you beaten your ass these three times? It is I who came out as an adversary, for the errand is obnoxious to me."
+    },
+    {
+      "block_id": "jsb-num-22-32-commentary-4",
+      "type": "commentary",
+      "text": "Precise meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 22,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-num-22-33",

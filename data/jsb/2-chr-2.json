@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-2",
   "title": "2 Chronicles 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Solomon mustered 70,000 basket carriers and 80,000 quarriers in the hills, with 3,600 men supervising them."
+    },
+    {
+      "block_id": "jsb-2-chr-2-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-2-2",
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "Now I am sending you a skillful and intelligent man, my master Huram,"
+    },
+    {
+      "block_id": "jsb-2-chr-2-12-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “my father.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-2-chr-2-13",

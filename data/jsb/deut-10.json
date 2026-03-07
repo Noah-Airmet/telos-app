@@ -1,7 +1,7 @@
 {
   "document_id": "deut-10",
   "title": "Deuteronomy 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,36 @@
       "text": "From Beeroth-bene-jaakan the Israelites marched to Moserah. Aaron died there and was buried there; and his son Eleazar became priest in his stead."
     },
     {
+      "block_id": "jsb-deut-10-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “wells of Bene-jaakan”; cf. Num. 33.31–32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 10,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-deut-10-7",
       "type": "verse",
       "number": 7,
       "text": "From there they marched to Gudgod, and from Gudgod to Jotbath, a region of running brooks."
+    },
+    {
+      "block_id": "jsb-deut-10-7-commentary-2",
+      "type": "commentary",
+      "text": "“Hor-haggidgad” in Num. 33.32–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 10,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-deut-10-8",
@@ -89,6 +115,19 @@
       "text": "Mark, the heavens to their uttermost reaches belong to the Lord your God, the earth and all that is on it!"
     },
     {
+      "block_id": "jsb-deut-10-14-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “and the heaven of heavens.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 10,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-deut-10-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +144,19 @@
       "type": "verse",
       "number": 17,
       "text": "For the Lord your God is God supreme and Lord supreme, the great, the mighty, and the awesome God, who shows no favor and takes no bribe,"
+    },
+    {
+      "block_id": "jsb-deut-10-17-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “the God of gods and the Lord of lords.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 10,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-deut-10-18",

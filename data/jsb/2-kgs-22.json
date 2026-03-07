@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-22",
   "title": "2 Kings 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "“Go to the high priest Hilkiah and let him weigh the silver that has been deposited in the House of the Lord, which the guards of the threshold have collected from the people."
+    },
+    {
+      "block_id": "jsb-2-kgs-22-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “melt down,” cf. v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-kgs-22-5",
@@ -87,6 +100,19 @@
       "type": "verse",
       "number": 14,
       "text": "So the priest Hilkiah, and Ahikam, Achbor, Shaphan, and Asaiah went to the prophetess Huldah—the wife of Shallum son of Tikvah son of Harhas, the keeper of the wardrobe—who was living in Jerusalem in the Mishneh, and they spoke to her."
+    },
+    {
+      "block_id": "jsb-2-kgs-22-14-commentary-2",
+      "type": "commentary",
+      "text": "A quarter in Jerusalem; cf. Zeph. 1.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-kgs-22-15",

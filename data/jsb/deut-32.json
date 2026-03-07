@@ -1,7 +1,7 @@
 {
   "document_id": "deut-32",
   "title": "Deuteronomy 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "text": "May my discourse come down as the rain, My speech distill as the dew, Like showers on young growth, Like droplets on the grass."
     },
     {
+      "block_id": "jsb-deut-32-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., may my words be received eagerly; cf. Job 29.22–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-deut-32-3",
       "type": "verse",
       "number": 3,
@@ -37,6 +50,19 @@
       "type": "verse",
       "number": 5,
       "text": "Children unworthy of Him— That crooked, perverse generation— Their baseness has played Him false."
+    },
+    {
+      "block_id": "jsb-deut-32-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-deut-32-6",
@@ -93,10 +119,49 @@
       "text": "Curd of kine and milk of flocks; With the best of lambs, And rams of Bashan, and he‑goats; With the very finest wheat— And foaming grape-blood was your drink."
     },
     {
+      "block_id": "jsb-deut-32-14-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “fat.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-deut-32-14-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “kidney fat of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-deut-32-15",
       "type": "verse",
       "number": 15,
       "text": "So Jeshurun grew fat and kicked— You grew fat and gross and coarse— He forsook the God who made him And spurned the Rock of his support."
+    },
+    {
+      "block_id": "jsb-deut-32-15-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-deut-32-16",
@@ -109,6 +174,19 @@
       "type": "verse",
       "number": 17,
       "text": "They sacrificed to demons, no‑gods, Gods they had never known, New ones, who came but lately, Who stirred not your fathers’ fears."
+    },
+    {
+      "block_id": "jsb-deut-32-17-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; Arabic shaʿara suggests the rendering “Whom your fathers did not know.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-deut-32-18",
@@ -135,6 +213,19 @@
       "text": "They incensed Me with no‑gods, Vexed Me with their futilities; I’ll incense them with a no‑folk, Vex them with a nation of fools."
     },
     {
+      "block_id": "jsb-deut-32-21-commentary-7",
+      "type": "commentary",
+      "text": "I.e., idols.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-deut-32-22",
       "type": "verse",
       "number": 22,
@@ -145,6 +236,19 @@
       "type": "verse",
       "number": 23,
       "text": "I will sweep misfortunes on them, Use up My arrows on them:"
+    },
+    {
+      "block_id": "jsb-deut-32-23-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-deut-32-24",
@@ -165,6 +269,19 @@
       "text": "I might have reduced them to naught, Made their memory cease among men,"
     },
     {
+      "block_id": "jsb-deut-32-26-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “I said, I will reduce …”; meaning of Heb. ʾaphʾehem uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-deut-32-27",
       "type": "verse",
       "number": 27,
@@ -175,6 +292,19 @@
       "type": "verse",
       "number": 28,
       "text": "For they are a folk void of sense, Lacking in all discernment."
+    },
+    {
+      "block_id": "jsb-deut-32-28-commentary-10",
+      "type": "commentary",
+      "text": "Here, apparently, Moses is the speaker; God resumes in v. 32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-32-29",
@@ -193,6 +323,32 @@
       "type": "verse",
       "number": 31,
       "text": "For their rock is not like our Rock, In our enemies’ own estimation."
+    },
+    {
+      "block_id": "jsb-deut-32-31-commentary-11",
+      "type": "commentary",
+      "text": "I.e., as everyone must admit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "jsb-deut-32-31-commentary-12",
+      "type": "commentary",
+      "text": "For Heb. pelilim see Exod. 21.22; cf. Gen. 48.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-deut-32-32",
@@ -223,6 +379,19 @@
       "type": "verse",
       "number": 36,
       "text": "For the Lord will vindicate His people And take revenge for His servants, When He sees that their might is gone, And neither bond nor free is left."
+    },
+    {
+      "block_id": "jsb-deut-32-36-commentary-13",
+      "type": "commentary",
+      "text": "Cf. Isa. 1.24. Others “and repent Himself concerning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-deut-32-37",
@@ -265,6 +434,19 @@
       "type": "verse",
       "number": 43,
       "text": "O nations, acclaim His people! For He’ll avenge the blood of His servants, Wreak vengeance on His foes, And cleanse the land of His people."
+    },
+    {
+      "block_id": "jsb-deut-32-43-commentary-14",
+      "type": "commentary",
+      "text": "Cf. Num. 35.33. Meaning of Heb. uncertain; Ugaritic ʾudmʿt “tears” suggests the rendering “And wipe away His people’s tears.” Cf. Isa. 25.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32,
+        "verse": 43
+      },
+      "verse_start": 43,
+      "verse_end": 43
     },
     {
       "block_id": "jsb-deut-32-44",

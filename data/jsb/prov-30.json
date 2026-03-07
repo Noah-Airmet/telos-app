@@ -1,7 +1,7 @@
 {
   "document_id": "prov-30",
   "title": "Proverbs 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "Lest, being sated, I renounce, saying, “Who is the Lord?” Or, being impoverished, I take to theft And profane the name of my God."
+    },
+    {
+      "block_id": "jsb-prov-30-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-prov-30-10",
@@ -173,6 +186,19 @@
       "text": "You can catch the lizard in your hand, Yet it is found in royal palaces."
     },
     {
+      "block_id": "jsb-prov-30-28-commentary-2",
+      "type": "commentary",
+      "text": "Or “spider.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-prov-30-29",
       "type": "verse",
       "number": 29,
@@ -189,6 +215,19 @@
       "type": "verse",
       "number": 31,
       "text": "The greyhound, the he‑goat, The king whom none dares resist."
+    },
+    {
+      "block_id": "jsb-prov-30-31-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-prov-30-32",

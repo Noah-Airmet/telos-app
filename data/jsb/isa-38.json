@@ -1,7 +1,7 @@
 {
   "document_id": "isa-38",
   "title": "Isaiah 38",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "I am going to make the shadow on the steps, which has descended on the dial of Ahaz because of the sun, recede ten steps.” And the sun[’s shadow] receded ten steps, the same steps as it had descended."
     },
     {
+      "block_id": "jsb-isa-38-8-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “steps.” A model of a dial with steps has been discovered in Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-38-9",
       "type": "verse",
       "number": 9,
@@ -65,16 +78,55 @@
       "text": "I had thought: I must depart in the middle of my days; I have been consigned to the gates of Sheol For the rest of my years."
     },
     {
+      "block_id": "jsb-isa-38-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain in part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-38-11",
       "type": "verse",
       "number": 11,
       "text": "I thought, I shall never see Yah, Yah in the land of the living, Or ever behold men again Among those who inhabit the earth."
     },
     {
+      "block_id": "jsb-isa-38-11-commentary-3",
+      "type": "commentary",
+      "text": "I.e., visit His Temple. For “Yah” see 12.2; 26.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-38-12",
       "type": "verse",
       "number": 12,
       "text": "My dwelling is pulled up and removed from me Like a tent of shepherds; My life is rolled up like a web And cut from the thrum. Only from daybreak to nightfall Was I kept whole,"
+    },
+    {
+      "block_id": "jsb-isa-38-12-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-38-13",
@@ -119,10 +171,36 @@
       "text": "The living, only the living Can give thanks to You As I do this day; Fathers relate to children Your acts of grace:"
     },
     {
+      "block_id": "jsb-isa-38-19-commentary-5",
+      "type": "commentary",
+      "text": "Heb. singular.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-38-20",
       "type": "verse",
       "number": 20,
       "text": "“[It has pleased] the Lord to deliver us, That is why we offer up music All the days of our lives At the House of the Lord.”"
+    },
+    {
+      "block_id": "jsb-isa-38-20-commentary-6",
+      "type": "commentary",
+      "text": "Neginothai is a poetic form of neginoth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 38,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-isa-38-21",

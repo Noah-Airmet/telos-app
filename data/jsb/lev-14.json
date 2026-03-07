@@ -1,7 +1,7 @@
 {
   "document_id": "lev-14",
   "title": "Leviticus 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "This shall be the ritual for a leper at the time that he is to be cleansed. When it has been reported to the priest,"
+    },
+    {
+      "block_id": "jsb-lev-14-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. note a at 13.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-lev-14-3",
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "The lamb shall be slaughtered at the spot in the sacred area where the purification offering and the burnt offering are slaughtered. For the guilt offering, like the purification offering, goes to the priest; it is most holy."
+    },
+    {
+      "block_id": "jsb-lev-14-13-commentary-2",
+      "type": "commentary",
+      "text": "See 1.11; 4.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-lev-14-14",
@@ -227,6 +253,32 @@
       "text": "If, when he examines the plague, the plague in the walls of the house is found to consist of greenish or reddish streaks that appear to go deep into the wall,"
     },
     {
+      "block_id": "jsb-lev-14-37-commentary-3",
+      "type": "commentary",
+      "text": "Or “yellowish.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "jsb-lev-14-37-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. sheqaʿaruroth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
       "block_id": "jsb-lev-14-38",
       "type": "verse",
       "number": 38,
@@ -249,6 +301,19 @@
       "type": "verse",
       "number": 41,
       "text": "The house shall be scraped inside all around, and the coating that is scraped off shall be dumped outside the city in an unclean place."
+    },
+    {
+      "block_id": "jsb-lev-14-41-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “dust,” “mud.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-lev-14-42",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-21",
   "title": "Exodus 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "his master shall take him before God. He shall be brought to the door or the doorpost, and his master shall pierce his ear with an awl; and he shall then remain his slave for life."
     },
     {
+      "block_id": "jsb-exod-21-6-commentary-1",
+      "type": "commentary",
+      "text": "Others “to the judges.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-exod-21-7",
       "type": "verse",
       "number": 7,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "If he marries another, he must not withhold from this one her food, her clothing, or her conjugal rights."
+    },
+    {
+      "block_id": "jsb-exod-21-10-commentary-2",
+      "type": "commentary",
+      "text": "Or “ointments.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-exod-21-11",
@@ -107,6 +133,19 @@
       "text": "He who insults his father or his mother shall be put to death."
     },
     {
+      "block_id": "jsb-exod-21-17-commentary-3",
+      "type": "commentary",
+      "text": "Or “reviles.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-exod-21-18",
       "type": "verse",
       "number": 18,
@@ -125,6 +164,19 @@
       "text": "When a man strikes his slave, male or female, with a rod, and he dies there and then, he must be avenged."
     },
     {
+      "block_id": "jsb-exod-21-20-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “under his hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-exod-21-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +187,32 @@
       "type": "verse",
       "number": 22,
       "text": "When men fight, and one of them pushes a pregnant woman and a miscarriage results, but no other damage ensues, the one responsible shall be fined according as the woman’s husband may exact from him, the payment to be based on reckoning."
+    },
+    {
+      "block_id": "jsb-exod-21-22-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “he.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-exod-21-22-commentary-6",
+      "type": "commentary",
+      "text": "Others “as the judges determine.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-exod-21-23",
@@ -225,6 +303,19 @@
       "type": "verse",
       "number": 37,
       "text": "When a man steals an ox or a sheep, and slaughters it or sells it, he shall pay five oxen for the ox, and four sheep"
+    },
+    {
+      "block_id": "jsb-exod-21-37-commentary-7",
+      "type": "commentary",
+      "text": "This constitutes chap. 22.1 in some editions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 21,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     }
   ]
 }

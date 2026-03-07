@@ -1,7 +1,7 @@
 {
   "document_id": "isa-9",
   "title": "Isaiah 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The people that walked in darkness Have seen a brilliant light; On those who dwelt in a land of gloom Light has dawned."
+    },
+    {
+      "block_id": "jsb-isa-9-1-commentary-1",
+      "type": "commentary",
+      "text": "See note d at 5.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-isa-9-2",
@@ -23,16 +36,55 @@
       "text": "For the yoke that they bore And the stick on their back— The rod of their taskmaster— You have broken as on the day of Midian."
     },
     {
+      "block_id": "jsb-isa-9-3-commentary-2",
+      "type": "commentary",
+      "text": "See Judg. 7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-9-4",
       "type": "verse",
       "number": 4,
       "text": "Truly, all the boots put on to stamp with And all the garments donned in infamy Have been fed to the flames, Devoured by fire."
     },
     {
+      "block_id": "jsb-isa-9-4-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “in wickedness”; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-9-5",
       "type": "verse",
       "number": 5,
       "text": "For a child has been born to us, A son has been given us. And authority has settled on his shoulders. He has been named “The Mighty God is planning grace; The Eternal Father, a peaceable ruler”—"
+    },
+    {
+      "block_id": "jsb-isa-9-5-commentary-4",
+      "type": "commentary",
+      "text": "As in 25.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-9-6",
@@ -47,10 +99,36 @@
       "text": "My Lord Let loose a word against Jacob And it fell upon Israel."
     },
     {
+      "block_id": "jsb-isa-9-7-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint reads “Let loose pestilence”; cf. Amos 4.10. In vv. 7–20 Isaiah alludes to and builds upon Amos 4.10–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-9-8",
       "type": "verse",
       "number": 8,
       "text": "But all the people noted— Ephraim and the inhabitants of Samaria— In arrogance and haughtiness:"
+    },
+    {
+      "block_id": "jsb-isa-9-8-commentary-6",
+      "type": "commentary",
+      "text": "1QIsa reads “shouted.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-9-9",
@@ -63,6 +141,19 @@
       "type": "verse",
       "number": 10,
       "text": "So the Lord let the enemies of Rezin Triumph over it And stirred up its foes—"
+    },
+    {
+      "block_id": "jsb-isa-9-10-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “its enemies.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-9-11",
@@ -89,6 +180,32 @@
       "text": "Elders and magnates— Such are the heads; Prophets who give false instruction, Such are the tails"
     },
     {
+      "block_id": "jsb-isa-9-14-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “who practice partiality.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-isa-9-14-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “palm branches”; the elders and the prophets are the leaders, the people are the led; cf. 3.1–2, 12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-9-15",
       "type": "verse",
       "number": 15,
@@ -101,10 +218,49 @@
       "text": "That is why my Lord Will not spare their youths, Nor show compassion To their orphans and widows; For all are ungodly and wicked, And every mouth speaks impiety."
     },
     {
+      "block_id": "jsb-isa-9-16-commentary-10",
+      "type": "commentary",
+      "text": "Cf. Arabic samuḥa. 1QIsa reads yḥmw.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-9-17",
       "type": "verse",
       "number": 17,
       "text": "Already wickedness has blazed forth like a fire Devouring thorn and thistle. It has kindled the thickets of the wood, Which have turned into billowing smoke. Yet His anger has not turned back, And His arm is outstretched still."
+    },
+    {
+      "block_id": "jsb-isa-9-17-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-isa-9-17-commentary-12",
+      "type": "commentary",
+      "text": "Moved down from v. 16 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-isa-9-18",
@@ -113,16 +269,68 @@
       "text": "By the fury of the Lord of Hosts, The earth was shaken. Next, the people became like devouring fire: No man spared his countryman."
     },
     {
+      "block_id": "jsb-isa-9-18-commentary-13",
+      "type": "commentary",
+      "text": "Cf. note at 5.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-isa-9-19",
       "type": "verse",
       "number": 19,
       "text": "They snatched on the right, but remained hungry, And consumed on the left without being sated. Each devoured the flesh of his own kindred—"
     },
     {
+      "block_id": "jsb-isa-9-19-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “fellow”; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-9-20",
       "type": "verse",
       "number": 20,
       "text": "Manasseh Ephraim’s, and Ephraim Manasseh’s, And both of them against Judah! Yet His anger has not turned back, And His arm is outstretched still."
+    },
+    {
+      "block_id": "jsb-isa-9-20-commentary-15",
+      "type": "commentary",
+      "text": "Alludes to the civil wars of 2 Kings 15.10, 14–16, 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-isa-9-20-commentary-16",
+      "type": "commentary",
+      "text": "Cf. 7.1–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

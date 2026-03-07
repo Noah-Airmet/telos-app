@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-1",
   "title": "1 Chronicles 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+    },
+    {
+      "block_id": "jsb-1-chr-1-5-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 5–23, cf. Gen. 10.1–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-1-chr-1-6",
@@ -173,6 +186,19 @@
       "text": "The sons of Abraham: Isaac and Ishmael."
     },
     {
+      "block_id": "jsb-1-chr-1-28-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 28–33, cf. Gen. 25.1–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 1,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-1-chr-1-29",
       "type": "verse",
       "number": 29,
@@ -261,6 +287,19 @@
       "type": "verse",
       "number": 43,
       "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor, and the name of his city was Dinhabah."
+    },
+    {
+      "block_id": "jsb-1-chr-1-43-commentary-3",
+      "type": "commentary",
+      "text": "With vv. 43–50, cf. Gen. 36.31–43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 1,
+        "verse": 43
+      },
+      "verse_start": 43,
+      "verse_end": 43
     },
     {
       "block_id": "jsb-1-chr-1-44",

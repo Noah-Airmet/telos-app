@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-13",
   "title": "2 Samuel 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "She took the pan and set out [the cakes], but Amnon refused to eat and ordered everyone to withdraw. After everyone had withdrawn,"
     },
     {
+      "block_id": "jsb-2-sam-13-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-sam-13-10",
       "type": "verse",
       "number": 10,
@@ -101,6 +114,19 @@
       "text": "She pleaded with him, “Please don’t commit this wrong; to send me away would be even worse than the first wrong you committed against me.” But he would not listen to her."
     },
     {
+      "block_id": "jsb-2-sam-13-16-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-2-sam-13-17",
       "type": "verse",
       "number": 17,
@@ -113,10 +139,49 @@
       "text": "She was wearing an ornamented tunic, for maiden princesses were customarily dressed in such garments.—His attendant took her outside and barred the door after her."
     },
     {
+      "block_id": "jsb-2-sam-13-18-commentary-3",
+      "type": "commentary",
+      "text": "See Gen. 37.3 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-2-sam-13-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “(thus) in olden times,” meʿolam.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-2-sam-13-19",
       "type": "verse",
       "number": 19,
       "text": "Tamar put dust on her head and rent the ornamented tunic she was wearing; she put her hands on her head, and walked away, screaming loudly as she went."
+    },
+    {
+      "block_id": "jsb-2-sam-13-19-commentary-5",
+      "type": "commentary",
+      "text": "A gesture of wild grief; cf. Jer. 2.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-2-sam-13-20",
@@ -125,10 +190,36 @@
       "text": "Her brother Absalom said to her, “Was it your brother Amnon who did this to you? For the present, sister, keep quiet about it; he is your brother. Don’t brood over the matter.” And Tamar remained in her brother Absalom’s house, forlorn."
     },
     {
+      "block_id": "jsb-2-sam-13-20-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “Aminon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-sam-13-21",
       "type": "verse",
       "number": 21,
       "text": "When King David heard about all this, he was greatly upset."
+    },
+    {
+      "block_id": "jsb-2-sam-13-21-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint adds “but he did not rebuke his son Amnon, for he favored him, since he was his first-born”; cf. 1 Kings 1.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-2-sam-13-22",
@@ -167,6 +258,19 @@
       "text": "But Absalom urged him, and he sent with him Amnon and all the other princes."
     },
     {
+      "block_id": "jsb-2-sam-13-27-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint adds “and Absalom made a feast fit for a king.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-2-sam-13-28",
       "type": "verse",
       "number": 28,
@@ -191,10 +295,36 @@
       "text": "At this, David rent his garment and lay down on the ground, and all his courtiers stood by with their clothes rent."
     },
     {
+      "block_id": "jsb-2-sam-13-31-commentary-9",
+      "type": "commentary",
+      "text": "Septuagint reads “and all his courtiers who were standing by him rent their clothes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-2-sam-13-32",
       "type": "verse",
       "number": 32,
       "text": "But Jonadab, the son of David’s brother Shimah, said, “My lord must not think that all the young princes have been killed. Only Amnon is dead; for this has been decided by Absalom ever since his sister Tamar was violated."
+    },
+    {
+      "block_id": "jsb-2-sam-13-32-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “determined by the command of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-2-sam-13-33",
@@ -207,6 +337,19 @@
       "type": "verse",
       "number": 34,
       "text": "Meanwhile Absalom had fled. The watchman on duty looked up and saw a large crowd coming from the road to his rear, from the side of the hill."
+    },
+    {
+      "block_id": "jsb-2-sam-13-34-commentary-11",
+      "type": "commentary",
+      "text": "Emendation yields “down the slope of the Horonaim road. The watchman came and told the king ‘I see men coming from the Horonaim road.’” Cf. Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-2-sam-13-35",
@@ -237,6 +380,19 @@
       "type": "verse",
       "number": 39,
       "text": "And King David was pining away for Absalom, for [the king] had gotten over Amnon’s death."
+    },
+    {
+      "block_id": "jsb-2-sam-13-39-commentary-12",
+      "type": "commentary",
+      "text": "Some Septuagint mss. and 4QSama read “the spirit [ruaḥ] of the king.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 13,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
     }
   ]
 }

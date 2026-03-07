@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-24",
   "title": "1 Samuel 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,16 +29,68 @@
       "text": "and he came to the sheepfolds along the way. There was a cave there, and Saul went in to relieve himself. Now David and his men were sitting in the back of the cave."
     },
     {
+      "block_id": "jsb-1-sam-24-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “to cover his feet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-1-sam-24-5",
       "type": "verse",
       "number": 5,
       "text": "David’s men said to him, “This is the day of which the Lord said to you, ‘I will deliver your enemy into your hands; you can do with him as you please.’” David went and stealthily cut off the corner of Saul’s cloak."
     },
     {
+      "block_id": "jsb-1-sam-24-5-commentary-2",
+      "type": "commentary",
+      "text": "Vv. 5b–6 read well after 8a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-24-6",
       "type": "verse",
       "number": 6,
       "text": "But afterward David reproached himself for cutting off the corner of Saul’s cloak."
+    },
+    {
+      "block_id": "jsb-1-sam-24-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “David’s heart struck him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-1-sam-24-6-commentary-4",
+      "type": "commentary",
+      "text": "So several mss. and ancient versions; cf. v. 5. Most mss. and editions read “Saul’s corner.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-24-7",
@@ -51,6 +103,19 @@
       "type": "verse",
       "number": 8,
       "text": "David rebuked his men and did not permit them to attack Saul. Saul left the cave and started on his way."
+    },
+    {
+      "block_id": "jsb-1-sam-24-8-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-24-9",
@@ -71,10 +136,49 @@
       "text": "You can see for yourself now that the Lord delivered you into my hands in the cave today. And though I was urged to kill you, I showed you pity; for I said, ‘I will not raise a hand against my lord, since he is the Lord’s anointed.’"
     },
     {
+      "block_id": "jsb-1-sam-24-11-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-1-sam-24-11-commentary-7",
+      "type": "commentary",
+      "text": "Understanding the Heb. as an ellipsis of wattaḥos ʿeni (cf., e.g., Deut. 7.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-sam-24-12",
       "type": "verse",
       "number": 12,
       "text": "Please, sir, take a close look at the corner of your cloak in my hand; for when I cut off the corner of your cloak, I did not kill you. You must see plainly that I have done nothing evil or rebellious, and I have never wronged you. Yet you are bent on taking my life."
+    },
+    {
+      "block_id": "jsb-1-sam-24-12-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “[my] father,” cf. 2 Kings 5.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-1-sam-24-13",
@@ -123,6 +227,19 @@
       "type": "verse",
       "number": 20,
       "text": "If a man meets his enemy, does he let him go his way unharmed? Surely, the Lord will reward you generously for what you have done for me this day."
+    },
+    {
+      "block_id": "jsb-1-sam-24-20-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “the generosity you have shown me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 24,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-1-sam-24-21",

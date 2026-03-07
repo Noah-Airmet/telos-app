@@ -1,7 +1,7 @@
 {
   "document_id": "neh-8",
   "title": "Nehemiah 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -95,6 +95,19 @@
       "text": "and that they must announce and proclaim throughout all their towns and Jerusalem as follows, “Go out to the mountains and bring leafy branches of olive trees, pine trees, myrtles, palms and [other] leafy trees to make booths, as it is written.”"
     },
     {
+      "block_id": "jsb-neh-8-15-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 8,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-neh-8-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "The whole community that returned from the captivity made booths and dwelt in the booths—the Israelites had not done so from the days of Joshua son of Nun to that day—and there was very great rejoicing."
+    },
+    {
+      "block_id": "jsb-neh-8-17-commentary-2",
+      "type": "commentary",
+      "text": "Heb. Jeshua.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 8,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-neh-8-18",

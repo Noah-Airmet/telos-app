@@ -1,7 +1,7 @@
 {
   "document_id": "hos-13",
   "title": "Hosea 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "When Ephraim spoke piety, He was exalted in Israel; But he incurred guilt through Baal, And so he died."
     },
     {
+      "block_id": "jsb-hos-13-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., Baal-peor; cf. 9.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-hos-13-2",
       "type": "verse",
       "number": 2,
       "text": "And now they go on sinning; They have made them molten images, Idols, by their skill, from their silver, Wholly the work of craftsmen. Yet for these they appoint men to sacrifice; They are wont to kiss calves!"
+    },
+    {
+      "block_id": "jsb-hos-13-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-hos-13-3",
@@ -53,6 +79,19 @@
       "text": "Like a bear robbed of her young I attack them And rip open the casing of their hearts; I will devour them there like a lion, The beasts of the field shall mangle them."
     },
     {
+      "block_id": "jsb-hos-13-8-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “There dogs shall devour them”; cf. Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hos-13-9",
       "type": "verse",
       "number": 9,
@@ -77,16 +116,68 @@
       "text": "Ephraim’s guilt is bound up, His sin is stored away."
     },
     {
+      "block_id": "jsb-hos-13-12-commentary-4",
+      "type": "commentary",
+      "text": "I.e., for future retribution.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-hos-13-13",
       "type": "verse",
       "number": 13,
       "text": "Pangs of childbirth assail him, And the babe is not wise— For this is no time to survive At the birthstool of babes."
     },
     {
+      "block_id": "jsb-hos-13-13-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-hos-13-14",
       "type": "verse",
       "number": 14,
       "text": "From Sheol itself I will save them, Redeem them from very Death. Where, O Death, are your plagues? Your pestilence where, O Sheol? Revenge shall be far from My thoughts."
+    },
+    {
+      "block_id": "jsb-hos-13-14-commentary-6",
+      "type": "commentary",
+      "text": "This verse would read well before 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-hos-13-14-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “Satisfaction (for this meaning of nḥm see Deut. 32.36; Isa. 1.24) shall be hidden from My eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-hos-13-15",

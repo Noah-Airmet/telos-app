@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-22",
   "title": "Ezekiel 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Further, O mortal, arraign, arraign the city of bloodshed; declare to her all her abhorrent deeds!"
     },
     {
+      "block_id": "jsb-ezek-22-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “will you arraign, arraign.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ezek-22-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "You stand guilty of the blood you have shed, defiled by the fetishes you have made. You have brought on your day; you have reached your year. Therefore I will make you the mockery of the nations and the scorn of all the lands."
+    },
+    {
+      "block_id": "jsb-ezek-22-4-commentary-2",
+      "type": "commentary",
+      "text": "Some Babylonian mss. and ancient versions read “the time of your years has come.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezek-22-5",
@@ -59,10 +85,49 @@
       "text": "Base men in your midst were intent on shedding blood; in you they have eaten upon the mountains; and they have practiced depravity in your midst."
     },
     {
+      "block_id": "jsb-ezek-22-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-ezek-22-9-commentary-4",
+      "type": "commentary",
+      "text": "I.e., in idolatry. Emendation yields “with the blood”; cf. Lev. 19.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-ezek-22-10",
       "type": "verse",
       "number": 10,
       "text": "In you they have uncovered their fathers’ nakedness; in you they have ravished women during their impurity."
+    },
+    {
+      "block_id": "jsb-ezek-22-10-commentary-5",
+      "type": "commentary",
+      "text": "I.e., have cohabited with a former wife of the father; cf. Lev. 18.7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ezek-22-11",
@@ -75,6 +140,19 @@
       "type": "verse",
       "number": 12,
       "text": "They have taken bribes within you to shed blood. You have taken advance and accrued interest; you have defrauded your countrymen to your profit. You have forgotten Me—declares the Lord god."
+    },
+    {
+      "block_id": "jsb-ezek-22-12-commentary-6",
+      "type": "commentary",
+      "text": "Cf. note at 18.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ezek-22-13",
@@ -111,6 +189,19 @@
       "type": "verse",
       "number": 18,
       "text": "O mortal, the House of Israel has become dross to Me; they are all copper, tin, iron, and lead. But in a crucible, the dross shall turn into silver."
+    },
+    {
+      "block_id": "jsb-ezek-22-18-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ezek-22-19",
@@ -155,6 +246,19 @@
       "text": "Her gang of prophets are like roaring lions in her midst, rending prey. They devour human beings; they seize treasure and wealth; they have widowed many women in her midst."
     },
     {
+      "block_id": "jsb-ezek-22-25-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint reads “Whose chieftains.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-ezek-22-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +275,19 @@
       "type": "verse",
       "number": 28,
       "text": "Her prophets, too, daub the wall for them with plaster: They prophesy falsely and divine deceitfully for them; they say, “Thus said the Lord god,” when the Lord has not spoken."
+    },
+    {
+      "block_id": "jsb-ezek-22-28-commentary-9",
+      "type": "commentary",
+      "text": "Cf. 13.10 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 22,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-ezek-22-29",

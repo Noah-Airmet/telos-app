@@ -1,7 +1,7 @@
 {
   "document_id": "amos-6",
   "title": "Amos 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "Ah, you who are at ease in Zion And confident on the hill of Samaria, You notables of the leading nation On whom the House of Israel pin their hopes:"
     },
     {
+      "block_id": "jsb-amos-6-1-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “Joseph,” cf. v. 6, and 5.6, 15, where “Joseph” denotes the northern kingdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-amos-6-1-commentary-2",
+      "type": "commentary",
+      "text": "Taking baʾ l‑ as synonymous with baʾ ʿad; see Isa. 45.24 and note b‑b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-amos-6-2",
       "type": "verse",
       "number": 2,
       "text": "Cross over to Calneh and see, Go from there to Great Hamath, And go down to Gath of the Philistines: Are [you] better than those kingdoms, Or is their territory larger than yours?"
     },
     {
+      "block_id": "jsb-amos-6-2-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “Or is your territory larger than theirs?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-amos-6-3",
       "type": "verse",
       "number": 3,
       "text": "Yet you ward off [the thought of] a day of woe And convene a session of lawlessness."
+    },
+    {
+      "block_id": "jsb-amos-6-3-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-amos-6-4",
@@ -53,6 +105,19 @@
       "text": "My Lord god swears by Himself: I loathe the Pride of Jacob, And I detest his fortresses. I will declare forfeit city and inhabitants alike —declares the Lord, the God of Hosts."
     },
     {
+      "block_id": "jsb-amos-6-8-commentary-5",
+      "type": "commentary",
+      "text": "A poetic designation of the northern kingdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-amos-6-9",
       "type": "verse",
       "number": 9,
@@ -77,10 +142,36 @@
       "text": "Can horses gallop on a rock? Can it be plowed with oxen? Yet you have turned justice into poison weed And the fruit of righteousness to wormwood."
     },
     {
+      "block_id": "jsb-amos-6-12-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “Can one plow the sea with oxen?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-amos-6-13",
       "type": "verse",
       "number": 13,
       "text": "[Ah,] those who are so happy about Lo‑dabar, Who exult, “By our might We have captured Karnaim”!"
+    },
+    {
+      "block_id": "jsb-amos-6-13-commentary-7",
+      "type": "commentary",
+      "text": "Two towns east of the Jordan recovered for Israel by Jeroboam II (see 2 Kings 14.25). For Lo‑dabar, cf. 2 Sam. 9.4, 5; 17.27; for Karnaim, cf. Gen. 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-amos-6-14",

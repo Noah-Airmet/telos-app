@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-21",
   "title": "2 Chronicles 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Jehoshaphat slept with his fathers and was buried with his fathers in the City of David; his son Jehoram succeeded him as king."
+    },
+    {
+      "block_id": "jsb-2-chr-21-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 8.17–24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 21,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-21-2",
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "He was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He departed unpraised, and was buried in the City of David, but not in the tombs of the kings."
+    },
+    {
+      "block_id": "jsb-2-chr-21-20-commentary-2",
+      "type": "commentary",
+      "text": "Following Septuagint; cf. Arabic ḥamada, “praise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 21,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

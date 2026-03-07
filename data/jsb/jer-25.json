@@ -1,7 +1,7 @@
 {
   "document_id": "jer-25",
   "title": "Jeremiah 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "Do not follow other gods, to serve them and worship them. Do not vex Me with what your own hands have made, and I will not bring disaster upon you.”"
     },
     {
+      "block_id": "jsb-jer-25-6-commentary-1",
+      "type": "commentary",
+      "text": "I.e., idols.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-jer-25-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "I am going to send for all the peoples of the north—declares the Lord—and for My servant, King Nebuchadrezzar of Babylon, and bring them against this land and its inhabitants, and against all those nations roundabout. I will exterminate them and make them a desolation, an object of hissing—ruins for all time."
+    },
+    {
+      "block_id": "jsb-jer-25-9-commentary-2",
+      "type": "commentary",
+      "text": "Cf. note at 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jer-25-10",
@@ -113,6 +139,19 @@
       "text": "Jerusalem and the towns of Judah, and its kings and officials, to make them a desolate ruin, an object of hissing and a curse—as is now the case;"
     },
     {
+      "block_id": "jsb-jer-25-18-commentary-3",
+      "type": "commentary",
+      "text": "Cf. note at 24.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-25-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +162,19 @@
       "type": "verse",
       "number": 20,
       "text": "all the mixed peoples; all the kings of the land of Uz; all the kings of the land of the Philistines—Ashkelon, Gaza, Ekron, and what is left of Ashdod;"
+    },
+    {
+      "block_id": "jsb-jer-25-20-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-jer-25-21",
@@ -155,10 +207,36 @@
       "text": "all the kings of Zimri and all the kings of Elam and all the kings of Media;"
     },
     {
+      "block_id": "jsb-jer-25-25-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-jer-25-26",
       "type": "verse",
       "number": 26,
       "text": "all the kings of the north, whether far from or close to each other—all the royal lands which are on the earth. And last of all, the king of Sheshach shall drink."
+    },
+    {
+      "block_id": "jsb-jer-25-26-commentary-6",
+      "type": "commentary",
+      "text": "A cipher for Babel, Babylon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-jer-25-27",
@@ -209,6 +287,19 @@
       "text": "Howl, you shepherds, and yell, Strew [dust] on yourselves, you lords of the flock! For the day of your slaughter draws near. I will break you in pieces, And you shall fall like a precious vessel."
     },
     {
+      "block_id": "jsb-jer-25-34-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-jer-25-35",
       "type": "verse",
       "number": 35,
@@ -231,6 +322,19 @@
       "type": "verse",
       "number": 38,
       "text": "Like a lion, He has gone forth from His lair; The land has become a desolation, Because of the oppressive wrath, Because of His fierce anger."
+    },
+    {
+      "block_id": "jsb-jer-25-38-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 25,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
     }
   ]
 }

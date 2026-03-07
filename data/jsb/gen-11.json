@@ -1,7 +1,7 @@
 {
   "document_id": "gen-11",
   "title": "Genesis 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -69,6 +69,32 @@
       "text": "That is why it was called Babel, because there the Lord confounded the speech of the whole earth; and from there the Lord scattered them over the face of the whole earth."
     },
     {
+      "block_id": "jsb-gen-11-9-commentary-1",
+      "type": "commentary",
+      "text": "I.e., “Babylon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 11,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-gen-11-9-commentary-2",
+      "type": "commentary",
+      "text": "Heb. balal “confound,” play on “Babel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 11,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-gen-11-10",
       "type": "verse",
       "number": 10,
@@ -79,6 +105,19 @@
       "type": "verse",
       "number": 11,
       "text": "After the birth of Arpachshad, Shem lived 500 years and begot sons and daughters."
+    },
+    {
+      "block_id": "jsb-gen-11-11-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “After he begot,” and so throughout.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-gen-11-12",

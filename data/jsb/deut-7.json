@@ -1,7 +1,7 @@
 {
   "document_id": "deut-7",
   "title": "Deuteronomy 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -133,6 +133,19 @@
       "type": "verse",
       "number": 20,
       "text": "The Lord your God will also send a plague against them, until those who are left in hiding perish before you."
+    },
+    {
+      "block_id": "jsb-deut-7-20-commentary-1",
+      "type": "commentary",
+      "text": "Others “hornet”; meaning of Heb. uncertain. Cf. note at Exod. 23.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-deut-7-21",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-14",
   "title": "Isaiah 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,32 @@
       "text": "For peoples shall take them and bring them to their homeland; and the House of Israel shall possess them as slaves and handmaids on the soil of the Lord. They shall be captors of their captors and masters to their taskmasters."
     },
     {
+      "block_id": "jsb-isa-14-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the House of Jacob.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-14-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the peoples.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-14-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +53,19 @@
       "type": "verse",
       "number": 4,
       "text": "you shall recite this song of scorn over the king of Babylon: How is the taskmaster vanished, How is oppression ended!"
+    },
+    {
+      "block_id": "jsb-isa-14-4-commentary-3",
+      "type": "commentary",
+      "text": "Reading marhebah with 1QIsa (cf. Septuagint). The traditional reading madhebah is of unknown meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-14-5",
@@ -77,10 +116,49 @@
       "text": "How are you fallen from heaven, O Shining One, son of Dawn! How are you felled to earth, O vanquisher of nations!"
     },
     {
+      "block_id": "jsb-isa-14-12-commentary-4",
+      "type": "commentary",
+      "text": "A character in some lost myth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-14-13",
       "type": "verse",
       "number": 13,
       "text": "Once you thought in your heart, “I will climb to the sky; Higher than the stars of God I will set my throne. I will sit in the mount of assembly, On the summit of Zaphon:"
+    },
+    {
+      "block_id": "jsb-isa-14-13-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the assembly of the gods in council.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-isa-14-13-commentary-6",
+      "type": "commentary",
+      "text": "The abode of the gods; cf. Ps. 48.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-isa-14-14",
@@ -95,6 +173,19 @@
       "text": "Instead, you are brought down to Sheol, To the bottom of the Pit."
     },
     {
+      "block_id": "jsb-isa-14-15-commentary-7",
+      "type": "commentary",
+      "text": "A region of the netherworld reserved for those who have not received decent burial; cf. Ezek. 32.21 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-isa-14-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +196,19 @@
       "type": "verse",
       "number": 17,
       "text": "Who made the world like a waste And wrecked its towns, Who never released his prisoners to their homes?”"
+    },
+    {
+      "block_id": "jsb-isa-14-17-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “Who chained to his palace gate / All the kings of nations? / Yet they were all laid in honor …” The practice of chaining captive chieftains to gates is attested in Mesopotamia.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-isa-14-18",
@@ -119,16 +223,55 @@
       "text": "While you were left lying unburied, Like loathsome carrion, Like a trampled corpse [In] the clothing of slain gashed by the sword Who sink to the very stones of the Pit."
     },
     {
+      "block_id": "jsb-isa-14-19-commentary-9",
+      "type": "commentary",
+      "text": "So several ancient versions; cf. postbiblical neṣel, “putrefying flesh or blood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-14-20",
       "type": "verse",
       "number": 20,
       "text": "You shall not have a burial like them; Because you destroyed your country, Murdered your people. Let the breed of evildoers Nevermore be named!"
     },
     {
+      "block_id": "jsb-isa-14-20-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “…countries, / Murdered peoples.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-14-21",
       "type": "verse",
       "number": 21,
       "text": "Prepare a slaughtering block for his sons Because of the guilt of their father. Let them not arise to possess the earth! Then the world’s face shall be covered with towns."
+    },
+    {
+      "block_id": "jsb-isa-14-21-commentary-11",
+      "type": "commentary",
+      "text": "Heb. “fathers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-14-22",
@@ -143,6 +286,19 @@
       "text": "and I will make it a home of bitterns, pools of water. I will sweep it with a broom of extermination—declares the Lord of Hosts."
     },
     {
+      "block_id": "jsb-isa-14-23-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-isa-14-24",
       "type": "verse",
       "number": 24,
@@ -153,6 +309,32 @@
       "type": "verse",
       "number": 25,
       "text": "To break Assyria in My land, To crush him on My mountain.” And his yoke shall drop off them, And his burden shall drop from their backs."
+    },
+    {
+      "block_id": "jsb-isa-14-25-commentary-13",
+      "type": "commentary",
+      "text": "Heb. “mountains”; for the designation of the entire land of Israel as the Lord’s mountain, cf. 11.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "jsb-isa-14-25-commentary-14",
+      "type": "commentary",
+      "text": "Heb. “his.” The last two lines of this verse would read well after v. 26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-isa-14-26",
@@ -179,16 +361,68 @@
       "text": "Rejoice not, all Philistia, Because the staff of him that beat you is broken. For from the stock of a snake there sprouts an asp, A flying seraph branches out from it."
     },
     {
+      "block_id": "jsb-isa-14-29-commentary-15",
+      "type": "commentary",
+      "text": "Others “fiery serpent”; cf. Num. 21.6, 8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-isa-14-30",
       "type": "verse",
       "number": 30,
       "text": "The first-born of the poor shall graze And the destitute lie down secure. I will kill your stock by famine, And it shall slay the very last of you."
     },
     {
+      "block_id": "jsb-isa-14-30-commentary-16",
+      "type": "commentary",
+      "text": "Emendation yields “The poor shall graze in his pasture.” This line and the next would read well after v. 32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "jsb-isa-14-30-commentary-17",
+      "type": "commentary",
+      "text": "Emendation yields “It shall kill your offspring with its venom (zarʿekh berosho).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-isa-14-31",
       "type": "verse",
       "number": 31,
       "text": "Howl, O gate; cry out, O city; Quake, all Philistia! For a stout one is coming from the north And there is no straggler in his ranks."
+    },
+    {
+      "block_id": "jsb-isa-14-31-commentary-18",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; the rendering “stout one” is suggested by the Syriac ʿashshīn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 14,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-isa-14-32",

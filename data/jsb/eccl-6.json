@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-6",
   "title": "Ecclesiastes 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Even if a man should beget a hundred children and live many years—no matter how many the days of his years may come to, if his gullet is not sated through his wealth, I say: The stillbirth, though it was not even accorded a burial, is more fortunate than he."
+    },
+    {
+      "block_id": "jsb-eccl-6-3-commentary-1",
+      "type": "commentary",
+      "text": "Stillbirths were cast into pits or hidden in the ground in no recognizable graves; cf. v. 4 end.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-eccl-6-4",
@@ -47,6 +60,32 @@
       "text": "All of man’s earning is for the sake of his mouth, yet his gullet is not sated."
     },
     {
+      "block_id": "jsb-eccl-6-7-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Prov. 16.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 6,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-eccl-6-7-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “And if the gullet is not sated, 8what advantage has the wise man over the fool, he who knows how to get on in life over the pauper?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 6,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-eccl-6-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "Is the feasting of the eyes more important than the pursuit of desire? That, too, is futility and pursuit of wind."
+    },
+    {
+      "block_id": "jsb-eccl-6-9-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of first half of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-eccl-6-10",
@@ -75,6 +127,19 @@
       "type": "verse",
       "number": 12,
       "text": "Who can possibly know what is best for a man to do in life—the few days of his fleeting life? For who can tell him what the future holds for him under the sun?"
+    },
+    {
+      "block_id": "jsb-eccl-6-12-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “according to the shadow that”; cf. Qumran Aramaic betel and Syriac meṭṭol; and see 8.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 6,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     }
   ]
 }

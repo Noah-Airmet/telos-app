@@ -1,7 +1,7 @@
 {
   "document_id": "isa-2",
   "title": "Isaiah 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,49 @@
       "text": "And the many peoples shall go and say: “Come, Let us go up to the Mount of the Lord, To the House of the God of Jacob; That He may instruct us in His ways, And that we may walk in His paths.” For instruction shall come forth from Zion, The word of the Lord from Jerusalem."
     },
     {
+      "block_id": "jsb-isa-2-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., oracles will be obtainable.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-2-4",
       "type": "verse",
       "number": 4,
       "text": "Thus He will judge among the nations And arbitrate for the many peoples, And they shall beat their swords into plowshares And their spears into pruning hooks: Nation shall not take up Sword against nation; They shall never again know war."
+    },
+    {
+      "block_id": "jsb-isa-2-4-commentary-2",
+      "type": "commentary",
+      "text": "More exactly, the iron points with which wooden plows were tipped.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-2-4-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Judg. 3.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-2-5",
@@ -39,6 +78,32 @@
       "type": "verse",
       "number": 6,
       "text": "For you have forsaken [the ways of] your people, O House of Jacob! For they are full [of practices] from the East, And of soothsaying like the Philistines; They abound in customs of the aliens."
+    },
+    {
+      "block_id": "jsb-isa-2-6-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “For they are full of divination / and have abundance of soothsaying, / Like Philistines / And like alien folk.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-2-6-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Targum; lit. “children.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-2-7",
@@ -57,6 +122,19 @@
       "type": "verse",
       "number": 9,
       "text": "But man shall be humbled, And mortal brought low— Oh, do not forgive them!"
+    },
+    {
+      "block_id": "jsb-isa-2-9-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “And their idols with them”; cf. vv. 17–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-isa-2-10",
@@ -101,6 +179,19 @@
       "text": "Against all the ships of Tarshish And all the gallant barks."
     },
     {
+      "block_id": "jsb-isa-2-16-commentary-7",
+      "type": "commentary",
+      "text": "Probably a type of large ship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-2-17",
       "type": "verse",
       "number": 17,
@@ -123,6 +214,19 @@
       "type": "verse",
       "number": 20,
       "text": "On that day, men shall fling away, To the flying foxes and the bats, The idols of silver And the idols of gold Which they made for worshiping."
+    },
+    {
+      "block_id": "jsb-isa-2-20-commentary-8",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-isa-2-21",

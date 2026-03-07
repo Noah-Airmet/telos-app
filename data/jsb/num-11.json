@@ -1,7 +1,7 @@
 {
   "document_id": "num-11",
   "title": "Numbers 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "That place was named Taberah, because a fire of the Lord had broken out against them."
+    },
+    {
+      "block_id": "jsb-num-11-3-commentary-1",
+      "type": "commentary",
+      "text": "From root bʿr, “to burn.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-11-4",
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "The people would go about and gather it, grind it between millstones or pound it in a mortar, boil it in a pot, and make it into cakes. It tasted like rich cream."
+    },
+    {
+      "block_id": "jsb-num-11-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “cream of oil (or, fat).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-num-11-9",
@@ -113,6 +139,19 @@
       "text": "And say to the people: Purify yourselves for tomorrow and you shall eat meat, for you have kept whining before the Lord and saying, ‘If only we had meat to eat! Indeed, we were better off in Egypt!’ The Lord will give you meat and you shall eat."
     },
     {
+      "block_id": "jsb-num-11-18-commentary-3",
+      "type": "commentary",
+      "text": "I.e., as for a sacrificial meal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-num-11-19",
       "type": "verse",
       "number": 19,
@@ -131,6 +170,19 @@
       "text": "But Moses said, “The people who are with me number six hundred thousand men; yet You say, ‘I will give them enough meat to eat for a whole month.’"
     },
     {
+      "block_id": "jsb-num-11-21-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “in whose midst I am.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-num-11-22",
       "type": "verse",
       "number": 22,
@@ -143,6 +195,19 @@
       "text": "And the Lord answered Moses, “Is there a limit to the Lord’s power? You shall soon see whether what I have said happens to you or not!”"
     },
     {
+      "block_id": "jsb-num-11-23-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “Is the Lord’s hand too short?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-num-11-24",
       "type": "verse",
       "number": 24,
@@ -153,6 +218,19 @@
       "type": "verse",
       "number": 25,
       "text": "Then the Lord came down in a cloud and spoke to him; He drew upon the spirit that was on him and put it upon the seventy elders. And when the spirit rested upon them, they spoke in ecstasy, but did not continue."
+    },
+    {
+      "block_id": "jsb-num-11-25-commentary-6",
+      "type": "commentary",
+      "text": "Others “prophesied.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-num-11-26",
@@ -203,10 +281,36 @@
       "text": "The meat was still between their teeth, nor yet chewed, when the anger of the Lord blazed forth against the people and the Lord struck the people with a very severe plague."
     },
     {
+      "block_id": "jsb-num-11-33-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. yikkareth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
       "block_id": "jsb-num-11-34",
       "type": "verse",
       "number": 34,
       "text": "That place was named Kibroth-hattaavah, because the people who had the craving were buried there."
+    },
+    {
+      "block_id": "jsb-num-11-34-commentary-8",
+      "type": "commentary",
+      "text": "I.e., “the graves of craving.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 11,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-num-11-35",

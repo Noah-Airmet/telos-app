@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-26",
   "title": "2 Chronicles 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "He applied himself to the worship of God during the time of Zechariah, instructor in the visions of God; during the time he worshiped the Lord, God made him prosper."
+    },
+    {
+      "block_id": "jsb-2-chr-26-5-commentary-1",
+      "type": "commentary",
+      "text": "Some Heb. mss. read byrʾt; compare ancient versions, “fear.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 26,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-chr-26-6",
@@ -129,6 +142,19 @@
       "type": "verse",
       "number": 21,
       "text": "King Uzziah was a leper until the day of his death. He lived in isolated quarters as a leper, for he was cut off from the House of the Lord—while Jotham his son was in charge of the king’s house and governed the people of the land."
+    },
+    {
+      "block_id": "jsb-2-chr-26-21-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 26,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-2-chr-26-22",

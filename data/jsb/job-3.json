@@ -1,7 +1,7 @@
 {
   "document_id": "job-3",
   "title": "Job 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Afterward, Job began to speak and cursed the day of his birth."
+    },
+    {
+      "block_id": "jsb-job-3-1-commentary-1",
+      "type": "commentary",
+      "text": "There are many difficulties in the poetry of Job, making the interpretation of words, verses, and even chapters uncertain. The rubric “Meaning of Heb. uncertain” in this book indicates only some of the extreme instances.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-job-3-2",
@@ -35,6 +48,19 @@
       "text": "May darkness and deep gloom reclaim it; May a pall lie over it; May what blackens the day terrify it."
     },
     {
+      "block_id": "jsb-job-3-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-job-3-6",
       "type": "verse",
       "number": 6,
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "May those who cast spells upon the day damn it, Those prepared to disable Leviathan;"
+    },
+    {
+      "block_id": "jsb-job-3-8-commentary-3",
+      "type": "commentary",
+      "text": "Or “sea,” taking Heb. yom as equivalent of yam; compare the combination of sea with Leviathan in Ps. 74.13, 14 and with Dragon in Job 7.12; cf. also Isa. 27.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-job-3-9",

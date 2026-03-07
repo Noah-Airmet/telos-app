@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-3",
   "title": "2 Kings 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Now King Mesha of Moab was a sheep breeder; and he used to pay as tribute to the king of Israel a hundred thousand lambs and the wool of a hundred thousand rams."
+    },
+    {
+      "block_id": "jsb-2-kgs-3-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “the wool of 100,000 lambs and of 100,000 rams.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-kgs-3-5",
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "But Jehoshaphat said, “Isn’t there a prophet of the Lord here, through whom we may inquire of the Lord?” One of the courtiers of the king of Israel spoke up and said, “Elisha son of Shaphat, who poured water on the hands of Elijah, is here.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-3-11-commentary-2",
+      "type": "commentary",
+      "text": "I.e., personally attended.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-kgs-3-12",
@@ -131,6 +157,19 @@
       "text": "Meanwhile, all the Moabites had heard that the kings were advancing to make war on them; every man old enough to bear arms rallied, and they stationed themselves at the border."
     },
     {
+      "block_id": "jsb-2-kgs-3-21-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “from all those old enough to gird on a sword.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-2-kgs-3-22",
       "type": "verse",
       "number": 22,
@@ -149,16 +188,55 @@
       "text": "They entered the Israelite camp, and the Israelites arose and attacked the Moabites, who fled before them. They advanced, constantly attacking the Moabites,"
     },
     {
+      "block_id": "jsb-2-kgs-3-24-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-2-kgs-3-25",
       "type": "verse",
       "number": 25,
       "text": "and they destroyed the towns. Every man threw a stone into each fertile field, so that it was covered over; and they stopped up every spring and felled every fruit tree. Only the walls of Kir-hareseth were left, and then the slingers surrounded it and attacked it."
     },
     {
+      "block_id": "jsb-2-kgs-3-25-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “Until the stones in”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-2-kgs-3-26",
       "type": "verse",
       "number": 26,
       "text": "Seeing that the battle was going against him, the king of Moab led an attempt of seven hundred swordsmen to break a way through to the king of Edom; but they failed."
+    },
+    {
+      "block_id": "jsb-2-kgs-3-26-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Aram.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 3,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-2-kgs-3-27",

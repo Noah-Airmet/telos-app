@@ -1,7 +1,7 @@
 {
   "document_id": "exod-13",
   "title": "Exodus 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "text": "You go free on this day, in the month of Abib."
     },
     {
+      "block_id": "jsb-exod-13-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “on the new moon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 13,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-exod-13-5",
       "type": "verse",
       "number": 5,
@@ -67,6 +80,19 @@
       "type": "verse",
       "number": 9,
       "text": "“And this shall serve you as a sign on your hand and as a reminder on your forehead—in order that the Teaching of the Lord may be in your mouth—that with a mighty hand the Lord freed you from Egypt."
+    },
+    {
+      "block_id": "jsb-exod-13-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “between your eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 13,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-exod-13-10",
@@ -111,6 +137,19 @@
       "text": "“And so it shall be as a sign upon your hand and as a symbol on your forehead that with a mighty hand the Lord freed us from Egypt.”"
     },
     {
+      "block_id": "jsb-exod-13-16-commentary-3",
+      "type": "commentary",
+      "text": "Others “frontlet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 13,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-exod-13-17",
       "type": "verse",
       "number": 17,
@@ -121,6 +160,19 @@
       "type": "verse",
       "number": 18,
       "text": "So God led the people roundabout, by way of the wilderness at the Sea of Reeds. Now the Israelites went up armed out of the land of Egypt."
+    },
+    {
+      "block_id": "jsb-exod-13-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. ḥamushim uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 13,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-exod-13-19",

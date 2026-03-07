@@ -1,7 +1,7 @@
 {
   "document_id": "ps-144",
   "title": "Psalms 144",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "my faithful one, my fortress, my haven and my deliverer, my shield, in whom I take shelter, who makes peoples subject to me."
+    },
+    {
+      "block_id": "jsb-ps-144-2-commentary-1",
+      "type": "commentary",
+      "text": "So Targum, Saadia; others “my people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 144,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-144-3",
@@ -53,6 +66,19 @@
       "text": "whose mouths speak lies, and whose oaths are false."
     },
     {
+      "block_id": "jsb-ps-144-8-commentary-2",
+      "type": "commentary",
+      "text": "With Rashi; lit. “right hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 144,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-144-9",
       "type": "verse",
       "number": 9,
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "For our sons are like saplings, well-tended in their youth; our daughters are like cornerstones trimmed to give shape to a palace."
+    },
+    {
+      "block_id": "jsb-ps-144-12-commentary-3",
+      "type": "commentary",
+      "text": "The meaning of several phrases in vv. 12–14 is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 144,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ps-144-13",

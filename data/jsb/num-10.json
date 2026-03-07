@@ -1,7 +1,7 @@
 {
   "document_id": "num-10",
   "title": "Numbers 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "When both are blown in long blasts, the whole community shall assemble before you at the entrance of the Tent of Meeting;"
+    },
+    {
+      "block_id": "jsb-num-10-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 10,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-10-4",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "When you are at war in your land against an aggressor who attacks you, you shall sound short blasts on the trumpets, that you may be remembered before the Lord your God and be delivered from your enemies."
+    },
+    {
+      "block_id": "jsb-num-10-9-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 10,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-10-10",
@@ -191,6 +217,19 @@
       "text": "He said, “Please do not leave us, inasmuch as you know where we should camp in the wilderness and can be our guide."
     },
     {
+      "block_id": "jsb-num-10-31-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 10,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-num-10-32",
       "type": "verse",
       "number": 32,
@@ -219,6 +258,19 @@
       "type": "verse",
       "number": 36,
       "text": "And when it halted, he would say: Return, O Lord, You who are Israel’s myriads of thousands!"
+    },
+    {
+      "block_id": "jsb-num-10-36-commentary-4",
+      "type": "commentary",
+      "text": "Others “Return, O Lord, unto the ten thousands of the families of Israel!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 10,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     }
   ]
 }

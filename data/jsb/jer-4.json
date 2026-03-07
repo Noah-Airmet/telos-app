@@ -1,7 +1,7 @@
 {
   "document_id": "jer-4",
   "title": "Jeremiah 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,32 @@
       "text": "And swear, “As the Lord lives,” In sincerity, justice, and righteousness— Nations shall bless themselves by you And praise themselves by you."
     },
     {
+      "block_id": "jsb-jer-4-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., profess the worship of the Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-jer-4-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-jer-4-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +53,19 @@
       "type": "verse",
       "number": 4,
       "text": "Open your hearts to the Lord, Remove the thickening about your hearts— O men of Judah and inhabitants of Jerusalem— Lest My wrath break forth like fire, And burn, with none to quench it, Because of your wicked acts."
+    },
+    {
+      "block_id": "jsb-jer-4-4-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “circumcise”; cf. Deut. 10.16 and 30.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-4-5",
@@ -65,10 +104,36 @@
       "text": "And I said: Ah, Lord god! Surely You have deceived this people and Jerusalem, saying: It shall be well with you— Yet the sword threatens the very life!"
     },
     {
+      "block_id": "jsb-jer-4-10-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “And they shall say.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-jer-4-11",
       "type": "verse",
       "number": 11,
       "text": "At that time, it shall be said concerning this people and Jerusalem: The conduct of My poor people is like searing wind From the bare heights of the desert— It will not serve to winnow or to fan."
+    },
+    {
+      "block_id": "jsb-jer-4-11-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “the daughter that is My people”; so, frequently, in poetry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-jer-4-12",
@@ -81,6 +146,19 @@
       "type": "verse",
       "number": 13,
       "text": "Lo, he ascends like clouds, His chariots are like a whirlwind, His horses are swifter than eagles. Woe to us, we are ruined!"
+    },
+    {
+      "block_id": "jsb-jer-4-13-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the invader of v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-jer-4-14",
@@ -117,6 +195,32 @@
       "type": "verse",
       "number": 19,
       "text": "Oh, my suffering, my suffering! How I writhe! Oh, the walls of my heart! My heart moans within me, I cannot be silent; For I hear the blare of horns, Alarms of war."
+    },
+    {
+      "block_id": "jsb-jer-4-19-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “entrails.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-jer-4-19-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “you, O my being, hear.” Change of vocalization yields “I hear the blare of horns, / My inner being, alarms of war.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 4,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-4-20",

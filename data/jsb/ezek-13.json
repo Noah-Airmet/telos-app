@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-13",
   "title": "Ezekiel 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "Inasmuch as they have misled My people, saying, “It is well,” when nothing is well, daubing with plaster the flimsy wall which the people were building,"
     },
     {
+      "block_id": "jsb-ezek-13-10-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 13,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-13-11",
       "type": "verse",
       "number": 11,
@@ -113,16 +126,55 @@
       "text": "and say: Thus said the Lord god: Woe to those who sew pads on all arm-joints and make bonnets for the head of every person, in order to entrap! Can you hunt down lives among My people, while you preserve your own lives?"
     },
     {
+      "block_id": "jsb-ezek-13-18-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 13,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-ezek-13-19",
       "type": "verse",
       "number": 19,
       "text": "You have profaned My name among My people in return for handfuls of barley and morsels of bread; you have announced the death of persons who will not die and the survival of persons who will not live—lying to My people, who listen to your lies."
     },
     {
+      "block_id": "jsb-ezek-13-19-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 13,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-ezek-13-20",
       "type": "verse",
       "number": 20,
       "text": "Assuredly, thus said the Lord god: I am going to deal with your pads, by which you hunt down lives like birds, and I will tear them from your arms and free the persons whose lives you hunt down like birds."
+    },
+    {
+      "block_id": "jsb-ezek-13-20-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “where.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 13,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ezek-13-21",

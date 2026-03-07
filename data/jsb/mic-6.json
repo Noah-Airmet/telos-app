@@ -1,7 +1,7 @@
 {
   "document_id": "mic-6",
   "title": "Micah 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Hear, you mountains, the case of the Lord— You firm foundations of the earth! For the Lord has a case against His people, He has a suit against Israel."
+    },
+    {
+      "block_id": "jsb-mic-6-2-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “Give ear, you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-mic-6-3",
@@ -35,6 +48,19 @@
       "text": "“My people, Remember what Balak king of Moab Plotted against you, And how Balaam son of Beor Responded to him. [Recall your passage] From Shittim to Gilgal— And you will recognize The gracious acts of the Lord.”"
     },
     {
+      "block_id": "jsb-mic-6-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the crossing of the Jordan; see Josh. 3.1, 14–4.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-mic-6-6",
       "type": "verse",
       "number": 6,
@@ -53,10 +79,49 @@
       "text": "“He has told you, O man, what is good, And what the Lord requires of you: Only to do justice And to love goodness, And to walk modestly with your God;"
     },
     {
+      "block_id": "jsb-mic-6-8-commentary-3",
+      "type": "commentary",
+      "text": "Or “It is prudent to serve your God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-mic-6-9",
       "type": "verse",
       "number": 9,
       "text": "Then will your name achieve wisdom.” Hark! The Lord Summons the city: Hear, O scepter; For who can direct her"
+    },
+    {
+      "block_id": "jsb-mic-6-9-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “And it is worthwhile to revere His name.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-mic-6-9-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-mic-6-10",
@@ -65,16 +130,68 @@
       "text": "but you? Will I overlook, in the wicked ­man’s house, The granaries of wickedness And the accursed short ephah?"
     },
     {
+      "block_id": "jsb-mic-6-10-commentary-6",
+      "type": "commentary",
+      "text": "Taking ish as from nashah “to forget”; cf. Deut. 32.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-mic-6-10-commentary-7",
+      "type": "commentary",
+      "text": "Cf. Amos 8.4–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-mic-6-11",
       "type": "verse",
       "number": 11,
       "text": "Shall he be acquitted despite wicked balances And a bag of fraudulent weights?—"
     },
     {
+      "block_id": "jsb-mic-6-11-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “I”; change of vocalization yields “Will I acquit him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-mic-6-12",
       "type": "verse",
       "number": 12,
       "text": "Whose rich men are full of lawlessness, And whose inhabitants speak treachery, With tongues of deceit in their mouths."
+    },
+    {
+      "block_id": "jsb-mic-6-12-commentary-9",
+      "type": "commentary",
+      "text": "This v. would read well after “city” in v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-mic-6-13",
@@ -95,10 +212,75 @@
       "text": "You have been sowing, but have nothing to reap; You have trod olives, but have no oil for rubbing, And grapes but have no wine to drink."
     },
     {
+      "block_id": "jsb-mic-6-15-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “new wine.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-mic-6-16",
       "type": "verse",
       "number": 16,
       "text": "Yet you have kept the laws of Omri, And all the practices of the House of Ahab, And have followed what they devised. Therefore I will make you an object of horror And her inhabitants an object of hissing; And you shall bear the mockery of peoples."
+    },
+    {
+      "block_id": "jsb-mic-6-16-commentary-11",
+      "type": "commentary",
+      "text": "Heb. “is kept.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-mic-6-16-commentary-12",
+      "type": "commentary",
+      "text": "I.e., those of the city of v. 9, apparently Samaria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-mic-6-16-commentary-13",
+      "type": "commentary",
+      "text": "See note at Jer. 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-mic-6-16-commentary-14",
+      "type": "commentary",
+      "text": "Heb. “My people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

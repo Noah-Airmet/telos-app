@@ -1,7 +1,7 @@
 {
   "document_id": "exod-28",
   "title": "Exodus 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "Next you shall instruct all who are skillful, whom I have endowed with the gift of skill, to make Aaron’s vestments, for consecrating him to serve Me as priest."
     },
     {
+      "block_id": "jsb-exod-28-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “wise of heart, whom I have filled with a spirit of wisdom.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-exod-28-4",
       "type": "verse",
       "number": 4,
       "text": "These are the vestments they are to make: a breastpiece, an ephod, a robe, a fringed tunic, a headdress, and a sash. They shall make those sacral vestments for your brother Aaron and his sons, for priestly service to Me;"
+    },
+    {
+      "block_id": "jsb-exod-28-4-commentary-2",
+      "type": "commentary",
+      "text": "Others “checkered.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-exod-28-5",
@@ -95,6 +121,19 @@
       "text": "You shall make a breastpiece of decision, worked into a design; make it in the style of the ephod: make it of gold, of blue, purple, and crimson yarns, and of fine twisted linen."
     },
     {
+      "block_id": "jsb-exod-28-15-commentary-3",
+      "type": "commentary",
+      "text": "See v. 30 below; others “judgment.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-exod-28-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +144,19 @@
       "type": "verse",
       "number": 17,
       "text": "Set in it mounted stones, in four rows of stones. The first row shall be a row of carnelian, chrysolite, and emerald;"
+    },
+    {
+      "block_id": "jsb-exod-28-17-commentary-4",
+      "type": "commentary",
+      "text": "The identity of several of these twelve stones is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-exod-28-18",
@@ -185,10 +237,36 @@
       "text": "Inside the breastpiece of decision you shall place the Urim and Thummim, so that they are over Aaron’s heart when he comes before the Lord. Thus Aaron shall carry the instrument of decision for the Israelites over his heart before the Lord at all times."
     },
     {
+      "block_id": "jsb-exod-28-30-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of these two words uncertain. They designate a kind of oracle; cf. Num. 27.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-exod-28-31",
       "type": "verse",
       "number": 31,
       "text": "You shall make the robe of the ephod of pure blue."
+    },
+    {
+      "block_id": "jsb-exod-28-31-commentary-6",
+      "type": "commentary",
+      "text": "Others “all of blue.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-exod-28-32",
@@ -249,6 +327,19 @@
       "type": "verse",
       "number": 41,
       "text": "Put these on your brother Aaron and on his sons as well; anoint them, and ordain them and consecrate them to serve Me as priests."
+    },
+    {
+      "block_id": "jsb-exod-28-41-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “and fill their hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 28,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-exod-28-42",

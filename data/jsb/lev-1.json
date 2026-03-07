@@ -1,7 +1,7 @@
 {
   "document_id": "lev-1",
   "title": "Leviticus 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Speak to the Israelite people, and say to them: When any of you presents an offering of cattle to the Lord, he shall choose his offering from the herd or from the flock."
+    },
+    {
+      "block_id": "jsb-lev-1-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “you shall offer your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-lev-1-3",
@@ -99,6 +112,19 @@
       "type": "verse",
       "number": 16,
       "text": "He shall remove its crop with its contents, and cast it into the place of the ashes, at the east side of the altar."
+    },
+    {
+      "block_id": "jsb-lev-1-16-commentary-2",
+      "type": "commentary",
+      "text": "Others “feathers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-lev-1-17",

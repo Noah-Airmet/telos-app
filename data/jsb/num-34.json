@@ -1,7 +1,7 @@
 {
   "document_id": "num-34",
   "title": "Numbers 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "From Azmon the boundary shall turn toward the Wadi of Egypt and terminate at the Sea."
     },
     {
+      "block_id": "jsb-num-34-5-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the Mediterranean Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 34,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-num-34-6",
       "type": "verse",
       "number": 6,
@@ -53,6 +66,19 @@
       "text": "from Mount Hor draw a line to Lebo-hamath, and let the boundary reach Zedad."
     },
     {
+      "block_id": "jsb-num-34-8-commentary-2",
+      "type": "commentary",
+      "text": "See note at 13.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 34,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-num-34-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "From Shepham the boundary shall descend to Riblah on the east side of Ain; from there the boundary shall continue downward and abut on the eastern slopes of the Sea of Chinnereth."
+    },
+    {
+      "block_id": "jsb-num-34-11-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the Sea (or Lake) of Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 34,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-num-34-12",
@@ -123,6 +162,19 @@
       "type": "verse",
       "number": 20,
       "text": "From the Simeonite tribe: Samuel son of Ammihud."
+    },
+    {
+      "block_id": "jsb-num-34-20-commentary-4",
+      "type": "commentary",
+      "text": "Or “Shemuel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 34,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-num-34-21",

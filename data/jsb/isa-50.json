@@ -1,7 +1,7 @@
 {
   "document_id": "isa-50",
   "title": "Isaiah 50",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Why, when I came, was no one there, Why, when I called, would none respond? Is my arm, then, too short to rescue, Have I not the power to save? With a mere rebuke I dry up the sea, And turn rivers into desert. Their fish stink from lack of water; They lie dead of thirst."
     },
     {
+      "block_id": "jsb-isa-50-2-commentary-1",
+      "type": "commentary",
+      "text": "Change of vocalization yields “on the parched ground”; cf. 44.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 50,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-50-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "The Lord god gave me a skilled tongue, To know how to speak timely words to the weary. Morning by morning, He rouses, He rouses my ear To give heed like disciples."
+    },
+    {
+      "block_id": "jsb-isa-50-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 50,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-50-5",
@@ -53,6 +79,19 @@
       "text": "My Vindicator is at hand— Who dares contend with me? Let us stand up together! Who would be my opponent? Let him approach me!"
     },
     {
+      "block_id": "jsb-isa-50-8-commentary-3",
+      "type": "commentary",
+      "text": "I.e., as opponents in court; cf. Num. 35.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 50,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-50-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +108,32 @@
       "type": "verse",
       "number": 11,
       "text": "But you are all kindlers of fire, Girding on firebrands. Walk by the blaze of your fire, By the brands that you have lit! This has come to you from My hand: You shall lie down in pain."
+    },
+    {
+      "block_id": "jsb-isa-50-11-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “Lighters of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 50,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-50-11-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 50,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     }
   ]
 }

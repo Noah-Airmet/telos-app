@@ -1,7 +1,7 @@
 {
   "document_id": "ps-14",
   "title": "Psalms 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader. Of David. The benighted man thinks, “God does not care.” Man’s deeds are corrupt and loathsome; no one does good."
+    },
+    {
+      "block_id": "jsb-ps-14-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Ps. 53.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-ps-14-1-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “There is no God”; cf. Ps. 10.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-14-2",

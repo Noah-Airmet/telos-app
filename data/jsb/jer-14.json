@@ -1,7 +1,7 @@
 {
   "document_id": "jer-14",
   "title": "Jeremiah 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Because of the ground there is dismay, For there has been no rain on the earth. The plowmen are shamed, They cover their heads."
+    },
+    {
+      "block_id": "jsb-jer-14-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-14-5",
@@ -107,10 +120,49 @@
       "text": "And do you speak to them thus: Let my eyes run with tears, Day and night let them not cease, For my hapless people has suffered A grievous injury, a very painful wound."
     },
     {
+      "block_id": "jsb-jer-14-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “the maiden daughter, My people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 14,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-jer-14-18",
       "type": "verse",
       "number": 18,
       "text": "If I go out to the country— Lo, the slain of the sword. If I enter the city— Lo, those who are sick with famine. Both priest and prophet roam the land, They know not where."
+    },
+    {
+      "block_id": "jsb-jer-14-18-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “the sicknesses of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-jer-14-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-14-19",

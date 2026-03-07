@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-12",
   "title": "2 Kings 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "Jehoash said to the priests, “All the money, current money, brought into the House of the Lord as sacred donations—any money a man may pay as the money equivalent of persons, or any other money that a man may be minded to bring to the House of the Lord—"
+    },
+    {
+      "block_id": "jsb-2-kgs-12-5-commentary-1",
+      "type": "commentary",
+      "text": "See Lev 27.2–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 12,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-kgs-12-6",
@@ -77,6 +90,19 @@
       "text": "Then they would deliver the money that was weighed out to the overseers of the work, who were in charge of the House of the Lord. These, in turn, used to pay the carpenters and the laborers who worked on the House of the Lord,"
     },
     {
+      "block_id": "jsb-2-kgs-12-12-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 12,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-kgs-12-13",
       "type": "verse",
       "number": 13,
@@ -107,6 +133,19 @@
       "text": "Money brought as a guilt offering or as a purification offering was not deposited in the House of the Lord; it went to the priests."
     },
     {
+      "block_id": "jsb-2-kgs-12-17-commentary-3",
+      "type": "commentary",
+      "text": "See Lev. 5.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 12,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-2-kgs-12-18",
       "type": "verse",
       "number": 18,
@@ -129,6 +168,19 @@
       "type": "verse",
       "number": 21,
       "text": "His courtiers formed a conspiracy against Joash and assassinated him at Beth-millo that leads down to Silla."
+    },
+    {
+      "block_id": "jsb-2-kgs-12-21-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 12,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-2-kgs-12-22",

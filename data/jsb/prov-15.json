@@ -1,7 +1,7 @@
 {
   "document_id": "prov-15",
   "title": "Proverbs 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -171,6 +171,19 @@
       "type": "verse",
       "number": 28,
       "text": "The heart of the righteous man rehearses his answer, But the mouth of the wicked blurts out evil things."
+    },
+    {
+      "block_id": "jsb-prov-15-28-commentary-1",
+      "type": "commentary",
+      "text": "For leb as a source of speech, see note to Eccl. 5.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-prov-15-29",

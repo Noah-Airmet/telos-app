@@ -1,7 +1,7 @@
 {
   "document_id": "jer-42",
   "title": "Jeremiah 42",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "I will dispose him to be merciful to you: he shall show you mercy and bring you back to your own land."
     },
     {
+      "block_id": "jsb-jer-42-12-commentary-1",
+      "type": "commentary",
+      "text": "Change of vocalization yields “let you dwell in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 42,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-jer-42-13",
       "type": "verse",
       "number": 13,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "For thus said the Lord of Hosts, the God of Israel: As My anger and wrath were poured out upon the inhabitants of Jerusalem, so will My wrath be poured out on you if you go to Egypt. You shall become an execration of woe, a curse and a mockery; and you shall never again see this place."
+    },
+    {
+      "block_id": "jsb-jer-42-18-commentary-2",
+      "type": "commentary",
+      "text": "I.e., a standard by which men execrate and curse; cf. note at 24.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 42,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-42-19",

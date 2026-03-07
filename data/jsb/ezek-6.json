@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-6",
   "title": "Ezekiel 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "in all your settlements. The towns shall be laid waste and the shrines shall be devastated. Thus your altars shall be laid waste and bear their punishment; your fetishes shall be smashed and annihilated, your incense stands cut down, and your handiwork wiped out;"
     },
     {
+      "block_id": "jsb-ezek-6-6-commentary-1",
+      "type": "commentary",
+      "text": "Targum and other ancient versions read “shall be devastated.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 6,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-6-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "And those of you that escape will remember Me among the nations where they have been taken captive, how I was brokenhearted through their faithless hearts which turned away from Me, and through their eyes which lusted after their fetishes. And they shall loathe themselves for all the evil they committed and for all their abominable deeds."
+    },
+    {
+      "block_id": "jsb-ezek-6-9-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “how I broke.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-6-10",
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "I will stretch out My hand against them, and lay the land waste and desolate in all their settlements, from the wilderness as far as Diblah; then they shall know that I am the Lord."
+    },
+    {
+      "block_id": "jsb-ezek-6-14-commentary-3",
+      "type": "commentary",
+      "text": "A few Heb. mss. read “Riblah”; cf. 2 Kings 23.33; 25.6 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 6,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

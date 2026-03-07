@@ -1,7 +1,7 @@
 {
   "document_id": "prov-14",
   "title": "Proverbs 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "An unprincipled man reaps the fruits of his ways; A good man, of his deeds."
     },
     {
+      "block_id": "jsb-prov-14-14-commentary-1",
+      "type": "commentary",
+      "text": "Taking ʿal as from ʿ ll; cf. Hos. 12.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-prov-14-15",
       "type": "verse",
       "number": 15,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "Folly is the lot of the simple, But clever men glory in knowledge."
+    },
+    {
+      "block_id": "jsb-prov-14-18-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-prov-14-19",

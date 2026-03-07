@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-8",
   "title": "1 Kings 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "All the men of Israel gathered before King Solomon at the Feast, in the month of Ethanim—that is, the seventh month."
+    },
+    {
+      "block_id": "jsb-1-kgs-8-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., of Booths. Cf. Lev. 23.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-kgs-8-3",
@@ -95,6 +108,19 @@
       "text": "He said: “Praised be the Lord, the God of Israel, who has fulfilled with deeds the promise He made to my father David. For He said,"
     },
     {
+      "block_id": "jsb-1-kgs-8-15-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “who spoke with His own mouth …and has fulfilled with His own hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-1-kgs-8-16",
       "type": "verse",
       "number": 16,
@@ -123,6 +149,19 @@
       "type": "verse",
       "number": 20,
       "text": "“And the Lord has fulfilled the promise that He made: I have succeeded my father David and have ascended the throne of Israel, as the Lord promised. I have built the House for the name of the Lord, the God of Israel;"
+    },
+    {
+      "block_id": "jsb-1-kgs-8-20-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “risen in place of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-1-kgs-8-21",
@@ -165,6 +204,19 @@
       "type": "verse",
       "number": 27,
       "text": "“But will God really dwell on earth? Even the heavens to their uttermost reaches cannot contain You, how much less this House that I have built!"
+    },
+    {
+      "block_id": "jsb-1-kgs-8-27-commentary-4",
+      "type": "commentary",
+      "text": "2 Chron. 6.18 adds “with man.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-1-kgs-8-28",
@@ -213,6 +265,19 @@
       "type": "verse",
       "number": 35,
       "text": "“Should the heavens be shut up and there be no rain, because they have sinned against You, and then they pray toward this place and acknowledge Your name and repent of their sins, when You answer them,"
+    },
+    {
+      "block_id": "jsb-1-kgs-8-35-commentary-5",
+      "type": "commentary",
+      "text": "The Septuagint, with a different vocalization, reads “chastise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-1-kgs-8-36",
@@ -395,10 +460,49 @@
       "text": "So Solomon and all Israel with him—a great assemblage, [coming] from Lebo-hamath to the Wadi of Egypt—observed the Feast at that time before the Lord our God, seven days and again seven days, fourteen days in all."
     },
     {
+      "block_id": "jsb-1-kgs-8-65-commentary-6",
+      "type": "commentary",
+      "text": "I.e., coming from one end of the country to the other.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 65
+      },
+      "verse_start": 65,
+      "verse_end": 65
+    },
+    {
+      "block_id": "jsb-1-kgs-8-65-commentary-7",
+      "type": "commentary",
+      "text": "I.e., of Booths. Cf. Lev. 23.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 65
+      },
+      "verse_start": 65,
+      "verse_end": 65
+    },
+    {
       "block_id": "jsb-1-kgs-8-66",
       "type": "verse",
       "number": 66,
       "text": "On the eighth day he let the people go. They bade the king good-bye and went to their homes, joyful and glad of heart over all the goodness that the Lord had shown to His servant David and His people Israel."
+    },
+    {
+      "block_id": "jsb-1-kgs-8-66-commentary-8",
+      "type": "commentary",
+      "text": "I.e., of the second seven-day feast; cf. 2 Chron. 7.8–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 8,
+        "verse": 66
+      },
+      "verse_start": 66,
+      "verse_end": 66
     }
   ]
 }

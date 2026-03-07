@@ -1,7 +1,7 @@
 {
   "document_id": "judg-4",
   "title": "Judges 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,10 +65,36 @@
       "text": "Barak then mustered Zebulun and Naphtali at Kedesh; ten thousand men marched up after him; and Deborah also went up with him."
     },
     {
+      "block_id": "jsb-judg-4-10-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “at his feet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-judg-4-11",
       "type": "verse",
       "number": 11,
       "text": "Now Heber the Kenite had separated from the other Kenites, descendants of Hobab, father-in-law of Moses, and had pitched his tent at Elon-bezaanannim, which is near Kedesh."
+    },
+    {
+      "block_id": "jsb-judg-4-11-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “from Cain”; cf. 1.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 4,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-judg-4-12",
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "and the Lord threw Sisera and all his chariots and army into a panic before the onslaught of Barak. Sisera leaped from his chariot and fled on foot"
+    },
+    {
+      "block_id": "jsb-judg-4-15-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “at the edge of the sword before Barak.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 4,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-judg-4-16",

@@ -1,7 +1,7 @@
 {
   "document_id": "judg-5",
   "title": "Judges 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,32 @@
       "type": "verse",
       "number": 2,
       "text": "When locks go untrimmed in Israel, When people dedicate themselves— Bless the Lord!"
+    },
+    {
+      "block_id": "jsb-judg-5-2-commentary-1",
+      "type": "commentary",
+      "text": "In many parts of this poem the meaning is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-judg-5-2-commentary-2",
+      "type": "commentary",
+      "text": "Apparently an expression of dedication; cf. Num. 6.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-judg-5-3",
@@ -35,10 +61,49 @@
       "text": "The mountains quaked— Before the Lord, Him of Sinai, Before the Lord, God of Israel."
     },
     {
+      "block_id": "jsb-judg-5-5-commentary-3",
+      "type": "commentary",
+      "text": "Taking nazelu as a by‑form of nazollu; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-judg-5-6",
       "type": "verse",
       "number": 6,
       "text": "In the days of Shamgar son of Anath, In the days of Jael, caravans ceased, And wayfarers went By roundabout paths."
+    },
+    {
+      "block_id": "jsb-judg-5-6-commentary-4",
+      "type": "commentary",
+      "text": "Or “the Beth-anathite.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-judg-5-6-commentary-5",
+      "type": "commentary",
+      "text": "Or “roads.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-judg-5-7",
@@ -47,10 +112,36 @@
       "text": "Deliverance ceased, Ceased in Israel, Till you arose, O Deborah, Arose, O mother, in Israel!"
     },
     {
+      "block_id": "jsb-judg-5-7-commentary-6",
+      "type": "commentary",
+      "text": "Heb. qamti, archaic second-person singular feminine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-judg-5-8",
       "type": "verse",
       "number": 8,
       "text": "When they chose new gods, Was there a fighter then in the gates? No shield or spear was seen Among forty thousand in Israel!"
+    },
+    {
+      "block_id": "jsb-judg-5-8-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “then was war in the gates.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-judg-5-9",
@@ -71,6 +162,19 @@
       "text": "Louder than the sound of archers, There among the watering places Let them chant the gracious acts of the Lord, His gracious deliverance of Israel. Then did the people of the Lord March down to the gates!"
     },
     {
+      "block_id": "jsb-judg-5-11-commentary-8",
+      "type": "commentary",
+      "text": "Or “thunder peals”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-judg-5-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +185,19 @@
       "type": "verse",
       "number": 13,
       "text": "Then was the remnant made victor over the mighty, The Lord’s people won my victory over the warriors."
+    },
+    {
+      "block_id": "jsb-judg-5-13-commentary-9",
+      "type": "commentary",
+      "text": "Reading ʿam (with pathaḥ) Adonai; so many Heb. mss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-judg-5-14",
@@ -107,10 +224,36 @@
       "text": "Gilead tarried beyond the Jordan; And Dan—why did he linger by the ships? Asher remained at the seacoast And tarried at his landings."
     },
     {
+      "block_id": "jsb-judg-5-17-commentary-10",
+      "type": "commentary",
+      "text": "Or “at Onioth,” a presumed designation of Dan’s region.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-judg-5-18",
       "type": "verse",
       "number": 18,
       "text": "Zebulun is a people that mocked at death, Naphtali—on the open heights."
+    },
+    {
+      "block_id": "jsb-judg-5-18-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “belittled its life to die.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-judg-5-19",
@@ -131,16 +274,55 @@
       "text": "The torrent Kishon swept them away, The raging torrent, the torrent Kishon. March on, my soul, with courage!"
     },
     {
+      "block_id": "jsb-judg-5-21-commentary-12",
+      "type": "commentary",
+      "text": "I.e., the kings of Canaan (v. 19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-judg-5-22",
       "type": "verse",
       "number": 22,
       "text": "Then the horses’ hoofs pounded As headlong galloped the steeds."
     },
     {
+      "block_id": "jsb-judg-5-22-commentary-13",
+      "type": "commentary",
+      "text": "Lit. “From the gallopings, the gallopings of his steeds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-judg-5-23",
       "type": "verse",
       "number": 23,
       "text": "“Curse Meroz!” said the angel of the Lord. “Bitterly curse its inhabitants, Because they came not to the aid of the Lord, To the aid of the Lord among the warriors.”"
+    },
+    {
+      "block_id": "jsb-judg-5-23-commentary-14",
+      "type": "commentary",
+      "text": "Or “against.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-judg-5-24",
@@ -171,6 +353,19 @@
       "type": "verse",
       "number": 28,
       "text": "Through the window peered Sisera’s mother, Behind the lattice she whined: “Why is his chariot so long in coming? Why so late the clatter of his wheels?”"
+    },
+    {
+      "block_id": "jsb-judg-5-28-commentary-15",
+      "type": "commentary",
+      "text": "Or “gazed”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 5,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-judg-5-29",

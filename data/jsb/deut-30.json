@@ -1,7 +1,7 @@
 {
   "document_id": "deut-30",
   "title": "Deuteronomy 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,10 +33,36 @@
       "text": "then the Lord your God will restore your fortunes and take you back in love. He will bring you together again from all the peoples where the Lord your God has scattered you."
     },
     {
+      "block_id": "jsb-deut-30-3-commentary-1",
+      "type": "commentary",
+      "text": "Others “captivity.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 30,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-deut-30-4",
       "type": "verse",
       "number": 4,
       "text": "Even if your outcasts are at the ends of the world, from there the Lord your God will gather you, from there He will fetch you."
+    },
+    {
+      "block_id": "jsb-deut-30-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “sky.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 30,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-deut-30-5",
@@ -49,6 +75,19 @@
       "type": "verse",
       "number": 6,
       "text": "Then the Lord your God will open up your heart and the hearts of your offspring to love the Lord your God with all your heart and soul, in order that you may live."
+    },
+    {
+      "block_id": "jsb-deut-30-6-commentary-3",
+      "type": "commentary",
+      "text": "Others “circumcise.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-deut-30-7",
@@ -109,6 +148,19 @@
       "type": "verse",
       "number": 16,
       "text": "For I command you this day, to love the Lord your God, to walk in His ways, and to keep His commandments, His laws, and His rules, that you may thrive and increase, and that the Lord your God may bless you in the land that you are about to enter and possess."
+    },
+    {
+      "block_id": "jsb-deut-30-16-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “If you obey the commandments of the Lord your God, which.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 30,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-deut-30-17",

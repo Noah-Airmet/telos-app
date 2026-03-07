@@ -1,7 +1,7 @@
 {
   "document_id": "gen-47",
   "title": "Genesis 47",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -25,6 +25,19 @@
       "type": "verse",
       "number": 2,
       "text": "And selecting a few of his brothers, he presented them to Pharaoh."
+    },
+    {
+      "block_id": "jsb-gen-47-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 47,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-47-3",
@@ -139,6 +152,19 @@
       "type": "verse",
       "number": 21,
       "text": "And he removed the population town by town, from one end of Egypt’s border to the other."
+    },
+    {
+      "block_id": "jsb-gen-47-21-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 47,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-gen-47-22",

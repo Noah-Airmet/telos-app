@@ -1,7 +1,7 @@
 {
   "document_id": "isa-8",
   "title": "Isaiah 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "The Lord said to me, “Get yourself a large sheet and write on it in common script ‘For Maher-shalal-hash-baz’;"
+    },
+    {
+      "block_id": "jsb-isa-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-isa-8-1-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “Pillage hastens, looting speeds,” indicating that two cities are to be pillaged at an early date; see v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-isa-8-2",
@@ -23,10 +49,36 @@
       "text": "I was intimate with the prophetess, and she conceived and bore a son; and the Lord said to me, “Name him Maher-shalal-hash-baz."
     },
     {
+      "block_id": "jsb-isa-8-3-commentary-3",
+      "type": "commentary",
+      "text": "I.e., Isaiah’s wife.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-8-4",
       "type": "verse",
       "number": 4,
       "text": "For before the boy learns to call ‘Father’ and ‘Mother,’ the wealth of Damascus and the spoils of Samaria, and the delights of Rezin and of the son of Remaliah, shall be carried off before the king of Assyria.”"
+    },
+    {
+      "block_id": "jsb-isa-8-4-commentary-4",
+      "type": "commentary",
+      "text": "Brought up from v. 6 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-8-5",
@@ -41,6 +93,19 @@
       "text": "“Because that people has spurned The gently flowing waters of Siloam”—"
     },
     {
+      "block_id": "jsb-isa-8-6-commentary-5",
+      "type": "commentary",
+      "text": "The conduit—and later the tunnel—of Siloam conveyed into Jerusalem the waters of Gihon, which symbolize “the Lord of Hosts who dwells on Mount Zion” (v. 18). For the nature of the rejection see note at 7.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-8-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +116,32 @@
       "type": "verse",
       "number": 8,
       "text": "And swirl through Judah like a flash flood Reaching up to the neck. But with us is God, Whose wings are spread As wide as your land is broad!"
+    },
+    {
+      "block_id": "jsb-isa-8-8-commentary-6",
+      "type": "commentary",
+      "text": "I.e., Judah shall be imperiled, but, in contrast to Aram and Ephraim (v. 4), not destroyed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-8-8-commentary-7",
+      "type": "commentary",
+      "text": "See note a at 7.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-8-9",
@@ -71,10 +162,49 @@
       "text": "For this is what the Lord said to me, when He took me by the hand and charged me not to walk in the path of that people:"
     },
     {
+      "block_id": "jsb-isa-8-11-commentary-8",
+      "type": "commentary",
+      "text": "I.e., singled me out; cf. 41.9, 13; 42.6; 45.1; Jer. 31.32 [31].",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-8-12",
       "type": "verse",
       "number": 12,
       "text": "“You must not call conspiracy All that that people calls conspiracy, Nor revere what it reveres, Nor hold it in awe."
+    },
+    {
+      "block_id": "jsb-isa-8-12-commentary-9",
+      "type": "commentary",
+      "text": "The Heb. forms here and in vv. 13 and 19 are plural to include the disciples (v. 16) and the children (v. 18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-isa-8-12-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “holy”; cf. v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-8-13",
@@ -87,6 +217,19 @@
       "type": "verse",
       "number": 14,
       "text": "He shall be for a sanctuary, A stone men strike against: A rock men stumble over For the two Houses of Israel, And a trap and a snare for those Who dwell in Jerusalem."
+    },
+    {
+      "block_id": "jsb-isa-8-14-commentary-11",
+      "type": "commentary",
+      "text": "Emendation yields “… for His holy domain [cf. Ps. 114.2] / A stone…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-isa-8-15",
@@ -119,6 +262,19 @@
       "text": "Now, should people say to you, “Inquire of the ghosts and familiar spirits that chirp and moan; for a people may inquire of its divine beings—of the dead on behalf of the living—"
     },
     {
+      "block_id": "jsb-isa-8-19-commentary-12",
+      "type": "commentary",
+      "text": "I.e., the shades of the dead; cf. 1 Sam. 28.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-8-20",
       "type": "verse",
       "number": 20,
@@ -131,16 +287,68 @@
       "text": "And he shall go about in it wretched and hungry; and when he is hungry, he shall rage and revolt against his king and his divine beings. He may turn his face upward"
     },
     {
+      "block_id": "jsb-isa-8-21-commentary-13",
+      "type": "commentary",
+      "text": "This sentence would read well after v. 22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-isa-8-22",
       "type": "verse",
       "number": 22,
       "text": "or he may look below, but behold, Distress and darkness, with no daybreak; Straitness and gloom, with no dawn."
     },
     {
+      "block_id": "jsb-isa-8-22-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-isa-8-23",
       "type": "verse",
       "number": 23,
       "text": "For if there were to be any break of day for that [land] which is in straits, only the former [king] would have brought abasement to the land of Zebulun and the land of Naphtali—while the later one would have brought honor to the Way of the Sea, the other side of the Jordan, and Galilee of the Nations."
+    },
+    {
+      "block_id": "jsb-isa-8-23-commentary-15",
+      "type": "commentary",
+      "text": "So 1QIsa; the others have “there is not.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-isa-8-23-commentary-16",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain. The rendering here assumes that “the former [king]” refers to Pekah (cf. 2 Kings 15.29) and “the later” to Hoshea (ibid. 30). For the construction lu…kaʾeth, see Judg. 13–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 8,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     }
   ]
 }

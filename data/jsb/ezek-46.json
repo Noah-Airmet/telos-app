@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-46",
   "title": "Ezekiel 46",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "The common people shall worship before the Lord on sabbaths and new moons at the entrance of the same gate."
+    },
+    {
+      "block_id": "jsb-ezek-46-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., those other than the priests, the Levites, and the prince; lit. “the people of the land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 46,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-46-4",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "But on the fixed occasions, when the common people come before the Lord, whoever enters by the north gate to bow low shall leave by the south gate; and whoever enters by the south gate shall leave by the north gate. They shall not go back through the gate by which they came in, but shall go out by the opposite one."
+    },
+    {
+      "block_id": "jsb-ezek-46-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “straight before him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 46,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-46-10",
@@ -107,6 +133,19 @@
       "text": "But if he makes a gift from his inheritance to any of his subjects, it shall only belong to the latter until the year of release. Then it shall revert to the prince; his inheritance must by all means pass on to his sons."
     },
     {
+      "block_id": "jsb-ezek-46-17-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Lev. 25.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 46,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-ezek-46-18",
       "type": "verse",
       "number": 18,
@@ -125,6 +164,19 @@
       "text": "He said to me, “This is the place where the priests shall boil the guilt offerings and the purification offerings, and where they shall bake the meal offerings, so as not to take them into the outer court and make the people consecrated.”"
     },
     {
+      "block_id": "jsb-ezek-46-20-commentary-4",
+      "type": "commentary",
+      "text": "See note c at 44.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 46,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ezek-46-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +187,19 @@
       "type": "verse",
       "number": 22,
       "text": "These unroofed enclosures, [each] 40 [cubits] long and 30 wide, were in the four corners of the court; the four corner enclosures had the same measurements."
+    },
+    {
+      "block_id": "jsb-ezek-46-22-commentary-5",
+      "type": "commentary",
+      "text": "So Mishnah Middoth 2.5; emendation yields “small.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 46,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ezek-46-23",

@@ -1,7 +1,7 @@
 {
   "document_id": "lev-9",
   "title": "Leviticus 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -107,6 +107,19 @@
       "text": "He then brought forward the meal offering and, taking a handful of it, he turned it into smoke on the altar—in addition to the burnt offering of the morning."
     },
     {
+      "block_id": "jsb-lev-9-17-commentary-1",
+      "type": "commentary",
+      "text": "See Exod. 29.38–46.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-lev-9-18",
       "type": "verse",
       "number": 18,
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "They laid these fat parts over the breasts; and Aaron turned the fat parts into smoke on the altar,"
+    },
+    {
+      "block_id": "jsb-lev-9-20-commentary-2",
+      "type": "commentary",
+      "text": "This word moved up from v. 21 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 9,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-lev-9-21",

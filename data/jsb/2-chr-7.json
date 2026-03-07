@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-7",
   "title": "2 Chronicles 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When Solomon finished praying, fire descended from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the House."
+    },
+    {
+      "block_id": "jsb-2-chr-7-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 8.54–9.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-7-2",
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "then I will uproot them from My land that I gave them, and this House that I consecrated to My name I shall cast out of my sight, and make it a proverb and a byword among all peoples."
+    },
+    {
+      "block_id": "jsb-2-chr-7-20-commentary-2",
+      "type": "commentary",
+      "text": "I.e., Israel; cf. 1 Kings 9.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-2-chr-7-21",

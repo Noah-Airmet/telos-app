@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-34",
   "title": "Ezekiel 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "O mortal, prophesy against the shepherds of Israel. Prophesy, and say to them: To the shepherds: Thus said the Lord god: Ah, you shepherds of Israel, who have been tending yourselves! Is it not the flock that the shepherds ought to tend?"
     },
     {
+      "block_id": "jsb-ezek-34-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., rulers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ezek-34-3",
       "type": "verse",
       "number": 3,
       "text": "You partake of the fat, you clothe yourselves with the wool, and you slaughter the fatlings; but you do not tend the flock."
+    },
+    {
+      "block_id": "jsb-ezek-34-3-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint and Vulgate, reading the Hebrew consonants with different vowels, translate “milk.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-34-4",
@@ -101,6 +127,19 @@
       "text": "I will look for the lost, and I will bring back the strayed; I will bandage the injured, and I will sustain the weak; and the fat and healthy ones I will destroy. I will tend them rightly."
     },
     {
+      "block_id": "jsb-ezek-34-16-commentary-3",
+      "type": "commentary",
+      "text": "Several ancient versions read “guard.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-ezek-34-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +150,19 @@
       "type": "verse",
       "number": 18,
       "text": "Is it not enough for you to graze on choice grazing ground, but you must also trample with your feet what is left from your grazing? And is it not enough for you to drink clear water, but you must also muddy with your feet what is left?"
+    },
+    {
+      "block_id": "jsb-ezek-34-18-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “water that has settled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ezek-34-19",
@@ -161,6 +213,19 @@
       "text": "I will make these and the environs of My hill a blessing: I will send down the rain in its season, rains that bring blessing."
     },
     {
+      "block_id": "jsb-ezek-34-26-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-ezek-34-27",
       "type": "verse",
       "number": 27,
@@ -177,6 +242,19 @@
       "type": "verse",
       "number": 29,
       "text": "I shall establish for them a planting of renown; they shall no more be carried off by famine, and they shall not have to bear again the taunts of the nations."
+    },
+    {
+      "block_id": "jsb-ezek-34-29-commentary-6",
+      "type": "commentary",
+      "text": "Cf. 36.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 34,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-ezek-34-30",

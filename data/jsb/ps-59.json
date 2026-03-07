@@ -1,7 +1,7 @@
 {
   "document_id": "ps-59",
   "title": "Psalms 59",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader; al tashḥeth. Of David. A michtam; when Saul sent men to watch his house in order to put him to death."
+    },
+    {
+      "block_id": "jsb-ps-59-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Sam. 19.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 59,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-59-2",
@@ -53,6 +66,19 @@
       "text": "They rave with their mouths, sharp words are on their lips; [they think,] “Who hears?”"
     },
     {
+      "block_id": "jsb-ps-59-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “swords.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 59,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-59-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "O my strength, I wait for You; for God is my haven."
+    },
+    {
+      "block_id": "jsb-ps-59-10-commentary-3",
+      "type": "commentary",
+      "text": "With several mss.; cf. v. 18; lit. “His.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 59,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-59-11",

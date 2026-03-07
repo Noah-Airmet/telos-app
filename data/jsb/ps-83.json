@@ -1,7 +1,7 @@
 {
   "document_id": "ps-83",
   "title": "Psalms 83",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "For Your enemies rage, Your foes assert themselves."
+    },
+    {
+      "block_id": "jsb-ps-83-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “lift up the head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 83,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-83-4",
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "Cover their faces with shame so that they seek Your name, O Lord."
+    },
+    {
+      "block_id": "jsb-ps-83-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “Fill.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 83,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-ps-83-18",

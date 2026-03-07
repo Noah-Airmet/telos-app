@@ -1,7 +1,7 @@
 {
   "document_id": "gen-19",
   "title": "Genesis 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -137,6 +137,19 @@
       "text": "Hurry, flee there, for I cannot do anything until you arrive there.” Hence the town came to be called Zoar."
     },
     {
+      "block_id": "jsb-gen-19-22-commentary-1",
+      "type": "commentary",
+      "text": "Connected with miṣʿar “a little place,” v. 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 19,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-gen-19-23",
       "type": "verse",
       "number": 23,
@@ -159,6 +172,32 @@
       "type": "verse",
       "number": 26,
       "text": "Lot’s wife looked back, and she thereupon turned into a pillar of salt."
+    },
+    {
+      "block_id": "jsb-gen-19-26-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “His.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 19,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-gen-19-26-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “behind him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 19,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-gen-19-27",
@@ -227,10 +266,36 @@
       "text": "The older one bore a son and named him Moab; he is the father of the Moabites of today."
     },
     {
+      "block_id": "jsb-gen-19-37-commentary-4",
+      "type": "commentary",
+      "text": "As though me-ʾab “from (my) father.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 19,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
       "block_id": "jsb-gen-19-38",
       "type": "verse",
       "number": 38,
       "text": "And the younger also bore a son, and she called him Ben-ammi; he is the father of the Ammonites of today."
+    },
+    {
+      "block_id": "jsb-gen-19-38-commentary-5",
+      "type": "commentary",
+      "text": "As though “son of my (paternal) kindred.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 19,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
     }
   ]
 }

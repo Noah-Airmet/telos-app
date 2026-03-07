@@ -1,7 +1,7 @@
 {
   "document_id": "neh-1",
   "title": "Nehemiah 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The narrative of Nehemiah son of Hacaliah: In the month of Kislev of the twentieth year, when I was in the fortress of Shushan,"
+    },
+    {
+      "block_id": "jsb-neh-1-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., of King Artaxerxes; cf. 2.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-neh-1-2",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "but if you turn back to Me, faithfully keep My commandments, even if your dispersed are at the ends of the earth, I will gather them from there and bring them to the place where I have chosen to establish My name.’"
+    },
+    {
+      "block_id": "jsb-neh-1-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “sky.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-neh-1-10",

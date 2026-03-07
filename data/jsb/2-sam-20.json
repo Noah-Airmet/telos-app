@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-20",
   "title": "2 Samuel 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,36 @@
       "text": "And David said to Abishai, “Now Sheba son of Bichri will cause us more trouble than Absalom. So take your lord’s servants and pursue him, before he finds fortified towns and eludes us.”"
     },
     {
+      "block_id": "jsb-2-sam-20-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-2-sam-20-7",
       "type": "verse",
       "number": 7,
       "text": "Joab’s men, the Cherethites and Pelethites, and all the warriors, marched out behind him. They left Jerusalem in pursuit of Sheba son of Bichri."
+    },
+    {
+      "block_id": "jsb-2-sam-20-7-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Joab, the Cherethites and Pelethites, and all the warriors marched out behind Abishai.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-2-sam-20-8",
@@ -71,6 +97,19 @@
       "text": "while one of Joab’s henchmen stood by the corpse and called out, “Whoever favors Joab, and whoever is on David’s side, follow Joab!”"
     },
     {
+      "block_id": "jsb-2-sam-20-11-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-sam-20-12",
       "type": "verse",
       "number": 12,
@@ -89,10 +128,62 @@
       "text": "[Sheba] had passed through all the tribes of Israel up to Abel of Beth-maacah; and all the Beerites assembled and followed him inside."
     },
     {
+      "block_id": "jsb-2-sam-20-14-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “and.” Cf. v. 15 (and “Abel-beth-maacah” in 1 Kings 15.20 and 2 Kings 15.29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-2-sam-20-14-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “Bichrites”; cf. Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-sam-20-15",
       "type": "verse",
       "number": 15,
       "text": "[Joab’s men] came and besieged him in Abel of Beth-maacah; they threw up a siegemound against the city and it stood against the rampart. All the troops with Joab were engaged in battering the wall,"
+    },
+    {
+      "block_id": "jsb-2-sam-20-15-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. The phrase would read well in the next verse (“…a clever woman stood on the rampart and shouted…”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-2-sam-20-15-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “destroying, to topple the wall.” Septuagint and Targum read “were planning to topple the wall.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-2-sam-20-16",
@@ -111,6 +202,19 @@
       "type": "verse",
       "number": 18,
       "text": "And she continued, “In olden times people used to say, ‘Let them inquire of Abel,’ and that was the end of the matter."
+    },
+    {
+      "block_id": "jsb-2-sam-20-18-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-sam-20-19",
@@ -149,10 +253,36 @@
       "text": "Adoram was in charge of forced labor; Jehoshaphat son of Ahilud was recorder;"
     },
     {
+      "block_id": "jsb-2-sam-20-24-commentary-9",
+      "type": "commentary",
+      "text": "So in 1 Kings 12.18 and 2 Chron. 10.18 (“Hadoram”); elsewhere “Adoniram.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-2-sam-20-25",
       "type": "verse",
       "number": 25,
       "text": "Sheva was scribe; and Zadok and Abiathar were priests."
+    },
+    {
+      "block_id": "jsb-2-sam-20-25-commentary-10",
+      "type": "commentary",
+      "text": "See note h at 8.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 20,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-2-sam-20-26",

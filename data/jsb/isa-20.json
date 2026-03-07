@@ -1,7 +1,7 @@
 {
   "document_id": "isa-20",
   "title": "Isaiah 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "It was the year that the Tartan came to Ashdod—being sent by King Sargon of Assyria—and attacked Ashdod and took it."
     },
     {
+      "block_id": "jsb-isa-20-1-commentary-1",
+      "type": "commentary",
+      "text": "An Assyrian title meaning “General”; cf. 2 Kings 18.17 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 20,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-20-2",
       "type": "verse",
       "number": 2,
       "text": "Previously, the Lord had spoken to Isaiah son of Amoz, saying, “Go, untie the sackcloth from your loins and take your sandals off your feet,” which he had done, going naked and barefoot."
+    },
+    {
+      "block_id": "jsb-isa-20-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “At that time.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 20,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-20-3",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-25",
   "title": "Isaiah 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "O Lord, You are my God; I will extol You, I will praise Your name. For You planned graciousness of old, Counsels of steadfast faithfulness."
     },
     {
+      "block_id": "jsb-isa-25-1-commentary-1",
+      "type": "commentary",
+      "text": "See 9.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-25-2",
       "type": "verse",
       "number": 2,
       "text": "For You have turned a city into a stone heap, A walled town into a ruin, The citadel of strangers into rubble, Never to be rebuilt."
+    },
+    {
+      "block_id": "jsb-isa-25-2-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “arrogant men.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-25-2-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-25-3",
@@ -35,10 +74,49 @@
       "text": "The rage of strangers like heat in the desert, You subdued the heat with the shade of clouds, The singing of the tyrants was vanquished."
     },
     {
+      "block_id": "jsb-isa-25-5-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “rainstorm”; cf. 4d.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-25-6",
       "type": "verse",
       "number": 6,
       "text": "The Lord of Hosts will make on this mount For all the peoples A banquet of rich viands, A banquet of choice wines— Of rich viands seasoned with marrow, Of choice wines well refined."
+    },
+    {
+      "block_id": "jsb-isa-25-6-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the Holy Land, as in 11.9; 14.25; 57.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-25-6-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-25-7",
@@ -53,6 +131,32 @@
       "text": "He will destroy death forever. My Lord god will wipe the tears away From all faces And will put an end to the reproach of His people Over all the earth— For it is the Lord who has spoken."
     },
     {
+      "block_id": "jsb-isa-25-8-commentary-7",
+      "type": "commentary",
+      "text": "Perhaps an allusion to the mass killings committed by the Assyrians; cf. 10.7; 14.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-25-8-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “peoples.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-25-9",
       "type": "verse",
       "number": 9,
@@ -65,16 +169,94 @@
       "text": "For the hand of the Lord shall descend Upon this mount, And Moab shall be trampled under Him As straw is threshed to bits at Madmenah."
     },
     {
+      "block_id": "jsb-isa-25-10-commentary-9",
+      "type": "commentary",
+      "text": "I.e., the Holy Land, as in 11.9; 14.25; 57.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-isa-25-10-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “Assyria”; cf. 14.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-isa-25-10-commentary-11",
+      "type": "commentary",
+      "text": "A village near Jerusalem; see 10.31. Emendation yields “As straw gets shredded in the threshing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-25-11",
       "type": "verse",
       "number": 11,
       "text": "Then He will spread out His hands in their homeland, As a swimmer spreads his hands out to swim, And He will humble their pride Along with the emblems of their power."
     },
     {
+      "block_id": "jsb-isa-25-11-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “midst.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-25-11-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “their citadels”; cf. the next verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-25-12",
       "type": "verse",
       "number": 12,
       "text": "Yea, the secure fortification of their walls He will lay low and humble, Will raze to the ground, to the very dust."
+    },
+    {
+      "block_id": "jsb-isa-25-12-commentary-14",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 25,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     }
   ]
 }

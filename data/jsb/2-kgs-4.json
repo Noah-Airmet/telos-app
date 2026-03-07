@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-4",
   "title": "2 Kings 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -63,6 +63,19 @@
       "type": "verse",
       "number": 10,
       "text": "Let us make a small enclosed upper chamber and place a bed, a table, a chair, and a lampstand there for him, so that he can stop there whenever he comes to us.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-4-10-commentary-1",
+      "type": "commentary",
+      "text": "Or “upper wall-chamber”; lit. “an upper chamber of wall(s).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-2-kgs-4-11",
@@ -143,10 +156,36 @@
       "text": "But he said, “Why are you going to him today? It is neither new moon nor sabbath.” She answered, “It’s all right.”"
     },
     {
+      "block_id": "jsb-2-kgs-4-23-commentary-2",
+      "type": "commentary",
+      "text": "Heb. Shalom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-2-kgs-4-24",
       "type": "verse",
       "number": 24,
       "text": "She had the ass saddled, and said to her servant, “Urge [the beast] on; see that I don’t slow down unless I tell you.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-4-24-commentary-3",
+      "type": "commentary",
+      "text": "The servant runs behind the donkey and urges it on with a stick.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-2-kgs-4-25",
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "He said to Gehazi, “Tie up your skirts, take my staff in your hand, and go. If you meet anyone, do not greet him; and if anyone greets you, do not answer him. And place my staff on the face of the boy.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-4-29-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “Gird your loins”; cf. 1 Kings 18.46.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-2-kgs-4-30",
@@ -245,6 +297,19 @@
       "text": "and they served it for the men to eat. While they were still eating of the stew, they began to cry out: “O man of God, there is death in the pot!” And they could not eat it."
     },
     {
+      "block_id": "jsb-2-kgs-4-40-commentary-5",
+      "type": "commentary",
+      "text": "The wild gourds cause severe cramps.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
       "block_id": "jsb-2-kgs-4-41",
       "type": "verse",
       "number": 41,
@@ -255,6 +320,19 @@
       "type": "verse",
       "number": 42,
       "text": "A man came from Baal-shalishah and he brought the man of God some bread of the first reaping—twenty loaves of barley bread, and some fresh grain in his sack. And [Elisha] said, “Give it to the people and let them eat.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-4-42-commentary-6",
+      "type": "commentary",
+      "text": "Or “on the stalk”; perhaps connected with Ugaritic bṣql.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 4,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-2-kgs-4-43",

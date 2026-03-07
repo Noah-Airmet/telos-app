@@ -1,7 +1,7 @@
 {
   "document_id": "ps-97",
   "title": "Psalms 97",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "Zion, hearing it, rejoices, the towns of Judah exult, because of Your judgments, O Lord."
     },
     {
+      "block_id": "jsb-ps-97-8-commentary-1",
+      "type": "commentary",
+      "text": "Or “women.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 97,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-97-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "Light is sown for the righteous, radiance for the upright."
+    },
+    {
+      "block_id": "jsb-ps-97-11-commentary-2",
+      "type": "commentary",
+      "text": "Others “joy.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 97,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-ps-97-12",

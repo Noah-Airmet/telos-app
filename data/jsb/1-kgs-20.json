@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-20",
   "title": "1 Kings 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "I meant that tomorrow at this time I will send my servants to you and they will search your house and the houses of your courtiers and seize everything you prize and take it away.”"
     },
     {
+      "block_id": "jsb-1-kgs-20-6-commentary-1",
+      "type": "commentary",
+      "text": "Several ancient versions read “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 20,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-kgs-20-7",
       "type": "verse",
       "number": 7,
@@ -65,6 +78,19 @@
       "text": "Thereupon Ben-hadad sent him this message: “May the gods do thus to me and even more, if the dust of Samaria will provide even a handful for each of the men who follow me!”"
     },
     {
+      "block_id": "jsb-1-kgs-20-10-commentary-2",
+      "type": "commentary",
+      "text": "See note at 19.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 20,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-1-kgs-20-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "On hearing this reply—while he and the other kings were drinking together at Succoth—he commanded his followers, “Advance!” And they advanced against the city."
+    },
+    {
+      "block_id": "jsb-1-kgs-20-12-commentary-3",
+      "type": "commentary",
+      "text": "I.e., Ben-hadad.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 20,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-1-kgs-20-13",
@@ -167,6 +206,19 @@
       "text": "Now the Israelites had been mustered and provisioned, and they went out against them; but when the Israelites encamped against them, they looked like two flocks of goats, while the Arameans covered the land."
     },
     {
+      "block_id": "jsb-1-kgs-20-27-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 20,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-1-kgs-20-28",
       "type": "verse",
       "number": 28,
@@ -201,6 +253,19 @@
       "type": "verse",
       "number": 33,
       "text": "The men divined his meaning and quickly caught the word from him, saying, “Yes, Ben-hadad is your brother.” “Go, bring him,” he said. Ben-hadad came out to him, and he invited him into his chariot."
+    },
+    {
+      "block_id": "jsb-1-kgs-20-33-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 20,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-1-kgs-20-34",

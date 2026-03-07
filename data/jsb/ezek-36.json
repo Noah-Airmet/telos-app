@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-36",
   "title": "Ezekiel 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "therefore prophesy, and say: Thus said the Lord god: Just because they eagerly lusted to see you become a possession of the other nations round about, so that you have become the butt of gossip in every language and of the jibes from every people—"
+    },
+    {
+      "block_id": "jsb-ezek-36-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 36,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-36-4",
@@ -83,6 +96,19 @@
       "text": "Thus said the Lord god: Because they say to you, “You are [a land] that devours men, you have been a bereaver of your nations,”"
     },
     {
+      "block_id": "jsb-ezek-36-13-commentary-2",
+      "type": "commentary",
+      "text": "I.e., Israel and Judah; cf. 37.15–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 36,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ezek-36-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "No more will I allow the jibes of the nations to be heard against you, no longer shall you suffer the taunting of the peoples; and never again shall you cause your nations to stumble—declares the Lord god."
+    },
+    {
+      "block_id": "jsb-ezek-36-15-commentary-3",
+      "type": "commentary",
+      "text": "Many mss. read “be bereaved”; cf. vv. 13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 36,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-36-16",
@@ -123,6 +162,32 @@
       "type": "verse",
       "number": 20,
       "text": "But when they came to those nations, they caused My holy name to be profaned, in that it was said of them, “These are the people of the Lord, yet they had to leave His land.”"
+    },
+    {
+      "block_id": "jsb-ezek-36-20-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “the nations they came to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 36,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-ezek-36-20-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the exile of Israel was taken by the nations to be evidence of the Lord’s weakness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 36,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ezek-36-21",

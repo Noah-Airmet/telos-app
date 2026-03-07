@@ -1,7 +1,7 @@
 {
   "document_id": "prov-6",
   "title": "Proverbs 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "My son, if you have stood surety for your fellow, Given your hand for another,"
+    },
+    {
+      "block_id": "jsb-prov-6-1-commentary-1",
+      "type": "commentary",
+      "text": "Or “a stranger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-prov-6-2",
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "And poverty will come calling upon you, And want, like a man with a shield."
+    },
+    {
+      "block_id": "jsb-prov-6-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 6,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-prov-6-12",
@@ -147,6 +173,19 @@
       "type": "verse",
       "number": 24,
       "text": "It will keep you from an evil woman, From the smooth tongue of a forbidden woman."
+    },
+    {
+      "block_id": "jsb-prov-6-24-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “alien.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 6,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-prov-6-25",

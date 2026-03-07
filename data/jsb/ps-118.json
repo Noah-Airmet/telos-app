@@ -1,7 +1,7 @@
 {
   "document_id": "ps-118",
   "title": "Psalms 118",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "All nations have beset me; by the name of the Lord I will surely cut them down."
     },
     {
+      "block_id": "jsb-ps-118-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of ʾamilam in this and the following two verses uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ps-118-11",
       "type": "verse",
       "number": 11,
@@ -83,16 +96,55 @@
       "text": "You pressed me hard, I nearly fell; but the Lord helped me."
     },
     {
+      "block_id": "jsb-ps-118-13-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the enemy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-118-14",
       "type": "verse",
       "number": 14,
       "text": "The Lord is my strength and might; He has become my deliverance."
     },
     {
+      "block_id": "jsb-ps-118-14-commentary-3",
+      "type": "commentary",
+      "text": "Others “song.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ps-118-15",
       "type": "verse",
       "number": 15,
       "text": "The tents of the victorious resound with joyous shouts of deliverance, “The right hand of the Lord is triumphant!"
+    },
+    {
+      "block_id": "jsb-ps-118-15-commentary-4",
+      "type": "commentary",
+      "text": "Or “righteous.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ps-118-16",
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "Open the gates of victory for me that I may enter them and praise the Lord."
+    },
+    {
+      "block_id": "jsb-ps-118-19-commentary-5",
+      "type": "commentary",
+      "text": "Or “righteousness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ps-118-20",
@@ -165,6 +230,19 @@
       "type": "verse",
       "number": 27,
       "text": "The Lord is God; He has given us light; bind the festal offering to the horns of the altar with cords."
+    },
+    {
+      "block_id": "jsb-ps-118-27-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 118,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-ps-118-28",

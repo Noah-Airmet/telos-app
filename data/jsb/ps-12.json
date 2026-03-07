@@ -1,7 +1,7 @@
 {
   "document_id": "ps-12",
   "title": "Psalms 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "“Because of the groans of the plundered poor and needy, I will now act,” says the Lord. “I will give help,” He affirms to him."
+    },
+    {
+      "block_id": "jsb-ps-12-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 12,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-12-7",

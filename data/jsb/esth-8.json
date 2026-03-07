@@ -1,7 +1,7 @@
 {
   "document_id": "esth-8",
   "title": "Esther 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -63,6 +63,19 @@
       "type": "verse",
       "number": 10,
       "text": "He had them written in the name of King Ahasuerus and sealed with the king’s signet. Letters were dispatched by mounted couriers, riding steeds used in the king’s service, bred of the royal stud,"
+    },
+    {
+      "block_id": "jsb-esth-8-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-esth-8-11",

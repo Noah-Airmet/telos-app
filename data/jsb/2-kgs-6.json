@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-6",
   "title": "2 Kings 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "While the king of Aram was waging war against Israel, he took counsel with his officers and said, “I will encamp in such and such a place.”"
     },
     {
+      "block_id": "jsb-2-kgs-6-8-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-2-kgs-6-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +76,32 @@
       "type": "verse",
       "number": 10,
       "text": "So the king of Israel sent word to the place of which the man of God had told him. Time and again he alerted such a place and took precautions there."
+    },
+    {
+      "block_id": "jsb-2-kgs-6-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “not once or twice.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-2-kgs-6-10-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-2-kgs-6-11",
@@ -155,6 +194,19 @@
       "text": "There was a great famine in Samaria, and the siege continued until a donkey’s head sold for eighty [shekels] of silver and a quarter of a kab of doves’ dung for five shekels."
     },
     {
+      "block_id": "jsb-2-kgs-6-25-commentary-4",
+      "type": "commentary",
+      "text": "Apparently a popular term for “carob pods,” as in Akkadian.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-2-kgs-6-26",
       "type": "verse",
       "number": 26,
@@ -191,6 +243,19 @@
       "text": "He said, “Thus and more may God do to me if the head of Elisha son of Shaphat remains on his shoulders today.”"
     },
     {
+      "block_id": "jsb-2-kgs-6-31-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-2-kgs-6-32",
       "type": "verse",
       "number": 32,
@@ -201,6 +266,19 @@
       "type": "verse",
       "number": 33,
       "text": "While he was still talking to them, the messenger came to him and said, “This calamity is from the Lord."
+    },
+    {
+      "block_id": "jsb-2-kgs-6-33-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “king.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 6,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     }
   ]
 }

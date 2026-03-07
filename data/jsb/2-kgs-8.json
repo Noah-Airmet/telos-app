@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-8",
   "title": "2 Kings 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Elisha had said to the woman whose son he revived, “Leave immediately with your family and go sojourn somewhere else; for the Lord has decreed a seven-year famine upon the land, and it has already begun.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “wherever you may sojourn.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-kgs-8-2",
@@ -47,6 +60,19 @@
       "text": "Elisha arrived in Damascus at a time when King Ben-hadad of Aram was ill. The king was told, “The man of God is on his way here,”"
     },
     {
+      "block_id": "jsb-2-kgs-8-7-commentary-2",
+      "type": "commentary",
+      "text": "Brought up from v. 8 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 8,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-2-kgs-8-8",
       "type": "verse",
       "number": 8,
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "The man of God kept his face expressionless for a long time; and then he wept."
+    },
+    {
+      "block_id": "jsb-2-kgs-8-11-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 8,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-kgs-8-12",
@@ -101,6 +140,19 @@
       "text": "In the fifth year of King Joram son of Ahab of Israel—Jehoshaphat had been king of Judah—Joram son of King Jehoshaphat of Judah became king."
     },
     {
+      "block_id": "jsb-2-kgs-8-16-commentary-4",
+      "type": "commentary",
+      "text": "Throughout this chapter, the name Joram is sometimes written Jehoram.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 8,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-2-kgs-8-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +163,19 @@
       "type": "verse",
       "number": 18,
       "text": "He followed the practices of the kings of Israel—whatever the House of Ahab did, for he had married a daughter of Ahab—and he did what was displeasing to the Lord."
+    },
+    {
+      "block_id": "jsb-2-kgs-8-18-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “sister”; cf. v. 26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 8,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-kgs-8-19",

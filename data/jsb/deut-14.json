@@ -1,7 +1,7 @@
 {
   "document_id": "deut-14",
   "title": "Deuteronomy 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope, the mountain sheep,"
+    },
+    {
+      "block_id": "jsb-deut-14-5-commentary-1",
+      "type": "commentary",
+      "text": "A number of these creatures cannot be identified with certainty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 14,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-deut-14-6",
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "The following you may not eat: the eagle, the vulture, and the black vulture;"
+    },
+    {
+      "block_id": "jsb-deut-14-12-commentary-2",
+      "type": "commentary",
+      "text": "A number of these creatures cannot be identified with certainty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 14,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-deut-14-13",
@@ -149,6 +175,19 @@
       "text": "Should the distance be too great for you, should you be unable to transport them, because the place where the Lord your God has chosen to establish His name is far from you and because the Lord your God has blessed you,"
     },
     {
+      "block_id": "jsb-deut-14-24-commentary-3",
+      "type": "commentary",
+      "text": "I.e., with abundant crops.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 14,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-deut-14-25",
       "type": "verse",
       "number": 25,
@@ -171,6 +210,19 @@
       "type": "verse",
       "number": 28,
       "text": "Every third year you shall bring out the full tithe of your yield of that year, but leave it within your settlements."
+    },
+    {
+      "block_id": "jsb-deut-14-28-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “After a period of three years”; cf. Deut. 26.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 14,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-14-29",

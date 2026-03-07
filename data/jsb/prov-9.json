@@ -1,7 +1,7 @@
 {
   "document_id": "prov-9",
   "title": "Proverbs 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "To correct a scoffer, Or rebuke a wicked man for his blemish, Is to call down abuse on oneself."
+    },
+    {
+      "block_id": "jsb-prov-9-7-commentary-1",
+      "type": "commentary",
+      "text": "Clauses transposed for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-prov-9-8",

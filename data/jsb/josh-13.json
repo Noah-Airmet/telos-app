@@ -1,7 +1,7 @@
 {
   "document_id": "josh-13",
   "title": "Joshua 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,45 @@
       "text": "with all the inhabitants of the hill country from the [Valley of the] Lebanon to Misrephoth-maim, namely, all the Sidonians. I Myself will dispossess those nations for the Israelites; you have only to apportion their lands by lot among Israel, as I have commanded you."
     },
     {
+      "block_id": "jsb-josh-13-6-commentary-1",
+      "type": "commentary",
+      "text": "See note on 11.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-josh-13-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-josh-13-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-josh-13-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +90,19 @@
       "type": "verse",
       "number": 8,
       "text": "Now the Reubenites and the Gadites, along with the other half-tribe, had already received the shares which Moses assigned to them on the east side of the Jordan—as assigned to them by Moses the servant of the Lord:"
+    },
+    {
+      "block_id": "jsb-josh-13-8-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-josh-13-9",
@@ -89,6 +141,19 @@
       "text": "No hereditary portion, however, was assigned to the tribe of Levi, their portion being the fire offerings of the Lord, the God of Israel, as He spoke concerning them."
     },
     {
+      "block_id": "jsb-josh-13-14-commentary-5",
+      "type": "commentary",
+      "text": "See Deut. 18.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-josh-13-15",
       "type": "verse",
       "number": 15,
@@ -117,6 +182,19 @@
       "type": "verse",
       "number": 19,
       "text": "Kiriathaim, Sibmah, and Zereth-shahar in the hill of the valley,"
+    },
+    {
+      "block_id": "jsb-josh-13-19-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “in the hill country; and in the Valley…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-josh-13-20",
@@ -161,6 +239,19 @@
       "text": "and from Heshbon to Ramath-mizpeh and Betonim, and from Mahanaim to the border of Lidbir;"
     },
     {
+      "block_id": "jsb-josh-13-26-commentary-7",
+      "type": "commentary",
+      "text": "Change of vocalization yields “Lo-debar”; cf. 2 Sam. 9.4, 5; 17.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-josh-13-27",
       "type": "verse",
       "number": 27,
@@ -185,6 +276,32 @@
       "text": "and became their territory: Mahanaim, all of Bashan, the entire kingdom of Og, king of Bashan, and all of Havvoth-jair in Bashan, sixty towns;"
     },
     {
+      "block_id": "jsb-josh-13-30-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “from Mahanaim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "jsb-josh-13-30-commentary-9",
+      "type": "commentary",
+      "text": "See note on Num. 32.41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-josh-13-31",
       "type": "verse",
       "number": 31,
@@ -201,6 +318,19 @@
       "type": "verse",
       "number": 33,
       "text": "But no portion was assigned by Moses to the tribe of Levi; the Lord, the God of Israel, is their portion, as He spoke concerning them."
+    },
+    {
+      "block_id": "jsb-josh-13-33-commentary-10",
+      "type": "commentary",
+      "text": "See Deut. 18.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     }
   ]
 }

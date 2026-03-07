@@ -1,7 +1,7 @@
 {
   "document_id": "job-24",
   "title": "Job 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Why are times for judgment not reserved by Shaddai? Even those close to Him cannot foresee His actions."
+    },
+    {
+      "block_id": "jsb-job-24-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “days.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 24,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-job-24-2",
@@ -59,6 +72,19 @@
       "text": "They snatch the fatherless infant from the breast, And seize the child of the poor as a pledge."
     },
     {
+      "block_id": "jsb-job-24-9-commentary-2",
+      "type": "commentary",
+      "text": "This verse belongs to the description of the wicked in vv. 2–4a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 24,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-job-24-10",
       "type": "verse",
       "number": 10,
@@ -89,6 +115,19 @@
       "text": "The murderer arises in the evening To kill the poor and needy, And at night he acts the thief."
     },
     {
+      "block_id": "jsb-job-24-14-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Mishnaic Heb. ʿor, Aramaic ʿorta, “evening”; others “with the light.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 24,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-job-24-15",
       "type": "verse",
       "number": 15,
@@ -111,6 +150,19 @@
       "type": "verse",
       "number": 18,
       "text": "May they be flotsam on the face of the water; May their portion in the land be cursed; May none turn aside by way of their vineyards."
+    },
+    {
+      "block_id": "jsb-job-24-18-commentary-4",
+      "type": "commentary",
+      "text": "From here to the end of the chapter the translation is largely conjectural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 24,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-job-24-19",

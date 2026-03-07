@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-4",
   "title": "2 Samuel 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When [Ish-bosheth] son of Saul heard that Abner had died in Hebron, he lost heart and all Israel was alarmed."
+    },
+    {
+      "block_id": "jsb-2-sam-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “his hands weakened”; and so frequently.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-4-2",
@@ -23,10 +36,36 @@
       "text": "The Beerothites had fled to Gittaim, where they have sojourned to this day. ("
     },
     {
+      "block_id": "jsb-2-sam-4-3-commentary-2",
+      "type": "commentary",
+      "text": "Gittaim was likewise in Benjamin; cf. Neh. 11.31 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-2-sam-4-4",
       "type": "verse",
       "number": 4,
       "text": "Jonathan son of Saul had a son whose feet were crippled. He was five years old when the news about Saul and Jonathan came from Jezreel, and his nurse picked him up and fled; but as she was fleeing in haste, he fell and was lamed. His name was Mephibosheth.)"
+    },
+    {
+      "block_id": "jsb-2-sam-4-4-commentary-3",
+      "type": "commentary",
+      "text": "The original form of the name, Merib-baal, is preserved in 1 Chron. 8.34; 9.40. Cf. Ish-bosheth (Eshbaal) in 2 Sam. 2.8, note a. This subject is resumed in chapter 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 4,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-sam-4-5",
@@ -39,6 +78,19 @@
       "type": "verse",
       "number": 6,
       "text": "So they went inside the house, as though fetching wheat, and struck him in the belly. Rechab and his brother Baanah slipped by,"
+    },
+    {
+      "block_id": "jsb-2-sam-4-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads, “And behold, the woman who kept the door of the house was cleaning wheat. She became drowsy and fell asleep.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-2-sam-4-7",

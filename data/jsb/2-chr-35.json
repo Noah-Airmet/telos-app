@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-35",
   "title": "2 Chronicles 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Josiah kept the Passover for the Lord in Jerusalem; the passover sacrifice was slaughtered on the fourteenth day of the first month."
+    },
+    {
+      "block_id": "jsb-2-chr-35-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 23.21–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 35,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-35-2",
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "But Josiah would not let him alone; instead, he donned [his armor] to fight him, heedless of Necho’s words from the mouth of God; and he came to fight in the plain of Megiddo."
+    },
+    {
+      "block_id": "jsb-2-chr-35-22-commentary-2",
+      "type": "commentary",
+      "text": "With Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 35,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-2-chr-35-23",

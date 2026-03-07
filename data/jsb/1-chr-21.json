@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-21",
   "title": "1 Chronicles 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Satan arose against Israel and incited David to number Israel."
+    },
+    {
+      "block_id": "jsb-1-chr-21-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–26, cf. 2 Sam. 24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 21,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-21-2",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-48",
   "title": "Psalms 48",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "fair-crested, joy of all the earth, Mount Zion, summit of Zaphon, city of the great king."
+    },
+    {
+      "block_id": "jsb-ps-48-3-commentary-1",
+      "type": "commentary",
+      "text": "A term for the divine abode.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 48,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-48-4",
@@ -53,6 +66,19 @@
       "text": "as the Tarshish fleet was wrecked in an easterly gale."
     },
     {
+      "block_id": "jsb-ps-48-8-commentary-2",
+      "type": "commentary",
+      "text": "See 1 Kings 22.49.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 48,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-48-9",
       "type": "verse",
       "number": 9,
@@ -77,6 +103,19 @@
       "text": "Let Mount Zion rejoice! Let the towns of Judah exult, because of Your judgments."
     },
     {
+      "block_id": "jsb-ps-48-12-commentary-3",
+      "type": "commentary",
+      "text": "Or “women.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 48,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ps-48-13",
       "type": "verse",
       "number": 13,
@@ -89,10 +128,36 @@
       "text": "take note of its ramparts; go through its citadels, that you may recount it to a future age."
     },
     {
+      "block_id": "jsb-ps-48-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 48,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ps-48-15",
       "type": "verse",
       "number": 15,
       "text": "For God—He is our God forever; He will lead us evermore."
+    },
+    {
+      "block_id": "jsb-ps-48-15-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 48,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     }
   ]
 }

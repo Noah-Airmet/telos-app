@@ -1,7 +1,7 @@
 {
   "document_id": "ps-32",
   "title": "Psalms 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "Therefore let every faithful man pray to You upon discovering [his sin], that the rushing mighty waters not overtake him."
     },
     {
+      "block_id": "jsb-ps-32-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “in a time when You may be found.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 32,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-32-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,32 @@
       "type": "verse",
       "number": 9,
       "text": "Be not like a senseless horse or mule whose movement must be curbed by bit and bridle; far be it from you!"
+    },
+    {
+      "block_id": "jsb-ps-32-9-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 32,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-ps-32-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; for this rendering cf. Ibn Ezra.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 32,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ps-32-10",

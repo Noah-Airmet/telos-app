@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-18",
   "title": "2 Kings 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years; his mother’s name was Abi daughter of Zechariah."
+    },
+    {
+      "block_id": "jsb-2-kgs-18-2-commentary-1",
+      "type": "commentary",
+      "text": "2 Chron. 29.1 reads “Abijah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-kgs-18-3",
@@ -65,10 +78,36 @@
       "text": "and he captured it at the end of three years. In the sixth year of Hezekiah, which was the ninth year of King Hoshea of Israel, Samaria was captured;"
     },
     {
+      "block_id": "jsb-2-kgs-18-10-commentary-2",
+      "type": "commentary",
+      "text": "So some mss. and ancient versions; most mss. and editions read “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-kgs-18-11",
       "type": "verse",
       "number": 11,
       "text": "and the king of Assyria deported the Israelites to Assyria. He settled them in Halah, along the Habor [and] the River Gozan, and in the towns of Media."
+    },
+    {
+      "block_id": "jsb-2-kgs-18-11-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “led them to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-kgs-18-12",
@@ -101,10 +140,36 @@
       "text": "At that time Hezekiah cut down the doors and the doorposts of the Temple of the Lord, which King Hezekiah had overlaid [with gold], and gave them to the king of Assyria."
     },
     {
+      "block_id": "jsb-2-kgs-18-16-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-2-kgs-18-17",
       "type": "verse",
       "number": 17,
       "text": "But the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh from Lachish with a large force to King Hezekiah in Jerusalem. They marched up to Jerusalem; and when they arrived, they took up a position near the conduit of the Upper Pool, by the road of the Fuller’s Field."
+    },
+    {
+      "block_id": "jsb-2-kgs-18-17-commentary-5",
+      "type": "commentary",
+      "text": "Assyrian titles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-2-kgs-18-18",
@@ -179,6 +244,19 @@
       "text": "Thus said the king: Don’t let Hezekiah deceive you, for he will not be able to deliver you from my hands."
     },
     {
+      "block_id": "jsb-2-kgs-18-29-commentary-6",
+      "type": "commentary",
+      "text": "So several mss. and ancient versions; most mss. and editions read “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-2-kgs-18-30",
       "type": "verse",
       "number": 30,
@@ -189,6 +267,19 @@
       "type": "verse",
       "number": 31,
       "text": "Don’t listen to Hezekiah. For thus said the king of Assyria: Make your peace with me and come out to me, so that you may all eat from your vines and your fig trees and drink water from your cisterns,"
+    },
+    {
+      "block_id": "jsb-2-kgs-18-31-commentary-7",
+      "type": "commentary",
+      "text": "I.e., to my representative the Rabshakeh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-2-kgs-18-32",
@@ -207,6 +298,19 @@
       "type": "verse",
       "number": 34,
       "text": "Where were the gods of Hamath and Arpad? Where were the gods of Sepharvaim, Hena, and Ivvah? [And] did they save Samaria from me?"
+    },
+    {
+      "block_id": "jsb-2-kgs-18-34-commentary-8",
+      "type": "commentary",
+      "text": "I.e., the gods of Samaria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 18,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-2-kgs-18-35",

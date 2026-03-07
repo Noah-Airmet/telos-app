@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-8",
   "title": "2 Chronicles 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "At the end of twenty years, during which Solomon constructed the House of the Lord and his palace—"
     },
     {
+      "block_id": "jsb-2-chr-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 9.10–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-2-chr-8-2",
       "type": "verse",
       "number": 2,
       "text": "Solomon also rebuilt the cities that Huram had given to him, and settled Israelites in them—"
+    },
+    {
+      "block_id": "jsb-2-chr-8-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “Solomon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-chr-8-3",

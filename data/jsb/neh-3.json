@@ -1,7 +1,7 @@
 {
   "document_id": "neh-3",
   "title": "Nehemiah 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Next to him, the men of Jericho built. Next to them, Zaccur son of Imri."
     },
     {
+      "block_id": "jsb-neh-3-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-neh-3-3",
       "type": "verse",
       "number": 3,
@@ -29,10 +42,36 @@
       "text": "Next to them, Meremoth son of Uriah son of Hakkoz repaired; and next to him, Meshullam son of Berechiah son of Meshezabel. Next to him, Zadok son of Baana repaired."
     },
     {
+      "block_id": "jsb-neh-3-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-neh-3-5",
       "type": "verse",
       "number": 5,
       "text": "Next to him, the Tekoites repaired, though their nobles would not take upon their shoulders the work of their lord."
+    },
+    {
+      "block_id": "jsb-neh-3-5-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “bring their neck into.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-neh-3-6",
@@ -47,10 +86,36 @@
       "text": "Next to them, Melatiah the Gibeonite and Jadon the Meronothite repaired, [with] the men of Gibeon and Mizpah, under the jurisdiction of the governor of the province of Beyond the River."
     },
     {
+      "block_id": "jsb-neh-3-7-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “of the throne”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-neh-3-8",
       "type": "verse",
       "number": 8,
       "text": "Next to them, Uzziel son of Harhaiah, [of the] smiths, repaired. Next to him, Hananiah, of the perfumers. They restored Jerusalem as far as the Broad Wall."
+    },
+    {
+      "block_id": "jsb-neh-3-8-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “son of,” i.e., member of the guild of.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-neh-3-9",
@@ -77,6 +142,19 @@
       "text": "Next to them, Shallum son of Hallohesh, chief of half the district of Jerusalem, repaired—he and his daughters."
     },
     {
+      "block_id": "jsb-neh-3-12-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the charmer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-neh-3-13",
       "type": "verse",
       "number": 13,
@@ -93,6 +171,19 @@
       "type": "verse",
       "number": 15,
       "text": "Shallun son of Col-hozeh, chief of the district of Mizpah, repaired the Fountain Gate; he rebuilt it and covered it, and set up its doors, locks, and bars, as well as the wall of the irrigation pool of the King’s Garden as far as the steps going down from the City of David."
+    },
+    {
+      "block_id": "jsb-neh-3-15-commentary-7",
+      "type": "commentary",
+      "text": "Following Kimhi; cf. Mishnaic Heb. bet hashelaḥin, irrigated field.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-neh-3-16",
@@ -141,6 +232,19 @@
       "type": "verse",
       "number": 23,
       "text": "After them, Benjamin and Hasshub repaired in front of their houses. After them, Azariah son of Maaseiah son of Ananiah repaired beside his house."
+    },
+    {
+      "block_id": "jsb-neh-3-23-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 3,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-neh-3-24",

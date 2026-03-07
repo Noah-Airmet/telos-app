@@ -1,7 +1,7 @@
 {
   "document_id": "deut-29",
   "title": "Deuteronomy 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -81,6 +81,19 @@
       "text": "to enter into the covenant of the Lord your God, which the Lord your God is concluding with you this day, with its sanctions;"
     },
     {
+      "block_id": "jsb-deut-29-11-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the curses that violations of the covenant will entail.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 29,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-deut-29-12",
       "type": "verse",
       "number": 12,
@@ -123,6 +136,19 @@
       "text": "When such a one hears the words of these sanctions, he may fancy himself immune, thinking, “I shall be safe, though I follow my own willful heart”—to the utter ruin of moist and dry alike."
     },
     {
+      "block_id": "jsb-deut-29-18-commentary-2",
+      "type": "commentary",
+      "text": "I.e., everything.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 29,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-deut-29-19",
       "type": "verse",
       "number": 19,
@@ -133,6 +159,19 @@
       "type": "verse",
       "number": 20,
       "text": "The Lord will single them out from all the tribes of Israel for misfortune, in accordance with all the sanctions of the covenant recorded in this book of Teaching."
+    },
+    {
+      "block_id": "jsb-deut-29-20-commentary-3",
+      "type": "commentary",
+      "text": "I.e., clan or tribe, v. 17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 29,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-deut-29-21",
@@ -163,6 +202,32 @@
       "type": "verse",
       "number": 25,
       "text": "they turned to the service of other gods and worshiped them, gods whom they had not experienced and whom He had not allotted to them."
+    },
+    {
+      "block_id": "jsb-deut-29-25-commentary-4",
+      "type": "commentary",
+      "text": "See note at 11.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 29,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "jsb-deut-29-25-commentary-5",
+      "type": "commentary",
+      "text": "See 4.19–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 29,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-deut-29-26",

@@ -1,7 +1,7 @@
 {
   "document_id": "num-30",
   "title": "Numbers 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,32 @@
       "text": "If a man makes a vow to the Lord or takes an oath imposing an obligation on himself, he shall not break his pledge; he must carry out all that has crossed his lips."
     },
     {
+      "block_id": "jsb-num-30-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “a prohibition.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 30,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-num-30-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “come out of his mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 30,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-num-30-4",
       "type": "verse",
       "number": 4,
@@ -55,6 +81,19 @@
       "type": "verse",
       "number": 7,
       "text": "If she should marry while her vow or the commitment to which she bound herself is still in force,"
+    },
+    {
+      "block_id": "jsb-num-30-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “utterance of her lips.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 30,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-num-30-8",

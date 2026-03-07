@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-9",
   "title": "Ecclesiastes 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,88 @@
       "text": "For all this I noted, and I ascertained all this: that the actions of even the righteous and the wise are determined by God. Even love! Even hate! Man knows none of these in advance—"
     },
     {
+      "block_id": "jsb-eccl-9-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of verb uncertain; construction as in Hos. 12.3; Ezra 3.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-eccl-9-1-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Even love, even hate, no man can know in advance. All 2are insignificant.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-eccl-9-2",
       "type": "verse",
       "number": 2,
       "text": "none! For the same fate is in store for all: for the righteous, and for the wicked; for the good and pure, and for the impure; for him who sacrifices, and for him who does not; for him who is pleasing, and for him who is displeasing; and for him who swears, and for him who shuns oaths."
+    },
+    {
+      "block_id": "jsb-eccl-9-2-commentary-3",
+      "type": "commentary",
+      "text": "I.e., those who observe the laws of ritual purity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-eccl-9-2-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 4.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-eccl-9-2-commentary-5",
+      "type": "commentary",
+      "text": "I.e., to God; cf. 2.26; 7.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-eccl-9-2-commentary-6",
+      "type": "commentary",
+      "text": "Cf. 8.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-eccl-9-3",
@@ -29,10 +107,36 @@
       "text": "For he who is reckoned among the living has something to look forward to—even a live dog is better than a dead lion—"
     },
     {
+      "block_id": "jsb-eccl-9-4-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “joined to all.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-eccl-9-5",
       "type": "verse",
       "number": 5,
       "text": "since the living know they will die. But the dead know nothing; they have no more recompense, for even the memory of them has died."
+    },
+    {
+      "block_id": "jsb-eccl-9-5-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “hope.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-eccl-9-6",
@@ -45,6 +149,19 @@
       "type": "verse",
       "number": 7,
       "text": "Go, eat your bread in gladness, and drink your wine in joy; for your action was long ago approved by God."
+    },
+    {
+      "block_id": "jsb-eccl-9-7-commentary-9",
+      "type": "commentary",
+      "text": "Cf. 2.24–25; 3.13; 5.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-eccl-9-8",
@@ -71,6 +188,32 @@
       "text": "I have further observed under the sun that The race is not won by the swift, Nor the battle by the valiant; Nor is bread won by the wise, Nor wealth by the intelligent, Nor favor by the learned. For the time of mischance comes to all."
     },
     {
+      "block_id": "jsb-eccl-9-11-commentary-10",
+      "type": "commentary",
+      "text": "Euphemism for death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-eccl-9-11-commentary-11",
+      "type": "commentary",
+      "text": "I.e., the insignificant duration of life renders all successes illusory; cf. 4.15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-eccl-9-12",
       "type": "verse",
       "number": 12,
@@ -95,6 +238,19 @@
       "text": "Present in the city was a poor wise man who might have saved it with his wisdom, but nobody thought of that poor man."
     },
     {
+      "block_id": "jsb-eccl-9-15-commentary-12",
+      "type": "commentary",
+      "text": "Others “who saved.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-eccl-9-16",
       "type": "verse",
       "number": 16,
@@ -107,10 +263,49 @@
       "text": "Words spoken softly by wise men are heeded sooner than those shouted by a lord in folly."
     },
     {
+      "block_id": "jsb-eccl-9-17-commentary-13",
+      "type": "commentary",
+      "text": "Verses 9.17–10.19 constitute a group of loosely connected aphorisms.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-eccl-9-17-commentary-14",
+      "type": "commentary",
+      "text": "Lit. “than the scream of a lord in [the manner of] the fools.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-eccl-9-18",
       "type": "verse",
       "number": 18,
       "text": "Wisdom is more valuable than weapons of war, but a single error destroys much of value."
+    },
+    {
+      "block_id": "jsb-eccl-9-18-commentary-15",
+      "type": "commentary",
+      "text": "Emendation yields “everything precious.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 9,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     }
   ]
 }

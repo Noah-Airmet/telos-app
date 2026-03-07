@@ -1,7 +1,7 @@
 {
   "document_id": "ps-55",
   "title": "Psalms 55",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -119,6 +119,19 @@
       "text": "He redeems me unharmed from the battle against me; it is as though many are on my side."
     },
     {
+      "block_id": "jsb-ps-55-19-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 55,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-ps-55-20",
       "type": "verse",
       "number": 20,
@@ -129,6 +142,19 @@
       "type": "verse",
       "number": 21,
       "text": "He harmed his ally, he broke his pact;"
+    },
+    {
+      "block_id": "jsb-ps-55-21-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the friend of v. 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 55,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ps-55-22",

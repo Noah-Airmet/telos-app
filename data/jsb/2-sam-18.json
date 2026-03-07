@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-18",
   "title": "2 Samuel 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "David sent out the troops, one-third under the command of Joab, one-third under the command of Joab’s brother Abishai son of Zeruiah, and one-third under the command of Ittai the Gittite. And David said to the troops, “I myself will march out with you.”"
     },
     {
+      "block_id": "jsb-2-sam-18-2-commentary-1",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “divided the troops into three.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-2-sam-18-3",
       "type": "verse",
       "number": 3,
       "text": "But the troops replied, “No! For if some of us flee, the rest will not be concerned about us; even if half of us should die, the others will not be concerned about us. But you are worth ten thousand of us. Therefore, it is better for you to support us from the town.”"
+    },
+    {
+      "block_id": "jsb-2-sam-18-3-commentary-2",
+      "type": "commentary",
+      "text": "So two Heb. mss., Septuagint, and Vulgate; cf. cf. 1 Kings 1.18 and note. Most mss. and the editions read “Now there are ten thousand like us.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-18-4",
@@ -41,6 +67,32 @@
       "text": "The troops marched out into the open to confront the Israelites, and the battle was fought in the forest of Ephraim."
     },
     {
+      "block_id": "jsb-2-sam-18-6-commentary-3",
+      "type": "commentary",
+      "text": "The usual term in this narrative for the supporters of Absalom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-2-sam-18-6-commentary-4",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “Mahanaim”; cf. 17.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-2-sam-18-7",
       "type": "verse",
       "number": 7,
@@ -59,6 +111,19 @@
       "text": "Absalom encountered some of David’s followers. Absalom was riding on a mule, and as the mule passed under the tangled branches of a great terebinth, his hair got caught in the terebinth; he was held between heaven and earth as the mule under him kept going."
     },
     {
+      "block_id": "jsb-2-sam-18-9-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Ancient versions and 4QSama read “was left hanging”; cf. v. 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-sam-18-10",
       "type": "verse",
       "number": 10,
@@ -71,10 +136,49 @@
       "text": "Joab said to the man who told him, “You saw it! Why didn’t you kill him then and there? I would have owed you ten shekels of silver and a belt.”"
     },
     {
+      "block_id": "jsb-2-sam-18-11-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “to the ground.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-2-sam-18-11-commentary-7",
+      "type": "commentary",
+      "text": "Some Septuagint mss. and 4QSama read “fifty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-sam-18-12",
       "type": "verse",
       "number": 12,
       "text": "But the man answered Joab, “Even if I had a thousand shekels of silver in my hands, I would not raise a hand against the king’s son. For the king charged you and Abishai and Ittai in our hearing, ‘Watch over my boy Absalom, for my sake.’"
+    },
+    {
+      "block_id": "jsb-2-sam-18-12-commentary-8",
+      "type": "commentary",
+      "text": "So some Heb. mss. and ancient versions. Most mss. and editions read “who”—perhaps meaning “whoever you are.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-2-sam-18-13",
@@ -83,10 +187,36 @@
       "text": "If I betrayed myself—and nothing is hidden from the king—you would have stood aloof.”"
     },
     {
+      "block_id": "jsb-2-sam-18-13-commentary-9",
+      "type": "commentary",
+      "text": "I.e., by killing Absalom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-2-sam-18-14",
       "type": "verse",
       "number": 14,
       "text": "Joab replied, “Then I will not wait for you.” He took three darts in his hand and drove them into Absalom’s chest. [Absalom] was still alive in the thick growth of the terebinth,"
+    },
+    {
+      "block_id": "jsb-2-sam-18-14-commentary-10",
+      "type": "commentary",
+      "text": "Some Septuagint mss. and Targum read “Therefore, I will begin before you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-sam-18-15",
@@ -137,6 +267,19 @@
       "text": "But Ahimaaz son of Zadok again said to Joab, “No matter what, let me run, too, behind the Cushite.” Joab asked, “Why should you run, my boy, when you have no news worth telling?”"
     },
     {
+      "block_id": "jsb-2-sam-18-22-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-2-sam-18-23",
       "type": "verse",
       "number": 23,
@@ -147,6 +290,19 @@
       "type": "verse",
       "number": 24,
       "text": "David was sitting between the two gates. The watchman on the roof of the gate walked over to the city wall. He looked up and saw a man running alone."
+    },
+    {
+      "block_id": "jsb-2-sam-18-24-commentary-12",
+      "type": "commentary",
+      "text": "I.e., the inner and outer gateways.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 18,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-2-sam-18-25",

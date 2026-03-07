@@ -1,7 +1,7 @@
 {
   "document_id": "jer-26",
   "title": "Jeremiah 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "then I will make this House like Shiloh, and I will make this city a curse for all the nations of earth.”"
     },
     {
+      "block_id": "jsb-jer-26-6-commentary-1",
+      "type": "commentary",
+      "text": "Cf. note at 24.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 26,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-jer-26-7",
       "type": "verse",
       "number": 7,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "When the officials of Judah heard about this, they went up from the king’s palace to the House of the Lord and held a session at the entrance of the New Gate of the House of the Lord."
+    },
+    {
+      "block_id": "jsb-jer-26-10-commentary-2",
+      "type": "commentary",
+      "text": "So many mss. and ancient versions; other mss. and the editions omit these words.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 26,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-26-11",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "“Micah the Morashtite, who prophesied in the days of King Hezekiah of Judah, said to all the people of Judah: ‘Thus said the Lord of Hosts: Zion shall be plowed as a field, Jerusalem shall become heaps of ruins And the Temple Mount a shrine in the woods.’"
+    },
+    {
+      "block_id": "jsb-jer-26-18-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Mic. 3.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 26,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-26-19",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-36",
   "title": "Psalms 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "I know what Transgression says to the wicked; he has no sense of the dread of God,"
     },
     {
+      "block_id": "jsb-ps-36-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “In my heart is.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 36,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-36-3",
       "type": "verse",
       "number": 3,
       "text": "because its speech is seductive to him till his iniquity be found out and he be hated."
+    },
+    {
+      "block_id": "jsb-ps-36-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 36,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-36-4",

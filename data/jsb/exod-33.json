@@ -1,7 +1,7 @@
 {
   "document_id": "exod-33",
   "title": "Exodus 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "And He said, “I will go in the lead and will lighten your burden.”"
     },
     {
+      "block_id": "jsb-exod-33-14-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “My face will go and I will.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 33,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-exod-33-15",
       "type": "verse",
       "number": 15,
@@ -117,6 +130,19 @@
       "type": "verse",
       "number": 19,
       "text": "And He answered, “I will make all My goodness pass before you, and I will proclaim before you the name Lord, and the grace that I grant and the compassion that I show."
+    },
+    {
+      "block_id": "jsb-exod-33-19-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “and I will grant the grace that I will grant and show the compassion that I will show.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 33,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-33-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-18",
   "title": "1 Samuel 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,32 @@
       "text": "When the [troops] came home [and] David returned from killing the Philistine, the women of all the towns of Israel came out singing and dancing to greet King Saul with timbrels, shouting, and sistrums."
     },
     {
+      "block_id": "jsb-1-sam-18-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “the dancing women came out to meet David from all the towns of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-1-sam-18-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-sam-18-7",
       "type": "verse",
       "number": 7,
@@ -71,6 +97,19 @@
       "text": "and Saul threw the spear, thinking to pin David to the wall. But David eluded him twice."
     },
     {
+      "block_id": "jsb-1-sam-18-11-commentary-3",
+      "type": "commentary",
+      "text": "Change of vocalization yields “raised.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-sam-18-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +120,19 @@
       "type": "verse",
       "number": 13,
       "text": "So Saul removed him from his presence and appointed him chief of a thousand, to march at the head of the troops."
+    },
+    {
+      "block_id": "jsb-1-sam-18-13-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “and he went out and came in before the troops.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-1-sam-18-14",
@@ -113,6 +165,19 @@
       "text": "David replied to Saul, “Who am I and what is my life—my father’s family in Israel—that I should become Your Majesty’s son-in-law?”"
     },
     {
+      "block_id": "jsb-1-sam-18-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Change of vocalization yields “who are my kin.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-sam-18-19",
       "type": "verse",
       "number": 19,
@@ -129,6 +194,19 @@
       "type": "verse",
       "number": 21,
       "text": "Saul thought: “I will give her to him, and she can serve as a snare for him, so that the Philistines may kill him.” So Saul said to David, “You can become my son-in-law even now through the second one.”"
+    },
+    {
+      "block_id": "jsb-1-sam-18-21-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-1-sam-18-22",
@@ -167,10 +245,36 @@
       "text": "David went out with his men and killed two hundred Philistines; David brought their foreskins and they were counted out for the king, that he might become the king’s son-in-law. Saul then gave him his daughter Michal in marriage."
     },
     {
+      "block_id": "jsb-1-sam-18-27-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint reads “one hundred” and cf. 2 Sam. 3.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-1-sam-18-28",
       "type": "verse",
       "number": 28,
       "text": "When Saul realized that the Lord was with David and that Michal daughter of Saul loved him,"
+    },
+    {
+      "block_id": "jsb-1-sam-18-28-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint reads “and that all Israel loved him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 18,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-1-sam-18-29",

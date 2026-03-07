@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-19",
   "title": "2 Kings 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "They said to him, “Thus said Hezekiah: This day is a day of distress, of chastisement, and of disgrace. The babes have reached the birthstool, but the strength to give birth is lacking."
+    },
+    {
+      "block_id": "jsb-2-kgs-19-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the situation is desperate and we are at a loss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-kgs-19-4",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "I will delude him; he will hear a rumor and return to his land, and I will make him fall by the sword in his land.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-19-7-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “put a spirit in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-2-kgs-19-8",
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "Were the nations that my predecessors destroyed—Gozan, Haran, Rezeph, and the Beth-edenites in Telassar—saved by their gods?"
+    },
+    {
+      "block_id": "jsb-2-kgs-19-12-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “fathers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-2-kgs-19-13",
@@ -143,10 +182,49 @@
       "text": "Through your envoys you have blasphemed my Lord. Because you thought, ‘Thanks to my vast chariotry, It is I who have climbed the highest mountains, To the remotest parts of the Lebanon, And have cut down its loftiest cedars, Its choicest cypresses, And have reached its remotest lodge, Its densest forest."
     },
     {
+      "block_id": "jsb-2-kgs-19-23-commentary-4",
+      "type": "commentary",
+      "text": "Isa. 37.24 reads “highest peak.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-2-kgs-19-23-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “Its farmland forest”; exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-2-kgs-19-24",
       "type": "verse",
       "number": 24,
       "text": "It is I who have drawn and drunk the waters of strangers; I have dried up with the soles of my feet All the streams of Egypt.’"
+    },
+    {
+      "block_id": "jsb-2-kgs-19-24-commentary-6",
+      "type": "commentary",
+      "text": "Or “dug”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-2-kgs-19-25",
@@ -159,6 +237,19 @@
       "type": "verse",
       "number": 26,
       "text": "Their inhabitants are helpless, Dismayed and shamed. They were but grass of the field And green herbage, Grass of the roofs that is blasted Before the standing grain."
+    },
+    {
+      "block_id": "jsb-2-kgs-19-26-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “east wind”; see note at Isa. 37.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-2-kgs-19-27",
@@ -177,6 +268,19 @@
       "type": "verse",
       "number": 29,
       "text": "“And this is the sign for you: This year you eat what grows of itself, and the next year what springs from that; and in the third year, sow and reap, and plant vineyards and eat their fruit."
+    },
+    {
+      "block_id": "jsb-2-kgs-19-29-commentary-8",
+      "type": "commentary",
+      "text": "I.e., Hezekiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 19,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-2-kgs-19-30",

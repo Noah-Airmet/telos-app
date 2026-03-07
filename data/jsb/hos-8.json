@@ -1,7 +1,7 @@
 {
   "document_id": "hos-8",
   "title": "Hosea 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "[Put] a ram’s horn to your mouth— Like an eagle over the House of the Lord; Because they have transgressed My covenant And been faithless to My teaching."
     },
     {
+      "block_id": "jsb-hos-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-hos-8-1-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-hos-8-2",
       "type": "verse",
       "number": 2,
       "text": "Israel cries out to Me, “O my God, we are devoted to You.”"
     },
     {
+      "block_id": "jsb-hos-8-2-commentary-3",
+      "type": "commentary",
+      "text": "See note c at 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-hos-8-3",
       "type": "verse",
       "number": 3,
       "text": "Israel rejects what is good; An enemy shall pursue him."
+    },
+    {
+      "block_id": "jsb-hos-8-3-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “They pursue delusion.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-hos-8-4",
@@ -33,6 +85,32 @@
       "type": "verse",
       "number": 5,
       "text": "He rejects your calf, Samaria! I am furious with them! Will they never be capable of purity?"
+    },
+    {
+      "block_id": "jsb-hos-8-5-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “I reject.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-hos-8-5-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “understanding, / That House of Israel?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-hos-8-6",
@@ -53,16 +131,68 @@
       "text": "Israel is bewildered; They have now become among the nations Like an unwanted vessel,"
     },
     {
+      "block_id": "jsb-hos-8-8-commentary-7",
+      "type": "commentary",
+      "text": "A play on words: The Heb. root balaʿ, which means “bewildered” here (cf. Isa. 28.7), means “devour” in the preceding verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hos-8-9",
       "type": "verse",
       "number": 9,
       "text": "[Like] a lonely wild ass. For they have gone up to Assyria, Ephraim has courted friendship."
     },
     {
+      "block_id": "jsb-hos-8-9-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “In Egypt they have.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-hos-8-10",
       "type": "verse",
       "number": 10,
       "text": "And while they are courting among the nations, There I will hold them fast; And they shall begin to diminish in number From the burden of king [and] officers."
+    },
+    {
+      "block_id": "jsb-hos-8-10-commentary-9",
+      "type": "commentary",
+      "text": "Cf. 9.6; but meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-hos-8-10-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-hos-8-11",

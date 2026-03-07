@@ -1,7 +1,7 @@
 {
   "document_id": "prov-17",
   "title": "Proverbs 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "To start a quarrel is to open a sluice; Before a dispute flares up, drop it."
     },
     {
+      "block_id": "jsb-prov-17-14-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 17,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-prov-17-15",
       "type": "verse",
       "number": 15,
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "A joyful heart makes for good health; Despondency dries up the bones."
+    },
+    {
+      "block_id": "jsb-prov-17-22-commentary-2",
+      "type": "commentary",
+      "text": "Or “a cheerful face”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 17,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-prov-17-23",

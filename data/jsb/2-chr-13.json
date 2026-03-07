@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-13",
   "title": "2 Chronicles 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -81,6 +81,19 @@
       "type": "verse",
       "number": 13,
       "text": "Jeroboam, however, had directed the ambush to go around and come from the rear, thus the main body was in front of Judah, while the ambush was behind them."
+    },
+    {
+      "block_id": "jsb-2-chr-13-13-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “they were.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 13,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-chr-13-14",

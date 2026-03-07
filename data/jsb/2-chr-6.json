@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-6",
   "title": "2 Chronicles 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Then Solomon declared: “The Lord has chosen To abide in a thick cloud;"
+    },
+    {
+      "block_id": "jsb-2-chr-6-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 8.12–53.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-6-2",
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "He said, “Blessed is the Lord God of Israel, who made a promise to my father David and fulfilled it. For He said,"
+    },
+    {
+      "block_id": "jsb-2-chr-6-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “who spoke with His own mouth a promise to my father David and has fulfilled with His own hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-chr-6-5",
@@ -65,6 +91,19 @@
       "text": "Now the Lord has fulfilled the promise that He made. I have succeeded my father David and have ascended the throne of Israel, as the Lord promised. I have built the House for the name of the Lord God of Israel,"
     },
     {
+      "block_id": "jsb-2-chr-6-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “risen in place of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-chr-6-11",
       "type": "verse",
       "number": 11,
@@ -81,6 +120,19 @@
       "type": "verse",
       "number": 13,
       "text": "Solomon had made a bronze platform and placed it in the midst of the Great Court; it was 5 cubits long and 5 cubits wide and 3 cubits high. He stood on it; then, kneeling in front of the whole congregation of Israel, he spread forth his hands to heaven"
+    },
+    {
+      "block_id": "jsb-2-chr-6-13-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-chr-6-14",

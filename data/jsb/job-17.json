@@ -1,7 +1,7 @@
 {
   "document_id": "job-17",
   "title": "Job 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "He made me a byword among people; I have become like Tophet of old."
+    },
+    {
+      "block_id": "jsb-job-17-6-commentary-1",
+      "type": "commentary",
+      "text": "That consumed children; cf. Jer. 7.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 17,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-job-17-7",

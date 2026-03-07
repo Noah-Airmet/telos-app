@@ -1,7 +1,7 @@
 {
   "document_id": "jer-5",
   "title": "Jeremiah 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "They were well-fed, lusty stallions, Each neighing at another’s wife."
     },
     {
+      "block_id": "jsb-jer-5-8-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-5-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "Go up among her vines and destroy; Lop off her trailing branches, For they are not of the Lord. (But do not make an end.)"
+    },
+    {
+      "block_id": "jsb-jer-5-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “rows.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-5-11",
@@ -77,6 +103,19 @@
       "text": "They have been false to the Lord And said: “It is not so! No trouble shall come upon us, We shall not see sword or famine."
     },
     {
+      "block_id": "jsb-jer-5-12-commentary-3",
+      "type": "commentary",
+      "text": "Or “Not He”; cf. Deut. 32.39; Isa. 43.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-jer-5-13",
       "type": "verse",
       "number": 13,
@@ -89,6 +128,19 @@
       "text": "Assuredly, thus said the Lord, The God of Hosts: Because they said that, I am putting My words into your mouth as fire, And this people shall be firewood, Which it will consume."
     },
     {
+      "block_id": "jsb-jer-5-14-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-jer-5-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +151,19 @@
       "type": "verse",
       "number": 16,
       "text": "Their quivers are like a yawning grave— They are all mighty men."
+    },
+    {
+      "block_id": "jsb-jer-5-16-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “Whose mouths.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-5-17",
@@ -161,6 +226,19 @@
       "text": "For among My people are found wicked men, Who lurk, like fowlers lying in wait; They set up a trap to catch men."
     },
     {
+      "block_id": "jsb-jer-5-26-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-jer-5-27",
       "type": "verse",
       "number": 27,
@@ -171,6 +249,19 @@
       "type": "verse",
       "number": 28,
       "text": "They have become fat and sleek; They pass beyond the bounds of wickedness, And they prosper. They will not judge the case of the orphan, Nor give a hearing to the plea of the needy."
+    },
+    {
+      "block_id": "jsb-jer-5-28-commentary-7",
+      "type": "commentary",
+      "text": "Some ancient versions read “have transgressed My words for evil.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 5,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-jer-5-29",

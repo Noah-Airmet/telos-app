@@ -1,7 +1,7 @@
 {
   "document_id": "gen-30",
   "title": "Genesis 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "And Rachel said, “God has vindicated me; indeed, He has heeded my plea and given me a son.” Therefore she named him Dan."
     },
     {
+      "block_id": "jsb-gen-30-6-commentary-1",
+      "type": "commentary",
+      "text": "Heb. dananni, connected with “Dan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-gen-30-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "And Rachel said, “A fateful contest I waged with my sister; yes, and I have prevailed.” So she named him Naphtali."
+    },
+    {
+      "block_id": "jsb-gen-30-8-commentary-2",
+      "type": "commentary",
+      "text": "Heb. naphtule…naphtalti, connected with “Naphtali.” Lit. “A contest of God…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-gen-30-9",
@@ -71,6 +97,19 @@
       "text": "Leah said, “What luck!” So she named him Gad."
     },
     {
+      "block_id": "jsb-gen-30-11-commentary-3",
+      "type": "commentary",
+      "text": "Kethib begad; the qere reads ba gad “luck has come”; connected with “Gad.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-gen-30-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +120,19 @@
       "type": "verse",
       "number": 13,
       "text": "Leah declared, “What fortune!” meaning, “Women will deem me fortunate.” So she named him Asher."
+    },
+    {
+      "block_id": "jsb-gen-30-13-commentary-4",
+      "type": "commentary",
+      "text": "Heb. beʾoshri, connected with “Asher.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-gen-30-14",
@@ -113,6 +165,19 @@
       "text": "And Leah said, “God has given me my reward for having given my maid to my husband.” So she named him Issachar."
     },
     {
+      "block_id": "jsb-gen-30-18-commentary-5",
+      "type": "commentary",
+      "text": "Heb. sekhari, connected with “Issachar.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-gen-30-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +188,32 @@
       "type": "verse",
       "number": 20,
       "text": "Leah said, “God has given me a choice gift; this time my husband will exalt me, for I have borne him six sons.” So she named him Zebulun."
+    },
+    {
+      "block_id": "jsb-gen-30-20-commentary-6",
+      "type": "commentary",
+      "text": "Heb. zebadani…zebed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-gen-30-20-commentary-7",
+      "type": "commentary",
+      "text": "Heb. yizbeleni; others “will dwell with me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-gen-30-21",
@@ -143,10 +234,36 @@
       "text": "She conceived and bore a son, and said, “God has taken away my disgrace.”"
     },
     {
+      "block_id": "jsb-gen-30-23-commentary-8",
+      "type": "commentary",
+      "text": "Heb. ʾasaph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-gen-30-24",
       "type": "verse",
       "number": 24,
       "text": "So she named him Joseph, which is to say, “May the Lord add another son for me.”"
+    },
+    {
+      "block_id": "jsb-gen-30-24-commentary-9",
+      "type": "commentary",
+      "text": "Heb. yoseph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-gen-30-25",
@@ -165,6 +282,19 @@
       "type": "verse",
       "number": 27,
       "text": "But Laban said to him, “If you will indulge me, I have learned by divination that the Lord has blessed me on your account.”"
+    },
+    {
+      "block_id": "jsb-gen-30-27-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “If I have found favor in your eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-gen-30-28",
@@ -233,6 +363,19 @@
       "text": "The rods that he had peeled he set up in front of the goats in the troughs, the water receptacles, that the goats came to drink from. Their mating occurred when they came to drink,"
     },
     {
+      "block_id": "jsb-gen-30-38-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “flocks.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
       "block_id": "jsb-gen-30-39",
       "type": "verse",
       "number": 39,
@@ -251,10 +394,36 @@
       "text": "Moreover, when the sturdier animals were mating, Jacob would place the rods in the troughs, in full view of the animals, so that they mated by the rods;"
     },
     {
+      "block_id": "jsb-gen-30-41-commentary-12",
+      "type": "commentary",
+      "text": "Or “early-breeding.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-gen-30-42",
       "type": "verse",
       "number": 42,
       "text": "but with the feebler animals he would not place them there. Thus the feeble ones went to Laban and the sturdy to Jacob."
+    },
+    {
+      "block_id": "jsb-gen-30-42-commentary-13",
+      "type": "commentary",
+      "text": "Or “late-breeding.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 30,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-gen-30-43",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-4",
   "title": "1 Kings 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,6 +101,19 @@
       "text": "Baanah son of Hushi, in Asher and Bealoth;"
     },
     {
+      "block_id": "jsb-1-kgs-4-16-commentary-1",
+      "type": "commentary",
+      "text": "Or “in Aloth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-kgs-4-17",
       "type": "verse",
       "number": 17,
@@ -117,6 +130,19 @@
       "type": "verse",
       "number": 19,
       "text": "Geber son of Uri, in the region of Gilead, the country of Sihon, king of the Amorites, and Og, king of Bashan; and one prefect who was in the land. Solomon’s twelve administrative districts according to First Kings ch 4"
+    },
+    {
+      "block_id": "jsb-1-kgs-4-19-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 4,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-1-kgs-4-20",

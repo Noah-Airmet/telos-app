@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-13",
   "title": "1 Samuel 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "Saul was… years old when he became king, and he reigned over Israel two years."
     },
     {
+      "block_id": "jsb-1-sam-13-1-commentary-1",
+      "type": "commentary",
+      "text": "The number is lacking in the Heb. text; also, the precise context of the “two years” is uncertain. The verse is lacking in the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-1-sam-13-2",
       "type": "verse",
       "number": 2,
       "text": "Saul picked 3,000 Israelites, of whom 2,000 were with Saul in Michmas and in the hill country of Bethel, and 1,000 with Jonathan in Gibeah of Benjamin; the rest of the troops he sent back to their homes."
+    },
+    {
+      "block_id": "jsb-1-sam-13-2-commentary-2",
+      "type": "commentary",
+      "text": "So in oldest mss.; other mss. and editions read “Michmash” throughout the chapter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-sam-13-3",
@@ -23,10 +49,49 @@
       "text": "Jonathan struck down the Philistine prefect in Geba; and the Philistines heard about it. Saul had the ram’s horn sounded throughout the land, saying, “Let the Hebrews hear.”"
     },
     {
+      "block_id": "jsb-1-sam-13-3-commentary-3",
+      "type": "commentary",
+      "text": "Apparently identical with Gibeah in v. 2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-1-sam-13-3-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-13-4",
       "type": "verse",
       "number": 4,
       "text": "When all Israel heard that Saul had struck down the Philistine prefect, and that Israel had incurred the wrath of the Philistines, all the people rallied to Saul at Gilgal."
+    },
+    {
+      "block_id": "jsb-1-sam-13-4-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “became malodorous to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-sam-13-5",
@@ -35,10 +100,36 @@
       "text": "The Philistines, in turn, gathered to attack Israel: 30,000 chariots and 6,000 horsemen, and troops as numerous as the sands of the seashore. They marched up and encamped at Michmas, east of Beth-aven."
     },
     {
+      "block_id": "jsb-1-sam-13-5-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint and other versions read “three thousand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-13-6",
       "type": "verse",
       "number": 6,
       "text": "When the men of Israel saw that they were in trouble—for the troops were hard pressed—the people hid in caves, among thorns, among rocks, in tunnels, and in cisterns."
+    },
+    {
+      "block_id": "jsb-1-sam-13-6-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-13-7",
@@ -51,6 +142,19 @@
       "type": "verse",
       "number": 8,
       "text": "He waited seven days, the time that Samuel [had set]. But when Samuel failed to come to Gilgal, and the people began to scatter,"
+    },
+    {
+      "block_id": "jsb-1-sam-13-8-commentary-8",
+      "type": "commentary",
+      "text": "So some Heb. mss.; other mss., Septuagint, and Targum read “said.” Cf. 10.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-13-9",
@@ -83,6 +187,19 @@
       "text": "Samuel answered Saul, “You acted foolishly in not keeping the commandments that the Lord your God laid upon you! Otherwise the Lord would have established your dynasty over Israel forever."
     },
     {
+      "block_id": "jsb-1-sam-13-13-commentary-9",
+      "type": "commentary",
+      "text": "Change of vocalization yields, “You acted foolishly. If you had kept the commandment the Lord your God laid upon you…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-sam-13-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +210,32 @@
       "type": "verse",
       "number": 15,
       "text": "Samuel arose and went up from Gilgal to Gibeah of Benjamin. Saul numbered the troops who remained with him—about 600 strong."
+    },
+    {
+      "block_id": "jsb-1-sam-13-15-commentary-10",
+      "type": "commentary",
+      "text": "Septuagint reads here, “Samuel rose and left Gilgal and went his way. The rest of the people followed Saul to meet the soldiers, and they went from Gilgal.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-1-sam-13-15-commentary-11",
+      "type": "commentary",
+      "text": "Sometimes called Geba; cf. vv. 3, 16; 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-1-sam-13-16",
@@ -113,6 +256,19 @@
       "text": "another column headed for the Beth-horon road, and the third column headed for the border road that overlooks the valley of Zeboim toward the desert."
     },
     {
+      "block_id": "jsb-1-sam-13-18-commentary-12",
+      "type": "commentary",
+      "text": "Septuagint reads “Geba.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-sam-13-19",
       "type": "verse",
       "number": 19,
@@ -125,10 +281,49 @@
       "text": "So all the Israelites had to go down to the Philistines to have their plowshares, their mattocks, axes, and colters sharpened."
     },
     {
+      "block_id": "jsb-1-sam-13-20-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “sickle.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-sam-13-21",
       "type": "verse",
       "number": 21,
       "text": "The charge for sharpening was a pim for plowshares, mattocks, three-pronged forks, and axes, and for setting the goads."
+    },
+    {
+      "block_id": "jsb-1-sam-13-21-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of several terms in this verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "jsb-1-sam-13-21-commentary-15",
+      "type": "commentary",
+      "text": "I.e., two-thirds of a shekel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-1-sam-13-22",

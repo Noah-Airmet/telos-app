@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-32",
   "title": "Ezekiel 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,32 @@
       "type": "verse",
       "number": 2,
       "text": "O mortal, intone a dirge over Pharaoh king of Egypt. Say to him: O great beast among the nations, you are doomed! You are like the dragon in the seas, Thrusting through their streams, Stirring up the water with your feet And muddying their streams!"
+    },
+    {
+      "block_id": "jsb-ezek-32-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-ezek-32-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-32-3",
@@ -57,6 +83,19 @@
       "type": "verse",
       "number": 9,
       "text": "I will vex the hearts of many peoples When I bring your shattered remnants among the nations, To countries which you never knew."
+    },
+    {
+      "block_id": "jsb-ezek-32-9-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “captives.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-32-10",
@@ -107,16 +146,55 @@
       "text": "In the twelfth year, on the fifteenth day of the month, the word of the Lord came to me:"
     },
     {
+      "block_id": "jsb-ezek-32-17-commentary-4",
+      "type": "commentary",
+      "text": "Presumably the twelfth month; cf. v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-ezek-32-18",
       "type": "verse",
       "number": 18,
       "text": "O mortal, wail [the dirge]—along with the women of the mighty nations—over the masses of Egypt, accompanying their descent to the lowest part of the netherworld, among those who have gone down into the Pit."
     },
     {
+      "block_id": "jsb-ezek-32-18-commentary-5",
+      "type": "commentary",
+      "text": "Construction of these verses uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-ezek-32-19",
       "type": "verse",
       "number": 19,
       "text": "Whom do you surpass in beauty? Down with you, and be laid to rest with the uncircumcised!"
+    },
+    {
+      "block_id": "jsb-ezek-32-19-commentary-6",
+      "type": "commentary",
+      "text": "Cf. 31.18 ff. and note c on 31.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ezek-32-20",
@@ -167,6 +245,19 @@
       "text": "And they do not lie with the fallen uncircumcised warriors, who went down to Sheol with their battle gear, who put their swords beneath their heads and their iniquities upon their bones—for the terror of the warriors was upon the land of the living."
     },
     {
+      "block_id": "jsb-ezek-32-27-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “shields.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-ezek-32-28",
       "type": "verse",
       "number": 28,
@@ -195,6 +286,19 @@
       "type": "verse",
       "number": 32,
       "text": "I strike terror into the land of the living; Pharaoh and all his masses are laid among the uncircumcised, along with those who were slain by the sword—said the Lord god."
+    },
+    {
+      "block_id": "jsb-ezek-32-32-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “because he struck terror in the land of the living, Pharaoh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 32,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     }
   ]
 }

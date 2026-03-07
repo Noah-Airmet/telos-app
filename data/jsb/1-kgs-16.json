@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-16",
   "title": "1 Kings 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "But the word of the Lord had come through the prophet Jehu son of Hanani against Baasha and against his house, that it would fare like the House of Jeroboam, which he himself had struck down, because of all the evil he did which was displeasing to the Lord, vexing him with his deeds."
+    },
+    {
+      "block_id": "jsb-1-kgs-16-7-commentary-1",
+      "type": "commentary",
+      "text": "Syntax of Heb. unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-kgs-16-8",
@@ -207,6 +220,19 @@
       "type": "verse",
       "number": 34,
       "text": "During his reign, Hiel the Bethelite fortified Jericho. He laid its foundations at the cost of Abiram his first-born, and set its gates in place at the cost of Segub his youngest, in accordance with the words that the Lord had spoken through Joshua son of Nun."
+    },
+    {
+      "block_id": "jsb-1-kgs-16-34-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Josh. 6.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 16,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     }
   ]
 }

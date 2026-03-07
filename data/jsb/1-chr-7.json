@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-7",
   "title": "1 Chronicles 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -141,6 +141,19 @@
       "type": "verse",
       "number": 23,
       "text": "He cohabited with his wife, who conceived and bore a son; and she named him Beriah, because it occurred when there was misfortune in his house."
+    },
+    {
+      "block_id": "jsb-1-chr-7-23-commentary-1",
+      "type": "commentary",
+      "text": "Heb. beraʿah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-chr-7-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-9",
   "title": "1 Chronicles 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "The first to settle in their towns, on their property, were Israelites, priests, Levites, and temple servants,"
+    },
+    {
+      "block_id": "jsb-1-chr-9-2-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 2–17, cf. Neh. 11.3–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-chr-9-3",

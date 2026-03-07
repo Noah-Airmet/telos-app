@@ -1,7 +1,7 @@
 {
   "document_id": "jer-35",
   "title": "Jeremiah 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "Nor shall you build houses or sow fields or plant vineyards, nor shall you own such things; but you shall live in tents all your days, so that you may live long upon the land where you sojourn.’"
+    },
+    {
+      "block_id": "jsb-jer-35-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “seed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 35,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-jer-35-8",

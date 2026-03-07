@@ -1,7 +1,7 @@
 {
   "document_id": "exod-14",
   "title": "Exodus 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,16 +41,55 @@
       "text": "He ordered his chariot and took his men with him;"
     },
     {
+      "block_id": "jsb-exod-14-6-commentary-1",
+      "type": "commentary",
+      "text": "See on Gen. 46.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 14,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-exod-14-7",
       "type": "verse",
       "number": 7,
       "text": "he took six hundred of his picked chariots, and the rest of the chariots of Egypt, with officers in all of them."
     },
     {
+      "block_id": "jsb-exod-14-7-commentary-2",
+      "type": "commentary",
+      "text": "Heb. shalish; originally “third man on royal chariot”; hence “adjutant,” “officer.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 14,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-exod-14-8",
       "type": "verse",
       "number": 8,
       "text": "The Lord stiffened the heart of Pharaoh king of Egypt, and he gave chase to the Israelites. As the Israelites were departing defiantly,"
+    },
+    {
+      "block_id": "jsb-exod-14-8-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “with upraised hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 14,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-exod-14-9",
@@ -125,6 +164,19 @@
       "text": "and it came between the army of the Egyptians and the army of Israel. Thus there was the cloud with the darkness, and it cast a spell upon the night, so that the one could not come near the other all through the night."
     },
     {
+      "block_id": "jsb-exod-14-20-commentary-4",
+      "type": "commentary",
+      "text": "From root ʾrr, “cast a spell” or “curse.” Others “and it lit up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 14,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-exod-14-21",
       "type": "verse",
       "number": 21,
@@ -153,6 +205,19 @@
       "type": "verse",
       "number": 25,
       "text": "He locked the wheels of their chariots so that they moved forward with difficulty. And the Egyptians said, “Let us flee from the Israelites, for the Lord is fighting for them against Egypt.”"
+    },
+    {
+      "block_id": "jsb-exod-14-25-commentary-5",
+      "type": "commentary",
+      "text": "From root ʾsr, with several ancient versions. Others “took off.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 14,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-exod-14-26",

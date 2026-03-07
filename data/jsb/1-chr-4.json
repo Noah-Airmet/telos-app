@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-4",
   "title": "1 Chronicles 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "Jabez was more esteemed than his brothers; and his mother named him Jabez, “Because,” she said, “I bore him in pain.”"
     },
     {
+      "block_id": "jsb-1-chr-4-9-commentary-1",
+      "type": "commentary",
+      "text": "Heb. ʿoṣeb, connected with “Jabez.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-1-chr-4-10",
       "type": "verse",
       "number": 10,
@@ -89,6 +102,19 @@
       "text": "Hathath and Meonothai. He begot Ophrah. Seraiah begot Joab father of Ge‑harashim, so‑called because they were craftsmen."
     },
     {
+      "block_id": "jsb-1-chr-4-14-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “the valley of the craftsmen.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 4,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-1-chr-4-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +131,19 @@
       "type": "verse",
       "number": 17,
       "text": "The sons of Ezrah: Jether, Mered, Epher, and Jalon. She conceived and bore Miriam, Shammai, and Ishbah father of Eshtemoa."
+    },
+    {
+      "block_id": "jsb-1-chr-4-17-commentary-3",
+      "type": "commentary",
+      "text": "Apparently Bithiah; cf. v. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 4,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-1-chr-4-18",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-99",
   "title": "Psalms 99",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The Lord, enthroned on cherubim, is king, peoples tremble, the earth quakes."
+    },
+    {
+      "block_id": "jsb-ps-99-1-commentary-1",
+      "type": "commentary",
+      "text": "Clauses transposed for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-99-2",
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Mighty king who loves justice, it was You who established equity, You who worked righteous judgment in Jacob."
+    },
+    {
+      "block_id": "jsb-ps-99-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-99-5",

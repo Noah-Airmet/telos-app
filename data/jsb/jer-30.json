@@ -1,7 +1,7 @@
 {
   "document_id": "jer-30",
   "title": "Jeremiah 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "No one pleads for the healing of your sickness, There is no remedy, no recovery for you."
     },
     {
+      "block_id": "jsb-jer-30-13-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 30,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-jer-30-14",
       "type": "verse",
       "number": 14,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "Thus said the Lord: I will restore the fortunes of Jacob’s tents And have compassion upon his dwellings. The city shall be rebuilt on its mound, And the fortress in its proper place."
+    },
+    {
+      "block_id": "jsb-jer-30-18-commentary-2",
+      "type": "commentary",
+      "text": "I.e., on the mound of ruins left after its previous destruction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 30,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-30-19",

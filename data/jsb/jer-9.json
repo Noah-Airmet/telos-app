@@ -1,7 +1,7 @@
 {
   "document_id": "jer-9",
   "title": "Jeremiah 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "Beware, every man of his friend! Trust not even a brother! For every brother takes advantage, Every friend is base in his dealings."
     },
     {
+      "block_id": "jsb-jer-9-3-commentary-1",
+      "type": "commentary",
+      "text": "See note at Lev. 19.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 9,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-9-4",
       "type": "verse",
       "number": 4,
       "text": "One man cheats the other, They will not speak truth; They have trained their tongues to speak falsely; They wear themselves out working iniquity."
+    },
+    {
+      "block_id": "jsb-jer-9-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 9,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-9-5",
@@ -113,6 +139,19 @@
       "text": "For the sound of wailing Is heard from Zion: How we are despoiled! How greatly we are shamed! Ah, we must leave our land, Abandon our dwellings!"
     },
     {
+      "block_id": "jsb-jer-9-18-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “They abandoned.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 9,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-9-19",
       "type": "verse",
       "number": 19,
@@ -149,10 +188,36 @@
       "text": "Lo, days are coming—declares the Lord—when I will take note of everyone circumcised in the foreskin:"
     },
     {
+      "block_id": "jsb-jer-9-24-commentary-4",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 9,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-jer-9-25",
       "type": "verse",
       "number": 25,
       "text": "of Egypt, Judah, Edom, the Ammonites, Moab, and all the desert dwellers who have the hair of their temples clipped. For all these nations are uncircumcised, but all the House of Israel are uncircumcised of heart."
+    },
+    {
+      "block_id": "jsb-jer-9-25-commentary-5",
+      "type": "commentary",
+      "text": "I.e., their minds are blocked to God’s commandments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 9,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     }
   ]
 }

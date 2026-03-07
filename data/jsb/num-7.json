@@ -1,7 +1,7 @@
 {
   "document_id": "num-7",
   "title": "Numbers 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -25,6 +25,19 @@
       "type": "verse",
       "number": 2,
       "text": "the chieftains of Israel, the heads of ancestral houses, namely, the chieftains of the tribes, those who were in charge of enrollment, drew near"
+    },
+    {
+      "block_id": "jsb-num-7-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Exod. 14.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 7,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-7-3",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-29",
   "title": "Exodus 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -123,6 +123,19 @@
       "type": "verse",
       "number": 20,
       "text": "Slaughter the ram, and take some of its blood and put it on the ridge of Aaron’s right ear and on the ridges of his sons’ right ears, and on the thumbs of their right hands, and on the big toes of their right feet; and dash the rest of the blood against every side of the altar round about."
+    },
+    {
+      "block_id": "jsb-exod-29-20-commentary-1",
+      "type": "commentary",
+      "text": "Or “lobe.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 29,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-exod-29-21",

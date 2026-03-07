@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-18",
   "title": "2 Chronicles 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "So Jehoshaphat had wealth and honor in abundance, and he allied himself by marriage to Ahab."
+    },
+    {
+      "block_id": "jsb-2-chr-18-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 18,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-18-2",
@@ -89,6 +102,19 @@
       "text": "When he came before the king, the king said to him, “Micah, shall we march against Ramoth-gilead for battle or shall we not?” He answered him, “March and be victorious! They will be delivered into your hands.”"
     },
     {
+      "block_id": "jsb-2-chr-18-14-commentary-2",
+      "type": "commentary",
+      "text": "A shortened form of Micaiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-chr-18-15",
       "type": "verse",
       "number": 15,
@@ -167,6 +193,19 @@
       "text": "To which Micaiah retorted, “If you ever come home safe, the Lord has not spoken through me.” He said further, “Listen, all you peoples!”"
     },
     {
+      "block_id": "jsb-2-chr-18-27-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Mic. 1.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 18,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-2-chr-18-28",
       "type": "verse",
       "number": 28,
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "The king of Israel said to Jehoshaphat, “I will disguise myself and go into the battle, but you, wear your robes.” So the king of Israel disguised himself, and they went into the battle."
+    },
+    {
+      "block_id": "jsb-2-chr-18-29-commentary-4",
+      "type": "commentary",
+      "text": "Infinitives used for finite verb; cf. note at 1 Kings 22.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 18,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-2-chr-18-30",
@@ -201,6 +253,19 @@
       "type": "verse",
       "number": 33,
       "text": "Then a man drew his bow at random and hit the king of Israel between the plates of the armor and he said to his charioteer, “Turn around and get me behind the lines; I am wounded.”"
+    },
+    {
+      "block_id": "jsb-2-chr-18-33-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 18,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-2-chr-18-34",

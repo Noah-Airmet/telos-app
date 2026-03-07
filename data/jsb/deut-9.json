@@ -1,7 +1,7 @@
 {
   "document_id": "deut-9",
   "title": "Deuteronomy 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -153,6 +153,19 @@
       "type": "verse",
       "number": 25,
       "text": "When I lay prostrate before the Lord those forty days and forty nights, because the Lord was determined to destroy you,"
+    },
+    {
+      "block_id": "jsb-deut-9-25-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the forty days and forty nights that I lay prostrate.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-deut-9-26",

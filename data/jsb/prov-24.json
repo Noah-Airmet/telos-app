@@ -1,7 +1,7 @@
 {
   "document_id": "prov-24",
   "title": "Proverbs 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "For their hearts talk violence, And their lips speak mischief."
+    },
+    {
+      "block_id": "jsb-prov-24-2-commentary-1",
+      "type": "commentary",
+      "text": "See note to 15.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 24,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-prov-24-3",
@@ -207,6 +220,19 @@
       "type": "verse",
       "number": 34,
       "text": "And poverty will come calling upon you, And want, like a man with a shield."
+    },
+    {
+      "block_id": "jsb-prov-24-34-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 24,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     }
   ]
 }

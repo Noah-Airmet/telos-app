@@ -1,7 +1,7 @@
 {
   "document_id": "ps-16",
   "title": "Psalms 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,55 @@
       "text": "A michtam of David. Protect me, O God, for I seek refuge in You."
     },
     {
+      "block_id": "jsb-ps-16-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ps-16-2",
       "type": "verse",
       "number": 2,
       "text": "I say to the Lord, “You are my Lord, my benefactor; there is none above You.”"
     },
     {
+      "block_id": "jsb-ps-16-2-commentary-2",
+      "type": "commentary",
+      "text": "Others “I have no good but in You.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 16,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-16-3",
       "type": "verse",
       "number": 3,
       "text": "As to the holy and mighty ones that are in the land, my whole desire concerning them is that"
+    },
+    {
+      "block_id": "jsb-ps-16-3-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; “holy and mighty ones” taken as epithets for divine beings; cf. qedoshim in Ps. 89.6, 8, and ʾaddirim in 1 Sam. 4.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 16,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-16-4",
@@ -35,6 +74,19 @@
       "text": "The Lord is my allotted share and portion; You control my fate."
     },
     {
+      "block_id": "jsb-ps-16-5-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “cup.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 16,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-16-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 7,
       "text": "I bless the Lord who has guided me; my conscience admonishes me at night."
+    },
+    {
+      "block_id": "jsb-ps-16-7-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “kidneys.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-16-8",

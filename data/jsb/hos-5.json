@@ -1,7 +1,7 @@
 {
   "document_id": "hos-5",
   "title": "Hosea 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Hear this, O priests, Attend, O House of Israel, And give ear, O royal house; For right conduct is your responsibility! But you have been a snare to Mizpah And a net spread out over Tabor;"
+    },
+    {
+      "block_id": "jsb-hos-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “prophets.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-hos-5-2",
@@ -35,10 +48,36 @@
       "text": "Israel’s pride shall be humbled before his very eyes, As Israel and Ephraim fall because of their sin (And Judah falls with them)."
     },
     {
+      "block_id": "jsb-hos-5-5-commentary-2",
+      "type": "commentary",
+      "text": "This passage would read well after 5.15; cf. 5.6 with 6.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-hos-5-6",
       "type": "verse",
       "number": 6,
       "text": "Then they will go with their sheep and cattle To seek the Lord, but they will not find Him. He has cast them off:"
+    },
+    {
+      "block_id": "jsb-hos-5-6-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-hos-5-7",
@@ -47,16 +86,68 @@
       "text": "[Because] they have broken faith with the Lord, Because they have begotten Alien children. Therefore, the new moon Shall devour their portion."
     },
     {
+      "block_id": "jsb-hos-5-7-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “He has.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-hos-5-8",
       "type": "verse",
       "number": 8,
       "text": "Sound a ram’s horn in Gibeah, A trumpet in Ramah; Give the alarm in Beth-aven; After you, Benjamin!"
     },
     {
+      "block_id": "jsb-hos-5-8-commentary-5",
+      "type": "commentary",
+      "text": "The three towns named, in the territory of Benjamin, are now being wrested from Israel by Judah; see v. 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-hos-5-8-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Stir up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hos-5-9",
       "type": "verse",
       "number": 9,
       "text": "Ephraim is stricken with horror On a day of chastisement. Against the tribes of Israel I proclaim certainties:"
+    },
+    {
+      "block_id": "jsb-hos-5-9-commentary-7",
+      "type": "commentary",
+      "text": "I.e., the kingdoms of Judah and Israel (Ephraim).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-hos-5-10",
@@ -71,16 +162,68 @@
       "text": "Ephraim is defrauded, Robbed of redress, Because he has witlessly Gone after futility."
     },
     {
+      "block_id": "jsb-hos-5-11-commentary-8",
+      "type": "commentary",
+      "text": "Cf. Targum and Septuagint; but meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-hos-5-12",
       "type": "verse",
       "number": 12,
       "text": "For it is I who am like rot to Ephraim, Like decay to the House of Judah;"
     },
     {
+      "block_id": "jsb-hos-5-12-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-hos-5-13",
       "type": "verse",
       "number": 13,
       "text": "Yet when Ephraim became aware of his sickness, Judah of his sores, Ephraim repaired to Assyria— He sent envoys to a patron king! He will never be able to cure you, Will not heal you of your sores."
+    },
+    {
+      "block_id": "jsb-hos-5-13-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-hos-5-13-commentary-11",
+      "type": "commentary",
+      "text": "Compare the verb ryb in the sense of “to champion, uphold the cause of,” in Isa. 1.17; 3.13; 19.20 end; 51.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-hos-5-14",

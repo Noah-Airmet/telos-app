@@ -1,7 +1,7 @@
 {
   "document_id": "hos-11",
   "title": "Hosea 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,49 @@
       "text": "Thus were they called, But they went their own way; They sacrifice to Baalim And offer to carved images."
     },
     {
+      "block_id": "jsb-hos-11-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 2–7 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-hos-11-2-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “calves”; cf. 8.4–6; 13.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-hos-11-3",
       "type": "verse",
       "number": 3,
       "text": "I have pampered Ephraim, Taking them in My arms; But they have ignored My healing care."
+    },
+    {
+      "block_id": "jsb-hos-11-3-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-hos-11-4",
@@ -41,16 +80,68 @@
       "text": "A sword shall descend upon their towns And consume their limbs And devour [them] because of their designs."
     },
     {
+      "block_id": "jsb-hos-11-6-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “bodies,” lit. “skins”; cf. Job 18.13",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-hos-11-6-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “their bones.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-hos-11-7",
       "type": "verse",
       "number": 7,
       "text": "For My people persists In its defection from Me; When it is summoned upward, It does not rise at all."
     },
     {
+      "block_id": "jsb-hos-11-7-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-hos-11-8",
       "type": "verse",
       "number": 8,
       "text": "How can I give you up, O Ephraim? How surrender you, O Israel? How can I make you like Admah, Render you like Zeboiim? I have had a change of heart, All My tenderness is stirred."
+    },
+    {
+      "block_id": "jsb-hos-11-8-commentary-7",
+      "type": "commentary",
+      "text": "Admah and Zeboiim were destroyed with neighboring Sodom and Gomorrah; cf. Gen. 10.19; 14.2, 8; Deut. 29.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 11,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-hos-11-9",

@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-29",
   "title": "Ezekiel 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Speak these words: Thus said the Lord god: I am going to deal with you, O Pharaoh king of Egypt, Mighty monster, sprawling in your channels, Who said, My Nile is my own; I made it for myself."
     },
     {
+      "block_id": "jsb-ezek-29-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “its.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ezek-29-4",
       "type": "verse",
       "number": 4,
@@ -41,10 +54,49 @@
       "text": "Then all the inhabitants of Egypt shall know That I am the Lord. Because you were a staff of reed To the House of Israel:"
     },
     {
+      "block_id": "jsb-ezek-29-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-29-7",
       "type": "verse",
       "number": 7,
       "text": "When they grasped you with the hand, you would splinter, And wound all their shoulders, And when they leaned on you, you would break, And make all their loins unsteady."
+    },
+    {
+      "block_id": "jsb-ezek-29-7-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint and Syriac read “palms”; cf. 2 Kings 18.21; Isa. 36.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-ezek-29-7-commentary-4",
+      "type": "commentary",
+      "text": "Taking ʿamad as a byform of maʿad; cf. Syriac translation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-29-8",
@@ -63,6 +115,19 @@
       "type": "verse",
       "number": 10,
       "text": "Assuredly, I am going to deal with you and your channels, and I will reduce the land of Egypt to utter ruin and desolation, from Migdol to Syene, all the way to the border of Nubia."
+    },
+    {
+      "block_id": "jsb-ezek-29-10-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the length of Egypt, from north to south. Syene is modern Aswan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ezek-29-11",
@@ -89,10 +154,36 @@
       "text": "I will restore the fortunes of the Egyptians and bring them back to the land of their origin, the land of Pathros, and there they shall be a lowly kingdom."
     },
     {
+      "block_id": "jsb-ezek-29-14-commentary-6",
+      "type": "commentary",
+      "text": "I.e., southern Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ezek-29-15",
       "type": "verse",
       "number": 15,
       "text": "It shall be the lowliest of all the kingdoms, and shall not lord it over the nations again. I will reduce the Egyptians, so that they shall have no dominion over the nations."
+    },
+    {
+      "block_id": "jsb-ezek-29-15-commentary-7",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-29-16",
@@ -129,6 +220,19 @@
       "type": "verse",
       "number": 21,
       "text": "On that day I will endow the House of Israel with strength, and you shall be vindicated among them. And they shall know that I am the Lord."
+    },
+    {
+      "block_id": "jsb-ezek-29-21-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “cause a horn to sprout for the House of Israel, and I will grant you opening of the mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 29,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     }
   ]
 }

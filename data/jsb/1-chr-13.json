@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-13",
   "title": "1 Chronicles 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "David said to the entire assembly of Israel, “If you approve, and if the Lord our God concurs, let us send far and wide to our remaining kinsmen throughout the territories of Israel, including the priests and Levites in the towns where they have pasturelands, that they should gather together to us"
+    },
+    {
+      "block_id": "jsb-1-chr-13-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 13,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-chr-13-3",
@@ -41,6 +54,19 @@
       "text": "David and all Israel went up to Baalah, Kiriath-jearim of Judah, to bring up from there the Ark of God, the Lord, Enthroned on the Cherubim, to which the Name was attached."
     },
     {
+      "block_id": "jsb-1-chr-13-6-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 6–14, cf. 2 Sam. 6.2–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 13,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-chr-13-7",
       "type": "verse",
       "number": 7,
@@ -59,6 +85,19 @@
       "text": "But when they came to the threshing floor of Chidon, Uzza put out his hand to hold the Ark of God because the oxen had stumbled."
     },
     {
+      "block_id": "jsb-1-chr-13-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 13,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-1-chr-13-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +108,19 @@
       "type": "verse",
       "number": 11,
       "text": "David was distressed because the Lord had burst out against Uzza; and that place was named Perez-uzzah, as it is still called."
+    },
+    {
+      "block_id": "jsb-1-chr-13-11-commentary-4",
+      "type": "commentary",
+      "text": "Heb. paraṣ…pereṣ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 13,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-chr-13-12",

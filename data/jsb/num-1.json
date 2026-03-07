@@ -1,7 +1,7 @@
 {
   "document_id": "num-1",
   "title": "Numbers 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Take a census of the whole Israelite community by the clans of its ancestral houses, listing the names, every male, head by head."
+    },
+    {
+      "block_id": "jsb-num-1-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., of its tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-1-3",

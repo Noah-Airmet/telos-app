@@ -1,7 +1,7 @@
 {
   "document_id": "ps-88",
   "title": "Psalms 88",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "A song. A psalm of the Korahites. For the leader; on maḥalath leannoth. A maskil of Heman the Ezrahite."
     },
     {
+      "block_id": "jsb-ps-88-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ps-88-2",
       "type": "verse",
       "number": 2,
       "text": "O Lord, God of my deliverance, when I cry out in the night before You,"
+    },
+    {
+      "block_id": "jsb-ps-88-2-commentary-2",
+      "type": "commentary",
+      "text": "Or “by day I cry out [and] by night.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-88-3",
@@ -39,6 +65,19 @@
       "type": "verse",
       "number": 6,
       "text": "abandoned among the dead, like bodies lying in the grave of whom You are mindful no more, and who are cut off from Your care."
+    },
+    {
+      "block_id": "jsb-ps-88-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “released.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-88-7",
@@ -83,6 +122,19 @@
       "text": "Are Your wonders made known in the netherworld, Your beneficent deeds in the land of oblivion?"
     },
     {
+      "block_id": "jsb-ps-88-13-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “darkness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-88-14",
       "type": "verse",
       "number": 14,
@@ -101,6 +153,19 @@
       "text": "From my youth I have been afflicted and near death; I suffer Your terrors wherever I turn."
     },
     {
+      "block_id": "jsb-ps-88-16-commentary-5",
+      "type": "commentary",
+      "text": "Following Saadia; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-ps-88-17",
       "type": "verse",
       "number": 17,
@@ -117,6 +182,19 @@
       "type": "verse",
       "number": 19,
       "text": "You have put friend and neighbor far from me and my companions out of my sight."
+    },
+    {
+      "block_id": "jsb-ps-88-19-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “into darkness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 88,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     }
   ]
 }

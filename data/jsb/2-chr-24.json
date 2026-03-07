@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-24",
   "title": "2 Chronicles 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Jehoash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah of Beer-sheba."
+    },
+    {
+      "block_id": "jsb-2-chr-24-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 12.1–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 24,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-24-2",
@@ -153,6 +166,19 @@
       "type": "verse",
       "number": 25,
       "text": "When they withdrew, having left him with many wounds, his courtiers plotted against him because of the murder of the sons of Jehoiada the priest, and they killed him in bed. He died and was buried in the City of David; he was not buried in the tombs of the kings."
+    },
+    {
+      "block_id": "jsb-2-chr-24-25-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “blood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 24,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-2-chr-24-26",

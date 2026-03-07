@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-4",
   "title": "2 Chronicles 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "He made an altar of bronze 20 cubits long, 20 cubits wide, and 10 cubits high."
     },
     {
+      "block_id": "jsb-2-chr-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 7.23–50.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-2-chr-4-2",
       "type": "verse",
       "number": 2,
       "text": "He made the sea of cast metal 10 cubits across from brim to brim, perfectly round; it was 5 cubits high, and its circumference was 30 cubits."
+    },
+    {
+      "block_id": "jsb-2-chr-4-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., a large basin.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-chr-4-3",
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "the pails, the shovels, and the bowls. And all the vessels made for King Solomon for the House of the Lord by Huram his master were of burnished bronze."
+    },
+    {
+      "block_id": "jsb-2-chr-4-16-commentary-3",
+      "type": "commentary",
+      "text": "Or “forks.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-chr-4-17",

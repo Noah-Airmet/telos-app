@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-6",
   "title": "Ezra 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "“Now you, Tattenai, governor of the province of Beyond the River, Shethar-bozenai and colleagues, the officials of the province of Beyond the River, stay away from that place."
     },
     {
+      "block_id": "jsb-ezra-6-6-commentary-1",
+      "type": "commentary",
+      "text": "This introduces the text of the reply of Darius that doubtless contained the preceding narrative (vv. 1–5) as a preliminary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 6,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezra-6-7",
       "type": "verse",
       "number": 7,
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "I also issue an order that whoever alters this decree shall have a beam removed from his house, and he shall be impaled on it and his house confiscated."
+    },
+    {
+      "block_id": "jsb-ezra-6-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning uncertain; or “turned into ruins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 6,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-ezra-6-12",
@@ -117,6 +143,19 @@
       "type": "verse",
       "number": 19,
       "text": "The returned exiles celebrated the Passover on the fourteenth day of the first month,"
+    },
+    {
+      "block_id": "jsb-ezra-6-19-commentary-3",
+      "type": "commentary",
+      "text": "Hebrew resumes here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 6,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ezra-6-20",

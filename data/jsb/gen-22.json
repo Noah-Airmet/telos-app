@@ -1,7 +1,7 @@
 {
   "document_id": "gen-22",
   "title": "Genesis 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "text": "Abraham took the wood for the burnt offering and put it on his son Isaac. He himself took the firestone and the knife; and the two walked off together."
     },
     {
+      "block_id": "jsb-gen-22-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “fire.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 22,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-gen-22-7",
       "type": "verse",
       "number": 7,
@@ -93,10 +106,49 @@
       "text": "When Abraham looked up, his eye fell upon a ram, caught in the thicket by its horns. So Abraham went and took the ram and offered it up as a burnt offering in place of his son."
     },
     {
+      "block_id": "jsb-gen-22-13-commentary-2",
+      "type": "commentary",
+      "text": "Reading ʾeḥad with many Heb. mss. and ancient versions; text ʾaḥar “after.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 22,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-gen-22-14",
       "type": "verse",
       "number": 14,
       "text": "And Abraham named that site Adonai-yireh, whence the present saying, “On the mount of the Lord there is vision.”"
+    },
+    {
+      "block_id": "jsb-gen-22-14-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “the Lord will see”; cf. v. 8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-gen-22-14-commentary-4",
+      "type": "commentary",
+      "text": "Heb. Behar Adonai yeraʾeh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-gen-22-15",

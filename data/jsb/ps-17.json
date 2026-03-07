@@ -1,7 +1,7 @@
 {
   "document_id": "ps-17",
   "title": "Psalms 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "You have visited me at night, probed my mind, You have tested me and found nothing amiss; I determined that my mouth should not transgress."
     },
     {
+      "block_id": "jsb-ps-17-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-17-4",
       "type": "verse",
       "number": 4,
       "text": "As for man’s dealings, in accord with the command of Your lips, I have kept in view the fate of the lawless."
+    },
+    {
+      "block_id": "jsb-ps-17-4-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Prov. 1.19; lit. “paths.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 17,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-17-5",
@@ -57,6 +83,19 @@
       "type": "verse",
       "number": 9,
       "text": "from the wicked who despoil me, my mortal enemies who encircle me."
+    },
+    {
+      "block_id": "jsb-ps-17-9-commentary-3",
+      "type": "commentary",
+      "text": "Or “from my enemies who avidly.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 17,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ps-17-10",

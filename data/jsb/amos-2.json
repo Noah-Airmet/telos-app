@@ -1,7 +1,7 @@
 {
   "document_id": "amos-2",
   "title": "Amos 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "[Ah,] you who trample the heads of the poor Into the dust of the ground, And make the humble walk a twisted course! Father and son go to the same girl, And thereby profane My holy name."
     },
     {
+      "block_id": "jsb-amos-2-7-commentary-1",
+      "type": "commentary",
+      "text": "Understanding shoʾafim as equivalent to shafim. Emendation yields: “Who crush on the ground / The heads of the poor, / And push off the road / The humble of the land”; cf. Job 24.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-amos-2-8",
       "type": "verse",
       "number": 8,
@@ -83,6 +96,19 @@
       "text": "Ah, I will slow your movements As a wagon is slowed When it is full of cut grain."
     },
     {
+      "block_id": "jsb-amos-2-13-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain; alternatively: “I will slow your movements / As a threshing sledge (cf. Isa. 28.27–28) is slowed / When clogged by cut grain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-amos-2-14",
       "type": "verse",
       "number": 14,
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "Even the most stouthearted warrior Shall run away unarmed that day —declares the Lord."
+    },
+    {
+      "block_id": "jsb-amos-2-16-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “naked.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     }
   ]
 }

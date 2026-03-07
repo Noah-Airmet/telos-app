@@ -1,7 +1,7 @@
 {
   "document_id": "deut-27",
   "title": "Deuteronomy 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "As soon as you have crossed the Jordan into the land that the Lord your God is giving you, you shall set up large stones. Coat them with plaster"
+    },
+    {
+      "block_id": "jsb-deut-27-2-commentary-1",
+      "type": "commentary",
+      "text": "Construction of vv. 2–4 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 27,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-deut-27-3",
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "you must build the altar of the Lord your God of unhewn stones. You shall offer on it burnt offerings to the Lord your God,"
+    },
+    {
+      "block_id": "jsb-deut-27-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “whole.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 27,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-deut-27-7",
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "After you have crossed the Jordan, the following shall stand on Mount Gerizim when the blessing for the people is spoken: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin."
+    },
+    {
+      "block_id": "jsb-deut-27-12-commentary-3",
+      "type": "commentary",
+      "text": "Construction of vv. 12–13 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 27,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-deut-27-13",
@@ -125,6 +164,19 @@
       "text": "Cursed be he who lies with his father’s wife, for he has removed his father’s garment.—And all the people shall say, Amen."
     },
     {
+      "block_id": "jsb-deut-27-20-commentary-4",
+      "type": "commentary",
+      "text": "See note at 23.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 27,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-deut-27-21",
       "type": "verse",
       "number": 21,
@@ -153,6 +205,19 @@
       "type": "verse",
       "number": 25,
       "text": "Cursed be he who accepts a bribe in the case of the murder of an innocent person.—And all the people shall say, Amen."
+    },
+    {
+      "block_id": "jsb-deut-27-25-commentary-5",
+      "type": "commentary",
+      "text": "I.e., to acquit the murderer; others “to slay.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 27,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-deut-27-26",

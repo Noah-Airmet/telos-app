@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-3",
   "title": "Ezekiel 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -75,6 +75,19 @@
       "type": "verse",
       "number": 12,
       "text": "Then a spirit carried me away, and behind me I heard a great roaring sound: “Blessed is the Presence of the Lord, in His place,”"
+    },
+    {
+      "block_id": "jsb-ezek-3-12-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “as the Presence of the Lord rose from where it stood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ezek-3-13",
@@ -153,6 +166,19 @@
       "type": "verse",
       "number": 25,
       "text": "As for you, O mortal, cords have been placed upon you, and you have been bound with them, and you shall not go out among them."
+    },
+    {
+      "block_id": "jsb-ezek-3-25-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the people",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 3,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-ezek-3-26",

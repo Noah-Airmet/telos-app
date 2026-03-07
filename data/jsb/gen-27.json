@@ -1,7 +1,7 @@
 {
   "document_id": "gen-27",
   "title": "Genesis 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -221,6 +221,19 @@
       "text": "[Esau] said, “Was he, then, named Jacob that he might supplant me these two times? First he took away my birthright and now he has taken away my blessing!” And he added, “Have you not reserved a blessing for me?”"
     },
     {
+      "block_id": "jsb-gen-27-36-commentary-1",
+      "type": "commentary",
+      "text": "Heb. ʿaqab, connected with “Jacob.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 27,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
       "block_id": "jsb-gen-27-37",
       "type": "verse",
       "number": 37,
@@ -237,6 +250,19 @@
       "type": "verse",
       "number": 39,
       "text": "And his father Isaac answered, saying to him, “See, your abode shall enjoy the fat of the earth And the dew of heaven above."
+    },
+    {
+      "block_id": "jsb-gen-27-39-commentary-2",
+      "type": "commentary",
+      "text": "Others “be away from the fat of the earth and from.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 27,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
     },
     {
       "block_id": "jsb-gen-27-40",

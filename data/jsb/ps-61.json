@@ -1,7 +1,7 @@
 {
   "document_id": "ps-61",
   "title": "Psalms 61",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "O God, You have heard my vows; grant the request of those who fear Your name."
     },
     {
+      "block_id": "jsb-ps-61-6-commentary-1",
+      "type": "commentary",
+      "text": "Taking the noun yr§t as an alternate form of ʾr§t; cf. Ps. 21.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-61-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "may he dwell in God’s presence forever; appoint steadfast love to guard him."
+    },
+    {
+      "block_id": "jsb-ps-61-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-61-9",

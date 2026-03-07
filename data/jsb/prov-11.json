@@ -1,7 +1,7 @@
 {
   "document_id": "prov-11",
   "title": "Proverbs 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "False scales are an abomination to the Lord; An honest weight pleases Him."
+    },
+    {
+      "block_id": "jsb-prov-11-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “whole.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-prov-11-2",
@@ -95,6 +108,19 @@
       "text": "Harm awaits him who stands surety for another; He who spurns pledging shall be secure."
     },
     {
+      "block_id": "jsb-prov-11-15-commentary-2",
+      "type": "commentary",
+      "text": "Or “a stranger.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-prov-11-16",
       "type": "verse",
       "number": 16,
@@ -129,6 +155,19 @@
       "type": "verse",
       "number": 21,
       "text": "Assuredly, the evil man will not escape, But the offspring of the righteous will be safe."
+    },
+    {
+      "block_id": "jsb-prov-11-21-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Hand to hand”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-prov-11-22",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-43",
   "title": "Isaiah 43",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,10 +59,36 @@
       "text": "All the nations assemble as one, The peoples gather. Who among them declared this, Foretold to us the things that have happened? Let them produce their witnesses and be vindicated, That men, hearing them, may say, “It is true!”"
     },
     {
+      "block_id": "jsb-isa-43-9-commentary-1",
+      "type": "commentary",
+      "text": "I.e., that the other nations’ gods are real.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-43-10",
       "type": "verse",
       "number": 10,
       "text": "My witnesses are you —declares the Lord— My servant, whom I have chosen. To the end that you may take thought, And believe in Me, And understand that I am He: Before Me no god was formed, And after Me none shall exist—"
+    },
+    {
+      "block_id": "jsb-isa-43-10-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-43-11",
@@ -89,6 +115,19 @@
       "text": "Thus said the Lord, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation."
     },
     {
+      "block_id": "jsb-isa-43-14-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-43-15",
       "type": "verse",
       "number": 15,
@@ -107,6 +146,19 @@
       "text": "Who destroyed chariots and horses, And all the mighty host— They lay down to rise no more, They were extinguished, quenched like a wick:"
     },
     {
+      "block_id": "jsb-isa-43-17-commentary-4",
+      "type": "commentary",
+      "text": "Understanding hoṣi, here, as equivalent to Aramaic sheṣi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-isa-43-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "I am about to do something new; Even now it shall come to pass, Suddenly you shall perceive it: I will make a road through the wilderness And rivers in the desert."
+    },
+    {
+      "block_id": "jsb-isa-43-19-commentary-5",
+      "type": "commentary",
+      "text": "1QIsa reads “paths”; cf. v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-43-20",
@@ -155,6 +220,19 @@
       "text": "It is I, I who—for My own sake— Wipe your transgressions away And remember your sins no more."
     },
     {
+      "block_id": "jsb-isa-43-25-commentary-6",
+      "type": "commentary",
+      "text": "I.e., in order to put an end to the profanation of My holy name; cf. 48.9–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-isa-43-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +249,32 @@
       "type": "verse",
       "number": 28,
       "text": "So I profaned the holy princes; I abandoned Jacob to proscription And Israel to mockery."
+    },
+    {
+      "block_id": "jsb-isa-43-28-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “My holy name”; see preceding note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-isa-43-28-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “insult.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     }
   ]
 }

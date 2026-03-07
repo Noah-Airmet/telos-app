@@ -1,7 +1,7 @@
 {
   "document_id": "prov-7",
   "title": "Proverbs 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "She will guard you from a forbidden woman; From an alien woman whose talk is smooth."
     },
     {
+      "block_id": "jsb-prov-7-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “strange.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 7,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-prov-7-6",
       "type": "verse",
       "number": 6,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "A woman comes toward him Dressed like a harlot, with set purpose."
+    },
+    {
+      "block_id": "jsb-prov-7-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 7,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-prov-7-11",

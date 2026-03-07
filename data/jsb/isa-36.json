@@ -1,7 +1,7 @@
 {
   "document_id": "isa-36",
   "title": "Isaiah 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "In the fourteenth year of King Hezekiah, King Sennacherib of Assyria marched against all the fortified towns of Judah and seized them."
     },
     {
+      "block_id": "jsb-isa-36-1-commentary-1",
+      "type": "commentary",
+      "text": "Chaps. 1.36–39 occur also as 2 Kings 18.13–20.19, with a number of variants, some of which will be cited here in the footnotes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 36,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-36-2",
       "type": "verse",
       "number": 2,
       "text": "From Lachish, the king of Assyria sent the Rabshakeh, with a large force, to King Hezekiah in Jerusalem. [The Rabshakeh] took up a position near the conduit of the Upper Pool, by the road of the Fuller’s Field;"
+    },
+    {
+      "block_id": "jsb-isa-36-2-commentary-2",
+      "type": "commentary",
+      "text": "An Assyrian title; cf. “Tartan,” 20.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 36,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-36-3",
@@ -33,6 +59,19 @@
       "type": "verse",
       "number": 5,
       "text": "I suppose mere talk makes counsel and valor for war! Look, on whom are you relying, that you have rebelled against me?"
+    },
+    {
+      "block_id": "jsb-isa-36-5-commentary-3",
+      "type": "commentary",
+      "text": "2 Kings 18.20 “You must think.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 36,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-36-6",
@@ -101,6 +140,19 @@
       "text": "Don’t listen to Hezekiah. For thus said the king of Assyria: Make your peace with me and come out to me, so that you may all eat from your vines and your fig trees and drink water from your cisterns,"
     },
     {
+      "block_id": "jsb-isa-36-16-commentary-4",
+      "type": "commentary",
+      "text": "I.e., to my representative the Rabshakeh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 36,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-isa-36-17",
       "type": "verse",
       "number": 17,
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "Where were the gods of Hamath and Arpad? Where were the gods of Sepharvaim? And did they save Samaria from me?"
+    },
+    {
+      "block_id": "jsb-isa-36-19-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the gods of Samaria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 36,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-36-20",

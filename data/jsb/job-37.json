@@ -1,7 +1,7 @@
 {
   "document_id": "job-37",
   "title": "Job 37",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -75,6 +75,19 @@
       "type": "verse",
       "number": 12,
       "text": "He keeps turning events by His stratagems, That they might accomplish all that He commands them Throughout the inhabited earth,"
+    },
+    {
+      "block_id": "jsb-job-37-12-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 37,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-job-37-13",

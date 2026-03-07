@@ -1,7 +1,7 @@
 {
   "document_id": "gen-38",
   "title": "Genesis 38",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,10 +53,36 @@
       "text": "Then Judah said to Onan, “Join with your brother’s wife and do your duty by her as a brother-in-law, and provide offspring for your brother.”"
     },
     {
+      "block_id": "jsb-gen-38-8-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Deut. 25.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-gen-38-9",
       "type": "verse",
       "number": 9,
       "text": "But Onan, knowing that the seed would not count as his, let it go to waste whenever he joined with his brother’s wife, so as not to provide offspring for his brother."
+    },
+    {
+      "block_id": "jsb-gen-38-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “spoil on the ground.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-gen-38-10",
@@ -77,6 +103,19 @@
       "text": "A long time afterward, Shua’s daughter, the wife of Judah, died. When his period of mourning was over, Judah went up to Timnah to his sheepshearers, together with his friend Hirah the Adullamite."
     },
     {
+      "block_id": "jsb-gen-38-12-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “he was comforted.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-gen-38-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "So she took off her widow’s garb, covered her face with a veil, and, wrapping herself up, sat down at the entrance to Enaim, which is on the road to Timnah; for she saw that Shelah was grown up, yet she had not been given to him as wife."
+    },
+    {
+      "block_id": "jsb-gen-38-14-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Enam, Josh. 15.34. Others “in an open place” or “at the crossroad.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-gen-38-15",
@@ -179,10 +231,36 @@
       "text": "But just then he drew back his hand, and out came his brother; and she said, “What a breach you have made for yourself!” So he was named Perez."
     },
     {
+      "block_id": "jsb-gen-38-29-commentary-5",
+      "type": "commentary",
+      "text": "Heb. pereṣ",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-gen-38-30",
       "type": "verse",
       "number": 30,
       "text": "Afterward his brother came out, on whose hand was the crimson thread; he was named Zerah."
+    },
+    {
+      "block_id": "jsb-gen-38-30-commentary-6",
+      "type": "commentary",
+      "text": "I.e., “brightness,” perhaps alluding to the crimson thread.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 38,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     }
   ]
 }

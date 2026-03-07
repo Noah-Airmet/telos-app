@@ -1,7 +1,7 @@
 {
   "document_id": "josh-1",
   "title": "Joshua 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Your territory shall extend from the wilderness and the Lebanon to the Great River, the River Euphrates [on the east]—the whole Hittite country—and up to the Mediterranean Sea on the west."
+    },
+    {
+      "block_id": "jsb-josh-1-4-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “Great.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-josh-1-5",
@@ -87,6 +100,32 @@
       "type": "verse",
       "number": 14,
       "text": "Let your wives, children, and livestock remain in the land that Moses assigned to you on this side of the Jordan; but every one of your fighting men shall go across armed in the van of your kinsmen. And you shall assist them"
+    },
+    {
+      "block_id": "jsb-josh-1-14-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “across.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-josh-1-14-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-josh-1-15",

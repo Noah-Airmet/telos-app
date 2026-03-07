@@ -1,7 +1,7 @@
 {
   "document_id": "jer-49",
   "title": "Jeremiah 49",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "Concerning the Ammonites. Thus said the Lord: Has Israel no sons, Has he no heir? Then why has Milcom dispossessed Gad, And why have his people settled in Gad’s towns?"
+    },
+    {
+      "block_id": "jsb-jer-49-1-commentary-1",
+      "type": "commentary",
+      "text": "The name of the Ammonite deity; vocalized Malcam here and in v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-jer-49-1-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-jer-49-2",
@@ -23,16 +49,55 @@
       "text": "Howl, O Heshbon, for Ai is ravaged! Cry out, O daughters of Rabbah! Gird on sackcloth, lament, And run to and fro in the sheepfolds. For Milcom shall go into exile, Together with his priests and attendants."
     },
     {
+      "block_id": "jsb-jer-49-3-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-49-4",
       "type": "verse",
       "number": 4,
       "text": "Why do you glory in strength, Your strength is drained, O rebellious daughter, You who relied on your treasures, [Who said:] Who dares attack me?"
     },
     {
+      "block_id": "jsb-jer-49-4-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; for “strength” cf. Akkadian emuqu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-jer-49-5",
       "type": "verse",
       "number": 5,
       "text": "I am bringing terror upon you —declares the Lord god of Hosts— From all those around you. Every one of you shall be driven in every direction, And none shall gather in the fugitives."
+    },
+    {
+      "block_id": "jsb-jer-49-5-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “each man straight ahead.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-jer-49-6",
@@ -59,10 +124,36 @@
       "text": "If vintagers were to come upon you, Would they leave no gleanings? Even thieves in the night Would destroy only for their needs!"
     },
     {
+      "block_id": "jsb-jer-49-9-commentary-6",
+      "type": "commentary",
+      "text": "Obad. 1.5 reads: “If thieves were to come to you, / Marauders by night, / They would steal no more than they needed. / If vintagers came to you, / They would surely leave some gleanings.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-jer-49-10",
       "type": "verse",
       "number": 10,
       "text": "But it is I who have bared Esau, Have exposed his place of concealment; He cannot hide. His offspring is ravaged, His kin and his neighbors— He is no more."
+    },
+    {
+      "block_id": "jsb-jer-49-10-commentary-7",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “And there is none to say.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-49-11",
@@ -83,6 +174,19 @@
       "text": "For by Myself I swear—declares the Lord—Bozrah shall become a desolation, a mockery, a ruin, and a curse; and all its towns shall be ruins for all time."
     },
     {
+      "block_id": "jsb-jer-49-13-commentary-8",
+      "type": "commentary",
+      "text": "Cf. note at 24.9 and 42.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-jer-49-14",
       "type": "verse",
       "number": 14,
@@ -101,10 +205,36 @@
       "text": "Your horrible nature, Your arrogant heart has seduced you, You who dwell in clefts of the rock, Who occupy the height of the hill! Should you nest as high as the eagle, From there I will pull you down —declares the Lord."
     },
     {
+      "block_id": "jsb-jer-49-16-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-jer-49-17",
       "type": "verse",
       "number": 17,
       "text": "And Edom shall be a cause of appallment; whoever passes by will be appalled and will hiss at all its wounds."
+    },
+    {
+      "block_id": "jsb-jer-49-17-commentary-10",
+      "type": "commentary",
+      "text": "Cf. note at 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-jer-49-18",
@@ -117,6 +247,19 @@
       "type": "verse",
       "number": 19,
       "text": "It shall be as when a lion comes up out of the jungle of the Jordan against a secure pasture: in a moment I can harry him out of it and appoint over it anyone I choose. Then who is like Me? Who can summon Me? Who is the shepherd that can stand up against Me?"
+    },
+    {
+      "block_id": "jsb-jer-49-19-commentary-11",
+      "type": "commentary",
+      "text": "Emendation yields “he can harry them [i.e., the sheep] out of it; and what champion could one place in charge of them?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-49-20",
@@ -143,6 +286,19 @@
       "text": "Concerning Damascus. Hamath and Arpad are shamed, For they have heard bad news. They shake with anxiety, Like the sea which cannot rest."
     },
     {
+      "block_id": "jsb-jer-49-23-commentary-12",
+      "type": "commentary",
+      "text": "So a few mss. Most mss. and editions read “In.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-jer-49-24",
       "type": "verse",
       "number": 24,
@@ -153,6 +309,19 @@
       "type": "verse",
       "number": 25,
       "text": "How has the glorious city not been deserted, The citadel of my joy!"
+    },
+    {
+      "block_id": "jsb-jer-49-25-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “How has the glorious city been deserted”; so Vulgate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 49,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-jer-49-26",

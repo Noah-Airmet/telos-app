@@ -1,7 +1,7 @@
 {
   "document_id": "exod-9",
   "title": "Exodus 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "text": "Yet you continue to thwart My people, and do not let them go!"
     },
     {
+      "block_id": "jsb-exod-9-17-commentary-1",
+      "type": "commentary",
+      "text": "Others “exalt yourself over.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 9,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-exod-9-18",
       "type": "verse",
       "number": 18,
@@ -205,6 +218,19 @@
       "type": "verse",
       "number": 32,
       "text": "but the wheat and the emmer were not hurt, for they ripen late.—"
+    },
+    {
+      "block_id": "jsb-exod-9-32-commentary-2",
+      "type": "commentary",
+      "text": "A kind of wheat.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 9,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-exod-9-33",

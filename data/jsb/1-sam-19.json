@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-19",
   "title": "1 Samuel 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -125,6 +125,45 @@
       "text": "and Saul sent messengers to seize David. They saw a band of prophets speaking in ecstasy, with Samuel standing by as their leader; and the spirit of God came upon Saul’s messengers and they too began to speak in ecstasy."
     },
     {
+      "block_id": "jsb-1-sam-19-20-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “He.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 19,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-1-sam-19-20-commentary-2",
+      "type": "commentary",
+      "text": "Cf. note at 10.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 19,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-1-sam-19-20-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 19,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-sam-19-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +174,19 @@
       "type": "verse",
       "number": 22,
       "text": "So he himself went to Ramah. When he came to the great cistern at Secu, he asked, “Where are Samuel and David?” and was told that they were at Naioth in Ramah."
+    },
+    {
+      "block_id": "jsb-1-sam-19-22-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “the cistern of the threshing floor on the bare height.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 19,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-sam-19-23",

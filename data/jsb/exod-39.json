@@ -1,7 +1,7 @@
 {
   "document_id": "exod-39",
   "title": "Exodus 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "Of the blue, purple, and crimson yarns they also made the service vestments for officiating in the sanctuary; they made Aaron’s sacral vestments—as the Lord had commanded Moses."
     },
     {
+      "block_id": "jsb-exod-39-1-commentary-1",
+      "type": "commentary",
+      "text": "See 36.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 39,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-exod-39-2",
       "type": "verse",
       "number": 2,
       "text": "The ephod was made of gold, blue, purple, and crimson yarns, and fine twisted linen."
+    },
+    {
+      "block_id": "jsb-exod-39-2-commentary-2",
+      "type": "commentary",
+      "text": "Here and elsewhere in this chapter the singular active verb (lit. “he made”) is used impersonally.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 39,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-exod-39-3",
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "They set in it four rows of stones. The first row was a row of carnelian, chrysolite, and emerald;"
+    },
+    {
+      "block_id": "jsb-exod-39-10-commentary-3",
+      "type": "commentary",
+      "text": "See note at 28.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 39,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-exod-39-11",
@@ -135,6 +174,19 @@
       "type": "verse",
       "number": 22,
       "text": "The robe for the ephod was made of woven work, of pure blue."
+    },
+    {
+      "block_id": "jsb-exod-39-22-commentary-4",
+      "type": "commentary",
+      "text": "See note at 28.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 39,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-exod-39-23",
@@ -225,6 +277,19 @@
       "type": "verse",
       "number": 37,
       "text": "the pure lampstand, its lamps—lamps in due order—and all its fittings, and the oil for lighting;"
+    },
+    {
+      "block_id": "jsb-exod-39-37-commentary-5",
+      "type": "commentary",
+      "text": "See note at 31.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 39,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-exod-39-38",

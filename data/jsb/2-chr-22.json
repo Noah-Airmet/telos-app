@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-22",
   "title": "2 Chronicles 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The inhabitants of Jerusalem made Ahaziah, his youngest son, king in his stead, because all the older ones had been killed by the troops that penetrated the camp with the Arabs. Ahaziah son of Jehoram reigned as king of Judah."
+    },
+    {
+      "block_id": "jsb-2-chr-22-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–6, cf. 2 Kings 8.25–29; with vv. 8–9, cf. 2 Kings 9.27–28; with vv. 10–12, cf. 2 Kings 11.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-22-2",

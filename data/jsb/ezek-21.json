@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-21",
   "title": "Ezekiel 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "O mortal, set your face toward Teman, and proclaim to Darom, and prophesy against the brushland of the Negeb."
+    },
+    {
+      "block_id": "jsb-ezek-21-2-commentary-1",
+      "type": "commentary",
+      "text": "Teman, Darom, Negeb are three terms for “the south.” The allusion is to Jerusalem (v. 7), which was always approached from Babylon by way of the north.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-21-3",
@@ -95,6 +108,32 @@
       "text": "It has been whetted to wreak slaughter; [therefore] it has been ground to a brilliant polish. How can we rejoice? My son, it scorns the rod and every stick."
     },
     {
+      "block_id": "jsb-ezek-21-15-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “it has been polished in order that it may have lightning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-ezek-21-15-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ezek-21-16",
       "type": "verse",
       "number": 16,
@@ -119,6 +158,19 @@
       "text": "Further, O mortal, prophesy, striking hand against hand. Let the sword strike a second time and yet a third time; it is a sword for massacre, a sword for great carnage, that presses upon them."
     },
     {
+      "block_id": "jsb-ezek-21-19-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-ezek-21-20",
       "type": "verse",
       "number": 20,
@@ -129,6 +181,19 @@
       "type": "verse",
       "number": 21,
       "text": "Be united, go to the right, turn left; whither are you bound?"
+    },
+    {
+      "block_id": "jsb-ezek-21-21-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; Targum reads “Be whetted.” Cf. vv. 14–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ezek-21-22",
@@ -161,6 +226,19 @@
       "text": "For the king of Babylon has stood at the fork of the road, where two roads branch off, to perform divination: He has shaken arrows, consulted teraphim, and inspected the liver."
     },
     {
+      "block_id": "jsb-ezek-21-26-commentary-6",
+      "type": "commentary",
+      "text": "I.e., of a sacrificed animal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-ezek-21-27",
       "type": "verse",
       "number": 27,
@@ -171,6 +249,19 @@
       "type": "verse",
       "number": 28,
       "text": "In their eyes, the oaths they had sworn to them were like empty divination; but this shall serve to recall their guilt, for which they shall be taken to task."
+    },
+    {
+      "block_id": "jsb-ezek-21-28-commentary-7",
+      "type": "commentary",
+      "text": "The inhabitants of Jerusalem disregarded their oaths to the Babylonians; cf. 17.13 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-ezek-21-29",
@@ -197,6 +288,19 @@
       "text": "Ruin, an utter ruin I will make it. It shall be no more until he comes to whom it rightfully belongs; and I will give it to him."
     },
     {
+      "block_id": "jsb-ezek-21-32-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-ezek-21-33",
       "type": "verse",
       "number": 33,
@@ -213,6 +317,19 @@
       "type": "verse",
       "number": 35,
       "text": "Return it to its sheath! In the place where you were created, in the land of your origin, I will judge you."
+    },
+    {
+      "block_id": "jsb-ezek-21-35-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “Return to your scabbard!” In this and the following verses, the prophet describes the future punishment of Babylon, still symbolized by the sword.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 21,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-ezek-21-36",

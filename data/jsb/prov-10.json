@@ -1,7 +1,7 @@
 {
   "document_id": "prov-10",
   "title": "Proverbs 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "type": "verse",
       "number": 19,
       "text": "Where there is much talking, there is no lack of transgressing, But he who curbs his tongue shows sense."
+    },
+    {
+      "block_id": "jsb-prov-10-19-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “lips.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-prov-10-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-6",
   "title": "Isaiah 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "The doorposts would shake at the sound of the one who called, and the House kept filling with smoke."
     },
     {
+      "block_id": "jsb-isa-6-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-6-5",
       "type": "verse",
       "number": 5,
       "text": "I cried, “Woe is me; I am lost! For I am a man of unclean lips And I live among a people Of unclean lips; Yet my own eyes have beheld The King Lord of Hosts.”"
+    },
+    {
+      "block_id": "jsb-isa-6-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., speaking impiety; cf. 9.16, and contrast “pure of speech [lit. ‘lip’]” in Zeph. 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 6,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-6-6",
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "Dull that people’s mind, Stop its ears, And seal its eyes— Lest, seeing with its eyes And hearing with its ears, It also grasp with its mind, And repent and save itself.”"
+    },
+    {
+      "block_id": "jsb-isa-6-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “heal.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 6,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-6-11",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-11",
   "title": "1 Chronicles 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "All Israel gathered to David at Hebron and said, “We are your own flesh and blood."
+    },
+    {
+      "block_id": "jsb-1-chr-11-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–9, cf. 2 Sam. 5.1–10, and with vv. 11–41, cf. 2 Sam. 23.8–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 11,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-11-2",
@@ -153,6 +166,19 @@
       "type": "verse",
       "number": 25,
       "text": "He was highly regarded among the thirty, but he did not attain to the three. David put him in charge of his bodyguard."
+    },
+    {
+      "block_id": "jsb-1-chr-11-25-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 11,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-1-chr-11-26",

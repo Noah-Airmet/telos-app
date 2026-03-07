@@ -1,7 +1,7 @@
 {
   "document_id": "gen-23",
   "title": "Genesis 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "Ephron was present among the Hittites; so Ephron the Hittite answered Abraham in the hearing of the Hittites, all who entered the gate of his town, saying,"
     },
     {
+      "block_id": "jsb-gen-23-10-commentary-1",
+      "type": "commentary",
+      "text": "I.e., all his fellow townsmen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-gen-23-11",
       "type": "verse",
       "number": 11,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "to Abraham as his possession, in the presence of the Hittites, of all who entered the gate of his town."
+    },
+    {
+      "block_id": "jsb-gen-23-18-commentary-2",
+      "type": "commentary",
+      "text": "I.e., all his fellow townsmen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-gen-23-19",

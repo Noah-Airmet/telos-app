@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-9",
   "title": "Ezra 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "and said, “O my God, I am too ashamed and mortified to lift my face to You, O my God, for our iniquities are overwhelming and our guilt has grown high as heaven."
     },
     {
+      "block_id": "jsb-ezra-9-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “are numerous above the head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezra-9-7",
       "type": "verse",
       "number": 7,
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "For bondsmen we are, though even in our bondage God has not forsaken us, but has disposed the king of Persia favorably toward us, to furnish us with sustenance and to raise again the House of our God, repairing its ruins and giving us a hold in Judah and Jerusalem."
+    },
+    {
+      "block_id": "jsb-ezra-9-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “fence.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 9,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezra-9-10",
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "O Lord, God of Israel, You are benevolent, for we have survived as a remnant, as is now the case. We stand before You in all our guilt, for we cannot face You on this account.”"
+    },
+    {
+      "block_id": "jsb-ezra-9-15-commentary-3",
+      "type": "commentary",
+      "text": "Or “in the right.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 9,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     }
   ]
 }

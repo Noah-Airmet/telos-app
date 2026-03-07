@@ -1,7 +1,7 @@
 {
   "document_id": "gen-42",
   "title": "Genesis 42",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When Jacob saw that there were food rations to be had in Egypt, he said to his sons, “Why do you keep looking at one another?"
+    },
+    {
+      "block_id": "jsb-gen-42-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Jacob.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 42,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-gen-42-2",

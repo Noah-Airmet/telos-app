@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-12",
   "title": "2 Chronicles 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,10 +59,36 @@
       "text": "He took away the treasures of the House of the Lord and the treasures of the royal palace; he took away everything; he took away the golden shields that Solomon had made."
     },
     {
+      "block_id": "jsb-2-chr-12-9-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 9–16, cf. 1 Kings 14.26–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 12,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-chr-12-10",
       "type": "verse",
       "number": 10,
       "text": "King Rehoboam had bronze shields made in their place, and entrusted them to the officers of the guard who guarded the entrance to the royal palace."
+    },
+    {
+      "block_id": "jsb-2-chr-12-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “runners.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 12,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-2-chr-12-11",

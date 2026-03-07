@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-29",
   "title": "1 Samuel 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "The Philistine officers asked, “Who are those Hebrews?” “Why, that’s David, the servant of King Saul of Israel,” Achish answered the Philistine officers. “He has been with me for a year or more, and I have found no fault in him from the day he defected until now.”"
     },
     {
+      "block_id": "jsb-1-sam-29-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of phrase uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 29,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-29-4",
       "type": "verse",
       "number": 4,
       "text": "But the Philistine officers were angry with him; and the Philistine officers said to him, “Send the man back; let him go back to the place you assigned him. He shall not march down with us to the battle, or else he may become our adversary in battle. For with what could that fellow appease his master if not with the heads of these men?"
+    },
+    {
+      "block_id": "jsb-1-sam-29-4-commentary-2",
+      "type": "commentary",
+      "text": "A euphemism for “our heads.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 29,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-sam-29-5",
@@ -39,6 +65,19 @@
       "type": "verse",
       "number": 6,
       "text": "Achish summoned David and said to him, “As the Lord lives, you are an honest man, and I would like to have you serve in my forces; for I have found no fault with you from the day you joined me until now. But you are not acceptable to the other lords."
+    },
+    {
+      "block_id": "jsb-1-sam-29-6-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “go out and come in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 29,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-29-7",
@@ -63,6 +102,19 @@
       "type": "verse",
       "number": 10,
       "text": "So rise early in the morning, you and your lord’s servants who came with you—rise early in the morning, and leave as soon as it is light.”"
+    },
+    {
+      "block_id": "jsb-1-sam-29-10-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of parts of verse uncertain. Septuagint reads “and go to the place that I have assigned you; and harbor no evil thought in your heart, for you are acceptable to me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 29,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-1-sam-29-11",

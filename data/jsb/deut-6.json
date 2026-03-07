@@ -1,7 +1,7 @@
 {
   "document_id": "deut-6",
   "title": "Deuteronomy 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "Obey, O Israel, willingly and faithfully, that it may go well with you and that you may increase greatly [in] a land flowing with milk and honey, as the Lord, the God of your fathers, spoke to you."
     },
     {
+      "block_id": "jsb-deut-6-3-commentary-1",
+      "type": "commentary",
+      "text": "According to Ibn Ezra this phrase connects with the end of v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-deut-6-4",
       "type": "verse",
       "number": 4,
       "text": "Hear, O Israel! The Lord is our God, the Lord alone."
+    },
+    {
+      "block_id": "jsb-deut-6-4-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Rashbam and Ibn Ezra; see Zech. 14.9. Others “The Lord our God, the Lord is one.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-deut-6-5",
@@ -51,6 +77,32 @@
       "type": "verse",
       "number": 8,
       "text": "Bind them as a sign on your hand and let them serve as a symbol on your forehead;"
+    },
+    {
+      "block_id": "jsb-deut-6-8-commentary-3",
+      "type": "commentary",
+      "text": "Others “frontlet”; cf. Exod. 13.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-deut-6-8-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “between your eyes”; cf. Exod. 13.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-deut-6-9",
@@ -101,6 +153,19 @@
       "text": "Do not try the Lord your God, as you did at Massah."
     },
     {
+      "block_id": "jsb-deut-6-16-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Exod. 17.1–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-deut-6-17",
       "type": "verse",
       "number": 17,
@@ -123,6 +188,19 @@
       "type": "verse",
       "number": 20,
       "text": "When, in time to come, your children ask you, “What mean the decrees, laws, and rules that the Lord our God has enjoined upon you?”"
+    },
+    {
+      "block_id": "jsb-deut-6-20-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint and rabbinic quotations read “us.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 6,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-deut-6-21",

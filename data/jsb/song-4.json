@@ -1,7 +1,7 @@
 {
   "document_id": "song-4",
   "title": "Song of Songs 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Your teeth are like a flock of ewes Climbing up from the washing pool; All of them bear twins, And not one loses her young."
     },
     {
+      "block_id": "jsb-song-4-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 6.6; exact nuance of qeṣuboth uncertain, perhaps “shorn ones.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-song-4-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Your neck is like the Tower of David, Built to hold weapons, Hung with a thousand shields— All the quivers of warriors."
+    },
+    {
+      "block_id": "jsb-song-4-4-commentary-2",
+      "type": "commentary",
+      "text": "Apparently a poetic figure for jewelry; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-song-4-5",
@@ -41,6 +67,19 @@
       "text": "When the day blows gently And the shadows flee, I will betake me to the mount of myrrh, To the hill of frankincense."
     },
     {
+      "block_id": "jsb-song-4-6-commentary-3",
+      "type": "commentary",
+      "text": "See notes at 2.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-song-4-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +92,49 @@
       "text": "From Lebanon come with me; From Lebanon, my bride, with me! Trip down from Amana’s peak, From the peak of Senir and Hermon, From the dens of lions, From the hills of leopards."
     },
     {
+      "block_id": "jsb-song-4-8-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Deut. 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-song-4-8-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “lairs”; cf. Nah. 2.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-song-4-9",
       "type": "verse",
       "number": 9,
       "text": "You have captured my heart, My own, my bride, You have captured my heart With one [glance] of your eyes, With one coil of your necklace."
+    },
+    {
+      "block_id": "jsb-song-4-9-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “sister”; and so frequently below.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-song-4-10",
@@ -93,6 +171,19 @@
       "type": "verse",
       "number": 15,
       "text": "[You are] a garden spring, A well of fresh water, A rill of Lebanon."
+    },
+    {
+      "block_id": "jsb-song-4-15-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “The spring in my garden / Is a well of fresh water.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "song",
+        "chapter": 4,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-song-4-16",

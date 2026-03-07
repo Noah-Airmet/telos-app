@@ -1,7 +1,7 @@
 {
   "document_id": "num-23",
   "title": "Numbers 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Then Balaam said to Balak, “Stay here beside your offerings while I am gone. Perhaps the Lord will grant me a manifestation, and whatever He reveals to me I will tell you.” And he went off alone."
+    },
+    {
+      "block_id": "jsb-num-23-3-commentary-1",
+      "type": "commentary",
+      "text": "Others “to a bare height”; exact meaning of Heb. shephi uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-23-4",
@@ -53,6 +66,19 @@
       "text": "How can I damn whom God has not damned, How doom when the Lord has not doomed?"
     },
     {
+      "block_id": "jsb-num-23-8-commentary-2",
+      "type": "commentary",
+      "text": "Heb. El, as often in these poems.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-num-23-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +89,45 @@
       "type": "verse",
       "number": 10,
       "text": "Who can count the dust of Jacob, Number the dust-cloud of Israel? May I die the death of the upright, May my fate be like theirs!"
+    },
+    {
+      "block_id": "jsb-num-23-10-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Gen. 13.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-num-23-10-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “and the number of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-num-23-10-commentary-5",
+      "type": "commentary",
+      "text": "Heb. yesharim, a play on yeshurun (Jeshurun in Deut. 32.15), a name for Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-num-23-11",
@@ -87,6 +152,19 @@
       "type": "verse",
       "number": 14,
       "text": "With that, he took him to Sedehzophim, on the summit of Pisgah. He built seven altars and offered a bull and a ram on each altar."
+    },
+    {
+      "block_id": "jsb-num-23-14-commentary-6",
+      "type": "commentary",
+      "text": "Or “Lookout Point.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-num-23-15",
@@ -137,16 +215,68 @@
       "text": "God who freed them from Egypt Is for them like the horns of the wild ox."
     },
     {
+      "block_id": "jsb-num-23-22-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “eminences,” used figuratively.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-num-23-23",
       "type": "verse",
       "number": 23,
       "text": "Lo, there is no augury in Jacob, No divining in Israel: Jacob is told at once, Yea Israel, what God has planned."
     },
     {
+      "block_id": "jsb-num-23-23-commentary-8",
+      "type": "commentary",
+      "text": "Cf. Deut. 18.10–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-num-23-23-commentary-9",
+      "type": "commentary",
+      "text": "Or, “Else would it be told to Jacob, / Yea to Israel, what God has planned.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-num-23-24",
       "type": "verse",
       "number": 24,
       "text": "Lo, a people that rises like a lion, Leaps up like the king of beasts, Rests not till it has feasted on prey And drunk the blood of the slain."
+    },
+    {
+      "block_id": "jsb-num-23-24-commentary-10",
+      "type": "commentary",
+      "text": "Heb. ʾari, another term for “lion.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-num-23-25",
@@ -171,6 +301,19 @@
       "type": "verse",
       "number": 28,
       "text": "Balak took Balaam to the peak of Peor, which overlooks the wasteland."
+    },
+    {
+      "block_id": "jsb-num-23-28-commentary-11",
+      "type": "commentary",
+      "text": "Cf. note on 21.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-num-23-29",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-108",
   "title": "Psalms 108",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "My heart is firm, O God; I will sing and chant a hymn with all my soul."
+    },
+    {
+      "block_id": "jsb-ps-108-2-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 2–6, cf. Ps. 57.8–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 108,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-108-3",
@@ -47,10 +60,36 @@
       "text": "That those whom You love may be rescued, deliver with Your right hand and answer me."
     },
     {
+      "block_id": "jsb-ps-108-7-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 7–14, cf. Ps. 60.7–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 108,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-108-8",
       "type": "verse",
       "number": 8,
       "text": "God promised in His sanctuary that I would exultingly divide up Shechem, and measure the Valley of Sukkoth;"
+    },
+    {
+      "block_id": "jsb-ps-108-8-commentary-3",
+      "type": "commentary",
+      "text": "Or “by His holiness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 108,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-108-9",

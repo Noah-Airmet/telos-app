@@ -1,7 +1,7 @@
 {
   "document_id": "isa-42",
   "title": "Isaiah 42",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "He shall not break even a bruised reed, Or snuff out even a dim wick. He shall bring forth the true way."
     },
     {
+      "block_id": "jsb-isa-42-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “A bruised reed, he shall not be broken; / A dim wick, he shall not be snuffed out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-42-4",
       "type": "verse",
       "number": 4,
@@ -41,10 +54,49 @@
       "text": "I the Lord, in My grace, have summoned you, And I have grasped you by the hand. I created you, and appointed you A covenant people, a light of nations—"
     },
     {
+      "block_id": "jsb-isa-42-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “covenants of a people”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-42-6-commentary-3",
+      "type": "commentary",
+      "text": "See 49.6 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-42-7",
       "type": "verse",
       "number": 7,
       "text": "Opening eyes deprived of light, Rescuing prisoners from confinement, From the dungeon those who sit in darkness."
+    },
+    {
+      "block_id": "jsb-isa-42-7-commentary-4",
+      "type": "commentary",
+      "text": "An idiom meaning “freeing the imprisoned”; cf. 61.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-isa-42-8",
@@ -63,6 +115,19 @@
       "type": "verse",
       "number": 10,
       "text": "Sing to the Lord a new song, His praise from the ends of the earth— You who sail the sea and you creatures in it, You coastlands and their inhabitants!"
+    },
+    {
+      "block_id": "jsb-isa-42-10-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “Let the sea roar and its creatures, / The coastlands …” Cf. Ps. 98.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-isa-42-11",
@@ -89,10 +154,36 @@
       "text": "“I have kept silent far too long, Kept still and restrained Myself; Now I will scream like a woman in labor, I will pant and I will gasp."
     },
     {
+      "block_id": "jsb-isa-42-14-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “from of old.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-42-15",
       "type": "verse",
       "number": 15,
       "text": "Hills and heights will I scorch, Cause all their green to wither; I will turn rivers into isles, And dry the marshes up."
+    },
+    {
+      "block_id": "jsb-isa-42-15-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “desert.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-42-16",
@@ -119,16 +210,55 @@
       "text": "Who is so blind as My servant, So deaf as the messenger I send? Who is so blind as the chosen one, So blind as the servant of the Lord?"
     },
     {
+      "block_id": "jsb-isa-42-19-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-isa-42-20",
       "type": "verse",
       "number": 20,
       "text": "Seeing many things, he gives no heed; With ears open, he hears nothing."
     },
     {
+      "block_id": "jsb-isa-42-20-commentary-9",
+      "type": "commentary",
+      "text": "Heb. “you give.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-42-21",
       "type": "verse",
       "number": 21,
       "text": "The Lord desires His [servant’s] vindication, That he may magnify and glorify [His] Teaching."
+    },
+    {
+      "block_id": "jsb-isa-42-21-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain; cf. 43.9–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-42-22",
@@ -147,6 +277,19 @@
       "type": "verse",
       "number": 24,
       "text": "Who was it gave Jacob over to despoilment And Israel to plunderers? Surely, the Lord against whom they sinned In whose ways they would not walk And whose Teaching they would not obey."
+    },
+    {
+      "block_id": "jsb-isa-42-24-commentary-11",
+      "type": "commentary",
+      "text": "Heb. “we.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 42,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-isa-42-25",

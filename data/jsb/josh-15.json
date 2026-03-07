@@ -1,7 +1,7 @@
 {
   "document_id": "josh-15",
   "title": "Joshua 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,32 @@
       "text": "The boundary ascended from the Valley of Achor to Debir and turned north to Gilgal, facing the Ascent of Adummim which is south of the wadi; from there the boundary continued to the waters of En‑shemesh and ran on to En‑rogel."
     },
     {
+      "block_id": "jsb-josh-15-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-josh-15-7-commentary-2",
+      "type": "commentary",
+      "text": "Apparently identical with Geliloth, 18.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-josh-15-8",
       "type": "verse",
       "number": 8,
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "From Baalah the boundary turned westward to Mount Seir, passed north of the slope of Mount Jearim—that is, Chesalon—descended to Beth-shemesh, and passed on to Timnah."
+    },
+    {
+      "block_id": "jsb-josh-15-10-commentary-3",
+      "type": "commentary",
+      "text": "Not the Seir of Edom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-josh-15-11",
@@ -107,16 +146,68 @@
       "text": "His kinsman Othniel the Kenizzite captured it; and Caleb gave him his daughter Achsah in marriage."
     },
     {
+      "block_id": "jsb-josh-15-17-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 14.6, 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-josh-15-18",
       "type": "verse",
       "number": 18,
       "text": "When she came [to him], she induced him to ask her father for some property. She dismounted from her donkey, and Caleb asked her, “What is the matter?”"
     },
     {
+      "block_id": "jsb-josh-15-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Some Greek mss. read “he induced her”; cf. Judg. 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-josh-15-19",
       "type": "verse",
       "number": 19,
       "text": "She replied, “Give me a present; for you have given me away as Negeb-land; so give me springs of water.” And he gave her Upper and Lower Gulloth."
+    },
+    {
+      "block_id": "jsb-josh-15-19-commentary-6",
+      "type": "commentary",
+      "text": "I.e., as a dry land, that is, without a dowry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-josh-15-19-commentary-7",
+      "type": "commentary",
+      "text": "I.e., “springs.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-josh-15-20",
@@ -197,6 +288,45 @@
       "text": "Lebaoth, Shilhim, Ain and Rimmon. Total: 29 towns, with their villages."
     },
     {
+      "block_id": "jsb-josh-15-32-commentary-8",
+      "type": "commentary",
+      "text": "Cf. below 19.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "jsb-josh-15-32-commentary-9",
+      "type": "commentary",
+      "text": "Cf. Ain, Rimmon, 19.7 below, and 1 Chron. 4.32; En‑rimmon, Neh. 11.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "jsb-josh-15-32-commentary-10",
+      "type": "commentary",
+      "text": "The number is uncertain. Some of the same towns are listed under Simeon, cf. 19.1–9; so Rashi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-josh-15-33",
       "type": "verse",
       "number": 33,
@@ -219,6 +349,19 @@
       "type": "verse",
       "number": 36,
       "text": "Shaaraim, Adithaim, Gederah, and Gederothaim—14 towns, with their villages."
+    },
+    {
+      "block_id": "jsb-josh-15-36-commentary-11",
+      "type": "commentary",
+      "text": "The number is uncertain. Tappuah and Enam may have been one place; so Rashi on basis of 17.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-josh-15-37",
@@ -299,6 +442,19 @@
       "text": "Dannah, Kiriath-sannah—that is, Debir—"
     },
     {
+      "block_id": "jsb-josh-15-49-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields “Kiriath-sepher”; cf. Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
       "block_id": "jsb-josh-15-50",
       "type": "verse",
       "number": 50,
@@ -359,6 +515,19 @@
       "text": "Maarath, Beth-anoth, and Eltekon: 6 towns, with their villages."
     },
     {
+      "block_id": "jsb-josh-15-59-commentary-13",
+      "type": "commentary",
+      "text": "Septuagint adds: Tekoa, Ephrathah—that is, Bethlehem—Peor, Etam, Kulon, Tatam, Sores, Karem, Gallim, Bether, and Manach—11 towns, with their villages.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 59
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
       "block_id": "jsb-josh-15-60",
       "type": "verse",
       "number": 60,
@@ -375,6 +544,19 @@
       "type": "verse",
       "number": 62,
       "text": "Nibshan, Ir‑melah, and En‑gedi: 6 towns, with their villages."
+    },
+    {
+      "block_id": "jsb-josh-15-62-commentary-14",
+      "type": "commentary",
+      "text": "Or “the City of Salt.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 15,
+        "verse": 62
+      },
+      "verse_start": 62,
+      "verse_end": 62
     },
     {
       "block_id": "jsb-josh-15-63",

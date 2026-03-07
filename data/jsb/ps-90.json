@@ -1,7 +1,7 @@
 {
   "document_id": "ps-90",
   "title": "Psalms 90",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "You return man to dust; You decreed, “Return you mortals!”"
+    },
+    {
+      "block_id": "jsb-ps-90-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “contrition.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 90,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-90-4",
@@ -63,6 +76,32 @@
       "type": "verse",
       "number": 10,
       "text": "The span of our life is seventy years, or, given the strength, eighty years; but the best of them are trouble and sorrow. They pass by speedily, and we are in darkness."
+    },
+    {
+      "block_id": "jsb-ps-90-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 90,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-ps-90-10-commentary-3",
+      "type": "commentary",
+      "text": "Or “fly away.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 90,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-90-11",

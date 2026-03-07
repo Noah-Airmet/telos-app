@@ -1,7 +1,7 @@
 {
   "document_id": "jer-39",
   "title": "Jeremiah 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,10 +23,36 @@
       "text": "All the officers of the king of Babylon entered, and took up quarters at the middle gate—Nergal-sarezer, Samgar-nebo, Sarsechim the Rab-saris, Nergal-sarezer the Rab-mag, and all the rest of the officers of the king of Babylon."
     },
     {
+      "block_id": "jsb-jer-39-3-commentary-1",
+      "type": "commentary",
+      "text": "Titles of officers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 39,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-39-4",
       "type": "verse",
       "number": 4,
       "text": "When King Zedekiah of Judah saw them, he and all the soldiers fled. They left the city at night, by way of the king’s garden, through the gate between the double walls; and he set out toward the Arabah."
+    },
+    {
+      "block_id": "jsb-jer-39-4-commentary-2",
+      "type": "commentary",
+      "text": "Hoping to escape across the Jordan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 39,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-39-5",
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "The Chaldeans burned down the king’s palace and the houses of the people by fire, and they tore down the walls of Jerusalem."
+    },
+    {
+      "block_id": "jsb-jer-39-8-commentary-3",
+      "type": "commentary",
+      "text": "Taking Heb. singular as collective, with Kimhi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 39,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-jer-39-9",
@@ -89,6 +128,19 @@
       "text": "and had Jeremiah brought from the prison compound. They committed him to the care of Gedaliah son of Ahikam son of Shaphan, that he might be left at liberty in a house. So he dwelt among the people."
     },
     {
+      "block_id": "jsb-jer-39-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 39,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-jer-39-15",
       "type": "verse",
       "number": 15,
@@ -111,6 +163,19 @@
       "type": "verse",
       "number": 18,
       "text": "I will rescue you, and you shall not fall by the sword. You shall escape with your life, because you trusted Me—declares the Lord.”"
+    },
+    {
+      "block_id": "jsb-jer-39-18-commentary-5",
+      "type": "commentary",
+      "text": "See note at 38.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 39,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-3",
   "title": "Genesis 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "but God knows that as soon as you eat of it your eyes will be opened and you will be like divine beings who know good and bad.”"
+    },
+    {
+      "block_id": "jsb-gen-3-5-commentary-2",
+      "type": "commentary",
+      "text": "Others “God, who knows.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-gen-3-6",
@@ -125,6 +138,32 @@
       "text": "The man named his wife Eve, because she was the mother of all the living."
     },
     {
+      "block_id": "jsb-gen-3-20-commentary-3",
+      "type": "commentary",
+      "text": "Heb. ḥawwah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 3,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-gen-3-20-commentary-4",
+      "type": "commentary",
+      "text": "Heb. ḥay.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 3,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-gen-3-21",
       "type": "verse",
       "number": 21,
@@ -153,6 +192,19 @@
       "type": "verse",
       "number": 25,
       "text": "The two of them were naked, the man and his wife, yet they felt no shame."
+    },
+    {
+      "block_id": "jsb-gen-3-25-commentary-1",
+      "type": "commentary",
+      "text": "Heb. ʿarummim, play on ʿarum “shrewd” in 3.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 3,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     }
   ]
 }

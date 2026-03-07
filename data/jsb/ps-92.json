@@ -1,7 +1,7 @@
 {
   "document_id": "ps-92",
   "title": "Psalms 92",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "How great are Your works, O Lord, how very subtle Your designs!"
+    },
+    {
+      "block_id": "jsb-ps-92-6-commentary-1",
+      "type": "commentary",
+      "text": "Or “profound.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 92,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-92-7",

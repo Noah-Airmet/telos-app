@@ -1,7 +1,7 @@
 {
   "document_id": "job-12",
   "title": "Job 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -107,6 +107,19 @@
       "text": "He makes counselors go about naked And causes judges to go mad."
     },
     {
+      "block_id": "jsb-job-12-17-commentary-1",
+      "type": "commentary",
+      "text": "A sign of madness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 12,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-job-12-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +130,19 @@
       "type": "verse",
       "number": 19,
       "text": "He makes priests go about naked, And leads temple-servants astray."
+    },
+    {
+      "block_id": "jsb-job-12-19-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Ugaritic ytnm, a class of temple servants; others “the mighty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 12,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-job-12-20",

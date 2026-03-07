@@ -1,7 +1,7 @@
 {
   "document_id": "ps-72",
   "title": "Psalms 72",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -94,6 +94,19 @@
       "text": "He redeems them from fraud and lawlessness; the shedding of their blood weighs heavily upon him."
     },
     {
+      "block_id": "jsb-ps-72-14-commentary-1",
+      "type": "commentary",
+      "text": "Or “their life is precious in his sight.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 72,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ps-72-15",
       "type": "verse",
       "number": 15,
@@ -104,6 +117,19 @@
       "type": "verse",
       "number": 16,
       "text": "Let abundant grain be in the land, to the tops of the mountains; let his crops thrive like the forest of Lebanon; and let men sprout up in towns like country grass."
+    },
+    {
+      "block_id": "jsb-ps-72-16-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of some Heb. phrases in these verses uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 72,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-ps-72-17",

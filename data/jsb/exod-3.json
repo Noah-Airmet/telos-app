@@ -1,7 +1,7 @@
 {
   "document_id": "exod-3",
   "title": "Exodus 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,10 +89,49 @@
       "text": "And God said to Moses, “Ehyeh-Asher-Ehyeh.” He continued, “Thus shall you say to the Israelites, ‘Ehyeh sent me to you.’”"
     },
     {
+      "block_id": "jsb-exod-3-14-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; variously translated: “I Am That I Am”; “I Am Who I Am”; “I Will Be What I Will Be”; etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-exod-3-14-commentary-2",
+      "type": "commentary",
+      "text": "Others “I Am” or “I Will Be.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-exod-3-15",
       "type": "verse",
       "number": 15,
       "text": "And God said further to Moses, “Thus shall you speak to the Israelites: The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you: This shall be My name forever, This My appellation for all eternity."
+    },
+    {
+      "block_id": "jsb-exod-3-15-commentary-3",
+      "type": "commentary",
+      "text": "The name Yhwh (traditionally read Adonai “the Lord”) is here associated with the root hayah “to be.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 3,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-exod-3-16",

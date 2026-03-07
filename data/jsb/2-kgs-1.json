@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-1",
   "title": "2 Kings 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "Assuredly, thus said the Lord: You shall not rise from the bed you are lying on, but you shall die.’” And Elijah went."
     },
     {
+      "block_id": "jsb-2-kgs-1-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “descend from the bed you have mounted.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-2-kgs-1-5",
       "type": "verse",
       "number": 5,
       "text": "The messengers returned to Ahaziah; and he asked, “Why have you come back?”"
+    },
+    {
+      "block_id": "jsb-2-kgs-1-5-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-kgs-1-6",
@@ -71,6 +97,19 @@
       "text": "The king then sent to him another captain with his fifty men; and he addressed him as follows: “Man of God, by order of the king, come down at once!”"
     },
     {
+      "block_id": "jsb-2-kgs-1-11-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “went up and said to him,” cf. v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-kgs-1-12",
       "type": "verse",
       "number": 12,
@@ -89,6 +128,19 @@
       "text": "Already fire has come from heaven and consumed the first two captains of fifty and their men; I beg you, have regard for my life!”"
     },
     {
+      "block_id": "jsb-2-kgs-1-14-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “fifties.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-kgs-1-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +157,19 @@
       "type": "verse",
       "number": 17,
       "text": "And [Ahaziah] died, according to the word of the Lord that Elijah had spoken. Jehoram succeeded him as king, in the second year of King Jehoram son of Jehoshaphat of Judah, for he had no son."
+    },
+    {
+      "block_id": "jsb-2-kgs-1-17-commentary-5",
+      "type": "commentary",
+      "text": "Brother of Ahaziah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 1,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-2-kgs-1-18",

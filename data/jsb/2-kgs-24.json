@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-24",
   "title": "2 Kings 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "At that time, the troops of King Nebuchadnezzar of Babylon marched against Jerusalem, and the city came under siege."
     },
     {
+      "block_id": "jsb-2-kgs-24-10-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “servants.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 24,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-kgs-24-11",
       "type": "verse",
       "number": 11,
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "He carried off from Jerusalem all the treasures of the House of the Lord and the treasures of the royal palace; he stripped off all the golden decorations in the Temple of the Lord—which King Solomon of Israel had made—as the Lord had warned."
+    },
+    {
+      "block_id": "jsb-2-kgs-24-13-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “from there.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 24,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-24-14",
@@ -107,10 +133,36 @@
       "text": "And the king of Babylon appointed Mattaniah, Jehoiachin’s uncle, king in his place, changing his name to Zedekiah."
     },
     {
+      "block_id": "jsb-2-kgs-24-17-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 24,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-2-kgs-24-18",
       "type": "verse",
       "number": 18,
       "text": "Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem; his mother’s name was Hamutal daughter of Jeremiah of Libnah."
+    },
+    {
+      "block_id": "jsb-2-kgs-24-18-commentary-4",
+      "type": "commentary",
+      "text": "For the rest of this book cf. Jer. 39 and 52.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 24,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-kgs-24-19",
@@ -123,6 +175,19 @@
       "type": "verse",
       "number": 20,
       "text": "Indeed, Jerusalem and Judah were a cause of anger for the Lord, so that He cast them out of His presence."
+    },
+    {
+      "block_id": "jsb-2-kgs-24-20-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 24,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

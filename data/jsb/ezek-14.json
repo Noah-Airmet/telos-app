@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-14",
   "title": "Ezekiel 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Now speak to them and tell them: Thus said the Lord god: If anyone of the House of Israel turns his thoughts upon his fetishes and sets his mind upon the sin through which he stumbled, and yet comes to the prophet, I the Lord will respond to him as he comes with his multitude of fetishes."
+    },
+    {
+      "block_id": "jsb-ezek-14-4-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “directly, because of”; cf. v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezek-14-5",
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "Yet there are survivors left of it, sons and daughters who are being brought out. They are coming out to you; and when you see their ways and their deeds, you will be consoled for the disaster that I brought on Jerusalem, for all that I brought on it."
+    },
+    {
+      "block_id": "jsb-ezek-14-22-commentary-2",
+      "type": "commentary",
+      "text": "Several ancient versions read “who are bringing out sons and daughters.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 14,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ezek-14-23",

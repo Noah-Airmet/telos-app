@@ -1,7 +1,7 @@
 {
   "document_id": "judg-10",
   "title": "Judges 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,32 @@
       "text": "He had thirty sons, who rode on thirty burros and owned thirty boroughs in the region of Gilead; these are called Havvoth-jair to this day.)"
     },
     {
+      "block_id": "jsb-judg-10-4-commentary-1",
+      "type": "commentary",
+      "text": "Imitating the pun in the Heb., which employs ʿayarim first in the sense of “donkeys” and then in the sense of “towns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-judg-10-4-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “the villages of Jair”; cf. Num. 32.41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-judg-10-5",
       "type": "verse",
       "number": 5,
@@ -53,6 +79,19 @@
       "text": "That year they battered and shattered the Israelites—for eighteen years—all the Israelites beyond the Jordan, in [what had been] the land of the Amorites in Gilead."
     },
     {
+      "block_id": "jsb-judg-10-8-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; perhaps “enough for” or “continuing for.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 10,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-judg-10-9",
       "type": "verse",
       "number": 9,
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "The Sidonians, Amalek, and Maon also oppressed you; and when you cried out to Me, I saved you from them."
+    },
+    {
+      "block_id": "jsb-judg-10-12-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “Midian.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-judg-10-13",

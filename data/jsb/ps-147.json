@@ -1,7 +1,7 @@
 {
   "document_id": "ps-147",
   "title": "Psalms 147",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -63,6 +63,19 @@
       "type": "verse",
       "number": 10,
       "text": "He does not prize the strength of horses, nor value the fleetness of men;"
+    },
+    {
+      "block_id": "jsb-ps-147-10-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “thighs.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-147-11",

@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-25",
   "title": "Ezekiel 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "Thus said the Lord god: Because Moab and Seir said, “See, the House of Judah is like all other nations”—"
+    },
+    {
+      "block_id": "jsb-ezek-25-8-commentary-1",
+      "type": "commentary",
+      "text": "Lacking in some Septuagint mss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 25,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ezek-25-9",

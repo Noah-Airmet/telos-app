@@ -1,7 +1,7 @@
 {
   "document_id": "isa-34",
   "title": "Isaiah 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "All the host of heaven shall molder. The heavens shall be rolled up like a scroll, And all their host shall wither Like a leaf withering on the vine, Or shriveled fruit on a fig tree."
     },
     {
+      "block_id": "jsb-isa-34-4-commentary-1",
+      "type": "commentary",
+      "text": "1QIsa reads “And the valleys shall be cleft, / And all the host of heaven shall wither.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-34-5",
       "type": "verse",
       "number": 5,
       "text": "For My sword shall be drunk in the sky; Lo, it shall come down upon Edom, Upon the people I have doomed, To wreak judgment."
+    },
+    {
+      "block_id": "jsb-isa-34-5-commentary-2",
+      "type": "commentary",
+      "text": "1QIsa reads “be seen”; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-34-6",
@@ -47,6 +73,19 @@
       "text": "Wild oxen shall fall with them, Young bulls with mighty steers; And their land shall be drunk with blood, Their soil shall be saturated with fat."
     },
     {
+      "block_id": "jsb-isa-34-7-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “with fatted calves.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-34-8",
       "type": "verse",
       "number": 8,
@@ -59,6 +98,19 @@
       "text": "Its streams shall be turned to pitch And its soil to sulfur. Its land shall become burning pitch,"
     },
     {
+      "block_id": "jsb-isa-34-9-commentary-4",
+      "type": "commentary",
+      "text": "I.e., Edom’s.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-34-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +121,32 @@
       "type": "verse",
       "number": 11,
       "text": "Jackdaws and owls shall possess it; Great owls and ravens shall dwell there. He shall measure it with a line of chaos And with weights of emptiness."
+    },
+    {
+      "block_id": "jsb-isa-34-11-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-34-11-commentary-6",
+      "type": "commentary",
+      "text": "I.e., He shall plan chaos and emptiness for it; cf. 28.17; Lam. 2.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-34-12",
@@ -89,6 +167,32 @@
       "text": "Wildcats shall meet hyenas, Goat-demons shall greet each other; There too the lilith shall repose And find herself a resting place."
     },
     {
+      "block_id": "jsb-isa-34-14-commentary-7",
+      "type": "commentary",
+      "text": "Most of the creatures in vv. 14–15 cannot be identified with certainty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-isa-34-14-commentary-8",
+      "type": "commentary",
+      "text": "A kind of demon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-34-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +203,19 @@
       "type": "verse",
       "number": 16,
       "text": "Search and read it in the scroll of the Lord: Not one of these shall be absent, Not one shall miss its fellow. For His mouth has spoken, It is His spirit that has assembled them,"
+    },
+    {
+      "block_id": "jsb-isa-34-16-commentary-9",
+      "type": "commentary",
+      "text": "Heb. “My.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-34-17",

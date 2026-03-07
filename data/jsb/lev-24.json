@@ -1,7 +1,7 @@
 {
   "document_id": "lev-24",
   "title": "Leviticus 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "text": "He shall set up the lamps on the pure lampstand before the Lord [to burn] regularly."
     },
     {
+      "block_id": "jsb-lev-24-4-commentary-1",
+      "type": "commentary",
+      "text": "See note at Exod. 31.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 24,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-lev-24-5",
       "type": "verse",
       "number": 5,
@@ -57,6 +70,19 @@
       "text": "With each row you shall place pure frankincense, which is to be a token offering for the bread, as an offering by fire to the Lord."
     },
     {
+      "block_id": "jsb-lev-24-7-commentary-2",
+      "type": "commentary",
+      "text": "See Lev. 2.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 24,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-lev-24-8",
       "type": "verse",
       "number": 8,
@@ -73,6 +99,19 @@
       "type": "verse",
       "number": 10,
       "text": "There came out among the Israelites one whose mother was Israelite and whose father was Egyptian. And a fight broke out in the camp between that half-Israelite and a certain Israelite."
+    },
+    {
+      "block_id": "jsb-lev-24-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “the son of an Israelite woman.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 24,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-lev-24-11",

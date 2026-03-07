@@ -1,7 +1,7 @@
 {
   "document_id": "josh-6",
   "title": "Joshua 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -111,6 +111,19 @@
       "type": "verse",
       "number": 18,
       "text": "But you must beware of that which is proscribed, or else you will be proscribed: if you take anything from that which is proscribed, you will cause the camp of Israel to be proscribed; you will bring calamity upon it."
+    },
+    {
+      "block_id": "jsb-josh-6-18-commentary-1",
+      "type": "commentary",
+      "text": "I.e., be put to death; cf. Lev. 27.28–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 6,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-josh-6-19",

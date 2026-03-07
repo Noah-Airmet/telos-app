@@ -1,7 +1,7 @@
 {
   "document_id": "lev-23",
   "title": "Leviticus 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "Until that very day, until you have brought the offering of your God, you shall eat no bread or parched grain or fresh ears; it is a law for all time throughout the ages in all your settlements."
     },
     {
+      "block_id": "jsb-lev-23-14-commentary-1",
+      "type": "commentary",
+      "text": "I.e., of the new crop.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-lev-23-15",
       "type": "verse",
       "number": 15,
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "The priest shall elevate these—the two lambs—together with the bread of first fruits as an elevation offering before the Lord; they shall be holy to the Lord, for the priest."
+    },
+    {
+      "block_id": "jsb-lev-23-20-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-lev-23-21",
@@ -209,6 +235,19 @@
       "text": "Say to the Israelite people: On the fifteenth day of this seventh month there shall be the Feast of Booths to the Lord, [to last] seven days."
     },
     {
+      "block_id": "jsb-lev-23-34-commentary-3",
+      "type": "commentary",
+      "text": "Others “Tabernacles.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-lev-23-35",
       "type": "verse",
       "number": 35,
@@ -219,6 +258,19 @@
       "type": "verse",
       "number": 36,
       "text": "seven days you shall bring offerings by fire to the Lord. On the eighth day you shall observe a sacred occasion and bring an offering by fire to the Lord; it is a solemn gathering: you shall not work at your occupations."
+    },
+    {
+      "block_id": "jsb-lev-23-36-commentary-4",
+      "type": "commentary",
+      "text": "Precise meaning of Heb. ʿaṣereth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-lev-23-37",
@@ -243,6 +295,32 @@
       "type": "verse",
       "number": 40,
       "text": "On the first day you shall take the product of hadar trees, branches of palm trees, boughs of leafy trees, and willows of the brook, and you shall rejoice before the Lord your God seven days."
+    },
+    {
+      "block_id": "jsb-lev-23-40-commentary-5",
+      "type": "commentary",
+      "text": "Others “goodly”; exact meaning of Heb. hadar uncertain. Traditionally the product is understood as “citron.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "jsb-lev-23-40-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. aboth uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
     },
     {
       "block_id": "jsb-lev-23-41",

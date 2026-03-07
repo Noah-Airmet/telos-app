@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-5",
   "title": "1 Samuel 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "but early the next morning, Dagon was again lying prone on the ground in front of the Ark of the Lord. The head and both hands of Dagon were cut off, lying on the threshold; only Dagon’s trunk was left intact."
     },
     {
+      "block_id": "jsb-1-sam-5-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-1-sam-5-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "The hand of the Lord lay heavy upon the Ashdodites, and He wrought havoc among them: He struck Ashdod and its territory with hemorrhoids."
+    },
+    {
+      "block_id": "jsb-1-sam-5-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads differently from our Heb. text; it also mentions mice swarming in the Philistine ships and invading their fields. Cf. the mention of “mice” in 6.4, 18; and the note at 6.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-5-7",

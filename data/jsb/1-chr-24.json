@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-24",
   "title": "1 Chronicles 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "Shemaiah son of Nathanel, the scribe, who was of the Levites, registered them under the eye of the king, the officers, and Zadok the priest, and Ahimelech son of Abiathar, and the chiefs of clans of the priests and Levites—one clan more taken for Eleazar for each one taken of Ithamar."
+    },
+    {
+      "block_id": "jsb-1-chr-24-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 24,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-chr-24-7",

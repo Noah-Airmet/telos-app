@@ -1,7 +1,7 @@
 {
   "document_id": "jer-45",
   "title": "Jeremiah 45",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "Thus shall you speak to him: “Thus said the Lord: I am going to overthrow what I have built, and uproot what I have planted—this applies to the whole land."
     },
     {
+      "block_id": "jsb-jer-45-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-jer-45-5",
       "type": "verse",
       "number": 5,
       "text": "And do you expect great things for yourself? Don’t expect them. For I am going to bring disaster upon all flesh—declares the Lord—but I will at least grant you your life in all the places where you may go.”"
+    },
+    {
+      "block_id": "jsb-jer-45-5-commentary-2",
+      "type": "commentary",
+      "text": "Cf. note at 21.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     }
   ]
 }

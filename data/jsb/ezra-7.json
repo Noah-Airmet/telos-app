@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-7",
   "title": "Ezra 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -75,6 +75,32 @@
       "type": "verse",
       "number": 12,
       "text": "“Artaxerxes king of kings, to Ezra the priest, scholar in the law of the God of heaven, and so forth. And now,"
+    },
+    {
+      "block_id": "jsb-ezra-7-12-commentary-1",
+      "type": "commentary",
+      "text": "Aramaic resumes here through v. 26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-ezra-7-12-commentary-2",
+      "type": "commentary",
+      "text": "Meaning uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ezra-7-13",
@@ -165,6 +191,19 @@
       "type": "verse",
       "number": 27,
       "text": "Blessed is the Lord God of our fathers, who put it into the mind of the king to glorify the House of the Lord in Jerusalem,"
+    },
+    {
+      "block_id": "jsb-ezra-7-27-commentary-3",
+      "type": "commentary",
+      "text": "Hebrew resumes here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-ezra-7-28",

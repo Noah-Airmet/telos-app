@@ -1,7 +1,7 @@
 {
   "document_id": "exod-12",
   "title": "Exodus 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Speak to the whole community of Israel and say that on the tenth of this month each of them shall take a lamb to a family, a lamb to a household."
+    },
+    {
+      "block_id": "jsb-exod-12-3-commentary-1",
+      "type": "commentary",
+      "text": "Or “kid.” Heb. seh means either “sheep” or “goat”; cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 12,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-exod-12-4",
@@ -71,6 +84,19 @@
       "text": "This is how you shall eat it: your loins girded, your sandals on your feet, and your staff in your hand; and you shall eat it hurriedly: it is a passover offering to the Lord."
     },
     {
+      "block_id": "jsb-exod-12-11-commentary-2",
+      "type": "commentary",
+      "text": "Or “protective offering”; Heb. pesaḥ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 12,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-exod-12-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +107,19 @@
       "type": "verse",
       "number": 13,
       "text": "And the blood on the houses where you are staying shall be a sign for you: when I see the blood I will pass over you, so that no plague will destroy you when I strike the land of Egypt."
+    },
+    {
+      "block_id": "jsb-exod-12-13-commentary-3",
+      "type": "commentary",
+      "text": "Or “protect” (Heb. pasaḥ); cf. v. 11, note a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 12,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-exod-12-14",
@@ -143,6 +182,19 @@
       "text": "For when the Lord goes through to smite the Egyptians, He will see the blood on the lintel and the two doorposts, and the Lord will pass over the door and not let the Destroyer enter and smite your home."
     },
     {
+      "block_id": "jsb-exod-12-23-commentary-4",
+      "type": "commentary",
+      "text": "See v. 13, note b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 12,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-exod-12-24",
       "type": "verse",
       "number": 24,
@@ -165,6 +217,19 @@
       "type": "verse",
       "number": 27,
       "text": "you shall say, ‘It is the passover sacrifice to the Lord, because He passed over the houses of the Israelites in Egypt when He smote the Egyptians, but saved our houses.’” The people then bowed low in homage."
+    },
+    {
+      "block_id": "jsb-exod-12-27-commentary-5",
+      "type": "commentary",
+      "text": "See v. 11, note a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 12,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-exod-12-28",

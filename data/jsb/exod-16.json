@@ -1,7 +1,7 @@
 {
   "document_id": "exod-16",
   "title": "Exodus 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "and in the morning you shall behold the Presence of the Lord, because He has heard your grumblings against the Lord. For who are we that you should grumble against us?"
+    },
+    {
+      "block_id": "jsb-exod-16-7-commentary-1",
+      "type": "commentary",
+      "text": "Others “glory.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-exod-16-8",
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "When the Israelites saw it, they said to one another, “What is it?”—for they did not know what it was. And Moses said to them, “That is the bread which the Lord has given you to eat."
+    },
+    {
+      "block_id": "jsb-exod-16-15-commentary-2",
+      "type": "commentary",
+      "text": "Heb. man hu; others “It is manna.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-exod-16-16",
@@ -191,6 +217,32 @@
       "text": "The house of Israel named it manna; it was like coriander seed, white, and it tasted like wafers in honey."
     },
     {
+      "block_id": "jsb-exod-16-31-commentary-3",
+      "type": "commentary",
+      "text": "Heb. man.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 16,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "jsb-exod-16-31-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. ṣappiḥith uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 16,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-exod-16-32",
       "type": "verse",
       "number": 32,
@@ -207,6 +259,19 @@
       "type": "verse",
       "number": 34,
       "text": "As the Lord had commanded Moses, Aaron placed it before the Pact, to be kept."
+    },
+    {
+      "block_id": "jsb-exod-16-34-commentary-5",
+      "type": "commentary",
+      "text": "Others “Testimony.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 16,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-exod-16-35",

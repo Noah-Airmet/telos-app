@@ -1,7 +1,7 @@
 {
   "document_id": "jer-34",
   "title": "Jeremiah 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "And you will not escape from him; you will be captured and handed over to him. And you will see the king of Babylon face to face and speak to him in person; and you will be brought to Babylon."
     },
     {
+      "block_id": "jsb-jer-34-3-commentary-1",
+      "type": "commentary",
+      "text": "For the idiom see note at 32.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-34-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "You will die a peaceful death; and as incense was burned for your ancestors, the earlier kings who preceded you, so they will burn incense for you, and they will lament for you ‘Ah, lord!’ For I Myself have made the promise—declares the Lord.”"
+    },
+    {
+      "block_id": "jsb-jer-34-5-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “burnings.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-jer-34-6",
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "The word which came to Jeremiah from the Lord after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim a release among them—"
+    },
+    {
+      "block_id": "jsb-jer-34-8-commentary-3",
+      "type": "commentary",
+      "text": "Others “liberty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-jer-34-9",
@@ -89,6 +128,32 @@
       "text": "“In the seventh year each of you must let go any fellow Hebrew who may be sold to you; when he has served you six years, you must set him free.” But your fathers would not obey Me or give ear."
     },
     {
+      "block_id": "jsb-jer-34-14-commentary-4",
+      "type": "commentary",
+      "text": "I.e., of servitude. Lit. “After a period of seven years”; cf. Deut. 14.28 and 15.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-jer-34-14-commentary-5",
+      "type": "commentary",
+      "text": "Or “who sells himself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-jer-34-15",
       "type": "verse",
       "number": 15,
@@ -111,6 +176,19 @@
       "type": "verse",
       "number": 18,
       "text": "I will make the men who violated My covenant, who did not fulfill the terms of the covenant which they made before Me, [like] the calf which they cut in two so as to pass between the halves:"
+    },
+    {
+      "block_id": "jsb-jer-34-18-commentary-6",
+      "type": "commentary",
+      "text": "Cf. Gen. 15.9–10, 17–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 34,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-jer-34-19",

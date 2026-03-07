@@ -1,7 +1,7 @@
 {
   "document_id": "lev-15",
   "title": "Leviticus 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -25,6 +25,19 @@
       "type": "verse",
       "number": 2,
       "text": "Speak to the Israelite people and say to them: When any man has a discharge issuing from his member, he is unclean."
+    },
+    {
+      "block_id": "jsb-lev-15-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-lev-15-3",

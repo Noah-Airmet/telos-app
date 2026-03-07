@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-9",
   "title": "2 Samuel 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "There was a servant of the House of Saul named Ziba, and they summoned him to David. “Are you Ziba?” the king asked him. “Yes, sir,” he replied."
     },
     {
+      "block_id": "jsb-2-sam-9-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Your servant is.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 9,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-2-sam-9-3",
       "type": "verse",
       "number": 3,
       "text": "The king continued, “Is there anyone at all left of the House of Saul with whom I can keep faith as pledged before God?” Ziba answered the king, “Yes, there is still a son of Jonathan whose feet are crippled.”"
+    },
+    {
+      "block_id": "jsb-2-sam-9-3-commentary-2",
+      "type": "commentary",
+      "text": "See 1 Sam. 20.14 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 9,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-9-4",
@@ -65,10 +91,36 @@
       "text": "You and your sons and your slaves shall farm the land for him and shall bring in [its yield] to provide food for your master’s grandson to live on; but Mephibosheth, your master’s grandson, shall always eat at my table.”—Ziba had fifteen sons and twenty slaves.—"
     },
     {
+      "block_id": "jsb-2-sam-9-10-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “household.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-sam-9-11",
       "type": "verse",
       "number": 11,
       "text": "Ziba said to the king, “Your servant will do just as my lord the king has commanded him.” “Mephibosheth shall eat at my table like one of the king’s sons.”"
+    },
+    {
+      "block_id": "jsb-2-sam-9-11-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads “And Mephibosheth ate at David’s table.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 9,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-sam-9-12",

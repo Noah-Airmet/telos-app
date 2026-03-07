@@ -1,7 +1,7 @@
 {
   "document_id": "gen-21",
   "title": "Genesis 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "Sarah said, “God has brought me laughter; everyone who hears will laugh with me.”"
     },
     {
+      "block_id": "jsb-gen-21-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “for.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 21,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-gen-21-7",
       "type": "verse",
       "number": 7,
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "But God said to Abraham, “Do not be distressed over the boy or your slave; whatever Sarah tells you, do as she says, for it is through Isaac that offspring shall be continued for you."
+    },
+    {
+      "block_id": "jsb-gen-21-12-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “called.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 21,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-gen-21-13",
@@ -189,6 +215,19 @@
       "type": "verse",
       "number": 31,
       "text": "Hence that place was called Beer-sheba, for there the two of them swore an oath."
+    },
+    {
+      "block_id": "jsb-gen-21-31-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “well of seven” or “well of oath.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 21,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-gen-21-32",

@@ -1,7 +1,7 @@
 {
   "document_id": "job-39",
   "title": "Job 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -131,6 +131,19 @@
       "text": "He paws with force, he runs with vigor, Charging into battle."
     },
     {
+      "block_id": "jsb-job-39-21-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “They … ”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 39,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-job-39-22",
       "type": "verse",
       "number": 22,
@@ -147,6 +160,19 @@
       "type": "verse",
       "number": 24,
       "text": "Trembling with excitement, he swallows the land; He does not turn aside at the blast of the trumpet."
+    },
+    {
+      "block_id": "jsb-job-39-24-commentary-2",
+      "type": "commentary",
+      "text": "Or “digs up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 39,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-job-39-25",

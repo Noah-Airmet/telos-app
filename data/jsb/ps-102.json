@@ -1,7 +1,7 @@
 {
   "document_id": "ps-102",
   "title": "Psalms 102",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,10 +35,36 @@
       "text": "My body is stricken and withered like grass; too wasted to eat my food;"
     },
     {
+      "block_id": "jsb-ps-102-5-commentary-1",
+      "type": "commentary",
+      "text": "Others “I forget.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 102,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-102-6",
       "type": "verse",
       "number": 6,
       "text": "on account of my vehement groaning my bones show through my skin."
+    },
+    {
+      "block_id": "jsb-ps-102-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “cling to my flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 102,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-102-7",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "He has turned to the prayer of the destitute and has not spurned their prayer."
+    },
+    {
+      "block_id": "jsb-ps-102-18-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 102,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ps-102-19",

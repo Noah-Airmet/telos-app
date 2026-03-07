@@ -1,7 +1,7 @@
 {
   "document_id": "ezra-4",
   "title": "Ezra 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,32 @@
       "text": "And in the time of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of their colleagues wrote to King Artaxerxes of Persia, a letter written in Aramaic and translated. Aramaic:"
     },
     {
+      "block_id": "jsb-ezra-4-7-commentary-1",
+      "type": "commentary",
+      "text": "Cf. below v. 18 and note d.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 4,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-ezra-4-7-commentary-2",
+      "type": "commentary",
+      "text": "A note indicating that what follows is in the Aramaic language.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 4,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ezra-4-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +83,19 @@
       "type": "verse",
       "number": 9,
       "text": "Then Rehum the commissioner and Shimshai the scribe, and the rest of their colleagues, the judges, officials, officers, and overseers, the men of Erech, and of Babylon, and of Susa—that is the Elamites—"
+    },
+    {
+      "block_id": "jsb-ezra-4-9-commentary-3",
+      "type": "commentary",
+      "text": "Vv. 9–11 amplify v. 8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezra-4-10",
@@ -111,6 +150,19 @@
       "type": "verse",
       "number": 18,
       "text": "Now the letter that you wrote me has been read to me in translation."
+    },
+    {
+      "block_id": "jsb-ezra-4-18-commentary-4",
+      "type": "commentary",
+      "text": "I.e., from Aramaic to Persian.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ezra-4-19",

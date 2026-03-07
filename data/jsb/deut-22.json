@@ -1,7 +1,7 @@
 {
   "document_id": "deut-22",
   "title": "Deuteronomy 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -141,6 +141,19 @@
       "type": "verse",
       "number": 23,
       "text": "In the case of a virgin who is engaged to a man—if a man comes upon her in town and lies with her,"
+    },
+    {
+      "block_id": "jsb-deut-22-23-commentary-1",
+      "type": "commentary",
+      "text": "I.e., for whom a bride-price has been paid; see 20.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-deut-22-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-19",
   "title": "Isaiah 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "“I will incite Egyptian against Egyptian: They shall war with each other, Every man with his fellow, City with city And kingdom with kingdom."
+    },
+    {
+      "block_id": "jsb-isa-19-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the various districts of Egypt, which in Isaiah’s time were governed by hereditary princes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-19-3",
@@ -47,6 +60,19 @@
       "text": "And the Nile papyrus by the Nile-side And everything sown by the Nile Shall wither, blow away, and vanish."
     },
     {
+      "block_id": "jsb-isa-19-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-19-8",
       "type": "verse",
       "number": 8,
@@ -59,16 +85,55 @@
       "text": "The flax workers, too, shall be dismayed, Both carders and weavers chagrined."
     },
     {
+      "block_id": "jsb-isa-19-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-19-10",
       "type": "verse",
       "number": 10,
       "text": "Her foundations shall be crushed, And all who make dams shall be despondent."
     },
     {
+      "block_id": "jsb-isa-19-10-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain; emendation yields “Her drinkers shall be dejected, / And all her brewers despondent.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-19-11",
       "type": "verse",
       "number": 11,
       "text": "Utter fools are the nobles of Tanis; The sagest of Pharaoh’s advisers [Have made] absurd predictions. How can you say to Pharaoh, “I am a scion of sages, A scion of Kedemite kings”?"
+    },
+    {
+      "block_id": "jsb-isa-19-11-commentary-5",
+      "type": "commentary",
+      "text": "Or “advisers.” The wisdom of the Kedemites was proverbial; cf. 1 Kings 5.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-19-12",
@@ -95,6 +160,19 @@
       "text": "Nothing shall be achieved in Egypt By either head or tail, Palm branch or reed."
     },
     {
+      "block_id": "jsb-isa-19-15-commentary-6",
+      "type": "commentary",
+      "text": "I.e., a man of either high or low station; cf. 9.13, 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-isa-19-16",
       "type": "verse",
       "number": 16,
@@ -113,10 +191,62 @@
       "text": "In that day, there shall be several towns in the land of Egypt speaking the language of Canaan and swearing loyalty to the Lord of Hosts; one shall be called Town of Heres."
     },
     {
+      "block_id": "jsb-isa-19-18-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-isa-19-18-commentary-8",
+      "type": "commentary",
+      "text": "Or “each one.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-isa-19-18-commentary-9",
+      "type": "commentary",
+      "text": "Meaning uncertain. Many Heb. mss. read ḥeres, “sun,” which may refer to Heliopolis, i.e., Sun City, in Egypt. Targum’s “Beth Shemesh” (cf. Jer. 43.13) has the same meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-isa-19-19",
       "type": "verse",
       "number": 19,
       "text": "In that day, there shall be an altar to the Lord inside the land of Egypt and a pillar to the Lord at its border."
+    },
+    {
+      "block_id": "jsb-isa-19-19-commentary-10",
+      "type": "commentary",
+      "text": "As a symbol of the Lord’s sovereignty over Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-19-20",
@@ -147,6 +277,19 @@
       "type": "verse",
       "number": 24,
       "text": "In that day, Israel shall be a third partner with Egypt and Assyria as a blessing on earth;"
+    },
+    {
+      "block_id": "jsb-isa-19-24-commentary-11",
+      "type": "commentary",
+      "text": "I.e., a standard by which blessing is invoked; cf. Gen. 12.2 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 19,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-isa-19-25",

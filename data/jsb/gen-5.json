@@ -1,7 +1,7 @@
 {
   "document_id": "gen-5",
   "title": "Genesis 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -177,6 +177,19 @@
       "type": "verse",
       "number": 29,
       "text": "And he named him Noah, saying, “This one will provide us relief from our work and from the toil of our hands, out of the very soil which the Lord placed under a curse.”"
+    },
+    {
+      "block_id": "jsb-gen-5-29-commentary-1",
+      "type": "commentary",
+      "text": "Connecting Noah with Heb. niḥam “to comfort”; cf. 9.20 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 5,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-gen-5-30",

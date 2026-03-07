@@ -1,7 +1,7 @@
 {
   "document_id": "esth-3",
   "title": "Esther 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "When they spoke to him day after day and he would not listen to them, they told Haman, in order to see whether Mordecai’s resolve would prevail; for he had explained to them that he was a Jew."
+    },
+    {
+      "block_id": "jsb-esth-3-4-commentary-1",
+      "type": "commentary",
+      "text": "I.e., that as a Jew he could not bow to a descendant of Agag, the Amalekite king; see 1 Sam. 15, and cf. Exod. 17.14–16; Deut. 25.17–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-esth-3-5",

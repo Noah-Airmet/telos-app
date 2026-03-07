@@ -1,7 +1,7 @@
 {
   "document_id": "gen-14",
   "title": "Genesis 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "all the latter joined forces at the Valley of Siddim, now the Dead Sea."
+    },
+    {
+      "block_id": "jsb-gen-14-3-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “Salt Sea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 14,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-gen-14-4",
@@ -89,6 +102,19 @@
       "text": "When Abram heard that his kinsman had been taken captive, he mustered his retainers, born into his household, numbering three hundred and eighteen, and went in pursuit as far as Dan."
     },
     {
+      "block_id": "jsb-gen-14-14-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. ḥanikh uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 14,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-gen-14-15",
       "type": "verse",
       "number": 15,
@@ -113,6 +139,19 @@
       "text": "And King Melchizedek of Salem brought out bread and wine; he was a priest of God Most High."
     },
     {
+      "block_id": "jsb-gen-14-18-commentary-3",
+      "type": "commentary",
+      "text": "Heb. El ʿElyon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-gen-14-19",
       "type": "verse",
       "number": 19,
@@ -135,6 +174,19 @@
       "type": "verse",
       "number": 22,
       "text": "But Abram said to the king of Sodom, “I swear to the Lord, God Most High, Creator of heaven and earth:"
+    },
+    {
+      "block_id": "jsb-gen-14-22-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “lift up my hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 14,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-gen-14-23",

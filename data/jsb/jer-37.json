@@ -1,7 +1,7 @@
 {
   "document_id": "jer-37",
   "title": "Jeremiah 37",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "Jeremiah was going to leave Jerusalem and go to the territory of Benjamin to share in some property there among the people."
     },
     {
+      "block_id": "jsb-jer-37-12-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 37,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-jer-37-13",
       "type": "verse",
       "number": 13,
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "Now, please hear me, O lord king, and grant my plea: Don’t send me back to the house of the scribe Jonathan to die there.”"
+    },
+    {
+      "block_id": "jsb-jer-37-20-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “and let me not die there.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 37,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-jer-37-21",

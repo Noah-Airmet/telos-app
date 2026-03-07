@@ -1,7 +1,7 @@
 {
   "document_id": "ps-120",
   "title": "Psalms 120",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "A song of ascents. In my distress I called to the Lord and He answered me."
+    },
+    {
+      "block_id": "jsb-ps-120-1-commentary-1",
+      "type": "commentary",
+      "text": "A term of uncertain meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 120,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-120-2",

@@ -1,7 +1,7 @@
 {
   "document_id": "isa-37",
   "title": "Isaiah 37",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "They said to him, “Thus said Hezekiah: This day is a day of distress, of chastisement, and of disgrace. The babes have reached the birthstool, but the strength to give birth is lacking."
+    },
+    {
+      "block_id": "jsb-isa-37-3-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the situation is desperate, and we are at a loss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-37-4",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "I will delude him: He will hear a rumor and return to his land, and I will make him fall by the sword in his land.”"
+    },
+    {
+      "block_id": "jsb-isa-37-7-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “put a spirit in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-isa-37-8",
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "Were the nations that my predecessors destroyed—Gozan, Haran, Rezeph, and the Bethedenites in Telassar—saved by their gods?"
+    },
+    {
+      "block_id": "jsb-isa-37-12-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “fathers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-37-13",
@@ -113,6 +152,19 @@
       "text": "True, O Lord, the kings of Assyria have annihilated all the nations and their lands"
     },
     {
+      "block_id": "jsb-isa-37-18-commentary-4",
+      "type": "commentary",
+      "text": "So 2 Kings 19.17, and 13 mss. here; most mss. and editions read “lands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-isa-37-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +175,19 @@
       "type": "verse",
       "number": 20,
       "text": "But now, O Lord our God, deliver us from his hands, and let all the kingdoms of the earth know that You, O Lord, alone [are God].”"
+    },
+    {
+      "block_id": "jsb-isa-37-20-commentary-5",
+      "type": "commentary",
+      "text": "Supplied from 2 Kings 19.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-isa-37-21",
@@ -149,10 +214,36 @@
       "text": "Through your servants you have blasphemed my Lord. Because you thought, ‘Thanks to my vast chariotry, It is I who have climbed the highest mountains, To the remotest parts of the Lebanon, And have cut down its loftiest cedars, Its choicest cypresses, And have reached its highest peak, Its densest forest."
     },
     {
+      "block_id": "jsb-isa-37-24-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “Its farmland forest”; exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-isa-37-25",
       "type": "verse",
       "number": 25,
       "text": "It is I who have drawn And drunk water. I have dried up with the soles of my feet All the streams of Egypt.’"
+    },
+    {
+      "block_id": "jsb-isa-37-25-commentary-7",
+      "type": "commentary",
+      "text": "Or “dug”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-isa-37-26",
@@ -165,6 +256,19 @@
       "type": "verse",
       "number": 27,
       "text": "Their inhabitants are helpless, Dismayed and shamed. They were but grass of the field And green herbage, Grass of the roofs that is blasted Before the east wind."
+    },
+    {
+      "block_id": "jsb-isa-37-27-commentary-8",
+      "type": "commentary",
+      "text": "So ms. 1QIsa; cf. 2 Kings 19.26. The usual reading in our passage means, literally, “and a field [?] before standing grain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-isa-37-28",
@@ -183,6 +287,19 @@
       "type": "verse",
       "number": 30,
       "text": "“And this is the sign for you: This year you eat what grows of itself, and the next year what springs from that, and in the third year sow and reap and plant vineyards and eat their fruit."
+    },
+    {
+      "block_id": "jsb-isa-37-30-commentary-9",
+      "type": "commentary",
+      "text": "I.e., Hezekiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-isa-37-31",
@@ -219,6 +336,19 @@
       "type": "verse",
       "number": 36,
       "text": "[That night] an angel of the Lord went out and struck down one hundred and eighty-five thousand in the Assyrian camp, and the following morning they were all dead corpses."
+    },
+    {
+      "block_id": "jsb-isa-37-36-commentary-10",
+      "type": "commentary",
+      "text": "Supplied from 2 Kings 19.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 37,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-isa-37-37",

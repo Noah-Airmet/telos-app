@@ -1,7 +1,7 @@
 {
   "document_id": "judg-18",
   "title": "Judges 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "While in the vicinity of Micah’s house, they recognized the speech of the young Levite, so they went over and asked him, “Who brought you to these parts? What are you doing in this place? What is your business here?”"
+    },
+    {
+      "block_id": "jsb-judg-18-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “voice.” The men could tell by his dialect that he came from Judah and was therefore a former neighbor of the Danites; cf. vv. 11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 18,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-judg-18-4",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "The five men went on and came to Laish. They observed the people in it dwelling carefree, after the manner of the Sidonians, a tranquil and unsuspecting people, with no one in the land to molest them and with no hereditary ruler. Moreover, they were distant from the Sidonians and had no dealings with anybody."
+    },
+    {
+      "block_id": "jsb-judg-18-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 18,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-judg-18-8",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "while those men entered Micah’s house and took the sculptured image, the molten image, the ephod, and the household gods. The priest said to them, “What are you doing?”"
+    },
+    {
+      "block_id": "jsb-judg-18-18-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “the sculptured image of the ephod, and the household gods, and the molten image.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 18,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-judg-18-19",
@@ -185,10 +224,36 @@
       "text": "The Danites set up the sculptured image for themselves; and Jonathan son of Gershom son of Manasseh, and his descendants, served as priests to the Danite tribe until the land went into exile."
     },
     {
+      "block_id": "jsb-judg-18-30-commentary-4",
+      "type": "commentary",
+      "text": "Heb. מנשה with נ suspended, indicating an earlier reading “Moses”; cf. Exod. 2.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 18,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-judg-18-31",
       "type": "verse",
       "number": 31,
       "text": "They maintained the sculptured image that Micah had made throughout the time that the House of God stood at Shiloh."
+    },
+    {
+      "block_id": "jsb-judg-18-31-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 18,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     }
   ]
 }

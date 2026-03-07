@@ -1,7 +1,7 @@
 {
   "document_id": "exod-2",
   "title": "Exodus 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "When the child grew up, she brought him to Pharaoh’s daughter, who made him her son. She named him Moses, explaining, “I drew him out of the water.”"
     },
     {
+      "block_id": "jsb-exod-2-10-commentary-1",
+      "type": "commentary",
+      "text": "Heb. Mosheh from Egyptian for “born of”; here associated with mashah “draw out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 2,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-exod-2-11",
       "type": "verse",
       "number": 11,
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "When Pharaoh learned of the matter, he sought to kill Moses; but Moses fled from Pharaoh. He arrived in the land of Midian, and sat down beside a well."
+    },
+    {
+      "block_id": "jsb-exod-2-15-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “sat” or “settled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 2,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-exod-2-16",
@@ -135,6 +161,19 @@
       "type": "verse",
       "number": 22,
       "text": "She bore a son whom he named Gershom, for he said, “I have been a stranger in a foreign land.”"
+    },
+    {
+      "block_id": "jsb-exod-2-22-commentary-3",
+      "type": "commentary",
+      "text": "Associated with ger sham, “a stranger there.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 2,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-exod-2-23",

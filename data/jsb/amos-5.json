@@ -1,7 +1,7 @@
 {
   "document_id": "amos-5",
   "title": "Amos 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,10 +35,49 @@
       "text": "Do not seek Bethel, Nor go to Gilgal, Nor cross over to Beer-sheba; For Gilgal shall go into exile, And Bethel shall become a delusion."
     },
     {
+      "block_id": "jsb-amos-5-5-commentary-1",
+      "type": "commentary",
+      "text": "I.e., into Judah; cf. 1 Kings 19.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-amos-5-6",
       "type": "verse",
       "number": 6,
       "text": "Seek the Lord, and you will live, Else He will rush like fire upon the House of Joseph And consume Bethel with none to quench it."
+    },
+    {
+      "block_id": "jsb-amos-5-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-amos-5-6-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “the House of Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-amos-5-7",
@@ -161,10 +200,49 @@
       "text": "And you shall carry off your “king”— Sikkuth and Kiyyun, The images you have made for yourselves Of your astral deity—"
     },
     {
+      "block_id": "jsb-amos-5-26-commentary-4",
+      "type": "commentary",
+      "text": "Vv. 26–27 would read well after 6.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-amos-5-26-commentary-5",
+      "type": "commentary",
+      "text": "Two Akkadian names applied to Saturn, here deliberately pointed with the vowels of Heb. shiqquṣ, “detestable thing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-amos-5-27",
       "type": "verse",
       "number": 27,
       "text": "As I drive you into exile beyond Damascus —Said the Lord, whose name is God of Hosts."
+    },
+    {
+      "block_id": "jsb-amos-5-27-commentary-6",
+      "type": "commentary",
+      "text": "I.e., who is Lord of all the astral bodies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 5,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     }
   ]
 }

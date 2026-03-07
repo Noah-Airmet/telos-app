@@ -1,7 +1,7 @@
 {
   "document_id": "jer-29",
   "title": "Jeremiah 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "For thus said the Lord of Hosts, the God of Israel: Let not the prophets and diviners in your midst deceive you, and pay no heed to the dreams they dream."
     },
     {
+      "block_id": "jsb-jer-29-8-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-jer-29-9",
       "type": "verse",
       "number": 9,
@@ -95,6 +108,19 @@
       "text": "But you say, “The Lord has raised up prophets for us in Babylon.”"
     },
     {
+      "block_id": "jsb-jer-29-15-commentary-2",
+      "type": "commentary",
+      "text": "This verse is continued in vv. 20 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-jer-29-16",
       "type": "verse",
       "number": 16,
@@ -107,16 +133,55 @@
       "text": "thus said the Lord of Hosts: I am going to let loose sword, famine, and pestilence against them and I will treat them as loathsome figs, so bad that they cannot be eaten."
     },
     {
+      "block_id": "jsb-jer-29-17-commentary-3",
+      "type": "commentary",
+      "text": "Cf. 24.1 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-jer-29-18",
       "type": "verse",
       "number": 18,
       "text": "I will pursue them with the sword, with famine, and with pestilence; and I will make them a horror to all the kingdoms of the earth, a curse and an object of horror and hissing and scorn among all the nations to which I shall banish them,"
     },
     {
+      "block_id": "jsb-jer-29-18-commentary-4",
+      "type": "commentary",
+      "text": "Cf. note at 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-29-19",
       "type": "verse",
       "number": 19,
       "text": "because they did not heed My words—declares the Lord—when I persistently sent to them My servants, the prophets, and they did not heed—declares the Lord."
+    },
+    {
+      "block_id": "jsb-jer-29-19-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-jer-29-20",
@@ -149,6 +214,19 @@
       "text": "Concerning Shemaiah the Nehelamite you shall say:"
     },
     {
+      "block_id": "jsb-jer-29-24-commentary-6",
+      "type": "commentary",
+      "text": "I.e., Jeremiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-jer-29-25",
       "type": "verse",
       "number": 25,
@@ -159,6 +237,32 @@
       "type": "verse",
       "number": 26,
       "text": "“The Lord appointed you priest in place of the priest Jehoiada, to exercise authority in the House of the Lord over every madman who wants to play the prophet, to put him into the stocks and into the pillory."
+    },
+    {
+      "block_id": "jsb-jer-29-26-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “that there might be officials.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-jer-29-26-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 29,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-jer-29-27",

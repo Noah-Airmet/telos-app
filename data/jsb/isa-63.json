@@ -1,7 +1,7 @@
 {
   "document_id": "isa-63",
   "title": "Isaiah 63",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,81 @@
       "text": "Who is this coming from Edom, In crimsoned garments from Bozrah— Who is this, majestic in attire, Pressing forward in His great might? “It is I, who contend victoriously, Powerful to give triumph.”"
     },
     {
+      "block_id": "jsb-isa-63-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “striding.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-isa-63-1-commentary-2",
+      "type": "commentary",
+      "text": "Change of vocalization yields “Who contest triumphantly”; cf. 19.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-63-2",
       "type": "verse",
       "number": 2,
       "text": "Why is your clothing so red, Your garments like his who treads grapes?"
     },
     {
+      "block_id": "jsb-isa-63-2-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “in a press.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-63-3",
       "type": "verse",
       "number": 3,
       "text": "“I trod out a vintage alone; Of the peoples no man was with Me. I trod them down in My anger, Trampled them in My rage; Their life-blood bespattered My garments, And all My clothing was stained."
+    },
+    {
+      "block_id": "jsb-isa-63-3-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “Peoples, and …”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-isa-63-3-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-63-4",
@@ -35,10 +100,36 @@
       "text": "Then I looked, but there was none to help; I stared, but there was none to aid— So My own arm wrought the triumph, And My own rage was My aid."
     },
     {
+      "block_id": "jsb-isa-63-5-commentary-6",
+      "type": "commentary",
+      "text": "Many mss. read weṣidqathi “My victorious [right hand]”; cf. 59.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-63-6",
       "type": "verse",
       "number": 6,
       "text": "I trampled peoples in My anger, I made them drunk with My rage, And I hurled their glory to the ground.”"
+    },
+    {
+      "block_id": "jsb-isa-63-6-commentary-7",
+      "type": "commentary",
+      "text": "Many mss. and Targum read “I shattered them in”; cf. 14.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-63-7",
@@ -51,6 +142,19 @@
       "type": "verse",
       "number": 8,
       "text": "He thought: Surely they are My people, Children who will not play false. So He was their Deliverer."
+    },
+    {
+      "block_id": "jsb-isa-63-8-commentary-8",
+      "type": "commentary",
+      "text": "Ancient versions read “So He was their Deliverer / 9In all their troubles. / No [so kethib] angel or messenger, / His own Presence delivered them.” Cf. Deut. 4.37 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-63-9",
@@ -71,6 +175,45 @@
       "text": "Then they remembered the ancient days, Him, who pulled His people out [of the water]: “Where is He who brought them up from the Sea Along with the shepherd of His flock? Where is He who put In their midst His holy spirit,"
     },
     {
+      "block_id": "jsb-isa-63-11-commentary-9",
+      "type": "commentary",
+      "text": "Heb. “he.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-63-11-commentary-10",
+      "type": "commentary",
+      "text": "Heb. moshe ʿammo, a play on the name Moshe (Moses).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-isa-63-11-commentary-11",
+      "type": "commentary",
+      "text": "So many mss. and ancient versions; other texts “shepherds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-63-12",
       "type": "verse",
       "number": 12,
@@ -89,10 +232,36 @@
       "text": "Like a beast descending to the plain?” ’Twas the spirit of the Lord gave them rest; Thus did You shepherd Your people To win for Yourself a glorious name."
     },
     {
+      "block_id": "jsb-isa-63-14-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields “guided them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-63-15",
       "type": "verse",
       "number": 15,
       "text": "Look down from heaven and see, From Your holy and glorious height! Where is Your zeal, Your power? Your yearning and Your love Are being withheld from us!"
+    },
+    {
+      "block_id": "jsb-isa-63-15-commentary-13",
+      "type": "commentary",
+      "text": "Heb. “me.” Emendation yields “[Where are] Your yearning and Your love? / Let them not be restrained!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-63-16",
@@ -111,6 +280,19 @@
       "type": "verse",
       "number": 18,
       "text": "Our foes have trampled Your Sanctuary, Which Your holy people possessed but a little while."
+    },
+    {
+      "block_id": "jsb-isa-63-18-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 63,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-isa-63-19",

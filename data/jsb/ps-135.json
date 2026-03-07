@@ -1,7 +1,7 @@
 {
   "document_id": "ps-135",
   "title": "Psalms 135",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "He sent signs and portents against Egypt, against Pharaoh and all his servants;"
     },
     {
+      "block_id": "jsb-ps-135-9-commentary-1",
+      "type": "commentary",
+      "text": "Others “against you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 135,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-ps-135-10",
       "type": "verse",
       "number": 10,
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "The idols of the nations are silver and gold, the work of men’s hands."
+    },
+    {
+      "block_id": "jsb-ps-135-15-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 15–20, cf. Ps. 115.4–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 135,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ps-135-16",

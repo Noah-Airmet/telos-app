@@ -1,7 +1,7 @@
 {
   "document_id": "mic-5",
   "title": "Micah 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "And you, O Bethlehem of Ephrath, Least among the clans of Judah, From you one shall come forth To rule Israel for Me— One whose origin is from of old, From ancient times."
     },
     {
+      "block_id": "jsb-mic-5-1-commentary-1",
+      "type": "commentary",
+      "text": "The clan to which the Bethlehemites belonged; see 1 Sam. 17.12; Ruth 1.2; 4.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-mic-5-2",
       "type": "verse",
       "number": 2,
       "text": "Truly, He will leave them [helpless] Until she who is to bear has borne; Then the rest of his countrymen Shall return to the children of Israel."
+    },
+    {
+      "block_id": "jsb-mic-5-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-mic-5-2-commentary-3",
+      "type": "commentary",
+      "text": "I.e., a ruler, shepherd (v. 3), to deliver Israel from the Assyrians (vv. 4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-mic-5-3",
@@ -29,10 +68,49 @@
       "text": "And that shall afford safety. Should Assyria invade our land And tread upon our fortresses, We will set up over it seven shepherds, Eight princes of men,"
     },
     {
+      "block_id": "jsb-mic-5-4-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint and Syriac read “soil”; cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-mic-5-4-commentary-5",
+      "type": "commentary",
+      "text": "I.e., Assyria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-mic-5-5",
       "type": "verse",
       "number": 5,
       "text": "Who will shepherd ­Assyria’s land with swords, The land of Nimrod in its gates. Thus he will deliver [us] From Assyria, should it invade our land, And should it trample our country."
+    },
+    {
+      "block_id": "jsb-mic-5-5-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “with drawn blades”; cf. Ps. 37.14; 55.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-mic-5-6",
@@ -83,10 +161,36 @@
       "text": "I will tear down the sacred posts in your midst And destroy your cities."
     },
     {
+      "block_id": "jsb-mic-5-13-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “idols.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-mic-5-14",
       "type": "verse",
       "number": 14,
       "text": "In anger and wrath Will I wreak retribution On the nations that have not obeyed."
+    },
+    {
+      "block_id": "jsb-mic-5-14-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “arrogant.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 5,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

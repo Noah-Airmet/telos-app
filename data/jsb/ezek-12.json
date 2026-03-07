@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-12",
   "title": "Ezekiel 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "I did just as I was ordered: I took out my gear by day as gear for exile, and in the evening I broke through the wall with my own hands. In the darkness I carried [the gear] out on my shoulder, carrying it before their eyes."
     },
     {
+      "block_id": "jsb-ezek-12-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “by hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 12,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ezek-12-8",
       "type": "verse",
       "number": 8,
@@ -77,10 +90,36 @@
       "text": "And the prince among them shall carry his gear on his shoulder as he goes out in the dark. He shall break through the wall in order to carry [his gear] out through it; he shall cover his face, because he himself shall not see the land with his eyes.”"
     },
     {
+      "block_id": "jsb-ezek-12-12-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “They.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 12,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ezek-12-13",
       "type": "verse",
       "number": 13,
       "text": "I will spread My net over him, and he shall be caught in My snare. I will bring him to Babylon, the land of the Chaldeans, but he shall not see it; and there he shall die."
+    },
+    {
+      "block_id": "jsb-ezek-12-13-commentary-3",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 25.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 12,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-ezek-12-14",

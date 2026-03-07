@@ -1,7 +1,7 @@
 {
   "document_id": "gen-26",
   "title": "Genesis 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -125,16 +125,55 @@
       "text": "the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” He named that well Esek, because they contended with him."
     },
     {
+      "block_id": "jsb-gen-26-20-commentary-1",
+      "type": "commentary",
+      "text": "I.e., “contention.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-gen-26-21",
       "type": "verse",
       "number": 21,
       "text": "And when they dug another well, they disputed over that one also; so he named it Sitnah."
     },
     {
+      "block_id": "jsb-gen-26-21-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “harassment.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-gen-26-22",
       "type": "verse",
       "number": 22,
       "text": "He moved from there and dug yet another well, and they did not quarrel over it; so he called it Rehoboth, saying, “Now at last the Lord has granted us ample space to increase in the land.”"
+    },
+    {
+      "block_id": "jsb-gen-26-22-commentary-3",
+      "type": "commentary",
+      "text": "Heb. hirḥib, connected with “Rehoboth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-gen-26-23",
@@ -201,6 +240,19 @@
       "type": "verse",
       "number": 33,
       "text": "He named it Shibah; therefore the name of the city is Beer-sheba to this day."
+    },
+    {
+      "block_id": "jsb-gen-26-33-commentary-4",
+      "type": "commentary",
+      "text": "As though “oath.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-gen-26-34",

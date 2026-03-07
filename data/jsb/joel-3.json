@@ -1,7 +1,7 @@
 {
   "document_id": "joel-3",
   "title": "Joel 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Before the great and terrible day of the Lord comes, I will set portents in the sky and on earth: Blood and fire and pillars of smoke;"
     },
     {
+      "block_id": "jsb-joel-3-3-commentary-1",
+      "type": "commentary",
+      "text": "Brought up from v. 4 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-joel-3-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "But everyone who invokes the name of the Lord shall escape; for there shall be a remnant on Mount Zion and in Jerusalem, as the Lord promised. Anyone who invokes the Lord will be among the survivors."
+    },
+    {
+      "block_id": "jsb-joel-3-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-20",
   "title": "1 Samuel 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "David swore further, “Your father knows well that you are fond of me and has decided: Jonathan must not learn of this or he will be grieved. But, as the Lord lives and as you live, there is only a step between me and death.”"
     },
     {
+      "block_id": "jsb-1-sam-20-3-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “replied to him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-20-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,32 @@
       "type": "verse",
       "number": 5,
       "text": "David said to Jonathan, “Tomorrow is the new moon, and I am to sit with the king at the meal. Instead, let me go and I will hide in the countryside until the third evening."
+    },
+    {
+      "block_id": "jsb-1-sam-20-5-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “will not sit…meal. Let…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-1-sam-20-5-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint lacks “third.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-1-sam-20-6",
@@ -65,6 +104,19 @@
       "text": "David said to Jonathan, “Who will tell me if your father answers you harshly?”"
     },
     {
+      "block_id": "jsb-1-sam-20-10-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-1-sam-20-11",
       "type": "verse",
       "number": 11,
@@ -77,6 +129,19 @@
       "text": "Then Jonathan said to David, “By the Lord, the God of Israel! I will sound out my father at this time tomorrow, [or] on the third day; and if [his response] is favorable for David, I will send a message to you at once and disclose it to you."
     },
     {
+      "block_id": "jsb-1-sam-20-12-commentary-5",
+      "type": "commentary",
+      "text": "The meaning of several parts of vv. 12–16 is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-1-sam-20-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +152,19 @@
       "type": "verse",
       "number": 14,
       "text": "Nor shall you fail to show me the Lord’s faithfulness, while I am alive; nor, when I am dead,"
+    },
+    {
+      "block_id": "jsb-1-sam-20-14-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the faithfulness pledged in the covenant before the Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-sam-20-15",
@@ -107,16 +185,68 @@
       "text": "Jonathan, out of his love for David, adjured him again, for he loved him as himself."
     },
     {
+      "block_id": "jsb-1-sam-20-17-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint reads “swore to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-1-sam-20-18",
       "type": "verse",
       "number": 18,
       "text": "Jonathan said to him, “Tomorrow will be the new moon; and you will be missed when your seat remains vacant."
     },
     {
+      "block_id": "jsb-1-sam-20-18-commentary-8",
+      "type": "commentary",
+      "text": "At the festal meal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-1-sam-20-19",
       "type": "verse",
       "number": 19,
       "text": "So the day after tomorrow, go down all the way to the place where you hid the other time, and stay close to the Ezel stone."
+    },
+    {
+      "block_id": "jsb-1-sam-20-19-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “very much.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-1-sam-20-19-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “on the day of the incident”; see 19.2 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-1-sam-20-20",
@@ -131,6 +261,19 @@
       "text": "and I will order the boy to go and find the arrows. If I call to the boy, ‘Hey! the arrows are on this side of you,’ be reassured and come, for you are safe and there is no danger—as the Lord lives!"
     },
     {
+      "block_id": "jsb-1-sam-20-21-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “accept it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-1-sam-20-22",
       "type": "verse",
       "number": 22,
@@ -141,6 +284,19 @@
       "type": "verse",
       "number": 23,
       "text": "As for the promise we made to each other, may the Lord be [witness] between you and me forever.”"
+    },
+    {
+      "block_id": "jsb-1-sam-20-23-commentary-12",
+      "type": "commentary",
+      "text": "See above, vv. 12–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-sam-20-24",
@@ -155,16 +311,55 @@
       "text": "When the king took his usual place on the seat by the wall, Jonathan rose and Abner sat down at Saul’s side; but David’s place remained vacant."
     },
     {
+      "block_id": "jsb-1-sam-20-25-commentary-13",
+      "type": "commentary",
+      "text": "Force of Heb. uncertain; Septuagint “faced him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-1-sam-20-26",
       "type": "verse",
       "number": 26,
       "text": "That day, however, Saul said nothing. “It’s accidental,” he thought. “He must be unclean and not yet cleansed.”"
     },
     {
+      "block_id": "jsb-1-sam-20-26-commentary-14",
+      "type": "commentary",
+      "text": "Heb. construction unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-1-sam-20-27",
       "type": "verse",
       "number": 27,
       "text": "But on the day after the new moon, the second day, David’s place was vacant again. So Saul said to his son Jonathan, “Why didn’t the son of Jesse come to the meal yesterday or today?”"
+    },
+    {
+      "block_id": "jsb-1-sam-20-27-commentary-15",
+      "type": "commentary",
+      "text": "See note at 10.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-1-sam-20-28",
@@ -201,6 +396,19 @@
       "type": "verse",
       "number": 33,
       "text": "At that, Saul threw his spear at him to strike him down; and Jonathan realized that his father was determined to do away with David."
+    },
+    {
+      "block_id": "jsb-1-sam-20-33-commentary-16",
+      "type": "commentary",
+      "text": "See 18.11 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-1-sam-20-34",
@@ -249,6 +457,32 @@
       "type": "verse",
       "number": 41,
       "text": "When the boy got there, David emerged from his concealment at the Negeb. He flung himself face down on the ground and bowed low three times. They kissed each other and wept together; David wept the longer."
+    },
+    {
+      "block_id": "jsb-1-sam-20-41-commentary-17",
+      "type": "commentary",
+      "text": "Lit. “rose up from beside.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "jsb-1-sam-20-41-commentary-18",
+      "type": "commentary",
+      "text": "Identical with the “Ezel Stone,” v. 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 20,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-1-sam-20-42",

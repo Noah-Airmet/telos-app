@@ -1,7 +1,7 @@
 {
   "document_id": "esth-1",
   "title": "Esther 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "In those days, when King Ahasuerus occupied the royal throne in the fortress Shushan,"
+    },
+    {
+      "block_id": "jsb-esth-1-2-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the fortified city.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-esth-1-3",
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "[There were hangings of] white cotton and blue wool, caught up by cords of fine linen and purple wool to silver rods and alabaster columns; and there were couches of gold and silver on a pavement of marble, alabaster, mother-of-pearl, and mosaics."
+    },
+    {
+      "block_id": "jsb-esth-1-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of part of this verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-esth-1-7",
@@ -81,6 +107,19 @@
       "type": "verse",
       "number": 13,
       "text": "Then the king consulted the sages learned in procedure. (For it was the royal practice [to turn] to all who were versed in law and precedent."
+    },
+    {
+      "block_id": "jsb-esth-1-13-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “the times.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-esth-1-14",

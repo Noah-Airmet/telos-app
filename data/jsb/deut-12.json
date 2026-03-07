@@ -1,7 +1,7 @@
 {
   "document_id": "deut-12",
   "title": "Deuteronomy 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "and there you are to bring your burnt offerings and other sacrifices, your tithes and contributions, your votive and freewill offerings, and the firstlings of your herds and flocks."
     },
     {
+      "block_id": "jsb-deut-12-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the contribution(s) of your hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-deut-12-7",
       "type": "verse",
       "number": 7,
@@ -71,6 +84,19 @@
       "text": "then you must bring everything that I command you to the site where the Lord your God will choose to establish His name: your burnt offerings and other sacrifices, your tithes and contributions, and all the choice votive offerings that you vow to the Lord."
     },
     {
+      "block_id": "jsb-deut-12-11-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “the contribution(s) of your hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-deut-12-12",
       "type": "verse",
       "number": 12,
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "But whenever you desire, you may slaughter and eat meat in any of your settlements, according to the blessing that the Lord your God has granted you. The unclean and the clean alike may partake of it, as of the gazelle and the deer."
+    },
+    {
+      "block_id": "jsb-deut-12-15-commentary-3",
+      "type": "commentary",
+      "text": "I.e., animals that may be eaten (cf. 14.5; Lev. 11.1 ff.), but not sacrificed (Lev. 1.1 ff.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-deut-12-16",
@@ -159,6 +198,19 @@
       "type": "verse",
       "number": 26,
       "text": "But such sacred and votive donations as you may have shall be taken by you to the site that the Lord will choose."
+    },
+    {
+      "block_id": "jsb-deut-12-26-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “you shall pick up and come.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-deut-12-27",

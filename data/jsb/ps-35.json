@@ -1,7 +1,7 @@
 {
   "document_id": "ps-35",
   "title": "Psalms 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "For without cause they hid a net to trap me; without cause they dug a pit for me."
     },
     {
+      "block_id": "jsb-ps-35-7-commentary-1",
+      "type": "commentary",
+      "text": "Transferred from first clause for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 35,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-35-8",
       "type": "verse",
       "number": 8,
@@ -83,6 +96,19 @@
       "text": "Yet, when they were ill, my dress was sackcloth, I kept a fast— may what I prayed for happen to me!"
     },
     {
+      "block_id": "jsb-ps-35-13-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; lit. “my prayer returns upon my bosom.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 35,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-35-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +119,19 @@
       "type": "verse",
       "number": 15,
       "text": "But when I stumble, they gleefully gather; wretches gather against me, I know not why; they tear at me without end."
+    },
+    {
+      "block_id": "jsb-ps-35-15-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 35,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ps-35-16",

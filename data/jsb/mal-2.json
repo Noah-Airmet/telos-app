@@ -1,7 +1,7 @@
 {
   "document_id": "mal-2",
   "title": "Malachi 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "I will put your seed under a ban, and I will strew dung upon your faces, the dung of your festal sacrifices, and you shall be carried out to its [heap]."
     },
     {
+      "block_id": "jsb-mal-2-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-mal-2-4",
       "type": "verse",
       "number": 4,
@@ -41,16 +54,55 @@
       "text": "Proper rulings were in his mouth, And nothing perverse was on his lips; He served Me with complete loyalty And held the many back from iniquity."
     },
     {
+      "block_id": "jsb-mal-2-6-commentary-2",
+      "type": "commentary",
+      "text": "See Hag. 2.10–13; cf. Lev. 10.8–11, Deut. 33.8, 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-mal-2-7",
       "type": "verse",
       "number": 7,
       "text": "For the lips of a priest guard knowledge, And men seek rulings from his mouth; For he is a messenger of the Lord of Hosts."
     },
     {
+      "block_id": "jsb-mal-2-7-commentary-3",
+      "type": "commentary",
+      "text": "Or: For the lips of a priest are observed; / Knowledge and ruling are sought from his mouth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-mal-2-8",
       "type": "verse",
       "number": 8,
       "text": "But you have turned away from that course: You have made the many stumble through your rulings; you have corrupted the covenant of the Levites—said the Lord of Hosts."
+    },
+    {
+      "block_id": "jsb-mal-2-8-commentary-4",
+      "type": "commentary",
+      "text": "By ruling falsely that an act was licit or an object ritually pure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-mal-2-9",
@@ -77,10 +129,49 @@
       "text": "May the Lord leave to him who does this no descendants dwelling in the tents of Jacob and presenting offerings to the Lord of Hosts."
     },
     {
+      "block_id": "jsb-mal-2-12-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-mal-2-13",
       "type": "verse",
       "number": 13,
       "text": "And this you do as well: You cover the altar of the Lord with tears, weeping, and moaning, so that He refuses to regard the oblation any more and to accept what you offer."
+    },
+    {
+      "block_id": "jsb-mal-2-13-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “a second time”; Septuagint reads “which I detest”; cf. v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-mal-2-13-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “from your hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-mal-2-14",
@@ -93,6 +184,19 @@
       "type": "verse",
       "number": 15,
       "text": "Did not the One make [all,] so that all remaining life-breath is His? And what does that One seek but godly folk? So be careful of your life-breath, and let no one break faith with the wife of his youth."
+    },
+    {
+      "block_id": "jsb-mal-2-15-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 2,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-mal-2-16",

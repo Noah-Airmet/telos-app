@@ -1,7 +1,7 @@
 {
   "document_id": "josh-2",
   "title": "Joshua 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "The spies had not yet gone to sleep when she came up to them on the roof."
     },
     {
+      "block_id": "jsb-josh-2-8-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “They.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-josh-2-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "For we have heard how the Lord dried up the waters of the Sea of Reeds for you when you left Egypt, and what you did to Sihon and Og, the two Amorite kings across the Jordan, whom you doomed."
+    },
+    {
+      "block_id": "jsb-josh-2-10-commentary-2",
+      "type": "commentary",
+      "text": "I.e., placed under ḥerem, which meant the annihilation of the inhabitants. Cf. Deut. 2.34 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 2,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-josh-2-11",

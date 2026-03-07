@@ -1,7 +1,7 @@
 {
   "document_id": "prov-3",
   "title": "Proverbs 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "It will be a cure for your body, A tonic for your bones."
+    },
+    {
+      "block_id": "jsb-prov-3-8-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “navel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-prov-3-9",

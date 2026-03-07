@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-9",
   "title": "1 Kings 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,10 +47,62 @@
       "text": "then I will sweep Israel off the land which I gave them; I will reject the House which I have consecrated to My name; and Israel shall become a proverb and a byword among all peoples."
     },
     {
+      "block_id": "jsb-1-kgs-9-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “cut.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-1-kgs-9-7-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “dismiss from My presence.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-1-kgs-9-8",
       "type": "verse",
       "number": 8,
       "text": "And as for this House, once so exalted, everyone passing by it shall be appalled and shall hiss. And when they ask, ‘Why did the Lord do thus to the land and to this House?’"
+    },
+    {
+      "block_id": "jsb-1-kgs-9-8-commentary-3",
+      "type": "commentary",
+      "text": "Targum and some other ancient versions read “and this House shall become a ruin.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-1-kgs-9-8-commentary-4",
+      "type": "commentary",
+      "text": "An action performed at the sight of ruin to ward off a like fate from the observer; cf. note at Jer. 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-kgs-9-9",
@@ -63,6 +115,19 @@
       "type": "verse",
       "number": 10,
       "text": "At the end of the twenty years during which Solomon constructed the two buildings, the Lord’s House and the royal palace—"
+    },
+    {
+      "block_id": "jsb-1-kgs-9-10-commentary-5",
+      "type": "commentary",
+      "text": "See 6.38–7.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-1-kgs-9-11",
@@ -83,6 +148,19 @@
       "text": "“My brother,” he said, “what sort of towns are these you have given me?” So they were named the land of Cabul, as is still the case."
     },
     {
+      "block_id": "jsb-1-kgs-9-13-commentary-6",
+      "type": "commentary",
+      "text": "Perhaps taken to mean “as nothing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-kgs-9-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +171,19 @@
       "type": "verse",
       "number": 15,
       "text": "This was the purpose of the forced labor which Solomon imposed: It was to build the House of the Lord, his own palace, the Millo, and the wall of Jerusalem, and [to fortify] Hazor, Megiddo, and Gezer. ("
+    },
+    {
+      "block_id": "jsb-1-kgs-9-15-commentary-7",
+      "type": "commentary",
+      "text": "A citadel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-1-kgs-9-16",
@@ -111,6 +202,19 @@
       "type": "verse",
       "number": 18,
       "text": "Baalith, and Tamar in the wilderness, in the land [of Judah],"
+    },
+    {
+      "block_id": "jsb-1-kgs-9-18-commentary-8",
+      "type": "commentary",
+      "text": "So kethib, cf. Ezek. 47.19, 48.28; qere Tadmor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-1-kgs-9-19",
@@ -143,6 +247,19 @@
       "text": "These were the prefects that were in charge of Solomon’s works and were foremen over the people engaged in the work, who numbered 550."
     },
     {
+      "block_id": "jsb-1-kgs-9-23-commentary-9",
+      "type": "commentary",
+      "text": "Their names are not listed in the text.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-1-kgs-9-24",
       "type": "verse",
       "number": 24,
@@ -155,10 +272,36 @@
       "text": "Solomon used to offer burnt offerings and sacrifices of well-being three times a year on the altar that he had built for the Lord, and he used to offer incense on the one that was before the Lord. And he kept the House in repair."
     },
     {
+      "block_id": "jsb-1-kgs-9-25-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-1-kgs-9-26",
       "type": "verse",
       "number": 26,
       "text": "King Solomon also built a fleet of ships at Ezion-geber, which is near Eloth on the shore of the Sea of Reeds in the land of Edom."
+    },
+    {
+      "block_id": "jsb-1-kgs-9-26-commentary-11",
+      "type": "commentary",
+      "text": "Elsewhere called Elath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 9,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-1-kgs-9-27",

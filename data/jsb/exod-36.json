@@ -1,7 +1,7 @@
 {
   "document_id": "exod-36",
   "title": "Exodus 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "And they made fifty gold clasps and coupled the units to one another with the clasps, so that the Tabernacle became one whole."
     },
     {
+      "block_id": "jsb-exod-36-13-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “strip of cloth,” here used collectively.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 36,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-exod-36-14",
       "type": "verse",
       "number": 14,
@@ -137,10 +150,36 @@
       "text": "Each plank had two tenons, parallel to each other; they did the same with all the planks of the Tabernacle."
     },
     {
+      "block_id": "jsb-exod-36-22-commentary-2",
+      "type": "commentary",
+      "text": "See note at 26.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 36,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-exod-36-23",
       "type": "verse",
       "number": 23,
       "text": "Of the planks of the Tabernacle, they made twenty planks for the south side,"
+    },
+    {
+      "block_id": "jsb-exod-36-23-commentary-3",
+      "type": "commentary",
+      "text": "See note at 26.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 36,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-exod-36-24",
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "They matched at the bottom, but terminated as one at the top into one ring; they did so with both of them at the two corners."
+    },
+    {
+      "block_id": "jsb-exod-36-29-commentary-4",
+      "type": "commentary",
+      "text": "See note at 26.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 36,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-exod-36-30",

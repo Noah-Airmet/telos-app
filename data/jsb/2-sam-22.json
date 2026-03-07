@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-22",
   "title": "2 Samuel 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "David addressed the words of this song to the Lord, after the Lord had saved him from the hands of all his enemies and from the hands of Saul."
+    },
+    {
+      "block_id": "jsb-2-sam-22-1-commentary-1",
+      "type": "commentary",
+      "text": "This poem occurs again as Ps. 18, with a number of variations, some of which are cited in the following notes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-22-2",
@@ -23,16 +36,68 @@
       "text": "O God, the rock wherein I take shelter: My shield, my mighty champion, my fortress and refuge! My savior, You who rescue me from violence!"
     },
     {
+      "block_id": "jsb-2-sam-22-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “the God of my rock”; Ps. 18.3 “my God, my rock.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-2-sam-22-3-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “horn of rescue.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-2-sam-22-4",
       "type": "verse",
       "number": 4,
       "text": "All praise! I called on the Lord, And I was delivered from my enemies."
     },
     {
+      "block_id": "jsb-2-sam-22-4-commentary-4",
+      "type": "commentary",
+      "text": "Construction of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-2-sam-22-5",
       "type": "verse",
       "number": 5,
       "text": "For the breakers of Death encompassed me, The torrents of Belial terrified me;"
+    },
+    {
+      "block_id": "jsb-2-sam-22-5-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the netherworld, like “Death” and “Sheol.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-sam-22-6",
@@ -47,10 +112,36 @@
       "text": "In my anguish I called on the Lord, Cried out to my God; In His Abode He heard my voice, My cry entered His ears."
     },
     {
+      "block_id": "jsb-2-sam-22-7-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “Temple.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-2-sam-22-8",
       "type": "verse",
       "number": 8,
       "text": "Then the earth rocked and quaked, The foundations of heaven shook— Rocked by His indignation."
+    },
+    {
+      "block_id": "jsb-2-sam-22-8-commentary-7",
+      "type": "commentary",
+      "text": "Ps. 18.8 “mountains.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-sam-22-9",
@@ -69,6 +160,19 @@
       "type": "verse",
       "number": 11,
       "text": "He mounted a cherub and flew; He was seen on the wings of the wind."
+    },
+    {
+      "block_id": "jsb-2-sam-22-11-commentary-8",
+      "type": "commentary",
+      "text": "Ps. 18.11 “Gliding.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-2-sam-22-12",
@@ -95,6 +199,19 @@
       "text": "He let loose bolts, and scattered them; Lightning, and put them to rout."
     },
     {
+      "block_id": "jsb-2-sam-22-15-commentary-9",
+      "type": "commentary",
+      "text": "I.e., the enemies in v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-2-sam-22-16",
       "type": "verse",
       "number": 16,
@@ -105,6 +222,19 @@
       "type": "verse",
       "number": 17,
       "text": "He reached down from on high, He took me, Drew me out of the mighty waters;"
+    },
+    {
+      "block_id": "jsb-2-sam-22-17-commentary-10",
+      "type": "commentary",
+      "text": "Cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-2-sam-22-18",
@@ -161,6 +291,19 @@
       "text": "With the loyal You deal loyally; With the blameless hero, blamelessly."
     },
     {
+      "block_id": "jsb-2-sam-22-26-commentary-11",
+      "type": "commentary",
+      "text": "Ps. 18.26 “man.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-2-sam-22-27",
       "type": "verse",
       "number": 27,
@@ -173,6 +316,19 @@
       "text": "To humble folk You give victory, And You look with scorn on the haughty."
     },
     {
+      "block_id": "jsb-2-sam-22-28-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “And lower Your eyes on the haughty”; Ps. 18.28 “But haughty eyes You humble.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-2-sam-22-29",
       "type": "verse",
       "number": 29,
@@ -183,6 +339,19 @@
       "type": "verse",
       "number": 30,
       "text": "With You, I can rush a barrier, With my God, I can scale a wall."
+    },
+    {
+      "block_id": "jsb-2-sam-22-30-commentary-13",
+      "type": "commentary",
+      "text": "Cf. postbiblical gedudiyyoth “walls,” Aramaic gudda, “wall.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-2-sam-22-31",
@@ -203,10 +372,49 @@
       "text": "The God, my mighty stronghold, Who kept my path secure;"
     },
     {
+      "block_id": "jsb-2-sam-22-33-commentary-14",
+      "type": "commentary",
+      "text": "Ps. 18.33 “who girded me with might.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "jsb-2-sam-22-33-commentary-15",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; Ps. 18.33 “made.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
       "block_id": "jsb-2-sam-22-34",
       "type": "verse",
       "number": 34,
       "text": "Who made my legs like a deer’s, And set me firm on the heights;"
+    },
+    {
+      "block_id": "jsb-2-sam-22-34-commentary-16",
+      "type": "commentary",
+      "text": "Taking bamothai as a poetic form of bamoth; cf. Hab. 3.19; others “my.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-2-sam-22-35",
@@ -219,6 +427,19 @@
       "type": "verse",
       "number": 36,
       "text": "You have granted me the shield of Your protection And Your providence has made me great."
+    },
+    {
+      "block_id": "jsb-2-sam-22-36-commentary-17",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-2-sam-22-37",
@@ -257,6 +478,19 @@
       "text": "They looked, but there was none to deliver; To the Lord, but He answered them not."
     },
     {
+      "block_id": "jsb-2-sam-22-42-commentary-18",
+      "type": "commentary",
+      "text": "Ps. 18.42 “cried.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
       "block_id": "jsb-2-sam-22-43",
       "type": "verse",
       "number": 43,
@@ -269,6 +503,32 @@
       "text": "You have rescued me from the strife of peoples, Kept me to be a ruler of nations; Peoples I knew not must serve me."
     },
     {
+      "block_id": "jsb-2-sam-22-44-commentary-19",
+      "type": "commentary",
+      "text": "So some mss. and the Septuagint; most mss. and the printed editions “my people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "jsb-2-sam-22-44-commentary-20",
+      "type": "commentary",
+      "text": "Ps. 18.44 “made me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
       "block_id": "jsb-2-sam-22-45",
       "type": "verse",
       "number": 45,
@@ -279,6 +539,19 @@
       "type": "verse",
       "number": 46,
       "text": "Aliens have lost courage And come trembling out of their fastnesses."
+    },
+    {
+      "block_id": "jsb-2-sam-22-46-commentary-21",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
     },
     {
       "block_id": "jsb-2-sam-22-47",
@@ -309,6 +582,19 @@
       "type": "verse",
       "number": 51,
       "text": "Tower of victory to His king, Who deals graciously with His anointed, With David and his offspring evermore."
+    },
+    {
+      "block_id": "jsb-2-sam-22-51-commentary-22",
+      "type": "commentary",
+      "text": "Kethib and Ps. 18.51 read “He accords wondrous victories.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 22,
+        "verse": 51
+      },
+      "verse_start": 51,
+      "verse_end": 51
     }
   ]
 }

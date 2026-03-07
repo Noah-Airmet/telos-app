@@ -1,7 +1,7 @@
 {
   "document_id": "judg-11",
   "title": "Judges 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "but Gilead also had sons by his wife, and when the wife’s sons grew up, they drove Jephthah out. They said to him, “You shall have no share in our father’s property, for you are the son of an outsider.”"
+    },
+    {
+      "block_id": "jsb-judg-11-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “another woman.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 11,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-judg-11-3",
@@ -215,6 +228,19 @@
       "text": "On seeing her, he rent his clothes and said, “Alas, daughter! You have brought me low; you have become my troubler! For I have uttered a vow to the Lord and I cannot retract.”"
     },
     {
+      "block_id": "jsb-judg-11-35-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “opened my mouth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 11,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
       "block_id": "jsb-judg-11-36",
       "type": "verse",
       "number": 36,
@@ -225,6 +251,19 @@
       "type": "verse",
       "number": 37,
       "text": "She further said to her father, “Let this be done for me: let me be for two months, and I will go with my companions and lament upon the hills and there bewail my maidenhood.”"
+    },
+    {
+      "block_id": "jsb-judg-11-37-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “descend,” i.e., with weeping; cf. Isa. 15.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 11,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-judg-11-38",

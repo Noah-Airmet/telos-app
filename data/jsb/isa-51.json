@@ -1,7 +1,7 @@
 {
   "document_id": "isa-51",
   "title": "Isaiah 51",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,16 +29,68 @@
       "text": "Hearken to Me, My people, And give ear to Me, O My nation, For teaching shall go forth from Me, My way for the light of peoples. In a moment I will bring it:"
     },
     {
+      "block_id": "jsb-isa-51-4-commentary-1",
+      "type": "commentary",
+      "text": "Several mss. read “O peoples…O nations”; cf. end of this verse and v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-51-4-commentary-2",
+      "type": "commentary",
+      "text": "I.e., through My servant Israel; cf. 42.1–4; 49.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-51-5",
       "type": "verse",
       "number": 5,
       "text": "The triumph I grant is near, The success I give has gone forth. My arms shall provide for the peoples; The coastlands shall trust in Me, They shall look to My arm."
     },
     {
+      "block_id": "jsb-isa-51-5-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “judge.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-51-6",
       "type": "verse",
       "number": 6,
       "text": "Raise your eyes to the heavens, And look upon the earth beneath: Though the heavens should melt away like smoke, And the earth wear out like a garment, And its inhabitants die out as well, My victory shall stand forever, My triumph shall remain unbroken."
+    },
+    {
+      "block_id": "jsb-isa-51-6-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “like gnats.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-51-7",
@@ -53,10 +105,36 @@
       "text": "For the moth shall eat them up like a garment, The worm shall eat them up like wool. But My triumph shall endure forever, My salvation through all the ages."
     },
     {
+      "block_id": "jsb-isa-51-8-commentary-5",
+      "type": "commentary",
+      "text": "Heb. sas, another word for “moth.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-isa-51-9",
       "type": "verse",
       "number": 9,
       "text": "Awake, awake, clothe yourself with splendor. O arm of the Lord! Awake as in days of old, As in former ages! It was you that hacked Rahab in pieces, That pierced the Dragon."
+    },
+    {
+      "block_id": "jsb-isa-51-9-commentary-6",
+      "type": "commentary",
+      "text": "Names of primeval monsters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-isa-51-10",
@@ -89,6 +167,19 @@
       "text": "Quickly the crouching one is freed; He is not cut down and slain, And he shall not want for food."
     },
     {
+      "block_id": "jsb-isa-51-14-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain. Emendation yields (cf. Jer. 11.19; Job 14.7–9) “Quickly the tree buds anew; / It does not die though cut down, / And its sap does not fail.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-51-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +190,32 @@
       "type": "verse",
       "number": 16,
       "text": "Have put My words in your mouth And sheltered you with My hand; I, who planted the skies and made firm the earth, Have said to Zion: You are My people!"
+    },
+    {
+      "block_id": "jsb-isa-51-16-commentary-8",
+      "type": "commentary",
+      "text": "I.e., I have chosen you to be a prophet-nation; cf. 49.2; 59.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-isa-51-16-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “stretched out”; cf. Syriac version and v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-51-17",
@@ -113,10 +230,36 @@
       "text": "She has none to guide her Of all the sons she bore; None takes her by the hand, Of all the sons she reared."
     },
     {
+      "block_id": "jsb-isa-51-18-commentary-10",
+      "type": "commentary",
+      "text": "To guide a drunken parent home was a recognized filial duty in ancient Canaan and Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-isa-51-19",
       "type": "verse",
       "number": 19,
       "text": "These two things have befallen you: Wrack and ruin—who can console you? Famine and sword—how shall I comfort you?"
+    },
+    {
+      "block_id": "jsb-isa-51-19-commentary-11",
+      "type": "commentary",
+      "text": "Several ancient versions render “who can.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-51-20",
@@ -135,6 +278,19 @@
       "type": "verse",
       "number": 22,
       "text": "Thus said the Lord, your Lord, Your God who champions His people: Herewith I take from your hand The cup of reeling, The bowl, the cup of My wrath; You shall never drink it again."
+    },
+    {
+      "block_id": "jsb-isa-51-22-commentary-12",
+      "type": "commentary",
+      "text": "A figure of speech for a dire fate; cf. Jer. 25.15 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 51,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-isa-51-23",

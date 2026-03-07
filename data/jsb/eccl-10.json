@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-10",
   "title": "Ecclesiastes 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "Dead flies turn the perfumer’s ointment fetid and putrid; so a little folly outweighs massive wisdom."
     },
     {
+      "block_id": "jsb-eccl-10-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-eccl-10-2",
       "type": "verse",
       "number": 2,
       "text": "A wise man’s mind tends toward the right hand, a fool’s toward the left."
+    },
+    {
+      "block_id": "jsb-eccl-10-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., a wise man’s mind brings him good luck; a fool’s brings him bad luck.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-eccl-10-3",
@@ -27,6 +53,32 @@
       "type": "verse",
       "number": 4,
       "text": "If the wrath of a lord flares up against you, don’t give up your post; for when wrath abates, grave offenses are pardoned."
+    },
+    {
+      "block_id": "jsb-eccl-10-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “hope.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-eccl-10-4-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “abatement (2 Chron. 36.16) remits grave offenses.” For hinniaḥ, “to remit,” cf. Abodah Zarah 13a; cf. hanaḥah, “remission of taxes,” Esth. 2.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-eccl-10-5",
@@ -59,10 +111,36 @@
       "text": "He who quarries stones will be hurt by them; he who splits wood will be harmed by it."
     },
     {
+      "block_id": "jsb-eccl-10-9-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “profit…shall make use of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-eccl-10-10",
       "type": "verse",
       "number": 10,
       "text": "If the ax has become dull and he has not whetted the edge, he must exert more strength. Thus the advantage of a skill [depends on the exercise of] prudence."
+    },
+    {
+      "block_id": "jsb-eccl-10-10-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-eccl-10-11",
@@ -89,10 +167,36 @@
       "text": "Yet the fool talks and talks! A man cannot know what will happen; who can tell him what the future holds?"
     },
     {
+      "block_id": "jsb-eccl-10-14-commentary-7",
+      "type": "commentary",
+      "text": "The thought of this sentence is resumed at v. 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-eccl-10-15",
       "type": "verse",
       "number": 15,
       "text": "A fool’s exertions tire him out, for he doesn’t know how to get to a town."
+    },
+    {
+      "block_id": "jsb-eccl-10-15-commentary-8",
+      "type": "commentary",
+      "text": "This verse continues the thought of v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-eccl-10-16",
@@ -119,10 +223,36 @@
       "text": "They make a banquet for revelry; wine makes life merry, and money answers every need."
     },
     {
+      "block_id": "jsb-eccl-10-19-commentary-9",
+      "type": "commentary",
+      "text": "I.e., the ministers of v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-eccl-10-20",
       "type": "verse",
       "number": 20,
       "text": "Don’t revile a king even among your intimates. Don’t revile a rich man even in your bedchamber; For a bird of the air may carry the utterance, And a winged creature may report the word."
+    },
+    {
+      "block_id": "jsb-eccl-10-20-commentary-10",
+      "type": "commentary",
+      "text": "Others “thoughts”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 10,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

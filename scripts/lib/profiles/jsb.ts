@@ -164,14 +164,27 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
   const abbrev = TITLE_TO_ABBREV[englishTitle] ?? lookupAbbrev(englishTitle);
   const displayName = ABBREV_TO_DISPLAY[abbrev] ?? englishTitle;
 
+  // Extract footnotes BEFORE removing — build noteId -> text map
+  const noteIdToText = new Map<string, string>();
+  $("div.notegroup p.refnote, div.footnotes p.refnote, section.footnotes p.refnote").each((_, el) => {
+    const id = $(el).attr("id");
+    if (!id) return;
+    // Strip label/marker from text: <a><span class="label">*</span></a> followed by actual note
+    const $el = $(el);
+    const clone = $el.clone();
+    clone.find("a").first().remove(); // Remove the back-link
+    const text = clone.text().replace(/\s+/g, " ").trim();
+    if (text) noteIdToText.set(id, text);
+  });
+
   // Remove chapterfrontmatter (book intro — skip for now)
   $("div.chapterfrontmatter").remove();
 
   // Remove the droptoc nav div
   $("div.droptoc").remove();
 
-  // Remove footnote sections (they appear in separate divs at the end)
-  $("div.footnotes, section.footnotes").remove();
+  // Remove footnote/notegroup sections (after extracting)
+  $("div.notegroup, div.footnotes, section.footnotes").remove();
 
   // Remove page number spans
   $("span[id^='page_']").remove();
@@ -188,6 +201,7 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
 
   // Collect all chapter data: Map<chapterNum, Block[]>
   const chapterBlocks = new Map<number, Block[]>();
+  const footnoteRefs: Array<{ chapter: number; verse: number; noteId: string }> = [];
   let currentChapter = 0;
   let currentVerseNum = 0;
   let verseTextAccumulator = "";
@@ -256,14 +270,14 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
     return el.tagName === "span" && $(el).hasClass("dropcap");
   }
 
-  // Is this a footnote anchor (links to a note — contains only * or superscript text)?
-  function isFootnoteRef(node: cheerio.AnyNode): boolean {
-    if (node.type !== "tag") return false;
+  // Is this a footnote anchor (links to a note)? Returns the note ID (without #) or null.
+  function getFootnoteNoteId(node: cheerio.AnyNode): string | null {
+    if (node.type !== "tag") return null;
     const el = node as cheerio.Element;
-    // Footnote refs: <a href="#obso-...-note-..."> containing <sup>*</sup> or <sup><i>...</i></sup>
-    if (el.tagName !== "a") return false;
+    if (el.tagName !== "a") return null;
     const href = $(el).attr("href") ?? "";
-    return href.includes("-note-");
+    if (!href.includes("-note-")) return null;
+    return href.startsWith("#") ? href.slice(1) : href;
   }
 
   // Is this a StartVersenum element? Returns verse number or null.
@@ -331,8 +345,14 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
     // Skip dropcap text spans (the large visual chapter number)
     if (isDropcapText(node)) return;
 
-    // Skip footnote ref anchors
-    if (isFootnoteRef(node)) return;
+    // Footnote ref anchors: record for commentary blocks, then skip
+    const noteId = getFootnoteNoteId(node);
+    if (noteId !== null) {
+      if (currentChapter > 0 && currentVerseNum > 0) {
+        footnoteRefs.push({ chapter: currentChapter, verse: currentVerseNum, noteId });
+      }
+      return;
+    }
 
     // Check if this is an anchor wrapping a verse number
     const wrappedVerse = getWrappedVerseNum(node);
@@ -424,12 +444,41 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
     const headings = blocks.filter(b => b.type === "heading");
     const verses = blocks.filter(b => b.type === "verse").sort((a, b) => (a.number ?? 0) - (b.number ?? 0));
 
+    // Build commentary blocks from footnote refs for this chapter
+    const refsForChapter = footnoteRefs.filter((r) => r.chapter === chNum);
+    const commentaryByVerse = new Map<number, Block[]>();
+    let commentaryIndex = 0;
+    for (const ref of refsForChapter) {
+      const text = noteIdToText.get(ref.noteId);
+      if (!text) continue;
+      commentaryIndex += 1;
+      const commBlock: Block = {
+        block_id: `jsb-${abbrev}-${chNum}-${ref.verse}-commentary-${commentaryIndex}`,
+        type: "commentary",
+        text,
+        canonical_ref: { work: "bible", book: abbrev, chapter: chNum, verse: ref.verse },
+        verse_start: ref.verse,
+        verse_end: ref.verse,
+      };
+      const list = commentaryByVerse.get(ref.verse) ?? [];
+      list.push(commBlock);
+      commentaryByVerse.set(ref.verse, list);
+    }
+
+    // Interleave: for each verse, [verse, ...commentary for that verse]
+    const versesWithCommentary: Block[] = [];
+    for (const verse of verses) {
+      versesWithCommentary.push(verse);
+      const comm = commentaryByVerse.get(verse.number ?? 0) ?? [];
+      versesWithCommentary.push(...comm);
+    }
+
     documents.push({
       document_id: `${abbrev}-${chNum}`,
       title: `${displayName} ${chNum}`,
-      type: "scripture",
+      type: "study-bible",
       translation: "NJPS",
-      blocks: [...headings, ...verses],
+      blocks: [...headings, ...versesWithCommentary],
     });
   }
 
@@ -439,7 +488,7 @@ function parseBookFile(zip: AdmZip, href: string): TelosDocument[] {
 export const jsbProfile: Profile = {
   name: "jsb",
   translation: "NJPS",
-  type: "scripture",
+  type: "study-bible",
 
   parse(zip: AdmZip, _toc: TocEntry[], _spine: EpubSpineEntry[]): TelosDocument[] {
     const allDocuments: TelosDocument[] = [];

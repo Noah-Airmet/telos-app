@@ -1,7 +1,7 @@
 {
   "document_id": "isa-46",
   "title": "Isaiah 46",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "Bel is bowed, Nebo is cowering, Their images are a burden for beasts and cattle; The things you would carry [in procession] Are now piled as a burden On tired [beasts]."
     },
     {
+      "block_id": "jsb-isa-46-1-commentary-1",
+      "type": "commentary",
+      "text": "Babylonian deities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-isa-46-1-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-46-2",
       "type": "verse",
       "number": 2,
       "text": "They cowered, they bowed as well, They could not rescue the burden, And they themselves went into captivity."
+    },
+    {
+      "block_id": "jsb-isa-46-2-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “him who carried [them]”; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-46-3",
@@ -41,6 +80,19 @@
       "text": "Those who squander gold from the purse And weigh out silver on the balance, They hire a metal worker to make it into a god, To which they bow down and prostrate themselves."
     },
     {
+      "block_id": "jsb-isa-46-6-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “beam [of the balance].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-46-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +103,19 @@
       "type": "verse",
       "number": 8,
       "text": "Keep this in mind, and stand firm! Take this to heart, you sinners!"
+    },
+    {
+      "block_id": "jsb-isa-46-8-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-46-9",
@@ -71,10 +136,36 @@
       "text": "I summoned that swooping bird from the East; From a distant land, the man for My purpose. I have spoken, so I will bring it to pass; I have designed it, so I will complete it."
     },
     {
+      "block_id": "jsb-isa-46-11-commentary-6",
+      "type": "commentary",
+      "text": "I.e., Cyrus; cf. 41.2–3; 44.28–45.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-46-12",
       "type": "verse",
       "number": 12,
       "text": "Listen to Me, you stubborn of heart, Who are far from victory:"
+    },
+    {
+      "block_id": "jsb-isa-46-12-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint reads, “who have lost heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 46,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-46-13",

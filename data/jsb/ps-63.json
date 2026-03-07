@@ -1,7 +1,7 @@
 {
   "document_id": "ps-63",
   "title": "Psalms 63",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "I am sated as with a rich feast, I sing praises with joyful lips"
+    },
+    {
+      "block_id": "jsb-ps-63-6-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “suet and fat.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 63,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-63-7",

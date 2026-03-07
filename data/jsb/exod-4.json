@@ -1,7 +1,7 @@
 {
   "document_id": "exod-4",
   "title": "Exodus 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "The Lord said to him further, “Put your hand into your bosom.” He put his hand into his bosom; and when he took it out, his hand was encrusted with snowy scales!"
+    },
+    {
+      "block_id": "jsb-exod-4-6-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Lev. 13.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-exod-4-7",
@@ -83,6 +96,19 @@
       "text": "But he said, “Please, O Lord, make someone else Your agent.”"
     },
     {
+      "block_id": "jsb-exod-4-13-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “send through whomever You will send.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-exod-4-14",
       "type": "verse",
       "number": 14,
@@ -101,6 +127,19 @@
       "text": "and he shall speak for you to the people. Thus he shall serve as your spokesman, with you playing the role of God to him,"
     },
     {
+      "block_id": "jsb-exod-4-16-commentary-3",
+      "type": "commentary",
+      "text": "Cf. 7.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-exod-4-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +150,32 @@
       "type": "verse",
       "number": 18,
       "text": "Moses went back to his father-in-law Jether and said to him, “Let me go back to my kinsmen in Egypt and see how they are faring.” And Jethro said to Moses, “Go in peace.”"
+    },
+    {
+      "block_id": "jsb-exod-4-18-commentary-4",
+      "type": "commentary",
+      "text": "I.e., Jethro.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-exod-4-18-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “whether they are still alive.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-exod-4-19",
@@ -153,6 +218,19 @@
       "type": "verse",
       "number": 25,
       "text": "So Zipporah took a flint and cut off her son’s foreskin, and touched his legs with it, saying, “You are truly a bridegroom of blood to me!”"
+    },
+    {
+      "block_id": "jsb-exod-4-25-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of vv. 25–26 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 4,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-exod-4-26",

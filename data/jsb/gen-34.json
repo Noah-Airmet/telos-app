@@ -1,7 +1,7 @@
 {
   "document_id": "gen-34",
   "title": "Genesis 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -125,6 +125,19 @@
       "text": "So Hamor and his son Shechem went to the public place of their town and spoke to their fellow townsmen, saying,"
     },
     {
+      "block_id": "jsb-gen-34-20-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “gate.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 34,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-gen-34-21",
       "type": "verse",
       "number": 21,
@@ -147,6 +160,19 @@
       "type": "verse",
       "number": 24,
       "text": "All who went out of the gate of his town heeded Hamor and his son Shechem, and all males, all those who went out of the gate of his town, were circumcised."
+    },
+    {
+      "block_id": "jsb-gen-34-24-commentary-2",
+      "type": "commentary",
+      "text": "I.e., all his fellow townsmen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 34,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-gen-34-25",

@@ -1,7 +1,7 @@
 {
   "document_id": "num-28",
   "title": "Numbers 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Command the Israelite people and say to them: Be punctilious in presenting to Me at stated times the offerings of food due Me, as offerings by fire of pleasing odor to Me."
+    },
+    {
+      "block_id": "jsb-num-28-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “My offering, My food.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-28-3",
@@ -41,10 +54,36 @@
       "text": "the regular burnt offering instituted at Mount Sinai—an offering by fire of pleasing odor to the Lord."
     },
     {
+      "block_id": "jsb-num-28-6-commentary-2",
+      "type": "commentary",
+      "text": "Exod. 29.38–41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-num-28-7",
       "type": "verse",
       "number": 7,
       "text": "The libation with it shall be a quarter of a hin for each lamb, to be poured in the sacred precinct as an offering of fermented drink to the Lord."
+    },
+    {
+      "block_id": "jsb-num-28-7-commentary-3",
+      "type": "commentary",
+      "text": "I.e., wine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-num-28-8",
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "On the sabbath day: two yearling lambs without blemish, together with two-tenths of a measure of choice flour with oil mixed in as a meal offering, and with the proper libation—"
+    },
+    {
+      "block_id": "jsb-num-28-9-commentary-4",
+      "type": "commentary",
+      "text": "I.e., of an ephah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-28-10",
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "You shall present an offering by fire, a burnt offering, to the Lord: two bulls of the herd, one ram, and seven yearling lambs—see that they are without blemish."
+    },
+    {
+      "block_id": "jsb-num-28-19-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “they shall be to you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-num-28-20",
@@ -189,6 +254,19 @@
       "type": "verse",
       "number": 31,
       "text": "You shall present them—see that they are without blemish—with their libations, in addition to the regular burnt offering and its meal offering."
+    },
+    {
+      "block_id": "jsb-num-28-31-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “they shall be to you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 28,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     }
   ]
 }

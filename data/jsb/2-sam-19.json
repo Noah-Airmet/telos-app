@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-19",
   "title": "2 Samuel 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "The king was shaken. He went up to the upper chamber of the gateway and wept, moaning these words as he went, “My son Absalom! O my son, my son Absalom! If only I had died instead of you! O Absalom, my son, my son!”"
+    },
+    {
+      "block_id": "jsb-2-sam-19-1-commentary-1",
+      "type": "commentary",
+      "text": "Counted as 18.33 in some versions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-2-sam-19-1-commentary-2",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “wept.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-sam-19-2",
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "Now arise, come out and placate your followers! For I swear by the Lord that if you do not come out, not a single man will remain with you overnight; and that would be a greater disaster for you than any disaster that has befallen you from your youth until now.”"
+    },
+    {
+      "block_id": "jsb-2-sam-19-8-commentary-3",
+      "type": "commentary",
+      "text": "So Septuagint, 4QSama, and some other Heb. mss., and an ancient masoretic tradition; ordinary texts omit “if.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-sam-19-9",
@@ -113,6 +152,19 @@
       "text": "accompanied by a thousand Benjaminites. And Ziba, the servant of the House of Saul, together with his fifteen sons and twenty slaves, rushed down to the Jordan ahead of the king"
     },
     {
+      "block_id": "jsb-2-sam-19-18-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of parts of the rest of vv. 18 and 19 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-2-sam-19-19",
       "type": "verse",
       "number": 19,
@@ -143,6 +195,32 @@
       "text": "But David said, “What has this to do with you, you sons of Zeruiah, that you should cross me today? Should a single Israelite be put to death today? Don’t I know that today I am again king over Israel?”"
     },
     {
+      "block_id": "jsb-2-sam-19-23-commentary-5",
+      "type": "commentary",
+      "text": "See note at 16.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-2-sam-19-23-commentary-6",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-2-sam-19-24",
       "type": "verse",
       "number": 24,
@@ -161,10 +239,49 @@
       "text": "When he came [from] Jerusalem to meet the king, the king asked him, “Why didn’t you come with me, Mephibosheth?”"
     },
     {
+      "block_id": "jsb-2-sam-19-26-commentary-7",
+      "type": "commentary",
+      "text": "So Septuagint. Heb. “entered.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-2-sam-19-27",
       "type": "verse",
       "number": 27,
       "text": "He replied, “My lord the king, my own servant deceived me. Your servant planned to saddle his ass and ride on it and go with Your Majesty—for your servant is lame."
+    },
+    {
+      "block_id": "jsb-2-sam-19-27-commentary-8",
+      "type": "commentary",
+      "text": "I.e., Ziba (cf. v. 30 and 9.2 ff.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "jsb-2-sam-19-27-commentary-9",
+      "type": "commentary",
+      "text": "Ancient versions read “Your servant said to him, ‘Saddle my ass, that I may ride…’”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-2-sam-19-28",
@@ -195,6 +312,19 @@
       "type": "verse",
       "number": 32,
       "text": "Barzillai the Gileadite had come down from Rogelin and passed on to the Jordan with the king, to see him off at the Jordan."
+    },
+    {
+      "block_id": "jsb-2-sam-19-32-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-2-sam-19-33",
@@ -245,10 +375,36 @@
       "text": "All the troops crossed the Jordan; and when the king was ready to cross, the king kissed Barzillai and bade him farewell; and [Barzillai] returned to his home."
     },
     {
+      "block_id": "jsb-2-sam-19-40-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 40–44 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
       "block_id": "jsb-2-sam-19-41",
       "type": "verse",
       "number": 41,
       "text": "The king passed on to Gilgal, with Chimham accompanying him; and all the Judite soldiers and part of the Israelite army escorted the king across."
+    },
+    {
+      "block_id": "jsb-2-sam-19-41-commentary-12",
+      "type": "commentary",
+      "text": "Heb. Chimhan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-2-sam-19-42",
@@ -267,6 +423,19 @@
       "type": "verse",
       "number": 44,
       "text": "But the men of Israel answered the men of Judah, “We have ten shares in the king, and in David, too, we have more than you. Why then have you slighted us? Were we not the first to propose that our king be brought back?” However, the men of Judah prevailed over the men of Israel."
+    },
+    {
+      "block_id": "jsb-2-sam-19-44-commentary-13",
+      "type": "commentary",
+      "text": "Septuagint reads “we are the first-born, rather than you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 19,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
     }
   ]
 }

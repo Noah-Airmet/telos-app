@@ -1,7 +1,7 @@
 {
   "document_id": "num-32",
   "title": "Numbers 32",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "text": "And we will hasten as shock-troops in the van of the Israelites until we have established them in their home, while our children stay in the fortified towns because of the inhabitants of the land."
     },
     {
+      "block_id": "jsb-num-32-17-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. hushim uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-num-32-18",
       "type": "verse",
       "number": 18,
@@ -171,6 +184,19 @@
       "text": "Our children, our wives, our flocks, and all our other livestock will stay behind in the towns of Gilead;"
     },
     {
+      "block_id": "jsb-num-32-26-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “there.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-num-32-27",
       "type": "verse",
       "number": 27,
@@ -205,6 +231,19 @@
       "type": "verse",
       "number": 32,
       "text": "We ourselves will cross over as shock-troops, at the instance of the Lord, into the land of Canaan; and we shall keep our hereditary holding across the Jordan.”"
+    },
+    {
+      "block_id": "jsb-num-32-32-commentary-3",
+      "type": "commentary",
+      "text": "I.e., in Transjordan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-num-32-33",
@@ -243,6 +282,19 @@
       "text": "Nebo, Baal-meon—some names being changed—and Sibmah; they gave [their own] names to towns that they rebuilt."
     },
     {
+      "block_id": "jsb-num-32-38-commentary-4",
+      "type": "commentary",
+      "text": "Cf. vv. 41, 42.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
       "block_id": "jsb-num-32-39",
       "type": "verse",
       "number": 39,
@@ -259,6 +311,32 @@
       "type": "verse",
       "number": 41,
       "text": "Jair son of Manasseh went and captured their villages, which he renamed Havvoth-jair."
+    },
+    {
+      "block_id": "jsb-num-32-41-commentary-5",
+      "type": "commentary",
+      "text": "Or “the villages of Ham”; cf. Gen. 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "jsb-num-32-41-commentary-6",
+      "type": "commentary",
+      "text": "I.e., “the villages of Jair.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 32,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-num-32-42",

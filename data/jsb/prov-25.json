@@ -1,7 +1,7 @@
 {
   "document_id": "prov-25",
   "title": "Proverbs 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "Be vented rashly in a quarrel; Think of what it will effect in the end, When your fellow puts you to shame."
     },
     {
+      "block_id": "jsb-prov-25-8-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Lest.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 25,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-prov-25-9",
       "type": "verse",
       "number": 9,
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "Like golden apples in silver showpieces Is a phrase well turned."
+    },
+    {
+      "block_id": "jsb-prov-25-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 25,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-prov-25-12",
@@ -147,6 +173,19 @@
       "type": "verse",
       "number": 24,
       "text": "Dwelling in the corner of a roof is better Than a contentious woman in a spacious house."
+    },
+    {
+      "block_id": "jsb-prov-25-24-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 25,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-prov-25-25",

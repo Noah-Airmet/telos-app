@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-5",
   "title": "1 Kings 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "10 fattened oxen, 20 pasture-fed oxen, and 100 sheep and goats, besides deer and gazelles, roebucks and fatted geese."
+    },
+    {
+      "block_id": "jsb-1-kgs-5-3-commentary-1",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 5,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-1-kgs-5-4",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "All those prefects, each during his month, would furnish provisions for King Solomon and for all who were admitted to King Solomon’s table; they did not fall short in anything."
+    },
+    {
+      "block_id": "jsb-1-kgs-5-7-commentary-2",
+      "type": "commentary",
+      "text": "Resuming the account begun in 4.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 5,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-kgs-5-8",
@@ -107,6 +133,19 @@
       "text": "“You know that my father David could not build a house for the name of the Lord his God because of the enemies that encompassed him, until the Lord had placed them under the soles of his feet."
     },
     {
+      "block_id": "jsb-1-kgs-5-17-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “war”; cf. Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 5,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-1-kgs-5-18",
       "type": "verse",
       "number": 18,
@@ -153,6 +192,19 @@
       "type": "verse",
       "number": 25,
       "text": "and Solomon delivered to Hiram 20,000 kors of wheat as provisions for his household and 20 kors of beaten oil. Such was Solomon’s annual payment to Hiram."
+    },
+    {
+      "block_id": "jsb-1-kgs-5-25-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint reads, “20,000 baths.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 5,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-1-kgs-5-26",

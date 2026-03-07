@@ -1,7 +1,7 @@
 {
   "document_id": "ps-49",
   "title": "Psalms 49",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "My mouth utters wisdom, my speech is full of insight."
     },
     {
+      "block_id": "jsb-ps-49-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “utterance of my heart”; on leb, cf. Ps. 19.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-49-5",
       "type": "verse",
       "number": 5,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "Ah, it cannot redeem a man, or pay his ransom to God;"
+    },
+    {
+      "block_id": "jsb-ps-49-8-commentary-2",
+      "type": "commentary",
+      "text": "Or “A brother.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-49-9",
@@ -77,6 +103,19 @@
       "text": "Their grave is their eternal home, the dwelling-place for all generations of those once famous on earth."
     },
     {
+      "block_id": "jsb-ps-49-12-commentary-3",
+      "type": "commentary",
+      "text": "Taken with ancient versions and medieval commentators as the equivalent of qibram.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ps-49-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "Such is the fate of those who are self-confident, the end of those pleased with their own talk. Selah."
+    },
+    {
+      "block_id": "jsb-ps-49-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-49-15",

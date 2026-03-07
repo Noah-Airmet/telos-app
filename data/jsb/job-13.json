@@ -1,7 +1,7 @@
 {
   "document_id": "job-13",
   "title": "Job 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "He will surely reprove you If in your heart you are partial toward Him."
     },
     {
+      "block_id": "jsb-job-13-10-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “secret.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-job-13-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +88,32 @@
       "type": "verse",
       "number": 12,
       "text": "Your briefs are empty platitudes; Your responses are unsubstantial."
+    },
+    {
+      "block_id": "jsb-job-13-12-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “ashen.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-job-13-12-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “clayey.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-job-13-13",
@@ -93,6 +132,19 @@
       "type": "verse",
       "number": 15,
       "text": "He may well slay me; I may have no hope; Yet I will argue my case before Him."
+    },
+    {
+      "block_id": "jsb-job-13-15-commentary-4",
+      "type": "commentary",
+      "text": "So with kethib; others with qere “Though He slay me, yet will I trust in Him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-job-13-16",
@@ -161,10 +213,36 @@
       "text": "That You decree for me bitter things And make me answer for the iniquities of my youth,"
     },
     {
+      "block_id": "jsb-job-13-26-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “inherit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-job-13-27",
       "type": "verse",
       "number": 27,
       "text": "That You put my feet in the stocks And watch all my ways, Hemming in my footsteps?"
+    },
+    {
+      "block_id": "jsb-job-13-27-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 13,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-job-13-28",

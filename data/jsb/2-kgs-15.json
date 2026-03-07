@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-15",
   "title": "2 Kings 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "The Lord struck the king with a plague, and he was a leper until the day of his death; he lived in isolated quarters, while Jotham, the king’s son, was in charge of the palace and governed the people of the land."
     },
     {
+      "block_id": "jsb-2-kgs-15-5-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 15,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-2-kgs-15-6",
       "type": "verse",
       "number": 6,
@@ -65,6 +78,19 @@
       "text": "Shallum son of Jabesh conspired against him and struck him down before the people and killed him, and succeeded him as king."
     },
     {
+      "block_id": "jsb-2-kgs-15-10-commentary-2",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “at Ibleam.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 15,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-2-kgs-15-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "This was in accord with the word that the Lord had spoken to Jehu: “Four generations of your descendants shall occupy the throne of Israel.” And so it came about."
+    },
+    {
+      "block_id": "jsb-2-kgs-15-12-commentary-3",
+      "type": "commentary",
+      "text": "Cf. 10.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 15,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-2-kgs-15-13",
@@ -99,6 +138,19 @@
       "type": "verse",
       "number": 16,
       "text": "At that time, [marching] from Tirzah, Menahem subdued Tiphsah and all who were in it, and its territory; and because it did not surrender, he massacred [its people] and ripped open all its pregnant women."
+    },
+    {
+      "block_id": "jsb-2-kgs-15-16-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 15,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-kgs-15-17",
@@ -177,6 +229,19 @@
       "type": "verse",
       "number": 29,
       "text": "In the days of King Pekah of Israel, King Tiglath-pileser of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor—Gilead, Galilee, the entire region of Naphtali; and he deported the inhabitants to Assyria."
+    },
+    {
+      "block_id": "jsb-2-kgs-15-29-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 15,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-2-kgs-15-30",

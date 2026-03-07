@@ -1,7 +1,7 @@
 {
   "document_id": "ps-115",
   "title": "Psalms 115",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Their idols are silver and gold, the work of men’s hands."
+    },
+    {
+      "block_id": "jsb-ps-115-4-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 4–11, cf. Ps. 135.15–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 115,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-115-5",

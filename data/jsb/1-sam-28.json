@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-28",
   "title": "1 Samuel 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Now Samuel had died and all Israel made lament for him; and he was buried in his own town of Ramah. And Saul had forbidden [recourse to] ghosts and familiar spirits in the land."
     },
     {
+      "block_id": "jsb-1-sam-28-3-commentary-1",
+      "type": "commentary",
+      "text": "The rest of this chapter would read well after chapters 29 and 30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 28,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-1-sam-28-4",
       "type": "verse",
       "number": 4,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "And Saul inquired of the Lord, but the Lord did not answer him, either by dreams or by Urim or by prophets."
+    },
+    {
+      "block_id": "jsb-1-sam-28-6-commentary-2",
+      "type": "commentary",
+      "text": "A kind of oracle; see note at Exod. 28.30 and 1 Sam. 14.41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 28,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-1-sam-28-7",
@@ -77,6 +103,19 @@
       "text": "Then the woman recognized Samuel, and she shrieked loudly, and said to Saul, “Why have you deceived me? You are Saul!”"
     },
     {
+      "block_id": "jsb-1-sam-28-12-commentary-3",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “Saul.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 28,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-1-sam-28-13",
       "type": "verse",
       "number": 13,
@@ -101,10 +140,36 @@
       "text": "Samuel said, “Why do you ask me, seeing that the Lord has turned away from you and has become your adversary?"
     },
     {
+      "block_id": "jsb-1-sam-28-16-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 28,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-sam-28-17",
       "type": "verse",
       "number": 17,
       "text": "The Lord has done for Himself as He foretold through me: The Lord has torn the kingship out of your hands and has given it to your fellow, to David,"
+    },
+    {
+      "block_id": "jsb-1-sam-28-17-commentary-5",
+      "type": "commentary",
+      "text": "Some mss. and Septuagint read “to you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 28,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-1-sam-28-18",

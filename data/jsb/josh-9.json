@@ -1,7 +1,7 @@
 {
   "document_id": "josh-9",
   "title": "Joshua 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When all the kings west of the Jordan—in the hill country, in the Shephelah, and along the entire coast of the Mediterranean Sea up to the vicinity of Lebanon, the [land of the] Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—learned of this,"
+    },
+    {
+      "block_id": "jsb-josh-9-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “across.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-josh-9-2",
@@ -29,6 +42,19 @@
       "text": "they for their part resorted to cunning. They set out in disguise: they took worn-out sacks for their asses, and worn-out waterskins that were cracked and patched;"
     },
     {
+      "block_id": "jsb-josh-9-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 9,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-josh-9-5",
       "type": "verse",
       "number": 5,
@@ -45,6 +71,19 @@
       "type": "verse",
       "number": 7,
       "text": "The men of Israel replied to the Hivites, “But perhaps you live among us; how then can we make a pact with you?”"
+    },
+    {
+      "block_id": "jsb-josh-9-7-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Deut. 7.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-josh-9-8",
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "The men took [their word] because of their provisions, and did not inquire of the Lord."
+    },
+    {
+      "block_id": "jsb-josh-9-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 9,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-josh-9-15",

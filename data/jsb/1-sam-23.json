@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-23",
   "title": "1 Samuel 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "Saul was told that David had come to Keilah, and Saul thought, “God has delivered him into my hands, for he has shut himself in by entering a town with gates and bars.”"
+    },
+    {
+      "block_id": "jsb-1-sam-23-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 23,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-sam-23-8",
@@ -119,6 +132,19 @@
       "text": "Some Ziphites went up to Saul in Gibeah and said, “David is hiding among us in the strongholds of Horesh, at the hill of Hachilah south of Jeshimon."
     },
     {
+      "block_id": "jsb-1-sam-23-19-commentary-2",
+      "type": "commentary",
+      "text": "The meaning of many parts of 23.19 ff. is uncertain. The events described in 23.19–24.22 are partly paralleled in chapter 26, with variations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 23,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-23-20",
       "type": "verse",
       "number": 20,
@@ -155,6 +181,19 @@
       "text": "When Saul and his men came to search, David was told about it; and he went down to the rocky region and stayed in the wilderness of Maon. On hearing this, Saul pursued David in the wilderness of Maon."
     },
     {
+      "block_id": "jsb-1-sam-23-25-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 23,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-1-sam-23-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +210,19 @@
       "type": "verse",
       "number": 28,
       "text": "Saul gave up his pursuit of David and went to meet the Philistines. That is why that place came to be called the Rock of Separation."
+    },
+    {
+      "block_id": "jsb-1-sam-23-28-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 23,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-10",
   "title": "1 Kings 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The queen of Sheba heard of Solomon’s fame, through the name of the Lord, and she came to test him with hard questions."
+    },
+    {
+      "block_id": "jsb-1-kgs-10-1-commentary-1",
+      "type": "commentary",
+      "text": "The force of the phrase is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-kgs-10-2",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "the fare of his table, the seating of his courtiers, the service and attire of his attendants, and his wine service, and the burnt offerings that he offered at the House of the Lord, she was left breathless."
+    },
+    {
+      "block_id": "jsb-1-kgs-10-5-commentary-2",
+      "type": "commentary",
+      "text": "2 Chron. 9.4 reads “ …and the procession with which he went up to …”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-1-kgs-10-6",
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "Moreover, Hiram’s fleet, which carried gold from Ophir, brought in from Ophir a huge quantity of almug wood and precious stones."
+    },
+    {
+      "block_id": "jsb-1-kgs-10-11-commentary-3",
+      "type": "commentary",
+      "text": "Others “sandalwood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-kgs-10-12",
@@ -125,6 +164,19 @@
       "text": "and twelve lions stood on the six steps, six on either side. No such throne was ever made for any other kingdom."
     },
     {
+      "block_id": "jsb-1-kgs-10-20-commentary-4",
+      "type": "commentary",
+      "text": "Or “prince”; like Phoenician mamlakt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-kgs-10-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +187,19 @@
       "type": "verse",
       "number": 22,
       "text": "For the king had a Tarshish fleet on the sea, along with Hiram’s fleet. Once every three years, the Tarshish fleet came in, bearing gold and silver, ivory, apes, and peacocks."
+    },
+    {
+      "block_id": "jsb-1-kgs-10-22-commentary-5",
+      "type": "commentary",
+      "text": "Probably a fleet of large ships.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-kgs-10-23",
@@ -161,6 +226,19 @@
       "text": "Solomon assembled chariots and horses. He had 1,400 chariots and 12,000 horses, which he stationed in the chariot towns and with the king in Jerusalem."
     },
     {
+      "block_id": "jsb-1-kgs-10-26-commentary-6",
+      "type": "commentary",
+      "text": "So 2 Chron. 1.14; 9.25; Heb. here “led.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-1-kgs-10-27",
       "type": "verse",
       "number": 27,
@@ -173,10 +251,36 @@
       "text": "Solomon’s horses were procured from Mizraim and Kue. The king’s dealers would buy them from Kue at a fixed price."
     },
     {
+      "block_id": "jsb-1-kgs-10-28-commentary-7",
+      "type": "commentary",
+      "text": "Usually Egypt, here perhaps Muṣru, a neighbor of Kue (Cilicia).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-1-kgs-10-29",
       "type": "verse",
       "number": 29,
       "text": "A chariot imported from Mizraim cost 600 shekels of silver, and a horse 150; these in turn were exported by them to all the kings of the Hittites and the kings of the Arameans."
+    },
+    {
+      "block_id": "jsb-1-kgs-10-29-commentary-8",
+      "type": "commentary",
+      "text": "I.e., Solomon’s dealers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 10,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     }
   ]
 }

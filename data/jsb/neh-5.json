@@ -1,7 +1,7 @@
 {
   "document_id": "neh-5",
   "title": "Nehemiah 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "Now we are as good as our brothers, and our children as good as theirs; yet here we are subjecting our sons and daughters to slavery—some of our daughters are already subjected—and we are powerless, while our fields and vineyards belong to others.”"
+    },
+    {
+      "block_id": "jsb-neh-5-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “our flesh is as good as the flesh of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-neh-5-6",
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "The former governors who preceded me laid heavy burdens on the people, and took from them for bread and wine more than forty shekels of silver. Their servants also tyrannized over the people. But I, out of the fear of God, did not do so."
+    },
+    {
+      "block_id": "jsb-neh-5-15-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “after”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-neh-5-16",

@@ -1,7 +1,7 @@
 {
   "document_id": "num-20",
   "title": "Numbers 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The Israelites arrived in a body at the wilderness of Zin on the first new moon, and the people stayed at Kadesh. Miriam died there and was buried there."
+    },
+    {
+      "block_id": "jsb-num-20-1-commentary-1",
+      "type": "commentary",
+      "text": "Of the fortieth year; cf. Num. 33.36–38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 20,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-num-20-2",
@@ -83,6 +96,19 @@
       "text": "Those are the Waters of Meribah—meaning that the Israelites quarrelled with the Lord—through which He affirmed His sanctity."
     },
     {
+      "block_id": "jsb-num-20-13-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “Quarrel”; cf. Exod. 17.7 and note b there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 20,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-num-20-14",
       "type": "verse",
       "number": 14,
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "We cried to the Lord and He heard our plea, and He sent a messenger who freed us from Egypt. Now we are in Kadesh, the town on the border of your territory."
+    },
+    {
+      "block_id": "jsb-num-20-16-commentary-3",
+      "type": "commentary",
+      "text": "Or “angel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 20,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-num-20-17",
@@ -159,6 +198,19 @@
       "type": "verse",
       "number": 26,
       "text": "Strip Aaron of his vestments and put them on his son Eleazar. There Aaron shall be gathered unto the dead.”"
+    },
+    {
+      "block_id": "jsb-num-20-26-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “and die.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 20,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-num-20-27",

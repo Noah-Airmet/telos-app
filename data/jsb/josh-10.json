@@ -1,7 +1,7 @@
 {
   "document_id": "josh-10",
   "title": "Joshua 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "he was very frightened. For Gibeon was a large city, like one of the royal cities—in fact, larger than Ai—and all its men were warriors."
+    },
+    {
+      "block_id": "jsb-josh-10-2-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “they were.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-josh-10-3",
@@ -83,6 +96,19 @@
       "text": "And the sun stood still And the moon halted, While a nation wreaked judgment on its foes —as is written in the Book of Jashar. Thus the sun halted in midheaven, and did not press on to set, for a whole day;"
     },
     {
+      "block_id": "jsb-josh-10-13-commentary-2",
+      "type": "commentary",
+      "text": "Presumably a collection of war songs.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 10,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-josh-10-14",
       "type": "verse",
       "number": 14,
@@ -131,6 +157,19 @@
       "text": "The whole army returned in safety to Joshua in the camp at Makkedah; no one so much as snarled at the Israelites."
     },
     {
+      "block_id": "jsb-josh-10-21-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Exod. 11.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 10,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-josh-10-22",
       "type": "verse",
       "number": 22,
@@ -171,6 +210,19 @@
       "type": "verse",
       "number": 28,
       "text": "At that time Joshua captured Makkedah and put it and its king to the sword, proscribing it and every person in it and leaving none that escaped. And he treated the king of Makkedah as he had treated the king of Jericho."
+    },
+    {
+      "block_id": "jsb-josh-10-28-commentary-4",
+      "type": "commentary",
+      "text": "So several mss.; most mss. and the editions read “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 10,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-josh-10-29",
@@ -243,6 +295,19 @@
       "type": "verse",
       "number": 40,
       "text": "Thus Joshua conquered the whole country: the hill country, the Negeb, the Shephelah, and the slopes, with all their kings; he let none escape, but proscribed everything that breathed—as the Lord, the God of Israel, had commanded."
+    },
+    {
+      "block_id": "jsb-josh-10-40-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the whole southern part of Canaan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 10,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
     },
     {
       "block_id": "jsb-josh-10-41",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-119",
   "title": "Psalms 119",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -203,6 +203,19 @@
       "text": "ה Teach me, O Lord, the way of Your laws; I will observe them to the utmost."
     },
     {
+      "block_id": "jsb-ps-119-33-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
       "block_id": "jsb-ps-119-34",
       "type": "verse",
       "number": 34,
@@ -327,6 +340,19 @@
       "type": "verse",
       "number": 54,
       "text": "Your laws are a source of strength to me wherever I may dwell."
+    },
+    {
+      "block_id": "jsb-ps-119-54-commentary-2",
+      "type": "commentary",
+      "text": "Or “songs for me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 54
+      },
+      "verse_start": 54,
+      "verse_end": 54
     },
     {
       "block_id": "jsb-ps-119-55",
@@ -677,6 +703,19 @@
       "text": "I am resolved to follow Your laws to the utmost forever."
     },
     {
+      "block_id": "jsb-ps-119-112-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 112
+      },
+      "verse_start": 112,
+      "verse_end": 112
+    },
+    {
       "block_id": "jsb-ps-119-113",
       "type": "verse",
       "number": 113,
@@ -773,6 +812,19 @@
       "text": "Truly by all [Your] precepts I walk straight; I hate every false way."
     },
     {
+      "block_id": "jsb-ps-119-128-commentary-4",
+      "type": "commentary",
+      "text": "Or “I declare all [Your] precepts to be just.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 128
+      },
+      "verse_start": 128,
+      "verse_end": 128
+    },
+    {
       "block_id": "jsb-ps-119-129",
       "type": "verse",
       "number": 129,
@@ -783,6 +835,19 @@
       "type": "verse",
       "number": 130,
       "text": "The words You inscribed give light, and grant understanding to the simple."
+    },
+    {
+      "block_id": "jsb-ps-119-130-commentary-5",
+      "type": "commentary",
+      "text": "With Targum; or “The exposition of Your words gives”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 130
+      },
+      "verse_start": 130,
+      "verse_end": 130
     },
     {
       "block_id": "jsb-ps-119-131",
@@ -951,6 +1016,19 @@
       "type": "verse",
       "number": 158,
       "text": "I have seen traitors and loathed them, because they did not keep Your word in mind."
+    },
+    {
+      "block_id": "jsb-ps-119-158-commentary-6",
+      "type": "commentary",
+      "text": "Or “have contended with.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 119,
+        "verse": 158
+      },
+      "verse_start": 158,
+      "verse_end": 158
     },
     {
       "block_id": "jsb-ps-119-159",

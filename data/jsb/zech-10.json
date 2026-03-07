@@ -1,7 +1,7 @@
 {
   "document_id": "zech-10",
   "title": "Zechariah 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,62 @@
       "text": "Ask the Lord for rain In the season of late rain. It is the Lord who causes storms; And He will provide rainstorms for them, Grass in the fields for everyone."
     },
     {
+      "block_id": "jsb-zech-10-1-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “in its season / The early rain and the late.” Cf. Deut. 11.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-zech-10-1-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-zech-10-1-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “[producing] food for men, / Grass in the fields for cattle.” Cf. Deut. 11.14–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-zech-10-2",
       "type": "verse",
       "number": 2,
       "text": "For the teraphim spoke delusion, The augurs predicted falsely; And dreamers speak lies And console with illusions. That is why My people have strayed like a flock, They suffer for lack of a shepherd."
+    },
+    {
+      "block_id": "jsb-zech-10-2-commentary-4",
+      "type": "commentary",
+      "text": "Idols consulted for oracles; cf. 1 Sam. 15.23; Ezek. 21.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-zech-10-3",
@@ -23,10 +75,36 @@
       "text": "My anger is roused against the shepherds, And I will punish the he‑goats. For the Lord of Hosts has taken thought In behalf of His flock, the House of Judah; He will make them like majestic chargers in battle."
     },
     {
+      "block_id": "jsb-zech-10-3-commentary-5",
+      "type": "commentary",
+      "text": "I.e., oppressive leaders; cf. Ezek. 34.17 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-zech-10-4",
       "type": "verse",
       "number": 4,
       "text": "From them shall come cornerstones, From them tent pegs, From them bows of combat, And every captain shall also arise from them."
+    },
+    {
+      "block_id": "jsb-zech-10-4-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “shields and bucklers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-zech-10-5",
@@ -47,10 +125,36 @@
       "text": "Ephraim shall be like a warrior, And they shall exult as with wine; Their children shall see it and rejoice, They shall exult in the Lord."
     },
     {
+      "block_id": "jsb-zech-10-7-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “And when Ephraim is victorious, / They…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-zech-10-8",
       "type": "verse",
       "number": 8,
       "text": "I will whistle to them and gather them, For I will redeem them; They shall increase and continue increasing."
+    },
+    {
+      "block_id": "jsb-zech-10-8-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-zech-10-9",
@@ -75,6 +179,32 @@
       "type": "verse",
       "number": 12,
       "text": "But I will make them mighty through the Lord, And they shall march proudly in His name —declares the Lord."
+    },
+    {
+      "block_id": "jsb-zech-10-12-commentary-9",
+      "type": "commentary",
+      "text": "I.e., Judah and Ephraim.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-zech-10-12-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “have glory”; cf. Isa. 45.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     }
   ]
 }

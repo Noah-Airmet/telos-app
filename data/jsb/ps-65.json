@@ -1,7 +1,7 @@
 {
   "document_id": "ps-65",
   "title": "Psalms 65",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "all mankind comes to You, You who hear prayer."
+    },
+    {
+      "block_id": "jsb-ps-65-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 65,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-65-4",

@@ -1,7 +1,7 @@
 {
   "document_id": "exod-31",
   "title": "Exodus 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -53,6 +53,19 @@
       "text": "the table and its utensils, the pure lampstand and all its fittings, and the altar of incense;"
     },
     {
+      "block_id": "jsb-exod-31-8-commentary-1",
+      "type": "commentary",
+      "text": "Or “lampstand of pure gold.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 31,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-exod-31-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "the service vestments, the sacral vestments of Aaron the priest and the vestments of his sons, for their service as priests;"
+    },
+    {
+      "block_id": "jsb-exod-31-10-commentary-2",
+      "type": "commentary",
+      "text": "Others “plaited.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 31,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-exod-31-11",

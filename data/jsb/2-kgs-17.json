@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-17",
   "title": "2 Kings 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "The Israelites committed against the Lord their God acts which were not right: They built for themselves shrines in all their settlements, from watchtowers to fortified cities;"
+    },
+    {
+      "block_id": "jsb-2-kgs-17-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 17,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-kgs-17-10",
@@ -167,6 +180,19 @@
       "text": "The king of Assyria gave an order: “Send there one of the priests whom you have deported; let him go and dwell there, and let him teach them the practices of the God of the land.”"
     },
     {
+      "block_id": "jsb-2-kgs-17-27-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 17,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-2-kgs-17-28",
       "type": "verse",
       "number": 28,
@@ -225,6 +251,19 @@
       "type": "verse",
       "number": 37,
       "text": "You shall observe faithfully, all your days, the laws and the practices; the Teaching and Instruction that I wrote down for you; do not worship other gods."
+    },
+    {
+      "block_id": "jsb-2-kgs-17-37-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “He.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 17,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-2-kgs-17-38",

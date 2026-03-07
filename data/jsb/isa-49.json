@@ -1,7 +1,7 @@
 {
   "document_id": "isa-49",
   "title": "Isaiah 49",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,16 +41,55 @@
       "text": "For He has said: “It is too little that you should be My servant In that I raise up the tribes of Jacob And restore the survivors of Israel: I will also make you a light of nations, That My salvation may reach the ends of the earth.”"
     },
     {
+      "block_id": "jsb-isa-49-6-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the agent of good fortune; cf. 42.1–4; 51.4–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-49-7",
       "type": "verse",
       "number": 7,
       "text": "Thus said the Lord, The Redeemer of Israel, his Holy One, To the despised one, To the abhorred nations, To the slave of rulers: Kings shall see and stand up; Nobles, and they shall prostrate themselves— To the honor of the Lord, who is faithful, To the Holy One of Israel who chose you."
     },
     {
+      "block_id": "jsb-isa-49-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Whose being is despised, / Whose body is detested”; cf. 51.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-49-8",
       "type": "verse",
       "number": 8,
       "text": "Thus said the Lord: In an hour of favor I answer you, And on a day of salvation I help you— I created you and appointed you a covenant people— Restoring the land, Allotting anew the desolate holdings,"
+    },
+    {
+      "block_id": "jsb-isa-49-8-commentary-3",
+      "type": "commentary",
+      "text": "See note b‑b at 42.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-49-9",
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "Look! These are coming from afar, These from the north and the west, And these from the land of Sinim."
+    },
+    {
+      "block_id": "jsb-isa-49-12-commentary-4",
+      "type": "commentary",
+      "text": "1QIsa reads “the Syenians”; cf. Ezek. 30.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-49-13",
@@ -125,10 +177,36 @@
       "text": "The children you thought you had lost Shall yet say in your hearing, “The place is too crowded for me; Make room for me to settle.”"
     },
     {
+      "block_id": "jsb-isa-49-20-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “of your bereavement.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-49-21",
       "type": "verse",
       "number": 21,
       "text": "And you will say to yourself, “Who bore these for me When I was bereaved and barren, Exiled and disdained— By whom, then, were these reared? I was left all alone— And where have these been?”"
+    },
+    {
+      "block_id": "jsb-isa-49-21-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 49,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-49-22",

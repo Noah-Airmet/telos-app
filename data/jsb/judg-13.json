@@ -1,7 +1,7 @@
 {
   "document_id": "judg-13",
   "title": "Judges 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "The woman ran in haste to tell her husband. She said to him, “The man who came to me before has just appeared to me.”"
     },
     {
+      "block_id": "jsb-judg-13-10-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “in the day.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 13,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-judg-13-11",
       "type": "verse",
       "number": 11,
@@ -117,6 +130,19 @@
       "type": "verse",
       "number": 19,
       "text": "Manoah took the kid and the meal offering and offered them up on the rock to the Lord; and a marvelous thing happened while Manoah and his wife looked on."
+    },
+    {
+      "block_id": "jsb-judg-13-19-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 13,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-judg-13-20",

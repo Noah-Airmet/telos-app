@@ -1,7 +1,7 @@
 {
   "document_id": "ps-132",
   "title": "Psalms 132",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "I will not give sleep to my eyes, or slumber to my eyelids"
     },
     {
+      "block_id": "jsb-ps-132-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-132-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "We heard it was in Ephrath; we came upon it in the region of Jaar."
+    },
+    {
+      "block_id": "jsb-ps-132-6-commentary-2",
+      "type": "commentary",
+      "text": "Cf. 1 Sam. 7.1–2; 1 Chron. 13.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-132-7",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-126",
   "title": "Psalms 126",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "A song of ascents. When the Lord restores the fortunes of Zion —we see it as in a dream—"
+    },
+    {
+      "block_id": "jsb-ps-126-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “we are veritable dreamers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 126,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-126-2",

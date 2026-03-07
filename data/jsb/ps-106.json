@@ -1,7 +1,7 @@
 {
   "document_id": "ps-106",
   "title": "Psalms 106",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -170,6 +170,19 @@
       "type": "verse",
       "number": 27,
       "text": "to disperse their offspring among the nations and scatter them through the lands."
+    },
+    {
+      "block_id": "jsb-ps-106-27-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Targum, Kimhi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 106,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-ps-106-28",

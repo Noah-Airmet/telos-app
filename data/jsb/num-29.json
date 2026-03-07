@@ -1,7 +1,7 @@
 {
   "document_id": "num-29",
   "title": "Numbers 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the seventh month, on the first day of the month, you shall observe a sacred occasion: you shall not work at your occupations. You shall observe it as a day when the horn is sounded."
+    },
+    {
+      "block_id": "jsb-num-29-1-commentary-1",
+      "type": "commentary",
+      "text": "Or “a day of festivity.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 29,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-num-29-2",
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "You shall present to the Lord a burnt offering of pleasing odor: one bull of the herd, one ram, seven yearling lambs; see that they are without blemish."
+    },
+    {
+      "block_id": "jsb-num-29-8-commentary-2",
+      "type": "commentary",
+      "text": "See note at 28.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 29,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-num-29-9",
@@ -213,6 +239,19 @@
       "type": "verse",
       "number": 35,
       "text": "On the eighth day you shall hold a solemn gathering; you shall not work at your occupations."
+    },
+    {
+      "block_id": "jsb-num-29-35-commentary-3",
+      "type": "commentary",
+      "text": "See note at Lev. 23.36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 29,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
     },
     {
       "block_id": "jsb-num-29-36",

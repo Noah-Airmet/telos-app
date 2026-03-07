@@ -1,7 +1,7 @@
 {
   "document_id": "num-9",
   "title": "Numbers 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "those men said to them, “Unclean though we are by reason of a corpse, why must we be debarred from presenting the Lord’s offering at its set time with the rest of the Israelites?”"
+    },
+    {
+      "block_id": "jsb-num-9-7-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 9,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-num-9-8",

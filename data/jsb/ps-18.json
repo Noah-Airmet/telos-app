@@ -1,7 +1,7 @@
 {
   "document_id": "ps-18",
   "title": "Psalms 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "For the leader. Of David, the servant of the Lord, who addressed the words of this song to the Lord after the Lord had saved him from the hands of all his enemies and from the clutches of Saul."
     },
     {
+      "block_id": "jsb-ps-18-1-commentary-1",
+      "type": "commentary",
+      "text": "This poem occurs again at 2 Sam. 22, with a number of variations, some of which are cited in the following notes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ps-18-2",
       "type": "verse",
       "number": 2,
       "text": "He said: I adore you, O Lord, my strength,"
+    },
+    {
+      "block_id": "jsb-ps-18-2-commentary-2",
+      "type": "commentary",
+      "text": "Not in 2 Sam. 22.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-18-3",
@@ -23,16 +49,68 @@
       "text": "O Lord, my crag, my fortress, my rescuer, my God, my rock in whom I seek refuge, my shield, my mighty champion, my haven."
     },
     {
+      "block_id": "jsb-ps-18-3-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “horn of rescue.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-18-4",
       "type": "verse",
       "number": 4,
       "text": "All praise! I called on the Lord and was delivered from my enemies."
     },
     {
+      "block_id": "jsb-ps-18-4-commentary-4",
+      "type": "commentary",
+      "text": "Construction of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-18-5",
       "type": "verse",
       "number": 5,
       "text": "Ropes of Death encompassed me; torrents of Belial terrified me;"
+    },
+    {
+      "block_id": "jsb-ps-18-5-commentary-5",
+      "type": "commentary",
+      "text": "2 Sam. 22.5, “breakers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-ps-18-5-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the netherworld, like “Death” and “Sheol.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-18-6",
@@ -83,10 +161,36 @@
       "text": "Out of the brilliance before Him, hail and fiery coals pierced His clouds."
     },
     {
+      "block_id": "jsb-ps-18-13-commentary-7",
+      "type": "commentary",
+      "text": "2 Sam. 22.13, “blazed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ps-18-14",
       "type": "verse",
       "number": 14,
       "text": "Then the Lord thundered from heaven, the Most High gave forth His voice— hail and fiery coals."
+    },
+    {
+      "block_id": "jsb-ps-18-14-commentary-8",
+      "type": "commentary",
+      "text": "Not in 2 Sam. 22.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-18-15",
@@ -185,6 +289,19 @@
       "text": "With You, I can rush a barrier; with my God I can scale a wall;"
     },
     {
+      "block_id": "jsb-ps-18-30-commentary-9",
+      "type": "commentary",
+      "text": "Cf. note to 2 Sam. 22.30; or “troop.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-ps-18-31",
       "type": "verse",
       "number": 31,
@@ -209,6 +326,19 @@
       "text": "who made my legs like a deer’s, and let me stand firm on the heights;"
     },
     {
+      "block_id": "jsb-ps-18-34-commentary-10",
+      "type": "commentary",
+      "text": "Taking bamothai as a poetic form of bamoth; cf. Hab. 3.19; others “my.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-ps-18-35",
       "type": "verse",
       "number": 35,
@@ -219,6 +349,19 @@
       "type": "verse",
       "number": 36,
       "text": "You have given me the shield of Your protection; Your right hand has sustained me, Your care has made me great."
+    },
+    {
+      "block_id": "jsb-ps-18-36-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “condescension.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-ps-18-37",
@@ -281,6 +424,19 @@
       "text": "foreign peoples lose courage, and come trembling out of their strongholds."
     },
     {
+      "block_id": "jsb-ps-18-46-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
       "block_id": "jsb-ps-18-47",
       "type": "verse",
       "number": 47,
@@ -309,6 +465,19 @@
       "type": "verse",
       "number": 51,
       "text": "He accords great victories to His king, keeps faith with His anointed, with David and his offspring forever."
+    },
+    {
+      "block_id": "jsb-ps-18-51-commentary-13",
+      "type": "commentary",
+      "text": "2 Sam. 22.51, “Tower of victory.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18,
+        "verse": 51
+      },
+      "verse_start": 51,
+      "verse_end": 51
     }
   ]
 }

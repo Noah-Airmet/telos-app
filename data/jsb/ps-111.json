@@ -1,7 +1,7 @@
 {
   "document_id": "ps-111",
   "title": "Psalms 111",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -63,6 +63,19 @@
       "type": "verse",
       "number": 10,
       "text": "ר The beginning of wisdom is the fear of the Lord; ש all who practice it gain sound understanding. ת Praise of Him is everlasting."
+    },
+    {
+      "block_id": "jsb-ps-111-10-commentary-1",
+      "type": "commentary",
+      "text": "Or “chief part.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 111,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     }
   ]
 }

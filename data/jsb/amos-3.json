@@ -1,7 +1,7 @@
 {
   "document_id": "amos-3",
   "title": "Amos 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,32 @@
       "text": "Proclaim in the fortresses of Ashdod And in the fortresses of the land of Egypt! Say: Gather on the hill of Samaria And witness the great outrages within her And the oppression in her midst."
     },
     {
+      "block_id": "jsb-amos-3-9-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “Assyria.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 3,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-amos-3-9-commentary-2",
+      "type": "commentary",
+      "text": "Heb. plural; but cf. 4.1; 6.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 3,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-amos-3-10",
       "type": "verse",
       "number": 10,
@@ -77,6 +103,19 @@
       "text": "Thus said the Lord: As a shepherd rescues from the lion’s jaws Two shank bones or the tip of an ear, So shall the Israelites escape Who dwell in Samaria— With the leg of a bed or the head of a couch."
     },
     {
+      "block_id": "jsb-amos-3-12-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-amos-3-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "That when I punish Israel for its transgressions, I will wreak judgment on the altar of Bethel, And the horns of the altar shall be cut off And shall fall to the ground."
+    },
+    {
+      "block_id": "jsb-amos-3-14-commentary-4",
+      "type": "commentary",
+      "text": "Heb. plural, but cf. “altar” in next line.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-amos-3-15",

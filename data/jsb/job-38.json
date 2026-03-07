@@ -1,7 +1,7 @@
 {
   "document_id": "job-38",
   "title": "Job 38",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -149,6 +149,19 @@
       "text": "By what path is the west wind dispersed, The east wind scattered over the earth?"
     },
     {
+      "block_id": "jsb-job-38-24-commentary-1",
+      "type": "commentary",
+      "text": "As Aramaic ʾurya.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-job-38-25",
       "type": "verse",
       "number": 25,
@@ -197,6 +210,19 @@
       "text": "Can you lead out Mazzaroth in its season, Conduct the Bear with her sons?"
     },
     {
+      "block_id": "jsb-job-38-32-commentary-2",
+      "type": "commentary",
+      "text": "Evidently a constellation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-job-38-33",
       "type": "verse",
       "number": 33,
@@ -219,6 +245,19 @@
       "type": "verse",
       "number": 36,
       "text": "Who put wisdom in the hidden parts? Who gave understanding to the mind?"
+    },
+    {
+      "block_id": "jsb-job-38-36-commentary-3",
+      "type": "commentary",
+      "text": "Or “rooster”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-job-38-37",

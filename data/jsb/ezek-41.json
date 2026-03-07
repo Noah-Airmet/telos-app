@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-41",
   "title": "Ezekiel 41",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "He then led me into the great hall. He measured the jambs, 6 cubits on either side; such was the depth of each jamb."
+    },
+    {
+      "block_id": "jsb-ezek-41-1-commentary-1",
+      "type": "commentary",
+      "text": "See note on 40.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-ezek-41-1-commentary-2",
+      "type": "commentary",
+      "text": "This sense is demanded by the context; usually, ohel means “tent.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ezek-41-2",
@@ -23,6 +49,19 @@
       "text": "And then he entered the inner room. He measured each jamb of the entrance, 2 cubits [deep]; the entrance itself, 6 cubits across; and the width of [the flanking wall on either side of] the entrance, 7 cubits."
     },
     {
+      "block_id": "jsb-ezek-41-3-commentary-3",
+      "type": "commentary",
+      "text": "Preserved in the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ezek-41-4",
       "type": "verse",
       "number": 4,
@@ -35,16 +74,68 @@
       "text": "Then he measured the wall of the Temple. [It was] 6 cubits [thick] on every side of the Temple, and the side-chamber measured 4 cubits [across]."
     },
     {
+      "block_id": "jsb-ezek-41-5-commentary-4",
+      "type": "commentary",
+      "text": "I.e., on the ground level; cf. v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ezek-41-6",
       "type": "verse",
       "number": 6,
       "text": "The side chambers were arranged one above the other, in 33 sections. All around, there were projections in the Temple wall to serve the side chambers as supports, so that [their] supports should not be the Temple wall itself."
     },
     {
+      "block_id": "jsb-ezek-41-6-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “times.” Emendation yields “in three sections of three tiers each,” i.e., one section next to each of the two side walls of the Temple and one next to its rear wall; cf. v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-41-7",
       "type": "verse",
       "number": 7,
       "text": "The winding passage of the side chambers widened from story to story; and since the structure was furnished all over with winding passages from story to story, the structure itself became wider from story to story. It was by this means that one ascended from the bottom story to the top one by way of the middle one."
+    },
+    {
+      "block_id": "jsb-ezek-41-7-commentary-6",
+      "type": "commentary",
+      "text": "So Targum; cf. Mishnah Tamid 1.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-ezek-41-7-commentary-7",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain, but for the general sense cf. 1 Kings 6.6a, 8b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-41-8",
@@ -65,10 +156,36 @@
       "text": "and the chamber complexes was 20 cubits wide all around the Temple."
     },
     {
+      "block_id": "jsb-ezek-41-10-commentary-8",
+      "type": "commentary",
+      "text": "See 42.1 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-41-11",
       "type": "verse",
       "number": 11,
       "text": "Of entrances to the side chambers giving on the walk, there was one entrance on the north side and one entrance on the south side; and the space of the walk was 5 cubits thick all around."
+    },
+    {
+      "block_id": "jsb-ezek-41-11-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “parapet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-ezek-41-12",
@@ -77,10 +194,49 @@
       "text": "And the structure that fronted on the vacant space at the [Temple’s] western end was 70 cubits deep; the walls of the structure were 5 cubits thick on every side; and it was 90 cubits wide."
     },
     {
+      "block_id": "jsb-ezek-41-12-commentary-10",
+      "type": "commentary",
+      "text": "See note on 40.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-ezek-41-13",
       "type": "verse",
       "number": 13,
       "text": "He measured the [total] depth of the Temple, 100 cubits; and the depth of the vacant space and of the structure, with its walls, also came to 100 cubits."
+    },
+    {
+      "block_id": "jsb-ezek-41-13-commentary-11",
+      "type": "commentary",
+      "text": "Comprising the 5 cubits of 40.48, the 12 of 40.49 (see note there), the 6 of 41.1, the 40 of 41.2, the 2 of 41.3, the 20 of 41.4, the 6 of 41.5a, the 4 of 41.5b, and the 5 of 41.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-ezek-41-13-commentary-12",
+      "type": "commentary",
+      "text": "The structure was 70 cubits deep and its front and rear walls each 5 cubits thick (v. 12). The remaining 20 cubits are accounted for by the vacant space; cf. 42.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-ezek-41-14",
@@ -89,10 +245,49 @@
       "text": "The front side of the Temple, like the vacant space on the east, was 100 cubits wide."
     },
     {
+      "block_id": "jsb-ezek-41-14-commentary-13",
+      "type": "commentary",
+      "text": "To the inside width of 20 cubits (40.49; 41.2–4) must be added on each side: one Temple wall of 6 cubits equals 12; one side-chamber wall of 5 cubits equals 10; one side chamber’s inner depth of 4 cubits equals 8; a walk’s width of 20 cubits (40.9–10) equals 40; and a parapet’s thickness of 5 cubits (v. 11) equals 10; totaling 100 cubits.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ezek-41-15",
       "type": "verse",
       "number": 15,
       "text": "He also measured the width of the structure facing the vacant space in the rear, inclusive of its ledges, 100 cubits. Both the great hall inside and the portico next to the court—"
+    },
+    {
+      "block_id": "jsb-ezek-41-15-commentary-14",
+      "type": "commentary",
+      "text": "See note on 40.5",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-ezek-41-15-commentary-15",
+      "type": "commentary",
+      "text": "Emendation yields “walls”; cf. v. 12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-41-16",
@@ -101,10 +296,75 @@
       "text": "the thresholds—and the windows with frames and the ledges at the threshold, all over the three parts of each, were completely overlaid with wood. There was wainscoting from the floor to the windows, including the window [frame]s"
     },
     {
+      "block_id": "jsb-ezek-41-16-commentary-16",
+      "type": "commentary",
+      "text": "Septuagint reads “were paneled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-ezek-41-16-commentary-17",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-ezek-41-16-commentary-18",
+      "type": "commentary",
+      "text": "Here perhaps designating the door frames, since it is these that (as required by the continuation of the verse) are situated at the threshold and consist of three parts (a lintel and two doorposts).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-ezek-41-16-commentary-19",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-ezek-41-17",
       "type": "verse",
       "number": 17,
       "text": "and extending above the openings, both in the inner Temple and outside. And all over the wall, both in the inner one and in the outer, ran a pattern."
+    },
+    {
+      "block_id": "jsb-ezek-41-17-commentary-20",
+      "type": "commentary",
+      "text": "Meaning perhaps the great hall and the vestibule; cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-ezek-41-18",
@@ -125,6 +385,19 @@
       "text": "the cherubs and the palm trees were carved on the wall from the floor to above the openings. As regards the great hall,"
     },
     {
+      "block_id": "jsb-ezek-41-20-commentary-21",
+      "type": "commentary",
+      "text": "Heb. “and.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ezek-41-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +408,45 @@
       "type": "verse",
       "number": 22,
       "text": "a wooden altar 3 cubits high and 2 cubits long and having inner corners; and its length and its walls were of wood. And he said to me, “This is the table that stands before the Lord.”"
+    },
+    {
+      "block_id": "jsb-ezek-41-22-commentary-22",
+      "type": "commentary",
+      "text": "Apparently meaning that it had a rim around the top, like the table of Exod. 25.25; see the final note on the present verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-ezek-41-22-commentary-23",
+      "type": "commentary",
+      "text": "Septuagint reads “base.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-ezek-41-22-commentary-24",
+      "type": "commentary",
+      "text": "Serving to hold the bread of display; cf. Exod. 25.30; 40.22–23; 1 Kings 7.48.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 41,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ezek-41-23",

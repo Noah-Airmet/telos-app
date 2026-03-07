@@ -1,7 +1,7 @@
 {
   "document_id": "exod-27",
   "title": "Exodus 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -69,6 +69,19 @@
       "text": "You shall make the enclosure of the Tabernacle: On the south side, a hundred cubits of hangings of fine twisted linen for the length of the enclosure on that side—"
     },
     {
+      "block_id": "jsb-exod-27-9-commentary-1",
+      "type": "commentary",
+      "text": "Cf. note at 26.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 27,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-exod-27-10",
       "type": "verse",
       "number": 10,
@@ -127,6 +140,19 @@
       "type": "verse",
       "number": 19,
       "text": "all the utensils of the Tabernacle, for all its service, as well as all its pegs and all the pegs of the court, shall be of copper."
+    },
+    {
+      "block_id": "jsb-exod-27-19-commentary-2",
+      "type": "commentary",
+      "text": "I.e., of the Tabernacle enclosure; the furnishings inside were of gold.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 27,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-27-20",

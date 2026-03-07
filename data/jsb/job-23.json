@@ -1,7 +1,7 @@
 {
   "document_id": "job-23",
   "title": "Job 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Today again my complaint is bitter; My strength is spent on account of my groaning."
+    },
+    {
+      "block_id": "jsb-job-23-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “My hand is heavy.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-job-23-3",

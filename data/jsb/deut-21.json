@@ -1,7 +1,7 @@
 {
   "document_id": "deut-21",
   "title": "Deuteronomy 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -43,6 +43,19 @@
       "type": "verse",
       "number": 5,
       "text": "The priests, sons of Levi, shall come forward; for the Lord your God has chosen them to minister to Him and to pronounce blessing in the name of the Lord, and every lawsuit and case of assault is subject to their ruling."
+    },
+    {
+      "block_id": "jsb-deut-21-5-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 17.8. Or “skin affection”; cf. 24.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 21,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-deut-21-6",
@@ -115,6 +128,19 @@
       "type": "verse",
       "number": 17,
       "text": "Instead, he must accept the first-born, the son of the unloved one, and allot to him a double portion of all he possesses; since he is the first fruit of his vigor, the birthright is his due."
+    },
+    {
+      "block_id": "jsb-deut-21-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. two-thirds.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 21,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-deut-21-18",

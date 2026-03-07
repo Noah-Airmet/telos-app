@@ -1,7 +1,7 @@
 {
   "document_id": "jer-28",
   "title": "Jeremiah 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -81,6 +81,19 @@
       "type": "verse",
       "number": 13,
       "text": "“Go say to Hananiah: Thus said the Lord: You broke bars of wood, but you shall make bars of iron instead."
+    },
+    {
+      "block_id": "jsb-jer-28-13-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “I will.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 28,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-jer-28-14",

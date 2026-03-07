@@ -1,7 +1,7 @@
 {
   "document_id": "isa-45",
   "title": "Isaiah 45",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "Thus said the Lord to Cyrus, His anointed one— Whose right hand He has grasped, Treading down nations before him, Ungirding the loins of kings, Opening doors before him And letting no gate stay shut:"
     },
     {
+      "block_id": "jsb-isa-45-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “I have.” Cf. note at 8.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-isa-45-1-commentary-2",
+      "type": "commentary",
+      "text": "I.e., I made them helpless; one who wished to move freely belted his garment around the waist; cf. “engird,” v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-45-2",
       "type": "verse",
       "number": 2,
       "text": "I will march before you And level the hills that loom up; I will shatter doors of bronze And cut down iron bars."
+    },
+    {
+      "block_id": "jsb-isa-45-2-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-45-3",
@@ -59,6 +98,19 @@
       "text": "Shame on him who argues with his Maker, Though naught but a potsherd of earth! Shall the clay say to the potter, “What are you doing? Your work has no handles”?"
     },
     {
+      "block_id": "jsb-isa-45-9-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “To its maker, ‘You have no hands’?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-45-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +121,19 @@
       "type": "verse",
       "number": 11,
       "text": "Thus said the Lord, Israel’s Holy One and Maker: Will you question Me on the destiny of My children, Will you instruct Me about the work of My hands?"
+    },
+    {
+      "block_id": "jsb-isa-45-11-commentary-5",
+      "type": "commentary",
+      "text": "Heb. imperative.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-45-12",
@@ -83,10 +148,36 @@
       "text": "It was I who roused him for victory And who level all roads for him. He shall rebuild My city And let My exiled people go Without price and without payment —said the Lord of Hosts."
     },
     {
+      "block_id": "jsb-isa-45-13-commentary-6",
+      "type": "commentary",
+      "text": "I.e., Cyrus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-isa-45-14",
       "type": "verse",
       "number": 14,
       "text": "Thus said the Lord: Egypt’s wealth and Nubia’s gains And Sabaites, long of limb, Shall pass over to you and be yours, Pass over and follow you in fetters, Bow low to you And reverently address you: “Only among you is God, There is no other god at all!"
+    },
+    {
+      "block_id": "jsb-isa-45-14-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “bearing tribute.” For “tribute” cf. Ezra 4.20; 6.8; Neh. 5.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-isa-45-15",
@@ -147,6 +238,32 @@
       "type": "verse",
       "number": 24,
       "text": "They shall say: “Only through the Lord Can I find victory and might. When people trust in Him, All their adversaries are put to shame."
+    },
+    {
+      "block_id": "jsb-isa-45-24-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “Only in the Lord / Are there victory and might for man.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "jsb-isa-45-24-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “come to”; for this idiom cf. Ps. 65.3; Job 6.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 45,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-isa-45-25",

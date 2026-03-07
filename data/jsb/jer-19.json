@@ -1,7 +1,7 @@
 {
   "document_id": "jer-19",
   "title": "Jeremiah 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "and go out to the Valley of Ben-hinnom—at the entrance of the Harsith Gate—and proclaim there the words which I will speak to you."
     },
     {
+      "block_id": "jsb-jer-19-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “by way of the Potsherd Gate”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 19,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-jer-19-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "For they and their fathers and the kings of Judah have forsaken Me, and have made this place alien [to Me]; they have sacrificed in it to other gods whom they have not experienced, and they have filled this place with the blood of the innocent."
+    },
+    {
+      "block_id": "jsb-jer-19-4-commentary-2",
+      "type": "commentary",
+      "text": "See note at Deut. 11.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 19,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-jer-19-5",
@@ -47,10 +73,36 @@
       "text": "“And I will frustrate the plans of Judah and Jerusalem in this place. I will cause them to fall by the sword before their enemies, by the hand of those who seek their lives; and I will give their carcasses as food to the birds of the sky and the beasts of the earth."
     },
     {
+      "block_id": "jsb-jer-19-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “empty,” Heb. u-baqqothi, a play on baqbuq, “jug” in v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 19,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-jer-19-8",
       "type": "verse",
       "number": 8,
       "text": "And I will make this city an object of horror and hissing; everyone who passes by it will be appalled and will hiss over all its wounds."
+    },
+    {
+      "block_id": "jsb-jer-19-8-commentary-4",
+      "type": "commentary",
+      "text": "See note at 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 19,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-jer-19-9",

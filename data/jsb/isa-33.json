@@ -1,7 +1,7 @@
 {
   "document_id": "isa-33",
   "title": "Isaiah 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "O Lord, be gracious to us! It is to You we have looked; Be their arm every morning, Also our deliverance in time of stress."
     },
     {
+      "block_id": "jsb-isa-33-2-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “You have been our help.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-33-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,58 @@
       "type": "verse",
       "number": 4,
       "text": "And spoil was gathered as locusts are gathered, It was amassed as grasshoppers are amassed."
+    },
+    {
+      "block_id": "jsb-isa-33-4-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “your spoil.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-33-4-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “booty”; cf. v. 23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-33-4-commentary-4",
+      "type": "commentary",
+      "text": "Taking §qq as a cognate of q§§.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-33-4-commentary-5",
+      "type": "commentary",
+      "text": "Apparently for food; cf. Lev. 11.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-33-5",
@@ -41,16 +106,94 @@
       "text": "Faithfulness to Your charge was [her] wealth, Wisdom and devotion [her] triumph, Reverence for the Lord—that was her treasure."
     },
     {
+      "block_id": "jsb-isa-33-6-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-33-6-commentary-7",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-33-7",
       "type": "verse",
       "number": 7,
       "text": "Hark! The Arielites cry aloud; Shalom’s messengers weep bitterly."
     },
     {
+      "block_id": "jsb-isa-33-7-commentary-8",
+      "type": "commentary",
+      "text": "So a few manuscripts; cf. 29.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-isa-33-7-commentary-9",
+      "type": "commentary",
+      "text": "I.e., Jerusalem’s; cf. Salem (Heb. Shalem), Ps. 76.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-33-8",
       "type": "verse",
       "number": 8,
       "text": "Highways are desolate, Wayfarers have ceased. A covenant has been renounced, Cities rejected Mortal man despised."
+    },
+    {
+      "block_id": "jsb-isa-33-8-commentary-10",
+      "type": "commentary",
+      "text": "1QIsa reads “A pact.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-isa-33-8-commentary-11",
+      "type": "commentary",
+      "text": "Emendation yields “an obligation.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-33-9",
@@ -71,10 +214,36 @@
       "text": "You shall conceive hay, Give birth to straw; My breath will devour you like fire."
     },
     {
+      "block_id": "jsb-isa-33-11-commentary-12",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-33-12",
       "type": "verse",
       "number": 12,
       "text": "Peoples shall be burnings of lime, Thorns cut down that are set on fire."
+    },
+    {
+      "block_id": "jsb-isa-33-12-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “brambles”; cf. 32.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-isa-33-13",
@@ -107,10 +276,36 @@
       "text": "When your eyes behold a king in his beauty, When they contemplate the land round about,"
     },
     {
+      "block_id": "jsb-isa-33-17-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “perfection of beauty”; cf. Ps. 50.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-isa-33-18",
       "type": "verse",
       "number": 18,
       "text": "Your throat shall murmur in awe, “Where is one who could count? Where is one who could weigh? Where is one who could count [all these] towers?”"
+    },
+    {
+      "block_id": "jsb-isa-33-18-commentary-15",
+      "type": "commentary",
+      "text": "As in 59.13 and elsewhere; others “heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-isa-33-19",
@@ -131,6 +326,32 @@
       "text": "For there the Lord in His greatness shall be for us Like a region of rivers, of broad streams, Where no floating vessels can sail And no mighty craft can travel— Their ropes are slack, They cannot steady the sockets of their masts, They cannot spread a sail."
     },
     {
+      "block_id": "jsb-isa-33-21-commentary-16",
+      "type": "commentary",
+      "text": "Brought up from v. 23 for clarity. The passage means that the Lord will render Jerusalem as inaccessible to enemies as if it were surrounded by an impassable sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "jsb-isa-33-21-commentary-17",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-isa-33-22",
       "type": "verse",
       "number": 22,
@@ -141,6 +362,19 @@
       "type": "verse",
       "number": 23,
       "text": "Then shall indeed much spoil be divided, Even the lame shall seize booty."
+    },
+    {
+      "block_id": "jsb-isa-33-23-commentary-18",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “even a blind man shall divide much spoil.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 33,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-isa-33-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "deut-19",
   "title": "Deuteronomy 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "you must show him no pity. Thus you will purge Israel of the blood of the innocent, and it will go well with you."
     },
     {
+      "block_id": "jsb-deut-19-13-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Num. 35.33–34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 19,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-deut-19-14",
       "type": "verse",
       "number": 14,
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "A single witness may not validate against a person any guilt or blame for any offense that may be committed; a case can be valid only on the testimony of two witnesses or more."
+    },
+    {
+      "block_id": "jsb-deut-19-15-commentary-2",
+      "type": "commentary",
+      "text": "See note at 17.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 19,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-deut-19-16",

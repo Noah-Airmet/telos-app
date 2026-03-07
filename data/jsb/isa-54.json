@@ -1,7 +1,7 @@
 {
   "document_id": "isa-54",
   "title": "Isaiah 54",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "Enlarge the site of your tent, Extend the size of your dwelling, Do not stint! Lengthen the ropes, and drive the pegs firm."
     },
     {
+      "block_id": "jsb-isa-54-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Let the cloths of your dwelling extend.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 54,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-54-3",
       "type": "verse",
       "number": 3,
       "text": "For you shall spread out to the right and the left; Your offspring shall dispossess nations And shall people the desolate towns."
+    },
+    {
+      "block_id": "jsb-isa-54-3-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the foreigners who had occupied regions from which Israelites had been exiled; cf. 2 Kings 17.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 54,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-isa-54-4",
@@ -59,6 +85,19 @@
       "text": "For this to Me is like the waters of Noah: As I swore that the waters of Noah Nevermore would flood the earth, So I swear that I will not Be angry with you or rebuke you."
     },
     {
+      "block_id": "jsb-isa-54-9-commentary-3",
+      "type": "commentary",
+      "text": "Other Heb. mss. and the ancient versions read “days.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 54,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-isa-54-10",
       "type": "verse",
       "number": 10,
@@ -69,6 +108,19 @@
       "type": "verse",
       "number": 11,
       "text": "Unhappy, storm-tossed one, uncomforted! I will lay carbuncles as your building stones And make your foundations of sapphires."
+    },
+    {
+      "block_id": "jsb-isa-54-11-commentary-4",
+      "type": "commentary",
+      "text": "Taking pukh as a byform of nophekh; so already Rashi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 54,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-54-12",
@@ -93,6 +145,19 @@
       "type": "verse",
       "number": 15,
       "text": "Surely no harm can be done Without My consent: Whoever would harm you Shall fall because of you."
+    },
+    {
+      "block_id": "jsb-isa-54-15-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 54,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-54-16",

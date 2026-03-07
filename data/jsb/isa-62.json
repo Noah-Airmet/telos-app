@@ -1,7 +1,7 @@
 {
   "document_id": "isa-62",
   "title": "Isaiah 62",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,10 +35,36 @@
       "text": "As a youth espouses a maiden, Your sons shall espouse you; And as a bridegroom rejoices over his bride, So will your God rejoice over you."
     },
     {
+      "block_id": "jsb-isa-62-5-commentary-1",
+      "type": "commentary",
+      "text": "Change of vocalization yields “He who rebuilds you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 62,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-62-6",
       "type": "verse",
       "number": 6,
       "text": "Upon your walls, O Jerusalem, I have set watchmen, Who shall never be silent By day or by night. O you, the Lord’s remembrancers, Take no rest"
+    },
+    {
+      "block_id": "jsb-isa-62-6-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the watchmen just mentioned.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 62,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-62-7",
@@ -69,6 +95,19 @@
       "type": "verse",
       "number": 11,
       "text": "See, the Lord has proclaimed To the end of the earth: Announce to Fair Zion, Your Deliverer is coming! See, his reward is with Him, His recompense before Him."
+    },
+    {
+      "block_id": "jsb-isa-62-11-commentary-3",
+      "type": "commentary",
+      "text": "See note at 40.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 62,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-62-12",

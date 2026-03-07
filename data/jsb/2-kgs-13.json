@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-13",
   "title": "2 Kings 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "In fact, Jehoahaz was left with a force of only fifty horsemen, ten chariots, and ten thousand foot soldiers; for the king of Aram had decimated them and trampled them like the dust under his feet."
     },
     {
+      "block_id": "jsb-2-kgs-13-7-commentary-1",
+      "type": "commentary",
+      "text": "This verse would read well after v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-2-kgs-13-8",
       "type": "verse",
       "number": 8,
@@ -89,6 +102,19 @@
       "text": "Elisha had been stricken with the illness of which he was to die, and King Joash of Israel went down to see him. He wept over him and cried, “Father, father! Israel’s chariots and horsemen!”"
     },
     {
+      "block_id": "jsb-2-kgs-13-14-commentary-2",
+      "type": "commentary",
+      "text": "On Elisha as defender of Israel, see chapters 6–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-kgs-13-15",
       "type": "verse",
       "number": 15,
@@ -119,16 +145,68 @@
       "text": "The man of God was angry with him and said to him, “If only you had struck five or six times! Then you would have annihilated Aram; as it is, you shall defeat Aram only three times.”"
     },
     {
+      "block_id": "jsb-2-kgs-13-19-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “to strike.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-2-kgs-13-20",
       "type": "verse",
       "number": 20,
       "text": "Elisha died and he was buried. Now bands of Moabites used to invade the land at the coming of every year."
     },
     {
+      "block_id": "jsb-2-kgs-13-20-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “year by year.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-kgs-13-21",
       "type": "verse",
       "number": 21,
       "text": "Once a man was being buried, when the people caught sight of such a band; so they threw the corpse into Elisha’s grave and made off. When the [dead] man came in contact with Elisha’s bones, he came to life and stood up."
+    },
+    {
+      "block_id": "jsb-2-kgs-13-21-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “the man.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "jsb-2-kgs-13-21-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “he made off.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 13,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-2-kgs-13-22",

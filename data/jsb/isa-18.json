@@ -1,7 +1,7 @@
 {
   "document_id": "isa-18",
   "title": "Isaiah 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,62 @@
       "text": "Ah, land in the deep shadow of wings, Beyond the rivers of Nubia!"
     },
     {
+      "block_id": "jsb-isa-18-1-commentary-1",
+      "type": "commentary",
+      "text": "Or “Most sheltered land”; cf., e.g., 30.2, 3; Pss. 36.8; 57.2; 61.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-18-2",
       "type": "verse",
       "number": 2,
       "text": "Go, swift messengers, To a nation far and remote, To a people thrust forth and away— A nation of gibber and chatter— Whose land is cut off by streams; Which sends out envoys by sea, In papyrus vessels upon the water!"
+    },
+    {
+      "block_id": "jsb-isa-18-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-18-2-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. 28.10. Biblical writers often characterize distant nations by their unintelligible speech; cf. 33.19; Deut. 28.49; Jer. 5.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-18-2-commentary-4",
+      "type": "commentary",
+      "text": "Brought down from beginning of verse for clarity. The Hebrew verb for “sends” agrees in gender with “nation,” not with “land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-18-3",
@@ -29,10 +81,62 @@
       "text": "For thus the Lord said to me: “I rest calm and confident in My habitation— Like a scorching heat upon sprouts, Like a rain-cloud in the heat of reaping time.”"
     },
     {
+      "block_id": "jsb-isa-18-4-commentary-5",
+      "type": "commentary",
+      "text": "Cf. hibbit “to rely” (Job 6.19). The related noun mabbaṭ occurs with similar meaning in Isa. 20.5, 6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-isa-18-4-commentary-6",
+      "type": "commentary",
+      "text": "I.e., like a threat of disaster; cf. Eccl. 11.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-18-5",
       "type": "verse",
       "number": 5,
       "text": "For before the harvest, yet after the budding, When the blossom has hardened into berries, He will trim away the twigs with pruning hooks, And lop off the trailing branches."
+    },
+    {
+      "block_id": "jsb-isa-18-5-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “vintage.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-isa-18-5-commentary-8",
+      "type": "commentary",
+      "text": "A figure of speech for the defeated enemy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 18,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-18-6",

@@ -1,7 +1,7 @@
 {
   "document_id": "num-4",
   "title": "Numbers 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -49,6 +49,19 @@
       "type": "verse",
       "number": 6,
       "text": "They shall lay a covering of dolphin skin over it and spread a cloth of pure blue on top; and they shall put its poles in place."
+    },
+    {
+      "block_id": "jsb-num-4-6-commentary-1",
+      "type": "commentary",
+      "text": "See note at Exod. 25.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 4,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-num-4-7",
@@ -133,6 +146,19 @@
       "type": "verse",
       "number": 20,
       "text": "But let not [the Kohathites] go inside and witness the dismantling of the sanctuary, lest they die."
+    },
+    {
+      "block_id": "jsb-num-4-20-commentary-2",
+      "type": "commentary",
+      "text": "Others “look at the sacred objects even for a moment.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 4,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-num-4-21",

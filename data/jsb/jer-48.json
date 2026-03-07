@@ -1,7 +1,7 @@
 {
   "document_id": "jer-48",
   "title": "Jeremiah 48",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,62 @@
       "text": "Concerning Moab. Thus said the Lord of Hosts, the God of Israel: Alas, that Nebo should be ravaged, Kiriathaim captured and shamed, The stronghold shamed and dismayed!"
     },
     {
+      "block_id": "jsb-jer-48-1-commentary-1",
+      "type": "commentary",
+      "text": "A number of parallels to this chapter occur in Isa. 15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-jer-48-1-commentary-2",
+      "type": "commentary",
+      "text": "Or “Misgab.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-jer-48-2",
       "type": "verse",
       "number": 2,
       "text": "Moab’s glory is no more; In Heshbon they have planned evil against her: “Come, let us make an end of her as a nation!” You too, O Madmen, shall be silenced; The sword is following you."
+    },
+    {
+      "block_id": "jsb-jer-48-2-commentary-3",
+      "type": "commentary",
+      "text": "Heb. ḥashebu, play on Heshbon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-jer-48-2-commentary-4",
+      "type": "commentary",
+      "text": "Heb. tiddommi, play on Madmen, the name of a town.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-jer-48-3",
@@ -29,6 +81,19 @@
       "text": "Moab is broken; Her young ones cry aloud;"
     },
     {
+      "block_id": "jsb-jer-48-4-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “They cry aloud as far as Zoar”; cf. Isa. 15.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-jer-48-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +104,19 @@
       "type": "verse",
       "number": 6,
       "text": "Flee, save your lives! And be like Aroer in the desert."
+    },
+    {
+      "block_id": "jsb-jer-48-6-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-jer-48-7",
@@ -113,6 +191,19 @@
       "text": "Descend from glory And sit in thirst, O inhabitant of Fair Dibon; For the ravager of Moab has entered your town, He has destroyed your fortresses."
     },
     {
+      "block_id": "jsb-jer-48-18-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-jer-48-19",
       "type": "verse",
       "number": 19,
@@ -167,6 +258,19 @@
       "text": "Wasn’t Israel a laughingstock to you? Was he ever caught among thieves, That you should shake your head Whenever you speak of him?"
     },
     {
+      "block_id": "jsb-jer-48-27-commentary-8",
+      "type": "commentary",
+      "text": "I.e., in mockery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-jer-48-28",
       "type": "verse",
       "number": 28,
@@ -185,10 +289,49 @@
       "text": "I know his insolence—declares the Lord—the wickedness that is in him, the wickedness he has committed."
     },
     {
+      "block_id": "jsb-jer-48-30-commentary-9",
+      "type": "commentary",
+      "text": "Cf. note at Isa. 16.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "jsb-jer-48-30-commentary-10",
+      "type": "commentary",
+      "text": "Heb. “they have.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-jer-48-31",
       "type": "verse",
       "number": 31,
       "text": "Therefore I will howl for Moab, I will cry out for all Moab, I will moan for the men of Kir-heres."
+    },
+    {
+      "block_id": "jsb-jer-48-31-commentary-11",
+      "type": "commentary",
+      "text": "Heb. “He.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-jer-48-32",
@@ -197,10 +340,36 @@
       "text": "With greater weeping than for Jazer I weep for you, O vine of Sibmah, Whose tendrils crossed the sea, Reached to the sea, to Jazer. A ravager has come down Upon your fig and grape harvests."
     },
     {
+      "block_id": "jsb-jer-48-32-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-jer-48-33",
       "type": "verse",
       "number": 33,
       "text": "Rejoicing and gladness Are gone from the farm land, From the country of Moab; I have put an end to wine in the presses, No one treads [the grapes] with shouting— The shout is a shout no more."
+    },
+    {
+      "block_id": "jsb-jer-48-33-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
     },
     {
       "block_id": "jsb-jer-48-34",
@@ -219,6 +388,19 @@
       "type": "verse",
       "number": 36,
       "text": "Therefore, My heart moans for Moab like a flute; Like a flute my heart moans For the men of Kir-heres— Therefore, The gains they have made shall vanish—"
+    },
+    {
+      "block_id": "jsb-jer-48-36-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-jer-48-37",
@@ -263,6 +445,19 @@
       "text": "Terror, and pit, and trap Upon you who dwell in Moab! —declares the Lord."
     },
     {
+      "block_id": "jsb-jer-48-43-commentary-15",
+      "type": "commentary",
+      "text": "See note at Isa. 24.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 43
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
       "block_id": "jsb-jer-48-44",
       "type": "verse",
       "number": 44,
@@ -273,6 +468,32 @@
       "type": "verse",
       "number": 45,
       "text": "In the shelter of Heshbon Fugitives halt exhausted; For fire went forth from Heshbon, Flame from the midst of Sihon, Consuming the brow of Moab, The pate of the people of Shaon."
+    },
+    {
+      "block_id": "jsb-jer-48-45-commentary-16",
+      "type": "commentary",
+      "text": "Emendation yields “house.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 45
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "jsb-jer-48-45-commentary-17",
+      "type": "commentary",
+      "text": "Or “tumult.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 48,
+        "verse": 45
+      },
+      "verse_start": 45,
+      "verse_end": 45
     },
     {
       "block_id": "jsb-jer-48-46",

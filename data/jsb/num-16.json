@@ -1,7 +1,7 @@
 {
   "document_id": "num-16",
   "title": "Numbers 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "Now Korah, son of Izhar son of Kohath son of Levi, betook himself, along with Dathan and Abiram sons of Eliab, and On son of Peleth—descendants of Reuben—"
+    },
+    {
+      "block_id": "jsb-num-16-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “took”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-num-16-1-commentary-2",
+      "type": "commentary",
+      "text": "According to Num. 26.5, 8–9, Eliab was son of Pallu, son of Reuben.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-num-16-2",
@@ -29,6 +55,19 @@
       "text": "When Moses heard this, he fell on his face."
     },
     {
+      "block_id": "jsb-num-16-4-commentary-3",
+      "type": "commentary",
+      "text": "Perhaps in the sense of “his face fell.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-num-16-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +78,19 @@
       "type": "verse",
       "number": 6,
       "text": "Do this: You, Korah and all your band, take fire pans,"
+    },
+    {
+      "block_id": "jsb-num-16-6-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-num-16-7",
@@ -89,6 +141,32 @@
       "text": "Even if you had brought us to a land flowing with milk and honey, and given us possession of fields and vineyards, should you gouge out those men’s eyes? We will not come!”"
     },
     {
+      "block_id": "jsb-num-16-14-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “You have not even.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-num-16-14-commentary-6",
+      "type": "commentary",
+      "text": "“Those men’s” is a euphemism for “our”; cf. 1 Sam. 29.4. Gouging out the eyes was punishment for runaway slaves and rebellious vassals; cf. 2 Kings 25.4–7; Jer. 39.4–7, 52.7–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-num-16-15",
       "type": "verse",
       "number": 15,
@@ -135,6 +213,19 @@
       "type": "verse",
       "number": 22,
       "text": "But they fell on their faces and said, “O God, Source of the breath of all flesh! When one man sins, will You be wrathful with the whole community?”"
+    },
+    {
+      "block_id": "jsb-num-16-22-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 16,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-num-16-23",

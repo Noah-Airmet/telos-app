@@ -1,7 +1,7 @@
 {
   "document_id": "exod-30",
   "title": "Exodus 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -37,6 +37,19 @@
       "type": "verse",
       "number": 4,
       "text": "And make two gold rings for it under its molding; make them on its two side walls, on opposite sides. They shall serve as holders for poles with which to carry it."
+    },
+    {
+      "block_id": "jsb-exod-30-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “its two.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 30,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-exod-30-5",
@@ -151,6 +164,19 @@
       "type": "verse",
       "number": 23,
       "text": "Next take choice spices: five hundred weight of solidified myrrh, half as much—two hundred and fifty—of fragrant cinnamon, two hundred and fifty of aromatic cane,"
+    },
+    {
+      "block_id": "jsb-exod-30-23-commentary-2",
+      "type": "commentary",
+      "text": "Others “flowing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 30,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-exod-30-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "job-22",
   "title": "Job 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "type": "verse",
       "number": 19,
       "text": "The righteous, seeing it, rejoiced; The innocent laughed with scorn."
+    },
+    {
+      "block_id": "jsb-job-22-19-commentary-1",
+      "type": "commentary",
+      "text": "Referring to v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 22,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-job-22-20",

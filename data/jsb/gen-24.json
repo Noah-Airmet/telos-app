@@ -1,7 +1,7 @@
 {
   "document_id": "gen-24",
   "title": "Genesis 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "So the servant put his hand under the thigh of his master Abraham and swore to him as bidden."
+    },
+    {
+      "block_id": "jsb-gen-24-9-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “about this matter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 24,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-gen-24-10",
@@ -137,6 +150,19 @@
       "text": "When the camels had finished drinking, the man took a gold nose-ring weighing a half-shekel, and two gold bands for her arms, ten shekels in weight."
     },
     {
+      "block_id": "jsb-gen-24-22-commentary-2",
+      "type": "commentary",
+      "text": "Heb. beqaʿ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 24,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-gen-24-23",
       "type": "verse",
       "number": 23,
@@ -153,6 +179,19 @@
       "type": "verse",
       "number": 25,
       "text": "And she went on, “There is plenty of straw and feed at home, and also room to spend the night.”"
+    },
+    {
+      "block_id": "jsb-gen-24-25-commentary-3",
+      "type": "commentary",
+      "text": "Heb. teben, shredded straw, which in the East is mixed with feed; cf. v. 32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 24,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-gen-24-26",
@@ -335,6 +374,19 @@
       "text": "But her brother and her mother said, “Let the maiden remain with us some ten days; then you may go.”"
     },
     {
+      "block_id": "jsb-gen-24-55-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “days or ten.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 24,
+        "verse": 55
+      },
+      "verse_start": 55,
+      "verse_end": 55
+    },
+    {
       "block_id": "jsb-gen-24-56",
       "type": "verse",
       "number": 56,
@@ -381,6 +433,19 @@
       "type": "verse",
       "number": 63,
       "text": "And Isaac went out walking in the field toward evening and, looking up, he saw camels approaching."
+    },
+    {
+      "block_id": "jsb-gen-24-63-commentary-5",
+      "type": "commentary",
+      "text": "Others “to meditate”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 24,
+        "verse": 63
+      },
+      "verse_start": 63,
+      "verse_end": 63
     },
     {
       "block_id": "jsb-gen-24-64",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-109",
   "title": "Psalms 109",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "They answer my love with accusation and I must stand judgment."
     },
     {
+      "block_id": "jsb-ps-109-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “but I am all prayer”; meaning of Heb. uncertain, but see v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 109,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-109-5",
       "type": "verse",
       "number": 5,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "May his days be few; may another take over his position."
+    },
+    {
+      "block_id": "jsb-ps-109-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 109,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-109-9",

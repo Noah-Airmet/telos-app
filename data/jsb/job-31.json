@@ -1,7 +1,7 @@
 {
   "document_id": "job-31",
   "title": "Job 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,6 +101,19 @@
       "text": "Did I deny the poor their needs, Or let a widow pine away,"
     },
     {
+      "block_id": "jsb-job-31-16-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the eyes of a.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-job-31-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "Why, from my youth he grew up with me as though I were his father; Since I left my mother’s womb I was her guide."
+    },
+    {
+      "block_id": "jsb-job-31-18-commentary-2",
+      "type": "commentary",
+      "text": "Viz., the widow’s.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-job-31-19",
@@ -135,6 +161,19 @@
       "type": "verse",
       "number": 22,
       "text": "May my arm drop off my shoulder; My forearm break off at the elbow."
+    },
+    {
+      "block_id": "jsb-job-31-22-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “from its shaft,” i.e., the humerus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-job-31-23",
@@ -183,6 +222,19 @@
       "type": "verse",
       "number": 30,
       "text": "I never let my mouth sin By wishing his death in a curse."
+    },
+    {
+      "block_id": "jsb-job-31-30-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “palate.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-job-31-31",

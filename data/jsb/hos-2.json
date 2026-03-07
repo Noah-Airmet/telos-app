@@ -1,7 +1,7 @@
 {
   "document_id": "hos-2",
   "title": "Hosea 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,62 @@
       "text": "The number of the people of Israel shall be like that of the sands of the sea, which cannot be measured or counted; and instead of being told, “You are Not-My-People,” they shall be called Children-of-the-Living-God."
     },
     {
+      "block_id": "jsb-hos-2-1-commentary-1",
+      "type": "commentary",
+      "text": "Vv. 1–3 anticipate the conclusion of the chapter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-hos-2-1-commentary-2",
+      "type": "commentary",
+      "text": "See 1.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-hos-2-2",
       "type": "verse",
       "number": 2,
       "text": "The people of Judah and the people of Israel shall assemble together and appoint one head over them; and they shall rise from the ground—for marvelous shall be the day of Jezreel!"
+    },
+    {
+      "block_id": "jsb-hos-2-2-commentary-3",
+      "type": "commentary",
+      "text": "Meaning, perhaps, “from their wretched condition,” or “to ascendancy over the land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-hos-2-2-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the day when the name Jezreel will convey a promise (2.23–25) instead of a threat (1.4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-hos-2-3",
@@ -23,10 +75,36 @@
       "text": "Oh, call your brothers “My People,” And your sisters “Lovingly Accepted!”"
     },
     {
+      "block_id": "jsb-hos-2-3-commentary-5",
+      "type": "commentary",
+      "text": "The Lord addresses Hosea and his fellow North Israelites; see 1.9. The mother is the nation; her children the individual North Israelites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-hos-2-4",
       "type": "verse",
       "number": 4,
       "text": "Rebuke your mother, rebuke her— For she is not My wife And I am not her husband— And let her put away her harlotry from her face And her adultery from between her breasts."
+    },
+    {
+      "block_id": "jsb-hos-2-4-commentary-6",
+      "type": "commentary",
+      "text": "The Lord addresses Hosea and his fellow North Israelites; see 1.9. The mother is the nation; her children the individual North Israelites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-hos-2-5",
@@ -51,6 +129,19 @@
       "type": "verse",
       "number": 8,
       "text": "Assuredly, I will hedge up her roads with thorns And raise walls against her, And she shall not find her paths."
+    },
+    {
+      "block_id": "jsb-hos-2-8-commentary-7",
+      "type": "commentary",
+      "text": "Heb. “your.” Vv. 8–9 would read well after v. 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-hos-2-9",
@@ -101,16 +192,68 @@
       "text": "Assuredly, I will speak coaxingly to her And lead her through the wilderness And speak to her tenderly."
     },
     {
+      "block_id": "jsb-hos-2-16-commentary-8",
+      "type": "commentary",
+      "text": "I.e., her ravaged land (see vv. 5, 10–11, 14); so Ibn Ezra.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-hos-2-17",
       "type": "verse",
       "number": 17,
       "text": "I will give her her vineyards from there, And the Valley of Achor as a plowland of hope. There she shall respond as in the days of her youth, When she came up from the land of Egypt."
     },
     {
+      "block_id": "jsb-hos-2-17-commentary-9",
+      "type": "commentary",
+      "text": "A desolate region; cf. Isa. 65.10; see further Josh. 7.25–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-hos-2-17-commentary-10",
+      "type": "commentary",
+      "text": "Connecting pethaḥ with pittaḥ “to plow” (see Isa. 28.24). Meaning of Heb. uncertain; others “door of hope.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-hos-2-18",
       "type": "verse",
       "number": 18,
       "text": "And in that day —declares the Lord— You will call [Me] Ishi, And no more will you call Me Baali."
+    },
+    {
+      "block_id": "jsb-hos-2-18-commentary-11",
+      "type": "commentary",
+      "text": "Both Ishi and Baali mean “my husband,” but the latter also means “my Baal.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-hos-2-19",
@@ -125,10 +268,36 @@
       "text": "In that day, I will make a covenant for them with the beasts of the field, the birds of the air, and the creeping things of the ground; I will also banish bow, sword, and war from the land. Thus I will let them lie down in safety."
     },
     {
+      "block_id": "jsb-hos-2-20-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “break.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-hos-2-21",
       "type": "verse",
       "number": 21,
       "text": "And I will espouse you forever: I will espouse you with righteousness and justice, And with goodness and mercy,"
+    },
+    {
+      "block_id": "jsb-hos-2-21-commentary-13",
+      "type": "commentary",
+      "text": "As the bride-price which the bridegroom will pay, He will confer these qualities on her, so that she will never offend again.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-hos-2-22",
@@ -147,6 +316,19 @@
       "type": "verse",
       "number": 24,
       "text": "And the earth shall respond With new grain and wine and oil, And they shall respond to Jezreel."
+    },
+    {
+      "block_id": "jsb-hos-2-24-commentary-14",
+      "type": "commentary",
+      "text": "I.e., “God sows.” The names of Hosea’s children (1.3–8) are applied here to Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 2,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-hos-2-25",

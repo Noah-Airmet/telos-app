@@ -1,7 +1,7 @@
 {
   "document_id": "jonah-3",
   "title": "Jonah 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Jonah went at once to Nineveh in accordance with the Lord’s command. Nineveh was an enormously large city a three days’ walk across."
+    },
+    {
+      "block_id": "jsb-jonah-3-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “a large city of God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-jonah-3-4",

@@ -1,7 +1,7 @@
 {
   "document_id": "mic-3",
   "title": "Micah 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,49 @@
       "text": "But you hate good and love evil."
     },
     {
+      "block_id": "jsb-mic-3-2-commentary-1",
+      "type": "commentary",
+      "text": "Syntax of vv. 2–3 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-mic-3-3",
       "type": "verse",
       "number": 3,
       "text": "You have devoured My ­people’s flesh; You have flayed the skin off them, And their flesh off their bones. And after tearing their skins off them, And their flesh off their bones, And breaking their bones to bits, You have cut it up as into a pot, Like meat in a caldron."
+    },
+    {
+      "block_id": "jsb-mic-3-3-commentary-2",
+      "type": "commentary",
+      "text": "Brought down from v. 2 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-mic-3-3-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; Septuagint and Syriac read “like flesh in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-mic-3-4",
@@ -45,6 +84,19 @@
       "type": "verse",
       "number": 7,
       "text": "The seers shall be shamed And the diviners confounded; They shall cover their upper lips, Because no response comes from God."
+    },
+    {
+      "block_id": "jsb-mic-3-7-commentary-4",
+      "type": "commentary",
+      "text": "As a sign of mourning; cf. Ezek. 24.17, 22; Lev. 13.45.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mic",
+        "chapter": 3,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-mic-3-8",

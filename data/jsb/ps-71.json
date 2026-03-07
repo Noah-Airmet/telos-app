@@ -1,7 +1,7 @@
 {
   "document_id": "ps-71",
   "title": "Psalms 71",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "While yet unborn, I depended on You; in the womb of my mother, You were my support; I sing Your praises always."
+    },
+    {
+      "block_id": "jsb-ps-71-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-71-7",

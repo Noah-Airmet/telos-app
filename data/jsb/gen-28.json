@@ -1,7 +1,7 @@
 {
   "document_id": "gen-28",
   "title": "Genesis 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -31,6 +31,19 @@
       "type": "verse",
       "number": 3,
       "text": "May El Shaddai bless you, make you fertile and numerous, so that you become an assembly of peoples."
+    },
+    {
+      "block_id": "jsb-gen-28-3-commentary-1",
+      "type": "commentary",
+      "text": "See note at 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 28,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-gen-28-4",
@@ -87,6 +100,19 @@
       "text": "He had a dream; a stairway was set on the ground and its top reached to the sky, and angels of God were going up and down on it."
     },
     {
+      "block_id": "jsb-gen-28-12-commentary-2",
+      "type": "commentary",
+      "text": "Or “ramp”; others “ladder.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 28,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-gen-28-13",
       "type": "verse",
       "number": 13,
@@ -127,6 +153,19 @@
       "type": "verse",
       "number": 19,
       "text": "He named that site Bethel; but previously the name of the city had been Luz."
+    },
+    {
+      "block_id": "jsb-gen-28-19-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “house of God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 28,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-gen-28-20",

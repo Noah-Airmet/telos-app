@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-22",
   "title": "1 Samuel 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "David departed from there and escaped to the cave of Adullam; and when his brothers and all his father’s house heard, they joined him down there."
+    },
+    {
+      "block_id": "jsb-1-sam-22-1-commentary-1",
+      "type": "commentary",
+      "text": "The “cave” in v. 1 is referred to as “stronghold” in vv. 4–5; cf. the same variation in 2 Sam. 23.13–14; 1 Chron. 11.15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-sam-22-2",
@@ -29,6 +42,19 @@
       "text": "So he led them to the king of Moab, and they stayed with him as long as David remained in the stronghold."
     },
     {
+      "block_id": "jsb-1-sam-22-4-commentary-2",
+      "type": "commentary",
+      "text": "Targum and Syriac read “left them with.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-1-sam-22-5",
       "type": "verse",
       "number": 5,
@@ -47,10 +73,49 @@
       "text": "Saul said to the courtiers standing about him, “Listen, men of Benjamin! Will the son of Jesse give fields and vineyards to every one of you? And will he make all of you captains of thousands or captains of hundreds?"
     },
     {
+      "block_id": "jsb-1-sam-22-7-commentary-3",
+      "type": "commentary",
+      "text": "See note at 10.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-1-sam-22-8",
       "type": "verse",
       "number": 8,
       "text": "Is that why all of you have conspired against me? For no one informs me when my own son makes a pact with the son of Jesse; no one is concerned for me and no one informs me when my own son has set my servant in ambush against me, as is now the case.”"
+    },
+    {
+      "block_id": "jsb-1-sam-22-8-commentary-4",
+      "type": "commentary",
+      "text": "For this meaning of ḥoleh, cf. Amos 6.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-1-sam-22-8-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint reads “as an enemy.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-22-9",
@@ -89,10 +154,36 @@
       "text": "Ahimelech replied to the king, “But who is there among all your courtiers as trusted as David, son-in-law of Your Majesty and obedient to your bidding, and esteemed in your household?"
     },
     {
+      "block_id": "jsb-1-sam-22-14-commentary-6",
+      "type": "commentary",
+      "text": "Cf. Isa. 11.14; but meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-1-sam-22-15",
       "type": "verse",
       "number": 15,
       "text": "This is the first time that I inquired of God for him; I have done no wrong. Let not Your Majesty find fault with his servant [or] with any of my father’s house; for your servant knew nothing whatever about all this.”"
+    },
+    {
+      "block_id": "jsb-1-sam-22-15-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “Far be it from me!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-1-sam-22-16",
@@ -111,6 +202,19 @@
       "type": "verse",
       "number": 18,
       "text": "Thereupon the king said to Doeg, “You, Doeg, go and strike down the priests.” And Doeg the Edomite went and struck down the priests himself; that day, he killed eighty-five men who wore the linen ephod."
+    },
+    {
+      "block_id": "jsb-1-sam-22-18-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint reads “bearers of the ephod”; cf. note at 2.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-1-sam-22-19",
@@ -135,6 +239,19 @@
       "type": "verse",
       "number": 22,
       "text": "David said to Abiathar, “I knew that day, when Doeg the Edomite was there, that he would tell Saul. I am to blame for all the deaths in your father’s house."
+    },
+    {
+      "block_id": "jsb-1-sam-22-22-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 22,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-sam-22-23",

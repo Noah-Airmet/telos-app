@@ -1,7 +1,7 @@
 {
   "document_id": "ps-112",
   "title": "Psalms 112",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "ז A light shines for the upright in the darkness; ח he is gracious, compassionate, and beneficent."
+    },
+    {
+      "block_id": "jsb-ps-112-4-commentary-1",
+      "type": "commentary",
+      "text": "Or “He shines as a light.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 112,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-112-5",

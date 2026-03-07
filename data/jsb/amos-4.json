@@ -1,7 +1,7 @@
 {
   "document_id": "amos-4",
   "title": "Amos 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "Hear this word, you cows of Bashan On the hill of Samaria— Who defraud the poor, Who rob the needy; Who say to your husbands, “Bring, and let’s carouse!”"
     },
     {
+      "block_id": "jsb-amos-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “their.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-amos-4-2",
       "type": "verse",
       "number": 2,
       "text": "My Lord god swears by His holiness: Behold, days are coming upon you When you will be carried off in baskets, And, to the last one, in fish baskets,"
+    },
+    {
+      "block_id": "jsb-amos-4-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-amos-4-3",
@@ -33,6 +59,19 @@
       "type": "verse",
       "number": 5,
       "text": "And burn a thank offering of leavened bread; And proclaim freewill offerings loudly. For you love that sort of thing, O Israelites —declares my Lord god."
+    },
+    {
+      "block_id": "jsb-amos-4-5-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Lev. 7.12–14; where, however, the bread is not to be burned.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-amos-4-6",
@@ -59,10 +98,36 @@
       "text": "I scourged you with blight and mildew; Repeatedly your gardens and vineyards, Your fig trees and olive trees Were devoured by locusts. Yet you did not turn back to Me —declares the Lord."
     },
     {
+      "block_id": "jsb-amos-4-9-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-amos-4-10",
       "type": "verse",
       "number": 10,
       "text": "I sent against you pestilence In the manner of Egypt; I slew your young men with the sword, Together with your captured horses, And I made the stench of your armies Rise in your very nostrils. Yet you did not turn back to Me —declares the Lord."
+    },
+    {
+      "block_id": "jsb-amos-4-10-commentary-5",
+      "type": "commentary",
+      "text": "Alluding to the plagues at the time of the Exodus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-amos-4-11",
@@ -77,10 +142,49 @@
       "text": "Assuredly, Because I am doing that to you, Even so will I act toward you, O Israel— Prepare to meet your God, O Israel!"
     },
     {
+      "block_id": "jsb-amos-4-12-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Because you are acting thus toward Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-amos-4-13",
       "type": "verse",
       "number": 13,
       "text": "Behold, He who formed the mountains, And created the wind, And has told man what His wish is, Who turns blackness into daybreak, And treads upon the high places of the earth— His name is the Lord, the God of Hosts."
+    },
+    {
+      "block_id": "jsb-amos-4-13-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-amos-4-13-commentary-8",
+      "type": "commentary",
+      "text": "Cf. Joel 2.2. Emendation yields “darkness”; cf. 5.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 4,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     }
   ]
 }

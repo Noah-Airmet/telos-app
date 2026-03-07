@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-5",
   "title": "Ezekiel 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "over their iniquity."
     },
     {
+      "block_id": "jsb-ezek-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ezek-5-1",
       "type": "verse",
       "number": 1,
       "text": "And you, O mortal, take a sharp knife; use it as a barber’s razor and pass it over your head and beard. Then take scales and divide the hair."
     },
     {
+      "block_id": "jsb-ezek-5-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ezek-5-2",
       "type": "verse",
       "number": 2,
       "text": "When the days of siege are completed, destroy a third part in fire in the city, take a third and strike it with the sword all around the city, and scatter a third to the wind and unsheathe a sword after them."
+    },
+    {
+      "block_id": "jsb-ezek-5-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-ezek-5-2-commentary-3",
+      "type": "commentary",
+      "text": "Cf. v. 12; lit. “I will unsheathe.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-5-3",
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 6,
       "text": "But she rebelled against My rules and My laws, acting more wickedly than the nations and the countries round about her; she rejected My rules and disobeyed My laws."
+    },
+    {
+      "block_id": "jsb-ezek-5-6-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ezek-5-7",
@@ -77,6 +142,19 @@
       "text": "Assuredly, as I live—said the Lord god—because you defiled My Sanctuary with all your detestable things and all your abominations, I in turn will shear [you] away and show no pity. I in turn will show no compassion:"
     },
     {
+      "block_id": "jsb-ezek-5-11-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Isa. 15.2 and Jer. 48.37; here an allusion to the symbolism in v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-ezek-5-12",
       "type": "verse",
       "number": 12,
@@ -99,6 +177,19 @@
       "type": "verse",
       "number": 15,
       "text": "And when I execute judgment upon you in anger and rage and furious chastisement, you shall be a mockery and a derision, a warning and a horror, to the nations roundabout you: I the Lord have spoken."
+    },
+    {
+      "block_id": "jsb-ezek-5-15-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “she.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 5,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-5-16",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-89",
   "title": "Psalms 89",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -130,6 +130,19 @@
       "text": "Then You spoke to Your faithful ones in a vision and said, “I have conferred power upon a warrior; I have exalted one chosen out of the people."
     },
     {
+      "block_id": "jsb-ps-89-20-commentary-1",
+      "type": "commentary",
+      "text": "Referring to vv. 4–5; cf. 2 Sam. 7.1–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ps-89-21",
       "type": "verse",
       "number": 21,
@@ -146,6 +159,19 @@
       "type": "verse",
       "number": 23,
       "text": "No enemy shall oppress him, no vile man afflict him."
+    },
+    {
+      "block_id": "jsb-ps-89-23-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-ps-89-24",
@@ -278,6 +304,19 @@
       "type": "verse",
       "number": 45,
       "text": "You have brought his splendor to an end and have hurled his throne to the ground."
+    },
+    {
+      "block_id": "jsb-ps-89-45-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89,
+        "verse": 45
+      },
+      "verse_start": 45,
+      "verse_end": 45
     },
     {
       "block_id": "jsb-ps-89-46",

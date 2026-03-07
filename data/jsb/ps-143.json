@@ -1,7 +1,7 @@
 {
   "document_id": "ps-143",
   "title": "Psalms 143",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "Save me from my foes, O Lord; to You I look for cover."
+    },
+    {
+      "block_id": "jsb-ps-143-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ps-143-10",

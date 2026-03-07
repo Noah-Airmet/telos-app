@@ -1,7 +1,7 @@
 {
   "document_id": "exod-5",
   "title": "Exodus 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,32 @@
       "type": "verse",
       "number": 5,
       "text": "And Pharaoh continued, “The people of the land are already so numerous, and you would have them cease from their labors!”"
+    },
+    {
+      "block_id": "jsb-exod-5-5-commentary-1",
+      "type": "commentary",
+      "text": "Samaritan “Even now they are more numerous than the people of the land,” i.e., than the native population (cf. Gen. 23.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-exod-5-5-commentary-2",
+      "type": "commentary",
+      "text": "See 1.5–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 5,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-exod-5-6",

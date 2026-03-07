@@ -1,7 +1,7 @@
 {
   "document_id": "exod-34",
   "title": "Exodus 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "text": "The Lord passed before him and proclaimed: “The Lord! the Lord! a God compassionate and gracious, slow to anger, abounding in kindness and faithfulness,"
     },
     {
+      "block_id": "jsb-exod-34-6-commentary-1",
+      "type": "commentary",
+      "text": "Or “and the Lord proclaimed: The Lord! a God compassionate,” etc.; cf. Num. 14.17–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 34,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-exod-34-7",
       "type": "verse",
       "number": 7,
@@ -73,6 +86,19 @@
       "type": "verse",
       "number": 10,
       "text": "He said: I hereby make a covenant. Before all your people I will work such wonders as have not been wrought on all the earth or in any nation; and all the people who are with you shall see how awesome are the Lord’s deeds which I will perform for you."
+    },
+    {
+      "block_id": "jsb-exod-34-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “in whose midst you are.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 34,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-exod-34-11",
@@ -123,10 +149,36 @@
       "text": "You shall observe the Feast of Unleavened Bread—eating unleavened bread for seven days, as I have commanded you—at the set time of the month of Abib, for in the month of Abib you went forth from Egypt."
     },
     {
+      "block_id": "jsb-exod-34-18-commentary-3",
+      "type": "commentary",
+      "text": "See note at 13.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 34,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-exod-34-19",
       "type": "verse",
       "number": 19,
       "text": "Every first issue of the womb is Mine, from all your livestock that drop a male as firstling, whether cattle or sheep."
+    },
+    {
+      "block_id": "jsb-exod-34-19-commentary-4",
+      "type": "commentary",
+      "text": "Heb. tizzakhar, form uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 34,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-exod-34-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-1",
   "title": "1 Samuel 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "There was a man from Ramathaim of the Zuphites, in the hill country of Ephraim, whose name was Elkanah son of Jeroham son of Elihu son of Tohu son of Zuph, an Ephraimite."
+    },
+    {
+      "block_id": "jsb-1-sam-1-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “Ramathaim-zophim.” In 1.19, 2.11, 7.17, 15.34, 19.18, etc., the town is called Ramah; and 9.5 ff. shows that it was in the district of Zuph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-sam-1-2",
@@ -35,6 +48,19 @@
       "text": "but to Hannah he would give one portion only—though Hannah was his favorite—for the Lord had closed her womb."
     },
     {
+      "block_id": "jsb-1-sam-1-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-1-6",
       "type": "verse",
       "number": 6,
@@ -47,6 +73,19 @@
       "text": "This happened year after year: Every time she went up to the House of the Lord, the other would taunt her, so that she wept and would not eat."
     },
     {
+      "block_id": "jsb-1-sam-1-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Thus he did.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-1-sam-1-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "After they had eaten and drunk at Shiloh, Hannah rose.—The priest Eli was sitting on the seat near the doorpost of the temple of the Lord.—"
+    },
+    {
+      "block_id": "jsb-1-sam-1-9-commentary-4",
+      "type": "commentary",
+      "text": "Septuagint adds “and stood before the Lord.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-1-sam-1-10",
@@ -89,6 +141,19 @@
       "text": "Eli said to her, “How long will you make a drunken spectacle of yourself? Sober up!”"
     },
     {
+      "block_id": "jsb-1-sam-1-14-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “Remove your wine from you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-1-sam-1-15",
       "type": "verse",
       "number": 15,
@@ -119,10 +184,36 @@
       "text": "Early next morning they bowed low before the Lord, and they went back home to Ramah. Elkanah knew his wife Hannah and the Lord remembered her."
     },
     {
+      "block_id": "jsb-1-sam-1-19-commentary-6",
+      "type": "commentary",
+      "text": "Cf. note at Gen. 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-1-20",
       "type": "verse",
       "number": 20,
       "text": "Hannah conceived, and at the turn of the year bore a son. She named him Samuel, meaning, “I asked the Lord for him.”"
+    },
+    {
+      "block_id": "jsb-1-sam-1-20-commentary-7",
+      "type": "commentary",
+      "text": "Connected with shaʾul meʾel “asked of God”; cf. vv. 17, 27–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-1-sam-1-21",
@@ -143,10 +234,49 @@
       "text": "Her husband Elkanah said to her, “Do as you think best. Stay home until you have weaned him. May the Lord fulfill His word.” So the woman stayed home and nursed her son until she weaned him."
     },
     {
+      "block_id": "jsb-1-sam-1-23-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint and 4QSama (a Samuel fragment from Qumran) read “the utterance of your mouth.” The translators express their thanks to Professor Frank M. Cross, Jr., for graciously making available to them copies of his unpublished Samuel fragments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-1-sam-1-24",
       "type": "verse",
       "number": 24,
       "text": "When she had weaned him, she took him up with her, along with three bulls, one ephah of flour, and a jar of wine. And though the boy was still very young, she brought him to the House of the Lord at Shiloh."
+    },
+    {
+      "block_id": "jsb-1-sam-1-24-commentary-9",
+      "type": "commentary",
+      "text": "Septuagint and 4QSama read “a three-year-old [cf. Gen. 15.9] bull and bread”; cf. v. 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "jsb-1-sam-1-24-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-1-sam-1-25",
@@ -171,6 +301,32 @@
       "type": "verse",
       "number": 28,
       "text": "I, in turn, hereby lend him to the Lord. For as long as he lives he is lent to the Lord.” And they bowed low there before the Lord."
+    },
+    {
+      "block_id": "jsb-1-sam-1-28-commentary-11",
+      "type": "commentary",
+      "text": "From the same root as that of the verb rendered “asked for” in v. 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-1-sam-1-28-commentary-12",
+      "type": "commentary",
+      "text": "Heb. “he”; cf. 2.11. A reading in the Talmud (Berakhot 61a) implies that Elkanah was there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 1,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     }
   ]
 }

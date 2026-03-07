@@ -1,7 +1,7 @@
 {
   "document_id": "josh-8",
   "title": "Joshua 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,10 +83,49 @@
       "text": "Thus the main body of the army was disposed on the north of the city, but the far end of it was on the west. (This was after Joshua had spent the night in the valley.)—"
     },
     {
+      "block_id": "jsb-josh-8-13-commentary-1",
+      "type": "commentary",
+      "text": "So with some mss. (cf. v. 9); most mss. and editions read “marched.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-josh-8-13-commentary-2",
+      "type": "commentary",
+      "text": "Syriac reads “with the troops”; cf. v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-josh-8-14",
       "type": "verse",
       "number": 14,
       "text": "When the king of Ai saw them, he and all his people, the inhabitants of the city, rushed out in the early morning to the meeting place, facing the Arabah, to engage the Israelites in battle; for he was unaware that a force was lying in ambush behind the city."
+    },
+    {
+      "block_id": "jsb-josh-8-14-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “descent”; cf. 7.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-josh-8-15",
@@ -191,6 +230,19 @@
       "text": "as Moses, the servant of the Lord, had commanded the Israelites—as is written in the Book of the Teaching of Moses—an altar of unhewn stone upon which no iron had been wielded. They offered on it burnt offerings to the Lord, and brought sacrifices of well-being."
     },
     {
+      "block_id": "jsb-josh-8-31-commentary-4",
+      "type": "commentary",
+      "text": "See Deut. 27.3–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 8,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-josh-8-32",
       "type": "verse",
       "number": 32,
@@ -207,6 +259,19 @@
       "type": "verse",
       "number": 34,
       "text": "After that, he read all the words of the Teaching, the blessing and the curse, just as is written in the Book of the Teaching."
+    },
+    {
+      "block_id": "jsb-josh-8-34-commentary-5",
+      "type": "commentary",
+      "text": "See Deut. 27.11–28.68.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 8,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-josh-8-35",

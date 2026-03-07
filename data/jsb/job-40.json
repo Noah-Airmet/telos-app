@@ -1,7 +1,7 @@
 {
   "document_id": "job-40",
   "title": "Job 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Shall one who should be disciplined complain against Shaddai? He who arraigns God must respond."
+    },
+    {
+      "block_id": "jsb-job-40-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 40,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-job-40-3",
@@ -107,6 +120,19 @@
       "text": "He makes his tail stand up like a cedar; The sinews of his thighs are knit together."
     },
     {
+      "block_id": "jsb-job-40-17-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 40,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-job-40-18",
       "type": "verse",
       "number": 18,
@@ -141,6 +167,19 @@
       "type": "verse",
       "number": 23,
       "text": "He can restrain the river from its rushing; He is confident the stream will gush at his command."
+    },
+    {
+      "block_id": "jsb-job-40-23-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “Jordan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 40,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-job-40-24",
@@ -183,6 +222,19 @@
       "type": "verse",
       "number": 30,
       "text": "Shall traders traffic in him? Will he be divided up among merchants?"
+    },
+    {
+      "block_id": "jsb-job-40-30-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 40,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-job-40-31",

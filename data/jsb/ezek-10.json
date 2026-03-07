@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-10",
   "title": "Ezekiel 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "But when the Presence of the Lord moved from the cherubs to the platform of the House, the House was filled with the cloud, and the court was filled with the radiance of the Presence of the Lord."
     },
     {
+      "block_id": "jsb-ezek-10-4-commentary-1",
+      "type": "commentary",
+      "text": "See note at 47.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ezek-10-5",
       "type": "verse",
       "number": 5,
       "text": "The sound of the cherubs’ wings could be heard as far as the outer court, like the voice of El Shaddai when He speaks."
+    },
+    {
+      "block_id": "jsb-ezek-10-5-commentary-2",
+      "type": "commentary",
+      "text": "See note at Gen. 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ezek-10-6",
@@ -83,6 +109,19 @@
       "text": "It was these wheels that I had heard called “the wheelwork.”"
     },
     {
+      "block_id": "jsb-ezek-10-13-commentary-3",
+      "type": "commentary",
+      "text": "See v. 2",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ezek-10-14",
       "type": "verse",
       "number": 14,
@@ -113,16 +152,55 @@
       "text": "Then the Presence of the Lord left the platform of the House and stopped above the cherubs."
     },
     {
+      "block_id": "jsb-ezek-10-18-commentary-4",
+      "type": "commentary",
+      "text": "See note at 47.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-ezek-10-19",
       "type": "verse",
       "number": 19,
       "text": "And I saw the cherubs lift their wings and rise from the earth, with the wheels beside them as they departed; and they stopped at the entrance of the eastern gate of the House of the Lord, with the Presence of the God of Israel above them."
     },
     {
+      "block_id": "jsb-ezek-10-19-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-ezek-10-20",
       "type": "verse",
       "number": 20,
       "text": "They were the same creatures that I had seen below the God of Israel at the Chebar Canal; so now I knew that they were cherubs."
+    },
+    {
+      "block_id": "jsb-ezek-10-20-commentary-6",
+      "type": "commentary",
+      "text": "Because they had been called “cherubs” (cf. v. 2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ezek-10-21",
@@ -135,6 +213,19 @@
       "type": "verse",
       "number": 22,
       "text": "As for the form of their faces, they were the very faces that I had seen by the Chebar Canal—their appearance and their features—and each could move in the direction of any of its faces."
+    },
+    {
+      "block_id": "jsb-ezek-10-22-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “themselves.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 10,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     }
   ]
 }

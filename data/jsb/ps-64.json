@@ -1,7 +1,7 @@
 {
   "document_id": "ps-64",
   "title": "Psalms 64",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,49 @@
       "text": "They arm themselves with an evil word; when they speak, it is to conceal traps; they think, “Who will see them?”"
     },
     {
+      "block_id": "jsb-ps-64-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 64,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-64-7",
       "type": "verse",
       "number": 7,
       "text": "Let the wrongdoings they have concealed, each one inside him, his secret thoughts, be wholly exposed."
+    },
+    {
+      "block_id": "jsb-ps-64-7-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 64,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-ps-64-7-commentary-3",
+      "type": "commentary",
+      "text": "Reading ṭamnu with some mss. (cf. Minḥat Shai) and Rashi; most printed editions tamnu, traditionally rendered “they have accomplished.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 64,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-64-8",

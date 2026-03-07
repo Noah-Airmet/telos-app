@@ -1,7 +1,7 @@
 {
   "document_id": "judg-15",
   "title": "Judges 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,10 +35,49 @@
       "text": "He lit the torches and turned [the foxes] loose among the standing grain of the Philistines, setting fire to stacked grain, standing grain, vineyards, [and] olive trees."
     },
     {
+      "block_id": "jsb-judg-15-5-commentary-1",
+      "type": "commentary",
+      "text": "So Targum.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-judg-15-6",
       "type": "verse",
       "number": 6,
       "text": "The Philistines asked, “Who did this?” And they were told, “It was Samson, the son-in-law of the Timnite, who took Samson’s wife and gave her to his wedding companion.” Thereupon the Philistines came up and put her and her father to the fire."
+    },
+    {
+      "block_id": "jsb-judg-15-6-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-judg-15-6-commentary-3",
+      "type": "commentary",
+      "text": "Many mss. read “her father’s household”; cf. 14.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-judg-15-7",
@@ -51,6 +90,19 @@
       "type": "verse",
       "number": 8,
       "text": "He gave them a sound and thorough thrashing. Then he went down and stayed in the cave of the rock of Etam."
+    },
+    {
+      "block_id": "jsb-judg-15-8-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “He smote them leg as well as thigh, a great smiting.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-judg-15-9",
@@ -107,6 +159,19 @@
       "text": "As he finished speaking, he threw the jawbone away; hence that place was called Ramath-lehi."
     },
     {
+      "block_id": "jsb-judg-15-17-commentary-5",
+      "type": "commentary",
+      "text": "I.e., “Jawbone Heights.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-judg-15-18",
       "type": "verse",
       "number": 18,
@@ -117,6 +182,19 @@
       "type": "verse",
       "number": 19,
       "text": "So God split open the hollow which is at Lehi, and the water gushed out of it; he drank, regained his strength, and revived. That is why it is called to this day “En-hakkore of Lehi.”"
+    },
+    {
+      "block_id": "jsb-judg-15-19-commentary-6",
+      "type": "commentary",
+      "text": "Understood as “The Spring of the Caller.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 15,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-judg-15-20",

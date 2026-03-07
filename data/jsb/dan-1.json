@@ -1,7 +1,7 @@
 {
   "document_id": "dan-1",
   "title": "Daniel 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "The king allotted daily rations to them from the king’s food and from the wine he drank. They were to be educated for three years, at the end of which they were to enter the king’s service."
     },
     {
+      "block_id": "jsb-dan-1-5-commentary-1",
+      "type": "commentary",
+      "text": "Or “and some of them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-dan-1-6",
       "type": "verse",
       "number": 6,
@@ -63,6 +76,19 @@
       "type": "verse",
       "number": 10,
       "text": "The chief officer said to Daniel, “I fear that my lord the king, who allotted food and drink to you, will notice that you look out of sorts, unlike the other youths of your age—and you will put my life in jeopardy with the king.”"
+    },
+    {
+      "block_id": "jsb-dan-1-10-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-dan-1-11",

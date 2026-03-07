@@ -1,7 +1,7 @@
 {
   "document_id": "ps-51",
   "title": "Psalms 51",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "when Nathan the prophet came to him after he had come to Bathsheba."
+    },
+    {
+      "block_id": "jsb-ps-51-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Sam. 12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 51,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-51-3",
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "Indeed You desire truth about that which is hidden; teach me wisdom about secret things."
+    },
+    {
+      "block_id": "jsb-ps-51-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 51,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-51-9",

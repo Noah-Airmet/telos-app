@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-21",
   "title": "1 Kings 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -131,6 +131,19 @@
       "text": "I will bring disaster upon you. I will make a clean sweep of you, I will cut off from Israel every male belonging to Ahab, bond and free."
     },
     {
+      "block_id": "jsb-1-kgs-21-21-commentary-1",
+      "type": "commentary",
+      "text": "See note at 14.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 21,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-1-kgs-21-22",
       "type": "verse",
       "number": 22,
@@ -141,6 +154,19 @@
       "type": "verse",
       "number": 23,
       "text": "And the Lord has also spoken concerning Jezebel: ‘The dogs shall devour Jezebel in the field of Jezreel."
+    },
+    {
+      "block_id": "jsb-1-kgs-21-23-commentary-2",
+      "type": "commentary",
+      "text": "So nine Heb. mss. and the parallel 2 Kings 9.36, as well as Targum and other ancient versions. Most texts read here “rampart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 21,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-1-kgs-21-24",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-30",
   "title": "Psalms 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "A psalm of David. A song for the dedication of the House."
+    },
+    {
+      "block_id": "jsb-ps-30-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-30-2",
@@ -41,6 +54,19 @@
       "text": "For He is angry but a moment, and when He is pleased there is life. One may lie down weeping at nightfall; but at dawn there are shouts of joy."
     },
     {
+      "block_id": "jsb-ps-30-6-commentary-2",
+      "type": "commentary",
+      "text": "Or “Weeping may linger for the night.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-30-7",
       "type": "verse",
       "number": 7,
@@ -53,6 +79,19 @@
       "text": "for You, O Lord, when You were pleased, made [me] firm as a mighty mountain. When You hid Your face, I was terrified."
     },
     {
+      "block_id": "jsb-ps-30-8-commentary-3",
+      "type": "commentary",
+      "text": "Following Saadia, R. Isaiah of Trani; cf. Ibn Ezra.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ps-30-9",
       "type": "verse",
       "number": 9,
@@ -63,6 +102,19 @@
       "type": "verse",
       "number": 10,
       "text": "“What is to be gained from my death, from my descent into the Pit? Can dust praise You? Can it declare Your faithfulness?"
+    },
+    {
+      "block_id": "jsb-ps-30-10-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “blood.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-30-11",

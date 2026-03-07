@@ -1,7 +1,7 @@
 {
   "document_id": "job-10",
   "title": "Job 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,10 +101,49 @@
       "text": "It is something to be proud of to hunt me like a lion, To show Yourself wondrous through me time and again!"
     },
     {
+      "block_id": "jsb-job-10-16-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-job-10-16-commentary-2",
+      "type": "commentary",
+      "text": "Or “make sport of”; cf. Pal. Aram. ʾafli.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-job-10-17",
       "type": "verse",
       "number": 17,
       "text": "You keep sending fresh witnesses against me, Letting Your vexation with me grow. I serve my term and am my own replacement."
+    },
+    {
+      "block_id": "jsb-job-10-17-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 10,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-job-10-18",

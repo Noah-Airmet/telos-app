@@ -1,7 +1,7 @@
 {
   "document_id": "amos-7",
   "title": "Amos 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "This is what my Lord god showed me: He was creating [a plague of] locusts at the time when the late-sown crops were beginning to sprout—the late-sown crops after the king’s reaping."
+    },
+    {
+      "block_id": "jsb-amos-7-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. The king’s reaping of fodder apparently occurred near the end of the rainy season, and whatever the locust destroyed after that could not be replaced for another year.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-amos-7-2",
@@ -29,6 +42,19 @@
       "text": "This is what the Lord god showed me: Lo, my Lord god was summoning to contend by fire which consumed the Great Deep and was consuming the fields."
     },
     {
+      "block_id": "jsb-amos-7-4-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “flaming.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-amos-7-5",
       "type": "verse",
       "number": 5,
@@ -45,6 +71,32 @@
       "type": "verse",
       "number": 7,
       "text": "This is what He showed me: He was standing on a wall checked with a plumb line and He was holding a plumb line."
+    },
+    {
+      "block_id": "jsb-amos-7-7-commentary-3",
+      "type": "commentary",
+      "text": "Or “destined for the pickax”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-amos-7-7-commentary-4",
+      "type": "commentary",
+      "text": "Or “pickax”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-amos-7-8",
@@ -77,6 +129,19 @@
       "text": "Amaziah also said to Amos, “Seer, off with you to the land of Judah! Earn your living there, and do your prophesying there."
     },
     {
+      "block_id": "jsb-amos-7-12-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “eat bread.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-amos-7-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +152,32 @@
       "type": "verse",
       "number": 14,
       "text": "Amos answered Amaziah: “I am not a prophet, and I am not a prophet’s disciple. I am a cattle breeder and a tender of sycamore figs."
+    },
+    {
+      "block_id": "jsb-amos-7-14-commentary-6",
+      "type": "commentary",
+      "text": "I.e., by profession.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-amos-7-14-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “sheep breeder”; cf. the next verse and 1.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-amos-7-15",
@@ -105,6 +196,32 @@
       "type": "verse",
       "number": 17,
       "text": "but this, I swear, is what the Lord said: Your wife shall play the harlot in the town, your sons and daughters shall fall by the sword, and your land shall be divided up with a measuring line. And you yourself shall die on unclean soil; for Israel shall be exiled from its soil.”"
+    },
+    {
+      "block_id": "jsb-amos-7-17-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “be ravished”; cf. Lam. 5.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-amos-7-17-commentary-9",
+      "type": "commentary",
+      "text": "Cf. Hos. 9.3 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 7,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-7",
   "title": "Ecclesiastes 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "A good name is better than fragrant oil, and the day of death than the day of birth."
+    },
+    {
+      "block_id": "jsb-eccl-7-1-commentary-1",
+      "type": "commentary",
+      "text": "The author now offers a number of practical maxims, which, however, he concludes (vv. 23–24) are of limited value.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-eccl-7-1-commentary-2",
+      "type": "commentary",
+      "text": "Until a man dies, there is always danger that he may forfeit his good name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-eccl-7-2",
@@ -21,6 +47,19 @@
       "type": "verse",
       "number": 3,
       "text": "Vexation is better than revelry; for though the face be sad, the heart may be glad."
+    },
+    {
+      "block_id": "jsb-eccl-7-3-commentary-3",
+      "type": "commentary",
+      "text": "For empty revelry precludes real happiness; cf. 2.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-eccl-7-4",
@@ -41,10 +80,62 @@
       "text": "For the levity of the fool is like the crackling of nettles under a kettle. But that too is illusory;"
     },
     {
+      "block_id": "jsb-eccl-7-6-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “praise” (shbḥ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-eccl-7-6-commentary-5",
+      "type": "commentary",
+      "text": "This section, to end of verse 7, is apparently a continuation of the thought in vv. 11–12 and 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-eccl-7-7",
       "type": "verse",
       "number": 7,
       "text": "for cheating may rob the wise man of reason and destroy the prudence of the cautious."
+    },
+    {
+      "block_id": "jsb-eccl-7-7-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “riches.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-eccl-7-7-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “caution”; cf. postbiblical mathun, “cautious.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-eccl-7-8",
@@ -77,16 +168,55 @@
       "text": "For to be in the shelter of wisdom is to be also in the shelter of money, and the advantage of intelligence is that wisdom preserves the life of him who possesses it."
     },
     {
+      "block_id": "jsb-eccl-7-12-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “For the possessor of wisdom becomes a possessor of money.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-eccl-7-13",
       "type": "verse",
       "number": 13,
       "text": "Consider God’s doing! Who can straighten what He has twisted?"
     },
     {
+      "block_id": "jsb-eccl-7-13-commentary-9",
+      "type": "commentary",
+      "text": "Vv. 13–14 continue the thought of v. 10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-eccl-7-14",
       "type": "verse",
       "number": 14,
       "text": "So in a time of good fortune enjoy the good fortune; and in a time of misfortune, reflect: The one no less than the other was God’s doing; consequently, man may find no fault with Him."
+    },
+    {
+      "block_id": "jsb-eccl-7-14-commentary-10",
+      "type": "commentary",
+      "text": "So Rashi; cf. the same thought in Job 1.22; 2.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-eccl-7-15",
@@ -113,16 +243,68 @@
       "text": "It is best that you grasp the one without letting go of the other, for one who fears God will do his duty by both."
     },
     {
+      "block_id": "jsb-eccl-7-18-commentary-11",
+      "type": "commentary",
+      "text": "Cf. postbiblical yaṣa yede.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-eccl-7-19",
       "type": "verse",
       "number": 19,
       "text": "Wisdom is more of a stronghold to a wise man than ten magnates that a city may contain."
     },
     {
+      "block_id": "jsb-eccl-7-19-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields “the riches of the magnates”; cf. Prov. 18.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-eccl-7-20",
       "type": "verse",
       "number": 20,
       "text": "For there is not one good man on earth who does what is best and doesn’t err."
+    },
+    {
+      "block_id": "jsb-eccl-7-20-commentary-13",
+      "type": "commentary",
+      "text": "Apparently continuing the thought of v. 116.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "jsb-eccl-7-20-commentary-14",
+      "type": "commentary",
+      "text": "Refers back to 6.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-eccl-7-21",
@@ -137,10 +319,36 @@
       "text": "for well you remember the many times that you yourself have reviled others."
     },
     {
+      "block_id": "jsb-eccl-7-22-commentary-15",
+      "type": "commentary",
+      "text": "Lit. “your heart knows”; the same idiom occurs again in 8.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-eccl-7-23",
       "type": "verse",
       "number": 23,
       "text": "All this I tested with wisdom. I thought I could fathom it, but it eludes me."
+    },
+    {
+      "block_id": "jsb-eccl-7-23-commentary-16",
+      "type": "commentary",
+      "text": "Refers back to 6.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-eccl-7-24",

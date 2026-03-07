@@ -1,7 +1,7 @@
 {
   "document_id": "num-25",
   "title": "Numbers 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "text": "While Israel was staying at Shittim, the people profaned themselves by whoring with the Moabite women,"
     },
     {
+      "block_id": "jsb-num-25-1-commentary-1",
+      "type": "commentary",
+      "text": "Others “began to commit harlotry.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 25,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-num-25-2",
       "type": "verse",
       "number": 2,
@@ -37,6 +50,32 @@
       "type": "verse",
       "number": 4,
       "text": "The Lord said to Moses, “Take all the ringleaders and have them publicly impaled before the Lord, so that the Lord’s wrath may turn away from Israel.”"
+    },
+    {
+      "block_id": "jsb-num-25-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “heads of the people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 25,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-num-25-4-commentary-3",
+      "type": "commentary",
+      "text": "Others “in face of the sun.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 25,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-num-25-5",

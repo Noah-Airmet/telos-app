@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-6",
   "title": "1 Kings 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "He made windows for the House, recessed and latticed."
     },
     {
+      "block_id": "jsb-1-kgs-6-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 4–6 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-1-kgs-6-5",
       "type": "verse",
       "number": 5,
       "text": "Against the outside wall of the House—the outside walls of the House enclosing the Great Hall and the Shrine—he built a storied structure; and he made side chambers all around."
+    },
+    {
+      "block_id": "jsb-1-kgs-6-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the inner sanctuary, designated in v. 16 and elsewhere as the “Holy of Holies.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-1-kgs-6-6",
@@ -53,10 +79,36 @@
       "text": "The entrance to the middle [story of] the side chambers was on the right side of the House; and winding stairs led up to the middle chambers, and from the middle chambers to the third story."
     },
     {
+      "block_id": "jsb-1-kgs-6-8-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint and Targum read “lowest.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-1-kgs-6-9",
       "type": "verse",
       "number": 9,
       "text": "When he finished building the House, he paneled the House with beams and planks of cedar."
+    },
+    {
+      "block_id": "jsb-1-kgs-6-9-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-1-kgs-6-10",
@@ -101,10 +153,36 @@
       "text": "Twenty cubits from the rear of the House, he built [a partition] of cedar planks from the floor to the walls; he furnished its interior to serve as a shrine, as the Holy of Holies."
     },
     {
+      "block_id": "jsb-1-kgs-6-16-commentary-5",
+      "type": "commentary",
+      "text": "Septuagint reads “rafters.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-kgs-6-17",
       "type": "verse",
       "number": 17,
       "text": "The front part of the House, that is, the Great Hall, measured 40 cubits."
+    },
+    {
+      "block_id": "jsb-1-kgs-6-17-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of vv. 17–22 is unclear in part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-1-kgs-6-18",
@@ -125,10 +203,36 @@
       "text": "The interior of the Shrine was 20 cubits long, 20 cubits wide, and 20 cubits high. He overlaid it with solid gold; he similarly overlaid [its] cedar altar."
     },
     {
+      "block_id": "jsb-1-kgs-6-20-commentary-7",
+      "type": "commentary",
+      "text": "I.e., the inner sanctuary, designated in v. 16 and elsewhere as the “Holy of Holies.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-kgs-6-21",
       "type": "verse",
       "number": 21,
       "text": "Solomon overlaid the interior of the House with solid gold; and he inserted golden chains into the door of the Shrine. He overlaid [the Shrine] with gold,"
+    },
+    {
+      "block_id": "jsb-1-kgs-6-21-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “in front of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-1-kgs-6-22",
@@ -167,6 +271,19 @@
       "text": "He placed the cherubim inside the inner chamber. Since the wings of the cherubim were extended, a wing of the one touched one wall and a wing of the other touched the other wall, while their wings in the center of the chamber touched each other."
     },
     {
+      "block_id": "jsb-1-kgs-6-27-commentary-9",
+      "type": "commentary",
+      "text": "I.e., the Shrine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-1-kgs-6-28",
       "type": "verse",
       "number": 28,
@@ -189,6 +306,19 @@
       "type": "verse",
       "number": 31,
       "text": "For the entrance of the Shrine he made doors of olive wood, the pilasters and the doorposts having five sides."
+    },
+    {
+      "block_id": "jsb-1-kgs-6-31-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 6,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-1-kgs-6-32",

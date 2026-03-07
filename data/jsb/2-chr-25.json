@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-25",
   "title": "2 Chronicles 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Amaziah was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem; his mother’s name was Jehoaddan of Jerusalem."
+    },
+    {
+      "block_id": "jsb-2-chr-25-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 2 Kings 14",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 25,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-25-2",
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "But he did not put their children to death for [he acted] in accordance with what is written in the Teaching, in the Book of Moses, where the Lord commanded, “Parents shall not die for children, nor shall children die for parents, but every person shall die only for his own crime.”"
+    },
+    {
+      "block_id": "jsb-2-chr-25-4-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Deut. 24.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 25,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-2-chr-25-5",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-60",
   "title": "Psalms 60",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "For the leader; on shushan eduth. A michtam of David (to be taught),"
     },
     {
+      "block_id": "jsb-ps-60-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 60,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ps-60-2",
       "type": "verse",
       "number": 2,
       "text": "when he fought with Aram-Naharaim and Aram-Zobah, and Joab returned and defeated Edom—[an army] of twelve thousand men—in the Valley of Salt."
+    },
+    {
+      "block_id": "jsb-ps-60-2-commentary-2",
+      "type": "commentary",
+      "text": "Cf. 2 Sam. 8; 1 Chron. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 60,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ps-60-3",
@@ -35,6 +61,19 @@
       "text": "You have made Your people suffer hardship; You have given us wine that makes us reel."
     },
     {
+      "block_id": "jsb-ps-60-5-commentary-3",
+      "type": "commentary",
+      "text": "Or “You have sated Your people with a bitter draft.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 60,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-60-6",
       "type": "verse",
       "number": 6,
@@ -47,10 +86,36 @@
       "text": "That those whom You love might be rescued, deliver with Your right hand and answer me."
     },
     {
+      "block_id": "jsb-ps-60-7-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Ps. 108.7–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 60,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-60-8",
       "type": "verse",
       "number": 8,
       "text": "God promised in His sanctuary that I would exultingly divide up Shechem, and measure the Valley of Sukkoth;"
+    },
+    {
+      "block_id": "jsb-ps-60-8-commentary-5",
+      "type": "commentary",
+      "text": "Or “by His holiness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 60,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-60-9",

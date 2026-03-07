@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-35",
   "title": "Ezekiel 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "assuredly, as I live, declares the Lord god, I will doom you with blood; blood shall pursue you; I swear that, for your bloodthirsty hatred, blood shall pursue you."
+    },
+    {
+      "block_id": "jsb-ezek-35-6-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “and the Lord heard it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 35,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ezek-35-7",
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "And you spoke arrogantly against Me and multiplied your words against Me: I have heard it."
+    },
+    {
+      "block_id": "jsb-ezek-35-13-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “and spoke arrogantly.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 35,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-ezek-35-14",

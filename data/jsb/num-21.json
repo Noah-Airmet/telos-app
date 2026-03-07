@@ -1,7 +1,7 @@
 {
   "document_id": "num-21",
   "title": "Numbers 21",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "When the Canaanite, king of Arad, who dwelt in the Negeb, learned that Israel was coming by the way of Atharim, he engaged Israel in battle and took some of them captive."
     },
     {
+      "block_id": "jsb-num-21-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. ha-ʾatharim uncertain. Targum and other ancient versions render “the way [taken by] the scouts.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-num-21-2",
       "type": "verse",
       "number": 2,
       "text": "Then Israel made a vow to the Lord and said, “If You deliver this people into our hand, we will proscribe their towns.”"
+    },
+    {
+      "block_id": "jsb-num-21-2-commentary-2",
+      "type": "commentary",
+      "text": "I.e., utterly destroy, reserving no booty except what is deposited in the Sanctuary; see Josh. 6.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-21-3",
@@ -23,10 +49,36 @@
       "text": "The Lord heeded Israel’s plea and delivered up the Canaanites; and they and their cities were proscribed. So that place was named Hormah."
     },
     {
+      "block_id": "jsb-num-21-3-commentary-3",
+      "type": "commentary",
+      "text": "Connected with heḥerim “to proscribe.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-num-21-4",
       "type": "verse",
       "number": 4,
       "text": "They set out from Mount Hor by way of the Sea of Reeds to skirt the land of Edom. But the people grew restive on the journey,"
+    },
+    {
+      "block_id": "jsb-num-21-4-commentary-4",
+      "type": "commentary",
+      "text": "See Exod. 10.19 note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-num-21-5",
@@ -39,6 +91,19 @@
       "type": "verse",
       "number": 6,
       "text": "The Lord sent seraph serpents against the people. They bit the people and many of the Israelites died."
+    },
+    {
+      "block_id": "jsb-num-21-6-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Isa. 14.29; 30.6. Others “fiery”; exact meaning of Heb. saraph uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-num-21-7",
@@ -89,6 +154,19 @@
       "text": "Therefore the Book of the Wars of the Lord speaks of “…Waheb in Suphah, and the wadis: the Arnon"
     },
     {
+      "block_id": "jsb-num-21-14-commentary-6",
+      "type": "commentary",
+      "text": "The quotation that follows is a fragment; text and meaning are uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-num-21-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +177,19 @@
       "type": "verse",
       "number": 16,
       "text": "And from there to Beer, which is the well where the Lord said to Moses, “Assemble the people that I may give them water.”"
+    },
+    {
+      "block_id": "jsb-num-21-16-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “well.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-num-21-17",
@@ -113,6 +204,19 @@
       "text": "The well which the chieftains dug, Which the nobles of the people started With maces, with their own staffs. And from Midbar to Mattanah,"
     },
     {
+      "block_id": "jsb-num-21-18-commentary-8",
+      "type": "commentary",
+      "text": "Septuagint “the well” (= Beer); cf. v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-num-21-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +227,19 @@
       "type": "verse",
       "number": 20,
       "text": "and from Bamoth to the valley that is in the country of Moab, at the peak of Pisgah, overlooking the wasteland."
+    },
+    {
+      "block_id": "jsb-num-21-20-commentary-9",
+      "type": "commentary",
+      "text": "Or “Jeshimon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-num-21-21",
@@ -149,6 +266,19 @@
       "text": "But Israel put them to the sword, and took possession of their land, from the Arnon to the Jabbok, as far as [Az] of the Ammonites, for Az marked the boundary of the Ammonites."
     },
     {
+      "block_id": "jsb-num-21-24-commentary-10",
+      "type": "commentary",
+      "text": "Septuagint “Jazer,” cf. v. 32. Others “for the boundary of the Ammonites was strong.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-num-21-25",
       "type": "verse",
       "number": 25,
@@ -167,10 +297,36 @@
       "text": "Therefore the bards would recite: “Come to Heshbon; firmly built And well founded is Sihon’s city."
     },
     {
+      "block_id": "jsb-num-21-27-commentary-11",
+      "type": "commentary",
+      "text": "The meaning of several parts of this ancient poem is no longer certain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-num-21-28",
       "type": "verse",
       "number": 28,
       "text": "For fire went forth from Heshbon, Flame from Sihon’s city, Consuming Ar of Moab, The lords of Bamoth by the Arnon."
+    },
+    {
+      "block_id": "jsb-num-21-28-commentary-12",
+      "type": "commentary",
+      "text": "Cf. vv. 19 and 20 and Num. 22.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-num-21-29",
@@ -183,6 +339,19 @@
       "type": "verse",
       "number": 30,
       "text": "Yet we have cast them down utterly, Heshbon along with Dibon; We have wrought desolation at Nophah, Which is hard by Medeba."
+    },
+    {
+      "block_id": "jsb-num-21-30-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain. Alternatively: “Their dominion is at an end/From Heshbon to Dibon/And from Nashim to Nophah,/ Which is hard by Medeba.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 21,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-num-21-31",

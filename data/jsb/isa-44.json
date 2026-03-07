@@ -1,7 +1,7 @@
 {
   "document_id": "isa-44",
   "title": "Isaiah 44",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Thus said the Lord, your Maker, Your Creator who has helped you since birth: Fear not, My servant Jacob, Jeshurun whom I have chosen,"
     },
     {
+      "block_id": "jsb-isa-44-2-commentary-1",
+      "type": "commentary",
+      "text": "A name for Israel; see note on Num. 23.10; cf. Deut. 32.15; 33.5, 26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-isa-44-3",
       "type": "verse",
       "number": 3,
@@ -29,10 +42,36 @@
       "text": "And they shall sprout like grass, Like willows by watercourses."
     },
     {
+      "block_id": "jsb-isa-44-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “in among.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-isa-44-5",
       "type": "verse",
       "number": 5,
       "text": "One shall say, “I am the Lord’s,” Another shall use the name of “Jacob,” Another shall mark his arm “of the Lord” And adopt the name of “Israel.”"
+    },
+    {
+      "block_id": "jsb-isa-44-5-commentary-3",
+      "type": "commentary",
+      "text": "It was customary to mark a slave with the owner’s name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-isa-44-6",
@@ -45,6 +84,19 @@
       "type": "verse",
       "number": 7,
       "text": "Who like Me can announce, Can foretell it—and match Me thereby? Even as I told the future to an ancient people, So let him foretell coming events to them."
+    },
+    {
+      "block_id": "jsb-isa-44-7-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-isa-44-8",
@@ -77,6 +129,32 @@
       "text": "The craftsman in iron, with his tools, Works it over charcoal And fashions it by hammering, Working with the strength of his arm. Should he go hungry, his strength would ebb; Should he drink no water, he would grow faint."
     },
     {
+      "block_id": "jsb-isa-44-12-commentary-5",
+      "type": "commentary",
+      "text": "The meaning of parts of vv. 12–13 is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "jsb-isa-44-12-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the image he is making.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-isa-44-13",
       "type": "verse",
       "number": 13,
@@ -99,6 +177,32 @@
       "type": "verse",
       "number": 16,
       "text": "Part of it he burns in a fire: On that part he roasts meat, He eats the roast and is sated; He also warms himself and cries, “Ah, I am warm! I can feel the heat!”"
+    },
+    {
+      "block_id": "jsb-isa-44-16-commentary-7",
+      "type": "commentary",
+      "text": "Transposing the Heb. verbs for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-isa-44-16-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “see.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-44-17",
@@ -125,10 +229,36 @@
       "text": "He pursues ashes! A deluded mind has led him astray, And he cannot save himself; He never says to himself, “The thing in my hand is a fraud!”"
     },
     {
+      "block_id": "jsb-isa-44-20-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “He shepherds ashes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-isa-44-21",
       "type": "verse",
       "number": 21,
       "text": "Remember these things, O Jacob For you, O Israel, are My servant: I fashioned you, you are My servant— O Israel, never forget Me."
+    },
+    {
+      "block_id": "jsb-isa-44-21-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “them,” these things.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-isa-44-22",
@@ -149,6 +279,19 @@
       "text": "Thus said the Lord, your Redeemer, Who formed you in the womb: It is I, the Lord, who made everything, Who alone stretched out the heavens And unaided spread out the earth;"
     },
     {
+      "block_id": "jsb-isa-44-24-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “with none beside me,” or (following many Heb. mss., kethib, and ancient versions) “who was with me?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-isa-44-25",
       "type": "verse",
       "number": 25,
@@ -161,6 +304,19 @@
       "text": "But confirm the word of My servant And fulfill the prediction of My messengers. It is I who say of Jerusalem, “It shall be inhabited,” And of the towns of Judah, “They shall be rebuilt; And I will restore their ruined places.”"
     },
     {
+      "block_id": "jsb-isa-44-26-commentary-12",
+      "type": "commentary",
+      "text": "Heb. “His.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-isa-44-27",
       "type": "verse",
       "number": 27,
@@ -171,6 +327,19 @@
       "type": "verse",
       "number": 28,
       "text": "Am the same who says of Cyrus, “He is My shepherd; He shall fulfill all My purposes! He shall say of Jerusalem, ‘She shall be rebuilt,’ And to the Temple: ‘You shall be founded again.’”"
+    },
+    {
+      "block_id": "jsb-isa-44-28-commentary-13",
+      "type": "commentary",
+      "text": "I.e., the king whom I have designated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     }
   ]
 }

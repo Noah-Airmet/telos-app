@@ -1,7 +1,7 @@
 {
   "document_id": "deut-26",
   "title": "Deuteronomy 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "Wherefore I now bring the first fruits of the soil which You, O Lord, have given me.” You shall leave it before the Lord your God and bow low before the Lord your God."
     },
     {
+      "block_id": "jsb-deut-26-10-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the basket of v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 26,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-deut-26-11",
       "type": "verse",
       "number": 11,
@@ -77,6 +90,19 @@
       "text": "When you have set aside in full the tenth part of your yield—in the third year, the year of the tithe—and have given it to the Levite, the stranger, the fatherless, and the widow, that they may eat their fill in your settlements,"
     },
     {
+      "block_id": "jsb-deut-26-12-commentary-2",
+      "type": "commentary",
+      "text": "See Deut. 14.28–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 26,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-deut-26-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +113,32 @@
       "type": "verse",
       "number": 14,
       "text": "I have not eaten of it while in mourning, I have not cleared out any of it while I was unclean, and I have not deposited any of it with the dead. I have obeyed the Lord my God; I have done just as You commanded me."
+    },
+    {
+      "block_id": "jsb-deut-26-14-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of first part of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 26,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-deut-26-14-commentary-4",
+      "type": "commentary",
+      "text": "No part of the tithe may be left as food for the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 26,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-deut-26-15",
@@ -105,6 +157,19 @@
       "type": "verse",
       "number": 17,
       "text": "You have affirmed this day that the Lord is your God, that you will walk in His ways, that you will observe His laws and commandments and rules, and that you will obey Him."
+    },
+    {
+      "block_id": "jsb-deut-26-17-commentary-5",
+      "type": "commentary",
+      "text": "Exact nuance of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 26,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-deut-26-18",

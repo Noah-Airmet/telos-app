@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-9",
   "title": "2 Kings 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Then the prophet Elisha summoned one of the disciples of the prophets and said to him, “Tie up your skirts, and take along this flask of oil, and go to Ramoth-gilead."
+    },
+    {
+      "block_id": "jsb-2-kgs-9-1-commentary-1",
+      "type": "commentary",
+      "text": "See note at 4.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-kgs-9-2",
@@ -53,6 +66,19 @@
       "text": "The whole House of Ahab shall perish, and I will cut off every male belonging to Ahab, bond and free in Israel."
     },
     {
+      "block_id": "jsb-2-kgs-9-8-commentary-2",
+      "type": "commentary",
+      "text": "See note at 1 Kings 14.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-2-kgs-9-9",
       "type": "verse",
       "number": 9,
@@ -81,6 +107,32 @@
       "type": "verse",
       "number": 13,
       "text": "Quickly each man took his cloak and placed it under him, on the top step. They sounded the horn and proclaimed, “Jehu is king!”"
+    },
+    {
+      "block_id": "jsb-2-kgs-9-13-commentary-3",
+      "type": "commentary",
+      "text": "I.e., Jehu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-2-kgs-9-13-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-9-14",
@@ -143,10 +195,36 @@
       "text": "Thereupon Joram turned his horses around and fled, crying out to Ahaziah, “Treason, Ahaziah!”"
     },
     {
+      "block_id": "jsb-2-kgs-9-23-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “hands”; see note at 1 Kings 22.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-2-kgs-9-24",
       "type": "verse",
       "number": 24,
       "text": "But Jehu drew his bow and hit Joram between the shoulders, so that the arrow pierced his heart; and he collapsed in his chariot."
+    },
+    {
+      "block_id": "jsb-2-kgs-9-24-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “arms.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-2-kgs-9-25",
@@ -189,6 +267,19 @@
       "type": "verse",
       "number": 31,
       "text": "As Jehu entered the gate, she called out, “Is all well, Zimri, murderer of your master?”"
+    },
+    {
+      "block_id": "jsb-2-kgs-9-31-commentary-7",
+      "type": "commentary",
+      "text": "See 1 Kings 16.8–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 9,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-2-kgs-9-32",

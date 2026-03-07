@@ -1,7 +1,7 @@
 {
   "document_id": "hab-2",
   "title": "Habakkuk 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,32 @@
       "type": "verse",
       "number": 1,
       "text": "I will stand on my watch, Take up my station at the post, And wait to see what He will say to me, What He will reply to my complaint."
+    },
+    {
+      "block_id": "jsb-hab-2-1-commentary-1",
+      "type": "commentary",
+      "text": "1QpHab reads “my.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-hab-2-1-commentary-2",
+      "type": "commentary",
+      "text": "Taking ≥ashib as equivalent to yashib.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-hab-2-2",
@@ -23,16 +49,55 @@
       "text": "For there is yet a prophecy for a set term, A truthful witness for a time that will come. Even if it tarries, wait for it still; For it will surely come, without delay:"
     },
     {
+      "block_id": "jsb-hab-2-3-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “the prophecy is a witness.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-hab-2-4",
       "type": "verse",
       "number": 4,
       "text": "Lo, his spirit within him is puffed up, not upright, But the righteous man is rewarded with life For his fidelity."
     },
     {
+      "block_id": "jsb-hab-2-4-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “Lo, there is a reward for the upright—/ the life breath within him—/ And … ”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-hab-2-5",
       "type": "verse",
       "number": 5,
       "text": "How much less then shall the defiant go unpunished, The treacherous, arrogant man Who has made his maw as wide as Sheol, Who is as insatiable as Death, Who has harvested all the nations And gathered in all the peoples!"
+    },
+    {
+      "block_id": "jsb-hab-2-5-commentary-5",
+      "type": "commentary",
+      "text": "Connecting hyyn (1QpHab hwn) with the root hwn, Deut. 1.41; for the thought cf. Prov. 11.31. Meaning of rest of line uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-hab-2-6",
@@ -47,6 +112,32 @@
       "text": "Right suddenly will your creditors arise, And those who remind you will awake, And you will be despoiled by them."
     },
     {
+      "block_id": "jsb-hab-2-7-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “usurers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-hab-2-7-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “shake”; the same verb means “to call to mind” in Samaritan Aramaic.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-hab-2-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +148,19 @@
       "type": "verse",
       "number": 9,
       "text": "Ah, you who have acquired gains To the detriment of your own house, Who have destroyed many peoples In order to set your nest on high To escape disaster!"
+    },
+    {
+      "block_id": "jsb-hab-2-9-commentary-8",
+      "type": "commentary",
+      "text": "Brought up from v. 10 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-hab-2-10",
@@ -83,10 +187,49 @@
       "text": "So that peoples have had to toil for the fire, And nations to weary themselves for naught! Behold, it is from the Lord of Hosts:"
     },
     {
+      "block_id": "jsb-hab-2-13-commentary-9",
+      "type": "commentary",
+      "text": "I.e., without profit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-hab-2-13-commentary-10",
+      "type": "commentary",
+      "text": "Connection with the next four lines uncertain; they might read better after v. 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-hab-2-14",
       "type": "verse",
       "number": 14,
       "text": "For the earth shall be filled With awe for the glory of the Lord As water covers the sea."
+    },
+    {
+      "block_id": "jsb-hab-2-14-commentary-11",
+      "type": "commentary",
+      "text": "Cf. Isa. 11.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-hab-2-15",
@@ -95,10 +238,62 @@
       "text": "Ah, you who make others drink to intoxication As you pour out your wrath, In order to gaze upon their nakedness!"
     },
     {
+      "block_id": "jsb-hab-2-15-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “from the bowl of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-hab-2-15-commentary-13",
+      "type": "commentary",
+      "text": "Cf. Gen. 9.21–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-hab-2-16",
       "type": "verse",
       "number": 16,
       "text": "You shall be sated with shame Rather than glory: Drink in your turn and stagger! The cup in the right hand of the Lord Shall come around to you, And disgrace to your glory."
+    },
+    {
+      "block_id": "jsb-hab-2-16-commentary-14",
+      "type": "commentary",
+      "text": "Emendation yields “uncover yourself”; cf. Lam. 4.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-hab-2-16-commentary-15",
+      "type": "commentary",
+      "text": "Or “vomit of disgrace upon.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-hab-2-17",
@@ -107,10 +302,36 @@
       "text": "For the lawlessness against Lebanon shall cover you, The destruction of beasts shall overwhelm you— For crimes against men and wrongs against lands, Against cities and all their inhabitants."
     },
     {
+      "block_id": "jsb-hab-2-17-commentary-16",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-hab-2-18",
       "type": "verse",
       "number": 18,
       "text": "What has the carved image availed, That he who fashioned it has carved it For an image and a false oracle— That he who fashioned his product has trusted in it, Making dumb idols?"
+    },
+    {
+      "block_id": "jsb-hab-2-18-commentary-17",
+      "type": "commentary",
+      "text": "This verse would read well after v. 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-hab-2-19",

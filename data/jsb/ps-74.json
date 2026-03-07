@@ -1,7 +1,7 @@
 {
   "document_id": "ps-74",
   "title": "Psalms 74",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,32 @@
       "type": "verse",
       "number": 3,
       "text": "Bestir Yourself because of the perpetual tumult, all the outrages of the enemy in the sanctuary."
+    },
+    {
+      "block_id": "jsb-ps-74-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Lift up Your feet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 74,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-ps-74-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 74,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-74-4",
@@ -87,6 +113,19 @@
       "type": "verse",
       "number": 14,
       "text": "it was You who crushed the heads of Leviathan, who left him as food for the denizens of the desert;"
+    },
+    {
+      "block_id": "jsb-ps-74-14-commentary-3",
+      "type": "commentary",
+      "text": "Or “seafaring men”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 74,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-74-15",

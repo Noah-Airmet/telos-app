@@ -1,7 +1,7 @@
 {
   "document_id": "jer-24",
   "title": "Jeremiah 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "I will make them a horror—an evil—to all the kingdoms of the earth, a disgrace and a proverb, a byword and a curse in all the places to which I banish them."
+    },
+    {
+      "block_id": "jsb-jer-24-9-commentary-1",
+      "type": "commentary",
+      "text": "I.e., a standard by which men curse; cf. Gen. 12.2 and note; Zech. 8.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 24,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jer-24-10",

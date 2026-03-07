@@ -1,7 +1,7 @@
 {
   "document_id": "ps-105",
   "title": "Psalms 105",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "Turn to the Lord, to His might; seek His presence constantly."
+    },
+    {
+      "block_id": "jsb-ps-105-4-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the Ark; cf. Pss. 78.61; 132.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-105-5",
@@ -155,6 +168,19 @@
       "text": "He changed their heart to hate His people, to plot against His servants."
     },
     {
+      "block_id": "jsb-ps-105-25-commentary-2",
+      "type": "commentary",
+      "text": "Or “Their heart changed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-ps-105-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +197,19 @@
       "type": "verse",
       "number": 28,
       "text": "He sent darkness; it was very dark; did they not defy His word?"
+    },
+    {
+      "block_id": "jsb-ps-105-28-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-ps-105-29",
@@ -225,6 +264,19 @@
       "type": "verse",
       "number": 37,
       "text": "He led Israel out with silver and gold; none among their tribes faltered."
+    },
+    {
+      "block_id": "jsb-ps-105-37-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-ps-105-38",

@@ -1,7 +1,7 @@
 {
   "document_id": "nah-1",
   "title": "Nahum 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "He rebukes the sea and dries it up, And He makes all rivers fail; Bashan and Carmel languish, And the blossoms of Lebanon wither."
     },
     {
+      "block_id": "jsb-nah-1-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “bud.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-nah-1-5",
       "type": "verse",
       "number": 5,
       "text": "The mountains quake because of Him, And the hills melt. The earth heaves before Him, The world and all that dwell therein."
+    },
+    {
+      "block_id": "jsb-nah-1-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-nah-1-6",
@@ -53,10 +79,36 @@
       "text": "And with a sweeping flood He makes an end of her place, And chases His enemies into darkness."
     },
     {
+      "block_id": "jsb-nah-1-8-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “those who oppose Him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-nah-1-9",
       "type": "verse",
       "number": 9,
       "text": "Why will you plot against the Lord? He wreaks utter destruction: No adversary opposes Him twice!"
+    },
+    {
+      "block_id": "jsb-nah-1-9-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Ugaritic ßrt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-nah-1-10",
@@ -65,16 +117,55 @@
       "text": "For like men besotted with drink, They are burned up like tangled thorns, Like straw that is thoroughly dried."
     },
     {
+      "block_id": "jsb-nah-1-10-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-nah-1-11",
       "type": "verse",
       "number": 11,
       "text": "The base plotter Who designed evil against the Lord Has left you."
     },
     {
+      "block_id": "jsb-nah-1-11-commentary-6",
+      "type": "commentary",
+      "text": "Vv. 11–14 would read well after 2.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-nah-1-12",
       "type": "verse",
       "number": 12,
       "text": "Thus said the Lord: “Even as they were full and many, Even so are they over and gone; As surely as I afflicted you, I will afflict you no more.”"
+    },
+    {
+      "block_id": "jsb-nah-1-12-commentary-7",
+      "type": "commentary",
+      "text": "I.e., the days of your affliction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-nah-1-13",
@@ -87,6 +178,32 @@
       "type": "verse",
       "number": 14,
       "text": "The Lord has commanded concerning him: No posterity shall continue your name. I will do away with The carved and graven images In the temples of your gods; I will make your grave Accord with your worthlessness."
+    },
+    {
+      "block_id": "jsb-nah-1-14-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-nah-1-14-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "document_id": "dan-10",
   "title": "Daniel 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the third year of King Cyrus of Persia, an oracle was revealed to Daniel, who was called Belteshazzar. That oracle was true, but it was a great task to understand the prophecy; understanding came to him through the vision."
+    },
+    {
+      "block_id": "jsb-dan-10-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-dan-10-2",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "that I looked and saw a man dressed in linen, his loins girt in fine gold."
+    },
+    {
+      "block_id": "jsb-dan-10-5-commentary-2",
+      "type": "commentary",
+      "text": "Or “gold of Uphaz.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-dan-10-6",
@@ -129,6 +155,19 @@
       "type": "verse",
       "number": 21,
       "text": "No one is helping me against them except your prince, Michael. However, I will tell you what is recorded in the book of truth."
+    },
+    {
+      "block_id": "jsb-dan-10-21-commentary-3",
+      "type": "commentary",
+      "text": "Order of clauses inverted for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 10,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     }
   ]
 }

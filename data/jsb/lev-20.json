@@ -1,7 +1,7 @@
 {
   "document_id": "lev-20",
   "title": "Leviticus 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -115,6 +115,19 @@
       "type": "verse",
       "number": 17,
       "text": "If a man marries his sister, the daughter of either his father or his mother, so that he sees her nakedness and she sees his nakedness, it is a disgrace; they shall be excommunicated in the sight of their kinsfolk. He has uncovered the nakedness of his sister, he shall bear his guilt."
+    },
+    {
+      "block_id": "jsb-lev-20-17-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “cut off.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 20,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-lev-20-18",

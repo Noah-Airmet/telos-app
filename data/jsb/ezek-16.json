@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-16",
   "title": "Ezekiel 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "As for your birth, when you were born your navel cord was not cut, and you were not bathed in water to smooth you; you were not rubbed with salt, nor were you swaddled."
     },
     {
+      "block_id": "jsb-ezek-16-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ezek-16-5",
       "type": "verse",
       "number": 5,
@@ -41,6 +54,19 @@
       "text": "When I passed by you and saw you wallowing in your blood, I said to you: “Live in spite of your blood.” Yea, I said to you: “Live in spite of your blood.”"
     },
     {
+      "block_id": "jsb-ezek-16-6-commentary-2",
+      "type": "commentary",
+      "text": "This sentence is missing from some ancient versions and a few Heb. mss.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-16-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "when I passed by you [again] and saw that your time for love had arrived. So I spread My robe over you and covered your nakedness, and I entered into a covenant with you by oath—declares the Lord god; thus you became Mine."
+    },
+    {
+      "block_id": "jsb-ezek-16-8-commentary-3",
+      "type": "commentary",
+      "text": "An act symbolizing espousal; cf. note at Deut. 23.1, Ruth 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ezek-16-9",
@@ -95,6 +134,19 @@
       "text": "But confident in your beauty and fame, you played the harlot: you lavished your favors on every passerby; they were his."
     },
     {
+      "block_id": "jsb-ezek-16-15-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ezek-16-16",
       "type": "verse",
       "number": 16,
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "The food that I had given you—the choice flour, the oil, and the honey, which I had provided for you to eat—you set it before them for a pleasing odor. And so it went—declares the Lord god."
+    },
+    {
+      "block_id": "jsb-ezek-16-19-commentary-5",
+      "type": "commentary",
+      "text": "I.e., as a sacrifice; cf. Lev. 2.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ezek-16-20",
@@ -161,6 +226,19 @@
       "text": "You played the whore with your neighbors, the lustful Egyptians—you multiplied your harlotries to anger Me."
     },
     {
+      "block_id": "jsb-ezek-16-26-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “big of phallus”; cf. 23.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-ezek-16-27",
       "type": "verse",
       "number": 27,
@@ -183,6 +261,19 @@
       "type": "verse",
       "number": 30,
       "text": "How sick was your heart—declares the Lord god—when you did all those things, the acts of a self-willed whore,"
+    },
+    {
+      "block_id": "jsb-ezek-16-30-commentary-7",
+      "type": "commentary",
+      "text": "Change of vocalization yields “How furious I was with you”; lit. “How I was filled with your fury” (libbat, as in Akkadian and Old Aramaic).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-ezek-16-31",
@@ -219,6 +310,19 @@
       "type": "verse",
       "number": 36,
       "text": "Thus said the Lord god: Because of your brazen effrontery, offering your nakedness to your lovers for harlotry—just like the blood of your children, which you gave to all your abominable fetishes: —"
+    },
+    {
+      "block_id": "jsb-ezek-16-36-commentary-8",
+      "type": "commentary",
+      "text": "Construction of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-ezek-16-37",
@@ -287,6 +391,19 @@
       "text": "Did you not walk in their ways and practice their abominations? Why, you were almost more corrupt than they in all your ways."
     },
     {
+      "block_id": "jsb-ezek-16-47-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
       "block_id": "jsb-ezek-16-48",
       "type": "verse",
       "number": 48,
@@ -303,6 +420,19 @@
       "type": "verse",
       "number": 50,
       "text": "In their haughtiness, they committed abomination before Me; and so I removed them, as you saw."
+    },
+    {
+      "block_id": "jsb-ezek-16-50-commentary-10",
+      "type": "commentary",
+      "text": "Construed as second-person feminine; cf. qere, vv. 47 and 51; and see above vv. 13, 18, 22, 31, 43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 50
+      },
+      "verse_start": 50,
+      "verse_end": 50
     },
     {
       "block_id": "jsb-ezek-16-51",
@@ -345,6 +475,19 @@
       "type": "verse",
       "number": 57,
       "text": "before your own wickedness was exposed? So must you now bear the mockery of the daughters of Aram and all her neighbors, the daughters of Philistia who jeer at you on every side."
+    },
+    {
+      "block_id": "jsb-ezek-16-57-commentary-11",
+      "type": "commentary",
+      "text": "Many Heb. mss. and editions read “Edom.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 16,
+        "verse": 57
+      },
+      "verse_start": 57,
+      "verse_end": 57
     },
     {
       "block_id": "jsb-ezek-16-58",

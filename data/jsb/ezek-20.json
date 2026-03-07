@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-20",
   "title": "Ezekiel 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,36 @@
       "text": "Arraign, arraign them, O mortal! Declare to them the abhorrent deeds of their fathers."
     },
     {
+      "block_id": "jsb-ezek-20-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “Will you arraign them, will you arraign, O mortal?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ezek-20-5",
       "type": "verse",
       "number": 5,
       "text": "Say to them: Thus said the Lord god: On the day that I chose Israel, I gave My oath to the stock of the House of Jacob; when I made Myself known to them in the land of Egypt, I gave my oath to them. When I said, “I the Lord am your God,”"
+    },
+    {
+      "block_id": "jsb-ezek-20-5-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ezek-20-6",
@@ -47,6 +73,19 @@
       "text": "I also said to them: Cast away, every one of you, the detestable things that you are drawn to, and do not defile yourselves with the fetishes of Egypt—I the Lord am your God."
     },
     {
+      "block_id": "jsb-ezek-20-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “of his eyes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ezek-20-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "But I acted for the sake of My name, that it might not be profaned in the sight of the nations among whom they were. For it was before their eyes that I had made Myself known to Israel to bring them out of the land of Egypt."
+    },
+    {
+      "block_id": "jsb-ezek-20-9-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-20-10",
@@ -93,6 +145,19 @@
       "type": "verse",
       "number": 15,
       "text": "However, I swore to them in the wilderness that I would not bring them into the land flowing with milk and honey, the fairest of all lands, which I had assigned [to them],"
+    },
+    {
+      "block_id": "jsb-ezek-20-15-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ezek-20-16",
@@ -143,6 +208,19 @@
       "text": "However, I swore to them in the wilderness that I would scatter them among the nations and disperse them through the lands,"
     },
     {
+      "block_id": "jsb-ezek-20-23-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
       "block_id": "jsb-ezek-20-24",
       "type": "verse",
       "number": 24,
@@ -161,6 +239,32 @@
       "text": "When they set aside every first issue of the womb, I defiled them by their very gifts—that I might render them desolate, that they might know that I am the Lord."
     },
     {
+      "block_id": "jsb-ezek-20-26-commentary-7",
+      "type": "commentary",
+      "text": "See v. 31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-ezek-20-26-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “guilty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-ezek-20-27",
       "type": "verse",
       "number": 27,
@@ -177,6 +281,19 @@
       "type": "verse",
       "number": 29,
       "text": "Then I said to them, “What is this shrine which you visit?” (Therefore such [a shrine] is called bamah to this day.)"
+    },
+    {
+      "block_id": "jsb-ezek-20-29-commentary-9",
+      "type": "commentary",
+      "text": "As if from ba“visit” and mah “what.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-ezek-20-30",
@@ -227,6 +344,32 @@
       "text": "I will make you pass under the shepherd’s staff, and I will bring you into the bond of the covenant."
     },
     {
+      "block_id": "jsb-ezek-20-37-commentary-10",
+      "type": "commentary",
+      "text": "I.e., to be counted; see Lev. 27.32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "jsb-ezek-20-37-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
       "block_id": "jsb-ezek-20-38",
       "type": "verse",
       "number": 38,
@@ -255,6 +398,19 @@
       "type": "verse",
       "number": 42,
       "text": "Then, when I have brought you to the land of Israel, to the country that I swore to give to your fathers, you shall know that I am the Lord."
+    },
+    {
+      "block_id": "jsb-ezek-20-42-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “raised My hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 20,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-ezek-20-43",

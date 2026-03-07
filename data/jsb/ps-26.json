@@ -1,7 +1,7 @@
 {
   "document_id": "ps-26",
   "title": "Psalms 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "Probe me, O Lord, and try me, test my heart and mind;"
     },
     {
+      "block_id": "jsb-ps-26-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “kidneys and heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 26,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-26-3",
       "type": "verse",
       "number": 3,
       "text": "for my eyes are on Your steadfast love; I have set my course by it."
+    },
+    {
+      "block_id": "jsb-ps-26-3-commentary-2",
+      "type": "commentary",
+      "text": "Or “I am aware of Your faithfulness, and always walk in Your true [path].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 26,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-26-4",

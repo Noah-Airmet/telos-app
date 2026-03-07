@@ -1,7 +1,7 @@
 {
   "document_id": "zech-7",
   "title": "Zechariah 7",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "when Bethel-sharezer and Regem-melech and his men sent to entreat the favor of the Lord,"
     },
     {
+      "block_id": "jsb-zech-7-2-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “sent Regem-melech and his men.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 7,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-zech-7-3",
       "type": "verse",
       "number": 3,
       "text": "[and] to address this inquiry to the priests of the House of the Lord and to the prophets: “Shall I weep and practice abstinence in the fifth month, as I have been doing all these years?”"
+    },
+    {
+      "block_id": "jsb-zech-7-3-commentary-2",
+      "type": "commentary",
+      "text": "Because of the destruction of the Temple and Jerusalem; cf. 2 Kings 25.8 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 7,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-zech-7-4",

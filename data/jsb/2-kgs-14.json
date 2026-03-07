@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-14",
   "title": "2 Kings 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "But he did not put to death the children of the assassins, in accordance with what is written in the Book of the Teaching of Moses, where the Lord commanded, “Parents shall not be put to death for children, nor children be put to death for parents; a person shall be put to death only for his own crime.”"
     },
     {
+      "block_id": "jsb-2-kgs-14-6-commentary-1",
+      "type": "commentary",
+      "text": "Deut. 24.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 14,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-2-kgs-14-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "Then Amaziah sent envoys to King Jehoash son of Jehoahaz son of Jehu of Israel, with this message: “Come, let us confront each other.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-14-8-commentary-2",
+      "type": "commentary",
+      "text": "I.e., in battle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 14,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-2-kgs-14-9",
@@ -81,6 +107,19 @@
       "type": "verse",
       "number": 13,
       "text": "King Jehoash of Israel captured King Amaziah son of Jehoash son of Ahaziah of Judah at Beth-shemesh. He marched on Jerusalem, and he made a breach of four hundred cubits in the wall of Jerusalem, from the Ephraim Gate to the Corner Gate."
+    },
+    {
+      "block_id": "jsb-2-kgs-14-13-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “at.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 14,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-kgs-14-14",
@@ -161,6 +200,19 @@
       "text": "For the Lord saw the very bitter plight of Israel, with neither bond nor free left, and with none to help Israel."
     },
     {
+      "block_id": "jsb-2-kgs-14-26-commentary-4",
+      "type": "commentary",
+      "text": "See note at 1 Kings 14.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 14,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-2-kgs-14-27",
       "type": "verse",
       "number": 27,
@@ -171,6 +223,19 @@
       "type": "verse",
       "number": 28,
       "text": "The other events of Jeroboam’s reign, and all his actions and exploits, how he fought and recovered Damascus and Hamath for Judah in Israel, are recorded in the Annals of the Kings of Israel."
+    },
+    {
+      "block_id": "jsb-2-kgs-14-28-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “for Israel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 14,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-2-kgs-14-29",

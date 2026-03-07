@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-1",
   "title": "Ezekiel 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the thirtieth year, on the fifth day of the fourth month, when I was in the community of exiles by the Chebar Canal, the heavens opened and I saw visions of God."
+    },
+    {
+      "block_id": "jsb-ezek-1-1-commentary-1",
+      "type": "commentary",
+      "text": "We do not know the 30th of what.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ezek-1-2",
@@ -45,6 +58,32 @@
       "type": "verse",
       "number": 7,
       "text": "the legs of each were [fused into] a single rigid leg, and the feet of each were like a single calf’s hoof; and their sparkle was like the luster of burnished bronze."
+    },
+    {
+      "block_id": "jsb-ezek-1-7-commentary-2",
+      "type": "commentary",
+      "text": "I.e., cleft in front.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-ezek-1-7-commentary-3",
+      "type": "commentary",
+      "text": "Or “plumage.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-1-8",
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "Dashing to and fro [among] the creatures was something that looked like flares."
+    },
+    {
+      "block_id": "jsb-ezek-1-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ezek-1-15",
@@ -149,10 +201,36 @@
       "text": "When they moved, I could hear the sound of their wings like the sound of mighty waters, like the sound of Shaddai, a tumult like the din of an army. When they stood still, they would let their wings droop."
     },
     {
+      "block_id": "jsb-ezek-1-24-commentary-5",
+      "type": "commentary",
+      "text": "Traditionally “the Almighty”; see Gen. 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-ezek-1-25",
       "type": "verse",
       "number": 25,
       "text": "From above the expanse over their heads came a sound. When they stood still, they would let their wings droop."
+    },
+    {
+      "block_id": "jsb-ezek-1-25-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-ezek-1-26",

@@ -1,8 +1,16 @@
+export interface CanonicalReference {
+  work: string;
+  book: string;
+  chapter?: number | null;
+  verse?: number | null;
+}
+
 export interface Block {
   block_id: string;
   type: "verse" | "heading" | "summary" | "paragraph" | "commentary";
   number?: number;
   text: string;
+  canonical_ref?: CanonicalReference;
   verse_start?: number | null;
   verse_end?: number | null;
   compare_unit_ids?: string[];

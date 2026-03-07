@@ -1,7 +1,7 @@
 {
   "document_id": "neh-11",
   "title": "Nehemiah 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "These are the heads of the province who lived in Jerusalem—in the countryside of Judah, the people lived in their towns, each on his own property, Israelites, priests, Levites, temple servants, and the sons of Solomon’s servants,"
+    },
+    {
+      "block_id": "jsb-neh-11-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “towns.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-neh-11-4",

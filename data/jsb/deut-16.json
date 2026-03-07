@@ -1,7 +1,7 @@
 {
   "document_id": "deut-16",
   "title": "Deuteronomy 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "text": "Observe the month of Abib and offer a passover sacrifice to the Lord your God, for it was in the month of Abib, at night, that the Lord your God freed you from Egypt."
     },
     {
+      "block_id": "jsb-deut-16-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Exod. 13.4; 23.15; 34.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-deut-16-2",
       "type": "verse",
       "number": 2,
@@ -31,6 +44,19 @@
       "type": "verse",
       "number": 3,
       "text": "You shall not eat anything leavened with it; for seven days thereafter you shall eat unleavened bread, bread of distress—for you departed from the land of Egypt hurriedly—so that you may remember the day of your departure from the land of Egypt as long as you live."
+    },
+    {
+      "block_id": "jsb-deut-16-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “upon it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-deut-16-4",
@@ -61,6 +87,19 @@
       "type": "verse",
       "number": 8,
       "text": "After eating unleavened bread six days, you shall hold a solemn gathering for the Lord your God on the seventh day: you shall do no work."
+    },
+    {
+      "block_id": "jsb-deut-16-8-commentary-3",
+      "type": "commentary",
+      "text": "See note at Lev. 23.36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-deut-16-9",
@@ -103,6 +142,19 @@
       "type": "verse",
       "number": 15,
       "text": "You shall hold a festival for the Lord your God seven days, in the place that the Lord will choose; for the Lord your God will bless all your crops and all your undertakings, and you shall have nothing but joy."
+    },
+    {
+      "block_id": "jsb-deut-16-15-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “you in all.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-deut-16-16",

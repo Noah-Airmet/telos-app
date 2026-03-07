@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-11",
   "title": "2 Samuel 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -71,6 +71,19 @@
       "text": "Uriah answered David, “The Ark and Israel and Judah are located at Succoth, and my master Joab and Your Majesty’s men are camped in the open; how can I go home and eat and drink and sleep with my wife? As you live, by your very life, I will not do this!”"
     },
     {
+      "block_id": "jsb-2-sam-11-11-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Emendation yields “As the Lord lives and as you live” (cf. 1 Sam. 20.3; 25.26; etc.). Lit. “as you live and as your being lives.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 11,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-sam-11-12",
       "type": "verse",
       "number": 12,
@@ -131,10 +144,36 @@
       "text": "Who struck down Abimelech son of Jerubbesheth? Was it not a woman who dropped an upper millstone on him from the wall at Thebez, from which he died? Why did you come so close to the wall?’ Then say: ‘Your servant Uriah the Hittite was among those killed.’”"
     },
     {
+      "block_id": "jsb-2-sam-11-21-commentary-2",
+      "type": "commentary",
+      "text": "The earlier form is Jerubbaal (another name for Gideon), Judg. 7.1; on -bosheth/ besheth for -baal, see note at 2 Sam. 4.4. For the event at Thebez described here, see Judg. 9.35 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 11,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-2-sam-11-22",
       "type": "verse",
       "number": 22,
       "text": "The messenger set out; he came and told David all that Joab had sent him to say."
+    },
+    {
+      "block_id": "jsb-2-sam-11-22-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint continues with a recapitulation of vv. 19–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 11,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-2-sam-11-23",
@@ -153,6 +192,19 @@
       "type": "verse",
       "number": 25,
       "text": "Whereupon David said to the messenger, “Give Joab this message: ‘Do not be distressed about the matter. The sword always takes its toll. Press your attack on the city and destroy it!’ Encourage him!”"
+    },
+    {
+      "block_id": "jsb-2-sam-11-25-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “consumes the like and the like.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 11,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-2-sam-11-26",

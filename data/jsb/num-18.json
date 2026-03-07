@@ -1,7 +1,7 @@
 {
   "document_id": "num-18",
   "title": "Numbers 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -25,6 +25,19 @@
       "type": "verse",
       "number": 2,
       "text": "You shall also associate with yourself your kinsmen the tribe of Levi, your ancestral tribe, to be attached to you and to minister to you, while you and your sons under your charge are before the Tent of the Pact."
+    },
+    {
+      "block_id": "jsb-num-18-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of latter part of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-18-3",
@@ -63,10 +76,36 @@
       "text": "The Lord spoke further to Aaron: I hereby give you charge of My gifts, all the sacred donations of the Israelites; I grant them to you and to your sons as a perquisite, a due for all time."
     },
     {
+      "block_id": "jsb-num-18-8-commentary-2",
+      "type": "commentary",
+      "text": "See note at Lev. 7.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-num-18-9",
       "type": "verse",
       "number": 9,
       "text": "This shall be yours from the most holy sacrifices, the offerings by fire: every such offering that they render to Me as most holy sacrifices, namely, every meal offering, purification offering, and guilt offering of theirs, shall belong to you and your sons."
+    },
+    {
+      "block_id": "jsb-num-18-9-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; lit. “from the fire.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-18-10",
@@ -75,10 +114,36 @@
       "text": "You shall partake of them as most sacred donations: only males may eat them; you shall treat them as consecrated."
     },
     {
+      "block_id": "jsb-num-18-10-commentary-4",
+      "type": "commentary",
+      "text": "Or “they are consecrated for your use.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-num-18-11",
       "type": "verse",
       "number": 11,
       "text": "This, too, shall be yours: the gift offerings of their contributions, all the elevation offerings of the Israelites, I give to you, to your sons, and to the daughters that are with you, as a due for all time; everyone of your household who is clean may eat it."
+    },
+    {
+      "block_id": "jsb-num-18-11-commentary-5",
+      "type": "commentary",
+      "text": "Cf. Lev. 7.29 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-num-18-12",
@@ -99,6 +164,19 @@
       "text": "Everything that has been proscribed in Israel shall be yours."
     },
     {
+      "block_id": "jsb-num-18-14-commentary-6",
+      "type": "commentary",
+      "text": "See Lev. 27.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-num-18-15",
       "type": "verse",
       "number": 15,
@@ -109,6 +187,19 @@
       "type": "verse",
       "number": 16,
       "text": "Take as their redemption price, from the age of one month up, the money equivalent of five shekels by the sanctuary weight, which is twenty gerahs."
+    },
+    {
+      "block_id": "jsb-num-18-16-commentary-7",
+      "type": "commentary",
+      "text": "I.e., for human first-born; cf. Num. 3.44 ff. For animals see Exod. 34.19 f.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-num-18-17",
@@ -127,6 +218,19 @@
       "type": "verse",
       "number": 19,
       "text": "All the sacred gifts that the Israelites set aside for the Lord I give to you, to your sons, and to the daughters that are with you, as a due for all time. It shall be an everlasting covenant of salt before the Lord for you and for your offspring as well."
+    },
+    {
+      "block_id": "jsb-num-18-19-commentary-8",
+      "type": "commentary",
+      "text": "See Lev. 2.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-num-18-20",
@@ -151,6 +255,19 @@
       "type": "verse",
       "number": 23,
       "text": "only Levites shall perform the services of the Tent of Meeting; others would incur guilt. It is the law for all time throughout the ages. But they shall have no territorial share among the Israelites;"
+    },
+    {
+      "block_id": "jsb-num-18-23-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 18,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-num-18-24",

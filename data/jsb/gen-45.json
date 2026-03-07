@@ -1,7 +1,7 @@
 {
   "document_id": "gen-45",
   "title": "Genesis 45",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "With that he embraced his brother Benjamin around the neck and wept, and Benjamin wept on his neck."
     },
     {
+      "block_id": "jsb-gen-45-14-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “fell on.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 45,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-gen-45-15",
       "type": "verse",
       "number": 15,
@@ -135,6 +148,19 @@
       "type": "verse",
       "number": 22,
       "text": "To each of them, moreover, he gave a change of clothing; but to Benjamin he gave three hundred pieces of silver and several changes of clothing."
+    },
+    {
+      "block_id": "jsb-gen-45-22-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “five”; cf. 43.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 45,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-gen-45-23",

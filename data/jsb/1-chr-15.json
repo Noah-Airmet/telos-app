@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-15",
   "title": "1 Chronicles 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,6 +83,19 @@
       "text": "Because you were not there the first time, the Lord our God burst out against us, for we did not show due regard for Him.”"
     },
     {
+      "block_id": "jsb-1-chr-15-13-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 15,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-1-chr-15-14",
       "type": "verse",
       "number": 14,
@@ -125,6 +138,19 @@
       "text": "and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah with harps on alamoth;"
     },
     {
+      "block_id": "jsb-1-chr-15-20-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 15,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-chr-15-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +161,19 @@
       "type": "verse",
       "number": 22,
       "text": "also Chenaniah, officer of the Levites in song; he was in charge of the song because he was a master."
+    },
+    {
+      "block_id": "jsb-1-chr-15-22-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 15,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-chr-15-23",
@@ -153,6 +192,19 @@
       "type": "verse",
       "number": 25,
       "text": "Then David and the elders of Israel and the officers of the thousands who were going to bring up the Ark of the Covenant of the Lord from the house of Obed-edom were joyful."
+    },
+    {
+      "block_id": "jsb-1-chr-15-25-commentary-4",
+      "type": "commentary",
+      "text": "Vv. 25–29 are found also in 2 Sam. 6.12–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 15,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-1-chr-15-26",

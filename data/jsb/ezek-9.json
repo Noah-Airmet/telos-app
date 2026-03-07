@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-9",
   "title": "Ezekiel 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Now the Presence of the God of Israel had moved from the cherub on which it had rested to the platform of the House. He called to the man clothed in linen with the writing case at his waist;"
+    },
+    {
+      "block_id": "jsb-ezek-9-3-commentary-1",
+      "type": "commentary",
+      "text": "The raised platform on which the Temple stood; cf. 47.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 9,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-9-4",

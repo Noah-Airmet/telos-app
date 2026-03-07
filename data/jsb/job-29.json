@@ -1,7 +1,7 @@
 {
   "document_id": "job-29",
   "title": "Job 29",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -113,6 +113,32 @@
       "text": "I thought I would end my days with my family, And be as long-lived as the phoenix,"
     },
     {
+      "block_id": "jsb-job-29-18-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “nest.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 29,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-job-29-18-commentary-2",
+      "type": "commentary",
+      "text": "Others “multiply days like sand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 29,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-job-29-19",
       "type": "verse",
       "number": 19,
@@ -147,6 +173,19 @@
       "type": "verse",
       "number": 24,
       "text": "When I smiled at them, they would not believe it; They never expected a sign of my favor."
+    },
+    {
+      "block_id": "jsb-job-29-24-commentary-3",
+      "type": "commentary",
+      "text": "Taking yappilun as from pll; cf. Gen. 48.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 29,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-job-29-25",

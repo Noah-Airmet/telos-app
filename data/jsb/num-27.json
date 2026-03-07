@@ -1,7 +1,7 @@
 {
   "document_id": "num-27",
   "title": "Numbers 27",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "For, in the wilderness of Zin, when the community was contentious, you disobeyed My command to uphold My sanctity in their sight by means of the water.” Those are the Waters of Meribath-kadesh, in the wilderness of Zin."
     },
     {
+      "block_id": "jsb-num-27-14-commentary-1",
+      "type": "commentary",
+      "text": "See note at 20.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 27,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-num-27-15",
       "type": "verse",
       "number": 15,
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "who shall go out before them and come in before them, and who shall take them out and bring them in, so that the Lord’s community may not be like sheep that have no shepherd.”"
+    },
+    {
+      "block_id": "jsb-num-27-17-commentary-2",
+      "type": "commentary",
+      "text": "I.e., who shall lead them in all matters and whom they shall follow in all matters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 27,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-num-27-18",

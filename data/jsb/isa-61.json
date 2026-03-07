@@ -1,7 +1,7 @@
 {
   "document_id": "isa-61",
   "title": "Isaiah 61",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "To proclaim a year of the Lord’s favor And a day of vindication by our God; To comfort all who mourn— To provide for the mourners in Zion—"
+    },
+    {
+      "block_id": "jsb-isa-61-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 61,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-61-3",
@@ -41,16 +54,55 @@
       "text": "While you shall be called “Priests of the Lord,” And termed “Servants of our God.” You shall enjoy the wealth of nations And revel in their riches."
     },
     {
+      "block_id": "jsb-isa-61-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 61,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-61-7",
       "type": "verse",
       "number": 7,
       "text": "Because your shame was double— Men cried, “Disgrace is their portion”— Assuredly, They shall have a double share in their land, Joy shall be theirs for all time."
     },
     {
+      "block_id": "jsb-isa-61-7-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “They inherited disgrace as their portion.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 61,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-isa-61-8",
       "type": "verse",
       "number": 8,
       "text": "For I the Lord love justice, I hate robbery with a burnt offering. I will pay them their wages faithfully, And make a covenant with them for all time."
+    },
+    {
+      "block_id": "jsb-isa-61-8-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “the robbing of wages.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 61,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-isa-61-9",

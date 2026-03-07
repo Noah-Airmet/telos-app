@@ -1,7 +1,7 @@
 {
   "document_id": "gen-16",
   "title": "Genesis 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "And Sarai said to Abram, “Look, the Lord has kept me from bearing. Consort with my maid; perhaps I shall have a son through her.” And Abram heeded Sarai’s request."
+    },
+    {
+      "block_id": "jsb-gen-16-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “be built up,” play on ben “son” and banah “build up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-16-3",
@@ -71,6 +84,19 @@
       "text": "The angel of the Lord said to her further, “Behold, you are with child And shall bear a son; You shall call him Ishmael, For the Lord has paid heed to your suffering."
     },
     {
+      "block_id": "jsb-gen-16-11-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “God heeds.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-gen-16-12",
       "type": "verse",
       "number": 12,
@@ -83,10 +109,49 @@
       "text": "And she called the Lord who spoke to her, “You Are El‑roi,” by which she meant, “Have I not gone on seeing after He saw me!”"
     },
     {
+      "block_id": "jsb-gen-16-13-commentary-3",
+      "type": "commentary",
+      "text": "Apparently “God of Seeing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-gen-16-13-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-gen-16-14",
       "type": "verse",
       "number": 14,
       "text": "Therefore the well was called Beer-lahai-roi; it is between Kadesh and Bered.—"
+    },
+    {
+      "block_id": "jsb-gen-16-14-commentary-5",
+      "type": "commentary",
+      "text": "Apparently “the Well of the Living One Who sees me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-gen-16-15",

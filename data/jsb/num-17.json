@@ -1,7 +1,7 @@
 {
   "document_id": "num-17",
   "title": "Numbers 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "[Remove] the fire pans of those who have sinned at the cost of their lives, and let them be made into hammered sheets as plating for the altar—for once they have been used for offering to the Lord, they have become sacred—and let them serve as a warning to the people of Israel."
+    },
+    {
+      "block_id": "jsb-num-17-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of parts of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-num-17-4",
@@ -107,6 +120,19 @@
       "text": "Speak to the Israelite people and take from them—from the chieftains of their ancestral houses—one staff for each chieftain of an ancestral house: twelve staffs in all. Inscribe each man’s name on his staff,"
     },
     {
+      "block_id": "jsb-num-17-17-commentary-2",
+      "type": "commentary",
+      "text": "I.e., of their tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 17,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-num-17-18",
       "type": "verse",
       "number": 18,
@@ -123,6 +149,19 @@
       "type": "verse",
       "number": 20,
       "text": "The staff of the man whom I choose shall sprout, and I will rid Myself of the incessant mutterings of the Israelites against you."
+    },
+    {
+      "block_id": "jsb-num-17-20-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. wahashikkothi uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 17,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-num-17-21",

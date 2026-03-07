@@ -1,7 +1,7 @@
 {
   "document_id": "ps-10",
   "title": "Psalms 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "The wicked in his arrogance hounds the lowly— may they be caught in the schemes they devise!"
     },
     {
+      "block_id": "jsb-ps-10-2-commentary-1",
+      "type": "commentary",
+      "text": "Or “they (i.e., the lowly) are caught by the schemes they devised.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-10-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "The wicked, arrogant as he is, in all his scheming [thinks], “He does not call to account; God does not care.”"
+    },
+    {
+      "block_id": "jsb-ps-10-4-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “There is no God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 10,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-10-5",
@@ -65,6 +91,19 @@
       "text": "he stoops, he crouches, and the hapless fall prey to his might."
     },
     {
+      "block_id": "jsb-ps-10-10-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 10,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ps-10-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "Rise, O Lord! Strike at him, O God! Do not forget the lowly."
+    },
+    {
+      "block_id": "jsb-ps-10-12-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “Lift Your hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 10,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ps-10-13",
@@ -93,6 +145,19 @@
       "type": "verse",
       "number": 15,
       "text": "O break the power of the wicked and evil man, so that when You look for his wickedness You will find it no more."
+    },
+    {
+      "block_id": "jsb-ps-10-15-commentary-5",
+      "type": "commentary",
+      "text": "A play on darash, which in vv. 4 and 13 means “to call to account.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 10,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-ps-10-16",

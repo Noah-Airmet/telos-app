@@ -1,7 +1,7 @@
 {
   "document_id": "ps-34",
   "title": "Psalms 34",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Of David, when he feigned madness in the presence of Abimelech, who turned him out, and he left."
+    },
+    {
+      "block_id": "jsb-ps-34-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Sam. 21.14 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 34,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-34-2",
@@ -95,6 +108,19 @@
       "text": "ס Shun evil and do good, seek amity and pursue it."
     },
     {
+      "block_id": "jsb-ps-34-15-commentary-2",
+      "type": "commentary",
+      "text": "Or “integrity.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 34,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ps-34-16",
       "type": "verse",
       "number": 16,
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "צ They cry out, and the Lord hears, and saves them from all their troubles."
+    },
+    {
+      "block_id": "jsb-ps-34-18-commentary-3",
+      "type": "commentary",
+      "text": "Viz., the righteous of v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 34,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ps-34-19",

@@ -1,7 +1,7 @@
 {
   "document_id": "nah-3",
   "title": "Nahum 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "Because of the countless harlotries of the harlot, The winsome mistress of sorcery, Who ensnared nations with her harlotries And peoples with her sorcery,"
     },
     {
+      "block_id": "jsb-nah-3-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-nah-3-5",
       "type": "verse",
       "number": 5,
@@ -53,10 +66,62 @@
       "text": "Were you any better than No‑amon, Which sat by the Nile, Surrounded by water— Its rampart a river, Its wall consisting of sea?"
     },
     {
+      "block_id": "jsb-nah-3-8-commentary-2",
+      "type": "commentary",
+      "text": "Amon was the tutelary deity of No (Thebes; cf. Jer. 46.25), which the Assyrians had sacked in 663 b.c.e.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-nah-3-8-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “sea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-nah-3-8-commentary-4",
+      "type": "commentary",
+      "text": "Change of vocalization yields “water.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-nah-3-9",
       "type": "verse",
       "number": 9,
       "text": "Populous Nubia And teeming Egypt, Put and the Libyans— They were her helpers."
+    },
+    {
+      "block_id": "jsb-nah-3-9-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-nah-3-10",
@@ -71,10 +136,36 @@
       "text": "You too shall be drunk And utterly overcome; You too shall seek A refuge from the enemy."
     },
     {
+      "block_id": "jsb-nah-3-11-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-nah-3-12",
       "type": "verse",
       "number": 12,
       "text": "All your forts are fig trees With ripe fruit; If shaken they will fall Into the mouths of devourers."
+    },
+    {
+      "block_id": "jsb-nah-3-12-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “Your troops are”; cf. next verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-nah-3-13",
@@ -95,6 +186,19 @@
       "text": "There fire will devour you, The sword will put an end to you; It will devour you like the grub. Multiply like grubs, Multiply like locusts!"
     },
     {
+      "block_id": "jsb-nah-3-15-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-nah-3-16",
       "type": "verse",
       "number": 16,
@@ -113,10 +217,36 @@
       "text": "Your shepherds are slumbering, O king of Assyria; Your sheepmasters are lying inert; Your people are scattered over the hills, And there is none to gather them."
     },
     {
+      "block_id": "jsb-nah-3-18-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “dwelling”; emendation yields “asleep.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-nah-3-19",
       "type": "verse",
       "number": 19,
-      "text": "There is no healing for your injury; Your wound is grievous. All who hear the news about you Clap their hands over you. For who has not suffered From your constant malice? 1.1: Superscription. This is an unusual double title, emphasizing the central theme of the book, the fall of Nineveh. Elkoshite: There is no known location that corresponds to this town. Some scholars doubt that the reference is to a town at all and others (cf. Tg.) have suggested that the writer may have invented it as wordplay (Heb “God is harsh”; cf. Isa. 19.4). 1.2–14: The Lord responds to Assyria and to Israel’s plight. There are remnants of an acrostic in these vv., but it has been disrupted in the transmission of the passage, and can no longer be reconstructed, esp. after v. 8. These initial vv. are extremely traditional, quoting common themes and phrases. 2–3: These vv. offer an interpretation and elaboration of Exod. 34.6–7 (cf. Num. 14.18; Jonah 4.2; Ps. 145.8); also cf. Josh. 24.19; Jer. 3.5, 12. 4: The sea, often considered a mythological place of chaos (cf. Isa. 27.1). Dries it up, as during the exodus (Exod. 14.21; Ps. 106.9). 5: For similar theophanic imagery, see Mic. 1.5; Isa. 13.13; Jer. 4.24; 2 Sam. 22.8 || Ps. 18.8, among many others. 7: As the community reads about the Lord’s power and the ridiculousness of any attempt to withstand God’s fury, this v. serves to reassure them that not all need be afraid of such fury and power. 8: If her place is correct, it refers to Nineveh. The same consonants may be read “His opposition” (see translators’ note c-c). 11: The v. may be translated as: “From you has come forth a plotter of evil against the Lord, a lawless counselor.” This counselor is identified as an Assyrian king, or as an “archetypal Assyrian king,” and in the Jewish tradition in particular, as Sennacherib (see 2 Kings 18.13–19.37). Readers would associate the figure of this counselor with that of the leader of whatever group they are opposing. 2.1–14: The two poles: Judah’s joy and peace and the conquest and destruction of Nineveh. 1: Cf. Isa. 52.7. 3: The pride of Jacob as well as the pride of Israel; or “the pride of Jacob, yea, the pride of Israel.” Here Jacob and Israel are likely to be synonyms that stand for all Israel or, given that the passage as a whole focuses on Judah, on Judah as its legitimate representative. 4–10: A narrative account of the destruction of Nineveh begins with the siege and defense and concludes with the plunder of the city, and the confused and terrified response of those who survived. The precise wording of the narrative sets a tempo that conveys a sense of the intensity, chaos, and confusion of the battle scene; much of this is lost in translation. 4: His warriors’ shields, the shields of those attacking Nineveh. Note that the beginning of the narrative has no clear antecedent. 6: The v. may be translated: “He calls (or assigns) his mighty men (or commanders); / they stumble as they go; / they hurry to her wall [Nineveh’s wall], / and the siege shelters [to protect the troops from the weaponry of the besieged] are set up.” The language of the v. stresses the speed of the actions. 7: The floodgates refer to the gates of the canals and dams. This reflects the physical environment of Nineveh and is a metaphorical reference to the conquering flood of the enemy. The fall of the palace is the beginning of the end of Nineveh. 8: The reference to Huzzab is unclear. Given the reference to her maidservants, one may assume that the v. portrays an Assyrian woman of high status, either metaphorically or not. The Tg., Rashi, and other medieval interpreters understood the term as “queen.” 11: The alliteration in the Heb is striking: “bukah umevukah umevulakah.” 12: The language resembles a lament. This sharpens the message by heightening the irony and prepares the reader for the next passage (3.1–19). The repetition of lion may play on the common motif of lions in Assyrian palace reliefs, where the king slays lions; here the lion imagery is ironically turned against the Assyrians. 3.1–19: On Nineveh’s pride and its fall. The passage begins Ah (v. 1) and concludes with the clapping of hands (v. 19), from an ironic imitation of a lament to universal joy. The entire section explains the fall of the city in terms of its behavior. 1: This is an instance of the typical “Ah” (Heb “hoy”) formula. Usually “ah” is followed by a noun phrase (or a participle) that not only identifies for whom the exclamation is due, but also explains their fate in terms of just punishment (e.g., Zeph. 3.1). City of crime (more lit. “city of blood[shed]”) follows this pattern. The NJPS translation of the v. is not fully literal. 4–7: On the general imagery, cf. Lam. ch 1. 4: The association of a female metaphor for the city with the negative, female imagery of harlotries and sorcery is obvious. Such metaphors were common in the societies in which biblical texts were written and first read, though problematic to many readers today. 8: No-amon, Thebes, the Egyptian capital, one of the most impressive and wealthy cities of the ancient Near East. It was conquered by Assyria in the days of Ashurbanipal (663 bce). The main enemy of the Assyrians at the time was an Ethiopian dynasty that ruled over Egypt. The pun on words and historical background is clear. 10: On the image of smashed babies, cf. 2 Kings 8.12; Isa. 13.16; Hos. 10.14; 14.1; Ps. 137.9. 11: The you (feminine) refers back to Nineveh. The metaphor is one of a drunken woman; see v. 12. 13: The language reflects a worldview in which women are seen as weak and defenseless; to compare a man to a woman is an insult. The relevant section of the v. may be understood not only as the troops within you are women but also as “Behold! Your people: women in your midst!” Cf. Isa. 19.16; Jer. 30.57; 51.30. 15, 17: The text plays on two common associations of the locust, with troops and with being a multitude (cf. Joel). Some translations have “locust” or “chewing locust” instead of grub in v. 15. The point is that the locust (enemy) will devour Assyria whereas its multitude (locust) of troops, merchants, scribes, and the like will not be able to save Assyria. The word translated marshals may also be translated “scribes.” 19: On clapping hands for joy, cf. Ps. 47.2. Everyone has suffered because of Assyria and now rejoices in its permanent destruction. Lit. “bud.” Meaning of Heb. uncertain. Meaning of Heb. uncertain; emendation yields “those who oppose Him.” Cf. Ugaritic ßrt. Meaning of Heb. uncertain. Vv. 11–14 would read well after 2.1. I.e., the days of your affliction. Heb. “you.” Meaning of Heb. uncertain. This verse would read well after v. 3. “Jacob” refers to the northern kingdom (cf. Amos 6.8; 8.7); Israel refers to the southern kingdom, regarded as the remnant of Israel after the fall of the northern kingdom (cf. Mic. 1.13–15). Emendation yields “vine.” Understanding peladoth as equivalent to lappidoth. Meaning of Heb. uncertain. Emendation yields “The horsemen charge”; cf. 3.3. Meaning of Heb. uncertain. To protect the crews that swung the battering rams. I.e., the walls are breached and the palace is overrun. Meaning of Heb. uncertain. Emendation yields “And its mistress is led out and exiled.” Emendation yields “moan.” Meaning of Heb. uncertain; cf. note at Joel 2.6. Emendation yields “cave.” Emendation yields “your thicket in fire.” Emendation yields “devouring.” Meaning of Heb. uncertain. Amon was the tutelary deity of No (Thebes; cf. Jer. 46.25), which the Assyrians had sacked in 663 b.c.e. Heb. “sea.” Change of vocalization yields “water.” Heb. “your.” Meaning of Heb. uncertain. Emendation yields “Your troops are”; cf. next verse. Meaning of Heb. uncertain. Lit. “dwelling”; emendation yields “asleep.” Heb. kehah, a variant of gehah; see Prov. 17.22."
+      "text": "There is no healing for your injury; Your wound is grievous. All who hear the news about you Clap their hands over you. For who has not suffered From your constant malice? 1.1: Superscription. This is an unusual double title, emphasizing the central theme of the book, the fall of Nineveh. Elkoshite: There is no known location that corresponds to this town. Some scholars doubt that the reference is to a town at all and others (cf. Tg.) have suggested that the writer may have invented it as wordplay (Heb “God is harsh”; cf. Isa. 19.4). 1.2–14: The Lord responds to Assyria and to Israel’s plight. There are remnants of an acrostic in these vv., but it has been disrupted in the transmission of the passage, and can no longer be reconstructed, esp. after v. 8. These initial vv. are extremely traditional, quoting common themes and phrases. 2–3: These vv. offer an interpretation and elaboration of Exod. 34.6–7 (cf. Num. 14.18; Jonah 4.2; Ps. 145.8); also cf. Josh. 24.19; Jer. 3.5, 12. 4: The sea, often considered a mythological place of chaos (cf. Isa. 27.1). Dries it up, as during the exodus (Exod. 14.21; Ps. 106.9). 5: For similar theophanic imagery, see Mic. 1.5; Isa. 13.13; Jer. 4.24; 2 Sam. 22.8 || Ps. 18.8, among many others. 7: As the community reads about the Lord’s power and the ridiculousness of any attempt to withstand God’s fury, this v. serves to reassure them that not all need be afraid of such fury and power. 8: If her place is correct, it refers to Nineveh. The same consonants may be read “His opposition” (see translators’ note c-c). 11: The v. may be translated as: “From you has come forth a plotter of evil against the Lord, a lawless counselor.” This counselor is identified as an Assyrian king, or as an “archetypal Assyrian king,” and in the Jewish tradition in particular, as Sennacherib (see 2 Kings 18.13–19.37). Readers would associate the figure of this counselor with that of the leader of whatever group they are opposing. 2.1–14: The two poles: Judah’s joy and peace and the conquest and destruction of Nineveh. 1: Cf. Isa. 52.7. 3: The pride of Jacob as well as the pride of Israel; or “the pride of Jacob, yea, the pride of Israel.” Here Jacob and Israel are likely to be synonyms that stand for all Israel or, given that the passage as a whole focuses on Judah, on Judah as its legitimate representative. 4–10: A narrative account of the destruction of Nineveh begins with the siege and defense and concludes with the plunder of the city, and the confused and terrified response of those who survived. The precise wording of the narrative sets a tempo that conveys a sense of the intensity, chaos, and confusion of the battle scene; much of this is lost in translation. 4: His warriors’ shields, the shields of those attacking Nineveh. Note that the beginning of the narrative has no clear antecedent. 6: The v. may be translated: “He calls (or assigns) his mighty men (or commanders); / they stumble as they go; / they hurry to her wall [Nineveh’s wall], / and the siege shelters [to protect the troops from the weaponry of the besieged] are set up.” The language of the v. stresses the speed of the actions. 7: The floodgates refer to the gates of the canals and dams. This reflects the physical environment of Nineveh and is a metaphorical reference to the conquering flood of the enemy. The fall of the palace is the beginning of the end of Nineveh. 8: The reference to Huzzab is unclear. Given the reference to her maidservants, one may assume that the v. portrays an Assyrian woman of high status, either metaphorically or not. The Tg., Rashi, and other medieval interpreters understood the term as “queen.” 11: The alliteration in the Heb is striking: “bukah umevukah umevulakah.” 12: The language resembles a lament. This sharpens the message by heightening the irony and prepares the reader for the next passage (3.1–19). The repetition of lion may play on the common motif of lions in Assyrian palace reliefs, where the king slays lions; here the lion imagery is ironically turned against the Assyrians. 3.1–19: On Nineveh’s pride and its fall. The passage begins Ah (v. 1) and concludes with the clapping of hands (v. 19), from an ironic imitation of a lament to universal joy. The entire section explains the fall of the city in terms of its behavior. 1: This is an instance of the typical “Ah” (Heb “hoy”) formula. Usually “ah” is followed by a noun phrase (or a participle) that not only identifies for whom the exclamation is due, but also explains their fate in terms of just punishment (e.g., Zeph. 3.1). City of crime (more lit. “city of blood[shed]”) follows this pattern. The NJPS translation of the v. is not fully literal. 4–7: On the general imagery, cf. Lam. ch 1. 4: The association of a female metaphor for the city with the negative, female imagery of harlotries and sorcery is obvious. Such metaphors were common in the societies in which biblical texts were written and first read, though problematic to many readers today. 8: No-amon, Thebes, the Egyptian capital, one of the most impressive and wealthy cities of the ancient Near East. It was conquered by Assyria in the days of Ashurbanipal (663 bce). The main enemy of the Assyrians at the time was an Ethiopian dynasty that ruled over Egypt. The pun on words and historical background is clear. 10: On the image of smashed babies, cf. 2 Kings 8.12; Isa. 13.16; Hos. 10.14; 14.1; Ps. 137.9. 11: The you (feminine) refers back to Nineveh. The metaphor is one of a drunken woman; see v. 12. 13: The language reflects a worldview in which women are seen as weak and defenseless; to compare a man to a woman is an insult. The relevant section of the v. may be understood not only as the troops within you are women but also as “Behold! Your people: women in your midst!” Cf. Isa. 19.16; Jer. 30.57; 51.30. 15, 17: The text plays on two common associations of the locust, with troops and with being a multitude (cf. Joel). Some translations have “locust” or “chewing locust” instead of grub in v. 15. The point is that the locust (enemy) will devour Assyria whereas its multitude (locust) of troops, merchants, scribes, and the like will not be able to save Assyria. The word translated marshals may also be translated “scribes.” 19: On clapping hands for joy, cf. Ps. 47.2. Everyone has suffered because of Assyria and now rejoices in its permanent destruction."
+    },
+    {
+      "block_id": "jsb-nah-3-19-commentary-10",
+      "type": "commentary",
+      "text": "Heb. kehah, a variant of gehah; see Prov. 17.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "nah",
+        "chapter": 3,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     }
   ]
 }

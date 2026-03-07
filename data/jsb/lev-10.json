@@ -1,7 +1,7 @@
 {
   "document_id": "lev-10",
   "title": "Leviticus 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "And fire came forth from the Lord and consumed them; thus they died at the instance of the Lord."
+    },
+    {
+      "block_id": "jsb-lev-10-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “before.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-lev-10-3",
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "And Moses said to Aaron and to his sons Eleazar and Ithamar, “Do not bare your heads and do not rend your clothes, lest you die and anger strike the whole community. But your kinsmen, all the house of Israel, shall bewail the burning that the Lord has wrought."
+    },
+    {
+      "block_id": "jsb-lev-10-6-commentary-2",
+      "type": "commentary",
+      "text": "Or “dishevel your hair.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-lev-10-7",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "Since its blood was not brought inside the sanctuary, you should certainly have eaten it in the sanctuary, as I commanded.”"
+    },
+    {
+      "block_id": "jsb-lev-10-18-commentary-3",
+      "type": "commentary",
+      "text": "As is done in the case of the most solemn offerings; see 4.3–21; 16.11–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-lev-10-19",

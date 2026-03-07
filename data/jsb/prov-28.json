@@ -1,7 +1,7 @@
 {
   "document_id": "prov-28",
   "title": "Proverbs 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "When there is rebellion in the land, many are its rulers; But with a man who has understanding and knowledge, stability will last."
+    },
+    {
+      "block_id": "jsb-prov-28-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-prov-28-3",

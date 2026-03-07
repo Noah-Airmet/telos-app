@@ -1,7 +1,7 @@
 {
   "document_id": "num-6",
   "title": "Numbers 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Speak to the Israelites and say to them: If anyone, man or woman, explicitly utters a nazirite’s vow, to set himself apart for the Lord,"
     },
     {
+      "block_id": "jsb-num-6-2-commentary-1",
+      "type": "commentary",
+      "text": "See note at Lev. 22.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-num-6-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Throughout his term as nazirite, he may not eat anything that is obtained from the grapevine, even seeds or skin."
+    },
+    {
+      "block_id": "jsb-num-6-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. ḥarṣannim and zag uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-num-6-5",
@@ -47,6 +73,19 @@
       "text": "Even if his father or mother, or his brother or sister should die, he must not defile himself for them, since hair set apart for his God is upon his head:"
     },
     {
+      "block_id": "jsb-num-6-7-commentary-3",
+      "type": "commentary",
+      "text": "Others “his consecration unto God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-num-6-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "If a person dies suddenly near him, defiling his consecrated hair, he shall shave his head on the day he becomes clean; he shall shave it on the seventh day."
+    },
+    {
+      "block_id": "jsb-num-6-9-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Num. 19.14–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-num-6-10",
@@ -81,6 +133,19 @@
       "type": "verse",
       "number": 13,
       "text": "This is the ritual for the nazirite: On the day that his term as nazirite is completed, he shall be brought to the entrance of the Tent of Meeting."
+    },
+    {
+      "block_id": "jsb-num-6-13-commentary-5",
+      "type": "commentary",
+      "text": "Or “it,” i.e., the consecrated hair; cf. v. 19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-num-6-14",
@@ -155,10 +220,49 @@
       "text": "The Lord deal kindly and graciously with you!"
     },
     {
+      "block_id": "jsb-num-6-25-commentary-6",
+      "type": "commentary",
+      "text": "Others “make His face to shine upon thee and be gracious to thee.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-num-6-26",
       "type": "verse",
       "number": 26,
       "text": "The Lord bestow His favor upon you and grant you peace!"
+    },
+    {
+      "block_id": "jsb-num-6-26-commentary-7",
+      "type": "commentary",
+      "text": "Others “lift up His countenance.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-num-6-26-commentary-8",
+      "type": "commentary",
+      "text": "Or “friendship.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-num-6-27",

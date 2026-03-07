@@ -1,7 +1,7 @@
 {
   "document_id": "ps-37",
   "title": "Psalms 37",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "ג Leave all to the Lord; trust in Him; He will do it."
+    },
+    {
+      "block_id": "jsb-ps-37-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “your way.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 37,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-37-6",
@@ -89,6 +102,19 @@
       "text": "ח The wicked draw their swords, bend their bows, to bring down the lowly and needy, to slaughter upright men."
     },
     {
+      "block_id": "jsb-ps-37-14-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “those whose way is upright.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 37,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ps-37-15",
       "type": "verse",
       "number": 15,
@@ -113,6 +139,19 @@
       "text": "י The Lord is concerned for the needs of the blameless; their portion lasts forever;"
     },
     {
+      "block_id": "jsb-ps-37-18-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “days.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 37,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-ps-37-19",
       "type": "verse",
       "number": 19,
@@ -123,6 +162,19 @@
       "type": "verse",
       "number": 20,
       "text": "כ But the wicked shall perish, and the enemies of the Lord shall be consumed, like meadow grass consumed in smoke."
+    },
+    {
+      "block_id": "jsb-ps-37-20-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 37,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ps-37-21",

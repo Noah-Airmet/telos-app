@@ -1,7 +1,7 @@
 {
   "document_id": "job-35",
   "title": "Job 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -93,6 +93,19 @@
       "type": "verse",
       "number": 15,
       "text": "But since now it does not seem so, He vents his anger; He does not realize that it may be long drawn out."
+    },
+    {
+      "block_id": "jsb-job-35-15-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 35,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-job-35-16",

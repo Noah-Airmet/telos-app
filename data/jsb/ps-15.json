@@ -1,7 +1,7 @@
 {
   "document_id": "ps-15",
   "title": "Psalms 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "whose tongue is not given to evil; who has never done harm to his fellow, or borne reproach for [his acts toward] his neighbor;"
+    },
+    {
+      "block_id": "jsb-ps-15-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; or “who has no slander upon his tongue.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 15,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-15-4",

@@ -1,7 +1,7 @@
 {
   "document_id": "lev-19",
   "title": "Leviticus 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,10 +101,49 @@
       "text": "Do not deal basely with your countrymen. Do not profit by the blood of your fellow: I am the Lord."
     },
     {
+      "block_id": "jsb-lev-19-16-commentary-1",
+      "type": "commentary",
+      "text": "Others “go about as a talebearer among”; meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 19,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-lev-19-16-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “stand upon”; precise meaning of Heb. phrase uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 19,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-lev-19-17",
       "type": "verse",
       "number": 17,
       "text": "You shall not hate your kinsfolk in your heart. Reprove your kinsman but incur no guilt because of him."
+    },
+    {
+      "block_id": "jsb-lev-19-17-commentary-3",
+      "type": "commentary",
+      "text": "Exact force of we- uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 19,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-lev-19-18",
@@ -141,6 +180,19 @@
       "type": "verse",
       "number": 23,
       "text": "When you enter the land and plant any tree for food, you shall regard its fruit as forbidden. Three years it shall be forbidden for you, not to be eaten."
+    },
+    {
+      "block_id": "jsb-lev-19-23-commentary-4",
+      "type": "commentary",
+      "text": "Heb. Root ʿrl, commonly “to be uncircumcised.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 19,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-lev-19-24",

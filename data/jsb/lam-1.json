@@ -1,7 +1,7 @@
 {
   "document_id": "lam-1",
   "title": "Lamentations 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "א Alas! Lonely sits the city Once great with people! She that was great among nations Is become like a widow; The princess among states Is become a thrall."
+    },
+    {
+      "block_id": "jsb-lam-1-1-commentary-1",
+      "type": "commentary",
+      "text": "Chaps. 1–4 are alphabetical acrostics, i.e., the verses begin with the successive letters of the Heb. alphabet. Chap. 3 is a triple acrostic. In chaps. 2–4 the letter pe precedes the ʿayin.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-lam-1-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "ג Judah has gone into exile Because of misery and harsh oppression; When she settled among the nations, She found no rest; All her pursuers overtook her In the narrow places."
+    },
+    {
+      "block_id": "jsb-lam-1-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-lam-1-4",
@@ -71,10 +97,36 @@
       "text": "כ All her inhabitants sigh As they search for bread; They have bartered their treasures for food, To keep themselves alive.— See, O Lord, and behold, How abject I have become!"
     },
     {
+      "block_id": "jsb-lam-1-11-commentary-3",
+      "type": "commentary",
+      "text": "Or (ironically) “What a glutton”; cf. Prov. 23.20–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-lam-1-12",
       "type": "verse",
       "number": 12,
       "text": "ל May it never befall you, All who pass along the road— Look about and see: Is there any agony like mine, Which was dealt out to me When the Lord afflicted me On His day of wrath?"
+    },
+    {
+      "block_id": "jsb-lam-1-12-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-lam-1-13",
@@ -87,6 +139,19 @@
       "type": "verse",
       "number": 14,
       "text": "נThe yoke of my offenses is bound fast, Lashed tight by His hand; Imposed upon my neck, It saps my strength; The Lord has delivered me into the hands Of those I cannot withstand."
+    },
+    {
+      "block_id": "jsb-lam-1-14-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 14 and 15 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-lam-1-15",
@@ -125,10 +190,36 @@
       "text": "ר See, O Lord, the distress I am in! My heart is in anguish, I know how wrong I was To disobey. Outside the sword deals death; Indoors, the plague."
     },
     {
+      "block_id": "jsb-lam-1-20-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “My heart has turned over within me”; cf. Exod. 14.5; Hos. 11.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-lam-1-21",
       "type": "verse",
       "number": 21,
       "text": "שWhen they heard how I was sighing, There was none to comfort me; All my foes heard of my plight and exulted. For it is Your doing: You have brought on the day that You threatened. Oh, let them become like me!"
+    },
+    {
+      "block_id": "jsb-lam-1-21-commentary-7",
+      "type": "commentary",
+      "text": "Emendation yields “Oh, bring on them what befell me, / And let them become like me!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-lam-1-22",

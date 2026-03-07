@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-44",
   "title": "Ezekiel 44",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Only the prince may sit in it and eat bread before the Lord, since he is a prince; he shall enter by way of the vestibule of the gate, and shall depart by the same way."
+    },
+    {
+      "block_id": "jsb-ezek-44-3-commentary-1",
+      "type": "commentary",
+      "text": "This does not contradict v. 2 because the vestibule is at the inner end of the gate; cf. 40.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ezek-44-4",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "admitting aliens, uncircumcised of spirit and uncircumcised of flesh, to be in My Sanctuary and profane My very Temple, when you offer up My food—the fat and the blood. You have broken My covenant with all your abominations."
+    },
+    {
+      "block_id": "jsb-ezek-44-7-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “They.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-44-8",
@@ -95,6 +121,19 @@
       "text": "But the levitical priests descended from Zadok, who maintained the service of My Sanctuary when the people of Israel went astray from Me—they shall approach Me to minister to Me; they shall stand before Me to offer Me fat and blood—declares the Lord god."
     },
     {
+      "block_id": "jsb-ezek-44-15-commentary-3",
+      "type": "commentary",
+      "text": "By contrast with the Levite-priests whose demotion has just been announced.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-ezek-44-16",
       "type": "verse",
       "number": 16,
@@ -119,6 +158,32 @@
       "text": "When they go out to the outer court—the outer court where the people are—they shall remove the vestments in which they minister and shall deposit them in the sacred chambers; they shall put on other garments, lest they make the people consecrated by [contact with] their vestments."
     },
     {
+      "block_id": "jsb-ezek-44-19-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 42.13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-ezek-44-19-commentary-5",
+      "type": "commentary",
+      "text": "Thereby rendering the people unfit for ordinary activity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-ezek-44-20",
       "type": "verse",
       "number": 20,
@@ -135,6 +200,19 @@
       "type": "verse",
       "number": 22,
       "text": "They shall not marry widows or divorced women; they may marry only virgins of the stock of the House of Israel, or widows who are widows of priests."
+    },
+    {
+      "block_id": "jsb-ezek-44-22-commentary-6",
+      "type": "commentary",
+      "text": "I.e., of laymen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ezek-44-23",
@@ -179,10 +257,36 @@
       "text": "The meal offerings, purification offerings, and guilt offerings shall be consumed by them. Everything proscribed in Israel shall be theirs."
     },
     {
+      "block_id": "jsb-ezek-44-29-commentary-7",
+      "type": "commentary",
+      "text": "See Lev. 27.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-ezek-44-30",
       "type": "verse",
       "number": 30,
       "text": "All the choice first fruits of every kind, and all the gifts of every kind—of all your contributions—shall go to the priests. You shall further give the first of the yield of your baking to the priest, that a blessing may rest upon your home."
+    },
+    {
+      "block_id": "jsb-ezek-44-30-commentary-8",
+      "type": "commentary",
+      "text": "See Num. 15.20–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 44,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-ezek-44-31",

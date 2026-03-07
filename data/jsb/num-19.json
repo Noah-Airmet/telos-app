@@ -1,7 +1,7 @@
 {
   "document_id": "num-19",
   "title": "Numbers 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -59,6 +59,19 @@
       "text": "A man who is clean shall gather up the ashes of the cow and deposit them outside the camp in a clean place, to be kept for water of lustration for the Israelite community. It is for purification."
     },
     {
+      "block_id": "jsb-num-19-9-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “water for impurity.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 19,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-num-19-10",
       "type": "verse",
       "number": 10,
@@ -75,6 +88,19 @@
       "type": "verse",
       "number": 12,
       "text": "He shall cleanse himself with it on the third day and on the seventh day, and then be clean; if he fails to cleanse himself on the third and seventh days, he shall not be clean."
+    },
+    {
+      "block_id": "jsb-num-19-12-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the ashes, as in v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 19,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-num-19-13",
@@ -101,10 +127,36 @@
       "text": "And in the open, anyone who touches a person who was killed or who died naturally, or human bone, or a grave, shall be unclean seven days."
     },
     {
+      "block_id": "jsb-num-19-16-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “slain by the sword.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 19,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-num-19-17",
       "type": "verse",
       "number": 17,
       "text": "Some of the ashes from the fire of purification shall be taken for the unclean person, and fresh water shall be added to them in a vessel."
+    },
+    {
+      "block_id": "jsb-num-19-17-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “earth” or “dust.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 19,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-num-19-18",
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "The clean person shall sprinkle it upon the unclean person on the third day and on the seventh day, thus cleansing him by the seventh day. He shall then wash his clothes and bathe in water, and at nightfall he shall be clean."
+    },
+    {
+      "block_id": "jsb-num-19-19-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the person being cleansed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 19,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-num-19-20",

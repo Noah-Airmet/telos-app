@@ -1,7 +1,7 @@
 {
   "document_id": "lev-11",
   "title": "Leviticus 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -31,6 +31,19 @@
       "type": "verse",
       "number": 3,
       "text": "any animal that has true hoofs, with clefts through the hoofs, and that chews the cud—such you may eat."
+    },
+    {
+      "block_id": "jsb-lev-11-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “brings up.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-lev-11-4",
@@ -91,6 +104,19 @@
       "type": "verse",
       "number": 13,
       "text": "The following you shall abominate among the birds—they shall not be eaten, they are an abomination: the eagle, the vulture, and the black vulture;"
+    },
+    {
+      "block_id": "jsb-lev-11-13-commentary-2",
+      "type": "commentary",
+      "text": "A number of these cannot be identified with certainty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-lev-11-14",
@@ -189,6 +215,19 @@
       "text": "The following shall be unclean for you from among the things that swarm on the earth: the mole, the mouse, and great lizards of every variety;"
     },
     {
+      "block_id": "jsb-lev-11-29-commentary-3",
+      "type": "commentary",
+      "text": "A number of these cannot be identified with certainty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-lev-11-30",
       "type": "verse",
       "number": 30,
@@ -217,6 +256,32 @@
       "type": "verse",
       "number": 34,
       "text": "As to any food that may be eaten, it shall become unclean if it came in contact with water; as to any liquid that may be drunk, it shall become unclean if it was inside any vessel."
+    },
+    {
+      "block_id": "jsb-lev-11-34-commentary-4",
+      "type": "commentary",
+      "text": "I.e., if the food then came in contact with the carcass of any animal named in vv. 29–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "jsb-lev-11-34-commentary-5",
+      "type": "commentary",
+      "text": "I.e., a vessel that had become contaminated by such contact.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-lev-11-35",

@@ -1,7 +1,7 @@
 {
   "document_id": "ps-8",
   "title": "Psalms 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,36 @@
       "text": "O Lord, our Lord, How majestic is Your name throughout the earth, You who have covered the heavens with Your splendor!"
     },
     {
+      "block_id": "jsb-ps-8-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; or “You whose splendor is celebrated all over the heavens!”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-8-3",
       "type": "verse",
       "number": 3,
       "text": "From the mouths of infants and sucklings You have founded strength on account of Your foes, to put an end to enemy and avenger."
+    },
+    {
+      "block_id": "jsb-ps-8-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-8-4",
@@ -39,6 +65,19 @@
       "type": "verse",
       "number": 6,
       "text": "that You have made him little less than divine, and adorned him with glory and majesty;"
+    },
+    {
+      "block_id": "jsb-ps-8-6-commentary-3",
+      "type": "commentary",
+      "text": "Or “the angels.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-8-7",

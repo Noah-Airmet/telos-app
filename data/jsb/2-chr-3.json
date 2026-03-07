@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-3",
   "title": "2 Chronicles 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "He began to build on the second day of the second month of the fourth year of his reign."
+    },
+    {
+      "block_id": "jsb-2-chr-3-2-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 2–17, cf. 1 Kings 6; 7.1–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-chr-3-3",
@@ -93,6 +106,19 @@
       "type": "verse",
       "number": 15,
       "text": "At the front of the House he made two columns 35 cubits high; the capitals on top of them were 5 cubits high."
+    },
+    {
+      "block_id": "jsb-2-chr-3-15-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 3,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-2-chr-3-16",

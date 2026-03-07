@@ -1,7 +1,7 @@
 {
   "document_id": "esth-2",
   "title": "Esther 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "When the king’s order and edict was proclaimed, and when many girls were assembled in the fortress Shushan under the supervision of Hegai, Esther too was taken into the king’s palace under the supervision of Hegai, guardian of the women."
+    },
+    {
+      "block_id": "jsb-esth-2-8-commentary-1",
+      "type": "commentary",
+      "text": "Identical with Hege in v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 2,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-esth-2-9",
@@ -113,10 +126,36 @@
       "text": "The king gave a great banquet for all his officials and courtiers, “the banquet of Esther.” He proclaimed a remission of taxes for the provinces and distributed gifts as befits a king."
     },
     {
+      "block_id": "jsb-esth-2-18-commentary-2",
+      "type": "commentary",
+      "text": "Or “an amnesty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 2,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-esth-2-19",
       "type": "verse",
       "number": 19,
       "text": "When the virgins were assembled a second time, Mordecai sat in the palace gate."
+    },
+    {
+      "block_id": "jsb-esth-2-19-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "esth",
+        "chapter": 2,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-esth-2-20",

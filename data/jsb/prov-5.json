@@ -1,7 +1,7 @@
 {
   "document_id": "prov-5",
   "title": "Proverbs 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "For the lips of a forbidden woman drip honey; Her mouth is smoother than oil;"
+    },
+    {
+      "block_id": "jsb-prov-5-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “strange.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 5,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-prov-5-4",
@@ -123,6 +136,19 @@
       "type": "verse",
       "number": 20,
       "text": "Why be infatuated, my son, with a forbidden woman? Why clasp the bosom of an alien woman?"
+    },
+    {
+      "block_id": "jsb-prov-5-20-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “strange.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 5,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-prov-5-21",

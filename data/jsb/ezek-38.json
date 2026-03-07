@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-38",
   "title": "Ezekiel 38",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,10 +41,36 @@
       "text": "Gomer and all its cohorts, Beth-togarmah [in] the remotest parts of the north and all its cohorts—the many peoples with you."
     },
     {
+      "block_id": "jsb-ezek-38-6-commentary-1",
+      "type": "commentary",
+      "text": "I.e., with Gog.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 38,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-38-7",
       "type": "verse",
       "number": 7,
       "text": "Be ready, prepare yourselves, you and all the battalions mustered about you, and hold yourself in reserve for them."
+    },
+    {
+      "block_id": "jsb-ezek-38-7-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint reads “Me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 38,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ezek-38-8",
@@ -89,6 +115,19 @@
       "text": "Therefore prophesy, O mortal, and say to Gog: Thus said the Lord god: Surely, on that day, when My people Israel are living secure, you will take note,"
     },
     {
+      "block_id": "jsb-ezek-38-14-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “rouse yourself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 38,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ezek-38-15",
       "type": "verse",
       "number": 15,
@@ -129,6 +168,19 @@
       "type": "verse",
       "number": 21,
       "text": "I will then summon the sword against him throughout My mountains—declares the Lord god—and every man’s sword shall be turned against his brother."
+    },
+    {
+      "block_id": "jsb-ezek-38-21-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 38,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ezek-38-22",

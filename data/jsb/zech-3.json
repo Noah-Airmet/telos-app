@@ -1,7 +1,7 @@
 {
   "document_id": "zech-3",
   "title": "Zechariah 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "He further showed me Joshua, the high priest, standing before the angel of the Lord, and the Accuser standing at his right to accuse him."
     },
     {
+      "block_id": "jsb-zech-3-1-commentary-1",
+      "type": "commentary",
+      "text": "Others “Satan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-zech-3-2",
       "type": "verse",
       "number": 2,
       "text": "But [the angel of] the Lord said to the Accuser, “The Lord rebuke you, O Accuser; may the Lord who has chosen Jerusalem rebuke you! For this is a brand plucked from the fire.”"
+    },
+    {
+      "block_id": "jsb-zech-3-2-commentary-2",
+      "type": "commentary",
+      "text": "Joshua’s father (Hag. 1.1; 1 Chron. 5.40–41) was exiled and his grandfather executed (2 Kings 25.18–21) by the Babylonians, but Joshua returned.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-zech-3-3",
@@ -35,6 +61,45 @@
       "text": "Then he gave the order, “Let a pure diadem be placed on his head.” And they placed the pure diadem on his head and clothed him in [priestly] garments, as the angel of the Lord stood by."
     },
     {
+      "block_id": "jsb-zech-3-5-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “I.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-zech-3-5-commentary-4",
+      "type": "commentary",
+      "text": "I.e., ritually pure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-zech-3-5-commentary-5",
+      "type": "commentary",
+      "text": "Joshua has now been rendered fit to associate with the heavenly beings (v. 7); cf. Isa. 6.6–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-zech-3-6",
       "type": "verse",
       "number": 6,
@@ -53,10 +118,36 @@
       "text": "Hearken well, O High Priest Joshua, you and your fellow priests sitting before you! For those men are a sign that I am going to bring My servant the Branch."
     },
     {
+      "block_id": "jsb-zech-3-8-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the future king of David’s line. See 6.12; Jer. 23.5–6; 33.15–16; cf. Isa. 11.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-zech-3-9",
       "type": "verse",
       "number": 9,
       "text": "For mark well this stone which I place before Joshua, a single stone with seven eyes. I will execute its engraving—declares the Lord of Hosts—and I will remove that country’s guilt in a single day."
+    },
+    {
+      "block_id": "jsb-zech-3-9-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. The stone apparently symbolizes the God-given power of the future Davidic ruler; see below 4.6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 3,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-zech-3-10",

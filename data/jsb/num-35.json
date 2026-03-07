@@ -1,7 +1,7 @@
 {
   "document_id": "num-35",
   "title": "Numbers 35",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -77,6 +77,19 @@
       "text": "The cities shall serve you as a refuge from the avenger, so that the manslayer may not die unless he has stood trial before the assembly."
     },
     {
+      "block_id": "jsb-num-35-12-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “redeemer,” i.e., next of kin; cf. note at Lev. 25.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 35,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-num-35-13",
       "type": "verse",
       "number": 13,
@@ -105,6 +118,19 @@
       "type": "verse",
       "number": 17,
       "text": "If he struck him with a stone tool that could cause death, and death resulted, he is a murderer; the murderer must be put to death."
+    },
+    {
+      "block_id": "jsb-num-35-17-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “of the hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 35,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-num-35-18",
@@ -141,6 +167,19 @@
       "type": "verse",
       "number": 23,
       "text": "or inadvertently dropped upon him any deadly object of stone, and death resulted—though he was not an enemy of his and did not seek his harm—"
+    },
+    {
+      "block_id": "jsb-num-35-23-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “without seeing.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 35,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-num-35-24",

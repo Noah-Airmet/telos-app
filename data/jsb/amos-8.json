@@ -1,7 +1,7 @@
 {
   "document_id": "amos-8",
   "title": "Amos 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "This is what my Lord god showed me: There was a basket of figs."
     },
     {
+      "block_id": "jsb-amos-8-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. qayiṣ, lit. “summer fruit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-amos-8-2",
       "type": "verse",
       "number": 2,
       "text": "He said, “What do you see, Amos?” “A basket of figs,” I replied. And the Lord said to me: “The hour of doom has come for My people Israel; I will not pardon them again."
+    },
+    {
+      "block_id": "jsb-amos-8-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. qeṣ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-amos-8-3",
@@ -29,10 +55,36 @@
       "text": "Listen to this, you who devour the needy, annihilating the poor of the land,"
     },
     {
+      "block_id": "jsb-amos-8-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “who on every new moon devour the needy, and on every sabbath the humble of the land”; cf. v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-amos-8-5",
       "type": "verse",
       "number": 5,
       "text": "saying, “If only the new moon were over, so that we could sell grain; the sabbath, so that we could offer wheat for sale, using an ephah that is too small, and a shekel that is too big, tilting a dishonest scale,"
+    },
+    {
+      "block_id": "jsb-amos-8-5-commentary-4",
+      "type": "commentary",
+      "text": "Giving short measures of grain, but using oversize weights for the silver received in payment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-amos-8-6",
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 7,
       "text": "The Lord swears by the Pride of Jacob: “I will never forget any of their doings.”"
+    },
+    {
+      "block_id": "jsb-amos-8-7-commentary-5",
+      "type": "commentary",
+      "text": "Or “concerning”; cf. 6.8 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-amos-8-8",
@@ -65,6 +130,32 @@
       "text": "I will turn your festivals into mourning And all your songs into dirges; I will put sackcloth on all loins And tonsures on every head. I will make it mourn as for an only child, All of it as on a bitter day."
     },
     {
+      "block_id": "jsb-amos-8-10-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the earth; cf. vv. 8 and 9d.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-amos-8-10-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “the end.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-amos-8-11",
       "type": "verse",
       "number": 11,
@@ -77,6 +168,19 @@
       "text": "Men shall wander from sea to sea and from north to east to seek the word of the Lord, but they shall not find it."
     },
     {
+      "block_id": "jsb-amos-8-12-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “south to west.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-amos-8-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +191,32 @@
       "type": "verse",
       "number": 14,
       "text": "Those who swear by the guilt of Samaria, Saying, “As your god lives, Dan,” And “As the way to Beer-sheba lives”— They shall fall to rise no more."
+    },
+    {
+      "block_id": "jsb-amos-8-14-commentary-9",
+      "type": "commentary",
+      "text": "See 1 Kings 12.28–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-amos-8-14-commentary-10",
+      "type": "commentary",
+      "text": "See 5.5 with note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "amos",
+        "chapter": 8,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     }
   ]
 }

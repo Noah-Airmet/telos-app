@@ -1,7 +1,7 @@
 {
   "document_id": "mal-3",
   "title": "Malachi 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Behold, I am sending My messenger to clear the way before Me, and the Lord whom you seek shall come to His Temple suddenly. As for the angel of the covenant that you desire, he is already coming."
+    },
+    {
+      "block_id": "jsb-mal-3-1-commentary-1",
+      "type": "commentary",
+      "text": "Apparently the messenger of the previous sentence is regarded as Israel’s tutelary angel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-mal-3-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "He shall act like a smelter and purger of silver; and he shall purify the descendants of Levi and refine them like gold and silver, so that they shall present offerings in righteousness."
+    },
+    {
+      "block_id": "jsb-mal-3-3-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “sit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-mal-3-4",
@@ -41,6 +67,19 @@
       "text": "For I am the Lord—I have not changed; and you are the children of Jacob—you have not ceased to be."
     },
     {
+      "block_id": "jsb-mal-3-6-commentary-3",
+      "type": "commentary",
+      "text": "Vv. 6–12 resume the thought of 1.2–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-mal-3-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +90,32 @@
       "type": "verse",
       "number": 8,
       "text": "Ought man to defraud God? Yet you are defrauding Me. And you ask, “How have we been defrauding You?” In tithe and contribution."
+    },
+    {
+      "block_id": "jsb-mal-3-8-commentary-4",
+      "type": "commentary",
+      "text": "Heb. qabaʿ, a play on the name of Jacob (v. 6); cf. Gen. 27.36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-mal-3-8-commentary-5",
+      "type": "commentary",
+      "text": "I.e., the contributions to the priests from the new grain, oil, and wine; see Num. 18.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-mal-3-9",
@@ -65,10 +130,36 @@
       "text": "Bring the full tithe into the storehouse, and let there be food in My House, and thus put Me to the test—said the Lord of Hosts. I will surely open the floodgates of the sky for you and pour down blessings on you;"
     },
     {
+      "block_id": "jsb-mal-3-10-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the public storehouse; see Neh. 13.10–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-mal-3-11",
       "type": "verse",
       "number": 11,
       "text": "and I will banish the locusts from you, so that they will not destroy the yield of your soil; and your vines in the field shall no longer miscarry—said the Lord of Hosts."
+    },
+    {
+      "block_id": "jsb-mal-3-11-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “devourer.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-mal-3-12",
@@ -125,6 +216,19 @@
       "text": "But for you who revere My name a sun of victory shall rise to bring healing. You shall go forth and stamp like stall-fed calves,"
     },
     {
+      "block_id": "jsb-mal-3-20-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “with healing in the folds of its garments”; others “with healing in its wings.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-mal-3-21",
       "type": "verse",
       "number": 21,
@@ -146,7 +250,7 @@
       "block_id": "jsb-mal-3-24",
       "type": "verse",
       "number": 24,
-      "text": "He shall reconcile parents with children and children with their parents, so that, when I come, I do not strike the whole land with utter destruction. Lo, I will send the prophet Elijah to you before the coming of the awesome, fearful day of the Lord. 1.1: Superscription. The book has a double title, a (prophetic) pronouncement and the word of the Lord. It is addressed to Israel, meaning here Israel as a people with a particular relation to the Lord (see, e.g., 2.16), a particular history, and a particular obligation to follow the Torah of Moses (cf. 3.22) and to worship in Jerusalem. This conception of Israel is especially associated with the Persian period Yehud (or Judah), and it assumes a partial overlap between the concepts of “Israel” and “Judah” (a more geographico-political term). Thus references to Judah in 2.11 and 3.4 are identical with Israel in 1.1. The ancient readers of the book in ancient Yehud most likely identified themselves with both Judah and Israel. 1.2–5: The Lord loves Jacob. This section is meant to persuade or remind the readers of the Lord’s special relationship with them. This is shown in the divine preference of Jacob over Esau. Esau stands both for Edom and for all the other nations. The contrast between the fates of the siblings (Esau/Edom and Jacob/Israel) is a central motif in the book of Obad. (On the later identifications of Esau/Edom, see nn. on Obad.) In the book of Mal., however, the issue is not central; rather it is used for rhetorical purposes within an argument developed against a particular group in Israel. The central point is that Israel is beloved, even if certain of its members are acting improperly. 1.6–14: Improper cultic practices at the Temple. 6–8: The logic of the argument is that if an animal cannot be offered to a provincial governor without risking punishment, it is certainly not a suitable offering for the King of Kings (cf. vv. 13–14). From the Lord’s perspective, the fact that these offerings are still brought demonstrates the priests’ disrespect for, and lack of fear of, the Lord, as proven by the validity of the previous statement of the Lord, O priests who scorn My name (v. 6). Several laws in the Bible state that blemished animals were not acceptable for sacrifice (e.g., Exod. 12.5; 29.1; Lev. 1.3, 10; 3.1; 22.22, passim). 10: The first sentence may be translated as, “Oh, that someone among you would shut the temple doors, so that you would not kindle fire on my altar in vain” (NRSV). Yhvh prefers no sacrifices at all, and even the closing of the Temple, over the improper situation described in these vv. 14: [Unblemished] male: Blemished animals, which were not fit for sacrifice (cf. Lev. 1.3), were offered even by those who had unblemished animals. The main opposition is not between female and male offerings, but between blemished and unblemished male animals. In Israel, as in other agrarian societies, the most common sacrifice was that of a male animal; female sacrifices were rarer and more expensive, since each female is potentially a separate breeding animal. 2.1–9: The improper behavior of the priest. The readers overhear, as it were, the Lord’s speech to the priests as reported in these vv. The speech reminds the readers of the importance of the rulings/torah/teachings of the priests (cf. Hag. 2.10–13), and of their role as “the Lord’s messengers” (see v. 7 and notice the pun on the name Malachi, “My messenger”). To be sure, unless the priests perform their duty as the Lord expects them to, there cannot be proper worship, with all the consequences that this might entail. 4: Cf. 2.8; Neh. 13.29. 5: Life and well-being (life and peace), cf. Prov. 3.2. Are the famous “Vulcan salutes” a late reflection of this text? 7: The priest is the messenger of Yhvh. Usually prophets are the messengers of Yhvh. Since both communicate divine instructions, both can be characterized as “messengers of Yhvh.” Cf. the association of “the word of the Lord” and “torah” (“instruction”) in Isa. 2.3; Mic. 4.2. Conversely, the prophets were imagined as teachers of Torah (e.g., Moses, the prophet par excellence). Later in rabbinic Judaism the prophets are forerunners of the Torah Sages and the three “last prophets” were members of the Great Assembly. 9: Show partiality in your rulings seems to point to the priests’ acceptance of unacceptable offerings brought by powerful members of society (e.g., Radak; cf. Prov. 18.5); this refers back to 1.8. (The Heb idiom translated as “show … favor” in 1.8 is the same as show partiality here.) The point of the v. is that the priests’ privileged status is conditional and can be overturned. 2.10–16: On marriage. The improper behavior of (male) Israel. This passage condemns male Judah because of intermarriage and because they “acted treacherously” against their Judahite wives. It concludes with another reported speech of the Lord (v. 6) supporting the message conveyed by the preceding vv. Scholars have debated whether the language of intermarriage should be taken literally or symbolically, as a reference to idolatry. The majority of scholars support the first alternative, but the text may have more than one level of meaning. 10–11: Have we not all one Father? Did not one God create us? These words have been used numerous times to point to the unity (or, brotherhood or siblinghood) of all humanity (see b. Taʿan. 18a) and to advance ethical claims about the treatment of different groups on that basis. Within Mal., however, these expressions carry a different meaning. Because we equals Israel, which in turn was identified with Persian Yehud (see intro.), they refer to inner Israelite responsibilities to “keep faith” with one another and to honor the covenant of their fathers. If this understanding of the text is accepted, then the term Father has two meanings: (1) the Lord as father of Israel; and (2) the patriarchs of Israel, and esp. Jacob (e.g., Ibn Ezra). The first meaning relates this v. to other sections in Mal. in which the Lord is characterized as father. The second meaning emphasizes the border between Israel and the nations, which is an important issue in the unit, and directly links the reference to the ancestral fathers at the conclusion of the v. (and perhaps even alludes to the reference to Jacob and Esau in 1.2–3). (The use of the capital “F” for Father, indicating the deity, is a translational and interpretative choice; Heb does not mark a distinction between common and proper nouns in these cases.) There is an alternative tradition of reading these expressions within their context in the book of Mal. Within this tradition Have we not all one Father? Did not one God create us? actually points at the unity of humanity, but it is said by the (sinful) Judahites to justify their actions. To them, the prophetic voice in the text answers, Judah has broken faith. (It is also possible to understand father as referring to Adam.) The expression translated break faith with one another may also be translated “act treacherously, a man to his brother.” If the latter translation is followed, then v. 11 should be translated, “Judah has acted treacherously.” The text clearly conveys to the readers that marrying daughters of alien gods (i.e., foreign women) is tantamount to profaning what is holy to the Lord and committing abominations; Judah acting treacherously is the equivalent of a Judahite man breaking faith with his brothers. Thus, within the book intermarriage is presented here not only as a husband-wife affair, but as a brother-brother affair, and a son-patriarch affair (since the latter’s covenant is breached), and a matter between Israel and the Lord, with grave cultic and covenantal implications (see vv. 12–13). The precise language chosen to describe the women, namely not as “foreign women” but rather as daughters of alien gods, is rhetorically significant. 13–16: Judahite men failed on another account. They “have acted treacherously” against (or broken faith with) their Judahite wives whom they married in their youth. Their actions not only caused great pain to these women, but also involved covenant breaking, and as such they carried grave cultic implications: The Lord rejected the offerings of those Judahites and of Judah. The sentence translated I detest [or “hate”] divorce—said the Lord, the God of Israel has attracted much attention in the last decades. The Heb is difficult. Moreover, a text of the v. in a Dead Sea Scrolls ms may be translated “But if you hate [your wife] divorce [her]!” (4Q12). Significantly, this is also the way in which the Tg., the Vg, and (likely) the LXX understood the v. (cf. b. Git. 80b). This reading is consistent with the liberal attitude toward divorce of the House of Hillel and R. Akiva (m. Git. 9.10); cf. Deut. 24.1–2; Sir. 25.26. Even if the MT version of the v. represents the original text, different interpretations and versions of it already existed in ancient times. Controversies about its meaning are also well attested in medieval times. 2.17–3.21: The coming day: judgment for the doers of evil and a “sun of righteousness” for those who revere the Lord’s name. Although there is some debate about the scope of the different units included in these vv., it is clear that they address issues such as theodicy, a response to those who claim that the Lord is either unjust or unable to provide justice in this world, strong affirmations of a great day of judgment to come, a reference to a long history of Israel turning away from the Lord, and calls for repentance. As a whole, the emphasis on the future, and the general tone of hope, sets ch 3 apart from the previous chs in Malachi. Mal. 3.6–12, however, is closely related to 1.2–5. 2.17: Despite the present division according to chs, the v. is to be read as directly linked to the following vv. The scribal tradition of the MT has a break after 2.16 reflected in the paragraph division in NJPS. 3.1–2: Cf. Isa. 40.3. Much of the discussion on the “messianic” tone of Mal. centers on 3.23 and this v. The identity of the messenger in 3.13.1 has been highly debated. Is My messenger (Heb “malakhi”) Malachi? Or is there at least a pun on the name of the prophet? Is the messenger the angel of the covenant, a zealous, powerful enforcer of the covenant who is like a smelter’s fire and like fuller’s lye (i.e., a purifying, caustic treatment)? Is he Elijah (see v. 23)? Or is Elijah the angel of the covenant? Does the text indicate an expectation of a priestly Messiah? There is a very long history of interpretation on this v., with multiple meanings already in antiquity. The New Testament merges this v. with Isa. 40.3 and identifies the expected messenger as John the Baptist (Matt. 11.10; Mark 1.2; Luke 7.27). Moreover, it is uncertain what “covenant” means in this context—does it refer to a specific earlier covenant, or does it refer to the “covenanted people,” that is, to Israel (cf. also Dan. 11.22, 28, 30)? 4: See intro. 8–9: The repeated use of terms translated as defraud and the like (Heb “kabaʿ”) is a pun on the name Jacob (“Yaʿakob”) and its negative connotations (cf. Gen. 27.36; Jer. 9.3; Hos. 12.4). See translators’ note b. 10: Cf. Neh. 13.10–11; Dan. 1.2. 16: This scroll of remembrance is found elsewhere in the Bible (e.g., Exod. 32.32); it is a Mesopotamian concept that becomes especially developed in the idea of the book of life associated with the Jewish high holiday liturgy. 19–24: In most English translations these vv. appear as Mal. 4.1–6. 20: A sun of victory, lit. and in most translations, “a sun of righteousness.” To bring healing, lit. and in most translations, “with healing in its wings.” The background of the imagery is mythological. The rising of “a sun of righteousness” is a metaphor for the dawn of a new “day,” i.e., era of history. 22–24: At its conclusion, Mal. asserts the dominance of Mosaic Torah over the prophetic tradition. See intro. to Mal. and intro. to the Twelve. 23: Since Elijah did not die, but ascended to heaven (2 Kings 2.11), he can return. There is a long tradition of interpretation of this v. expanding on the role of Elijah, the herald of the messianic era; see, e.g., b. Shab. 118a; b. ʿEruv. 43b; y. Shab. 1.3 and the Passover Haggadah. The awesome, fearful day of the Lord is associated with the “travails of the messiah” in b. Shab. 118a; Mishneh Torah, Kings 12.3. It is traditional in Jewish liturgy to repeat v. 23 after v. 24 (written in a smaller font in NJPS) so as to conclude the public reading on a strong, hopeful note, rather than the threat of destruction in the final phrase of v. 24. (The same holds true for the conclusion of Isa., Lam., and Eccl.) 24: The connection between intergenerational reconciliation and Elijah is enigmatic. Meaning of Heb. uncertain. Septuagint and Targum add “should reverence”; cf. next part of verse. Septuagint “it.” Meaning of Heb. uncertain. Meaning of Heb. uncertain. See Hag. 2.10–13; cf. Lev. 10.8–11, Deut. 33.8, 10. Or: For the lips of a priest are observed; / Knowledge and ruling are sought from his mouth. By ruling falsely that an act was licit or an object ritually pure. Meaning of Heb. uncertain. Lit. “a second time”; Septuagint reads “which I detest”; cf. v. 16. Lit. “from your hand.” Meaning of Heb. uncertain. Apparently the messenger of the previous sentence is regarded as Israel’s tutelary angel. Lit. “sit.” Vv. 6–12 resume the thought of 1.2–5. Heb. qabaʿ, a play on the name of Jacob (v. 6); cf. Gen. 27.36. I.e., the contributions to the priests from the new grain, oil, and wine; see Num. 18.12. I.e., the public storehouse; see Neh. 13.10–13. Lit. “devourer.” Lit. “with healing in the folds of its garments”; others “with healing in its wings.”"
+      "text": "He shall reconcile parents with children and children with their parents, so that, when I come, I do not strike the whole land with utter destruction. Lo, I will send the prophet Elijah to you before the coming of the awesome, fearful day of the Lord. 1.1: Superscription. The book has a double title, a (prophetic) pronouncement and the word of the Lord. It is addressed to Israel, meaning here Israel as a people with a particular relation to the Lord (see, e.g., 2.16), a particular history, and a particular obligation to follow the Torah of Moses (cf. 3.22) and to worship in Jerusalem. This conception of Israel is especially associated with the Persian period Yehud (or Judah), and it assumes a partial overlap between the concepts of “Israel” and “Judah” (a more geographico-political term). Thus references to Judah in 2.11 and 3.4 are identical with Israel in 1.1. The ancient readers of the book in ancient Yehud most likely identified themselves with both Judah and Israel. 1.2–5: The Lord loves Jacob. This section is meant to persuade or remind the readers of the Lord’s special relationship with them. This is shown in the divine preference of Jacob over Esau. Esau stands both for Edom and for all the other nations. The contrast between the fates of the siblings (Esau/Edom and Jacob/Israel) is a central motif in the book of Obad. (On the later identifications of Esau/Edom, see nn. on Obad.) In the book of Mal., however, the issue is not central; rather it is used for rhetorical purposes within an argument developed against a particular group in Israel. The central point is that Israel is beloved, even if certain of its members are acting improperly. 1.6–14: Improper cultic practices at the Temple. 6–8: The logic of the argument is that if an animal cannot be offered to a provincial governor without risking punishment, it is certainly not a suitable offering for the King of Kings (cf. vv. 13–14). From the Lord’s perspective, the fact that these offerings are still brought demonstrates the priests’ disrespect for, and lack of fear of, the Lord, as proven by the validity of the previous statement of the Lord, O priests who scorn My name (v. 6). Several laws in the Bible state that blemished animals were not acceptable for sacrifice (e.g., Exod. 12.5; 29.1; Lev. 1.3, 10; 3.1; 22.22, passim). 10: The first sentence may be translated as, “Oh, that someone among you would shut the temple doors, so that you would not kindle fire on my altar in vain” (NRSV). Yhvh prefers no sacrifices at all, and even the closing of the Temple, over the improper situation described in these vv. 14: [Unblemished] male: Blemished animals, which were not fit for sacrifice (cf. Lev. 1.3), were offered even by those who had unblemished animals. The main opposition is not between female and male offerings, but between blemished and unblemished male animals. In Israel, as in other agrarian societies, the most common sacrifice was that of a male animal; female sacrifices were rarer and more expensive, since each female is potentially a separate breeding animal. 2.1–9: The improper behavior of the priest. The readers overhear, as it were, the Lord’s speech to the priests as reported in these vv. The speech reminds the readers of the importance of the rulings/torah/teachings of the priests (cf. Hag. 2.10–13), and of their role as “the Lord’s messengers” (see v. 7 and notice the pun on the name Malachi, “My messenger”). To be sure, unless the priests perform their duty as the Lord expects them to, there cannot be proper worship, with all the consequences that this might entail. 4: Cf. 2.8; Neh. 13.29. 5: Life and well-being (life and peace), cf. Prov. 3.2. Are the famous “Vulcan salutes” a late reflection of this text? 7: The priest is the messenger of Yhvh. Usually prophets are the messengers of Yhvh. Since both communicate divine instructions, both can be characterized as “messengers of Yhvh.” Cf. the association of “the word of the Lord” and “torah” (“instruction”) in Isa. 2.3; Mic. 4.2. Conversely, the prophets were imagined as teachers of Torah (e.g., Moses, the prophet par excellence). Later in rabbinic Judaism the prophets are forerunners of the Torah Sages and the three “last prophets” were members of the Great Assembly. 9: Show partiality in your rulings seems to point to the priests’ acceptance of unacceptable offerings brought by powerful members of society (e.g., Radak; cf. Prov. 18.5); this refers back to 1.8. (The Heb idiom translated as “show … favor” in 1.8 is the same as show partiality here.) The point of the v. is that the priests’ privileged status is conditional and can be overturned. 2.10–16: On marriage. The improper behavior of (male) Israel. This passage condemns male Judah because of intermarriage and because they “acted treacherously” against their Judahite wives. It concludes with another reported speech of the Lord (v. 6) supporting the message conveyed by the preceding vv. Scholars have debated whether the language of intermarriage should be taken literally or symbolically, as a reference to idolatry. The majority of scholars support the first alternative, but the text may have more than one level of meaning. 10–11: Have we not all one Father? Did not one God create us? These words have been used numerous times to point to the unity (or, brotherhood or siblinghood) of all humanity (see b. Taʿan. 18a) and to advance ethical claims about the treatment of different groups on that basis. Within Mal., however, these expressions carry a different meaning. Because we equals Israel, which in turn was identified with Persian Yehud (see intro.), they refer to inner Israelite responsibilities to “keep faith” with one another and to honor the covenant of their fathers. If this understanding of the text is accepted, then the term Father has two meanings: (1) the Lord as father of Israel; and (2) the patriarchs of Israel, and esp. Jacob (e.g., Ibn Ezra). The first meaning relates this v. to other sections in Mal. in which the Lord is characterized as father. The second meaning emphasizes the border between Israel and the nations, which is an important issue in the unit, and directly links the reference to the ancestral fathers at the conclusion of the v. (and perhaps even alludes to the reference to Jacob and Esau in 1.2–3). (The use of the capital “F” for Father, indicating the deity, is a translational and interpretative choice; Heb does not mark a distinction between common and proper nouns in these cases.) There is an alternative tradition of reading these expressions within their context in the book of Mal. Within this tradition Have we not all one Father? Did not one God create us? actually points at the unity of humanity, but it is said by the (sinful) Judahites to justify their actions. To them, the prophetic voice in the text answers, Judah has broken faith. (It is also possible to understand father as referring to Adam.) The expression translated break faith with one another may also be translated “act treacherously, a man to his brother.” If the latter translation is followed, then v. 11 should be translated, “Judah has acted treacherously.” The text clearly conveys to the readers that marrying daughters of alien gods (i.e., foreign women) is tantamount to profaning what is holy to the Lord and committing abominations; Judah acting treacherously is the equivalent of a Judahite man breaking faith with his brothers. Thus, within the book intermarriage is presented here not only as a husband-wife affair, but as a brother-brother affair, and a son-patriarch affair (since the latter’s covenant is breached), and a matter between Israel and the Lord, with grave cultic and covenantal implications (see vv. 12–13). The precise language chosen to describe the women, namely not as “foreign women” but rather as daughters of alien gods, is rhetorically significant. 13–16: Judahite men failed on another account. They “have acted treacherously” against (or broken faith with) their Judahite wives whom they married in their youth. Their actions not only caused great pain to these women, but also involved covenant breaking, and as such they carried grave cultic implications: The Lord rejected the offerings of those Judahites and of Judah. The sentence translated I detest [or “hate”] divorce—said the Lord, the God of Israel has attracted much attention in the last decades. The Heb is difficult. Moreover, a text of the v. in a Dead Sea Scrolls ms may be translated “But if you hate [your wife] divorce [her]!” (4Q12). Significantly, this is also the way in which the Tg., the Vg, and (likely) the LXX understood the v. (cf. b. Git. 80b). This reading is consistent with the liberal attitude toward divorce of the House of Hillel and R. Akiva (m. Git. 9.10); cf. Deut. 24.1–2; Sir. 25.26. Even if the MT version of the v. represents the original text, different interpretations and versions of it already existed in ancient times. Controversies about its meaning are also well attested in medieval times. 2.17–3.21: The coming day: judgment for the doers of evil and a “sun of righteousness” for those who revere the Lord’s name. Although there is some debate about the scope of the different units included in these vv., it is clear that they address issues such as theodicy, a response to those who claim that the Lord is either unjust or unable to provide justice in this world, strong affirmations of a great day of judgment to come, a reference to a long history of Israel turning away from the Lord, and calls for repentance. As a whole, the emphasis on the future, and the general tone of hope, sets ch 3 apart from the previous chs in Malachi. Mal. 3.6–12, however, is closely related to 1.2–5. 2.17: Despite the present division according to chs, the v. is to be read as directly linked to the following vv. The scribal tradition of the MT has a break after 2.16 reflected in the paragraph division in NJPS. 3.1–2: Cf. Isa. 40.3. Much of the discussion on the “messianic” tone of Mal. centers on 3.23 and this v. The identity of the messenger in 3.13.1 has been highly debated. Is My messenger (Heb “malakhi”) Malachi? Or is there at least a pun on the name of the prophet? Is the messenger the angel of the covenant, a zealous, powerful enforcer of the covenant who is like a smelter’s fire and like fuller’s lye (i.e., a purifying, caustic treatment)? Is he Elijah (see v. 23)? Or is Elijah the angel of the covenant? Does the text indicate an expectation of a priestly Messiah? There is a very long history of interpretation on this v., with multiple meanings already in antiquity. The New Testament merges this v. with Isa. 40.3 and identifies the expected messenger as John the Baptist (Matt. 11.10; Mark 1.2; Luke 7.27). Moreover, it is uncertain what “covenant” means in this context—does it refer to a specific earlier covenant, or does it refer to the “covenanted people,” that is, to Israel (cf. also Dan. 11.22, 28, 30)? 4: See intro. 8–9: The repeated use of terms translated as defraud and the like (Heb “kabaʿ”) is a pun on the name Jacob (“Yaʿakob”) and its negative connotations (cf. Gen. 27.36; Jer. 9.3; Hos. 12.4). See translators’ note b. 10: Cf. Neh. 13.10–11; Dan. 1.2. 16: This scroll of remembrance is found elsewhere in the Bible (e.g., Exod. 32.32); it is a Mesopotamian concept that becomes especially developed in the idea of the book of life associated with the Jewish high holiday liturgy. 19–24: In most English translations these vv. appear as Mal. 4.1–6. 20: A sun of victory, lit. and in most translations, “a sun of righteousness.” To bring healing, lit. and in most translations, “with healing in its wings.” The background of the imagery is mythological. The rising of “a sun of righteousness” is a metaphor for the dawn of a new “day,” i.e., era of history. 22–24: At its conclusion, Mal. asserts the dominance of Mosaic Torah over the prophetic tradition. See intro. to Mal. and intro. to the Twelve. 23: Since Elijah did not die, but ascended to heaven (2 Kings 2.11), he can return. There is a long tradition of interpretation of this v. expanding on the role of Elijah, the herald of the messianic era; see, e.g., b. Shab. 118a; b. ʿEruv. 43b; y. Shab. 1.3 and the Passover Haggadah. The awesome, fearful day of the Lord is associated with the “travails of the messiah” in b. Shab. 118a; Mishneh Torah, Kings 12.3. It is traditional in Jewish liturgy to repeat v. 23 after v. 24 (written in a smaller font in NJPS) so as to conclude the public reading on a strong, hopeful note, rather than the threat of destruction in the final phrase of v. 24. (The same holds true for the conclusion of Isa., Lam., and Eccl.) 24: The connection between intergenerational reconciliation and Elijah is enigmatic."
     }
   ]
 }

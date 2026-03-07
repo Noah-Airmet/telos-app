@@ -1,7 +1,7 @@
 {
   "document_id": "prov-22",
   "title": "Proverbs 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -83,10 +83,36 @@
       "text": "The lazy man says, ­“There’s a lion in the street; I shall be killed if I step outside.”"
     },
     {
+      "block_id": "jsb-prov-22-13-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “in the square.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 22,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-prov-22-14",
       "type": "verse",
       "number": 14,
       "text": "The mouth of a forbidden woman is a deep pit; He who is doomed by the Lord falls into it."
+    },
+    {
+      "block_id": "jsb-prov-22-14-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “strange.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 22,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-prov-22-15",
@@ -123,6 +149,19 @@
       "type": "verse",
       "number": 20,
       "text": "Indeed, I wrote down for you a threefold lore, Wise counsel,"
+    },
+    {
+      "block_id": "jsb-prov-22-20-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 22,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-prov-22-21",
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "See a man skilled at his work— He shall attend upon kings; He shall not attend upon obscure men."
+    },
+    {
+      "block_id": "jsb-prov-22-29-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 22,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     }
   ]
 }

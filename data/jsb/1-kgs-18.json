@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-18",
   "title": "1 Kings 18",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Much later, in the third year, the word of the Lord came to Elijah: “Go, appear before Ahab; then I will send rain upon the earth.”"
+    },
+    {
+      "block_id": "jsb-1-kgs-18-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., of the drought; see 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-kgs-18-2",
@@ -119,6 +132,19 @@
       "text": "Now summon all Israel to join me at Mount Carmel, together with the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah, who eat at Jezebel’s table.”"
     },
     {
+      "block_id": "jsb-1-kgs-18-19-commentary-2",
+      "type": "commentary",
+      "text": "I.e., who are maintained by Jezebel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-kgs-18-20",
       "type": "verse",
       "number": 20,
@@ -129,6 +155,19 @@
       "type": "verse",
       "number": 21,
       "text": "Elijah approached all the people and said, “How long will you keep hopping between two opinions? If the Lord is God, follow Him; and if Baal, follow him!” But the people answered him not a word."
+    },
+    {
+      "block_id": "jsb-1-kgs-18-21-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “on the two boughs.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-1-kgs-18-22",
@@ -149,6 +188,19 @@
       "text": "You will then invoke your god by name, and I will invoke the Lord by name; and let us agree: the god who responds with fire, that one is God.” And all the people answered, “Very good!”"
     },
     {
+      "block_id": "jsb-1-kgs-18-24-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “and it shall be.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-1-kgs-18-25",
       "type": "verse",
       "number": 25,
@@ -167,6 +219,19 @@
       "text": "When noon came, Elijah mocked them, saying, “Shout louder! After all, he is a god. But he may be in conversation, he may be detained, or he may be on a journey, or perhaps he is asleep and will wake up.”"
     },
     {
+      "block_id": "jsb-1-kgs-18-27-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-1-kgs-18-28",
       "type": "verse",
       "number": 28,
@@ -177,6 +242,19 @@
       "type": "verse",
       "number": 29,
       "text": "When noon passed, they kept raving until the hour of presenting the meal offering. Still there was no sound, and none who responded or heeded."
+    },
+    {
+      "block_id": "jsb-1-kgs-18-29-commentary-6",
+      "type": "commentary",
+      "text": "Others “prophesied”; see Num. 11.25–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-1-kgs-18-30",
@@ -191,10 +269,36 @@
       "text": "Then Elijah took twelve stones, corresponding to the number of the tribes of the sons of Jacob—to whom the word of the Lord had come: “Israel shall be your name”—"
     },
     {
+      "block_id": "jsb-1-kgs-18-31-commentary-7",
+      "type": "commentary",
+      "text": "See Gen. 35.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
       "block_id": "jsb-1-kgs-18-32",
       "type": "verse",
       "number": 32,
       "text": "and with the stones he built an altar in the name of the Lord. Around the altar he made a trench large enough for two seahs of seed."
+    },
+    {
+      "block_id": "jsb-1-kgs-18-32-commentary-8",
+      "type": "commentary",
+      "text": "I.e., of an area which would require two seahs of seed if sown. Cf. Lev. 27.16; Isa. 5.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-1-kgs-18-33",
@@ -279,6 +383,19 @@
       "type": "verse",
       "number": 46,
       "text": "The hand of the Lord had come upon Elijah. He tied up his skirts and ran in front of Ahab all the way to Jezreel."
+    },
+    {
+      "block_id": "jsb-1-kgs-18-46-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “He bound up his loins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 18,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
     }
   ]
 }

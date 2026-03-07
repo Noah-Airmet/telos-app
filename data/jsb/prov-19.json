@@ -1,7 +1,7 @@
 {
   "document_id": "prov-19",
   "title": "Proverbs 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,19 @@
       "type": "verse",
       "number": 7,
       "text": "All the brothers of a poor man despise him; How much more is he shunned by his friends! He who pursues words—they are of no avail."
+    },
+    {
+      "block_id": "jsb-prov-19-7-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 19,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-prov-19-8",
@@ -113,10 +126,49 @@
       "text": "Discipline your son while there is still hope, And do not set your heart on his destruction."
     },
     {
+      "block_id": "jsb-prov-19-18-commentary-2",
+      "type": "commentary",
+      "text": "Or “But.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-prov-19-18-commentary-3",
+      "type": "commentary",
+      "text": "Or “pay attention to his moaning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-prov-19-19",
       "type": "verse",
       "number": 19,
       "text": "A hot-­tempered man incurs punishment; If you try to save him you will only make it worse."
+    },
+    {
+      "block_id": "jsb-prov-19-19-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 19,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-prov-19-20",

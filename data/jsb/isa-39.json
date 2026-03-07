@@ -1,7 +1,7 @@
 {
   "document_id": "isa-39",
   "title": "Isaiah 39",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "Hezekiah declared to Isaiah, “The word of the Lord that you have spoken is good.” For he thought, “It means that safety is assured for my time.”"
+    },
+    {
+      "block_id": "jsb-isa-39-8-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “there shall be safety and faithfulness in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 39,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     }
   ]
 }

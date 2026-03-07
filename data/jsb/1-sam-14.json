@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-14",
   "title": "1 Samuel 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "Now Saul was staying on the outskirts of Gibeah, under the pomegranate tree at Migron, and the troops with him numbered about 600."
     },
     {
+      "block_id": "jsb-1-sam-14-2-commentary-1",
+      "type": "commentary",
+      "text": "See note f at 13.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-1-sam-14-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "At the crossing by which Jonathan sought to reach the Philistine garrison, there was a rocky crag on one side, and another rocky crag on the other, the one called Bozez and the other Seneh."
+    },
+    {
+      "block_id": "jsb-1-sam-14-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-sam-14-5",
@@ -45,6 +71,32 @@
       "type": "verse",
       "number": 7,
       "text": "His arms-bearer answered him, “Do whatever you like. You go first, I am with you, whatever you decide.”"
+    },
+    {
+      "block_id": "jsb-1-sam-14-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “is in your heart. Incline yourself.” Septuagint reads “your heart inclines to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-1-sam-14-7-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “with you, according to your heart.” Septuagint reads “with you; my heart is like your heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-sam-14-8",
@@ -89,6 +141,19 @@
       "text": "The initial attack that Jonathan and his arms-bearer made accounted for some twenty men, within a space about half a furrow long [in] an acre of land."
     },
     {
+      "block_id": "jsb-1-sam-14-14-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-1-sam-14-15",
       "type": "verse",
       "number": 15,
@@ -101,6 +166,19 @@
       "text": "Saul’s scouts in Gibeah of Benjamin saw that the multitude was scattering in all directions."
     },
     {
+      "block_id": "jsb-1-sam-14-16-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “shaken and going thither.” Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-1-sam-14-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +189,32 @@
       "type": "verse",
       "number": 18,
       "text": "Thereupon Saul said to Ahijah, “Bring the Ark of God here”; for the Ark of God was at the time among the Israelites."
+    },
+    {
+      "block_id": "jsb-1-sam-14-18-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint reads “ephod,” and cf. vv. 3, 23.9, 30.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-1-sam-14-18-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “and.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-1-sam-14-19",
@@ -149,16 +253,68 @@
       "text": "The men of Israel were distressed that day. For Saul had laid an oath upon the troops: “Cursed be the man who eats any food before night falls and I take revenge on my enemies.” So none of the troops ate anything."
     },
     {
+      "block_id": "jsb-1-sam-14-24-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “And all the troops, about 10,000 men, were with Saul; and the battle spread into the hill country of Ephraim. Now Saul committed a rash act.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-1-sam-14-25",
       "type": "verse",
       "number": 25,
       "text": "Everybody came to a stack of beehives where some honey had spilled on the ground."
     },
     {
+      "block_id": "jsb-1-sam-14-25-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. Song of Songs 5.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-1-sam-14-26",
       "type": "verse",
       "number": 26,
       "text": "When the troops came to the beehives and found the flow of honey there, no one put his hand to his mouth, for the troops feared the oath."
+    },
+    {
+      "block_id": "jsb-1-sam-14-26-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. Song of Songs 5.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "jsb-1-sam-14-26-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-1-sam-14-27",
@@ -197,16 +353,55 @@
       "text": "The troops pounced on the spoil; they took the sheep and cows and calves and slaughtered them on the ground, and the troops ate with the blood."
     },
     {
+      "block_id": "jsb-1-sam-14-32-commentary-13",
+      "type": "commentary",
+      "text": "I.e., without the proper rites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-1-sam-14-33",
       "type": "verse",
       "number": 33,
       "text": "When it was reported to Saul that the troops were sinning against the Lord, eating with the blood, he said, “You have acted faithlessly. Roll a large stone over to me today.”"
     },
     {
+      "block_id": "jsb-1-sam-14-33-commentary-14",
+      "type": "commentary",
+      "text": "Septuagint reads “here.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
       "block_id": "jsb-1-sam-14-34",
       "type": "verse",
       "number": 34,
       "text": "And Saul ordered, “Spread out among the troops and tell them that everyone must bring me his ox or his sheep and slaughter it here, and then eat. You must not sin against the Lord and eat with the blood.” Every one of the troops brought his own ox with him that night and slaughtered it there."
+    },
+    {
+      "block_id": "jsb-1-sam-14-34-commentary-15",
+      "type": "commentary",
+      "text": "Septuagint reads “whatever he had in his possession.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-1-sam-14-35",
@@ -251,6 +446,19 @@
       "text": "Saul then said to the Lord, the God of Israel, “Show Thammim.” Jonathan and Saul were indicated by lot, and the troops were cleared."
     },
     {
+      "block_id": "jsb-1-sam-14-41-commentary-16",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “Why have You not responded to Your servant today? If this iniquity was due to my son Jonathan or to me, O Lord, God of Israel, show Urim; and if You say it was due to Your people Israel, show Thummim.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-1-sam-14-42",
       "type": "verse",
       "number": 42,
@@ -267,6 +475,19 @@
       "type": "verse",
       "number": 44,
       "text": "Saul said, “Thus and more may God do: You shall be put to death, Jonathan!”"
+    },
+    {
+      "block_id": "jsb-1-sam-14-44-commentary-17",
+      "type": "commentary",
+      "text": "Many mss. and Septuagint add “to me.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
     },
     {
       "block_id": "jsb-1-sam-14-45",
@@ -287,6 +508,19 @@
       "text": "After Saul had secured his kingship over Israel, he waged war on every side against all his enemies: against the Moabites, Ammonites, Edomites, the Philistines, and the kings of Zobah; and wherever he turned he worsted [them]."
     },
     {
+      "block_id": "jsb-1-sam-14-47-commentary-18",
+      "type": "commentary",
+      "text": "Septuagint and 4QSama read “king.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
       "block_id": "jsb-1-sam-14-48",
       "type": "verse",
       "number": 48,
@@ -299,10 +533,36 @@
       "text": "Saul’s sons were: Jonathan, Ishvi, and Malchishua; and the names of his two daughters were Merab, the older, and Michal, the younger."
     },
     {
+      "block_id": "jsb-1-sam-14-49-commentary-19",
+      "type": "commentary",
+      "text": "The same as Ishbosheth (2 Sam. 2.8) and Eshbaal (1 Chron. 8.33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
       "block_id": "jsb-1-sam-14-50",
       "type": "verse",
       "number": 50,
       "text": "The name of Saul’s wife was Ahinoam daughter of Ahimaaz; and the name of his army commander was Abiner son of Saul’s uncle Ner."
+    },
+    {
+      "block_id": "jsb-1-sam-14-50-commentary-20",
+      "type": "commentary",
+      "text": "Usually “Abner.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 14,
+        "verse": 50
+      },
+      "verse_start": 50,
+      "verse_end": 50
     },
     {
       "block_id": "jsb-1-sam-14-51",

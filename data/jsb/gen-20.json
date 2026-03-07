@@ -1,7 +1,7 @@
 {
   "document_id": "gen-20",
   "title": "Genesis 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -99,6 +99,19 @@
       "type": "verse",
       "number": 16,
       "text": "And to Sarah he said, “I herewith give your brother a thousand pieces of silver; this will serve you as vindication before all who are with you, and you are cleared before everyone.”"
+    },
+    {
+      "block_id": "jsb-gen-20-16-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “a covering of the eyes”; meaning of latter half of verse uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-gen-20-17",

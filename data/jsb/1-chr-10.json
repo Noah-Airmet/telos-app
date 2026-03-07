@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-10",
   "title": "1 Chronicles 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "The Philistines attacked Israel, and the men of Israel fled before the Philistines and [many] fell on Mount Gilboa."
+    },
+    {
+      "block_id": "jsb-1-chr-10-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–12, cf. 1 Sam. 31.1–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-10-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "The battle raged around Saul, and the archers hit him, and he was wounded by the archers."
+    },
+    {
+      "block_id": "jsb-1-chr-10-3-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 10,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-1-chr-10-4",
@@ -45,6 +71,19 @@
       "type": "verse",
       "number": 7,
       "text": "And when all the men of Israel who were in the valley saw that they had fled and that Saul and his sons were dead, they abandoned their towns and fled; the Philistines then came and occupied them."
+    },
+    {
+      "block_id": "jsb-1-chr-10-7-commentary-3",
+      "type": "commentary",
+      "text": "I.e., Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 10,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-chr-10-8",

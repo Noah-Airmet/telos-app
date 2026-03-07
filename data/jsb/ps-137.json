@@ -1,7 +1,7 @@
 {
   "document_id": "ps-137",
   "title": "Psalms 137",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "for our captors asked us there for songs, our tormentors, for amusement, “Sing us one of the songs of Zion.”"
     },
     {
+      "block_id": "jsb-ps-137-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ps-137-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "If I forget you, O Jerusalem, let my right hand wither;"
+    },
+    {
+      "block_id": "jsb-ps-137-5-commentary-2",
+      "type": "commentary",
+      "text": "Others “forget its cunning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ps-137-6",
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "Fair Babylon, you predator, a blessing on him who repays you in kind what you have inflicted on us;"
+    },
+    {
+      "block_id": "jsb-ps-137-8-commentary-3",
+      "type": "commentary",
+      "text": "With Targum; others “who are to be destroyed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-137-9",

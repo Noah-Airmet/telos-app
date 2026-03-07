@@ -1,7 +1,7 @@
 {
   "document_id": "lev-4",
   "title": "Leviticus 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "If it is the anointed priest who has incurred guilt, so that blame falls upon the people, he shall offer for the sin of which he is guilty a bull of the herd without blemish as a purification offering to the Lord."
+    },
+    {
+      "block_id": "jsb-lev-4-3-commentary-1",
+      "type": "commentary",
+      "text": "Traditionally “sin offering.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 4,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-lev-4-4",
@@ -149,6 +162,19 @@
       "text": "He shall lay his hand upon the goat’s head, and it shall be slaughtered at the spot where the burnt offering is slaughtered before the Lord; it is a purification offering."
     },
     {
+      "block_id": "jsb-lev-4-24-commentary-2",
+      "type": "commentary",
+      "text": "Cf. 1.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 4,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-lev-4-25",
       "type": "verse",
       "number": 25,
@@ -165,6 +191,19 @@
       "type": "verse",
       "number": 27,
       "text": "If any person from among the populace unwittingly incurs guilt by doing any of the things which by the Lord’s commandments ought not to be done, and he realizes his guilt—"
+    },
+    {
+      "block_id": "jsb-lev-4-27-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “people of the country.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 4,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-lev-4-28",

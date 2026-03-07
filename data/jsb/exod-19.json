@@ -1,7 +1,7 @@
 {
   "document_id": "exod-19",
   "title": "Exodus 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "and the Lord said to Moses, “Go to the people and warn them to stay pure today and tomorrow. Let them wash their clothes."
     },
     {
+      "block_id": "jsb-exod-19-10-commentary-1",
+      "type": "commentary",
+      "text": "Cf. v. 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 19,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-exod-19-11",
       "type": "verse",
       "number": 11,
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "no hand shall touch him, but he shall be either stoned or shot; beast or man, he shall not live.’ When the ram’s horn sounds a long blast, they may go up on the mountain.”"
+    },
+    {
+      "block_id": "jsb-exod-19-13-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 19,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-exod-19-14",
@@ -111,6 +137,19 @@
       "type": "verse",
       "number": 18,
       "text": "Now Mount Sinai was all in smoke, for the Lord had come down upon it in fire; the smoke rose like the smoke of a kiln, and the whole mountain trembled violently."
+    },
+    {
+      "block_id": "jsb-exod-19-18-commentary-3",
+      "type": "commentary",
+      "text": "Some Hebrew manuscripts and the Greek read “all the people”; cf. v. 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 19,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-exod-19-19",

@@ -1,7 +1,7 @@
 {
   "document_id": "gen-1",
   "title": "Genesis 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "When God began to create heaven and earth—"
     },
     {
+      "block_id": "jsb-gen-1-1-commentary-1",
+      "type": "commentary",
+      "text": "Others “In the beginning God created.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 1,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-gen-1-2",
       "type": "verse",
       "number": 2,
       "text": "the earth being unformed and void, with darkness over the surface of the deep and a wind from God sweeping over the water—"
+    },
+    {
+      "block_id": "jsb-gen-1-2-commentary-2",
+      "type": "commentary",
+      "text": "Others “the spirit of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 1,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-1-3",
@@ -33,6 +59,19 @@
       "type": "verse",
       "number": 5,
       "text": "God called the light Day, and the darkness He called Night. And there was evening and there was morning, a first day."
+    },
+    {
+      "block_id": "jsb-gen-1-5-commentary-3",
+      "type": "commentary",
+      "text": "Others “one day.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 1,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-gen-1-6",

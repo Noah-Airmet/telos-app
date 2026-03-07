@@ -1,7 +1,7 @@
 {
   "document_id": "jer-43",
   "title": "Jeremiah 43",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,32 @@
       "text": "And say to them: “Thus said the Lord of Hosts, the God of Israel: I am sending for My servant King Nebuchadrezzar of Babylon, and I will set his throne over these stones which I have embedded. He will spread out his pavilion over them."
     },
     {
+      "block_id": "jsb-jer-43-10-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “he.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 43,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-jer-43-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 43,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-jer-43-11",
       "type": "verse",
       "number": 11,
@@ -75,6 +101,19 @@
       "type": "verse",
       "number": 12,
       "text": "And I will set fire to the temples of the gods of Egypt; he will burn them down and carry them off. He shall wrap himself up in the land of Egypt, as a shepherd wraps himself up in his garment. And he shall depart from there in safety."
+    },
+    {
+      "block_id": "jsb-jer-43-12-commentary-3",
+      "type": "commentary",
+      "text": "I.e., the gods.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 43,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-jer-43-13",

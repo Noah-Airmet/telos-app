@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-19",
   "title": "Ezekiel 19",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -47,6 +47,19 @@
       "text": "He ravished their widows, Laid waste their cities; The land and all in it were appalled At the sound of his roaring."
     },
     {
+      "block_id": "jsb-ezek-19-7-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “ravaged their castles.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 19,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ezek-19-8",
       "type": "verse",
       "number": 8,
@@ -65,10 +78,49 @@
       "text": "Your mother was like a vine in your blood, Planted beside streams, With luxuriant boughs and branches Thanks to abundant waters."
     },
     {
+      "block_id": "jsb-ezek-19-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; emendation yields “in a vineyard.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 19,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-19-11",
       "type": "verse",
       "number": 11,
       "text": "And she had a mighty rod Fit for a ruler’s scepter. It towered highest among the leafy trees, It was conspicuous by its height, By the abundance of its boughs."
+    },
+    {
+      "block_id": "jsb-ezek-19-11-commentary-3",
+      "type": "commentary",
+      "text": "Heb. plural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 19,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-ezek-19-11-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 19,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-ezek-19-12",

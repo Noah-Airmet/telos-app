@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-6",
   "title": "1 Chronicles 6",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -81,6 +81,19 @@
       "type": "verse",
       "number": 13,
       "text": "The sons of Samuel: his first-born Vashni, and Abijah."
+    },
+    {
+      "block_id": "jsb-1-chr-6-13-commentary-1",
+      "type": "commentary",
+      "text": "Some ancient versions read “Joel, and the second”; cf. 1 Sam. 8.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 6,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-1-chr-6-14",
@@ -239,6 +252,19 @@
       "text": "These are their dwelling-places according to their settlements within their borders: to the sons of Aaron of the families of Kohathites, for theirs was the [first] lot;"
     },
     {
+      "block_id": "jsb-1-chr-6-39-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 24–51, cf. Josh. 21.3–42.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 6,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
       "block_id": "jsb-1-chr-6-40",
       "type": "verse",
       "number": 40,
@@ -255,6 +281,19 @@
       "type": "verse",
       "number": 42,
       "text": "To the sons of Aaron they gave the cities of refuge: Hebron and Libnah with its pasturelands, Jattir and Eshtemoa with its pasturelands,"
+    },
+    {
+      "block_id": "jsb-1-chr-6-42-commentary-3",
+      "type": "commentary",
+      "text": "Josh. 21.13, “city.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 6,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-1-chr-6-43",

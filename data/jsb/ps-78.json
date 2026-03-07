@@ -1,7 +1,7 @@
 {
   "document_id": "ps-78",
   "title": "Psalms 78",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -209,6 +209,19 @@
       "text": "When He struck them, they turned to Him and sought God once again."
     },
     {
+      "block_id": "jsb-ps-78-34-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “killed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-ps-78-35",
       "type": "verse",
       "number": 35,
@@ -251,6 +264,19 @@
       "text": "Again and again they tested God, vexed the Holy One of Israel."
     },
     {
+      "block_id": "jsb-ps-78-41-commentary-2",
+      "type": "commentary",
+      "text": "Or “set a limit to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
       "block_id": "jsb-ps-78-42",
       "type": "verse",
       "number": 42,
@@ -285,6 +311,19 @@
       "type": "verse",
       "number": 47,
       "text": "He killed their vines with hail, their sycamores with frost."
+    },
+    {
+      "block_id": "jsb-ps-78-47-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 47
+      },
+      "verse_start": 47,
+      "verse_end": 47
     },
     {
       "block_id": "jsb-ps-78-48",
@@ -329,10 +368,36 @@
       "text": "He brought them to His holy realm, the mountain His right hand had acquired."
     },
     {
+      "block_id": "jsb-ps-78-54-commentary-4",
+      "type": "commentary",
+      "text": "Or “hill” with Septuagint and Saadia.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 54
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
       "block_id": "jsb-ps-78-55",
       "type": "verse",
       "number": 55,
       "text": "He expelled nations before them, settled the tribes of Israel in their tents, allotting them their portion by the line."
+    },
+    {
+      "block_id": "jsb-ps-78-55-commentary-5",
+      "type": "commentary",
+      "text": "Inverted for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 55
+      },
+      "verse_start": 55,
+      "verse_end": 55
     },
     {
       "block_id": "jsb-ps-78-56",
@@ -371,6 +436,19 @@
       "text": "He let His might go into captivity, His glory into the hands of the foe."
     },
     {
+      "block_id": "jsb-ps-78-61-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the Ark; cf. Ps. 132.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 61
+      },
+      "verse_start": 61,
+      "verse_end": 61
+    },
+    {
       "block_id": "jsb-ps-78-62",
       "type": "verse",
       "number": 62,
@@ -383,6 +461,19 @@
       "text": "Fire consumed their young men, and their maidens remained unwed."
     },
     {
+      "block_id": "jsb-ps-78-63-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “had no nuptial song.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 63
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    },
+    {
       "block_id": "jsb-ps-78-64",
       "type": "verse",
       "number": 64,
@@ -393,6 +484,19 @@
       "type": "verse",
       "number": 65,
       "text": "The Lord awoke as from sleep, like a warrior shaking off wine."
+    },
+    {
+      "block_id": "jsb-ps-78-65-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78,
+        "verse": 65
+      },
+      "verse_start": 65,
+      "verse_end": 65
     },
     {
       "block_id": "jsb-ps-78-66",

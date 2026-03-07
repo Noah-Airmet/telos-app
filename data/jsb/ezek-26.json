@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-26",
   "title": "Ezekiel 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,36 @@
       "text": "In the eleventh year, on the first of the month, the word of the Lord came to me:"
     },
     {
+      "block_id": "jsb-ezek-26-1-commentary-1",
+      "type": "commentary",
+      "text": "The month is not indicated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ezek-26-2",
       "type": "verse",
       "number": 2,
       "text": "O mortal, because Tyre gloated over Jerusalem, “Aha! The gateway of the peoples is broken, it has become mine; I shall be filled, now that it is laid in ruins”—"
+    },
+    {
+      "block_id": "jsb-ezek-26-2-commentary-2",
+      "type": "commentary",
+      "text": "Targum reads “trafficker”; cf. 27.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-26-3",
@@ -33,6 +59,19 @@
       "type": "verse",
       "number": 5,
       "text": "She shall be in the heart of the sea A place for drying nets; For I have spoken it—declares the Lord god. She shall become spoil for the nations,"
+    },
+    {
+      "block_id": "jsb-ezek-26-5-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “spreading out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ezek-26-6",
@@ -57,6 +96,19 @@
       "type": "verse",
       "number": 9,
       "text": "He shall turn the force of his battering rams Against your walls And smash your towers with his axes."
+    },
+    {
+      "block_id": "jsb-ezek-26-9-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “swords.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-26-10",
@@ -89,6 +141,19 @@
       "text": "I will make you a naked rock, You shall be a place for drying nets; You shall never be rebuilt. For I have spoken—declares the Lord god."
     },
     {
+      "block_id": "jsb-ezek-26-14-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “spreading out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-ezek-26-15",
       "type": "verse",
       "number": 15,
@@ -107,6 +172,32 @@
       "text": "And they shall intone a dirge over you, and they shall say to you: How you have perished, you who were peopled from the seas, O renowned city! Mighty on the sea were she and her inhabitants, Who cast their terror on all its inhabitants."
     },
     {
+      "block_id": "jsb-ezek-26-17-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint reads “vanished.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-ezek-26-17-commentary-7",
+      "type": "commentary",
+      "text": "I.e., of the sea. Emendation yields “the dry land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-ezek-26-18",
       "type": "verse",
       "number": 18,
@@ -123,6 +214,19 @@
       "type": "verse",
       "number": 20,
       "text": "then I will bring you down, with those who go down to the Pit, to the people of old. I will install you in the netherworld, with those that go down to the Pit, like the ruins of old, so that you shall not be inhabited and shall not radiate splendor in the land of the living."
+    },
+    {
+      "block_id": "jsb-ezek-26-20-commentary-8",
+      "type": "commentary",
+      "text": "Understanding nathatti as second-person singular feminine; cf. 16.50 and note. But meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 26,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-ezek-26-21",

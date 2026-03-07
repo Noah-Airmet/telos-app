@@ -1,7 +1,7 @@
 {
   "document_id": "deut-5",
   "title": "Deuteronomy 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "I the Lord am your God who brought you out of the land of Egypt, the house of bondage:"
+    },
+    {
+      "block_id": "jsb-deut-5-6-commentary-1",
+      "type": "commentary",
+      "text": "Tradition varies as to the divisions of the Commandments in vv. 6–18 and the numbering of the verses. Cf. Exod. 20.1, note a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-deut-5-7",

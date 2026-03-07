@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-3",
   "title": "2 Samuel 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Sons were born to David in Hebron: His first-born was Amnon, by Ahinoam of Jezreel;"
+    },
+    {
+      "block_id": "jsb-2-sam-3-2-commentary-1",
+      "type": "commentary",
+      "text": "The list of David’s wives and sons in vv. 2–5 differs somewhat from the parallel list in 1 Chron. 3.1–3. The narrative in v. 1 is resumed in v. 6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-2-sam-3-3",
@@ -53,6 +66,19 @@
       "text": "Abner was very upset by what Ish-bosheth said, and he replied, “Am I a dog’s head from Judah? Here I have been loyally serving the House of your father Saul and his kinsfolk and friends, and I have not betrayed you into the hands of David; yet this day you reproach me over a woman!"
     },
     {
+      "block_id": "jsb-2-sam-3-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-2-sam-3-9",
       "type": "verse",
       "number": 9,
@@ -77,6 +103,19 @@
       "text": "Abner immediately sent messengers to David, saying, “To whom shall the land belong?” and to say [further], “Make a pact with me, and I will help you and bring all Israel over to your side.”"
     },
     {
+      "block_id": "jsb-2-sam-3-12-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-2-sam-3-13",
       "type": "verse",
       "number": 13,
@@ -87,6 +126,32 @@
       "type": "verse",
       "number": 14,
       "text": "David also sent messengers to Ish-bosheth son of Saul, to say, “Give me my wife Michal, for whom I paid the bride-price of one hundred Philistine foreskins.”"
+    },
+    {
+      "block_id": "jsb-2-sam-3-14-commentary-4",
+      "type": "commentary",
+      "text": "Cf. Exod. 22.15; Deut. 20.7; 22.23–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "jsb-2-sam-3-14-commentary-5",
+      "type": "commentary",
+      "text": "Cf. 1 Sam. 18.27 (where the number is given as “two hundred”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-2-sam-3-15",
@@ -111,6 +176,19 @@
       "type": "verse",
       "number": 18,
       "text": "Now act! For the Lord has said concerning David: I will deliver My people Israel from the hands of the Philistines and all its other enemies through My servant David.”"
+    },
+    {
+      "block_id": "jsb-2-sam-3-18-commentary-6",
+      "type": "commentary",
+      "text": "So many mss. and versions; most mss. and editions have “He has delivered.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-2-sam-3-19",
@@ -167,6 +245,32 @@
       "text": "When Abner returned to Hebron, Joab took him aside within the gate to talk to him privately; there he struck him in the belly. Thus [Abner] died for shedding the blood of Asahel, Joab’s brother."
     },
     {
+      "block_id": "jsb-2-sam-3-27-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "jsb-2-sam-3-27-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-2-sam-3-28",
       "type": "verse",
       "number": 28,
@@ -179,6 +283,19 @@
       "text": "May [the guilt] fall upon the head of Joab and all his father’s house. May the house of Joab never be without someone suffering from a discharge or an eruption, or a male who handles the spindle, or one slain by the sword, or one lacking bread.”—"
     },
     {
+      "block_id": "jsb-2-sam-3-29-commentary-9",
+      "type": "commentary",
+      "text": "I.e., a man fit only for woman’s work.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-2-sam-3-30",
       "type": "verse",
       "number": 30,
@@ -189,6 +306,19 @@
       "type": "verse",
       "number": 31,
       "text": "David then ordered Joab and all the troops with him to rend their clothes, gird on sackcloth, and make lament before Abner; and King David himself walked behind the bier."
+    },
+    {
+      "block_id": "jsb-2-sam-3-31-commentary-10",
+      "type": "commentary",
+      "text": "I.e., in the procession.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-2-sam-3-32",
@@ -219,6 +349,19 @@
       "type": "verse",
       "number": 36,
       "text": "All the troops took note of it and approved, just as all the troops approved everything else the king did."
+    },
+    {
+      "block_id": "jsb-2-sam-3-36-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 3,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-2-sam-3-37",

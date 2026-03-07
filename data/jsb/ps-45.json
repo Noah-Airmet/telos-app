@@ -1,7 +1,7 @@
 {
   "document_id": "ps-45",
   "title": "Psalms 45",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader; on shoshannim. Of the Korahites. A maskil. A love song."
+    },
+    {
+      "block_id": "jsb-ps-45-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 45,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-45-2",
@@ -35,16 +48,55 @@
       "text": "in your glory, win success; ride on in the cause of truth and meekness and right; and let your right hand lead you to awesome deeds."
     },
     {
+      "block_id": "jsb-ps-45-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 45,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ps-45-6",
       "type": "verse",
       "number": 6,
       "text": "Your arrows, sharpened, [pierce] the breast of the king’s enemies; peoples fall at your feet."
     },
     {
+      "block_id": "jsb-ps-45-6-commentary-3",
+      "type": "commentary",
+      "text": "Order of Heb. clauses inverted for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 45,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-45-7",
       "type": "verse",
       "number": 7,
       "text": "Your divine throne is everlasting; your royal scepter is a scepter of equity."
+    },
+    {
+      "block_id": "jsb-ps-45-7-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 1 Chron. 29.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 45,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-ps-45-8",
@@ -87,6 +139,19 @@
       "type": "verse",
       "number": 14,
       "text": "goods of all sorts. The royal princess, her dress embroidered with golden mountings,"
+    },
+    {
+      "block_id": "jsb-ps-45-14-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 45,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ps-45-15",

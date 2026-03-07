@@ -1,7 +1,7 @@
 {
   "document_id": "ps-80",
   "title": "Psalms 80",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -101,6 +101,19 @@
       "text": "the stock planted by Your right hand, the stem you have taken as Your own."
     },
     {
+      "block_id": "jsb-ps-80-16-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “son.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 80,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-ps-80-17",
       "type": "verse",
       "number": 17,
@@ -111,6 +124,19 @@
       "type": "verse",
       "number": 18,
       "text": "Grant Your help to the man at Your right hand, the one You have taken as Your own."
+    },
+    {
+      "block_id": "jsb-ps-80-18-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “hand.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 80,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ps-80-19",

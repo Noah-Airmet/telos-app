@@ -1,7 +1,7 @@
 {
   "document_id": "num-26",
   "title": "Numbers 26",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "So Moses and Eleazar the priest, on the steppes of Moab, at the Jordan near Jericho, gave instructions about them, namely,"
     },
     {
+      "block_id": "jsb-num-26-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 3 and 4 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-num-26-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "Reuben, Israel’s first-born. Descendants of Reuben: [Of] Enoch, the clan of the Enochites; of Pallu, the clan of the Palluites;"
+    },
+    {
+      "block_id": "jsb-num-26-5-commentary-2",
+      "type": "commentary",
+      "text": "Or “Hanoch.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-num-26-6",
@@ -51,6 +77,19 @@
       "type": "verse",
       "number": 8,
       "text": "Born to Pallu: Eliab."
+    },
+    {
+      "block_id": "jsb-num-26-8-commentary-3",
+      "type": "commentary",
+      "text": "Or “descendants of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-num-26-9",
@@ -81,6 +120,19 @@
       "type": "verse",
       "number": 13,
       "text": "of Zerah, the clan of the Zerahites; of Saul, the clan of the Saulites."
+    },
+    {
+      "block_id": "jsb-num-26-13-commentary-4",
+      "type": "commentary",
+      "text": "Or “Shaul.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-num-26-14",
@@ -117,6 +169,19 @@
       "type": "verse",
       "number": 19,
       "text": "Born to Judah: Er and Onan. Er and Onan died in the land of Canaan."
+    },
+    {
+      "block_id": "jsb-num-26-19-commentary-5",
+      "type": "commentary",
+      "text": "Or “descendants of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-num-26-20",
@@ -255,6 +320,19 @@
       "type": "verse",
       "number": 42,
       "text": "These are the descendants of Dan by their clans: Of Shuham, the clan of the Shuhamites. Those are the clans of Dan, by their clans."
+    },
+    {
+      "block_id": "jsb-num-26-42-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of parts of vv. 42 and 43 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 26,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
     },
     {
       "block_id": "jsb-num-26-43",

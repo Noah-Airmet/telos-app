@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-40",
   "title": "Ezekiel 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "In the twenty-fifth year of our exile, the fourteenth year after the city had fallen, at the beginning of the year, the tenth day of the month—on that very day—the hand of the Lord came upon me, and He brought me there."
     },
     {
+      "block_id": "jsb-ezek-40-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the exile of King Jehoiachin; see 1.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ezek-40-2",
       "type": "verse",
       "number": 2,
       "text": "He brought me, in visions of God, to the Land of Israel, and He set me down on a very high mountain on which there seemed to be the outline of a city on the south."
+    },
+    {
+      "block_id": "jsb-ezek-40-2-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Isa. 2.1; Mic. 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-ezek-40-2-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “in the distance.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-40-3",
@@ -35,10 +74,36 @@
       "text": "Along the outside of the Temple [area] ran a wall on every side. The rod that the man held was six cubits long, plus one handbreadth for each cubit; and when he applied it to that structure, it measured one rod deep and one rod high."
     },
     {
+      "block_id": "jsb-ezek-40-5-commentary-4",
+      "type": "commentary",
+      "text": "In this description, the Hebrew word which ordinarily corresponds to English “width” sometimes designates a measurement from an opening or outer surface inward, and so corresponds to the English “depth”; and the word which ordinarily corresponds to English “length” designates the distance from side to side of a vestibule or a passage, and so corresponds to the English “width.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-ezek-40-6",
       "type": "verse",
       "number": 6,
       "text": "He went up to the gate that faced eastward and mounted its steps. He measured the threshold of the gate; it was one rod deep—the one threshold was one rod deep."
+    },
+    {
+      "block_id": "jsb-ezek-40-6-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ezek-40-7",
@@ -65,10 +130,49 @@
       "text": "On either side of this eastern gate there were three recesses, all three of the same size; of identical sizes were also the supports on either side."
     },
     {
+      "block_id": "jsb-ezek-40-10-commentary-6",
+      "type": "commentary",
+      "text": "This verse would read well before v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-ezek-40-10-commentary-7",
+      "type": "commentary",
+      "text": "In connection with recesses, the “supports” are partitions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-40-11",
       "type": "verse",
       "number": 11,
       "text": "He measured the opening of the gate and found it 10 cubits wide, while the gate itself measured 13 cubits across."
+    },
+    {
+      "block_id": "jsb-ezek-40-11-commentary-8",
+      "type": "commentary",
+      "text": "The opening was perhaps narrowed by a stone on each side for receiving the hinge of a door-leaf.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-ezek-40-12",
@@ -83,10 +187,49 @@
       "text": "Their openings faced each other directly across the gate passage, so that when he measured from rear of recess to rear of recess he obtained a width of 25 cubits."
     },
     {
+      "block_id": "jsb-ezek-40-13-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "jsb-ezek-40-13-commentary-10",
+      "type": "commentary",
+      "text": "Since each of the recesses was 6 cubits deep (v. 7a) and the passage in the middle was 13 cubits wide (v. 11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-ezek-40-14",
       "type": "verse",
       "number": 14,
       "text": "He made the vestibule—60 cubits—and the gate next to the support on every side of the court."
+    },
+    {
+      "block_id": "jsb-ezek-40-14-commentary-11",
+      "type": "commentary",
+      "text": "Elim here is the same as elam in vv. 16, 21, 22, etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ezek-40-15",
@@ -113,10 +256,49 @@
       "text": "The pavements flanked the gates; the depth of the lower pavements paralleled that of the gates."
     },
     {
+      "block_id": "jsb-ezek-40-18-commentary-12",
+      "type": "commentary",
+      "text": "The outer court and its gates were 8 steps lower than the inner ones: v. 34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
       "block_id": "jsb-ezek-40-19",
       "type": "verse",
       "number": 19,
       "text": "Then he measured the width of the lower court, from in front of the inner gate to in front of the outer gate—100 cubits. After the east [gate], the north [gate]."
+    },
+    {
+      "block_id": "jsb-ezek-40-19-commentary-13",
+      "type": "commentary",
+      "text": "In this rendering, the adjectives “lower” and “inner” are construed, not with the nouns they stand next to in the Hebrew, but with those with which they agree in gender.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "jsb-ezek-40-19-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-ezek-40-20",
@@ -135,6 +317,19 @@
       "type": "verse",
       "number": 22,
       "text": "Its windows and [those of] its vestibule, as also its palm trees, corresponded to those of the gate that faced east. [From the outside] one had to climb 7 steps to reach it, and its vestibule was ahead of them."
+    },
+    {
+      "block_id": "jsb-ezek-40-22-commentary-15",
+      "type": "commentary",
+      "text": "Septuagint reads “at its inner end.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-ezek-40-23",
@@ -185,10 +380,36 @@
       "text": "vestibules on both sides, 25 cubits long, 5 cubits wide."
     },
     {
+      "block_id": "jsb-ezek-40-30-commentary-16",
+      "type": "commentary",
+      "text": "Connection unclear; wanting in some Heb. mss. and versions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
       "block_id": "jsb-ezek-40-31",
       "type": "verse",
       "number": 31,
       "text": "Its vestibule, however, gave on the outer court. Its supports were adorned on either side with palms, and its staircase consisted of 8 steps."
+    },
+    {
+      "block_id": "jsb-ezek-40-31-commentary-17",
+      "type": "commentary",
+      "text": "I.e., in the inner gates the vestibules were situated at their entrances, and so they were true vestibules, in contrast to the “inner vestibules” of the outer gates.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     },
     {
       "block_id": "jsb-ezek-40-32",
@@ -227,10 +448,36 @@
       "text": "Its supports gave on the outer court; its supports were decorated on both sides with palm trees; and its staircase consisted of 8 steps."
     },
     {
+      "block_id": "jsb-ezek-40-37-commentary-18",
+      "type": "commentary",
+      "text": "Septuagint reads “vestibules”; cf. vv. 31, 34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
       "block_id": "jsb-ezek-40-38",
       "type": "verse",
       "number": 38,
       "text": "A chamber opened into the gate; there the burnt offering would be washed."
+    },
+    {
+      "block_id": "jsb-ezek-40-38-commentary-19",
+      "type": "commentary",
+      "text": "Heb. “gates”; the reference is apparently to the north gate; cf. v. 40 and Lev. 1.11; 4.24; 7.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
     },
     {
       "block_id": "jsb-ezek-40-39",
@@ -245,6 +492,19 @@
       "text": "while outside—as one goes up toward the opening of the north gate—there were two tables on one side, and there were two tables on the other side of the gate’s vestibule."
     },
     {
+      "block_id": "jsb-ezek-40-40-commentary-20",
+      "type": "commentary",
+      "text": "Emendation yields “the vestibule at.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
       "block_id": "jsb-ezek-40-41",
       "type": "verse",
       "number": 41,
@@ -257,16 +517,81 @@
       "text": "As for the four tables for the burnt offering—they were of hewn stone, one and a half cubits long, one and a half cubits wide, and one cubit high—on them were laid out the instruments with which burnt offerings and sacrifices were slaughtered."
     },
     {
+      "block_id": "jsb-ezek-40-42-commentary-21",
+      "type": "commentary",
+      "text": "See v. 39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
+      "block_id": "jsb-ezek-40-42-commentary-22",
+      "type": "commentary",
+      "text": "This clause would read well after v. 43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 42
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
       "block_id": "jsb-ezek-40-43",
       "type": "verse",
       "number": 43,
       "text": "Shelves, one handbreadth wide, were attached all around the inside; and the sacrificial flesh was [laid] on the tables."
     },
     {
+      "block_id": "jsb-ezek-40-43-commentary-23",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 43
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
       "block_id": "jsb-ezek-40-44",
       "type": "verse",
       "number": 44,
       "text": "There were chambers for singers in the inner forecourt: [one] beside the north gate facing south, and one beside the east gate facing north."
+    },
+    {
+      "block_id": "jsb-ezek-40-44-commentary-24",
+      "type": "commentary",
+      "text": "Septuagint reads “two chambers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "jsb-ezek-40-44-commentary-25",
+      "type": "commentary",
+      "text": "Septuagint reads “south.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 44
+      },
+      "verse_start": 44,
+      "verse_end": 44
     },
     {
       "block_id": "jsb-ezek-40-45",
@@ -293,10 +618,75 @@
       "text": "He took me into the portico of the Temple and measured it. The jambs of the portico were 5 cubits deep on either side. The width of the gate-opening was [14 cubits, and the flanking wall of the gate was] 3 cubits on either side."
     },
     {
+      "block_id": "jsb-ezek-40-48-commentary-26",
+      "type": "commentary",
+      "text": "I.e., the edges of the flanking walls.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 48
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
+      "block_id": "jsb-ezek-40-48-commentary-27",
+      "type": "commentary",
+      "text": "Preserved in the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 48
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
       "block_id": "jsb-ezek-40-49",
       "type": "verse",
       "number": 49,
       "text": "The portico was 20 cubits wide and 11 cubits deep, and it was by steps that it was reached. There were columns by the jambs on either side."
+    },
+    {
+      "block_id": "jsb-ezek-40-49-commentary-28",
+      "type": "commentary",
+      "text": "See note on v. 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "jsb-ezek-40-49-commentary-29",
+      "type": "commentary",
+      "text": "Septuagint reads “12”; see note i on 41.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "jsb-ezek-40-49-commentary-30",
+      "type": "commentary",
+      "text": "Septuagint reads “it was reached by ten steps.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 40,
+        "verse": 49
+      },
+      "verse_start": 49,
+      "verse_end": 49
     }
   ]
 }

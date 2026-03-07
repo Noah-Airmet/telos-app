@@ -1,7 +1,7 @@
 {
   "document_id": "gen-15",
   "title": "Genesis 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "But Abram said, “O Lord God, what can You give me, seeing that I shall die childless, and the one in charge of my household is Dammesek Eliezer!”"
+    },
+    {
+      "block_id": "jsb-gen-15-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-15-3",

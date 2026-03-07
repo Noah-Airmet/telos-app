@@ -1,7 +1,7 @@
 {
   "document_id": "zech-8",
   "title": "Zechariah 8",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,6 +65,19 @@
       "text": "For before that time, the earnings of men were nil, and profits from beasts were nothing. It was not safe to go about one’s business on account of enemies; and I set all men against one another."
     },
     {
+      "block_id": "jsb-zech-8-10-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Hag. 1.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-zech-8-11",
       "type": "verse",
       "number": 11,
@@ -81,6 +94,19 @@
       "type": "verse",
       "number": 13,
       "text": "And just as you were a curse among the nations, O House of Judah and House of Israel, so, when I vindicate you, you shall become a blessing. Have no fear; take courage!"
+    },
+    {
+      "block_id": "jsb-zech-8-13-commentary-2",
+      "type": "commentary",
+      "text": "I.e., a standard by which men curse or bless; cf. Gen. 12.2 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-zech-8-14",
@@ -117,6 +143,19 @@
       "type": "verse",
       "number": 19,
       "text": "Thus said the Lord of Hosts: The fast of the fourth month, the fast of the fifth month, the fast of the seventh month, and the fast of the tenth month shall become occasions for joy and gladness, happy festivals for the House of Judah; but you must love honesty and integrity."
+    },
+    {
+      "block_id": "jsb-zech-8-19-commentary-3",
+      "type": "commentary",
+      "text": "Commemorating, respectively, the events of 2 Kings 25.3 ff. (Jer. 52.6 ff.); 2 Kings 25.8 ff. (Jer. 52.12 ff.); 2 Kings 25.25 ff. (Jer. 41); 2 Kings 25.1 ff. (Jer. 52.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-zech-8-20",

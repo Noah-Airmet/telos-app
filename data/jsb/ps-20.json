@@ -1,7 +1,7 @@
 {
   "document_id": "ps-20",
   "title": "Psalms 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,32 @@
       "type": "verse",
       "number": 4,
       "text": "May He receive the tokens of all your meal offerings, and approve your burnt offerings. Selah."
+    },
+    {
+      "block_id": "jsb-ps-20-4-commentary-1",
+      "type": "commentary",
+      "text": "Reference to azkara, “token portion” of meal offering; Lev. 2.2, 9, 16, etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-ps-20-4-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-20-5",
@@ -63,6 +89,19 @@
       "type": "verse",
       "number": 10,
       "text": "O Lord, grant victory! May the King answer us when we call."
+    },
+    {
+      "block_id": "jsb-ps-20-10-commentary-3",
+      "type": "commentary",
+      "text": "Or in the light of v. 7, “O Lord, grant victory to the king; may He answer us when we call.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     }
   ]
 }

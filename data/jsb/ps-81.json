@@ -1,7 +1,7 @@
 {
   "document_id": "ps-81",
   "title": "Psalms 81",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -41,6 +41,19 @@
       "text": "He imposed it as a decree upon Joseph when he went forth from the land of Egypt; I heard a language that I knew not."
     },
     {
+      "block_id": "jsb-ps-81-6-commentary-1",
+      "type": "commentary",
+      "text": "Or “He went forth against.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 81,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ps-81-7",
       "type": "verse",
       "number": 7,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "In distress you called and I rescued you; I answered you from the secret place of thunder I tested you at the waters of Meribah. Selah."
+    },
+    {
+      "block_id": "jsb-ps-81-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 81,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-81-9",
@@ -105,6 +131,19 @@
       "type": "verse",
       "number": 17,
       "text": "He fed them the finest wheat; I sated you with honey from the rock."
+    },
+    {
+      "block_id": "jsb-ps-81-17-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “him,” i.e., Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 81,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     }
   ]
 }

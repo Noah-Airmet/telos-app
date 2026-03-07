@@ -1,7 +1,7 @@
 {
   "document_id": "dan-2",
   "title": "Daniel 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had a dream; his spirit was agitated, yet he was overcome by sleep."
+    },
+    {
+      "block_id": "jsb-dan-2-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; others “and he could not.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 2,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-dan-2-2",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "The king said in reply to the Chaldeans, “I hereby decree: If you will not make the dream and its meaning known to me, you shall be torn limb from limb and your houses confiscated."
+    },
+    {
+      "block_id": "jsb-dan-2-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning uncertain; or “turned into ruins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 2,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-dan-2-6",
@@ -65,10 +91,36 @@
       "text": "The Chaldeans said in reply to the king, “There is no one on earth who can satisfy the king’s demand, for great king or ruler—none has ever asked such a thing of any magician, exorcist, or Chaldean."
     },
     {
+      "block_id": "jsb-dan-2-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “tell the king’s matter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 2,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-dan-2-11",
       "type": "verse",
       "number": 11,
       "text": "The thing asked by the king is difficult; there is no one who can tell it to the king except the gods whose abode is not among mortals.”"
+    },
+    {
+      "block_id": "jsb-dan-2-11-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “flesh.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 2,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-dan-2-12",
@@ -261,6 +313,19 @@
       "type": "verse",
       "number": 43,
       "text": "You saw iron mixed with common clay; that means: they shall intermingle with the offspring of men, but shall not hold together, just as iron does not mix with clay."
+    },
+    {
+      "block_id": "jsb-dan-2-43-commentary-5",
+      "type": "commentary",
+      "text": "Meaning uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 2,
+        "verse": 43
+      },
+      "verse_start": 43,
+      "verse_end": 43
     },
     {
       "block_id": "jsb-dan-2-44",

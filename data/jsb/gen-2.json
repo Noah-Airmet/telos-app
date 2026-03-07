@@ -1,7 +1,7 @@
 {
   "document_id": "gen-2",
   "title": "Genesis 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "On the seventh day God finished the work that He had been doing, and He ceased on the seventh day from all the work that He had done."
+    },
+    {
+      "block_id": "jsb-gen-2-2-commentary-1",
+      "type": "commentary",
+      "text": "Or “rested.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-2-3",
@@ -47,6 +60,32 @@
       "text": "the Lord God formed man from the dust of the earth. He blew into his nostrils the breath of life, and man became a living being."
     },
     {
+      "block_id": "jsb-gen-2-7-commentary-2",
+      "type": "commentary",
+      "text": "Heb. ʾadam.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-gen-2-7-commentary-3",
+      "type": "commentary",
+      "text": "Heb. ʾadamah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-gen-2-8",
       "type": "verse",
       "number": 8,
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "The gold of that land is good; bdellium is there, and lapis lazuli.)"
+    },
+    {
+      "block_id": "jsb-gen-2-12-commentary-4",
+      "type": "commentary",
+      "text": "Others “onyx”; meaning of Heb. shoham uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-gen-2-13",
@@ -141,6 +193,32 @@
       "type": "verse",
       "number": 23,
       "text": "Then the man said, “This one at last Is bone of my bones And flesh of my flesh. This one shall be called Woman, For from man was she taken.”"
+    },
+    {
+      "block_id": "jsb-gen-2-23-commentary-5",
+      "type": "commentary",
+      "text": "Heb. ʾishshah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "jsb-gen-2-23-commentary-6",
+      "type": "commentary",
+      "text": "Heb. ʾish.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 2,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-gen-2-24",

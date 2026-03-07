@@ -1,7 +1,7 @@
 {
   "document_id": "josh-17",
   "title": "Joshua 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Now Zelophehad son of Hepher son of Gilead son of Machir son of Manasseh had no sons, but only daughters. The names of his daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+    },
+    {
+      "block_id": "jsb-josh-17-3-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Num. 27.1–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-josh-17-4",
@@ -69,6 +82,19 @@
       "type": "verse",
       "number": 11,
       "text": "Within Issachar and Asher, Manasseh possessed Beth-shean and its dependencies, Ibleam and its dependencies, the inhabitants of Dor and its dependencies, the inhabitants of En‑dor and its dependencies, the inhabitants of Taanach and its dependencies, and the inhabitants of Megiddo and its dependencies:these constituted three regions."
+    },
+    {
+      "block_id": "jsb-josh-17-11-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 17,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-josh-17-12",

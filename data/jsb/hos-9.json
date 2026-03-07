@@ -1,7 +1,7 @@
 {
   "document_id": "hos-9",
   "title": "Hosea 9",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Rejoice not, O Israel, As other peoples exult; For you have strayed Away from your God: You have loved a harlot’s fee By every threshing floor of new grain."
+    },
+    {
+      "block_id": "jsb-hos-9-1-commentary-1",
+      "type": "commentary",
+      "text": "Emendation and rearrangement yield: “You have loved fornication / By every threshing floor and press; / The new grain shall not join them, / And the new wine shall fail them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-hos-9-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "They shall not be able to remain In the land of the Lord. But Ephraim shall return to Egypt And shall eat unclean food in Assyria."
+    },
+    {
+      "block_id": "jsb-hos-9-3-commentary-2",
+      "type": "commentary",
+      "text": "The lands of the heathen and the food there are unclean; cf. Ezek. 4.13; Amos 7.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-hos-9-4",
@@ -41,6 +67,45 @@
       "text": "Behold, they have gone from destruction [With] the silver they treasure. Egypt shall hold them fast, Moph shall receive them in burial. Weeds are their heirs; Prickly shrubs occupy their [old] homes."
     },
     {
+      "block_id": "jsb-hos-9-6-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “to Assyria.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-hos-9-6-commentary-4",
+      "type": "commentary",
+      "text": "Cf. 8.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-hos-9-6-commentary-5",
+      "type": "commentary",
+      "text": "Believed to be Memphis, elsewhere called Noph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-hos-9-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +118,36 @@
       "text": "Ephraim watches for my God. As for the prophet, Fowlers’ snares are on all his paths, Harassment in the House of his God."
     },
     {
+      "block_id": "jsb-hos-9-8-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “the prophet of my God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-hos-9-9",
       "type": "verse",
       "number": 9,
       "text": "They have been as grievously corrupt As in the days of Gibeah; He will remember their iniquity, He will punish their sins."
+    },
+    {
+      "block_id": "jsb-hos-9-9-commentary-7",
+      "type": "commentary",
+      "text": "See Judg. 19–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-hos-9-10",
@@ -65,10 +156,62 @@
       "text": "I found Israel [as pleasing] As grapes in the wilderness; Your fathers seemed to Me Like the first fig to ripen on a fig tree. But when they came to Baal-peor, They turned aside to shamefulness; Then they became as detested As they had been loved."
     },
     {
+      "block_id": "jsb-hos-9-10-commentary-8",
+      "type": "commentary",
+      "text": "Emendation yields “like a ripe fig in a waterless waste”; cf. 13.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-hos-9-10-commentary-9",
+      "type": "commentary",
+      "text": "Cf. Num. 25.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "jsb-hos-9-10-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-hos-9-11",
       "type": "verse",
       "number": 11,
       "text": "From birth, from the womb, from conception Ephraim’s glory shall be Like birds that fly away."
+    },
+    {
+      "block_id": "jsb-hos-9-11-commentary-11",
+      "type": "commentary",
+      "text": "V. 16 would read well after v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-hos-9-12",
@@ -77,10 +220,36 @@
       "text": "Even if they rear their infants, I will bereave them of men. Woe to them indeed When I turn away from them!"
     },
     {
+      "block_id": "jsb-hos-9-12-commentary-12",
+      "type": "commentary",
+      "text": "Emendation yields: “Even if they wean their babes, / They shall be dismayed because of them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-hos-9-13",
       "type": "verse",
       "number": 13,
       "text": "It shall go with Ephraim As I have seen it go with Tyre, Which was planted in a meadow; Ephraim too must bring out His children to slayers."
+    },
+    {
+      "block_id": "jsb-hos-9-13-commentary-13",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-hos-9-14",
@@ -95,10 +264,62 @@
       "text": "All their misfortune [began] at Gilgal, For there I disowned them. For their evil deeds I will drive them out of My House. I will accept them no more; All their officials are disloyal."
     },
     {
+      "block_id": "jsb-hos-9-15-commentary-14",
+      "type": "commentary",
+      "text": "The specific allusion is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "jsb-hos-9-15-commentary-15",
+      "type": "commentary",
+      "text": "Emendation yields “They are all.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-hos-9-16",
       "type": "verse",
       "number": 16,
       "text": "Ephraim is stricken, Their stock is withered; They can produce no fruit. Even if they do bear children, I will slay their cherished offspring."
+    },
+    {
+      "block_id": "jsb-hos-9-16-commentary-16",
+      "type": "commentary",
+      "text": "V. 16 would read well after v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-hos-9-16-commentary-17",
+      "type": "commentary",
+      "text": "Targum reads “Their crown,” i.e., of a tree.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 9,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-hos-9-17",

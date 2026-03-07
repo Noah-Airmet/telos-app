@@ -1,7 +1,7 @@
 {
   "document_id": "num-5",
   "title": "Numbers 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Instruct the Israelites to remove from camp anyone with an eruption or a discharge and anyone defiled by a corpse."
+    },
+    {
+      "block_id": "jsb-num-5-2-commentary-1",
+      "type": "commentary",
+      "text": "See Lev. 13, 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-num-5-3",
@@ -51,6 +64,32 @@
       "type": "verse",
       "number": 8,
       "text": "If the man has no kinsman to whom restitution can be made, the amount repaid shall go to the Lord for the priest—in addition to the ram of expiation with which expiation is made on his behalf."
+    },
+    {
+      "block_id": "jsb-num-5-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “redeemer.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "jsb-num-5-8-commentary-3",
+      "type": "commentary",
+      "text": "Cf. Lev. 5.15 f.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-num-5-9",
@@ -111,6 +150,32 @@
       "type": "verse",
       "number": 18,
       "text": "After he has made the woman stand before the Lord, the priest shall bare the woman’s head and place upon her hands the meal offering of remembrance, which is a meal offering of jealousy. And in the priest’s hands shall be the water of bitterness that induces the spell."
+    },
+    {
+      "block_id": "jsb-num-5-18-commentary-4",
+      "type": "commentary",
+      "text": "See note at Lev. 10.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-num-5-18-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-num-5-19",

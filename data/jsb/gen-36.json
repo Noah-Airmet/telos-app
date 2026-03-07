@@ -1,7 +1,7 @@
 {
   "document_id": "gen-36",
   "title": "Genesis 36",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -25,6 +25,19 @@
       "type": "verse",
       "number": 2,
       "text": "Esau took his wives from among the Canaanite women—Adah daughter of Elon the Hittite, and Oholibamah daughter of Anah daughter of Zibeon the Hivite—"
+    },
+    {
+      "block_id": "jsb-gen-36-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. v. 20, “Horite.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-gen-36-3",
@@ -159,6 +172,32 @@
       "text": "The sons of Zibeon were these: Aiah and Anah—that was the Anah who discovered the hot springs in the wilderness while pasturing the asses of his father Zibeon."
     },
     {
+      "block_id": "jsb-gen-36-24-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “and Aiah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "jsb-gen-36-24-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. yemim uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-gen-36-25",
       "type": "verse",
       "number": 25,
@@ -169,6 +208,19 @@
       "type": "verse",
       "number": 26,
       "text": "The sons of Dishon were these: Hemdan, Eshban, Ithran, and Cheran."
+    },
+    {
+      "block_id": "jsb-gen-36-26-commentary-4",
+      "type": "commentary",
+      "text": "Heb. Dishan; but cf. vv. 21, 25, 28, and 30, and 1 Chron. 1.41.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-gen-36-27",
@@ -235,6 +287,19 @@
       "type": "verse",
       "number": 37,
       "text": "When Samlah died, Saul of Rehoboth-on-the-river succeeded him as king."
+    },
+    {
+      "block_id": "jsb-gen-36-37-commentary-5",
+      "type": "commentary",
+      "text": "Or “Shaul.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
     },
     {
       "block_id": "jsb-gen-36-38",

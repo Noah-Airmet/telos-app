@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-25",
   "title": "1 Samuel 25",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Samuel died, and all Israel gathered and made lament for him; and they buried him in Ramah, his home. David went down to the wilderness of Paran."
+    },
+    {
+      "block_id": "jsb-1-sam-25-1-commentary-1",
+      "type": "commentary",
+      "text": "Septuagint reads “Maon,” cf. v. 2 and 23.24, 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-sam-25-2",
@@ -41,6 +54,19 @@
       "text": "Say as follows: ‘To life! Greetings to you and to your household and to all that is yours!"
     },
     {
+      "block_id": "jsb-1-sam-25-6-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-1-sam-25-7",
       "type": "verse",
       "number": 7,
@@ -71,6 +97,19 @@
       "text": "Should I then take my bread and my water, and the meat that I slaughtered for my own shearers, and give them to men who come from I don’t know where?”"
     },
     {
+      "block_id": "jsb-1-sam-25-11-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “wine,” and cf. v. 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-sam-25-12",
       "type": "verse",
       "number": 12,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "One of [Nabal’s] young men told Abigail, Nabal’s wife, that David had sent messengers from the wilderness to greet their master, and that he had spurned them."
+    },
+    {
+      "block_id": "jsb-1-sam-25-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-sam-25-15",
@@ -125,6 +177,19 @@
       "text": "She was riding on the ass and going down a trail on the hill, when David and his men appeared, coming down toward her; and she met them.—"
     },
     {
+      "block_id": "jsb-1-sam-25-20-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-1-sam-25-21",
       "type": "verse",
       "number": 21,
@@ -135,6 +200,32 @@
       "type": "verse",
       "number": 22,
       "text": "May God do thus and more to the enemies of David if, by the light of morning, I leave a single male of his.”—"
+    },
+    {
+      "block_id": "jsb-1-sam-25-22-commentary-6",
+      "type": "commentary",
+      "text": "The phrase is intended to avoid the imprecation of David against himself; it is lacking in the Septuagint.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "jsb-1-sam-25-22-commentary-7",
+      "type": "commentary",
+      "text": "Lit. “one who pees against a wall.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-sam-25-23",
@@ -209,6 +300,19 @@
       "text": "For as sure as the Lord, the God of Israel, lives—who has kept me from harming you—had you not come quickly to meet me, not a single male of Nabal’s line would have been left by daybreak.”"
     },
     {
+      "block_id": "jsb-1-sam-25-34-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “one who pees against a wall.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-1-sam-25-35",
       "type": "verse",
       "number": 35,
@@ -237,6 +341,19 @@
       "type": "verse",
       "number": 39,
       "text": "When David heard that Nabal was dead, he said, “Praised be the Lord who championed my cause against the insults of Nabal and held back His servant from wrongdoing; the Lord has brought Nabal’s wrongdoing down on his own head.” David sent messengers to propose marriage to Abigail, to take her as his wife."
+    },
+    {
+      "block_id": "jsb-1-sam-25-39-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “and spoke for”; cf. Song of Songs 8.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 25,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
     },
     {
       "block_id": "jsb-1-sam-25-40",

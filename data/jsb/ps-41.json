@@ -1,7 +1,7 @@
 {
   "document_id": "ps-41",
   "title": "Psalms 41",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -32,6 +32,19 @@
       "type": "verse",
       "number": 4,
       "text": "The Lord will sustain him on his sickbed; You shall wholly transform his bed of suffering."
+    },
+    {
+      "block_id": "jsb-ps-41-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-41-5",
@@ -68,6 +81,19 @@
       "type": "verse",
       "number": 10,
       "text": "My ally in whom I trusted, even he who shares my bread, has been utterly false to me."
+    },
+    {
+      "block_id": "jsb-ps-41-10-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-ps-41-11",

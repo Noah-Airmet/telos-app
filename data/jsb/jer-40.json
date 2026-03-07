@@ -1,7 +1,7 @@
 {
   "document_id": "jer-40",
   "title": "Jeremiah 40",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -35,6 +35,19 @@
       "text": "But [Jeremiah] still did not turn back.—“Or go to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon has put in charge of the towns of Judah, and stay with him among the people, or go wherever you want to go.” The chief of the guards gave him an allowance of food, and dismissed him."
     },
     {
+      "block_id": "jsb-jer-40-5-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 40,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-jer-40-6",
       "type": "verse",
       "number": 6,
@@ -59,10 +72,36 @@
       "text": "Gedaliah son of Ahikam son of Shaphan reassured them and their men, saying, “Do not be afraid to serve the Chaldeans. Stay in the land and serve the king of Babylon, and it will go well with you."
     },
     {
+      "block_id": "jsb-jer-40-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “swore to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 40,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-jer-40-10",
       "type": "verse",
       "number": 10,
       "text": "I am going to stay in Mizpah to attend upon the Chaldeans who will come to us. But you may gather wine and figs and oil and put them in your own vessels, and settle in the towns you have occupied.”"
+    },
+    {
+      "block_id": "jsb-jer-40-10-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “summer fruit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 40,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
     },
     {
       "block_id": "jsb-jer-40-11",
@@ -75,6 +114,19 @@
       "type": "verse",
       "number": 12,
       "text": "All these Judeans returned from all the places to which they had scattered. They came to the land of Judah, to Gedaliah at Mizpah, and they gathered large quantities of wine and figs."
+    },
+    {
+      "block_id": "jsb-jer-40-12-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “summer fruit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 40,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-jer-40-13",

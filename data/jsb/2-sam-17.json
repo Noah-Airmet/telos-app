@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-17",
   "title": "2 Samuel 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "And I will bring back all the people to you; when all have come back [except] the man you are after, all the people will be at peace.”"
+    },
+    {
+      "block_id": "jsb-2-sam-17-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Septuagint reads “to you as a bride comes back to her husband; you seek the life of but one man, and…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-sam-17-4",
@@ -59,6 +72,19 @@
       "text": "even now he must be hiding in one of the pits or in some other place. And if any of them fall at the first attack, whoever hears of it will say, ‘A disaster has struck the troops that follow Absalom’;"
     },
     {
+      "block_id": "jsb-2-sam-17-9-commentary-2",
+      "type": "commentary",
+      "text": "Some Septuagint mss. read “the troops” (i.e., Absalom’s).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-2-sam-17-10",
       "type": "verse",
       "number": 10,
@@ -71,6 +97,19 @@
       "text": "So I advise that all Israel from Dan to Beer-sheba—as numerous as the sands of the sea—be called up to join you, and that you yourself march into battle."
     },
     {
+      "block_id": "jsb-2-sam-17-11-commentary-3",
+      "type": "commentary",
+      "text": "Ancient versions read “among them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-2-sam-17-12",
       "type": "verse",
       "number": 12,
@@ -81,6 +120,19 @@
       "type": "verse",
       "number": 13,
       "text": "And if he withdraws into a city, all Israel will bring ropes to that city and drag its stones as far as the riverbed, until not even a pebble of it is left.”"
+    },
+    {
+      "block_id": "jsb-2-sam-17-13-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “it.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-2-sam-17-14",
@@ -125,6 +177,19 @@
       "text": "When Absalom’s servants came to the woman at the house and asked where Ahimaaz and Jonathan were, the woman told them that they had crossed a bit beyond the water. They searched, but found nothing; and they returned to Jerusalem."
     },
     {
+      "block_id": "jsb-2-sam-17-20-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain. Targum reads “the Jordan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-2-sam-17-21",
       "type": "verse",
       "number": 21,
@@ -155,6 +220,19 @@
       "text": "Absalom had appointed Amasa army commander in place of Joab; Amasa was the son of a man named Ithra the Israelite, who had married Abigal, daughter of Nahash and sister of Joab’s mother Zeruiah."
     },
     {
+      "block_id": "jsb-2-sam-17-25-commentary-6",
+      "type": "commentary",
+      "text": "Some Septuagint mss. and 1 Chron. 2.12–17 read “Ishmaelite” and give a somewhat different genealogy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-2-sam-17-26",
       "type": "verse",
       "number": 26,
@@ -173,10 +251,62 @@
       "text": "presented couches, basins, and earthenware; also wheat, barley, flour, parched grain, beans, lentils, parched grain,"
     },
     {
+      "block_id": "jsb-2-sam-17-28-commentary-7",
+      "type": "commentary",
+      "text": "Brought up from v. 29 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "jsb-2-sam-17-28-commentary-8",
+      "type": "commentary",
+      "text": "Lacking in the Septuagint and Syriac.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
       "block_id": "jsb-2-sam-17-29",
       "type": "verse",
       "number": 29,
       "text": "honey, curds, a flock, and cheese from the herd for David and the troops with him to eat. For they knew that the troops must have grown hungry, faint, and thirsty in the wilderness."
+    },
+    {
+      "block_id": "jsb-2-sam-17-29-commentary-9",
+      "type": "commentary",
+      "text": "Emendation yields “curds from the flock.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "jsb-2-sam-17-29-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 17,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     }
   ]
 }

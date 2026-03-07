@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-30",
   "title": "Ezekiel 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "Nubia, Put, and Lud, and all the mixed populations, and Cub, and the inhabitants of the allied countries shall fall by the sword with them."
+    },
+    {
+      "block_id": "jsb-ezek-30-5-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 30,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ezek-30-6",
@@ -107,10 +120,49 @@
       "text": "The young men of Aven and Pi‑beseth shall fall by the sword, and those [towns] shall go into captivity."
     },
     {
+      "block_id": "jsb-ezek-30-17-commentary-2",
+      "type": "commentary",
+      "text": "Elsewhere called “On”; cf. Gen. 41.45, 50; 46.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 30,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
       "block_id": "jsb-ezek-30-18",
       "type": "verse",
       "number": 18,
       "text": "In Tehaphnehes daylight shall be withheld, when I break there the power of Egypt, and there her proud strength comes to an end. [The city] itself shall be covered with cloud, and its daughter towns shall go into captivity."
+    },
+    {
+      "block_id": "jsb-ezek-30-18-commentary-3",
+      "type": "commentary",
+      "text": "Elsewhere vocalized “Tahpanhes”; e.g., Jer. 2.16; 44.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 30,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "jsb-ezek-30-18-commentary-4",
+      "type": "commentary",
+      "text": "Some Heb. mss. and editions read “darkened.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 30,
+        "verse": 18
+      },
+      "verse_start": 18,
+      "verse_end": 18
     },
     {
       "block_id": "jsb-ezek-30-19",

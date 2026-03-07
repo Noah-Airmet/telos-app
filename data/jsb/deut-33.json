@@ -1,7 +1,7 @@
 {
   "document_id": "deut-33",
   "title": "Deuteronomy 33",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,10 +17,49 @@
       "text": "He said: The Lord came from Sinai; He shone upon them from Seir; He appeared from Mount Paran, And approached from Ribeboth-kodesh, Lightning flashing at them from His right."
     },
     {
+      "block_id": "jsb-deut-33-2-commentary-1",
+      "type": "commentary",
+      "text": "Cf. Meribath-kadesh, 32.51.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-deut-33-2-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. mimino ʾeshdath uncertain, perhaps a place name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-deut-33-3",
       "type": "verse",
       "number": 3,
       "text": "Lover, indeed, of the people, Their hallowed are all in Your hand. They followed in Your steps, Accepting Your pronouncements,"
+    },
+    {
+      "block_id": "jsb-deut-33-3-commentary-3",
+      "type": "commentary",
+      "text": "The meaning of vv. 3–5 is uncertain. An alternative rendering, with v. 3 apostrophizing Moses, is: 3Then were, O lover of the people, / All His worshippers in your care; / They followed your lead, / Accepted your precepts. / 4Moses charged us with the Teaching / As the heritage of the congregation of Jacob. / 5Thus was he king in Jeshurun …",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-deut-33-4",
@@ -47,6 +86,19 @@
       "text": "And this he said of Judah: Hear, O Lord the voice of Judah And restore him to his people. Though his own hands strive for him, Help him against his foes."
     },
     {
+      "block_id": "jsb-deut-33-7-commentary-4",
+      "type": "commentary",
+      "text": "Better (vocalizing rab with pathaḥ) “Make his hands strong for him.” Cf. rabbeh, Judg. 9.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-deut-33-8",
       "type": "verse",
       "number": 8,
@@ -65,6 +117,19 @@
       "text": "They shall teach Your laws to Jacob And Your instructions to Israel. They shall offer You incense to savor And whole-offerings on Your altar."
     },
     {
+      "block_id": "jsb-deut-33-10-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “They shall place incense in Your nostril.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-deut-33-11",
       "type": "verse",
       "number": 11,
@@ -77,10 +142,36 @@
       "text": "Of Benjamin he said: Beloved of the Lord, He rests securely beside Him; Ever does He protect him, As he rests between His shoulders."
     },
     {
+      "block_id": "jsb-deut-33-12-commentary-6",
+      "type": "commentary",
+      "text": "Or “He dwells amid his slopes.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
       "block_id": "jsb-deut-33-13",
       "type": "verse",
       "number": 13,
       "text": "And of Joseph he said: Blessed of the Lord be his land With the bounty of dew from heaven, And of the deep that couches below;"
+    },
+    {
+      "block_id": "jsb-deut-33-13-commentary-7",
+      "type": "commentary",
+      "text": "Targum Onkelos and two Hebrew manuscripts read: “With the bounty of heaven above” (meʿal for miṭṭal, cf. Gen. 49.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
     },
     {
       "block_id": "jsb-deut-33-14",
@@ -101,10 +192,49 @@
       "text": "With the bounty of earth and its fullness, And the favor of the Presence in the Bush. May these rest on the head of Joseph, On the crown of the elect of his brothers."
     },
     {
+      "block_id": "jsb-deut-33-16-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “Dweller”; cf. Exod. 3.1 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-deut-33-17",
       "type": "verse",
       "number": 17,
       "text": "Like a firstling bull in his majesty, He has horns like the horns of the wild-ox; With them he gores the peoples, The ends of the earth one and all. These are the myriads of Ephraim, Those are the thousands of Manasseh."
+    },
+    {
+      "block_id": "jsb-deut-33-17-commentary-9",
+      "type": "commentary",
+      "text": "I.e., the one horn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "jsb-deut-33-17-commentary-10",
+      "type": "commentary",
+      "text": "I.e., the other horn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     },
     {
       "block_id": "jsb-deut-33-18",
@@ -131,6 +261,19 @@
       "text": "He chose for himself the best, For there is the portion of the revered chieftain, Where the heads of the people come. He executed the Lord’s judgments And His decisions for Israel."
     },
     {
+      "block_id": "jsb-deut-33-21-commentary-11",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; cf. vv. 3–5 (with note c) above, and saphun “esteemed” in post-biblical Heb.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-deut-33-22",
       "type": "verse",
       "number": 22,
@@ -155,6 +298,19 @@
       "text": "May your doorbolts be iron and copper, And your security last all your days."
     },
     {
+      "block_id": "jsb-deut-33-25-commentary-12",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-deut-33-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +327,19 @@
       "type": "verse",
       "number": 28,
       "text": "Thus Israel dwells in safety, Untroubled is Jacob’s abode, In a land of grain and wine, Under heavens dripping dew."
+    },
+    {
+      "block_id": "jsb-deut-33-28-commentary-13",
+      "type": "commentary",
+      "text": "Others “fountain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 33,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-33-29",

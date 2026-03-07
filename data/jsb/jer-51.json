@@ -1,7 +1,7 @@
 {
   "document_id": "jer-51",
   "title": "Jeremiah 51",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,55 @@
       "text": "Thus said the Lord: See, I am rousing a destructive wind Against Babylon and the inhabitants of Leb-kamai."
     },
     {
+      "block_id": "jsb-jer-51-1-commentary-1",
+      "type": "commentary",
+      "text": "A cipher for Kasdim, “Chaldea.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-jer-51-2",
       "type": "verse",
       "number": 2,
       "text": "I will send strangers against Babylon, and they shall winnow her. And they shall strip her land bare; They shall beset her on all sides On the day of disaster."
     },
     {
+      "block_id": "jsb-jer-51-2-commentary-2",
+      "type": "commentary",
+      "text": "Change of vocalization yields “winnowers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-jer-51-3",
       "type": "verse",
       "number": 3,
       "text": "Let the archer draw his bow, And let him stand ready in his coat of mail! Show no pity to her young men, Wipe out all her host!"
+    },
+    {
+      "block_id": "jsb-jer-51-3-commentary-3",
+      "type": "commentary",
+      "text": "Some Heb. mss. and ancient versions read “Let not” here and in next line.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-jer-51-4",
@@ -33,6 +72,19 @@
       "type": "verse",
       "number": 5,
       "text": "For Israel and Judah were not bereft Of their God the Lord of Hosts, But their land was filled with guilt Before the Holy One of Israel."
+    },
+    {
+      "block_id": "jsb-jer-51-5-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “widowed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-jer-51-6",
@@ -83,6 +135,19 @@
       "text": "O you who dwell by great waters, With vast storehouses, Your time is come, the hour of your end."
     },
     {
+      "block_id": "jsb-jer-51-13-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-jer-51-14",
       "type": "verse",
       "number": 14,
@@ -99,6 +164,19 @@
       "type": "verse",
       "number": 16,
       "text": "When He makes His voice heard, There is a rumbling of waters in the skies; He makes vapors rise from the end of the earth, He makes lightning for the rain, And brings forth wind from His treasuries."
+    },
+    {
+      "block_id": "jsb-jer-51-16-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “At the sound of His making.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-jer-51-17",
@@ -167,6 +245,19 @@
       "text": "Raise a standard on earth, Sound a horn among the nations, Appoint nations against her, Assemble kingdoms against her— Ararat, Minni, and Ashkenaz— Designate a marshal against her, Bring up horses like swarming locusts!"
     },
     {
+      "block_id": "jsb-jer-51-27-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
       "block_id": "jsb-jer-51-28",
       "type": "verse",
       "number": 28,
@@ -197,6 +288,19 @@
       "text": "The fords are captured, And the swamp thickets are consumed in fire; And the fighting men are in panic."
     },
     {
+      "block_id": "jsb-jer-51-32-commentary-8",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-jer-51-33",
       "type": "verse",
       "number": 33,
@@ -207,6 +311,19 @@
       "type": "verse",
       "number": 34,
       "text": "“Nebuchadrezzar king of Babylon Devoured me and discomfited me; He swallowed me like a dragon, He filled his belly with my dainties, And set me down like an empty dish; Then he rinsed me out."
+    },
+    {
+      "block_id": "jsb-jer-51-34-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-jer-51-35",
@@ -227,6 +344,19 @@
       "text": "Babylon shall become rubble, A den for jackals, An object of horror and hissing, Without inhabitant."
     },
     {
+      "block_id": "jsb-jer-51-37-commentary-10",
+      "type": "commentary",
+      "text": "See note at 18.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 37
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
       "block_id": "jsb-jer-51-38",
       "type": "verse",
       "number": 38,
@@ -239,6 +369,19 @@
       "text": "When they are heated, I will set out their drink And get them drunk, that they may become hilarious And then sleep an endless sleep, Never to awake —declares the Lord."
     },
     {
+      "block_id": "jsb-jer-51-39-commentary-11",
+      "type": "commentary",
+      "text": "Emendation yields “With poison [so Syriac] will I set out their drink / And get them drunk till they fall unconscious” (so ancient versions).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
       "block_id": "jsb-jer-51-40",
       "type": "verse",
       "number": 40,
@@ -249,6 +392,19 @@
       "type": "verse",
       "number": 41,
       "text": "How has Sheshach been captured, The praise of the whole earth been taken! How has Babylon become A horror to the nations!"
+    },
+    {
+      "block_id": "jsb-jer-51-41-commentary-12",
+      "type": "commentary",
+      "text": "See note at 25.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 41
+      },
+      "verse_start": 41,
+      "verse_end": 41
     },
     {
       "block_id": "jsb-jer-51-42",
@@ -359,6 +515,32 @@
       "text": "The instructions that the prophet Jeremiah gave to Seraiah son of Neriah son of Mahseiah, when the latter went with King Zedekiah of Judah to Babylonia, in the fourth year of [Zedekiah’s] reign. Seraiah was quartermaster."
     },
     {
+      "block_id": "jsb-jer-51-59-commentary-13",
+      "type": "commentary",
+      "text": "Emendation yields “at the instance of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 59
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
+      "block_id": "jsb-jer-51-59-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 59
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
       "block_id": "jsb-jer-51-60",
       "type": "verse",
       "number": 60,
@@ -387,6 +569,19 @@
       "type": "verse",
       "number": 64,
       "text": "And say, ‘Thus shall Babylon sink and never rise again, because of the disaster that I will bring upon it. And [nations] shall have wearied themselves [for fire].’ ” Thus far the words of Jeremiah."
+    },
+    {
+      "block_id": "jsb-jer-51-64-commentary-15",
+      "type": "commentary",
+      "text": "Cf. v. 58, last line.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 51,
+        "verse": 64
+      },
+      "verse_start": 64,
+      "verse_end": 64
     }
   ]
 }

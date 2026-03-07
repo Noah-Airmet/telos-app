@@ -1,7 +1,7 @@
 {
   "document_id": "dan-11",
   "title": "Daniel 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -147,6 +147,19 @@
       "type": "verse",
       "number": 24,
       "text": "He will invade the richest of provinces unawares, and will do what his father and forefathers never did, lavishing on them spoil, booty, and wealth; he will have designs upon strongholds, but only for a time."
+    },
+    {
+      "block_id": "jsb-dan-11-24-commentary-1",
+      "type": "commentary",
+      "text": "I.e., his followers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 11,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-dan-11-25",

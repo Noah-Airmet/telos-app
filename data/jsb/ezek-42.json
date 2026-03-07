@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-42",
   "title": "Ezekiel 42",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "He took me out, by way of the northern gate, into the outer court, and he led me [westward] up to a complex of chambers that ran parallel to the northern ends of the vacant space and the structure."
     },
     {
+      "block_id": "jsb-ezek-42-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. simply “chambers,” and so elsewhere.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-ezek-42-2",
       "type": "verse",
       "number": 2,
       "text": "The width of its façade—its north side, the one from which it was entered—was 100 cubits, and its depth was 50 cubits."
+    },
+    {
+      "block_id": "jsb-ezek-42-2-commentary-2",
+      "type": "commentary",
+      "text": "See note a at 40.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-ezek-42-2-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “the north entrance”; but cf. v. 4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-ezek-42-3",
@@ -23,10 +62,62 @@
       "text": "At right angles to the 20 cubits of the inner court and to the pavement of the outer court, the complex rose ledge by ledge in three tiers."
     },
     {
+      "block_id": "jsb-ezek-42-3-commentary-4",
+      "type": "commentary",
+      "text": "I.e., the vacant space; cf. 41.13 with note j.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-ezek-42-3-commentary-5",
+      "type": "commentary",
+      "text": "Cf. 40.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-ezek-42-3-commentary-6",
+      "type": "commentary",
+      "text": "Because this part of the inner court was considerably higher than the outer; 40.28–31 and 41.8, 9b–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-ezek-42-4",
       "type": "verse",
       "number": 4,
       "text": "There was an areaway, 10 cubits wide and a road of one cubit, running along the inner-court side of the chamber complex, but its entrances were on its north side."
+    },
+    {
+      "block_id": "jsb-ezek-42-4-commentary-7",
+      "type": "commentary",
+      "text": "Septuagint and Syriac read “and 100 cubits long”; cf. vv. 2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ezek-42-5",
@@ -41,6 +132,19 @@
       "text": "For they were arranged in three tiers, and they had no columns like those of the chambers in the courts. That is why the rise proceeded by stages: from the ground, from the bottom ones, and from the middle ones."
     },
     {
+      "block_id": "jsb-ezek-42-6-commentary-8",
+      "type": "commentary",
+      "text": "See vv. 8–9 referring to chambers along the west wall.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-ezek-42-7",
       "type": "verse",
       "number": 7,
@@ -53,10 +157,49 @@
       "text": "for the chambers in the outer court were themselves 50 cubits deep, thus completing 100 cubits alongside the edifice."
     },
     {
+      "block_id": "jsb-ezek-42-8-commentary-9",
+      "type": "commentary",
+      "text": "Apparently meaning the chamber complex of v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-ezek-42-9",
       "type": "verse",
       "number": 9,
       "text": "Thus, at the foot of that complex of chambers ran a passage—of a width set by the wall in the outer court—which one entered from the east in order to gain access to them from the outer court."
+    },
+    {
+      "block_id": "jsb-ezek-42-9-commentary-10",
+      "type": "commentary",
+      "text": "So kethib; qere “thing giving access.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-ezek-42-9-commentary-11",
+      "type": "commentary",
+      "text": "Brought up from v. 10 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-ezek-42-10",
@@ -65,16 +208,55 @@
       "text": "There was another chamber complex to the east of the vacant space and the structure,"
     },
     {
+      "block_id": "jsb-ezek-42-10-commentary-12",
+      "type": "commentary",
+      "text": "Septuagint reads “south”; cf. v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-ezek-42-11",
       "type": "verse",
       "number": 11,
       "text": "likewise with a passage in front—just like the complex on the north side, with which this one agreed in width and depth and in the exact layout of its exits and entrances."
     },
     {
+      "block_id": "jsb-ezek-42-11-commentary-13",
+      "type": "commentary",
+      "text": "See note a at 40.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-ezek-42-12",
       "type": "verse",
       "number": 12,
       "text": "Accordingly, the entrances to the chamber complex on the south side were approached from the east by the entrance at the head of the corresponding passage along the matching wall."
+    },
+    {
+      "block_id": "jsb-ezek-42-12-commentary-14",
+      "type": "commentary",
+      "text": "Exact meaning of Heb. uncertain; the phrase apparently refers to vv. 7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-ezek-42-13",
@@ -87,6 +269,19 @@
       "type": "verse",
       "number": 14,
       "text": "When the priests enter, they shall not proceed from the consecrated place to the outer court without first leaving here the vestments in which they minister; for the [vestments] are consecrated. Before proceeding to the area open to the people, they shall put on other garments.”"
+    },
+    {
+      "block_id": "jsb-ezek-42-14-commentary-15",
+      "type": "commentary",
+      "text": "Cf. 44.19 and note b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-ezek-42-15",
@@ -123,6 +318,19 @@
       "type": "verse",
       "number": 20,
       "text": "Thus he measured it on the four sides; it had a wall completely surrounding it, 500 [cubits] long on each side, to separate the consecrated from the unconsecrated."
+    },
+    {
+      "block_id": "jsb-ezek-42-20-commentary-16",
+      "type": "commentary",
+      "text": "Lit. “and 500 wide.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 42,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     }
   ]
 }

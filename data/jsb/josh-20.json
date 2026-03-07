@@ -1,7 +1,7 @@
 {
   "document_id": "josh-20",
   "title": "Joshua 20",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -57,6 +57,19 @@
       "type": "verse",
       "number": 9,
       "text": "Those were the towns designated for all the Israelites and for aliens residing among them, to which anyone who killed a person unintentionally might flee, and not die by the hand of the blood avenger before standing trial by the assembly."
+    },
+    {
+      "block_id": "jsb-josh-20-9-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     }
   ]
 }

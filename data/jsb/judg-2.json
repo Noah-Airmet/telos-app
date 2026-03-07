@@ -1,7 +1,7 @@
 {
   "document_id": "judg-2",
   "title": "Judges 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "Therefore, I have resolved not to drive them out before you; they shall become your oppressors, and their gods shall be a snare to you.”"
     },
     {
+      "block_id": "jsb-judg-2-3-commentary-1",
+      "type": "commentary",
+      "text": "So Targum and other ancient versions. Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-judg-2-4",
       "type": "verse",
       "number": 4,
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "So they named that place Bochim, and they offered sacrifices there to the Lord."
+    },
+    {
+      "block_id": "jsb-judg-2-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “weepers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-judg-2-6",
@@ -59,6 +85,19 @@
       "text": "and was buried on his own property, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash."
     },
     {
+      "block_id": "jsb-judg-2-9-commentary-3",
+      "type": "commentary",
+      "text": "Some mss. read “Timnath-serah”; cf. Josh. 24.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
       "block_id": "jsb-judg-2-10",
       "type": "verse",
       "number": 10,
@@ -83,10 +122,36 @@
       "text": "They forsook the Lord and worshiped Baal and the Ashtaroth."
     },
     {
+      "block_id": "jsb-judg-2-13-commentary-4",
+      "type": "commentary",
+      "text": "Canaanite female deities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
       "block_id": "jsb-judg-2-14",
       "type": "verse",
       "number": 14,
       "text": "Then the Lord was incensed at Israel, and He handed them over to foes who plundered them. He surrendered them to their enemies on all sides, and they could no longer hold their own against their enemies."
+    },
+    {
+      "block_id": "jsb-judg-2-14-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “plunderers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-judg-2-15",
@@ -117,6 +182,19 @@
       "type": "verse",
       "number": 19,
       "text": "But when the chieftain died, they would again act basely, even more than the preceding generation—following other gods, worshiping them, and bowing down to them; they omitted none of their practices and stubborn ways."
+    },
+    {
+      "block_id": "jsb-judg-2-19-commentary-6",
+      "type": "commentary",
+      "text": "Lit. “their fathers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 2,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-judg-2-20",

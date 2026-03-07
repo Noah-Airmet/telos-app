@@ -1,7 +1,7 @@
 {
   "document_id": "job-30",
   "title": "Job 30",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "Of what use to me is the strength of their hands? All their vigor is gone."
+    },
+    {
+      "block_id": "jsb-job-30-2-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-job-30-3",
@@ -33,6 +46,19 @@
       "type": "verse",
       "number": 5,
       "text": "Driven out from society, They are cried at like a thief."
+    },
+    {
+      "block_id": "jsb-job-30-5-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-job-30-6",
@@ -71,6 +97,32 @@
       "text": "Because God has disarmed and humbled me, They have thrown off restraint in my presence."
     },
     {
+      "block_id": "jsb-job-30-11-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “He.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "jsb-job-30-11-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “loosened my [bow] string.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-job-30-12",
       "type": "verse",
       "number": 12,
@@ -93,6 +145,19 @@
       "type": "verse",
       "number": 15,
       "text": "Terror tumbles upon me; It sweeps away my honor like the wind; My dignity vanishes like a cloud."
+    },
+    {
+      "block_id": "jsb-job-30-15-commentary-5",
+      "type": "commentary",
+      "text": "Heb. yeshuʿathi taken as related to shoaʿ, “noble.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-job-30-16",
@@ -147,6 +212,19 @@
       "type": "verse",
       "number": 24,
       "text": "Surely He would not strike at a ruin If, in calamity, one cried out to Him."
+    },
+    {
+      "block_id": "jsb-job-30-24-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 30,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
     },
     {
       "block_id": "jsb-job-30-25",

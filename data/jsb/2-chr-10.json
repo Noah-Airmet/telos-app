@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-10",
   "title": "2 Chronicles 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "Rehoboam went to Shechem, for all Israel had come to Shechem to acclaim him king."
+    },
+    {
+      "block_id": "jsb-2-chr-10-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 1 Kings 12.1–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-10-2",
@@ -89,6 +102,19 @@
       "text": "He spoke to them in accordance with the counsel of the young men, and said, “I will make your yoke heavy, and I will add to it; my father flogged you with whips, but I [will do so] with scorpions.”"
     },
     {
+      "block_id": "jsb-2-chr-10-14-commentary-2",
+      "type": "commentary",
+      "text": "Some mss. and printed editions read “my father made”; cf. 1 Kings 12.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 10,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-chr-10-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +125,19 @@
       "type": "verse",
       "number": 16,
       "text": "When all Israel [saw] that the king had not listened to them, the people answered the king: “We have no portion in David, No share in Jesse’s son! To your tents, O Israel! Now look to your own house, O David.” So all Israel returned to their homes."
+    },
+    {
+      "block_id": "jsb-2-chr-10-16-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “tents.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 10,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-chr-10-17",

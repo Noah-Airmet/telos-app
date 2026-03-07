@@ -1,7 +1,7 @@
 {
   "document_id": "ps-68",
   "title": "Psalms 68",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader. Of David. A psalm. A song."
+    },
+    {
+      "block_id": "jsb-ps-68-1-commentary-1",
+      "type": "commentary",
+      "text": "The coherence of this psalm and the meaning of many of its passages are uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 68,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-68-2",

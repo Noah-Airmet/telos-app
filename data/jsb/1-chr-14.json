@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-14",
   "title": "1 Chronicles 14",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "King Hiram of Tyre sent envoys to David with cedar logs, stonemasons, and carpenters to build a palace for him."
+    },
+    {
+      "block_id": "jsb-1-chr-14-1-commentary-1",
+      "type": "commentary",
+      "text": "With vv. 1–16, cf. 2 Sam. 5.11–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 14,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-chr-14-2",
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, and Solomon;"
+    },
+    {
+      "block_id": "jsb-1-chr-14-4-commentary-2",
+      "type": "commentary",
+      "text": "With the list in vv. 4–7, cf. also 1 Chron. 3.5–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 14,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-1-chr-14-5",
@@ -71,6 +97,19 @@
       "text": "Thereupon David ascended Baal-perazim, and David defeated them there. David said, “God burst out against my enemies by my hands as waters burst out.” That is why that place was named Baal-perazim."
     },
     {
+      "block_id": "jsb-1-chr-14-11-commentary-3",
+      "type": "commentary",
+      "text": "Heb. paraṣ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 14,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-chr-14-12",
       "type": "verse",
       "number": 12,
@@ -87,6 +126,19 @@
       "type": "verse",
       "number": 14,
       "text": "David inquired of God once more, and God answered, “Do not go up after them, but circle around them and confront them at the baca trees."
+    },
+    {
+      "block_id": "jsb-1-chr-14-14-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 14,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
     },
     {
       "block_id": "jsb-1-chr-14-15",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-10",
   "title": "1 Samuel 10",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "Samuel took a flask of oil and poured some on Saul’s head and kissed him, and said, “The Lord herewith anoints you ruler over His own people."
     },
     {
+      "block_id": "jsb-1-sam-10-1-commentary-1",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "jsb-1-sam-10-1-commentary-2",
+      "type": "commentary",
+      "text": "Septuagint and Vulgate read “anoints you ruler over His people Israel, and you will govern the people of the Lord and deliver them from the hands of their foes roundabout. And this is the sign for you that the Lord anoints you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-1-sam-10-2",
       "type": "verse",
       "number": 2,
       "text": "When you leave me today, you will meet two men near the tomb of Rachel in the territory of Benjamin, at Zelzah, and they will tell you that the asses you set out to look for have been found, and that your father has stopped being concerned about the asses and is worrying about you, saying: ‘What shall I do about my son?’"
+    },
+    {
+      "block_id": "jsb-1-sam-10-2-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-1-sam-10-3",
@@ -35,6 +74,32 @@
       "text": "After that, you are to go on to the Hill of God, where the Philistine prefects reside. There, as you enter the town, you will encounter a band of prophets coming down from the shrine, preceded by lyres, timbrels, flutes, and harps, and they will be speaking in ecstasy."
     },
     {
+      "block_id": "jsb-1-sam-10-5-commentary-4",
+      "type": "commentary",
+      "text": "Or “Gibeah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-1-sam-10-5-commentary-5",
+      "type": "commentary",
+      "text": "Others “prophesying”; cf. Num. 11.25 and note.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-1-sam-10-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +110,19 @@
       "type": "verse",
       "number": 7,
       "text": "And once these signs have happened to you, act when the occasion arises, for God is with you."
+    },
+    {
+      "block_id": "jsb-1-sam-10-7-commentary-6",
+      "type": "commentary",
+      "text": "See 11.5–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-1-sam-10-8",
@@ -69,6 +147,19 @@
       "type": "verse",
       "number": 11,
       "text": "When all who knew him previously saw him speaking in ecstasy together with the prophets, the people said to one another, “What’s happened to the son of Kish? Is Saul too among the prophets?”"
+    },
+    {
+      "block_id": "jsb-1-sam-10-11-commentary-7",
+      "type": "commentary",
+      "text": "To refer to a person merely as “the son (ben) of…” is slighting; cf. 20.27, 30, 31; Isa. 7.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-1-sam-10-12",
@@ -119,6 +210,19 @@
       "text": "But today you have rejected your God who delivered you from all your troubles and calamities. For you said, ‘No, set up a king over us!’ Now station yourselves before the Lord, by your tribes and clans.”"
     },
     {
+      "block_id": "jsb-1-sam-10-19-commentary-8",
+      "type": "commentary",
+      "text": "So many Heb. mss. and ancient versions. Other mss. and editions read “to Him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-10-20",
       "type": "verse",
       "number": 20,
@@ -131,10 +235,36 @@
       "text": "Then Samuel brought forward the tribe of Benjamin by its clans, and the clan of the Matrites was indicated; and then Saul son of Kish was indicated. But when they looked for him, he was not to be found."
     },
     {
+      "block_id": "jsb-1-sam-10-21-commentary-9",
+      "type": "commentary",
+      "text": "Septuagint reads “then he brought up the family of the Matrites by their men and…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-1-sam-10-22",
       "type": "verse",
       "number": 22,
       "text": "They inquired of the Lord again, “Has anyone else come here?” And the Lord replied, “Yes; he is hiding among the baggage.”"
+    },
+    {
+      "block_id": "jsb-1-sam-10-22-commentary-10",
+      "type": "commentary",
+      "text": "Septuagint reads “Has the man come here?”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-1-sam-10-23",
@@ -161,10 +291,36 @@
       "text": "Saul also went home to Gibeah, accompanied by upstanding men whose hearts God had touched."
     },
     {
+      "block_id": "jsb-1-sam-10-26-commentary-11",
+      "type": "commentary",
+      "text": "In contrast to “scoundrels” (v. 27); understanding Heb. ḥayil as the equivalent of bene ḥayil, as read by Septuagint and 4QSama.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-1-sam-10-27",
       "type": "verse",
       "number": 27,
       "text": "But some scoundrels said, “How can this fellow save us?” So they scorned him and brought him no gift. But he pretended not to mind."
+    },
+    {
+      "block_id": "jsb-1-sam-10-27-commentary-12",
+      "type": "commentary",
+      "text": "Lit. “But he was as one who holds his peace.” Septuagint and 4QSama read “About a month later,” connecting with what follows.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     }
   ]
 }

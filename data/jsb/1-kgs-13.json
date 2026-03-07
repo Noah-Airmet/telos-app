@@ -1,7 +1,7 @@
 {
   "document_id": "1-kgs-13",
   "title": "1 Kings 13",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "a man of God arrived at Bethel from Judah at the command of the Lord. While Jeroboam was standing on the altar to present the offering, the man of God, at the command of the Lord, cried out against the altar:"
+    },
+    {
+      "block_id": "jsb-1-kgs-13-1-commentary-1",
+      "type": "commentary",
+      "text": "I.e., at the top of the steps or ramp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 13,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-1-kgs-13-2",
@@ -71,10 +84,36 @@
       "text": "There was an old prophet living in Bethel; and his sons came and told him all the things that the man of God had done that day in Bethel [and] the words that he had spoken to the king. When they told it to their father,"
     },
     {
+      "block_id": "jsb-1-kgs-13-11-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “son.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 13,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-1-kgs-13-12",
       "type": "verse",
       "number": 12,
       "text": "their father said to them, “Which road did he leave by?” His sons had seen the road taken by the man of God who had come from Judah."
+    },
+    {
+      "block_id": "jsb-1-kgs-13-12-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “And his sons showed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 13,
+        "verse": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
     },
     {
       "block_id": "jsb-1-kgs-13-13",
@@ -177,6 +216,19 @@
       "type": "verse",
       "number": 29,
       "text": "The prophet lifted up the corpse of the man of God, laid it on the ass, and brought it back; it was brought to the town of the old prophet for lamentation and burial."
+    },
+    {
+      "block_id": "jsb-1-kgs-13-29-commentary-4",
+      "type": "commentary",
+      "text": "Lit. “it came.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-kgs",
+        "chapter": 13,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
     },
     {
       "block_id": "jsb-1-kgs-13-30",

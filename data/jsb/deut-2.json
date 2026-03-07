@@ -1,7 +1,7 @@
 {
   "document_id": "deut-2",
   "title": "Deuteronomy 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -39,6 +39,19 @@
       "type": "verse",
       "number": 6,
       "text": "What food you eat you shall obtain from them for money; even the water you drink you shall procure from them for money."
+    },
+    {
+      "block_id": "jsb-deut-2-6-commentary-2",
+      "type": "commentary",
+      "text": "Or “You may obtain food from them to eat for money; and you may also procure water from them to drink for money.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-deut-2-7",
@@ -137,10 +150,36 @@
       "text": "as He did for the descendants of Esau who live in Seir, when He wiped out the Horites before them, so that they dispossessed them and settled in their place, as is still the case."
     },
     {
+      "block_id": "jsb-deut-2-22-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “until this day.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-deut-2-23",
       "type": "verse",
       "number": 23,
       "text": "So, too, with the Avvim who dwelt in villages in the vicinity of Gaza: the Caphtorim, who came from Crete, wiped them out and settled in their place.—"
+    },
+    {
+      "block_id": "jsb-deut-2-23-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “Caphtor.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-deut-2-24",
@@ -171,6 +210,19 @@
       "type": "verse",
       "number": 28,
       "text": "What food I eat you will supply for money, and what water I drink you will furnish for money; just let me pass through—"
+    },
+    {
+      "block_id": "jsb-deut-2-28-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “with my feet.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-deut-2-29",
@@ -209,6 +261,19 @@
       "text": "At that time we captured all his towns, and we doomed every town—men, women, and children—leaving no survivor."
     },
     {
+      "block_id": "jsb-deut-2-34-commentary-6",
+      "type": "commentary",
+      "text": "I.e., placed under ḥerem, which meant the annihilation of the population. Cf. note c at Num. 21.2; Josh. 6.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-deut-2-35",
       "type": "verse",
       "number": 35,
@@ -221,6 +286,19 @@
       "text": "From Aroer on the edge of the Arnon valley, including the town in the valley itself, to Gilead, not a city was too mighty for us; the Lord our God delivered everything to us."
     },
     {
+      "block_id": "jsb-deut-2-36-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
       "block_id": "jsb-deut-2-37",
       "type": "verse",
       "number": 37,
@@ -231,6 +309,19 @@
       "type": "verse",
       "number": 46,
       "text": "Thus, after you had remained at Kadesh all that long time,"
+    },
+    {
+      "block_id": "jsb-deut-2-46-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “many days, like the days that you remained.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
     }
   ]
 }

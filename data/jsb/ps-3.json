@@ -1,7 +1,7 @@
 {
   "document_id": "ps-3",
   "title": "Psalms 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "many say of me, “There is no deliverance for him through God.” Selah."
+    },
+    {
+      "block_id": "jsb-ps-3-3-commentary-1",
+      "type": "commentary",
+      "text": "A liturgical direction of uncertain meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-ps-3-4",
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "Rise, O Lord! Deliver me, O my God! For You slap all my enemies in the face; You break the teeth of the wicked."
+    },
+    {
+      "block_id": "jsb-ps-3-8-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “cheek.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-3-9",

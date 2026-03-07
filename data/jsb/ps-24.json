@@ -1,7 +1,7 @@
 {
   "document_id": "ps-24",
   "title": "Psalms 24",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "He who has clean hands and a pure heart, who has not taken a false oath by My life or sworn deceitfully."
     },
     {
+      "block_id": "jsb-ps-24-4-commentary-1",
+      "type": "commentary",
+      "text": "Ancient versions and some mss. read “His.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ps-24-5",
       "type": "verse",
       "number": 5,
@@ -39,6 +52,19 @@
       "type": "verse",
       "number": 6,
       "text": "Such is the circle of those who turn to Him, Jacob, who seek Your presence. Selah."
+    },
+    {
+      "block_id": "jsb-ps-24-6-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “generation.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-ps-24-7",

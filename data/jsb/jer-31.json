@@ -1,7 +1,7 @@
 {
   "document_id": "jer-31",
   "title": "Jeremiah 31",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "At that time—declares the Lord—I will be God to all the clans of Israel, and they shall be My people."
+    },
+    {
+      "block_id": "jsb-jer-31-1-commentary-1",
+      "type": "commentary",
+      "text": "In some editions this verse is 30.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-jer-31-2",
@@ -21,6 +34,19 @@
       "type": "verse",
       "number": 3,
       "text": "The Lord revealed Himself to me of old. Eternal love I conceived for you then; Therefore I continue My grace to you."
+    },
+    {
+      "block_id": "jsb-jer-31-3-commentary-2",
+      "type": "commentary",
+      "text": "Emendation yields “him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-jer-31-4",
@@ -47,6 +73,32 @@
       "text": "For thus said the Lord: Cry out in joy for Jacob, Shout at the crossroads of the nations! Sing aloud in praise, and say: Save, O Lord, Your people, The remnant of Israel."
     },
     {
+      "block_id": "jsb-jer-31-7-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-jer-31-7-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “The Lord has saved His people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-jer-31-8",
       "type": "verse",
       "number": 8,
@@ -57,6 +109,19 @@
       "type": "verse",
       "number": 9,
       "text": "They shall come with weeping, And with compassion will I guide them. I will lead them to streams of water, By a level road where they will not stumble. For I am ever a Father to Israel, Ephraim is My first-born."
+    },
+    {
+      "block_id": "jsb-jer-31-9-commentary-5",
+      "type": "commentary",
+      "text": "For this meaning, cf. Zech. 12.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-jer-31-10",
@@ -95,6 +160,19 @@
       "text": "Thus said the Lord: A cry is heard in Ramah— Wailing, bitter weeping— Rachel weeping for her children. She refuses to be comforted For her children, who are gone."
     },
     {
+      "block_id": "jsb-jer-31-15-commentary-6",
+      "type": "commentary",
+      "text": "Or “on a height.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
       "block_id": "jsb-jer-31-16",
       "type": "verse",
       "number": 16,
@@ -119,10 +197,36 @@
       "text": "Now that I have turned back, I am filled with remorse; Now that I am made aware, I strike my thigh. I am ashamed and humiliated, For I bear the disgrace of my youth."
     },
     {
+      "block_id": "jsb-jer-31-19-commentary-7",
+      "type": "commentary",
+      "text": "I.e., as a gesture of self-reproach.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-jer-31-20",
       "type": "verse",
       "number": 20,
       "text": "Truly, Ephraim is a dear son to Me, A child that is dandled! Whenever I have turned against him, My thoughts would dwell on him still. That is why My heart yearns for him; I will receive him back in love —declares the Lord."
+    },
+    {
+      "block_id": "jsb-jer-31-20-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “spoken.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
     },
     {
       "block_id": "jsb-jer-31-21",
@@ -131,10 +235,36 @@
       "text": "Erect markers, Set up signposts; Keep in mind the highway, The road that you traveled. Return, Maiden Israel! Return to these towns of yours!"
     },
     {
+      "block_id": "jsb-jer-31-21-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-jer-31-22",
       "type": "verse",
       "number": 22,
       "text": "How long will you waver, O rebellious daughter? (For the Lord has created something new on earth: A woman courts a man.)"
+    },
+    {
+      "block_id": "jsb-jer-31-22-commentary-10",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-jer-31-23",
@@ -149,6 +279,19 @@
       "text": "Judah and all its towns alike shall be inhabited by the farmers and such as move about with the flocks."
     },
     {
+      "block_id": "jsb-jer-31-24-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “they shall travel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
       "block_id": "jsb-jer-31-25",
       "type": "verse",
       "number": 25,
@@ -159,6 +302,19 @@
       "type": "verse",
       "number": 26,
       "text": "At this I awoke and looked about, and my sleep had been pleasant to me."
+    },
+    {
+      "block_id": "jsb-jer-31-26-commentary-12",
+      "type": "commentary",
+      "text": "I.e., the vision in the preceding verses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
     },
     {
       "block_id": "jsb-jer-31-27",
@@ -179,6 +335,19 @@
       "text": "In those days, they shall no longer say, “Parents have eaten sour grapes and children’s teeth are blunted.”"
     },
     {
+      "block_id": "jsb-jer-31-29-commentary-13",
+      "type": "commentary",
+      "text": "Others “set on edge.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 29
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
       "block_id": "jsb-jer-31-30",
       "type": "verse",
       "number": 30,
@@ -195,6 +364,19 @@
       "type": "verse",
       "number": 32,
       "text": "It will not be like the covenant I made with their fathers, when I took them by the hand to lead them out of the land of Egypt, a covenant which they broke, though I espoused them—declares the Lord."
+    },
+    {
+      "block_id": "jsb-jer-31-32-commentary-14",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; compare 3.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 31,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
     },
     {
       "block_id": "jsb-jer-31-33",

@@ -1,7 +1,7 @@
 {
   "document_id": "judg-12",
   "title": "Judges 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "And Jephthah gathered all the men of Gilead and fought the Ephraimites. The men of Gilead defeated the Ephraimites; for they had said, “You Gileadites are nothing but fugitives from Ephraim—being in Manasseh is like being in Ephraim.”"
     },
     {
+      "block_id": "jsb-judg-12-4-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 12,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-judg-12-5",
       "type": "verse",
       "number": 5,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "After him, Ibzan of Bethlehem led Israel."
+    },
+    {
+      "block_id": "jsb-judg-12-8-commentary-2",
+      "type": "commentary",
+      "text": "I.e., Bethlehem in Zebulun; cf. Josh. 19.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-judg-12-9",

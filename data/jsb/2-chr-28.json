@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-28",
   "title": "2 Chronicles 28",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -117,6 +117,19 @@
       "type": "verse",
       "number": 19,
       "text": "Thus the Lord brought Judah low on account of King Ahaz of Israel, for he threw off restraint in Judah and trespassed against the Lord."
+    },
+    {
+      "block_id": "jsb-2-chr-28-19-commentary-1",
+      "type": "commentary",
+      "text": "Some mss. and ancient versions read “Judah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 28,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-2-chr-28-20",

@@ -1,7 +1,7 @@
 {
   "document_id": "1-chr-5",
   "title": "1 Chronicles 5",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -165,6 +165,19 @@
       "type": "verse",
       "number": 27,
       "text": "The sons of Levi: Gershom, Kohath, and Merari."
+    },
+    {
+      "block_id": "jsb-1-chr-5-27-commentary-1",
+      "type": "commentary",
+      "text": "In some editions, chap. 6 begins here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-chr",
+        "chapter": 5,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-1-chr-5-28",

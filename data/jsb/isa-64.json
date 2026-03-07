@@ -1,7 +1,7 @@
 {
   "document_id": "isa-64",
   "title": "Isaiah 64",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "So that mountains would quake before You— As when fire kindles brushwood, And fire makes water boil— To make Your name known to Your adversaries So that nations will tremble at Your Presence,"
+    },
+    {
+      "block_id": "jsb-isa-64-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of vv. 1–4 uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 64,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-isa-64-2",
@@ -23,10 +36,36 @@
       "text": "Such things had never been heard or noted. No eye has seen [them], O God, but You, Who act for those who trust in You."
     },
     {
+      "block_id": "jsb-isa-64-3-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “Him.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 64,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-isa-64-4",
       "type": "verse",
       "number": 4,
       "text": "Yet you have struck him who would gladly do justice, And remember You in Your ways. It is because You are angry that we have sinned; We have been steeped in them from of old, And can we be saved?"
+    },
+    {
+      "block_id": "jsb-isa-64-4-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “Because You have hidden Yourself we have offended.” For the thought cf. 63.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 64,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-isa-64-5",
@@ -39,6 +78,19 @@
       "type": "verse",
       "number": 6,
       "text": "Yet no one invokes Your name, Rouses himself to cling to You. For You have hidden Your face from us, And made us melt because of our iniquities."
+    },
+    {
+      "block_id": "jsb-isa-64-6-commentary-4",
+      "type": "commentary",
+      "text": "Emendation yields “delivered us into the hands of …”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 64,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-64-7",

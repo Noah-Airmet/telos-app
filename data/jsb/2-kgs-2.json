@@ -1,7 +1,7 @@
 {
   "document_id": "2-kgs-2",
   "title": "2 Kings 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -21,6 +21,19 @@
       "type": "verse",
       "number": 3,
       "text": "Disciples of the prophets at Bethel came out to Elisha and said to him, “Do you know that the Lord will take your master away from you today?” He replied, “I know it, too; be silent.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-2-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “from your head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 2,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-2-kgs-2-4",
@@ -57,6 +70,19 @@
       "type": "verse",
       "number": 9,
       "text": "As they were crossing, Elijah said to Elisha, “Tell me, what can I do for you before I am taken from you?” Elisha answered, “Let a double portion of your spirit pass on to me.”"
+    },
+    {
+      "block_id": "jsb-2-kgs-2-9-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “two-thirds”; cf. Zech. 13.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-kgs",
+        "chapter": 2,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-2-kgs-2-10",

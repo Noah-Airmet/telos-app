@@ -1,7 +1,7 @@
 {
   "document_id": "2-sam-12",
   "title": "2 Samuel 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -89,6 +89,19 @@
       "text": "However, since you have spurned the enemies of the Lord by this deed, even the child about to be born to you shall die.”"
     },
     {
+      "block_id": "jsb-2-sam-12-14-commentary-1",
+      "type": "commentary",
+      "text": "The phrase is intended to avoid saying “spurned the Lord”; cf. note b‑b at 1 Sam. 25.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-2-sam-12-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +112,19 @@
       "type": "verse",
       "number": 16,
       "text": "David entreated God for the boy; David fasted, and he went in and spent the night lying on the ground."
+    },
+    {
+      "block_id": "jsb-2-sam-12-16-commentary-2",
+      "type": "commentary",
+      "text": "Some Septuagint mss. and 4QSama add “in sackcloth”; cf. 1 Kings 21.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-sam-12-17",
@@ -155,16 +181,55 @@
       "text": "and He sent a message through the prophet Nathan; and he was named Jedidiah at the instance of the Lord."
     },
     {
+      "block_id": "jsb-2-sam-12-25-commentary-3",
+      "type": "commentary",
+      "text": "I.e., “Beloved of the Lord.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-2-sam-12-26",
       "type": "verse",
       "number": 26,
       "text": "Joab attacked Rabbah of Ammon and captured the royal city."
     },
     {
+      "block_id": "jsb-2-sam-12-26-commentary-4",
+      "type": "commentary",
+      "text": "Vv. 26–29 are abridged in 1 Chron. 20.1b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
       "block_id": "jsb-2-sam-12-27",
       "type": "verse",
       "number": 27,
       "text": "Joab sent messengers to David and said, “I have attacked Rabbah and I have already captured the water city."
+    },
+    {
+      "block_id": "jsb-2-sam-12-27-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain; perhaps the source of the water supply.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-2-sam-12-28",
@@ -183,6 +248,45 @@
       "type": "verse",
       "number": 30,
       "text": "The crown was taken from the head of their king and it was placed on David’s head—it weighed a talent of gold, and [on it] were precious stones. He also carried off a vast amount of booty from the city."
+    },
+    {
+      "block_id": "jsb-2-sam-12-30-commentary-6",
+      "type": "commentary",
+      "text": "Vv. 30–31 are found also in 1 Chron. 20.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "jsb-2-sam-12-30-commentary-7",
+      "type": "commentary",
+      "text": "Heb. “malkam,” perhaps equivalent to “Milcom,” the Ammonite deity; cf. 1 Kings 11.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "jsb-2-sam-12-30-commentary-8",
+      "type": "commentary",
+      "text": "So Targum and 1 Chron. 20.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 12,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
     },
     {
       "block_id": "jsb-2-sam-12-31",

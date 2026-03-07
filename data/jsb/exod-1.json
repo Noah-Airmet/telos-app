@@ -1,7 +1,7 @@
 {
   "document_id": "exod-1",
   "title": "Exodus 1",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -65,10 +65,36 @@
       "text": "Let us deal shrewdly with them, so that they may not increase; otherwise in the event of war they may join our enemies in fighting against us and rise from the ground.”"
     },
     {
+      "block_id": "jsb-exod-1-10-commentary-1",
+      "type": "commentary",
+      "text": "Meaning perhaps from their wretched condition, cf. Hos. 2.2; or “gain ascendancy over the country.” Others “get them up out of the land.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 1,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-exod-1-11",
       "type": "verse",
       "number": 11,
       "text": "So they set taskmasters over them to oppress them with forced labor; and they built garrison cities for Pharaoh: Pithom and Rameses."
+    },
+    {
+      "block_id": "jsb-exod-1-11-commentary-2",
+      "type": "commentary",
+      "text": "Others “store cities.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 1,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-exod-1-12",
@@ -89,6 +115,19 @@
       "text": "the various labors that they made them perform. Ruthlessly they made life bitter for them with harsh labor at mortar and bricks and with all sorts of tasks in the field."
     },
     {
+      "block_id": "jsb-exod-1-14-commentary-3",
+      "type": "commentary",
+      "text": "Brought up from the end of the verse for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 1,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-exod-1-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +138,19 @@
       "type": "verse",
       "number": 16,
       "text": "saying, “When you deliver the Hebrew women, look at the birthstool: if it is a boy, kill him; if it is a girl, let her live.”"
+    },
+    {
+      "block_id": "jsb-exod-1-16-commentary-4",
+      "type": "commentary",
+      "text": "More exactly, the brick or stone supports used by Egyptian women during childbirth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 1,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-exod-1-17",
@@ -129,6 +181,19 @@
       "type": "verse",
       "number": 21,
       "text": "And because the midwives feared God, He established households for them."
+    },
+    {
+      "block_id": "jsb-exod-1-21-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb. batim uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 1,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-exod-1-22",

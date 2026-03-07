@@ -1,7 +1,7 @@
 {
   "document_id": "eccl-4",
   "title": "Ecclesiastes 4",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "I further observed all the oppression that goes on under the sun: the tears of the oppressed, with none to comfort them; and the power of their oppressors—with none to comfort them."
+    },
+    {
+      "block_id": "jsb-eccl-4-1-commentary-1",
+      "type": "commentary",
+      "text": "Cf. 3.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-eccl-4-2",
@@ -35,6 +48,19 @@
       "text": "[True,] The fool folds his hands together And has to eat his own flesh."
     },
     {
+      "block_id": "jsb-eccl-4-5-commentary-2",
+      "type": "commentary",
+      "text": "I.e., does not work; cf. Prov. 6.10; 24.33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-eccl-4-6",
       "type": "verse",
       "number": 6,
@@ -53,10 +79,49 @@
       "text": "the case of the man who is alone, with no companion, who has neither son nor brother; yet he amasses wealth without limit, and his eye is never sated with riches. For whom, now, is he amassing it while denying himself enjoyment? That too is a futility and an unhappy business."
     },
     {
+      "block_id": "jsb-eccl-4-8-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “am I amassing…myself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
       "block_id": "jsb-eccl-4-9",
       "type": "verse",
       "number": 9,
       "text": "Two are better off than one, in that they have greater benefit from their earnings."
+    },
+    {
+      "block_id": "jsb-eccl-4-9-commentary-4",
+      "type": "commentary",
+      "text": "4.9–5.8 consists of a series of observations, each of which is introduced by some slight association with what precedes. The theme of 4.4–8 is not resumed until 5.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "jsb-eccl-4-9-commentary-5",
+      "type": "commentary",
+      "text": "Emendation yields “hope for”; cf. 2.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
     },
     {
       "block_id": "jsb-eccl-4-10",
@@ -89,10 +154,36 @@
       "text": "For the former can emerge from a dungeon to become king; while the latter, even if born to kingship, can become a pauper."
     },
     {
+      "block_id": "jsb-eccl-4-14-commentary-6",
+      "type": "commentary",
+      "text": "Taking rash as a verb; cf. Ps. 34.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-eccl-4-15",
       "type": "verse",
       "number": 15,
       "text": "[However,] I reflected about all the living who walk under the sun with that youthful successor who steps into his place."
+    },
+    {
+      "block_id": "jsb-eccl-4-15-commentary-7",
+      "type": "commentary",
+      "text": "I.e., “the contemporaries of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-eccl-4-16",
@@ -101,10 +192,62 @@
       "text": "Unnumbered are the multitudes of all those who preceded them; and later generations will not acclaim him either. For that too is futile and pursuit of wind."
     },
     {
+      "block_id": "jsb-eccl-4-16-commentary-8",
+      "type": "commentary",
+      "text": "And so never heard of the gifted youth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-eccl-4-16-commentary-9",
+      "type": "commentary",
+      "text": "For despite his wisdom, he too will be forgotten; cf. 2.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-eccl-4-16-commentary-10",
+      "type": "commentary",
+      "text": "I.e., the advantage of wisdom over folly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
       "block_id": "jsb-eccl-4-17",
       "type": "verse",
       "number": 17,
       "text": "Be not overeager to go to the House of God: more acceptable is obedience than the offering of fools, for they know nothing [but] to do wrong."
+    },
+    {
+      "block_id": "jsb-eccl-4-17-commentary-11",
+      "type": "commentary",
+      "text": "Lit. “Guard your foot when it [or, you] would go.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
     }
   ]
 }

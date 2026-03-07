@@ -1,7 +1,7 @@
 {
   "document_id": "ezek-23",
   "title": "Ezekiel 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,10 +29,49 @@
       "text": "Their names were: the elder one, Oholah; and her sister, Oholibah. They became Mine, and they bore sons and daughters. As for their names, Oholah is Samaria, and Oholibah is Jerusalem."
     },
     {
+      "block_id": "jsb-ezek-23-4-commentary-1",
+      "type": "commentary",
+      "text": "I.e., “Tent.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "jsb-ezek-23-4-commentary-2",
+      "type": "commentary",
+      "text": "I.e., “My Tent Is in Her.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-ezek-23-5",
       "type": "verse",
       "number": 5,
       "text": "Oholah whored while she was Mine, and she lusted after her lovers, after the Assyrians, warriors"
+    },
+    {
+      "block_id": "jsb-ezek-23-5-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-ezek-23-6",
@@ -125,10 +164,36 @@
       "text": "she lusted for concubinage with them, whose members were like those of asses and whose organs were like those of stallions."
     },
     {
+      "block_id": "jsb-ezek-23-20-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
       "block_id": "jsb-ezek-23-21",
       "type": "verse",
       "number": 21,
       "text": "Thus you reverted to the wantonness of your youth, remembering your youthful breasts, when the men of Egypt handled your nipples."
+    },
+    {
+      "block_id": "jsb-ezek-23-21-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “for the sake of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-ezek-23-22",
@@ -153,6 +218,19 @@
       "type": "verse",
       "number": 25,
       "text": "I will direct My passion against you, and they shall deal with you in fury: they shall cut off your nose and ears. The last of you shall fall by the sword; they shall take away your sons and daughters, and your remnant shall be devoured by fire."
+    },
+    {
+      "block_id": "jsb-ezek-23-25-commentary-6",
+      "type": "commentary",
+      "text": "I.e., the former lovers, vv. 22 ff.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     },
     {
       "block_id": "jsb-ezek-23-26",
@@ -209,6 +287,19 @@
       "text": "You shall drink it and drain it, And gnaw its shards; And you shall tear your breasts. For I have spoken—declares the Lord god."
     },
     {
+      "block_id": "jsb-ezek-23-34-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
       "block_id": "jsb-ezek-23-35",
       "type": "verse",
       "number": 35,
@@ -219,6 +310,19 @@
       "type": "verse",
       "number": 36,
       "text": "Then the Lord said to me: O mortal, arraign Oholah and Oholibah, and charge them with their abominations."
+    },
+    {
+      "block_id": "jsb-ezek-23-36-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “will you arraign”; cf. 22.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 23,
+        "verse": 36
+      },
+      "verse_start": 36,
+      "verse_end": 36
     },
     {
       "block_id": "jsb-ezek-23-37",

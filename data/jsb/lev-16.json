@@ -1,7 +1,7 @@
 {
   "document_id": "lev-16",
   "title": "Leviticus 16",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,19 @@
       "type": "verse",
       "number": 2,
       "text": "The Lord said to Moses: Tell your brother Aaron that he is not to come at will into the Shrine behind the curtain, in front of the cover that is upon the ark, lest he die; for I appear in the cloud over the cover."
+    },
+    {
+      "block_id": "jsb-lev-16-2-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “at any time.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 16,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-lev-16-3",
@@ -45,6 +58,19 @@
       "type": "verse",
       "number": 7,
       "text": "Aaron shall take the two he‑goats and let them stand before the Lord at the entrance of the Tent of Meeting;"
+    },
+    {
+      "block_id": "jsb-lev-16-7-commentary-2",
+      "type": "commentary",
+      "text": "Moved up from v. 8 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 16,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-lev-16-8",
@@ -129,6 +155,19 @@
       "type": "verse",
       "number": 21,
       "text": "Aaron shall lay both his hands upon the head of the live goat and confess over it all the iniquities and transgressions of the Israelites, whatever their sins, putting them on the head of the goat; and it shall be sent off to the wilderness through a designated man."
+    },
+    {
+      "block_id": "jsb-lev-16-21-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb. ʿitti uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 16,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
     },
     {
       "block_id": "jsb-lev-16-22",

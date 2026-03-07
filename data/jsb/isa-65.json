@@ -1,7 +1,7 @@
 {
   "document_id": "isa-65",
   "title": "Isaiah 65",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "I responded to those who did not ask, I was at hand to those who did not seek Me; I said, “Here I am, here I am,” To a nation that did not invoke My name."
+    },
+    {
+      "block_id": "jsb-isa-65-1-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “I let Myself be inquired of …”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-isa-65-2",
@@ -35,16 +48,68 @@
       "text": "Who say, “Keep your distance! Don’t come closer! For I would render you consecrated.” Such things make My anger rage, Like fire blazing all day long."
     },
     {
+      "block_id": "jsb-isa-65-5-commentary-2",
+      "type": "commentary",
+      "text": "Taking qedashtikha as equivalent to qiddashtikha, cf. Ezek. 44.19; others “For I am holier than thou.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-isa-65-6",
       "type": "verse",
       "number": 6,
       "text": "See, this is recorded before Me; I will not stand idly by, but will repay, Deliver their sins into their bosom,"
     },
     {
+      "block_id": "jsb-isa-65-6-commentary-3",
+      "type": "commentary",
+      "text": "Brought up from v. 7 for clarity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "jsb-isa-65-6-commentary-4",
+      "type": "commentary",
+      "text": "Heb. “your.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
       "block_id": "jsb-isa-65-7",
       "type": "verse",
       "number": 7,
       "text": "And the sins of their fathers as well —said the Lord— For they made offerings upon the mountains And affronted Me upon the hills. I will count out their recompense in full, Into their bosoms."
+    },
+    {
+      "block_id": "jsb-isa-65-7-commentary-5",
+      "type": "commentary",
+      "text": "Taking rishonah as equivalent to beroshah; cf. Lev. 5.24; Jer. 16.18. Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-isa-65-8",
@@ -65,10 +130,36 @@
       "text": "Sharon shall become a pasture for flocks, And the Valley of Achor a place for cattle to lie down, For My people who seek Me."
     },
     {
+      "block_id": "jsb-isa-65-10-commentary-6",
+      "type": "commentary",
+      "text": "Emendation yields “Jeshimon,” the bleak southeast corner of the Jordan Valley; cf. Num. 21.20; 23.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
       "block_id": "jsb-isa-65-11",
       "type": "verse",
       "number": 11,
       "text": "But as for you who forsake the Lord, Who ignore My holy mountain, Who set a table for Luck And fill a mixing bowl for Destiny:"
+    },
+    {
+      "block_id": "jsb-isa-65-11-commentary-7",
+      "type": "commentary",
+      "text": "Names of heathen deities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-isa-65-12",
@@ -93,6 +184,19 @@
       "type": "verse",
       "number": 15,
       "text": "You shall leave behind a name By which My chosen ones shall curse: “So may the Lord god slay you!” But His servants shall be given a different name."
+    },
+    {
+      "block_id": "jsb-isa-65-15-commentary-8",
+      "type": "commentary",
+      "text": "I.e., a name to be used in blessing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
     },
     {
       "block_id": "jsb-isa-65-16",
@@ -137,10 +241,36 @@
       "text": "They shall not build for others to dwell in, Or plant for others to enjoy. For the days of My people shall be As long as the days of a tree, My chosen ones shall outlive The work of their hands."
     },
     {
+      "block_id": "jsb-isa-65-22-commentary-9",
+      "type": "commentary",
+      "text": "Lit. “wear out.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
       "block_id": "jsb-isa-65-23",
       "type": "verse",
       "number": 23,
       "text": "They shall not toil to no purpose; They shall not bear children for terror, But they shall be a people blessed by the Lord, And their offspring shall remain with them."
+    },
+    {
+      "block_id": "jsb-isa-65-23-commentary-10",
+      "type": "commentary",
+      "text": "Emendation yields “in vain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-isa-65-24",
@@ -153,6 +283,19 @@
       "type": "verse",
       "number": 25,
       "text": "The wolf and the lamb shall graze together, And the lion shall eat straw like the ox, And the serpent’s food shall be earth. In all My sacred mount Nothing evil or vile shall be done —said the Lord."
+    },
+    {
+      "block_id": "jsb-isa-65-25-commentary-11",
+      "type": "commentary",
+      "text": "See note at 11.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 65,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
     }
   ]
 }

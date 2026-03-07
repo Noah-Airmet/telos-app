@@ -1,7 +1,7 @@
 {
   "document_id": "isa-48",
   "title": "Isaiah 48",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,10 +11,49 @@
       "text": "Listen to this, O House of Jacob, Who bear the name Israel And have issued from the waters of Judah, Who swear by the name of the Lord And invoke the God of Israel— Though not in truth and sincerity—"
     },
     {
+      "block_id": "jsb-isa-48-1-commentary-1",
+      "type": "commentary",
+      "text": "Emendation yields “loins.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-isa-48-2",
       "type": "verse",
       "number": 2,
       "text": "For you are called after the Holy City And you do lean on the God of Israel, Whose name is Lord of Hosts:"
+    },
+    {
+      "block_id": "jsb-isa-48-2-commentary-2",
+      "type": "commentary",
+      "text": "Heb. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-isa-48-2-commentary-3",
+      "type": "commentary",
+      "text": "Emendation yields “the holy people.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-isa-48-3",
@@ -39,6 +78,19 @@
       "type": "verse",
       "number": 6,
       "text": "You have heard all this; look, must you not acknowledge it? As of now, I announce to you new things, Well-guarded secrets you did not know."
+    },
+    {
+      "block_id": "jsb-isa-48-6-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 6
+      },
+      "verse_start": 6,
+      "verse_end": 6
     },
     {
       "block_id": "jsb-isa-48-7",
@@ -71,6 +123,19 @@
       "text": "For My sake, My own sake, do I act— Lest [My name] be dishonored! I will not give My glory to another."
     },
     {
+      "block_id": "jsb-isa-48-11-commentary-5",
+      "type": "commentary",
+      "text": "These words are supplied in some ancient versions; cf. v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
       "block_id": "jsb-isa-48-12",
       "type": "verse",
       "number": 12,
@@ -89,6 +154,19 @@
       "text": "Assemble, all of you, and listen! Who among you foretold these things: “He whom the Lord loves Shall work His will against Babylon, And, with His might, against Chaldea”?"
     },
     {
+      "block_id": "jsb-isa-48-14-commentary-6",
+      "type": "commentary",
+      "text": "Heb. “them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
       "block_id": "jsb-isa-48-15",
       "type": "verse",
       "number": 15,
@@ -99,6 +177,32 @@
       "type": "verse",
       "number": 16,
       "text": "Draw near to Me and hear this: From the beginning, I did not speak in secret; From the time anything existed, I was there. “And now the Lord god has sent me, endowed with His spirit.”"
+    },
+    {
+      "block_id": "jsb-isa-48-16-commentary-7",
+      "type": "commentary",
+      "text": "I.e., I foretold it through prophets.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-isa-48-16-commentary-8",
+      "type": "commentary",
+      "text": "Lit. “and His spirit.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-isa-48-17",
@@ -117,6 +221,19 @@
       "type": "verse",
       "number": 19,
       "text": "Your offspring would be as many as the sand, Their issue as many as its grains. Their name would never be cut off Or obliterated from before Me."
+    },
+    {
+      "block_id": "jsb-isa-48-19-commentary-9",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 48,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
     },
     {
       "block_id": "jsb-isa-48-20",

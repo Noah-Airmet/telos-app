@@ -1,7 +1,7 @@
 {
   "document_id": "neh-12",
   "title": "Nehemiah 12",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -51,6 +51,19 @@
       "type": "verse",
       "number": 8,
       "text": "The Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, in charge of thanksgiving songs, he and his brothers;"
+    },
+    {
+      "block_id": "jsb-neh-12-8-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 12,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-neh-12-9",

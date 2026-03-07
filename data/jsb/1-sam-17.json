@@ -1,7 +1,7 @@
 {
   "document_id": "1-sam-17",
   "title": "1 Samuel 17",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -29,6 +29,19 @@
       "text": "A champion of the Philistine forces stepped forward; his name was Goliath of Gath, and he was six cubits and a span tall."
     },
     {
+      "block_id": "jsb-1-sam-17-4-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “the man of the space between,” i.e., between the armies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
       "block_id": "jsb-1-sam-17-5",
       "type": "verse",
       "number": 5,
@@ -51,6 +64,19 @@
       "type": "verse",
       "number": 8,
       "text": "He stopped and called out to the ranks of Israel and he said to them, “Why should you come out to engage in battle? I am the Philistine [champion], and you are Saul’s servants. Choose one of your men and let him come down against me."
+    },
+    {
+      "block_id": "jsb-1-sam-17-8-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-1-sam-17-9",
@@ -119,6 +145,19 @@
       "text": "Saul and the brothers and all the men of Israel were in the valley of Elah, in the war against the Philistines."
     },
     {
+      "block_id": "jsb-1-sam-17-19-commentary-3",
+      "type": "commentary",
+      "text": "Heb. “they.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 19
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
       "block_id": "jsb-1-sam-17-20",
       "type": "verse",
       "number": 20,
@@ -155,6 +194,19 @@
       "text": "And the men of Israel were saying [among themselves], “Do you see that man coming out? He comes out to defy Israel! The man who kills him will be rewarded by the king with great riches; he will also give him his daughter in marriage and grant exemption to his father’s house in Israel.”"
     },
     {
+      "block_id": "jsb-1-sam-17-25-commentary-4",
+      "type": "commentary",
+      "text": "I.e., freedom from royal levies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
       "block_id": "jsb-1-sam-17-26",
       "type": "verse",
       "number": 26,
@@ -171,6 +223,19 @@
       "type": "verse",
       "number": 28,
       "text": "When Eliab, his oldest brother, heard him speaking to the men, Eliab became angry with David and said, “Why did you come down here, and with whom did you leave those few sheep in the wilderness? I know your impudence and your impertinence: you came down to watch the fighting!”"
+    },
+    {
+      "block_id": "jsb-1-sam-17-28-commentary-5",
+      "type": "commentary",
+      "text": "Lit. “badness of heart.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
     },
     {
       "block_id": "jsb-1-sam-17-29",
@@ -197,6 +262,19 @@
       "text": "David said to Saul, “Let no man’s courage fail him. Your servant will go and fight that Philistine!”"
     },
     {
+      "block_id": "jsb-1-sam-17-32-commentary-6",
+      "type": "commentary",
+      "text": "Septuagint reads “not my lord’s.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
       "block_id": "jsb-1-sam-17-33",
       "type": "verse",
       "number": 33,
@@ -207,6 +285,19 @@
       "type": "verse",
       "number": 34,
       "text": "David replied to Saul, “Your servant has been tending his father’s sheep, and if a lion or a bear came and carried off an animal from the flock,"
+    },
+    {
+      "block_id": "jsb-1-sam-17-34-commentary-7",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
     },
     {
       "block_id": "jsb-1-sam-17-35",
@@ -233,16 +324,55 @@
       "text": "Saul clothed David in his own garment; he placed a bronze helmet on his head and fastened a breastplate on him."
     },
     {
+      "block_id": "jsb-1-sam-17-38-commentary-8",
+      "type": "commentary",
+      "text": "Heb. “clothed him in a breastplate” (cf. v. 5), because a breastplate was combined with a leather jerkin.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 38
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
       "block_id": "jsb-1-sam-17-39",
       "type": "verse",
       "number": 39,
       "text": "David girded his sword over his garment. Then he tried to walk; but he was not used to it. And David said to Saul, “I cannot walk in these, for I am not used to them.” So David took them off."
     },
     {
+      "block_id": "jsb-1-sam-17-39-commentary-9",
+      "type": "commentary",
+      "text": "Septuagint reads “was unable to walk, for…”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 39
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
       "block_id": "jsb-1-sam-17-40",
       "type": "verse",
       "number": 40,
       "text": "He took his stick, picked a few smooth stones from the wadi, put them in the pocket of his shepherd’s bag and, sling in hand, he went toward the Philistine."
+    },
+    {
+      "block_id": "jsb-1-sam-17-40-commentary-10",
+      "type": "commentary",
+      "text": "Lit. “five.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
     },
     {
       "block_id": "jsb-1-sam-17-41",
@@ -281,6 +411,32 @@
       "text": "This very day the Lord will deliver you into my hands. I will kill you and cut off your head; and I will give the carcasses of the Philistine camp to the birds of the sky and the beasts of the earth. All the earth shall know that there is a God in Israel."
     },
     {
+      "block_id": "jsb-1-sam-17-46-commentary-11",
+      "type": "commentary",
+      "text": "Septuagint reads “your carcass and the carcasses.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "jsb-1-sam-17-46-commentary-12",
+      "type": "commentary",
+      "text": "So many Heb. mss. and ancient versions; other mss. and the editions read “to.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 46
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
       "block_id": "jsb-1-sam-17-47",
       "type": "verse",
       "number": 47,
@@ -317,6 +473,19 @@
       "text": "The men of Israel and Judah rose up with a war cry and they pursued the Philistines all the way to Gai and up to the gates of Ekron; the Philistines fell mortally wounded along the road to Shaarim up to Gath and Ekron."
     },
     {
+      "block_id": "jsb-1-sam-17-52-commentary-13",
+      "type": "commentary",
+      "text": "Septuagint reads “Gath”; cf. end of verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 52
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
       "block_id": "jsb-1-sam-17-53",
       "type": "verse",
       "number": 53,
@@ -327,6 +496,19 @@
       "type": "verse",
       "number": 54,
       "text": "David took the head of the Philistine and brought it to Jerusalem; and he put his weapons in his own tent."
+    },
+    {
+      "block_id": "jsb-1-sam-17-54-commentary-14",
+      "type": "commentary",
+      "text": "I.e., after David’s capture of Jerusalem (2 Sam. 5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 17,
+        "verse": 54
+      },
+      "verse_start": 54,
+      "verse_end": 54
     },
     {
       "block_id": "jsb-1-sam-17-55",

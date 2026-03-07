@@ -1,7 +1,7 @@
 {
   "document_id": "exod-15",
   "title": "Exodus 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -15,6 +15,45 @@
       "type": "verse",
       "number": 2,
       "text": "The Lord is my strength and might; He is become my deliverance. This is my God and I will enshrine Him; The God of my father, and I will exalt Him."
+    },
+    {
+      "block_id": "jsb-exod-15-2-commentary-1",
+      "type": "commentary",
+      "text": "Heb. Yah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-exod-15-2-commentary-2",
+      "type": "commentary",
+      "text": "Others “song.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "jsb-exod-15-2-commentary-3",
+      "type": "commentary",
+      "text": "Others “glorify.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 15,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
     },
     {
       "block_id": "jsb-exod-15-3",
@@ -69,6 +108,19 @@
       "type": "verse",
       "number": 11,
       "text": "Who is like You, O Lord, among the celestials; Who is like You, majestic in holiness, Awesome in splendor, working wonders!"
+    },
+    {
+      "block_id": "jsb-exod-15-11-commentary-4",
+      "type": "commentary",
+      "text": "Others “mighty.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 15,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
     },
     {
       "block_id": "jsb-exod-15-12",
@@ -141,6 +193,19 @@
       "type": "verse",
       "number": 23,
       "text": "They came to Marah, but they could not drink the water of Marah because it was bitter; that is why it was named Marah."
+    },
+    {
+      "block_id": "jsb-exod-15-23-commentary-5",
+      "type": "commentary",
+      "text": "I.e., “bitter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "exod",
+        "chapter": 15,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
     },
     {
       "block_id": "jsb-exod-15-24",

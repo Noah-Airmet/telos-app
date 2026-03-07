@@ -1,7 +1,7 @@
 {
   "document_id": "job-2",
   "title": "Job 2",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -27,6 +27,19 @@
       "type": "verse",
       "number": 4,
       "text": "The Adversary answered the Lord, “Skin for skin—all that a man has he will give up for his life."
+    },
+    {
+      "block_id": "jsb-job-2-4-commentary-1",
+      "type": "commentary",
+      "text": "Apparently a proverb whose meaning is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 2,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-job-2-5",

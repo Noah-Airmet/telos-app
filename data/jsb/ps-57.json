@@ -1,7 +1,7 @@
 {
   "document_id": "ps-57",
   "title": "Psalms 57",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "For the leader; al tashḥeth. Of David. A michtam; when he fled from Saul into a cave."
+    },
+    {
+      "block_id": "jsb-ps-57-1-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 57,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-ps-57-2",
@@ -47,10 +60,36 @@
       "text": "They prepared a net for my feet to ensnare me; they dug a pit for me, but they fell into it. Selah."
     },
     {
+      "block_id": "jsb-ps-57-7-commentary-2",
+      "type": "commentary",
+      "text": "Cf. Mishnaic Heb. kefifah, a wicker basket used in fishing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 57,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
       "block_id": "jsb-ps-57-8",
       "type": "verse",
       "number": 8,
       "text": "My heart is firm, O God; my heart is firm; I will sing, I will chant a hymn."
+    },
+    {
+      "block_id": "jsb-ps-57-8-commentary-3",
+      "type": "commentary",
+      "text": "With vv. 8–12, cf. Ps. 108.2–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 57,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
     },
     {
       "block_id": "jsb-ps-57-9",

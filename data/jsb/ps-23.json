@@ -1,7 +1,7 @@
 {
   "document_id": "ps-23",
   "title": "Psalms 23",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -17,6 +17,19 @@
       "text": "He makes me lie down in green pastures; He leads me to water in places of repose;"
     },
     {
+      "block_id": "jsb-ps-23-2-commentary-1",
+      "type": "commentary",
+      "text": "Others “still waters.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-ps-23-3",
       "type": "verse",
       "number": 3,
@@ -27,6 +40,19 @@
       "type": "verse",
       "number": 4,
       "text": "Though I walk through a valley of deepest darkness, I fear no harm, for You are with me; Your rod and Your staff—they comfort me."
+    },
+    {
+      "block_id": "jsb-ps-23-4-commentary-2",
+      "type": "commentary",
+      "text": "Others “the valley of the shadow of death.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
     },
     {
       "block_id": "jsb-ps-23-5",

@@ -1,7 +1,7 @@
 {
   "document_id": "judg-3",
   "title": "Judges 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -11,16 +11,68 @@
       "text": "These are the nations that the Lord left so that He might might test by them all the Israelites who had not known any of the wars of Canaan,"
     },
     {
+      "block_id": "jsb-judg-3-1-commentary-1",
+      "type": "commentary",
+      "text": "The sentence structure of vv. 1–2 is uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
       "block_id": "jsb-judg-3-2",
       "type": "verse",
       "number": 2,
       "text": "so that succeeding generations of Israelites might be made to experience war—but only those who had not known the former wars:"
     },
     {
+      "block_id": "jsb-judg-3-2-commentary-2",
+      "type": "commentary",
+      "text": "Lit. “them formerly.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
       "block_id": "jsb-judg-3-3",
       "type": "verse",
       "number": 3,
       "text": "the five principalities of the Philistines and all the Canaanites, Sidonians, and Hivites who inhabited the hill country of the Lebanon from Mount Baal-hermon to Lebo-hamath."
+    },
+    {
+      "block_id": "jsb-judg-3-3-commentary-3",
+      "type": "commentary",
+      "text": "Lit. “lords.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "jsb-judg-3-3-commentary-4",
+      "type": "commentary",
+      "text": "See note at Num. 13.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
     },
     {
       "block_id": "jsb-judg-3-4",
@@ -131,10 +183,36 @@
       "text": "Reaching with his left hand, Ehud drew the dagger from his right side and drove it into [Eglon’s] belly."
     },
     {
+      "block_id": "jsb-judg-3-21-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “his.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
       "block_id": "jsb-judg-3-22",
       "type": "verse",
       "number": 22,
       "text": "The fat closed over the blade and the hilt went in after the blade—for he did not pull the dagger out of his belly—and the filth came out."
+    },
+    {
+      "block_id": "jsb-judg-3-22-commentary-6",
+      "type": "commentary",
+      "text": "Meaning of Heb. uncertain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
     },
     {
       "block_id": "jsb-judg-3-23",
@@ -189,6 +267,19 @@
       "type": "verse",
       "number": 31,
       "text": "After him came Shamgar son of Anath, who slew six hundred Philistines with an ox‑goad. He too was a champion of Israel."
+    },
+    {
+      "block_id": "jsb-judg-3-31-commentary-7",
+      "type": "commentary",
+      "text": "Or “the Beth-anathite.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 3,
+        "verse": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
     }
   ]
 }

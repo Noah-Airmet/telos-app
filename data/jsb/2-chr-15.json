@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-15",
   "title": "2 Chronicles 15",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "At those times, no wayfarer was safe, for there was much tumult among all the inhabitants of the lands."
+    },
+    {
+      "block_id": "jsb-2-chr-15-5-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “one who goes out and one who comes in.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 15,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-2-chr-15-6",
@@ -99,6 +112,32 @@
       "type": "verse",
       "number": 16,
       "text": "He also deposed Maacah mother of King Asa from the rank of queen mother, because she had made an abominable thing for [the goddess] Asherah. Asa cut down her abominable thing, reduced it to dust, and burned it in the Wadi Kidron."
+    },
+    {
+      "block_id": "jsb-2-chr-15-16-commentary-2",
+      "type": "commentary",
+      "text": "With vv. 16–19, cf. 1 Kings 15.13–16",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 15,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "jsb-2-chr-15-16-commentary-3",
+      "type": "commentary",
+      "text": "I.e., Asa.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 15,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-2-chr-15-17",

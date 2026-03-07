@@ -1,7 +1,7 @@
 {
   "document_id": "josh-22",
   "title": "Joshua 22",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -45,6 +45,32 @@
       "type": "verse",
       "number": 7,
       "text": "To the one half-tribe of Manasseh Moses had assigned territory in Bashan, and to the other Joshua assigned [territory] on the west side of the Jordan, with their kinsmen. Furthermore, when Joshua sent them off to their homes, he blessed them"
+    },
+    {
+      "block_id": "jsb-josh-22-7-commentary-1",
+      "type": "commentary",
+      "text": "I.e., the other nine tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "jsb-josh-22-7-commentary-2",
+      "type": "commentary",
+      "text": "I.e., the two and a half tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 22,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     },
     {
       "block_id": "jsb-josh-22-8",
@@ -165,6 +191,19 @@
       "type": "verse",
       "number": 27,
       "text": "but as a witness between you and us, and between the generations to come—that we may perform the service of the Lord before Him with our burnt offerings, our sacrifices, and our offerings of well-being; and that your children should not say to our children in time to come, ‘You have no share in the Lord.’"
+    },
+    {
+      "block_id": "jsb-josh-22-27-commentary-3",
+      "type": "commentary",
+      "text": "I.e., at Shiloh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 22,
+        "verse": 27
+      },
+      "verse_start": 27,
+      "verse_end": 27
     },
     {
       "block_id": "jsb-josh-22-28",

@@ -1,7 +1,7 @@
 {
   "document_id": "2-chr-11",
   "title": "2 Chronicles 11",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -9,6 +9,19 @@
       "type": "verse",
       "number": 1,
       "text": "When Rehoboam arrived in Jerusalem, he mustered the house of Judah and Benjamin, 180,000 picked fighting men, to make war with Israel in order to restore the kingdom to Rehoboam."
+    },
+    {
+      "block_id": "jsb-2-chr-11-1-commentary-1",
+      "type": "commentary",
+      "text": "With 11.1–4, cf. 1 Kings 12.21–24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-chr",
+        "chapter": 11,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
     },
     {
       "block_id": "jsb-2-chr-11-2",

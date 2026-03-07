@@ -1,7 +1,7 @@
 {
   "document_id": "josh-3",
   "title": "Joshua 3",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -33,6 +33,19 @@
       "type": "verse",
       "number": 5,
       "text": "And Joshua said to the people, “Purify yourselves, for tomorrow the Lord will perform wonders in your midst.”"
+    },
+    {
+      "block_id": "jsb-josh-3-5-commentary-1",
+      "type": "commentary",
+      "text": "See Exod. 19.10, 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 3,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
     },
     {
       "block_id": "jsb-josh-3-6",
@@ -99,6 +112,19 @@
       "type": "verse",
       "number": 16,
       "text": "the waters coming down from upstream piled up in a single heap a great way off, at Adam, the town next to Zarethan; and those flowing away downstream to the Sea of the Arabah (the Dead Sea) ran out completely. So the people crossed near Jericho."
+    },
+    {
+      "block_id": "jsb-josh-3-16-commentary-2",
+      "type": "commentary",
+      "text": "So kethib; qere “from.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 3,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
     },
     {
       "block_id": "jsb-josh-3-17",

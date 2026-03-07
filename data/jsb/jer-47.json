@@ -1,7 +1,7 @@
 {
   "document_id": "jer-47",
   "title": "Jeremiah 47",
-  "type": "scripture",
+  "type": "study-bible",
   "translation": "NJPS",
   "blocks": [
     {
@@ -23,6 +23,19 @@
       "text": "At the clatter of the stamping hoofs of his stallions, At the noise of his chariots, The rumbling of their wheels, Fathers shall not look to their children Out of sheer helplessness"
     },
     {
+      "block_id": "jsb-jer-47-3-commentary-1",
+      "type": "commentary",
+      "text": "Lit. “weakness of hands.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 47,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
       "block_id": "jsb-jer-47-4",
       "type": "verse",
       "number": 4,
@@ -35,6 +48,45 @@
       "text": "Baldness has come upon Gaza, Ashkelon is destroyed. O remnant of their valley, How long will you gash yourself?"
     },
     {
+      "block_id": "jsb-jer-47-5-commentary-2",
+      "type": "commentary",
+      "text": "Shaving the head and gashing the body were expressions of mourning; cf. Deut. 14.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 47,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-jer-47-5-commentary-3",
+      "type": "commentary",
+      "text": "Septuagint reads “the Anakites”; cf. Josh. 11.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 47,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "jsb-jer-47-5-commentary-4",
+      "type": "commentary",
+      "text": "Shaving the head and gashing the body were expressions of mourning; cf. Deut. 14.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 47,
+        "verse": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
       "block_id": "jsb-jer-47-6",
       "type": "verse",
       "number": 6,
@@ -45,6 +97,19 @@
       "type": "verse",
       "number": 7,
       "text": "How can it be quiet When the Lord has given it orders Against Ashkelon and the seacoast, Given it assignment there?"
+    },
+    {
+      "block_id": "jsb-jer-47-7-commentary-5",
+      "type": "commentary",
+      "text": "Heb. “you.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 47,
+        "verse": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
     }
   ]
 }
