@@ -5,13 +5,6 @@ interface VerseBlockProps {
   highlights?: Highlight[];
   comparisonText?: string;
   showComparisonDiff?: boolean;
-  onWordClick?: (payload: {
-    word: string;
-    blockId: string;
-    startOffset: number;
-    endOffset: number;
-    rect: DOMRect;
-  }) => void;
 }
 
 interface TextRange {
@@ -95,7 +88,6 @@ export function VerseBlock({
   highlights = [],
   comparisonText,
   showComparisonDiff = false,
-  onWordClick,
 }: VerseBlockProps) {
   if (block.type === "heading") {
     return (
@@ -172,19 +164,19 @@ export function VerseBlock({
         continue;
       }
 
-      if (token && onWordClick) {
+      if (token) {
         nodes.push(
           <span
             key={`segment-${start}-${end}`}
             onClick={(event) => {
               event.stopPropagation();
-              onWordClick({
-                word: token.text,
-                blockId: block.block_id,
-                startOffset: token.start_offset,
-                endOffset: token.end_offset,
-                rect: event.currentTarget.getBoundingClientRect(),
-              });
+              const selection = window.getSelection();
+              if (selection) {
+                const range = document.createRange();
+                range.selectNodeContents(event.currentTarget as Node);
+                selection.removeAllRanges();
+                selection.addRange(range);
+              }
             }}
             className={`cursor-pointer rounded-[2px] px-0.5 transition-colors hover:bg-blue-100 dark:hover:bg-blue-500/20 ${
               hasDiff ? "bg-amber-200/60 dark:bg-amber-500/20" : ""

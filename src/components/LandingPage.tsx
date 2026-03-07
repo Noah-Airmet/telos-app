@@ -266,8 +266,8 @@ export function LandingPage() {
       <div
         className="relative z-10 w-full h-[100dvh]"
         style={{
-          WebkitMaskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 80px)',
-          maskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 80px)'
+          WebkitMaskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 160px)',
+          maskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 160px)'
         }}
       >
         <main ref={mainRef} className="w-full h-full overflow-y-auto snap-y snap-mandatory scroll-smooth">
@@ -334,7 +334,7 @@ export function LandingPage() {
               </div>
             </div>
 
-            {/* 003 - OFFLINE - Left offset */}
+            {/* 003 - PLAN - Left offset */}
             <div className="min-h-[60vh] flex items-center">
               <div className="ml-4 md:ml-[15vw]">
                 <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>003</p>
@@ -390,6 +390,9 @@ export function LandingPage() {
                 </p>
               </div>
             </div>
+
+            {/* Spacer before Marquee to avoid KEYBOARD overlapping */}
+            <div className="h-[20vh] md:h-[30vh]"></div>
           </section>
 
           {/* Marquee Divider */}
@@ -397,13 +400,16 @@ export function LandingPage() {
             <div className="marquee-track">
               {[...Array(2)].map((_, i) => (
                 <span key={i} className="flex">
-                  {["PARALLEL", "COMMAND", "OFFLINE", "ANCHORED", "LOOKUP", "KEYBOARD"].map((word) => (
+                  {["COMPARE", "COMMAND", "PLAN", "CONTEXT", "LOOKUP", "KEYBOARD", "PARALLEL", "ANCHORED"].map((word) => (
                     <span key={`${i}-${word}`} className="marquee-word">{word} &mdash;&mdash;&mdash;</span>
                   ))}
                 </span>
               ))}
             </div>
           </div>
+
+          {/* Spacer before Introducing TELOS to prevent layout jump overlap */}
+          <div className="h-[30vh] md:h-[50vh]"></div>
 
           {/* Section 4: TELOS & Login */}
           <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 pb-[10vh]">

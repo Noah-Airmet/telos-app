@@ -76,7 +76,7 @@ export function NotesPanel({ draftNoteTarget, onClearDraft }: NotesPanelProps) {
               value={draftText}
               onChange={(e) => setDraftText(e.target.value)}
               placeholder="Write your thoughts..."
-              className="w-full text-sm bg-transparent border border-gray-200 dark:border-gray-700 rounded p-2 outline-none focus:border-blue-500 min-h-[100px] resize-y mb-2"
+              className="w-full text-sm font-serif bg-transparent border border-gray-200 dark:border-gray-700 rounded p-2 outline-none focus:border-blue-500 min-h-[100px] resize-y mb-2"
             />
             <input
               type="text"
@@ -124,7 +124,7 @@ export function NotesPanel({ draftNoteTarget, onClearDraft }: NotesPanelProps) {
           notes.sort((a, b) => b.updated_at - a.updated_at).map(note => (
             <div key={note.id} className="bg-white dark:bg-gray-800 p-3 rounded-lg shadow-sm border border-gray-100 dark:border-gray-700">
               <div className="text-[10px] text-[var(--text-secondary)] mb-1 font-mono break-all">{note.block_id}</div>
-              <p className="text-sm text-[var(--text-primary)] whitespace-pre-wrap">{note.text}</p>
+              <p className="text-sm font-serif text-[var(--text-primary)] whitespace-pre-wrap">{note.text}</p>
 
               {note.tags && note.tags.length > 0 && (
                 <div className="flex flex-wrap gap-1 mt-2">

@@ -82,6 +82,7 @@ export function ReadingPane({
     startOffset: number;
     endOffset: number;
     rect: DOMRect;
+    text: string;
   } | null>(null);
 
   useEffect(() => {
@@ -140,7 +141,8 @@ export function ReadingPane({
       blockId,
       startOffset,
       endOffset,
-      rect
+      rect,
+      text: range.toString().trim()
     });
   }, []);
 
@@ -347,15 +349,6 @@ export function ReadingPane({
                   : undefined
               }
               showComparisonDiff={Boolean(showComparisonDiffs)}
-              onWordClick={({ word, rect }) => {
-                setSelectionNode(null);
-                window.getSelection()?.removeAllRanges();
-                setSelectedWord({
-                  word,
-                  rect,
-                  definitions: lookupDictionaryEntries(dictionaryEntries, word),
-                });
-              }}
             />
           ))}
         </div>
@@ -399,6 +392,22 @@ export function ReadingPane({
               className="text-xs font-medium px-2 py-1 rounded text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
             >
               Note
+            </button>
+            <div className="w-px h-6 bg-gray-200 dark:bg-gray-700 mx-1 self-center" />
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                setSelectedWord({
+                  word: selectionNode.text,
+                  rect: selectionNode.rect,
+                  definitions: lookupDictionaryEntries(dictionaryEntries, selectionNode.text.toLowerCase()),
+                });
+                setSelectionNode(null);
+                window.getSelection()?.removeAllRanges();
+              }}
+              className="text-xs font-medium px-2 py-1 rounded text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            >
+              Dictionary
             </button>
           </div>
         )}
