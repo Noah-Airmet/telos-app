@@ -130,6 +130,10 @@ export function ReadingPane({
   } | null>(null);
 
   const currentTranslation = manifests?.find((m) => m.profile === profile) ?? null;
+  const comparisonIndex = useMemo(() => buildCompareUnitIndex(comparisonDoc), [comparisonDoc]);
+  const canShowComparisonDiffs = Boolean(
+    showComparisonDiffs && comparisonDoc && haveComparableOverlap(doc, comparisonDoc)
+  );
 
   // ── Data subscriptions ────────────────────────────────────────────────────────
 
