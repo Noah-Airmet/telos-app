@@ -5,16 +5,6 @@
   "translation": "Hardy Annotated",
   "blocks": [
     {
-      "block_id": "bom-w-of-m-0-0-commentary-1",
-      "type": "commentary",
-      "text": "Words of Mormon catapults readers, who have just learned about King Benjamin, five centuries into the future for a brief editorial note from the Book of Mormon’s primary editor, Mormon, writing about 385 ce, before returning them to 130 bce to continue with the story of Benjamin’s abdication in the first chapter of Mosiah. Mormon describes his own discovery of the Small Plates, which readers have just finished reading, and how he decided to append them to his abridgment of the Large Plates of Nephi. When readers turn the page and begin the book of Mosiah, they will find themselves in the midst of a different sort of story, retold by a narrator, as opposed to the first-person writing that characterized the Small Plates. The transition, spurred by Martin Harris’s loss of the 116 pages, is not exactly smooth. It appears that the first two original chapters of Mosiah, which recounted the reigns of Mosiah1 and Benjamin, were part of the stolen manuscript, and Mormon fills in the gap between the end of the Small Plates and the surviving portion of his abridgment with seven verses summarizing the highlights of Benjamin’s reign (1.12–18). The Book of Mormon narrative would have been fuller and more cogent if Mormon had included additional details about the ways that kings Mosiah and Benjamin had rescued Nephite culture as it was faltering."
-    },
-    {
-      "block_id": "bom-w-of-m-0-0-commentary-2",
-      "type": "commentary",
-      "text": "Words of Mormon is dated to ca. 385 ce."
-    },
-    {
       "block_id": "bom-w-of-m-intro-heading-2",
       "type": "heading",
       "text": "The Small Plates of Nephi1"
@@ -44,7 +34,7 @@
       "text": "And now I, Mormon, proceed to finish out my record, which I take from the plates of Nephi; and I make it according to the knowledge and the understanding which God has given me. Wherefore, it came to pass that after Amaleki had delivered up these plates into the hands of king Benjamin, he took them and put them with the other plates, which contained records which had been handed down by the kings, from generation to generation until the days of king Benjamin. And they were handed down from king Benjamin, from generation to generation until they have fallen into my hands. And I, Mormon, pray to God that they may be preserved from this time henceforth. And I know that they will be preserved; for there are great things written upon them, out of which my people and their brethren shall be judged at the great and last day, according to the word of God which is written."
     },
     {
-      "block_id": "bom-w-of-m-1-heading-7",
+      "block_id": "bom-w-of-m-1-heading-5",
       "type": "heading",
       "text": "King Benjamin’s Achievements"
     },

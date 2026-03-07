@@ -4,6 +4,58 @@ All notable changes to the Telos Gospel Library project will be documented in th
 
 ## [Unreleased]
 
+## [0.3.0] - Pipeline Repair & AI Inspection Tooling
+
+### Fixed
+- **NRSVue profile — wrong book number mapping:** The entire NT/Deuterocanonical mapping was
+  guessed incorrectly. In this EPUB, NT books are numbered 40–66 (Matthew–Revelation) and
+  Deuterocanonical books are 67–84 (Tobit–4 Maccabees). The previous mapping had them swapped,
+  causing every NT book to silently output wrong content (e.g. "2 Peter 151" was actually Psalm 151).
+  Fixed by inspecting actual verse IDs (`v[bookNum:2][chapter:3][verse:3]`) in the EPUB HTML.
+- **NRSVue profile — Psalm 151 chapter normalization:** The EPUB encodes Psalm 151 as bookNum=81,
+  chapter=151. Added normalization so it stores as `ps-151-1` with title "Psalm 151 1".
+- **Hardy profile — wrong CSS selector for book detection:** `h1.chaptertitle1` (nonexistent)
+  replaced with the correct `h1.chaptertitle`, which only exists for 2 of 15 books anyway.
+- **Hardy profile — book detection for 13 of 15 books was absent:** Only 2 Nephi and Moroni have
+  `h1.chaptertitle`. All other books (1 Nephi, Jacob, Enos, Mosiah, Alma, etc.) are only
+  identifiable from the EPUB TOC. Replaced HTML-scraping book detection with a TOC-derived
+  `filename → bookInfo` map built at parse time from `toc.ncx` entries.
+- **Hardy profile — one document per spine file instead of per chapter:** A spine file can contain
+  all 22 chapters of 1 Nephi. The old parser emitted one giant document per file (38 total).
+  Restructured to split on chapter-label paragraphs (`span.label`), emitting one TelosDocument
+  per chapter (226 total, matching LDS BoM structure and ID format `bom-{abbrev}-{chapter}`).
+- **Hardy profile — section headings stacked at top of chapter:** Global `$("h1.h1").each()`
+  pre-extracted all headings into a flat array prepended to every chapter. Fixed by processing
+  all elements in DOM order so headings appear inline between the verse groups they introduce.
+- **Hardy profile — trailing headings assigned to wrong chapter:** Headings in DOM order appear
+  before the chapter-label paragraph that opens the next chapter. When flushing a chapter,
+  trailing heading blocks are now stripped and carried forward as the opening blocks of the
+  next chapter.
+- **Hardy profile — preface/intro essays leaking into chapter 1:** Front-matter files (editor's
+  preface, book introductions) had no chapter labels, so their text accumulated in `chapterBlocks`
+  with `currentChapter=0` and silently became part of chapter 1. Fixed: when `currentChapter=0`,
+  discard all non-heading accumulated blocks on flush.
+- **Hardy profile — person disambiguator subscripts rendered as plain digits:** Hardy uses
+  `<sub>1</sub>` to distinguish people sharing a name (e.g. Nephi¹ vs the later Nephi). The text
+  extractor concatenated these inline as "Nephi1". Fixed by converting `<sub>` digit elements to
+  Unicode subscript characters (₀₁₂₃₄₅₆₇₈₉) before extracting heading text.
+
+### Added
+- **`scripts/inspect-epub.ts`** — EPUB structure inspector to run before writing any new profile.
+  Outputs: top-level TOC entries (book boundaries), spine file list, all heading CSS classes,
+  NRSVue-style verse ID book mapping (auto-detected), paragraph class frequencies, and a DOM
+  sample. Paste output into Claude/Gemini to generate a profile. Usage:
+  `npx tsx scripts/inspect-epub.ts path/to/book.epub`
+- **`docs/pipeline/ai_pipeline_strategy.md`** — Rewritten with the correct 4-step agent workflow:
+  inspect → AI generates profile → validate → regenerate manifest. Documents the four named EPUB
+  structure archetypes, rules for profile authors (human or AI), and the lesson that book
+  boundaries must come from the TOC, not heading elements.
+
+### Changed
+- Updated block/document counts across all profiles:
+  - NRSVue: 1,380 → 1,398 chapters, 39,809 → 40,263 blocks (correct NT + Apocrypha books)
+  - Hardy: 38 → 226 chapters, 3,162 → 3,643 blocks (per-chapter split, all 15 books correct)
+
 ### Added
 - **Firebase Hosting & Deployment:**
   - Added `firebase.json` with SPA hosting config (serves from `dist/`, rewrites all routes to `index.html`, aggressive cache headers on `/assets/**` and `/data/**`).

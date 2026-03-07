@@ -62,7 +62,7 @@
     font-family: var(--font-serif);
     font-size: 1.125rem;
     line-height: 1.75;
-    user-select: auto;
+    user-select: text;
     /* Allow text selection inside content */
 
     /* Make the inherently condensed serif font slightly wider */

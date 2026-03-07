@@ -361,6 +361,7 @@ export function ReadingPane({
               left: `${selectionNode.rect.left + (selectionNode.rect.width / 2)}px`,
               transform: 'translateX(-50%)'
             }}
+            onMouseDown={(e) => e.preventDefault()}
           >
             {COLORS.map((c) => (
               <button

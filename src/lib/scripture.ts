@@ -5,6 +5,7 @@ export interface ChapterEntry {
   title: string;
   chapter: number | null;
   canonical_chapter?: number | null;
+  sequence_number?: number;
   compare_ready?: boolean;
 }
 
@@ -14,6 +15,7 @@ export interface BookEntry {
   canonical_book_id: string;
   work_id: string;
   compare_ready: boolean;
+  sequence_number?: number;
   chapters: ChapterEntry[];
 }
 
@@ -88,11 +90,13 @@ function normalizeManifest(rawManifests: TranslationManifest[]): TranslationMani
         canonical_book_id: canonicalBookId,
         work_id: inferWorkId(canonicalBookId || manifest.profile),
         compare_ready: false,
+        sequence_number: rawBook.sequence_number,
         chapters: rawBook.chapters.map((chapter) => ({
           ...chapter,
           canonical_chapter: isComparableChapter(chapter) ? chapter.chapter : null,
+          sequence_number: chapter.sequence_number,
           compare_ready: isComparableChapter(chapter),
-        })),
+        })).sort((a, b) => (a.sequence_number ?? 99999) - (b.sequence_number ?? 99999)),
       };
 
       const group = bookGroups.get(canonicalBookId) || [];
@@ -114,6 +118,8 @@ function normalizeManifest(rawManifests: TranslationManifest[]): TranslationMani
         compare_ready: isBookComparable(bestEntry),
       };
     });
+
+    books.sort((a, b) => (a.sequence_number ?? 99999) - (b.sequence_number ?? 99999));
 
     return {
       ...manifest,

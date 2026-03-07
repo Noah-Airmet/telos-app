@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import type { BookEntry, TranslationManifest } from "../lib/scripture";
 import {
   getLocalDictionaryEntries,
@@ -6,6 +6,105 @@ import {
   subscribeToLocalStudyData,
 } from "../db/db";
 import { importDictionaryFile } from "../lib/studyTools";
+
+// ─── Library schema ───────────────────────────────────────────────────────────
+// "profile" links to a live TranslationManifest; undefined = coming soon.
+// "type" drives the filter pill system.
+
+type WorkType = "scripture" | "reference" | "conference" | "curriculum" | "imported";
+
+interface WorkEntry {
+  id: string;
+  label: string;
+  meta?: string;
+  profile?: string;
+  type: WorkType;
+}
+
+interface Collection {
+  id: string;
+  label: string;
+  works: WorkEntry[];
+}
+
+const LIBRARY: Collection[] = [
+  {
+    id: "standard-works",
+    label: "Standard Works",
+    works: [
+      { id: "lds-bom",  label: "Book of Mormon",      meta: "LDS Edition",             profile: "lds-bom",  type: "scripture" },
+      { id: "lds-dc",   label: "Doctrine & Covenants", meta: "LDS Edition",                                  type: "scripture" },
+      { id: "lds-pogp", label: "Pearl of Great Price", meta: "LDS Edition",                                  type: "scripture" },
+      { id: "lds-ot",   label: "Old Testament",        meta: "King James Version",                           type: "scripture" },
+      { id: "lds-nt",   label: "New Testament",        meta: "King James Version",                           type: "scripture" },
+    ],
+  },
+  {
+    id: "bible-translations",
+    label: "Bible Translations",
+    works: [
+      { id: "kjv",      label: "Holy Bible",           meta: "King James Version · 1611",    profile: "kjv",     type: "scripture" },
+      { id: "nrsvue",   label: "Holy Bible",           meta: "NRSVue · 2021",                profile: "nrsvue",  type: "scripture" },
+      { id: "esv",      label: "Holy Bible",           meta: "English Standard Version",                          type: "scripture" },
+      { id: "jsb",      label: "Jewish Study Bible",   meta: "Oxford · 2nd Ed.",                                  type: "scripture" },
+      { id: "nets",     label: "Septuagint",           meta: "NETS Translation",                                  type: "scripture" },
+      { id: "njps",     label: "Tanakh",               meta: "New Jewish Publication Society",                    type: "scripture" },
+    ],
+  },
+  {
+    id: "commentary",
+    label: "Commentary & Reference",
+    works: [
+      { id: "hardy-bom",    label: "A Commentary on the Book of Mormon", meta: "Hardy",                             profile: "hardy-bom", type: "reference" },
+      { id: "skousen",      label: "The Earliest Text",                  meta: "Skousen · Book of Mormon",                               type: "reference" },
+      { id: "anchor-bible", label: "Anchor Yale Bible Commentary",       meta: "Vol. I–XLII",                                            type: "reference" },
+      { id: "word-biblical",label: "Word Biblical Commentary",          meta: "Multi-volume",                                           type: "reference" },
+      { id: "jsb-essays",   label: "Jewish Study Bible Essays",         meta: "Berlin & Brettler",                                      type: "reference" },
+      { id: "nibley",       label: "The Collected Works of Hugh Nibley", meta: "19 vols.",                                               type: "reference" },
+    ],
+  },
+  {
+    id: "conference",
+    label: "General Conference",
+    works: [
+      { id: "gc-2025-apr", label: "April 2025",    meta: "195th Annual",           type: "conference" },
+      { id: "gc-2024-oct", label: "October 2024",  meta: "194th Semi-Annual",      type: "conference" },
+      { id: "gc-2024-apr", label: "April 2024",    meta: "194th Annual",           type: "conference" },
+      { id: "gc-2023-oct", label: "October 2023",  meta: "193rd Semi-Annual",      type: "conference" },
+      { id: "gc-archive",  label: "Full Archive",  meta: "1971 – present",         type: "conference" },
+    ],
+  },
+  {
+    id: "manuals",
+    label: "Manuals & Curriculum",
+    works: [
+      { id: "cfm-2025",  label: "Come, Follow Me 2025", meta: "New Testament",              type: "curriculum" },
+      { id: "cfm-2024",  label: "Come, Follow Me 2024", meta: "Doctrine & Covenants",       type: "curriculum" },
+      { id: "gd-manual", label: "Gospel Doctrine",       meta: "Teacher Manual",            type: "curriculum" },
+      { id: "eq-manual", label: "Elders Quorum Manual",  meta: "Teaching in the Savior's Way", type: "curriculum" },
+    ],
+  },
+  {
+    id: "my-library",
+    label: "My Library",
+    works: [], // populated dynamically from imported EPUBs
+  },
+];
+
+// ─── Filter pill config ───────────────────────────────────────────────────────
+
+type FilterType = "all" | WorkType;
+
+const FILTERS: { id: FilterType; label: string }[] = [
+  { id: "all",        label: "All"        },
+  { id: "scripture",  label: "Scripture"  },
+  { id: "reference",  label: "Reference"  },
+  { id: "conference", label: "Conference" },
+  { id: "curriculum", label: "Manuals"    },
+  { id: "imported",   label: "Imported"   },
+];
+
+// ─── Props ────────────────────────────────────────────────────────────────────
 
 interface SidebarProps {
   manifests: TranslationManifest[];
@@ -19,6 +118,8 @@ interface SidebarProps {
   onSelectBook: (book: BookEntry) => void;
 }
 
+// ─── Component ────────────────────────────────────────────────────────────────
+
 export function Sidebar({
   manifests,
   activeProfile,
@@ -30,132 +131,398 @@ export function Sidebar({
   onSelectTranslation,
   onSelectBook,
 }: SidebarProps) {
-  const active = manifests.find((m) => m.profile === activeProfile);
-  const [dictionaryCount, setDictionaryCount] = useState(0);
-  const [dictionaryLabel, setDictionaryLabel] = useState<string | null>(null);
-  const [importMessage, setImportMessage] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery]           = useState("");
+  const [activeFilter, setActiveFilter]         = useState<FilterType>("all");
+  const [expandedCollections, setExpandedCollections] = useState<Set<string>>(
+    () => new Set(["standard-works", "bible-translations", "commentary"])
+  );
+  const [expandedWork, setExpandedWork]         = useState<string | null>(null);
+  const [showSettings, setShowSettings]         = useState(false);
+  const [dictionaryCount, setDictionaryCount]   = useState(0);
+  const [dictionaryLabel, setDictionaryLabel]   = useState<string | null>(null);
+  const [importMessage, setImportMessage]       = useState<string | null>(null);
 
+  // Which work entry corresponds to the current activeProfile
+  const activeWorkId = useMemo(
+    () => LIBRARY.flatMap((c) => c.works).find((w) => w.profile === activeProfile)?.id ?? null,
+    [activeProfile]
+  );
+
+  // Auto-expand the work + its collection when activeProfile changes
   useEffect(() => {
-    const loadDictionaryState = () => {
+    if (!activeWorkId) return;
+    setExpandedWork((prev) => prev ?? activeWorkId);
+    const col = LIBRARY.find((c) => c.works.some((w) => w.id === activeWorkId));
+    if (col) setExpandedCollections((prev) => new Set([...prev, col.id]));
+  }, [activeWorkId]);
+
+  // Dictionary state
+  useEffect(() => {
+    const refresh = () => {
       const entries = getLocalDictionaryEntries();
       setDictionaryCount(entries.length);
-      setDictionaryLabel(entries[0]?.dictionary || null);
+      setDictionaryLabel(entries[0]?.dictionary ?? null);
     };
-
-    loadDictionaryState();
-    return subscribeToLocalStudyData(loadDictionaryState);
+    refresh();
+    return subscribeToLocalStudyData(refresh);
   }, []);
 
+  // ── Derived data ─────────────────────────────────────────────────────────────
+
+  const expandedWorkDef = useMemo(
+    () => LIBRARY.flatMap((c) => c.works).find((w) => w.id === expandedWork) ?? null,
+    [expandedWork]
+  );
+
+  const expandedManifest = useMemo(
+    () => (expandedWorkDef?.profile ? manifests.find((m) => m.profile === expandedWorkDef.profile) ?? null : null),
+    [expandedWorkDef, manifests]
+  );
+
+  const filteredLibrary = useMemo(() => {
+    const q = searchQuery.toLowerCase().trim();
+    return LIBRARY.map((col) => {
+      const works = col.works.filter((w) => {
+        const typeMatch = activeFilter === "all" || w.type === activeFilter;
+        if (!q) return typeMatch;
+        return typeMatch && (
+          w.label.toLowerCase().includes(q) ||
+          (w.meta ?? "").toLowerCase().includes(q)
+        );
+      });
+      return { ...col, works };
+    }).filter((col) => {
+      // Always show My Library even when empty (shows import CTA)
+      if (col.id === "my-library") return activeFilter === "all" || activeFilter === "imported";
+      return col.works.length > 0;
+    });
+  }, [searchQuery, activeFilter]);
+
+  // ── Handlers ─────────────────────────────────────────────────────────────────
+
+  const toggleCollection = (id: string) => {
+    setExpandedCollections((prev) => {
+      const next = new Set(prev);
+      next.has(id) ? next.delete(id) : next.add(id);
+      return next;
+    });
+  };
+
+  const handleWorkClick = (work: WorkEntry) => {
+    if (!work.profile) return;
+    const isExpanded = expandedWork === work.id;
+    setExpandedWork(isExpanded ? null : work.id);
+    if (work.profile !== activeProfile) {
+      onSelectTranslation(work.profile);
+    }
+  };
+
+  const liveCount = manifests.length;
+
+  // ── Render ───────────────────────────────────────────────────────────────────
+
   return (
-    <aside className="w-64 flex-shrink-0 border-r border-[var(--border-color)] bg-[var(--bg-app)] flex flex-col">
-      <div className="px-4 py-3 border-b border-[var(--border-color)] space-y-3">
-        <div className="flex items-center justify-between">
-          <h1 className="font-semibold text-sm">Telos Library</h1>
-          <span className="text-[10px] uppercase tracking-[0.18em] text-[var(--text-secondary)]">
+    <aside className="w-72 flex-shrink-0 border-r border-[var(--border-color)] bg-[var(--bg-app)] flex flex-col select-none">
+
+      {/* ── Header ── */}
+      <div className="px-4 pt-4 pb-3 border-b border-[var(--border-color)] flex items-center justify-between">
+        <div>
+          <h1 className="text-sm font-semibold tracking-tight leading-none">Telos</h1>
+          <p className="text-[10px] text-[var(--text-secondary)] mt-1 uppercase tracking-[0.16em]">Library</p>
+        </div>
+        <div className="flex items-center gap-2">
+          <span className={`text-[9px] px-1.5 py-0.5 rounded font-medium uppercase tracking-[0.14em] ${
+            authMode === "cloud"
+              ? "bg-blue-100 text-blue-600 dark:bg-blue-900/40 dark:text-blue-400"
+              : "bg-[var(--border-color)] text-[var(--text-secondary)]"
+          }`}>
             {authMode === "cloud" ? "Sync" : "Local"}
           </span>
+          <button
+            onClick={() => setShowSettings((v) => !v)}
+            title="Settings"
+            className={`w-7 h-7 rounded-md flex items-center justify-center text-sm transition-colors ${
+              showSettings
+                ? "bg-gray-200 dark:bg-gray-700 text-[var(--text-primary)]"
+                : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-800"
+            }`}
+          >
+            {/* gear icon via unicode */}
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="8" cy="8" r="2.5"/>
+              <path d="M8 1v2M8 13v2M1 8h2M13 8h2M3.05 3.05l1.41 1.41M11.54 11.54l1.41 1.41M3.05 12.95l1.41-1.41M11.54 4.46l1.41-1.41"/>
+            </svg>
+          </button>
         </div>
+      </div>
 
-        <div className="rounded-lg border border-[var(--border-color)] bg-[var(--bg-canvas)] px-3 py-2 space-y-2">
-          {authStatus === "authenticated" && (
-            <>
-              <div className="text-[11px] text-[var(--text-secondary)]">
-                Signed in as {userName || "Google user"}
+      {/* ── Settings drawer ── */}
+      {showSettings && (
+        <div className="border-b border-[var(--border-color)] bg-[var(--bg-canvas)] divide-y divide-[var(--border-color)]">
+          {/* Auth row */}
+          <div className="px-4 py-3">
+            <p className="text-[10px] uppercase tracking-[0.14em] text-[var(--text-secondary)] mb-2">Account</p>
+            {authStatus === "authenticated" ? (
+              <div className="flex items-center gap-2">
+                <div className="flex-1 min-w-0">
+                  <p className="text-xs text-[var(--text-primary)] truncate">{userName ?? "Google user"}</p>
+                  <p className="text-[10px] text-[var(--text-secondary)]">Signed in</p>
+                </div>
+                <button
+                  onClick={() => void onSignOut()}
+                  className="text-[11px] px-2 py-1 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors whitespace-nowrap"
+                >
+                  Sign out
+                </button>
               </div>
-              <button
-                onClick={() => {
-                  void onSignOut();
-                }}
-                className="w-full rounded-md border border-[var(--border-color)] px-2 py-1.5 text-xs font-medium text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-              >
-                Sign Out
-              </button>
-            </>
-          )}
-        </div>
-
-        <div className="rounded-lg border border-[var(--border-color)] bg-[var(--bg-canvas)] px-3 py-2 space-y-2">
-          <div className="flex items-center justify-between">
-            <div className="text-xs font-medium text-[var(--text-primary)]">Private Dictionary</div>
-            <span className="text-[10px] uppercase tracking-[0.16em] text-[var(--text-secondary)]">
-              {dictionaryCount} entries
-            </span>
+            ) : (
+              <p className="text-[11px] text-[var(--text-secondary)]">Not signed in · data is local only</p>
+            )}
           </div>
-          <div className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
-            {dictionaryCount > 0
-              ? `Imported ${dictionaryLabel || "dictionary"} locally. Click a word in the reader to look it up.`
-              : "Import a personal JSON dictionary file to enable click-to-lookup in the reader."}
-          </div>
-          <label className="block">
-            <input
-              type="file"
-              accept=".json,application/json"
-              className="hidden"
-              onChange={(event) => {
-                const file = event.target.files?.[0];
-                if (!file) return;
 
-                importDictionaryFile(file)
-                  .then((entries) => {
-                    saveLocalDictionaryEntries(entries);
-                    setImportMessage(`Imported ${entries.length} entries from ${file.name}.`);
-                  })
-                  .catch((error) => {
-                    console.error("Failed to import dictionary.", error);
-                    setImportMessage(`Could not import ${file.name}. Expected a JSON dictionary export.`);
-                  })
-                  .finally(() => {
-                    event.target.value = "";
-                  });
-              }}
-            />
-            <span className="block w-full rounded-md border border-[var(--border-color)] px-2 py-1.5 text-center text-xs font-medium text-[var(--text-primary)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
-              Import Dictionary JSON
-            </span>
-          </label>
-          {importMessage && (
-            <div className="text-[11px] text-[var(--text-secondary)]">
-              {importMessage}
+          {/* Dictionary row */}
+          <div className="px-4 py-3 space-y-2">
+            <div className="flex items-center justify-between">
+              <p className="text-[10px] uppercase tracking-[0.14em] text-[var(--text-secondary)]">Private Dictionary</p>
+              {dictionaryCount > 0 && (
+                <span className="text-[10px] text-[var(--text-secondary)]">{dictionaryCount} entries</span>
+              )}
             </div>
+            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+              {dictionaryCount > 0
+                ? `${dictionaryLabel ?? "Dictionary"} loaded. Click any word in the reader to look it up.`
+                : "Import a JSON dictionary to enable click-to-lookup in the reader."}
+            </p>
+            <label className="block">
+              <input
+                type="file"
+                accept=".json,application/json"
+                className="hidden"
+                onChange={(e) => {
+                  const file = e.target.files?.[0];
+                  if (!file) return;
+                  importDictionaryFile(file)
+                    .then((entries) => {
+                      saveLocalDictionaryEntries(entries);
+                      setImportMessage(`Imported ${entries.length} entries from ${file.name}.`);
+                    })
+                    .catch(() => setImportMessage(`Could not import ${file.name}.`))
+                    .finally(() => { e.target.value = ""; });
+                }}
+              />
+              <span className="block w-full text-center text-[11px] px-2 py-1.5 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer">
+                Import Dictionary JSON
+              </span>
+            </label>
+            {importMessage && (
+              <p className="text-[10px] text-[var(--text-secondary)]">{importMessage}</p>
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* ── Search ── */}
+      <div className="px-3 pt-3 pb-2">
+        <div className="relative">
+          <svg
+            className="absolute left-2.5 top-1/2 -translate-y-1/2 text-[var(--text-secondary)] pointer-events-none"
+            width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"
+          >
+            <circle cx="6.5" cy="6.5" r="4.5"/>
+            <path d="M10.5 10.5L14 14"/>
+          </svg>
+          <input
+            type="text"
+            placeholder="Search library..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full bg-[var(--bg-canvas)] border border-[var(--border-color)] rounded-lg pl-7 pr-7 py-1.5 text-xs placeholder:text-[var(--text-secondary)] text-[var(--text-primary)] focus:outline-none focus:border-[var(--text-secondary)] transition-colors"
+          />
+          {searchQuery && (
+            <button
+              onClick={() => setSearchQuery("")}
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"
+            >
+              <svg width="11" height="11" viewBox="0 0 12 12" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+                <path d="M1 1l10 10M11 1L1 11"/>
+              </svg>
+            </button>
           )}
         </div>
       </div>
 
-      {/* Translation picker */}
-      <div className="flex border-b border-[var(--border-color)]">
-        {manifests.map((m) => (
+      {/* ── Filter pills ── */}
+      <div className="px-3 pb-3 flex gap-1.5 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+        {FILTERS.map((f) => (
           <button
-            key={m.profile}
-            onClick={() => onSelectTranslation(m.profile)}
-            className={`flex-1 py-2 text-xs font-medium transition-colors ${
-              m.profile === activeProfile
-                ? "text-[var(--text-primary)] border-b-2 border-[var(--text-primary)]"
-                : "text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
+            key={f.id}
+            onClick={() => setActiveFilter(f.id)}
+            className={`flex-shrink-0 px-2.5 py-0.5 rounded-full text-[11px] font-medium transition-colors ${
+              activeFilter === f.id
+                ? "bg-[var(--text-primary)] text-[var(--bg-app)]"
+                : "bg-[var(--border-color)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
             }`}
           >
-            {m.translation}
+            {f.label}
           </button>
         ))}
       </div>
 
-      {/* Book list */}
-      <div className="flex-1 overflow-y-auto p-2 space-y-0.5">
-        {active?.books.map((book) => (
-          <button
-            key={book.book_id}
-            onClick={() => onSelectBook(book)}
-            className={`w-full text-left px-3 py-1.5 text-sm rounded-md transition-colors ${
-              book.book_id === activeBookId
-                ? "bg-gray-200 dark:bg-gray-800 font-medium text-[var(--text-primary)]"
-                : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-800/50"
-            }`}
-          >
-            {book.name}
-            <span className="text-xs ml-1 opacity-50">
-              {book.chapters.length}
-            </span>
-          </button>
-        ))}
+      {/* ── Library tree ── */}
+      <div className="flex-1 overflow-y-auto pb-4">
+        {filteredLibrary.map((collection) => {
+          const isOpen = expandedCollections.has(collection.id);
+          return (
+            <div key={collection.id}>
+
+              {/* Collection header */}
+              <button
+                onClick={() => toggleCollection(collection.id)}
+                className="w-full flex items-center gap-2 px-3 py-2 text-left group"
+              >
+                <svg
+                  className={`flex-shrink-0 text-[var(--text-secondary)] transition-transform duration-150 ${isOpen ? "rotate-90" : ""}`}
+                  width="9" height="9" viewBox="0 0 8 8" fill="currentColor"
+                >
+                  <path d="M2 1l4 3-4 3V1z"/>
+                </svg>
+                <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-[var(--text-secondary)] group-hover:text-[var(--text-primary)] transition-colors">
+                  {collection.label}
+                </span>
+                {collection.works.length > 0 && (
+                  <span className="ml-auto text-[10px] text-[var(--text-secondary)] opacity-50 tabular-nums">
+                    {collection.works.filter((w) => w.profile).length}/{collection.works.length}
+                  </span>
+                )}
+              </button>
+
+              {/* Works list */}
+              {isOpen && (
+                <div className="pb-1">
+                  {collection.id === "my-library" && collection.works.length === 0 ? (
+                    /* My Library empty state */
+                    <div className="mx-3 mb-2 px-3 py-3 rounded-lg border border-dashed border-[var(--border-color)] text-center">
+                      <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+                        Import any EPUB to read and annotate it alongside your scripture study.
+                      </p>
+                      <button className="mt-2 text-[11px] px-3 py-1 rounded border border-[var(--border-color)] hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-[var(--text-primary)]">
+                        + Import EPUB
+                      </button>
+                    </div>
+                  ) : (
+                    collection.works.map((work) => {
+                      const isLive     = !!work.profile;
+                      const isActive   = work.id === activeWorkId;
+                      const isExpanded = expandedWork === work.id;
+
+                      return (
+                        <div key={work.id}>
+                          {/* Work row */}
+                          <button
+                            onClick={() => isLive && handleWorkClick(work)}
+                            disabled={!isLive}
+                            title={!isLive ? `${work.label} — coming soon` : undefined}
+                            className={`w-full flex items-start gap-2.5 px-4 py-2 text-left transition-colors ${
+                              isActive
+                                ? "bg-gray-200/80 dark:bg-gray-800/80"
+                                : isLive
+                                  ? "hover:bg-gray-100 dark:hover:bg-gray-800/50"
+                                  : "opacity-35 cursor-default"
+                            }`}
+                          >
+                            {/* Live indicator dot */}
+                            <span className={`flex-shrink-0 mt-1.5 w-1.5 h-1.5 rounded-full ${
+                              isActive ? "bg-[var(--text-primary)]" : isLive ? "bg-[var(--border-color)]" : "bg-transparent border border-[var(--border-color)]"
+                            }`} />
+
+                            {/* Title + meta */}
+                            <div className="min-w-0 flex-1">
+                              <p className={`text-xs leading-snug ${isActive ? "font-medium text-[var(--text-primary)]" : "text-[var(--text-primary)]"}`}>
+                                {work.label}
+                              </p>
+                              {work.meta && (
+                                <p className="text-[10px] text-[var(--text-secondary)] mt-0.5 leading-tight">
+                                  {work.meta}
+                                </p>
+                              )}
+                            </div>
+
+                            {/* Coming soon badge */}
+                            {!isLive && (
+                              <span className="flex-shrink-0 mt-0.5 text-[9px] px-1.5 py-0.5 rounded bg-[var(--border-color)] text-[var(--text-secondary)] uppercase tracking-wide font-medium">
+                                Soon
+                              </span>
+                            )}
+
+                            {/* Expand chevron for live items */}
+                            {isLive && (
+                              <svg
+                                className={`flex-shrink-0 mt-1 text-[var(--text-secondary)] transition-transform duration-150 ${isExpanded ? "rotate-180" : ""}`}
+                                width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"
+                              >
+                                <path d="M2 3.5l3 3 3-3"/>
+                              </svg>
+                            )}
+                          </button>
+
+                          {/* Inline book list */}
+                          {isExpanded && expandedManifest && (
+                            <div className="ml-7 mr-2 border-l border-[var(--border-color)] pl-3 pb-1 pt-0.5">
+                              {expandedManifest.books.map((book) => (
+                                <button
+                                  key={book.book_id}
+                                  onClick={() => {
+                                    if (work.profile && work.profile !== activeProfile) {
+                                      onSelectTranslation(work.profile);
+                                    }
+                                    onSelectBook(book);
+                                  }}
+                                  className={`w-full text-left px-2 py-1 text-[11px] rounded-md transition-colors ${
+                                    book.book_id === activeBookId
+                                      ? "bg-gray-200/80 dark:bg-gray-800/80 text-[var(--text-primary)] font-medium"
+                                      : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100/80 dark:hover:bg-gray-800/40"
+                                  }`}
+                                >
+                                  {book.name}
+                                  <span className="ml-1.5 opacity-35 text-[10px] tabular-nums">
+                                    {book.chapters.length}
+                                  </span>
+                                </button>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })
+                  )}
+                </div>
+              )}
+            </div>
+          );
+        })}
+
+        {/* Empty search state */}
+        {filteredLibrary.length === 0 && (
+          <div className="px-6 py-8 text-center">
+            <p className="text-sm text-[var(--text-secondary)]">No results for</p>
+            <p className="text-sm font-medium text-[var(--text-primary)] mt-0.5">"{searchQuery}"</p>
+          </div>
+        )}
+      </div>
+
+      {/* ── Footer ── */}
+      <div className="px-4 py-2.5 border-t border-[var(--border-color)] flex items-center justify-between">
+        <span className="text-[10px] text-[var(--text-secondary)]">
+          {liveCount} of {LIBRARY.flatMap((c) => c.works).filter((w) => w.profile).length} works available
+        </span>
+        {authMode === "cloud" && (
+          <span className="text-[10px] text-[var(--text-secondary)] flex items-center gap-1">
+            <svg width="8" height="8" viewBox="0 0 10 10" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round">
+              <path d="M5 8V2M2 5l3-3 3 3"/>
+            </svg>
+            Synced
+          </span>
+        )}
       </div>
     </aside>
   );

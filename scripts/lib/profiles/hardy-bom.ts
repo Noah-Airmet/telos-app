@@ -165,6 +165,11 @@ export const hardyBomProfile: Profile = {
         }
         // Carry the orphaned headings forward as the start of the next chapter
         chapterBlocks = trailingHeadings;
+      } else {
+        // currentChapter = 0 means we haven't entered any chapter yet.
+        // Discard prose commentary (preface/intro essays) but keep any headings
+        // that accumulated — they belong to the first chapter of this book.
+        chapterBlocks = chapterBlocks.filter(b => b.type === "heading");
       }
       commentaryCount = 0;
     }

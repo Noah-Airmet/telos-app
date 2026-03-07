@@ -5,11 +5,6 @@
   "translation": "Hardy Annotated",
   "blocks": [
     {
-      "block_id": "bom-ether-0-0-commentary-1",
-      "type": "commentary",
-      "text": "The record of the Jaredites, taken from the twenty-four plates found by the people of Limhi in the days of King Mosiah."
-    },
-    {
       "block_id": "bom-ether-intro-heading-1",
       "type": "heading",
       "text": "Moroni₂’s First Editorial Comment: Abridging the Twenty-Four Plates"
@@ -27,7 +22,7 @@
       "text": "And as I suppose that the first part of this record—which speaks concerning the creation of the world, and also of Adam, and an account from that time even to the great tower, and whatsoever things transpired among the children of men until that time—is had among the Jews, therefore I do not write those things which transpired from the days of Adam until that time; but they are had upon the plates; and whoso findeth them, the same will have power that he may get the full account. But behold, I give not the full account, but a part of the account I give, from the tower down until they were destroyed."
     },
     {
-      "block_id": "bom-ether-1-heading-4",
+      "block_id": "bom-ether-1-heading-3",
       "type": "heading",
       "text": "The Genealogy of Ether"
     },
@@ -38,7 +33,7 @@
       "text": "which Jared came forth with his brother and their families, with some others and their families, from the great tower, at the time the Lord confounded the language of the people, and swore in his wrath that they should be scattered upon all the face of the earth; and according to the word of the Lord the people were scattered."
     },
     {
-      "block_id": "bom-ether-1-heading-6",
+      "block_id": "bom-ether-1-heading-5",
       "type": "heading",
       "text": "Jared₁ and His Brother Appeal to the Lord"
     },
