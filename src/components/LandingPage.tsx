@@ -76,7 +76,7 @@ export function LandingPage() {
       const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 768;
       setIsMobile(isMobileDevice);
     };
-    
+
     checkMobile();
     window.addEventListener('resize', checkMobile);
 
@@ -123,11 +123,11 @@ export function LandingPage() {
             progressBarRef.current.style.width = `${rawProgress * 100}%`;
             // Fade out the progress bar at the very bottom to prevent overlapping text
             if (rawProgress > 0.95) {
-                // Map 0.95-1.0 to 1-0 opacity
-                const fade = Math.max(0, 1 - (rawProgress - 0.95) * 20);
-                progressBarRef.current.parentElement!.style.opacity = fade.toString();
+              // Map 0.95-1.0 to 1-0 opacity
+              const fade = Math.max(0, 1 - (rawProgress - 0.95) * 20);
+              progressBarRef.current.parentElement!.style.opacity = fade.toString();
             } else {
-                progressBarRef.current.parentElement!.style.opacity = "1";
+              progressBarRef.current.parentElement!.style.opacity = "1";
             }
           }
           // Trigger the background fade early — scripture + "upgrade" sections are
@@ -263,238 +263,246 @@ export function LandingPage() {
       </div>
 
       {/* Main Foreground Content */}
-      <main ref={mainRef} className="relative z-10 w-full overflow-y-auto h-[100dvh] snap-y snap-mandatory scroll-smooth">
-        {/* Section 1: First Two Verses */}
-        <section className="min-h-[150vh] flex flex-col justify-between px-6 md:px-12 pt-[30vh]">
-          <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[10vw]">
-            <p className="scripture reveal">
-              And waking up, he rebuked the wind and said to the sea, “Be silent! Be still!” Then the wind ceased, and there was a dead calm.
+      <div
+        className="relative z-10 w-full h-[100dvh]"
+        style={{
+          WebkitMaskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 80px)',
+          maskImage: 'linear-gradient(to bottom, transparent 0px, transparent 40px, black 80px)'
+        }}
+      >
+        <main ref={mainRef} className="w-full h-full overflow-y-auto snap-y snap-mandatory scroll-smooth">
+          {/* Section 1: First Two Verses */}
+          <section className="min-h-[150vh] flex flex-col justify-between px-6 md:px-12 pt-[30vh]">
+            <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[10vw]">
+              <p className="scripture reveal">
+                And waking up, he rebuked the wind and said to the sea, “Be silent! Be still!” Then the wind ceased, and there was a dead calm.
+              </p>
+            </div>
+
+            <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-right self-end mr-4 md:mr-[10vw] mt-[40vh]">
+              <p className="scripture reveal">
+                He said to them, “Why are you afraid?<br />Have you still no faith?”
+              </p>
+            </div>
+          </section>
+
+          {/* Section 2: The Third Verse */}
+          <section className="min-h-[80vh] flex flex-col justify-center px-6 md:px-12 py-[20vh]">
+            <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[20vw]">
+              <p className="scripture reveal">
+                And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
+              </p>
+            </div>
+          </section>
+
+          {/* Section 2: Core Question */}
+          <section className="min-h-[100vh] flex items-center justify-center px-6 md:px-12 mb-[10vh]">
+            <h1 className="massive-header text-center reveal w-full leading-none">
+              Gospel Library<br />
+              deserves an<br />
+              Upgrade
+            </h1>
+          </section>
+
+          {/* Section 3: Feature Declarations */}
+          <section className="px-6 md:px-12">
+            {/* 001 - PARALLEL - Left */}
+            <div className="min-h-[60vh] flex items-center">
+              <div className="ml-4 md:ml-[10vw]">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>001</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  COMPARE
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2">
+                  Side-by-side translations synced verse-by-verse.<br />
+                  KJV left, NRSVue right. One scroll drives both.
+                </p>
+              </div>
+            </div>
+
+            {/* 002 - COMMAND - Right */}
+            <div className="min-h-[60vh] flex items-center justify-end">
+              <div className="mr-4 md:mr-[10vw] text-right">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>002</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  COMMAND
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2 ml-auto">
+                  Cmd+K. Type "alma 32" and you're there.<br />
+                  No menus, no drill-downs, no waiting.
+                </p>
+              </div>
+            </div>
+
+            {/* 003 - OFFLINE - Left offset */}
+            <div className="min-h-[60vh] flex items-center">
+              <div className="ml-4 md:ml-[15vw]">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>003</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  PLAN
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2">
+                  Built for serious notes and lesson planning.<br />
+                  Dedicated workspace for organizing your thoughts.
+                </p>
+              </div>
+            </div>
+
+            {/* 004 - ANCHORED - Right */}
+            <div className="min-h-[60vh] flex items-center justify-end">
+              <div className="mr-4 md:mr-[10vw] text-right">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>004</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  CONTEXT
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2 ml-auto">
+                  Reference commentaries,<br />
+                  study bibles,<br />
+                  historical guides and more.
+                </p>
+              </div>
+            </div>
+
+            {/* 005 - LOOKUP - Left */}
+            <div className="min-h-[60vh] flex items-center">
+              <div className="ml-4 md:ml-[10vw]">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>005</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  LOOKUP
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2">
+                  Import your own dictionary. Click any word.<br />
+                  1828 Webster's on a single tap.
+                </p>
+              </div>
+            </div>
+
+            {/* 006 - KEYBOARD - Center */}
+            <div className="min-h-[60vh] flex items-center justify-center">
+              <div className="text-center">
+                <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>006</p>
+                <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
+                  KEYBOARD
+                </h2>
+                <p className="feature-desc reveal reveal-delay-2 mx-auto">
+                  Built for a desk, not a thumb. Arrows, shortcuts,<br />
+                  split panes. A desktop app that acts like one.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          {/* Marquee Divider */}
+          <div className="py-12 overflow-hidden border-t border-b border-white/10">
+            <div className="marquee-track">
+              {[...Array(2)].map((_, i) => (
+                <span key={i} className="flex">
+                  {["PARALLEL", "COMMAND", "OFFLINE", "ANCHORED", "LOOKUP", "KEYBOARD"].map((word) => (
+                    <span key={`${i}-${word}`} className="marquee-word">{word} &mdash;&mdash;&mdash;</span>
+                  ))}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          {/* Section 4: TELOS & Login */}
+          <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 pb-[10vh]">
+            {/* Pre-title context */}
+            <p className="scripture text-center text-3xl md:text-4xl reveal mb-8">
+              Introducing
             </p>
-          </div>
 
-          <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-right self-end mr-4 md:mr-[10vw] mt-[40vh]">
-            <p className="scripture reveal">
-              He said to them, “Why are you afraid?<br />Have you still no faith?”
-            </p>
-          </div>
-        </section>
+            {/* Real Title */}
+            <h1
+              className="font-black text-center text-[#ffffff] mix-blend-difference uppercase leading-none tracking-tighter w-full reveal font-sans"
+              style={{ fontSize: "clamp(6rem, 25vw, 25rem)", letterSpacing: "-0.06em" }}
+            >
+              TELOS
+            </h1>
 
-        {/* Section 2: The Third Verse */}
-        <section className="min-h-[80vh] flex flex-col justify-center px-6 md:px-12 py-[20vh]">
-          <div className="max-w-2xl text-2xl md:text-5xl leading-tight text-left ml-4 md:ml-[20vw]">
-            <p className="scripture reveal">
-              And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
-            </p>
-          </div>
-        </section>
+            {/* Announcement Card */}
+            <div className="w-full max-w-lg mx-auto bg-[#0a0a0a] bg-opacity-[0.85] p-8 md:p-12 border border-white/10 backdrop-blur-xl hover:border-white/30 transition-colors duration-500 reveal group shadow-2xl mt-12 md:mt-20 relative z-20">
+              <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/50 to-transparent"></div>
 
-        {/* Section 2: Core Question */}
-        <section className="min-h-[100vh] flex items-center justify-center px-6 md:px-12 mb-[10vh]">
-          <h1 className="massive-header text-center reveal w-full leading-none">
-            Gospel Library<br />
-            deserves an<br />
-            Upgrade
-          </h1>
-        </section>
+              <div className="flex justify-between items-end border-b border-white/20 pb-4 mb-10">
+                <h2 className="text-xs md:text-sm font-bold uppercase tracking-[0.2em] mix-blend-difference text-white">Entrance [ System ]</h2>
+                <span className="font-mono text-xs opacity-50 text-white">v.0.1.0</span>
+              </div>
 
-        {/* Section 3: Feature Declarations */}
-        <section className="px-6 md:px-12">
-          {/* 001 - PARALLEL - Left */}
-          <div className="min-h-[60vh] flex items-center">
-            <div className="ml-4 md:ml-[10vw]">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>001</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                COMPARE
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2">
-                Side-by-side translations synced verse-by-verse.<br />
-                KJV left, NRSVue right. One scroll drives both.
-              </p>
-            </div>
-          </div>
+              <div className="flex flex-col gap-4 text-white">
+                <h3 className="text-2xl md:text-3xl font-black uppercase tracking-[0.15em] text-white leading-tight">
+                  Public Beta
+                </h3>
+                <p className="font-mono text-sm md:text-base opacity-80 text-white tracking-[0.1em] uppercase">
+                  March 14, 2025
+                </p>
+                <p className="font-mono text-[0.65rem] md:text-xs opacity-40 text-white tracking-[0.05em] uppercase leading-relaxed mt-2 max-w-sm">
+                  A desktop-class study environment for serious gospel scholarship. Parallel translations, command-line navigation, offline-first.
+                </p>
+              </div>
 
-          {/* 002 - COMMAND - Right */}
-          <div className="min-h-[60vh] flex items-center justify-end">
-            <div className="mr-4 md:mr-[10vw] text-right">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>002</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                COMMAND
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2 ml-auto">
-                Cmd+K. Type "alma 32" and you are there.<br />
-                No menus, no drill-downs, no waiting.
-              </p>
-            </div>
-          </div>
-
-          {/* 003 - OFFLINE - Left offset */}
-          <div className="min-h-[60vh] flex items-center">
-            <div className="ml-4 md:ml-[15vw]">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>003</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                PLAN
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2">
-                Built for serious notes and lesson planning.<br />
-                Dedicated workspace for organizing your thoughts.
-              </p>
-            </div>
-          </div>
-
-          {/* 004 - ANCHORED - Right */}
-          <div className="min-h-[60vh] flex items-center justify-end">
-            <div className="mr-4 md:mr-[10vw] text-right">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>004</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                CONTEXT
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2 ml-auto">
-                Reference commentaries,<br /> 
-                study bibles,<br />
-                historical guides and more.
-              </p>
-            </div>
-          </div>
-
-          {/* 005 - LOOKUP - Left */}
-          <div className="min-h-[60vh] flex items-center">
-            <div className="ml-4 md:ml-[10vw]">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>005</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                LOOKUP
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2">
-                Import your own dictionary. Click any word.<br />
-                1828 Webster's on a single tap.
-              </p>
-            </div>
-          </div>
-
-          {/* 006 - KEYBOARD - Center */}
-          <div className="min-h-[60vh] flex items-center justify-center">
-            <div className="text-center">
-              <p className="feature-index reveal interactive" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>006</p>
-              <h2 className="massive-header reveal reveal-delay-1" style={{ fontSize: "clamp(3rem, 12vw, 12rem)" }}>
-                KEYBOARD
-              </h2>
-              <p className="feature-desc reveal reveal-delay-2 mx-auto">
-                Built for a desk, not a thumb. Arrows, shortcuts,<br />
-                split panes. A desktop app that acts like one.
-              </p>
-            </div>
-          </div>
-        </section>
-
-        {/* Marquee Divider */}
-        <div className="py-12 overflow-hidden border-t border-b border-white/10">
-          <div className="marquee-track">
-            {[...Array(2)].map((_, i) => (
-              <span key={i} className="flex">
-                {["PARALLEL", "COMMAND", "OFFLINE", "ANCHORED", "LOOKUP", "KEYBOARD"].map((word) => (
-                  <span key={`${i}-${word}`} className="marquee-word">{word} &mdash;&mdash;&mdash;</span>
-                ))}
-              </span>
-            ))}
-          </div>
-        </div>
-
-        {/* Section 4: TELOS & Login */}
-        <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 pb-[10vh]">
-          {/* Pre-title context */}
-          <p className="scripture text-center text-3xl md:text-4xl reveal mb-8">
-            Introducing
-          </p>
-
-          {/* Real Title */}
-          <h1
-            className="font-black text-center text-[#ffffff] mix-blend-difference uppercase leading-none tracking-tighter w-full reveal font-sans"
-            style={{ fontSize: "clamp(6rem, 25vw, 25rem)", letterSpacing: "-0.06em" }}
-          >
-            TELOS
-          </h1>
-
-          {/* Announcement Card */}
-          <div className="w-full max-w-lg mx-auto bg-[#0a0a0a] bg-opacity-[0.85] p-8 md:p-12 border border-white/10 backdrop-blur-xl hover:border-white/30 transition-colors duration-500 reveal group shadow-2xl mt-12 md:mt-20 relative z-20">
-            <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/50 to-transparent"></div>
-
-            <div className="flex justify-between items-end border-b border-white/20 pb-4 mb-10">
-              <h2 className="text-xs md:text-sm font-bold uppercase tracking-[0.2em] mix-blend-difference text-white">Entrance [ System ]</h2>
-              <span className="font-mono text-xs opacity-50 text-white">v.0.1.0</span>
-            </div>
-
-            <div className="flex flex-col gap-4 text-white">
-              <h3 className="text-2xl md:text-3xl font-black uppercase tracking-[0.15em] text-white leading-tight">
-                Public Beta
-              </h3>
-              <p className="font-mono text-sm md:text-base opacity-80 text-white tracking-[0.1em] uppercase">
-                March 14, 2025
-              </p>
-              <p className="font-mono text-[0.65rem] md:text-xs opacity-40 text-white tracking-[0.05em] uppercase leading-relaxed mt-2 max-w-sm">
-                A desktop-class study environment for serious gospel scholarship. Parallel translations, command-line navigation, offline-first.
-              </p>
-            </div>
-
-            <div className="mt-8 text-center border-t border-white/10 pt-6">
-              {!isMobile ? (
-                <button
-                  type="button"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setShowAlpha(prev => !prev);
-                  }}
-                  onMouseEnter={handleMouseEnter}
-                  onMouseLeave={handleMouseLeave}
-                  className="interactive text-[0.6rem] uppercase tracking-widest opacity-40 hover:opacity-100 font-mono transition-opacity text-white bg-transparent border-none cursor-none"
-                >
-                  Request Access_
-                </button>
-              ) : (
-                <div className="font-mono text-[0.6rem] text-white opacity-40 uppercase tracking-widest">
-                  Authentication requires desktop environment
-                </div>
-              )}
-            </div>
-          </div>
-
-          {/* Alpha Access Slide-out (Desktop Only) */}
-          {!isMobile ? (
-            <div className={`alpha-card-wrapper w-full max-w-lg mx-auto ${showAlpha ? "open" : ""}`}>
-              <div>
-                <div className="bg-[#0a0a0a] bg-opacity-[0.85] p-6 md:p-8 border border-white/10 backdrop-blur-xl shadow-2xl relative z-20">
-                  <div className="flex justify-between items-center mb-6">
-                    <h2 className="font-mono text-[0.6rem] md:text-xs uppercase tracking-[0.15em] opacity-70 text-white">Alpha Testing Now Available</h2>
-                    <span className="font-mono text-[0.5rem] opacity-30 text-white uppercase">Invite Only</span>
-                  </div>
-
+              <div className="mt-8 text-center border-t border-white/10 pt-6">
+                {!isMobile ? (
                   <button
                     type="button"
-                    onClick={() => {
-                      void signIn();
+                    onClick={(e) => {
+                      e.preventDefault();
+                      setShowAlpha(prev => !prev);
                     }}
                     onMouseEnter={handleMouseEnter}
                     onMouseLeave={handleMouseLeave}
-                    disabled={status === "loading"}
-                    className="interactive w-full relative overflow-hidden group/btn bg-white text-black font-bold uppercase py-4 border border-transparent transition-all text-xs tracking-[0.2em] hover:bg-black hover:text-white hover:border-white flex justify-center items-center gap-2 disabled:opacity-50"
+                    className="interactive text-[0.6rem] uppercase tracking-widest opacity-40 hover:opacity-100 font-mono transition-opacity text-white bg-transparent border-none cursor-none"
                   >
-                    <span className="relative z-10 transition-transform group-hover/btn:translate-x-1 duration-300">
-                      {status === "loading" ? "Initializing..." : "Sign in with Google"}
-                    </span>
-                    <span className="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">
-                      →
-                    </span>
+                    Request Access_
                   </button>
-                </div>
+                ) : (
+                  <div className="font-mono text-[0.6rem] text-white opacity-40 uppercase tracking-widest">
+                    Authentication requires desktop environment
+                  </div>
+                )}
               </div>
             </div>
-          ) : (
-            <div className="w-full max-w-lg mx-auto mt-4 px-4 text-center">
-              <p className="font-mono text-[0.65rem] text-[#ff3333] uppercase tracking-widest leading-relaxed">
-                Telos is currently a desktop-class experience. Please visit on a computer to sign in.
-              </p>
-            </div>
-          )}
-        </section>
-      </main>
+
+            {/* Alpha Access Slide-out (Desktop Only) */}
+            {!isMobile ? (
+              <div className={`alpha-card-wrapper w-full max-w-lg mx-auto ${showAlpha ? "open" : ""}`}>
+                <div>
+                  <div className="bg-[#0a0a0a] bg-opacity-[0.85] p-6 md:p-8 border border-white/10 backdrop-blur-xl shadow-2xl relative z-20">
+                    <div className="flex justify-between items-center mb-6">
+                      <h2 className="font-mono text-[0.6rem] md:text-xs uppercase tracking-[0.15em] opacity-70 text-white">Alpha Testing Now Available</h2>
+                      <span className="font-mono text-[0.5rem] opacity-30 text-white uppercase">Invite Only</span>
+                    </div>
+
+                    <button
+                      type="button"
+                      onClick={() => {
+                        void signIn();
+                      }}
+                      onMouseEnter={handleMouseEnter}
+                      onMouseLeave={handleMouseLeave}
+                      disabled={status === "loading"}
+                      className="interactive w-full relative overflow-hidden group/btn bg-white text-black font-bold uppercase py-4 border border-transparent transition-all text-xs tracking-[0.2em] hover:bg-black hover:text-white hover:border-white flex justify-center items-center gap-2 disabled:opacity-50"
+                    >
+                      <span className="relative z-10 transition-transform group-hover/btn:translate-x-1 duration-300">
+                        {status === "loading" ? "Initializing..." : "Sign in with Google"}
+                      </span>
+                      <span className="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">
+                        →
+                      </span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <div className="w-full max-w-lg mx-auto mt-4 px-4 text-center">
+                <p className="font-mono text-[0.65rem] text-[#ff3333] uppercase tracking-widest leading-relaxed">
+                  Telos is currently a desktop-class experience. Please visit on a computer to sign in.
+                </p>
+              </div>
+            )}
+          </section>
+        </main>
+      </div>
 
       {/* Fixed Edge Indicators */}
       <div className="edge-indicator edge-top-left">

@@ -23,6 +23,12 @@ All notable changes to the Telos Gospel Library project will be documented in th
   - Alpha card header reads "Alpha Testing Now Available / Invite Only".
   - Slide animation uses CSS `grid-template-rows: 0fr → 1fr` + opacity fade with the same `cubic-bezier(0.19, 1, 0.22, 1)` easing as the rest of the page.
   - Added `showAlpha` state and `.alpha-card-wrapper` / `.alpha-card-wrapper.open` CSS classes.
+- **Mobile Experience & Loading:**
+  - Added a cinematic initializing screen that counts to 100 on mount while the hero image loads.
+  - Implemented dynamic user-agent and viewport detection to intercept mobile users on the Landing Page, hiding the Google Sign-in Alpha card and replacing it with a "Desktop Only" requirement message.
+  - Fixed mobile Safari UI interactions by replacing `100vh` with `100dvh` globally.
+  - Added `<meta name="theme-color" content="#050505" />` and `viewport-fit=cover` to `index.html`.
+  - Applied `-webkit-mask-image` to the main scrolling container to seamlessly fade text out before it overlaps with the top fixed edge indicators.
 
 ### Added
 - **Landing Page & Authentication:**
