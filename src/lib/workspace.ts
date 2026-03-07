@@ -147,6 +147,35 @@ export function updatePaneInLayout(
   };
 }
 
+export function replacePaneInLayout(
+  layout: ShellLayoutState,
+  paneId: string,
+  replacementPane: AppPaneDescriptor
+): ShellLayoutState {
+  const panes = layout.panes.map((pane) =>
+    pane.id === paneId
+      ? {
+          ...replacementPane,
+          id: pane.id,
+        }
+      : pane
+  );
+
+  const paneWidths = { ...(layout.pane_widths ?? {}) };
+  if (replacementPane.id !== paneId) {
+    paneWidths[paneId] = paneWidths[paneId] ?? paneWidths[replacementPane.id] ?? 0;
+    delete paneWidths[replacementPane.id];
+  }
+
+  return {
+    ...layout,
+    panes,
+    active_pane_id: paneId,
+    pane_widths: paneWidths,
+    updated_at: Date.now(),
+  };
+}
+
 export function removePaneFromLayout(
   layout: ShellLayoutState,
   paneId: string

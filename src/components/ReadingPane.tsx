@@ -259,7 +259,7 @@ export function ReadingPane({
 
   if (!book) {
     return (
-      <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
+      <main className="flex min-h-0 flex-1 flex-col bg-[var(--bg-canvas)]">
         <PaneHeader {...headerProps} />
         <div className={`flex-1 flex flex-col items-center justify-center gap-3 px-8 text-[var(--text-secondary)] transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
           {profile ? (
@@ -279,7 +279,7 @@ export function ReadingPane({
 
   if (loading || !doc) {
     return (
-      <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
+      <main className="flex min-h-0 flex-1 flex-col bg-[var(--bg-canvas)]">
         <PaneHeader {...headerProps} />
         <div className={`flex-1 flex items-center justify-center text-[var(--text-secondary)] shell-kicker transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>Loading...</div>
       </main>
@@ -287,10 +287,10 @@ export function ReadingPane({
   }
 
   return (
-    <main className="flex-1 relative bg-[var(--bg-canvas)] flex flex-col">
+    <main className="flex min-h-0 flex-1 flex-col bg-[var(--bg-canvas)]">
       <PaneHeader {...headerProps} />
 
-      <div ref={scrollRef} className={`flex-1 overflow-y-auto px-6 pt-16 pb-12 lg:px-10 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
+      <div ref={scrollRef} className={`min-h-0 flex-1 overflow-y-auto px-6 py-8 lg:px-10 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
         <div className="mx-auto w-full max-w-[42rem] space-y-4 text-content relative">
           {doc.blocks.map((block) => (
             <VerseBlock
@@ -551,7 +551,7 @@ function PaneHeader({
   return (
     <>
       <header
-        className="h-12 glass-header absolute top-0 left-0 right-0 z-20 border-b border-[var(--border-color)] flex items-center px-4 gap-3"
+        className="glass-header sticky top-0 z-20 flex h-12 items-center gap-3 border-b border-[var(--border-color)] px-4"
         onPointerDown={onHeaderPointerDown}
       >
 

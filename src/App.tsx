@@ -42,6 +42,7 @@ import {
   insertPaneAfter,
   normalizePaneWidths,
   movePaneToIndex,
+  replacePaneInLayout,
   removePaneFromLayout,
   updatePaneInLayout,
   withNotesDraftAnchor,
@@ -517,13 +518,10 @@ function App() {
         }
 
         const outlinePane = createPlannerOutlinePane(planId);
-        const withOutline = insertPaneAfter(previous, outlinePane, sourcePaneId ?? previous.active_pane_id);
-        const existingCapture = withOutline.panes.find(
-          (pane) => pane.type === "captureTray" && pane.state.plan_id === planId
-        );
-        return existingCapture
-          ? withOutline
-          : insertPaneAfter(withOutline, createCaptureTrayPane(planId), outlinePane.id);
+        if (sourcePaneId) {
+          return replacePaneInLayout(previous, sourcePaneId, outlinePane);
+        }
+        return insertPaneAfter(previous, outlinePane, previous.active_pane_id);
       });
     },
     [getPlanById, persistPlannerState, repository, saveShellLayout]
