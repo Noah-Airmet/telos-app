@@ -15,6 +15,55 @@ export function LandingPage() {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [showAlpha, setShowAlpha] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
+  const [loadingExiting, setLoadingExiting] = useState(false);
+  const [loadingMounted, setLoadingMounted] = useState(true);
+  const loadingPercentRef = useRef<HTMLSpanElement>(null);
+
+  // Loading screen — runs once on mount, exits when image is ready AND min time elapsed
+  useEffect(() => {
+    const MIN_MS = 2400;
+    const start = Date.now();
+    let rafId: number;
+    let imageReady = false;
+    let minDone = false;
+
+    const beginExit = () => {
+      setLoadingExiting(true);
+      setTimeout(() => setLoadingMounted(false), 900);
+    };
+
+    const tryExit = () => {
+      if (imageReady && minDone) beginExit();
+    };
+
+    // Drive the percentage counter via RAF (no React state, no re-renders)
+    const tick = () => {
+      const elapsed = Date.now() - start;
+      const pct = Math.min(Math.floor((elapsed / MIN_MS) * 100), 100);
+      if (loadingPercentRef.current) {
+        loadingPercentRef.current.innerText = String(pct).padStart(3, '0');
+      }
+      if (pct < 100) rafId = requestAnimationFrame(tick);
+    };
+    rafId = requestAnimationFrame(tick);
+
+    // Minimum display timer
+    const timer = setTimeout(() => {
+      minDone = true;
+      tryExit();
+    }, MIN_MS);
+
+    // Image load detection (independent from the imageLoaded state below)
+    const loaderImg = new Image();
+    loaderImg.onload = () => { imageReady = true; tryExit(); };
+    loaderImg.onerror = () => { imageReady = true; tryExit(); }; // fail-safe: don't block on 404
+    loaderImg.src = '/christ-in-the-storm.jpg';
+
+    return () => {
+      cancelAnimationFrame(rafId);
+      clearTimeout(timer);
+    };
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     // Check if local image exists
@@ -186,6 +235,19 @@ export function LandingPage() {
 
   return (
     <div className="landing-page-root antialiased selection:bg-white selection:text-black">
+      {/* Loading Screen — slides up to reveal the page once the image is loaded */}
+      {loadingMounted && (
+        <div className={`loading-screen${loadingExiting ? ' exiting' : ''}`}>
+          <div className="loading-wordmark">TELOS</div>
+          <div className="loading-core">
+            <div className="loading-vline"></div>
+            <span ref={loadingPercentRef} className="loading-pct">000</span>
+            <div className="loading-vline"></div>
+          </div>
+          <div className="loading-status">INITIALIZING</div>
+        </div>
+      )}
+
       {/* Custom Pointer */}
       <div className="custom-cursor" id="custom-cursor" ref={cursorRef}></div>
 

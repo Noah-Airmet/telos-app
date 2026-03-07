@@ -287,12 +287,12 @@
     .landing-page-root .custom-cursor {
         display: none !important;
     }
-    
+
     .landing-page-root .edge-bottom-left,
     .landing-page-root .edge-right-center {
         display: none !important;
     }
-    
+
     .landing-page-root .scroll-progress-container {
         left: 1.5rem;
         transform: none;
@@ -306,4 +306,72 @@
         /* Shift focus to the right side where Jesus is */
         background-position: 75% center;
     }
+}
+
+/* Loading Screen */
+.landing-page-root .loading-screen {
+    position: fixed;
+    inset: 0;
+    z-index: 40; /* Above main content (z-10), below edge indicators (z-50) */
+    background: #050505;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.85s cubic-bezier(0.77, 0, 0.18, 1);
+    pointer-events: none;
+}
+
+.landing-page-root .loading-screen.exiting {
+    transform: translateY(-100%);
+}
+
+.landing-page-root .loading-wordmark {
+    font-family: monospace;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color: #ffffff;
+    opacity: 0.25;
+    position: absolute;
+    top: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+.landing-page-root .loading-core {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.landing-page-root .loading-vline {
+    width: 1px;
+    height: 22vh;
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.landing-page-root .loading-pct {
+    font-family: monospace;
+    font-size: clamp(2.5rem, 8vw, 6rem);
+    color: #ffffff;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    padding: 1.5rem 0;
+    opacity: 0.9;
+}
+
+.landing-page-root .loading-status {
+    font-family: monospace;
+    font-size: 0.55rem;
+    text-transform: uppercase;
+    letter-spacing: 0.35em;
+    color: #ffffff;
+    opacity: 0.18;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
 }
