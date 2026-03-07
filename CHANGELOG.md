@@ -5,6 +5,26 @@ All notable changes to the Telos Gospel Library project will be documented in th
 ## [Unreleased]
 
 ### Added
+- **Firebase Hosting & Deployment:**
+  - Added `firebase.json` with SPA hosting config (serves from `dist/`, rewrites all routes to `index.html`, aggressive cache headers on `/assets/**` and `/data/**`).
+  - Added `.firebaserc` linking the project to `telos-app-51401`.
+  - Added `deploy` and `deploy:preview` npm scripts — `npm run deploy` builds and ships to production, `npm run deploy:preview` creates a shareable Firebase Hosting preview channel.
+  - Updated `.gitignore` to exclude `.firebase/` cache dir and `.firebaserc`.
+- **Landing Page — Feature Declarations Section:**
+  - Inserted a new section between "Gospel Library deserves an Upgrade" and "Introducing TELOS" showcasing six killer features as typographic declaration blocks (index number + massive keyword + monospace description).
+  - Features: COMPARE (parallel translations), COMMAND (Cmd+K palette), PLAN (notes & lesson planning), CONTEXT (commentaries & study bibles), LOOKUP (importable dictionaries), KEYBOARD (desktop-first shortcuts).
+  - Blocks alternate left/right/center alignment across ~360vh of scroll depth, each revealing via the existing IntersectionObserver scroll-reveal system with staggered delays.
+  - Added a slow horizontal marquee ticker (30s loop) as a visual divider before the TELOS wordmark.
+  - Added CSS: `.feature-index`, `.feature-desc`, `.reveal-delay-1/2`, `.marquee-track`, `@keyframes marquee-scroll`, `.marquee-word`, and `prefers-reduced-motion` override.
+  - Recalibrated background grayscale→color scroll trigger from `0.25` to `0.12` to account for the extended page length.
+- **Landing Page — Announcement Card & Alpha Access Slide-out:**
+  - Converted the "Entrance [ System ]" box from a login form into a public beta announcement card: "PUBLIC BETA / March 14, 2025" with a one-liner teaser.
+  - Moved the Google Sign-In button into a hidden alpha access card that slides down from below the main card when "Request Access_" is clicked (toggles open/closed).
+  - Alpha card header reads "Alpha Testing Now Available / Invite Only".
+  - Slide animation uses CSS `grid-template-rows: 0fr → 1fr` + opacity fade with the same `cubic-bezier(0.19, 1, 0.22, 1)` easing as the rest of the page.
+  - Added `showAlpha` state and `.alpha-card-wrapper` / `.alpha-card-wrapper.open` CSS classes.
+
+### Added
 - **Landing Page & Authentication:**
   - Implemented a cinematic landing page (`src/components/LandingPage.tsx`) featuring a dithered background parallax effect with the "Christ in the Storm" painting.
   - Added a custom interactive crosshair cursor (`src/components/LandingPage.css`) that gracefully trails the native mouse pointer with dynamic gradient intersections.

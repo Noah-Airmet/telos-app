@@ -14,12 +14,22 @@ export function LandingPage() {
   const progressBarRef = useRef<HTMLDivElement>(null);
   const [imageLoaded, setImageLoaded] = useState(false);
   const [showAlpha, setShowAlpha] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
     // Check if local image exists
     const img = new Image();
     img.onload = () => setImageLoaded(true);
     img.src = "/christ-in-the-storm.jpg";
+
+    // Detect mobile device (rough heuristic)
+    const checkMobile = () => {
+      const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 768;
+      setIsMobile(isMobileDevice);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
 
     let mouseX = window.innerWidth / 2;
     let mouseY = window.innerHeight / 2;
@@ -148,6 +158,7 @@ export function LandingPage() {
 
     return () => {
       document.removeEventListener("mousemove", handleMouseMove);
+      window.removeEventListener('resize', checkMobile);
       if (mainEl) {
         mainEl.removeEventListener("scroll", handleScroll);
       }
@@ -354,50 +365,64 @@ export function LandingPage() {
             </div>
 
             <div className="mt-8 text-center border-t border-white/10 pt-6">
-              <button
-                type="button"
-                onClick={(e) => {
-                  e.preventDefault();
-                  setShowAlpha(prev => !prev);
-                }}
-                onMouseEnter={handleMouseEnter}
-                onMouseLeave={handleMouseLeave}
-                className="interactive text-[0.6rem] uppercase tracking-widest opacity-40 hover:opacity-100 font-mono transition-opacity text-white bg-transparent border-none cursor-none"
-              >
-                Request Access_
-              </button>
-            </div>
-          </div>
-
-          {/* Alpha Access Slide-out */}
-          <div className={`alpha-card-wrapper w-full max-w-lg mx-auto ${showAlpha ? "open" : ""}`}>
-            <div>
-              <div className="bg-[#0a0a0a] bg-opacity-[0.85] p-6 md:p-8 border border-white/10 backdrop-blur-xl shadow-2xl relative z-20">
-                <div className="flex justify-between items-center mb-6">
-                  <h2 className="font-mono text-[0.6rem] md:text-xs uppercase tracking-[0.15em] opacity-70 text-white">Alpha Testing Now Available</h2>
-                  <span className="font-mono text-[0.5rem] opacity-30 text-white uppercase">Invite Only</span>
-                </div>
-
+              {!isMobile ? (
                 <button
                   type="button"
-                  onClick={() => {
-                    void signIn();
+                  onClick={(e) => {
+                    e.preventDefault();
+                    setShowAlpha(prev => !prev);
                   }}
                   onMouseEnter={handleMouseEnter}
                   onMouseLeave={handleMouseLeave}
-                  disabled={status === "loading"}
-                  className="interactive w-full relative overflow-hidden group/btn bg-white text-black font-bold uppercase py-4 border border-transparent transition-all text-xs tracking-[0.2em] hover:bg-black hover:text-white hover:border-white flex justify-center items-center gap-2 disabled:opacity-50"
+                  className="interactive text-[0.6rem] uppercase tracking-widest opacity-40 hover:opacity-100 font-mono transition-opacity text-white bg-transparent border-none cursor-none"
                 >
-                  <span className="relative z-10 transition-transform group-hover/btn:translate-x-1 duration-300">
-                    {status === "loading" ? "Initializing..." : "Sign in with Google"}
-                  </span>
-                  <span className="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">
-                    →
-                  </span>
+                  Request Access_
                 </button>
-              </div>
+              ) : (
+                <div className="font-mono text-[0.6rem] text-white opacity-40 uppercase tracking-widest">
+                  Authentication requires desktop environment
+                </div>
+              )}
             </div>
           </div>
+
+          {/* Alpha Access Slide-out (Desktop Only) */}
+          {!isMobile ? (
+            <div className={`alpha-card-wrapper w-full max-w-lg mx-auto ${showAlpha ? "open" : ""}`}>
+              <div>
+                <div className="bg-[#0a0a0a] bg-opacity-[0.85] p-6 md:p-8 border border-white/10 backdrop-blur-xl shadow-2xl relative z-20">
+                  <div className="flex justify-between items-center mb-6">
+                    <h2 className="font-mono text-[0.6rem] md:text-xs uppercase tracking-[0.15em] opacity-70 text-white">Alpha Testing Now Available</h2>
+                    <span className="font-mono text-[0.5rem] opacity-30 text-white uppercase">Invite Only</span>
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      void signIn();
+                    }}
+                    onMouseEnter={handleMouseEnter}
+                    onMouseLeave={handleMouseLeave}
+                    disabled={status === "loading"}
+                    className="interactive w-full relative overflow-hidden group/btn bg-white text-black font-bold uppercase py-4 border border-transparent transition-all text-xs tracking-[0.2em] hover:bg-black hover:text-white hover:border-white flex justify-center items-center gap-2 disabled:opacity-50"
+                  >
+                    <span className="relative z-10 transition-transform group-hover/btn:translate-x-1 duration-300">
+                      {status === "loading" ? "Initializing..." : "Sign in with Google"}
+                    </span>
+                    <span className="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">
+                      →
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <div className="w-full max-w-lg mx-auto mt-4 px-4 text-center">
+              <p className="font-mono text-[0.65rem] text-[#ff3333] uppercase tracking-widest leading-relaxed">
+                Telos is currently a desktop-class experience. Please visit on a computer to sign in.
+              </p>
+            </div>
+          )}
         </section>
       </main>
 
