@@ -72,6 +72,14 @@ export function LandingPage() {
           // Global progress bar update
           if (progressBarRef.current) {
             progressBarRef.current.style.width = `${rawProgress * 100}%`;
+            // Fade out the progress bar at the very bottom to prevent overlapping text
+            if (rawProgress > 0.95) {
+                // Map 0.95-1.0 to 1-0 opacity
+                const fade = Math.max(0, 1 - (rawProgress - 0.95) * 20);
+                progressBarRef.current.parentElement!.style.opacity = fade.toString();
+            } else {
+                progressBarRef.current.parentElement!.style.opacity = "1";
+            }
           }
           // Trigger the background fade early — scripture + "upgrade" sections are
           // roughly the first ~40% of the page, so complete the transition by then.
