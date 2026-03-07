@@ -50,7 +50,7 @@ const LDS_BOOK_NAMES: Record<string, string> = {
 
 export const ldsBomProfile: Profile = {
   name: "lds-bom",
-  translation: "LDS",
+  translation: "2013 BoM",
   type: "scripture",
 
   parse(zip: AdmZip, toc: TocEntry[], spine: EpubSpineEntry[]): TelosDocument[] {

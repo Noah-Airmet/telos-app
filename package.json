@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "npm run build && firebase deploy --only hosting",
     "deploy:preview": "npm run build && firebase hosting:channel:deploy preview",
-    "deploy:netlify": "npm run build && npx netlify-cli deploy --prod --dir=dist"
+    "deploy:netlify": "npm run build && npx --yes netlify-cli deploy --prod --dir=dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",

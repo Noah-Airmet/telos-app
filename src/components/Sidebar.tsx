@@ -32,7 +32,7 @@ const LIBRARY: Collection[] = [
     id: "standard-works",
     label: "Standard Works",
     works: [
-      { id: "lds-bom",  label: "Book of Mormon",      meta: "LDS Edition",             profile: "lds-bom",  type: "scripture" },
+      { id: "lds-bom",  label: "Book of Mormon",      meta: "2013 Edition · LDS",      profile: "lds-bom",  type: "scripture" },
       { id: "lds-dc",   label: "Doctrine & Covenants", meta: "LDS Edition",                                  type: "scripture" },
       { id: "lds-pogp", label: "Pearl of Great Price", meta: "LDS Edition",                                  type: "scripture" },
       { id: "lds-ot",   label: "Old Testament",        meta: "King James Version",                           type: "scripture" },
@@ -110,12 +110,14 @@ interface SidebarProps {
   manifests: TranslationManifest[];
   activeProfile: string;
   activeBookId: string | null;
+  activeChapter: number;
   authStatus: "loading" | "anonymous" | "authenticated";
   authMode: "local" | "cloud";
   userName: string | null;
   onSignOut: () => Promise<void>;
   onSelectTranslation: (profile: string) => void;
   onSelectBook: (book: BookEntry) => void;
+  onSelectChapter: (chapter: number) => void;
 }
 
 // ─── Component ────────────────────────────────────────────────────────────────
@@ -124,12 +126,14 @@ export function Sidebar({
   manifests,
   activeProfile,
   activeBookId,
+  activeChapter,
   authStatus,
   authMode,
   userName,
   onSignOut,
   onSelectTranslation,
   onSelectBook,
+  onSelectChapter,
 }: SidebarProps) {
   const [searchQuery, setSearchQuery]           = useState("");
   const [activeFilter, setActiveFilter]         = useState<FilterType>("all");
@@ -137,6 +141,7 @@ export function Sidebar({
     () => new Set(["standard-works", "bible-translations", "commentary"])
   );
   const [expandedWork, setExpandedWork]         = useState<string | null>(null);
+  const [expandedBook, setExpandedBook]         = useState<string | null>(null); // book_id whose chapter grid is open
   const [showSettings, setShowSettings]         = useState(false);
   const [dictionaryCount, setDictionaryCount]   = useState(0);
   const [dictionaryLabel, setDictionaryLabel]   = useState<string | null>(null);
@@ -155,6 +160,11 @@ export function Sidebar({
     const col = LIBRARY.find((c) => c.works.some((w) => w.id === activeWorkId));
     if (col) setExpandedCollections((prev) => new Set([...prev, col.id]));
   }, [activeWorkId]);
+
+  // Auto-expand the active book's chapter grid
+  useEffect(() => {
+    if (activeBookId) setExpandedBook(activeBookId);
+  }, [activeBookId]);
 
   // Dictionary state
   useEffect(() => {
@@ -465,30 +475,97 @@ export function Sidebar({
                             )}
                           </button>
 
-                          {/* Inline book list */}
+                          {/* Inline book list with chapter drill-down */}
                           {isExpanded && expandedManifest && (
                             <div className="ml-7 mr-2 border-l border-[var(--border-color)] pl-3 pb-1 pt-0.5">
-                              {expandedManifest.books.map((book) => (
-                                <button
-                                  key={book.book_id}
-                                  onClick={() => {
-                                    if (work.profile && work.profile !== activeProfile) {
-                                      onSelectTranslation(work.profile);
-                                    }
-                                    onSelectBook(book);
-                                  }}
-                                  className={`w-full text-left px-2 py-1 text-[11px] rounded-md transition-colors ${
-                                    book.book_id === activeBookId
-                                      ? "bg-gray-200/80 dark:bg-gray-800/80 text-[var(--text-primary)] font-medium"
-                                      : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100/80 dark:hover:bg-gray-800/40"
-                                  }`}
-                                >
-                                  {book.name}
-                                  <span className="ml-1.5 opacity-35 text-[10px] tabular-nums">
-                                    {book.chapters.length}
-                                  </span>
-                                </button>
-                              ))}
+                              {expandedManifest.books.map((book) => {
+                                const isActiveBook = book.book_id === activeBookId;
+                                const isBookExpanded = expandedBook === book.book_id;
+
+                                return (
+                                  <div key={book.book_id}>
+                                    {/* Book row */}
+                                    <button
+                                      onClick={() => {
+                                        if (work.profile && work.profile !== activeProfile) {
+                                          onSelectTranslation(work.profile);
+                                        }
+                                        onSelectBook(book);
+                                        setExpandedBook(isBookExpanded ? null : book.book_id);
+                                      }}
+                                      className={`w-full text-left px-2 py-1 text-[11px] rounded-md transition-colors flex items-center justify-between gap-1 ${
+                                        isActiveBook
+                                          ? "text-[var(--text-primary)] font-medium"
+                                          : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-gray-100/80 dark:hover:bg-gray-800/40"
+                                      }`}
+                                    >
+                                      <span className="truncate">{book.name}</span>
+                                      <span className="flex items-center gap-1 flex-shrink-0">
+                                        <span className="opacity-35 text-[10px] tabular-nums">{book.chapters.length}</span>
+                                        <svg
+                                          className={`opacity-40 transition-transform duration-100 ${isBookExpanded ? "rotate-90" : ""}`}
+                                          width="8" height="8" viewBox="0 0 8 8" fill="currentColor"
+                                        >
+                                          <path d="M2 1l4 3-4 3V1z"/>
+                                        </svg>
+                                      </span>
+                                    </button>
+
+                                    {/* Chapter number grid — Finder-column drill-down */}
+                                    {isBookExpanded && (
+                                      <div
+                                        className="px-1 pb-2 pt-1"
+                                        onKeyDown={(e) => {
+                                          // Arrow key navigation within the chapter grid
+                                          const chapters = book.chapters.map((c) => c.chapter).filter((c): c is number => c !== null);
+                                          const idx = chapters.indexOf(activeChapter);
+                                          if (e.key === "ArrowRight" && idx > -1 && idx < chapters.length - 1) {
+                                            e.preventDefault();
+                                            onSelectChapter(chapters[idx + 1]);
+                                          } else if (e.key === "ArrowLeft" && idx > 0) {
+                                            e.preventDefault();
+                                            onSelectChapter(chapters[idx - 1]);
+                                          } else if (e.key === "ArrowDown" && idx > -1) {
+                                            e.preventDefault();
+                                            const nextIdx = Math.min(idx + 6, chapters.length - 1);
+                                            onSelectChapter(chapters[nextIdx]);
+                                          } else if (e.key === "ArrowUp" && idx > -1) {
+                                            e.preventDefault();
+                                            const prevIdx = Math.max(idx - 6, 0);
+                                            onSelectChapter(chapters[prevIdx]);
+                                          }
+                                        }}
+                                      >
+                                        <div className="grid grid-cols-6 gap-0.5">
+                                          {book.chapters.map((c) => {
+                                            const isActiveChapter = isActiveBook && c.chapter === activeChapter;
+                                            if (c.chapter === null) return null;
+                                            return (
+                                              <button
+                                                key={c.chapter}
+                                                onClick={() => {
+                                                  if (work.profile && work.profile !== activeProfile) {
+                                                    onSelectTranslation(work.profile);
+                                                  }
+                                                  if (!isActiveBook) onSelectBook(book);
+                                                  onSelectChapter(c.chapter as number);
+                                                }}
+                                                className={`h-6 text-[10px] rounded transition-colors tabular-nums ${
+                                                  isActiveChapter
+                                                    ? "bg-[var(--text-primary)] text-[var(--bg-app)] font-semibold"
+                                                    : "text-[var(--text-secondary)] hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-[var(--text-primary)]"
+                                                }`}
+                                              >
+                                                {c.chapter}
+                                              </button>
+                                            );
+                                          })}
+                                        </div>
+                                      </div>
+                                    )}
+                                  </div>
+                                );
+                              })}
                             </div>
                           )}
                         </div>
