@@ -1,5 +1,6 @@
 import {
   onAuthStateChanged,
+  signInAnonymously,
   signInWithPopup,
   signInWithRedirect,
   signOut,
@@ -29,6 +30,10 @@ export async function signInWithGoogle(services: FirebaseServices) {
 
     throw error;
   }
+}
+
+export async function signInTest(services: FirebaseServices) {
+  await signInAnonymously(services.auth);
 }
 
 export async function signOutUser(services: FirebaseServices) {

@@ -3,7 +3,7 @@ import "./LandingPage.css";
 import { useAuth } from "../context/AuthContext";
 
 export function LandingPage() {
-  const { signIn, status } = useAuth();
+  const { signIn, signInTest, status } = useAuth();
   const cursorRef = useRef<HTMLDivElement>(null);
   const bgRef = useRef<HTMLDivElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
@@ -495,6 +495,19 @@ export function LandingPage() {
                       <span className="relative z-10 opacity-50 font-mono group-hover/btn:translate-x-1 duration-300 delay-75">
                         →
                       </span>
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() => {
+                        void signInTest();
+                      }}
+                      onMouseEnter={handleMouseEnter}
+                      onMouseLeave={handleMouseLeave}
+                      disabled={status === "loading"}
+                      className="interactive w-full mt-4 font-mono text-[0.55rem] uppercase tracking-widest opacity-40 hover:opacity-100 transition-opacity text-white bg-transparent border-none"
+                    >
+                      [ Temporary Test Login ]
                     </button>
                   </div>
                 </div>

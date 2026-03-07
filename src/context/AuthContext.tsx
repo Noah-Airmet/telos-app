@@ -7,7 +7,7 @@ import {
   type ReactNode,
 } from "react";
 import type { User } from "firebase/auth";
-import { signInWithGoogle, signOutUser, subscribeToAuth } from "../lib/auth";
+import { signInWithGoogle, signInTest, signOutUser, subscribeToAuth } from "../lib/auth";
 import { getFirebaseServices } from "../lib/firebase";
 import {
   createFirestoreStudyRepository,
@@ -25,6 +25,7 @@ interface AuthContextValue {
   hasCloudSupport: boolean;
   mode: "local" | "cloud";
   signIn: () => Promise<void>;
+  signInTest: () => Promise<void>;
   signOut: () => Promise<void>;
 }
 
@@ -73,6 +74,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       signIn: async () => {
         if (!services) return;
         await signInWithGoogle(services);
+      },
+      signInTest: async () => {
+        if (!services) return;
+        await signInTest(services);
       },
       signOut: async () => {
         if (!services) return;

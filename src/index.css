@@ -10,7 +10,7 @@
   --color-text-primary: #1e293b;
   --color-text-secondary: #64748b;
   --color-highlight-yellow: #fef08a;
-  
+
   --color-dark-bg-app: #121212;
   --color-dark-bg-canvas: #1a1a1a;
   --color-dark-border: #2d3748;
@@ -27,7 +27,7 @@
     --text-primary: var(--color-text-primary);
     --text-secondary: var(--color-text-secondary);
     --highlight: var(--color-highlight-yellow);
-    
+
     font-family: var(--font-sans);
     background-color: var(--bg-app);
     color: var(--text-primary);
@@ -62,15 +62,21 @@
     font-family: var(--font-serif);
     font-size: 1.125rem;
     line-height: 1.75;
-    user-select: auto; /* Allow text selection inside content */
+    user-select: auto;
+    /* Allow text selection inside content */
+
+    /* Make the inherently condensed serif font slightly wider */
+    transform: scaleX(1.15);
+    transform-origin: left;
+    letter-spacing: 0.01em;
   }
-  
+
   .glass-header {
     background-color: rgba(249, 249, 251, 0.7);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
   }
-  
+
   @media (prefers-color-scheme: dark) {
     .glass-header {
       background-color: rgba(18, 18, 18, 0.7);
