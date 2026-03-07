@@ -9,7 +9,8 @@
     font-family: 'Inter', sans-serif;
     overflow-x: hidden;
     scroll-behavior: smooth;
-    min-height: 100vh;
+    min-height: 100dvh;
+    height: 100dvh;
     position: relative;
 }
 
@@ -195,4 +196,113 @@
     transform-origin: right center;
     transform: translateY(-50%) rotate(90deg) translateX(50%);
     white-space: nowrap;
+}
+
+/* Feature Declarations */
+.landing-page-root .feature-index {
+    font-family: monospace;
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    opacity: 0.4;
+    color: #ffffff;
+    mix-blend-mode: difference;
+    transition: opacity 0.3s, color 0.3s;
+}
+
+.landing-page-root .feature-index:hover {
+    opacity: 1;
+    color: #ff3333;
+}
+
+.landing-page-root .feature-desc {
+    font-family: monospace;
+    font-size: clamp(0.75rem, 1.2vw, 1rem);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    line-height: 1.6;
+    opacity: 0.6;
+    color: #ffffff;
+    max-width: 36ch;
+    mix-blend-mode: difference;
+}
+
+/* Staggered reveal delays for feature blocks */
+.landing-page-root .reveal-delay-1 { transition-delay: 0.1s; }
+.landing-page-root .reveal-delay-2 { transition-delay: 0.2s; }
+
+/* Marquee Ticker */
+.landing-page-root .marquee-track {
+    display: flex;
+    white-space: nowrap;
+    animation: marquee-scroll 30s linear infinite;
+    will-change: transform;
+}
+
+@keyframes marquee-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+.landing-page-root .marquee-word {
+    font-family: monospace;
+    font-size: clamp(0.6rem, 1vw, 0.85rem);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    opacity: 0.25;
+    color: #ffffff;
+    padding: 0 2rem;
+    mix-blend-mode: difference;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .landing-page-root .marquee-track {
+        animation: none;
+    }
+}
+
+/* Alpha Card Slide-out */
+.landing-page-root .alpha-card-wrapper {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+                opacity 0.4s ease,
+                margin-top 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+    margin-top: 0;
+}
+
+.landing-page-root .alpha-card-wrapper.open {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin-top: 1rem;
+}
+
+.landing-page-root .alpha-card-wrapper > div {
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .landing-page-root .custom-cursor {
+        display: none !important;
+    }
+    
+    .landing-page-root .edge-bottom-left,
+    .landing-page-root .edge-right-center {
+        display: none !important;
+    }
+    
+    .landing-page-root .scroll-progress-container {
+        left: 1.5rem;
+        transform: none;
+        top: 3rem;
+        width: calc(100vw - 3rem);
+    }
+
+    .landing-page-root .dithered-bg {
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* Shift focus to the right side where Jesus is */
+        background-position: 75% center;
+    }
 }
