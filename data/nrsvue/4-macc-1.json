@@ -5,174 +5,224 @@
   "translation": "NRSVue",
   "blocks": [
     {
-      "block_id": "4-macc-1-heading-salutation",
+      "block_id": "4-macc-1-heading-the-author’s-definit",
       "type": "heading",
-      "text": "Salutation"
+      "text": "The Author’s Definition of His Task"
     },
     {
-      "block_id": "4-macc-1-heading-philemon’s-love-and-",
+      "block_id": "4-macc-1-heading-the-supremacy-of-rea",
       "type": "heading",
-      "text": "Philemon’s Love and Faith"
-    },
-    {
-      "block_id": "4-macc-1-heading-paul’s-plea-for-ones",
-      "type": "heading",
-      "text": "Paul’s Plea for Onesimus"
-    },
-    {
-      "block_id": "4-macc-1-heading-final-greetings-and-",
-      "type": "heading",
-      "text": "Final Greetings and Benediction"
+      "text": "The Supremacy of Reason"
     },
     {
       "block_id": "4-macc-1-1",
       "type": "verse",
       "number": 1,
-      "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother,"
+      "text": "The subject that I am about to discuss is most philosophical, that is, whether pious reason is sovereign over the passions. So it is right for me to advise you to pay earnest attention to philosophy."
     },
     {
       "block_id": "4-macc-1-2",
       "type": "verse",
       "number": 2,
-      "text": "to our sister Apphia, to our fellow soldier Archippus, and to the church in your house:"
+      "text": "For the subject is essential to everyone who is seeking knowledge, and in addition it includes the praise of the highest virtue—I mean, of course, rational judgment."
     },
     {
       "block_id": "4-macc-1-3",
       "type": "verse",
       "number": 3,
-      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      "text": "If, then, it is evident that reason rules over those passions that hinder self-control, namely, gluttony and lust,"
     },
     {
       "block_id": "4-macc-1-4",
       "type": "verse",
       "number": 4,
-      "text": "I thank my God always when I mention you in my prayers,"
+      "text": "it is also clear that it masters the passions that hinder one from justice, such as malice, and those that stand in the way of courage, namely, anger, fear, and pain."
     },
     {
       "block_id": "4-macc-1-5",
       "type": "verse",
       "number": 5,
-      "text": "because I hear of your love for all the saints and your faith toward the Lord Jesus."
+      "text": "Some might perhaps ask, “If reason rules the passions, why is it not sovereign over forgetfulness and ignorance?” Their attempt at argument is ridiculous!"
     },
     {
       "block_id": "4-macc-1-6",
       "type": "verse",
       "number": 6,
-      "text": "I pray that the partnership of your faith may become effective as you comprehend all the good that we share in Christ."
+      "text": "For reason does not rule its own passions but those that are opposed to justice, courage, and self-control, and it is not for the purpose of destroying them but so that one may not give way to them."
     },
     {
       "block_id": "4-macc-1-7",
       "type": "verse",
       "number": 7,
-      "text": "I have indeed received much joy and encouragement from your love, because the hearts of the saints have been refreshed through you, my brother."
+      "text": "I could prove to you from many and various examples that reason is absolute ruler over the passions,"
     },
     {
       "block_id": "4-macc-1-8",
       "type": "verse",
       "number": 8,
-      "text": "For this reason, though I am more than bold enough in Christ to command you to do the right thing,"
+      "text": "but I can demonstrate it best from the noble bravery of those who died for the sake of virtue: Eleazar and the seven brothers and their mother."
     },
     {
       "block_id": "4-macc-1-9",
       "type": "verse",
       "number": 9,
-      "text": "yet I would rather appeal to you on the basis of love—and I, Paul, do this as an old man and now also as a prisoner of Christ Jesus."
+      "text": "All of these, by despising sufferings that bring death, demonstrated that reason controls the passions."
     },
     {
       "block_id": "4-macc-1-10",
       "type": "verse",
       "number": 10,
-      "text": "I am appealing to you for my child, Onesimus, whose father I have become during my imprisonment."
+      "text": "On the anniversary of these events it is fitting for me to praise for their virtues those who, with their mother, died for the sake of nobility and goodness, and I would also call them blessed for the honor in which they are held."
     },
     {
       "block_id": "4-macc-1-11",
       "type": "verse",
       "number": 11,
-      "text": "Formerly he was useless to you, but now he is indeed useful to you and to me."
+      "text": "All people, even their torturers, marveled at their courage and endurance, and they became the cause of the downfall of tyranny over their nation. By their endurance they conquered the tyrant, and thus their native land was purified through them."
     },
     {
       "block_id": "4-macc-1-12",
       "type": "verse",
       "number": 12,
-      "text": "I am sending him, that is, my own heart, back to you."
+      "text": "I shall shortly have an opportunity to speak of this, but, as my custom is, I shall begin by stating my main principle, and then I shall turn to their story, giving glory to the all-wise God."
     },
     {
       "block_id": "4-macc-1-13",
       "type": "verse",
       "number": 13,
-      "text": "I wanted to keep him with me so that he might minister to me in your place during my imprisonment for the gospel,"
+      "text": "Our inquiry, accordingly, is whether reason is sovereign over the passions."
     },
     {
       "block_id": "4-macc-1-14",
       "type": "verse",
       "number": 14,
-      "text": "but I preferred to do nothing without your consent in order that your good deed might be voluntary and not something forced."
+      "text": "We shall decide just what reason is and what passion is, how many kinds of passions there are, and whether reason rules over all these."
     },
     {
       "block_id": "4-macc-1-15",
       "type": "verse",
       "number": 15,
-      "text": "Perhaps this is the reason he was separated from you for a while, so that you might have him back for the long term,"
+      "text": "Now reason is the mind that with sound logic prefers the life of wisdom."
     },
     {
       "block_id": "4-macc-1-16",
       "type": "verse",
       "number": 16,
-      "text": "no longer as a slave but more than a slave, a beloved brother—especially to me but how much more to you, both in the flesh and in the Lord."
+      "text": "Wisdom, next, is the knowledge of divine and human matters and the causes of these."
     },
     {
       "block_id": "4-macc-1-17",
       "type": "verse",
       "number": 17,
-      "text": "So if you consider me your partner, welcome him as you would welcome me."
+      "text": "This, in turn, is education in the law, by which we learn divine matters reverently and human affairs to our advantage."
     },
     {
       "block_id": "4-macc-1-18",
       "type": "verse",
       "number": 18,
-      "text": "If he has wronged you in any way or owes you anything, charge that to me."
+      "text": "Now the kinds of wisdom are rational judgment, justice, courage, and self-control."
     },
     {
       "block_id": "4-macc-1-19",
       "type": "verse",
       "number": 19,
-      "text": "I, Paul, am writing this with my own hand: I will repay it. I say nothing about your owing me even your own self."
+      "text": "Rational judgment is supreme over all of these, since by means of it reason rules over the passions."
     },
     {
       "block_id": "4-macc-1-20",
       "type": "verse",
       "number": 20,
-      "text": "Yes, brother, let me have this benefit from you in the Lord! Refresh my heart in Christ."
+      "text": "The two most comprehensive types of the passions are pleasure and pain, and each of these is by nature concerned with both body and soul."
     },
     {
       "block_id": "4-macc-1-21",
       "type": "verse",
       "number": 21,
-      "text": "Confident of your obedience, I am writing to you, knowing that you will do even more than I ask."
+      "text": "There are many sequences of passions with both pleasure and pain."
     },
     {
       "block_id": "4-macc-1-22",
       "type": "verse",
       "number": 22,
-      "text": "One thing more: prepare a guest room for me, for I am hoping through your prayers to be restored to you."
+      "text": "Thus desire precedes pleasure, and delight follows it."
     },
     {
       "block_id": "4-macc-1-23",
       "type": "verse",
       "number": 23,
-      "text": "Epaphras, my fellow prisoner in Christ Jesus, sends greetings to you,,"
+      "text": "Fear precedes pain, and sorrow comes after."
     },
     {
       "block_id": "4-macc-1-24",
       "type": "verse",
       "number": 24,
-      "text": "and so do Mark, Aristarchus, Demas, and Luke, my coworkers."
+      "text": "Anger, as a person will see by reflecting on this experience, is a passion embracing pleasure and pain."
     },
     {
       "block_id": "4-macc-1-25",
       "type": "verse",
       "number": 25,
-      "text": "The grace of the Lord Jesus Christ be with your spirit.,"
+      "text": "In pleasure there exists even a malevolent tendency, which is the most complex of all the passions."
+    },
+    {
+      "block_id": "4-macc-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "In the soul it is boastfulness, love of money, thirst for honor, rivalry, and malice;"
+    },
+    {
+      "block_id": "4-macc-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "in the body, indiscriminate eating, gluttony, and eating alone."
+    },
+    {
+      "block_id": "4-macc-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Just as pleasure and pain are two plants growing from the body and the soul, so there are many offshoots of these plants,"
+    },
+    {
+      "block_id": "4-macc-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "each of which the master cultivator, reason, weeds and prunes and ties up and waters and thoroughly irrigates and so tames the jungle of habits and passions."
+    },
+    {
+      "block_id": "4-macc-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "For reason is the guide of the virtues, but over the passions it is sovereign."
+    },
+    {
+      "block_id": "4-macc-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Self-control, then, is dominance over the desires."
+    },
+    {
+      "block_id": "4-macc-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Some desires belong to the soul, others to the body, and reason obviously rules over both."
+    },
+    {
+      "block_id": "4-macc-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Otherwise, how is it that when we are attracted to forbidden foods we abstain from the pleasure to be had from them? Is it not because reason is able to rule over appetites? I for one think so."
+    },
+    {
+      "block_id": "4-macc-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Therefore when we crave seafood and fowl and animals and all sorts of foods that are forbidden to us by the law, we abstain because of domination by reason."
+    },
+    {
+      "block_id": "4-macc-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "For the passions of the appetites are restrained, checked by the temperate mind, and all the impulses of the body are bridled by reason."
     }
   ]
 }

@@ -4,13 +4,20 @@ import type AdmZip from "adm-zip";
 
 // The Hardy "Annotated Book of Mormon" (Oxford University Press):
 //
-// Structure:
-//   - <span class="label">N</span> → CHAPTER marker (N=chapter number)
-//   - <span class="label">[VII] N</span> → Section + CHAPTER marker
-//   - Verse numbers appear as <sup>N</sup> (often inside <a> footnote wrappers)
-//   - Labels with colons like "1–2:", "Preface." → commentary headers
-//   - Each _chapter file contains an entire BoM book
-//   - Example: <span class="label">3</span> <sup>1</sup> text = Chapter 3, Verse 1
+// Book detection:
+//   - ONLY 2 of 15 books use h1.chaptertitle in the EPUB (2 Nephi, Moroni).
+//   - The rest are identified from the EPUB TOC (toc.ncx), where top-level
+//     entries (no fragment anchor) map filenames to book titles.
+//   - We build a filename → bookInfo map from the TOC first, then apply it
+//     at the start of each spine file.
+//
+// Chapter structure:
+//   - Chapter labels appear in span.label inside content paragraphs: "1", "2", "[II] 3"
+//     The trailing digit is the chapter number.
+//   - Section headings (h1.h1, h2.h2, h2.h2a) appear inline between verse paragraphs.
+//   - Verse numbers appear as the first numeric <sup> in a paragraph (not inside span.label).
+//   - The chapter-label paragraph often carries verse 1 with no explicit sup — auto-assign.
+//   - Commentary paragraphs have labels ending in ":"  or "." or ranges like "1–4:".
 
 const HARDY_BOOK_MAP: Record<string, { abbrev: string; name: string }> = {
   "The First Book of Nephi": { abbrev: "1-ne", name: "1 Nephi" },
@@ -25,10 +32,16 @@ const HARDY_BOOK_MAP: Record<string, { abbrev: string; name: string }> = {
   "The Book of Helaman": { abbrev: "hel", name: "Helaman" },
   "Third Nephi": { abbrev: "3-ne", name: "3 Nephi" },
   "Fourth Nephi": { abbrev: "4-ne", name: "4 Nephi" },
+  // "The Book of Mormon" (book named Mormon) — careful: also matches EPUB-level intro
+  // Safe because intro files have no chapter labels and emit no documents.
   "The Book of Mormon": { abbrev: "morm", name: "Mormon" },
   "The Book of Ether": { abbrev: "ether", name: "Ether" },
   "The Book of Moroni": { abbrev: "moro", name: "Moroni" },
 };
+
+const CONTENT_PARA_CLASSES = new Set([
+  "parafl", "para", "paraind", "paft", "paftfl", "pf", "paraflt",
+]);
 
 interface ParsedParagraph {
   chapterLabel: number | null;
@@ -49,12 +62,11 @@ function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParag
   const label = $el.find("span.label");
   if (label.length > 0) {
     const labelText = label.text().trim();
-
-    // Commentary labels: contain colons, periods, en-dashes with colons
+    // Commentary labels end in ":", ".", or contain ranges like "1–4:"
     if (/[:.]\s*$/.test(labelText) || /\d+\s*[–-]\s*\d+\s*:/.test(labelText)) {
       result.isCommentary = true;
     } else {
-      // Chapter label: extract trailing number from "[VII] 22" or "3"
+      // Chapter label: "[I]1", "[II] 3", "2", etc. — extract trailing digit
       const chapterMatch = labelText.match(/(\d+)\s*$/);
       if (chapterMatch) {
         result.chapterLabel = parseInt(chapterMatch[1], 10);
@@ -62,32 +74,24 @@ function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParag
     }
   }
 
-  // Find verse number from <sup>N</sup> elements
-  // Hardy nests elements deeply: <p><a><span><span><label>...</span></span></a> <sup>N</sup>
-  // or <p><span><span><label>...</span> <sup>N</sup></span></span>
-  // So we search ALL <sup> descendants for the first numeric one that isn't inside the label
+  // Find verse number: first numeric <sup> not nested inside span.label
   if (!result.isCommentary) {
     $el.find("sup").each((_, sup) => {
-      if (result.verseNumber !== null) return; // already found
-      // Skip sups that are part of the label bracket markers ([, I, ])
+      if (result.verseNumber !== null) return;
       if ($(sup).closest("span.label").length > 0) return;
-      const text = $(sup).text().trim();
-      if (/^\d+$/.test(text)) {
-        const num = parseInt(text, 10);
-        if (num > 0 && num < 200) {
-          result.verseNumber = num;
-        }
+      const t = $(sup).text().trim();
+      if (/^\d+$/.test(t)) {
+        const num = parseInt(t, 10);
+        if (num > 0 && num < 300) result.verseNumber = num;
       }
     });
   }
 
-  // Clean text: remove labels, sup verse markers, footnote links, empty spans
+  // Clean text: strip labels, verse-number sup, footnote links, empty id spans
   const $clone = $el.clone();
   $clone.find("span.label").remove();
-  // Remove the first <sup> (verse number) — but only the very first one
   const firstSup = $clone.find("sup").first();
   if (firstSup.length && /^\d+$/.test(firstSup.text().trim())) {
-    // Only remove if it's the verse-number sup, not a footnote letter
     const parent = firstSup.parent();
     if (parent.is("a[href*='note']")) {
       parent.remove();
@@ -95,15 +99,34 @@ function parseParagraph($: cheerio.CheerioAPI, el: cheerio.Element): ParsedParag
       firstSup.remove();
     }
   }
-  // Remove remaining footnote links
   $clone.find("a[href*='note']").remove();
-  // Remove empty id-marker spans
   $clone.find("span[id]").each((_, s) => {
     if (!$(s).text().trim()) $(s).remove();
   });
   result.text = $clone.text().replace(/\s+/g, " ").trim();
 
   return result;
+}
+
+/** Build filename → bookInfo from EPUB TOC (top-level entries only, no fragments). */
+function buildFileBookMap(
+  toc: TocEntry[]
+): Map<string, { abbrev: string; name: string }> {
+  const map = new Map<string, { abbrev: string; name: string }>();
+  for (const entry of toc) {
+    // Skip section anchors (fragments)
+    if (entry.src.includes("#")) continue;
+    const filename = entry.src.split("/").pop() ?? "";
+    if (!filename || map.has(filename)) continue;
+
+    for (const [pattern, info] of Object.entries(HARDY_BOOK_MAP)) {
+      if (entry.label.includes(pattern)) {
+        map.set(filename, info);
+        break;
+      }
+    }
+  }
+  return map;
 }
 
 export const hardyBomProfile: Profile = {
@@ -113,108 +136,151 @@ export const hardyBomProfile: Profile = {
 
   parse(zip: AdmZip, toc: TocEntry[], spine: EpubSpineEntry[]): TelosDocument[] {
     const documents: TelosDocument[] = [];
+    const fileBookMap = buildFileBookMap(toc);
 
     let currentBook = { abbrev: "1-ne", name: "1 Nephi" };
-    let currentChapter = 1;
+    let currentChapter = 0;
+    let chapterBlocks: Block[] = [];
+    let lastVerseId = "bom-1-ne-0-0";
+    let commentaryCount = 0;
+
+    function flushChapter() {
+      if (currentChapter > 0 && chapterBlocks.length > 0) {
+        // Strip trailing headings — they appear before the NEXT chapter label in
+        // the DOM, so they introduce the next chapter, not the current one.
+        let trailingStart = chapterBlocks.length;
+        while (trailingStart > 0 && chapterBlocks[trailingStart - 1].type === "heading") {
+          trailingStart--;
+        }
+        const trailingHeadings = chapterBlocks.splice(trailingStart);
+
+        if (chapterBlocks.length > 0) {
+          documents.push({
+            document_id: `bom-${currentBook.abbrev}-${currentChapter}`,
+            title: `${currentBook.name} ${currentChapter}`,
+            type: "study-bible",
+            translation: "Hardy Annotated",
+            blocks: chapterBlocks,
+          });
+        }
+        // Carry the orphaned headings forward as the start of the next chapter
+        chapterBlocks = trailingHeadings;
+      }
+      commentaryCount = 0;
+    }
 
     for (const entry of spine) {
+      const filename = entry.href.split("/").pop() ?? "";
       const html = zip.getEntry(entry.href)?.getData().toString("utf8") ?? "";
       if (!html) continue;
 
+      // ── Book detection via TOC ──────────────────────────────────────────
+      const tocBook = fileBookMap.get(filename);
+      if (tocBook && tocBook.abbrev !== currentBook.abbrev) {
+        flushChapter();
+        currentBook = tocBook;
+        currentChapter = 0;
+        lastVerseId = `bom-${tocBook.abbrev}-0-0`;
+        commentaryCount = 0;
+      }
+
       const $ = cheerio.load(html);
-      const blocks: Block[] = [];
 
-      // Detect book from chapter title
-      $("h1.chaptertitle1").each((_, el) => {
-        const titleText = $(el).find(".title").text().trim();
-        for (const [pattern, info] of Object.entries(HARDY_BOOK_MAP)) {
-          if (titleText.includes(pattern)) {
-            currentBook = info;
-            currentChapter = 1;
-            break;
-          }
-        }
-      });
+      // Process all relevant elements in DOM order
+      const selector = [
+        "h1.h1",
+        "h2.h2",
+        "h2.h2a",
+        "p.parafl",
+        "p.para",
+        "p.paraind",
+        "p.paft",
+        "p.paftfl",
+        "p.pf",
+        "p.paraflt",
+      ].join(", ");
 
-      // Extract section headings
-      $("h1.h1, h1.chaptersubt").each((_, el) => {
-        const title = $(el).text().replace(/\s+/g, " ").trim();
-        if (title) {
-          blocks.push({
-            block_id: `bom-${currentBook.abbrev}-${currentChapter}-heading-${blocks.length}`,
-            type: "heading",
-            text: title,
+      $(selector).each((_, el) => {
+        const tag = el.tagName ?? "";
+        const cls = (el as cheerio.Element).attribs?.class ?? "";
+
+        // ── Section headings (inline with chapter content) ──────────────
+        if (
+          (tag === "h1" && cls === "h1") ||
+          (tag === "h2" && (cls === "h2" || cls === "h2a"))
+        ) {
+          // Convert <sub>N</sub> person disambiguators to Unicode subscript
+          // digits (e.g. Nephi<sub>1</sub> → Nephi₁) before extracting text.
+          const $hClone = $(el).clone();
+          $hClone.find("sub").each((_, sub) => {
+            const subscripted = $(sub).text().replace(/\d/g, d => "₀₁₂₃₄₅₆₇₈₉"[+d]);
+            $(sub).replaceWith(subscripted);
           });
-        }
-      });
-
-      // Process content paragraphs
-      let lastVerseId = `bom-${currentBook.abbrev}-${currentChapter}-0`;
-      let commentaryCount = 0;
-
-      $("p.parafl, p.para, p.paraind, p.paft, p.paftfl, p.pf").each((_, el) => {
-        const parsed = parseParagraph($, el);
-
-        // Update chapter
-        if (parsed.chapterLabel !== null) {
-          currentChapter = parsed.chapterLabel;
-          commentaryCount = 0;
-
-          // When a chapter label has text but no explicit verse number,
-          // the text IS verse 1 (Hardy starts each chapter paragraph with v1)
-          if (parsed.verseNumber === null && parsed.text && parsed.text.length > 20) {
-            parsed.verseNumber = 1;
-          }
-        }
-
-        if (parsed.isCommentary) {
-          if (parsed.text && parsed.text.length > 5) {
-            commentaryCount++;
-            blocks.push({
-              block_id: `${lastVerseId}-commentary-${commentaryCount}`,
-              type: "commentary",
-              text: parsed.text,
+          const title = $hClone.find("span.title").text().trim() || $hClone.text().trim();
+          if (title) {
+            chapterBlocks.push({
+              block_id: `bom-${currentBook.abbrev}-${currentChapter || "intro"}-heading-${chapterBlocks.length}`,
+              type: "heading",
+              text: title,
             });
           }
           return;
         }
 
-        if (parsed.verseNumber !== null) {
-          const blockId = `bom-${currentBook.abbrev}-${currentChapter}-${parsed.verseNumber}`;
-          lastVerseId = blockId;
-          commentaryCount = 0;
+        // ── Content paragraphs ─────────────────────────────────────────
+        if (CONTENT_PARA_CLASSES.has(cls)) {
+          const parsed = parseParagraph($, el);
 
-          if (parsed.text) {
-            blocks.push({
-              block_id: blockId,
-              type: "verse",
-              number: parsed.verseNumber,
+          // New chapter detected
+          if (parsed.chapterLabel !== null && parsed.chapterLabel !== currentChapter) {
+            flushChapter();
+            currentChapter = parsed.chapterLabel;
+            lastVerseId = `bom-${currentBook.abbrev}-${currentChapter}-0`;
+            commentaryCount = 0;
+
+            // Chapter-label paragraph with text but no explicit verse number → verse 1
+            if (parsed.verseNumber === null && parsed.text && parsed.text.length > 20) {
+              parsed.verseNumber = 1;
+            }
+          }
+
+          if (parsed.isCommentary) {
+            if (parsed.text && parsed.text.length > 5) {
+              commentaryCount++;
+              chapterBlocks.push({
+                block_id: `${lastVerseId}-commentary-${commentaryCount}`,
+                type: "commentary",
+                text: parsed.text,
+              });
+            }
+            return;
+          }
+
+          if (parsed.verseNumber !== null) {
+            const blockId = `bom-${currentBook.abbrev}-${currentChapter}-${parsed.verseNumber}`;
+            lastVerseId = blockId;
+            commentaryCount = 0;
+            if (parsed.text) {
+              chapterBlocks.push({
+                block_id: blockId,
+                type: "verse",
+                number: parsed.verseNumber,
+                text: parsed.text,
+              });
+            }
+          } else if (parsed.text && parsed.text.length > 10) {
+            commentaryCount++;
+            chapterBlocks.push({
+              block_id: `${lastVerseId}-commentary-${commentaryCount}`,
+              type: "commentary",
               text: parsed.text,
             });
           }
-        } else if (parsed.text && parsed.text.length > 10) {
-          // No verse marker = commentary or continuation
-          commentaryCount++;
-          blocks.push({
-            block_id: `${lastVerseId}-commentary-${commentaryCount}`,
-            type: "commentary",
-            text: parsed.text,
-          });
         }
       });
-
-      if (blocks.length > 0) {
-        const filename = entry.href.split("/").pop()?.replace(".xhtml", "") ?? "unknown";
-        documents.push({
-          document_id: `bom-${currentBook.abbrev}-hardy-${filename}`,
-          title: `${currentBook.name} (Hardy Annotated)`,
-          type: "study-bible",
-          translation: "Hardy Annotated",
-          blocks,
-        });
-      }
     }
 
+    flushChapter();
     return documents;
   },
 };

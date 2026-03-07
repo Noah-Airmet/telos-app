@@ -5,249 +5,122 @@
   "translation": "NRSVue",
   "blocks": [
     {
-      "block_id": "esth-gr-13-heading-repent-or-perish",
+      "block_id": "esth-gr-13-heading-the-king’s-letter",
       "type": "heading",
-      "text": "Repent or Perish"
+      "text": "The King’s Letter"
     },
     {
-      "block_id": "esth-gr-13-heading-the-parable-of-the-b",
+      "block_id": "esth-gr-13-heading-mordecai’s-prayer",
       "type": "heading",
-      "text": "The Parable of the Barren Fig Tree"
-    },
-    {
-      "block_id": "esth-gr-13-heading-jesus-heals-a-crippl",
-      "type": "heading",
-      "text": "Jesus Heals a Crippled Woman"
-    },
-    {
-      "block_id": "esth-gr-13-heading-the-parable-of-the-m",
-      "type": "heading",
-      "text": "The Parable of the Mustard Seed"
-    },
-    {
-      "block_id": "esth-gr-13-heading-the-parable-of-the-y",
-      "type": "heading",
-      "text": "The Parable of the Yeast"
-    },
-    {
-      "block_id": "esth-gr-13-heading-the-narrow-door",
-      "type": "heading",
-      "text": "The Narrow Door"
-    },
-    {
-      "block_id": "esth-gr-13-heading-the-lament-over-jeru",
-      "type": "heading",
-      "text": "The Lament over Jerusalem"
+      "text": "Mordecai’s Prayer"
     },
     {
       "block_id": "esth-gr-13-1",
       "type": "verse",
       "number": 1,
-      "text": "At that very time there were some present who told Jesus about the Galileans whose blood Pilate had mingled with their sacrifices."
+      "text": "This is a copy of the letter: “The Great King, Artaxerxes, writes the following to the governors of the hundred twenty-seven provinces from India to Ethiopia and to the officials under them:"
     },
     {
       "block_id": "esth-gr-13-2",
       "type": "verse",
       "number": 2,
-      "text": "He asked them, “Do you think that because these Galileans suffered in this way they were worse sinners than all other Galileans?"
+      "text": "“Having become ruler of many nations and master of the whole world (not elated with presumption of authority but always acting reasonably and with kindness), I have determined to settle the lives of my subjects in lasting tranquility and, in order to make my kingdom peaceable and open to travel throughout all its extent, to restore the peace desired by all people."
     },
     {
       "block_id": "esth-gr-13-3",
       "type": "verse",
       "number": 3,
-      "text": "No, I tell you, but unless you repent you will all perish as they did."
+      "text": "“When I asked my counselors how this might be accomplished, Haman—who excels among us in sound judgment and is distinguished for his unchanging goodwill and steadfast fidelity and has attained the second place of honor in the kingdom—"
     },
     {
       "block_id": "esth-gr-13-4",
       "type": "verse",
       "number": 4,
-      "text": "Or those eighteen who were killed when the tower of Siloam fell on them—do you think that they were worse offenders than all the other people living in Jerusalem?"
+      "text": "pointed out to us that among all the nations in the world there is scattered a certain hostile people who have laws contrary to those of every nation and continually disregard the ordinances of kings, so that the unifying of the kingdom that we honorably intend cannot be brought about."
     },
     {
       "block_id": "esth-gr-13-5",
       "type": "verse",
       "number": 5,
-      "text": "No, I tell you, but unless you repent you will all perish just as they did.”"
+      "text": "We understand that this people, and it alone, stands constantly in opposition to all humanity, perversely following a strange manner of life and laws, and is ill-disposed to our interests, doing all the harm they can so that our kingdom may not attain stability."
     },
     {
       "block_id": "esth-gr-13-6",
       "type": "verse",
       "number": 6,
-      "text": "Then he told this parable: “A man had a fig tree planted in his vineyard, and he came looking for fruit on it and found none."
+      "text": "“Therefore we have decreed that those indicated to you in the letters written by Haman, who is in charge of affairs and is our second father, shall all—wives and children included—be utterly destroyed by the swords of their enemies, without pity or restraint, on the fourteenth day of the twelfth month, Adar, of this present year,"
     },
     {
       "block_id": "esth-gr-13-7",
       "type": "verse",
       "number": 7,
-      "text": "So he said to the man working the vineyard, ‘See here! For three years I have come looking for fruit on this fig tree, and still I find none. Cut it down! Why should it be wasting the soil?’"
+      "text": "so that those who have long been hostile and remain so may in a single day go down in violence to Hades and leave our interests secure and untroubled hereafter.”"
     },
     {
       "block_id": "esth-gr-13-8",
       "type": "verse",
       "number": 8,
-      "text": "He replied, ‘Sir, let it alone for one more year, until I dig around it and put manure on it."
+      "text": "Then Mordecai prayed to the Lord, calling to remembrance all the works of the Lord."
     },
     {
       "block_id": "esth-gr-13-9",
       "type": "verse",
       "number": 9,
-      "text": "If it bears fruit next year, well and good, but if not, you can cut it down.’ ”"
+      "text": "He said, “O Lord, Lord, King of all powers, for the universe is in your power and there is no one who can oppose you when it is your will to save Israel,"
     },
     {
       "block_id": "esth-gr-13-10",
       "type": "verse",
       "number": 10,
-      "text": "Now he was teaching in one of the synagogues on the Sabbath."
+      "text": "for you have made heaven and earth and every wonderful thing under heaven."
     },
     {
       "block_id": "esth-gr-13-11",
       "type": "verse",
       "number": 11,
-      "text": "And just then there appeared a woman with a spirit that had crippled her for eighteen years. She was bent over and was quite unable to stand up straight."
+      "text": "You are Lord of all, and there is no one who can resist you, the Lord."
     },
     {
       "block_id": "esth-gr-13-12",
       "type": "verse",
       "number": 12,
-      "text": "When Jesus saw her, he called her over and said, “Woman, you are set free from your ailment.”"
+      "text": "You know all things; you know, O Lord, that it was not in insolence or pride or for any love of glory that I did this and refused to bow down to this proud Haman,"
     },
     {
       "block_id": "esth-gr-13-13",
       "type": "verse",
       "number": 13,
-      "text": "When he laid his hands on her, immediately she stood up straight and began praising God."
+      "text": "for I would have been willing to kiss the soles of his feet to save Israel!"
     },
     {
       "block_id": "esth-gr-13-14",
       "type": "verse",
       "number": 14,
-      "text": "But the leader of the synagogue, indignant because Jesus had cured on the Sabbath, kept saying to the crowd, “There are six days on which work ought to be done; come on those days and be cured and not on the Sabbath day.”"
+      "text": "But I did this so that I might not set human glory above the glory of God, and I will not bow down to anyone but you, who are my Lord, and I will not do these things in pride."
     },
     {
       "block_id": "esth-gr-13-15",
       "type": "verse",
       "number": 15,
-      "text": "But the Lord answered him and said, “You hypocrites! Does not each of you on the Sabbath untie his ox or his donkey from the manger and lead it to water?"
+      "text": "And now, O Lord God and King, God of Abraham, spare your people, for the eyes of our foes are upon us to annihilate us, and they desire to destroy the inheritance that has been yours from the beginning."
     },
     {
       "block_id": "esth-gr-13-16",
       "type": "verse",
       "number": 16,
-      "text": "And ought not this woman, a daughter of Abraham whom Satan bound for eighteen long years, be set free from this bondage on the Sabbath day?”"
+      "text": "Do not neglect your portion, which you redeemed for yourself out of the land of Egypt."
     },
     {
       "block_id": "esth-gr-13-17",
       "type": "verse",
       "number": 17,
-      "text": "When he said this, all his opponents were put to shame, and the entire crowd was rejoicing at all the wonderful things being done by him."
+      "text": "Hear my prayer and have mercy upon your inheritance; turn our mourning into feasting that we may live and sing praise to your name, O Lord; do not destroy the lips of those who praise you.”"
     },
     {
       "block_id": "esth-gr-13-18",
       "type": "verse",
       "number": 18,
-      "text": "He said therefore, “What is the kingdom of God like? And to what should I compare it?"
-    },
-    {
-      "block_id": "esth-gr-13-19",
-      "type": "verse",
-      "number": 19,
-      "text": "It is like a mustard seed that someone took and sowed in the garden; it grew and became a tree, and the birds of the air made nests in its branches.”"
-    },
-    {
-      "block_id": "esth-gr-13-20",
-      "type": "verse",
-      "number": 20,
-      "text": "And again he said, “To what should I compare the kingdom of God?"
-    },
-    {
-      "block_id": "esth-gr-13-21",
-      "type": "verse",
-      "number": 21,
-      "text": "It is like yeast that a woman took and mixed in with three measures of flour until all of it was leavened.”"
-    },
-    {
-      "block_id": "esth-gr-13-22",
-      "type": "verse",
-      "number": 22,
-      "text": "Jesus went through one town and village after another, teaching as he made his way to Jerusalem."
-    },
-    {
-      "block_id": "esth-gr-13-23",
-      "type": "verse",
-      "number": 23,
-      "text": "Someone asked him, “Lord, will only a few be saved?” He said to them,"
-    },
-    {
-      "block_id": "esth-gr-13-24",
-      "type": "verse",
-      "number": 24,
-      "text": "“Strive to enter through the narrow door, for many, I tell you, will try to enter and will not be able."
-    },
-    {
-      "block_id": "esth-gr-13-25",
-      "type": "verse",
-      "number": 25,
-      "text": "Once the owner of the house has got up and shut the door, and you begin to stand outside and to knock at the door, saying, ‘Lord, open to us,’ then in reply he will say to you, ‘I do not know where you come from.’"
-    },
-    {
-      "block_id": "esth-gr-13-26",
-      "type": "verse",
-      "number": 26,
-      "text": "Then you will begin to say, ‘We ate and drank with you, and you taught in our streets.’"
-    },
-    {
-      "block_id": "esth-gr-13-27",
-      "type": "verse",
-      "number": 27,
-      "text": "But he will say to you, ‘I do not know where you come from; go away from me, all you evildoers!’"
-    },
-    {
-      "block_id": "esth-gr-13-28",
-      "type": "verse",
-      "number": 28,
-      "text": "There will be weeping and gnashing of teeth when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, and you yourselves thrown out."
-    },
-    {
-      "block_id": "esth-gr-13-29",
-      "type": "verse",
-      "number": 29,
-      "text": "Then people will come from east and west, from north and south, and take their places at the banquet in the kingdom of God."
-    },
-    {
-      "block_id": "esth-gr-13-30",
-      "type": "verse",
-      "number": 30,
-      "text": "Indeed, some are last who will be first, and some are first who will be last.”"
-    },
-    {
-      "block_id": "esth-gr-13-31",
-      "type": "verse",
-      "number": 31,
-      "text": "At that very hour some Pharisees came and said to him, “Get away from here, for Herod wants to kill you.”"
-    },
-    {
-      "block_id": "esth-gr-13-32",
-      "type": "verse",
-      "number": 32,
-      "text": "He said to them, “Go and tell that fox for me, ‘Listen, I am casting out demons and performing cures today and tomorrow, and on the third day I finish my work."
-    },
-    {
-      "block_id": "esth-gr-13-33",
-      "type": "verse",
-      "number": 33,
-      "text": "Yet today, tomorrow, and the next day I must be on my way, because it is impossible for a prophet to be killed outside of Jerusalem.’"
-    },
-    {
-      "block_id": "esth-gr-13-34",
-      "type": "verse",
-      "number": 34,
-      "text": "Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!"
-    },
-    {
-      "block_id": "esth-gr-13-35",
-      "type": "verse",
-      "number": 35,
-      "text": "See, your house is left to you. And I tell you, you will not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’ ”"
+      "text": "And all Israel cried out with all their might, for their death was before their eyes."
     }
   ]
 }

@@ -1,0 +1,290 @@
+{
+  "document_id": "luke-10",
+  "title": "Luke 10",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "luke-10-heading-the-mission-of-the-s",
+      "type": "heading",
+      "text": "The Mission of the Seventy-Two"
+    },
+    {
+      "block_id": "luke-10-heading-woes-to-unrepentant-",
+      "type": "heading",
+      "text": "Woes to Unrepentant Cities"
+    },
+    {
+      "block_id": "luke-10-heading-the-return-of-the-se",
+      "type": "heading",
+      "text": "The Return of the Seventy-Two"
+    },
+    {
+      "block_id": "luke-10-heading-jesus-rejoices",
+      "type": "heading",
+      "text": "Jesus Rejoices"
+    },
+    {
+      "block_id": "luke-10-heading-the-parable-of-the-g",
+      "type": "heading",
+      "text": "The Parable of the Good Samaritan"
+    },
+    {
+      "block_id": "luke-10-heading-jesus-visits-martha-",
+      "type": "heading",
+      "text": "Jesus Visits Martha and Mary"
+    },
+    {
+      "block_id": "luke-10-1",
+      "type": "verse",
+      "number": 1,
+      "text": "After this the Lord appointed seventy-two others and sent them on ahead of him in pairs to every town and place where he himself intended to go."
+    },
+    {
+      "block_id": "luke-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He said to them, “The harvest is plentiful, but the laborers are few; therefore ask the Lord of the harvest to send out laborers into his harvest."
+    },
+    {
+      "block_id": "luke-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Go on your way; I am sending you out like lambs into the midst of wolves."
+    },
+    {
+      "block_id": "luke-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Carry no purse, no bag, no sandals, and greet no one on the road."
+    },
+    {
+      "block_id": "luke-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Whatever house you enter, first say, ‘Peace to this house!’"
+    },
+    {
+      "block_id": "luke-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And if a person of peace is there, your peace will rest on that person, but if not, it will return to you."
+    },
+    {
+      "block_id": "luke-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remain in the same house, eating and drinking whatever they provide, for the laborer deserves to be paid. Do not move about from house to house."
+    },
+    {
+      "block_id": "luke-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Whenever you enter a town and its people welcome you, eat what is set before you;"
+    },
+    {
+      "block_id": "luke-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "cure the sick who are there, and say to them, ‘The kingdom of God has come near to you.’,"
+    },
+    {
+      "block_id": "luke-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But whenever you enter a town and they do not welcome you, go out into its streets and say,"
+    },
+    {
+      "block_id": "luke-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "‘Even the dust of your town that clings to our feet, we wipe off in protest against you. Yet know this: the kingdom of God has come near.’,"
+    },
+    {
+      "block_id": "luke-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I tell you, on that day it will be more tolerable for Sodom than for that town."
+    },
+    {
+      "block_id": "luke-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the deeds of power done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes."
+    },
+    {
+      "block_id": "luke-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Indeed, at the judgment it will be more tolerable for Tyre and Sidon than for you."
+    },
+    {
+      "block_id": "luke-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And you, Capernaum,"
+    },
+    {
+      "block_id": "luke-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“Whoever listens to you listens to me, and whoever rejects you rejects me, and whoever rejects me rejects the one who sent me.”"
+    },
+    {
+      "block_id": "luke-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The seventy-two returned with joy, saying, “Lord, in your name even the demons submit to us!”"
+    },
+    {
+      "block_id": "luke-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He said to them, “I watched Satan fall from heaven like a flash of lightning."
+    },
+    {
+      "block_id": "luke-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Indeed, I have given you authority to tread on snakes and scorpions and over all the power of the enemy, and nothing will hurt you."
+    },
+    {
+      "block_id": "luke-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Nevertheless, do not rejoice at this, that the spirits submit to you, but rejoice that your names are written in heaven.”"
+    },
+    {
+      "block_id": "luke-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "At that very hour Jesus rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and the intelligent and have revealed them to infants; yes, Father, for such was your gracious will.,"
+    },
+    {
+      "block_id": "luke-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "All things have been handed over to me by my Father, and no one knows who the Son is except the Father or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”"
+    },
+    {
+      "block_id": "luke-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then turning to the disciples, Jesus said to them privately, “Blessed are the eyes that see what you see!"
+    },
+    {
+      "block_id": "luke-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For I tell you that many prophets and kings desired to see what you see but did not see it and to hear what you hear but did not hear it.”"
+    },
+    {
+      "block_id": "luke-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "An expert in the law stood up to test Jesus. “Teacher,” he said, “what must I do to inherit eternal life?”"
+    },
+    {
+      "block_id": "luke-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He said to him, “What is written in the law? What do you read there?”"
+    },
+    {
+      "block_id": "luke-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "He answered, “You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind and your neighbor as yourself.”"
+    },
+    {
+      "block_id": "luke-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And he said to him, “You have given the right answer; do this, and you will live.”"
+    },
+    {
+      "block_id": "luke-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "But wanting to vindicate himself, he asked Jesus, “And who is my neighbor?”"
+    },
+    {
+      "block_id": "luke-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Jesus replied, “A man was going down from Jerusalem to Jericho and fell into the hands of robbers, who stripped him, beat him, and took off, leaving him half dead."
+    },
+    {
+      "block_id": "luke-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Now by chance a priest was going down that road, and when he saw him he passed by on the other side."
+    },
+    {
+      "block_id": "luke-10-32",
+      "type": "verse",
+      "number": 32,
+      "text": "So likewise a Levite, when he came to the place and saw him, passed by on the other side."
+    },
+    {
+      "block_id": "luke-10-33",
+      "type": "verse",
+      "number": 33,
+      "text": "But a Samaritan while traveling came upon him, and when he saw him he was moved with compassion."
+    },
+    {
+      "block_id": "luke-10-34",
+      "type": "verse",
+      "number": 34,
+      "text": "He went to him and bandaged his wounds, treating them with oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him."
+    },
+    {
+      "block_id": "luke-10-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The next day he took out two denarii, gave them to the innkeeper, and said, ‘Take care of him, and when I come back I will repay you whatever more you spend.’"
+    },
+    {
+      "block_id": "luke-10-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Which of these three, do you think, was a neighbor to the man who fell into the hands of the robbers?”"
+    },
+    {
+      "block_id": "luke-10-37",
+      "type": "verse",
+      "number": 37,
+      "text": "He said, “The one who showed him mercy.” Jesus said to him, “Go and do likewise.”"
+    },
+    {
+      "block_id": "luke-10-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Now as they went on their way, he entered a certain village where a woman named Martha welcomed him.,"
+    },
+    {
+      "block_id": "luke-10-39",
+      "type": "verse",
+      "number": 39,
+      "text": "She had a sister named Mary, who sat at Jesus’s feet and listened to what he was saying."
+    },
+    {
+      "block_id": "luke-10-40",
+      "type": "verse",
+      "number": 40,
+      "text": "But Martha was distracted by her many tasks, so she came to him and asked, “Lord, do you not care that my sister has left me to do all the work by myself? Tell her, then, to help me.”"
+    },
+    {
+      "block_id": "luke-10-41",
+      "type": "verse",
+      "number": 41,
+      "text": "But the Lord answered her, “Martha, Martha, you are worried and distracted by many things,"
+    },
+    {
+      "block_id": "luke-10-42",
+      "type": "verse",
+      "number": 42,
+      "text": "but few things are needed—indeed only one. Mary has chosen the better part, which will not be taken away from her.”"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "document_id": "bom-moro-2",
+  "title": "Moroni 2",
+  "type": "study-bible",
+  "translation": "Hardy Annotated",
+  "blocks": [
+    {
+      "block_id": "bom-moro-1-heading-1",
+      "type": "heading",
+      "text": "Moroni₂’s Instructions for Church Order and Ordinances: Moroni 2–6"
+    },
+    {
+      "block_id": "bom-moro-1-heading-2",
+      "type": "heading",
+      "text": "The Gift of the Holy Ghost"
+    },
+    {
+      "block_id": "bom-moro-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them —"
+    },
+    {
+      "block_id": "bom-moro-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And he called them by name, saying, “Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.”"
+    },
+    {
+      "block_id": "bom-moro-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost."
+    }
+  ]
+}

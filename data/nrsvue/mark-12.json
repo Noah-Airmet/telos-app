@@ -1,0 +1,307 @@
+{
+  "document_id": "mark-12",
+  "title": "Mark 12",
+  "type": "scripture",
+  "translation": "NRSVue",
+  "blocks": [
+    {
+      "block_id": "mark-12-heading-the-parable-of-the-w",
+      "type": "heading",
+      "text": "The Parable of the Wicked Tenants"
+    },
+    {
+      "block_id": "mark-12-heading-the-question-about-p",
+      "type": "heading",
+      "text": "The Question about Paying Taxes"
+    },
+    {
+      "block_id": "mark-12-heading-the-question-about-t",
+      "type": "heading",
+      "text": "The Question about the Resurrection"
+    },
+    {
+      "block_id": "mark-12-heading-the-first-commandmen",
+      "type": "heading",
+      "text": "The First Commandment"
+    },
+    {
+      "block_id": "mark-12-heading-the-question-about-d",
+      "type": "heading",
+      "text": "The Question about David’s Son"
+    },
+    {
+      "block_id": "mark-12-heading-jesus-denounces-the-",
+      "type": "heading",
+      "text": "Jesus Denounces the Scribes"
+    },
+    {
+      "block_id": "mark-12-heading-the-widow’s-offering",
+      "type": "heading",
+      "text": "The Widow’s Offering"
+    },
+    {
+      "block_id": "mark-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then he began to speak to them in parables. “A man planted a vineyard, put a fence around it, dug a pit for the winepress, and built a watchtower; then he leased it to tenants and went away."
+    },
+    {
+      "block_id": "mark-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When the season came, he sent a slave to the tenants to collect from them his share of the produce of the vineyard."
+    },
+    {
+      "block_id": "mark-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But they seized him and beat him and sent him away empty-handed."
+    },
+    {
+      "block_id": "mark-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And again he sent another slave to them; this one they beat over the head and insulted."
+    },
+    {
+      "block_id": "mark-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then he sent another, and that one they killed. And so it was with many others; some they beat, and others they killed."
+    },
+    {
+      "block_id": "mark-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He had still one other, a beloved son. Finally he sent him to them, saying, ‘They will respect my son.’"
+    },
+    {
+      "block_id": "mark-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "But those tenants said to one another, ‘This is the heir; come, let us kill him, and the inheritance will be ours.’"
+    },
+    {
+      "block_id": "mark-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So they seized him, killed him, and threw him out of the vineyard."
+    },
+    {
+      "block_id": "mark-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "What then will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others."
+    },
+    {
+      "block_id": "mark-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Have you not read this scripture:"
+    },
+    {
+      "block_id": "mark-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "this was the Lord’s doing,"
+    },
+    {
+      "block_id": "mark-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When they realized that he had told this parable against them, they wanted to arrest him, but they feared the crowd. So they left him and went away."
+    },
+    {
+      "block_id": "mark-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then they sent to him some Pharisees and some Herodians to trap him in what he said."
+    },
+    {
+      "block_id": "mark-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And they came and said to him, “Teacher, we know that you are sincere and show deference to no one, for you do not regard people with partiality but teach the way of God in accordance with truth. Is it lawful to pay taxes to Caesar or not?"
+    },
+    {
+      "block_id": "mark-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Should we pay them, or should we not?” But knowing their hypocrisy, he said to them, “Why are you putting me to the test? Bring me a denarius and let me see it.”"
+    },
+    {
+      "block_id": "mark-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And they brought one. Then he said to them, “Whose head is this and whose title?” They answered, “Caesar’s.”"
+    },
+    {
+      "block_id": "mark-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Jesus said to them, “Give to Caesar the things that are Caesar’s and to God the things that are God’s.” And they were utterly amazed at him."
+    },
+    {
+      "block_id": "mark-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Some Sadducees, who say there is no resurrection, came to him and asked him a question, saying,"
+    },
+    {
+      "block_id": "mark-12-19",
+      "type": "verse",
+      "number": 19,
+      "text": "“Teacher, Moses wrote for us that if a man’s brother dies, leaving a wife but no child, the man shall marry the widow and raise up children for his brother."
+    },
+    {
+      "block_id": "mark-12-20",
+      "type": "verse",
+      "number": 20,
+      "text": "There were seven brothers; the first married and, when he died, left no children,"
+    },
+    {
+      "block_id": "mark-12-21",
+      "type": "verse",
+      "number": 21,
+      "text": "and the second married the widow and died, leaving no children, and the third likewise;"
+    },
+    {
+      "block_id": "mark-12-22",
+      "type": "verse",
+      "number": 22,
+      "text": "none of the seven left children. Last of all the woman herself died."
+    },
+    {
+      "block_id": "mark-12-23",
+      "type": "verse",
+      "number": 23,
+      "text": "In the resurrection, when they rise, whose wife will she be? For all seven had married her.”"
+    },
+    {
+      "block_id": "mark-12-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Jesus said to them, “Is not this the reason you are wrong, that you know neither the scriptures nor the power of God?"
+    },
+    {
+      "block_id": "mark-12-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For when people rise from the dead, they neither marry nor are given in marriage but are like angels in heaven."
+    },
+    {
+      "block_id": "mark-12-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And as for the dead being raised, have you not read in the book of Moses, in the story about the bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?"
+    },
+    {
+      "block_id": "mark-12-27",
+      "type": "verse",
+      "number": 27,
+      "text": "He is God not of the dead but of the living; you are quite wrong.”"
+    },
+    {
+      "block_id": "mark-12-28",
+      "type": "verse",
+      "number": 28,
+      "text": "One of the scribes came near and heard them disputing with one another, and seeing that he answered them well he asked him, “Which commandment is the first of all?”"
+    },
+    {
+      "block_id": "mark-12-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Jesus answered, “The first is, ‘Hear, O Israel: the Lord our God, the Lord is one;"
+    },
+    {
+      "block_id": "mark-12-30",
+      "type": "verse",
+      "number": 30,
+      "text": "you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’"
+    },
+    {
+      "block_id": "mark-12-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The second is this, ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”"
+    },
+    {
+      "block_id": "mark-12-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Then the scribe said to him, “You are right, Teacher; you have truly said that ‘he is one, and besides him there is no other’;"
+    },
+    {
+      "block_id": "mark-12-33",
+      "type": "verse",
+      "number": 33,
+      "text": "and ‘to love him with all the heart and with all the understanding and with all the strength’ and ‘to love one’s neighbor as oneself’—this is much more important than all whole burnt offerings and sacrifices.”"
+    },
+    {
+      "block_id": "mark-12-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.” After that no one dared to ask him any question."
+    },
+    {
+      "block_id": "mark-12-35",
+      "type": "verse",
+      "number": 35,
+      "text": "While Jesus was teaching in the temple, he said, “How can the scribes say that the Messiah is the son of David?"
+    },
+    {
+      "block_id": "mark-12-36",
+      "type": "verse",
+      "number": 36,
+      "text": "David himself, by the Holy Spirit, declared,"
+    },
+    {
+      "block_id": "mark-12-37",
+      "type": "verse",
+      "number": 37,
+      "text": "“David himself calls him Lord, so how can he be his son?” And the large crowd was listening to him with delight."
+    },
+    {
+      "block_id": "mark-12-38",
+      "type": "verse",
+      "number": 38,
+      "text": "As he taught, he said, “Beware of the scribes, who like to walk around in long robes and to be greeted with respect in the marketplaces"
+    },
+    {
+      "block_id": "mark-12-39",
+      "type": "verse",
+      "number": 39,
+      "text": "and to have the best seats in the synagogues and places of honor at banquets!"
+    },
+    {
+      "block_id": "mark-12-40",
+      "type": "verse",
+      "number": 40,
+      "text": "They devour widows’ houses and for the sake of appearance say long prayers. They will receive the greater condemnation.”"
+    },
+    {
+      "block_id": "mark-12-41",
+      "type": "verse",
+      "number": 41,
+      "text": "He sat down opposite the treasury and watched the crowd putting money into the treasury. Many rich people put in large sums."
+    },
+    {
+      "block_id": "mark-12-42",
+      "type": "verse",
+      "number": 42,
+      "text": "A poor widow came and put in two small copper coins, which are worth a penny."
+    },
+    {
+      "block_id": "mark-12-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Then he called his disciples and said to them, “Truly I tell you, this poor widow has put in more than all those who are contributing to the treasury."
+    },
+    {
+      "block_id": "mark-12-44",
+      "type": "verse",
+      "number": 44,
+      "text": "For all of them have contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.”"
+    }
+  ]
+}

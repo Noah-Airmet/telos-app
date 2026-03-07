@@ -5,81 +5,212 @@
   "translation": "NRSVue",
   "blocks": [
     {
-      "block_id": "eph-5-heading-haman’s-plot-against",
+      "block_id": "eph-5-heading-renounce-pagan-ways",
       "type": "heading",
-      "text": "Haman’s Plot against Mordecai"
+      "text": "Renounce Pagan Ways"
+    },
+    {
+      "block_id": "eph-5-heading-the-christian-househ",
+      "type": "heading",
+      "text": "The Christian Household"
+    },
+    {
+      "block_id": "eph-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Therefore be imitators of God, as beloved children,"
+    },
+    {
+      "block_id": "eph-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God."
     },
     {
       "block_id": "eph-5-3",
       "type": "verse",
       "number": 3,
-      "text": "The king said to her, “What do you wish, Esther? What is your request? It shall be yours, even to half of my kingdom.”"
+      "text": "But sexual immorality and impurity of any kind or greed must not even be mentioned among you, as is proper among saints."
     },
     {
       "block_id": "eph-5-4",
       "type": "verse",
       "number": 4,
-      "text": "And Esther said, “Today is a special day for me. If it pleases the king, let him and Haman come to the banquet that I shall prepare today.”"
+      "text": "Entirely out of place is obscene, silly, and vulgar talk; but instead, let there be thanksgiving."
     },
     {
       "block_id": "eph-5-5",
       "type": "verse",
       "number": 5,
-      "text": "Then the king said, “Bring Haman quickly, so that we may do as Esther desires.” So they both came to the banquet that Esther had spoken about."
+      "text": "Be sure of this, that no sexually immoral or impure person or one who is greedy (that is, an idolater) has any inheritance in the kingdom of Christ and of God."
     },
     {
       "block_id": "eph-5-6",
       "type": "verse",
       "number": 6,
-      "text": "While they were drinking wine, the king said to Esther, “What is it, Queen Esther? It shall be granted you.”"
+      "text": "Let no one deceive you with empty words, for because of these things the wrath of God comes on those who are disobedient.,"
     },
     {
       "block_id": "eph-5-7",
       "type": "verse",
       "number": 7,
-      "text": "She said, “My petition and request is:"
+      "text": "Therefore do not be associated with them,"
     },
     {
       "block_id": "eph-5-8",
       "type": "verse",
       "number": 8,
-      "text": "if I have found favor in the sight of the king, let the king and Haman come again tomorrow to the banquet that I shall prepare them, and tomorrow I will do the same.”"
+      "text": "for once you were darkness, but now in the Lord you are light. Walk as children of light,"
     },
     {
       "block_id": "eph-5-9",
       "type": "verse",
       "number": 9,
-      "text": "So Haman went out from the king joyful and glad of heart. But when he saw Mordecai the Jew in the courtyard, he was filled with anger."
+      "text": "for the fruit of the light is found in all that is good and right and true."
     },
     {
       "block_id": "eph-5-10",
       "type": "verse",
       "number": 10,
-      "text": "Nevertheless, he went home and summoned his friends and his wife Zosara."
+      "text": "Try to find out what is pleasing to the Lord."
     },
     {
       "block_id": "eph-5-11",
       "type": "verse",
       "number": 11,
-      "text": "And he told them about his riches and the honor that the king had bestowed on him and how he had advanced him to be the first in the kingdom."
+      "text": "Take no part in the unfruitful works of darkness; rather, expose them."
     },
     {
       "block_id": "eph-5-12",
       "type": "verse",
       "number": 12,
-      "text": "And Haman said, “The queen did not invite anyone to the banquet with the king except me, and I am invited again tomorrow."
+      "text": "For it is shameful even to mention what such people do secretly,"
     },
     {
       "block_id": "eph-5-13",
       "type": "verse",
       "number": 13,
-      "text": "But these things give me no pleasure as long as I see Mordecai the Jew in the courtyard.”"
+      "text": "but everything exposed by the light becomes visible,"
     },
     {
       "block_id": "eph-5-14",
       "type": "verse",
       "number": 14,
-      "text": "His wife Zosara and his friends said to him, “Let a pole be cut, fifty cubits high, and in the morning tell the king and have Mordecai hung on it. Then, go with the king to the banquet and enjoy yourself.” This advice pleased Haman, so the pole was prepared."
+      "text": "for everything that becomes visible is light. Therefore it says,"
+    },
+    {
+      "block_id": "eph-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Be careful, then, how you live, not as unwise people but as wise,"
+    },
+    {
+      "block_id": "eph-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "making the most of the time, because the days are evil."
+    },
+    {
+      "block_id": "eph-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So do not be foolish, but understand what the will of the Lord is."
+    },
+    {
+      "block_id": "eph-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Do not get drunk with wine, for that is debauchery, but be filled with the Spirit,"
+    },
+    {
+      "block_id": "eph-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "as you sing psalms and hymns and spiritual songs to one another, singing and making melody to the Lord in your hearts,"
+    },
+    {
+      "block_id": "eph-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "giving thanks to God the Father at all times and for everything in the name of our Lord Jesus Christ,"
+    },
+    {
+      "block_id": "eph-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "being subject to one another out of reverence for Christ."
+    },
+    {
+      "block_id": "eph-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Wives, be subject to your husbands as to the Lord,"
+    },
+    {
+      "block_id": "eph-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "for the husband is the head of the wife just as Christ is the head of the church, his body, and is himself its Savior."
+    },
+    {
+      "block_id": "eph-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Just as the church is subject to Christ, so also wives ought to be, in everything, to their husbands."
+    },
+    {
+      "block_id": "eph-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Husbands, love your wives, just as Christ loved the church and gave himself up for her"
+    },
+    {
+      "block_id": "eph-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "in order to make her holy by cleansing her with the washing of water by the word,"
+    },
+    {
+      "block_id": "eph-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "so as to present the church to himself in splendor, without a spot or wrinkle or anything of the kind, so that she may be holy and without blemish."
+    },
+    {
+      "block_id": "eph-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "In the same way, husbands should love their wives as their own bodies. He who loves his wife loves himself."
+    },
+    {
+      "block_id": "eph-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For no one ever hates his own flesh, but he nourishes and tenderly cares for it, just as Christ does for the church,"
+    },
+    {
+      "block_id": "eph-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "because we are members of his body.,"
+    },
+    {
+      "block_id": "eph-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”"
+    },
+    {
+      "block_id": "eph-5-32",
+      "type": "verse",
+      "number": 32,
+      "text": "This is a great mystery, but I am speaking about Christ and the church."
+    },
+    {
+      "block_id": "eph-5-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Each of you, however, should love his wife as himself, and a wife should respect her husband."
     }
   ]
 }

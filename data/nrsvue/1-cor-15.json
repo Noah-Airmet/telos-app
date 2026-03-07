@@ -5,57 +5,367 @@
   "translation": "NRSVue",
   "blocks": [
     {
-      "block_id": "1-cor-15-heading-the-angels-with-the-",
+      "block_id": "1-cor-15-heading-the-resurrection-of-",
       "type": "heading",
-      "text": "The Angels with the Seven Last Plagues"
+      "text": "The Resurrection of Christ"
+    },
+    {
+      "block_id": "1-cor-15-heading-the-resurrection-of-",
+      "type": "heading",
+      "text": "The Resurrection of the Dead"
+    },
+    {
+      "block_id": "1-cor-15-heading-the-resurrection-bod",
+      "type": "heading",
+      "text": "The Resurrection Body"
     },
     {
       "block_id": "1-cor-15-1",
       "type": "verse",
       "number": 1,
-      "text": "Then I saw another portent in heaven, great and amazing: seven angels with seven plagues, which are the last, for with them the wrath of God is ended."
+      "text": "Now I want you to understand, brothers and sisters, the good news that I proclaimed to you, which you in turn received, in which also you stand,"
     },
     {
       "block_id": "1-cor-15-2",
       "type": "verse",
       "number": 2,
-      "text": "And I saw what appeared to be a sea of glass mixed with fire and those who had conquered the beast and its image and the number of its name standing beside the sea of glass with harps of God in their hands."
+      "text": "through which also you are being saved, if you hold firmly to the message that I proclaimed to you—unless you have come to believe in vain."
     },
     {
       "block_id": "1-cor-15-3",
       "type": "verse",
       "number": 3,
-      "text": "And they sing the song of Moses, the servant of God, and the song of the Lamb:"
+      "text": "For I handed on to you as of first importance what I in turn had received: that Christ died for our sins in accordance with the scriptures"
     },
     {
       "block_id": "1-cor-15-4",
       "type": "verse",
       "number": 4,
-      "text": "Lord, who will not fear"
+      "text": "and that he was buried and that he was raised on the third day in accordance with the scriptures"
     },
     {
       "block_id": "1-cor-15-5",
       "type": "verse",
       "number": 5,
-      "text": "After this I looked, and the temple of the tent of witness in heaven was opened,"
+      "text": "and that he appeared to Cephas, then to the twelve."
     },
     {
       "block_id": "1-cor-15-6",
       "type": "verse",
       "number": 6,
-      "text": "and out of the temple came the seven angels with the seven plagues, robed in pure bright linen, with golden sashes across their chests."
+      "text": "Then he appeared to more than five hundred brothers and sisters at one time, most of whom are still alive, though some have died."
     },
     {
       "block_id": "1-cor-15-7",
       "type": "verse",
       "number": 7,
-      "text": "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever;"
+      "text": "Then he appeared to James, then to all the apostles."
     },
     {
       "block_id": "1-cor-15-8",
       "type": "verse",
       "number": 8,
-      "text": "and the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were ended."
+      "text": "Last of all, as to one untimely born, he appeared also to me."
+    },
+    {
+      "block_id": "1-cor-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For I am the least of the apostles, unfit to be called an apostle, because I persecuted the church of God."
+    },
+    {
+      "block_id": "1-cor-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But by the grace of God I am what I am, and his grace toward me has not been in vain. On the contrary, I worked harder than any of them, though it was not I but the grace of God that is with me."
+    },
+    {
+      "block_id": "1-cor-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Whether then it was I or they, so we proclaim and so you believed."
+    },
+    {
+      "block_id": "1-cor-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now if Christ is proclaimed as raised from the dead, how can some of you say there is no resurrection of the dead?"
+    },
+    {
+      "block_id": "1-cor-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "If there is no resurrection of the dead, then Christ has not been raised,"
+    },
+    {
+      "block_id": "1-cor-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and if Christ has not been raised, then our proclamation is in vain and your faith is in vain."
+    },
+    {
+      "block_id": "1-cor-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "We are even found to be misrepresenting God, because we testified of God that he raised Christ—whom he did not raise if it is true that the dead are not raised."
+    },
+    {
+      "block_id": "1-cor-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For if the dead are not raised, then Christ has not been raised."
+    },
+    {
+      "block_id": "1-cor-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If Christ has not been raised, your faith is futile, and you are still in your sins."
+    },
+    {
+      "block_id": "1-cor-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then those also who have died in Christ have perished."
+    },
+    {
+      "block_id": "1-cor-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "If for this life only we have hoped in Christ, we are of all people most to be pitied."
+    },
+    {
+      "block_id": "1-cor-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But in fact Christ has been raised from the dead, the first fruits of those who have died.,"
+    },
+    {
+      "block_id": "1-cor-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For since death came through a human, the resurrection of the dead has also come through a human,"
+    },
+    {
+      "block_id": "1-cor-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "for as all die in Adam, so all will be made alive in Christ."
+    },
+    {
+      "block_id": "1-cor-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But each in its own order: Christ the first fruits, then at his coming those who belong to Christ."
+    },
+    {
+      "block_id": "1-cor-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Then comes the end, when he hands over the kingdom to God the Father, after he has destroyed every ruler and every authority and power."
+    },
+    {
+      "block_id": "1-cor-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For he must reign until he has put all his enemies under his feet."
+    },
+    {
+      "block_id": "1-cor-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The last enemy to be destroyed is death."
+    },
+    {
+      "block_id": "1-cor-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For “God has put all things in subjection under his feet.” But when it says, “All things are put in subjection,” it is plain that this does not include the one who put all things in subjection under him."
+    },
+    {
+      "block_id": "1-cor-15-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When all things are subjected to him, then the Son himself will also be subjected to the one who put all things in subjection under him, so that God may be all in all."
+    },
+    {
+      "block_id": "1-cor-15-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Otherwise, what will those people do who receive baptism on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?"
+    },
+    {
+      "block_id": "1-cor-15-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And why are we putting ourselves in danger every hour?"
+    },
+    {
+      "block_id": "1-cor-15-31",
+      "type": "verse",
+      "number": 31,
+      "text": "I die every day! That is as certain, brothers and sisters, as my boasting of you—a boast that I make in Christ Jesus our Lord."
+    },
+    {
+      "block_id": "1-cor-15-32",
+      "type": "verse",
+      "number": 32,
+      "text": "If I fought with wild animals at Ephesus with a merely human perspective, what would I have gained by it? If the dead are not raised,"
+    },
+    {
+      "block_id": "1-cor-15-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Do not be deceived:"
+    },
+    {
+      "block_id": "1-cor-15-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Sober up, as you rightly ought to, and sin no more, for some people have no knowledge of God. I say this to your shame."
+    },
+    {
+      "block_id": "1-cor-15-35",
+      "type": "verse",
+      "number": 35,
+      "text": "But someone will ask, “How are the dead raised? With what kind of body do they come?”"
+    },
+    {
+      "block_id": "1-cor-15-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Fool! What you sow does not come to life unless it dies."
+    },
+    {
+      "block_id": "1-cor-15-37",
+      "type": "verse",
+      "number": 37,
+      "text": "And as for what you sow, you do not sow the body that is to be but a bare seed, perhaps of wheat or of some other grain."
+    },
+    {
+      "block_id": "1-cor-15-38",
+      "type": "verse",
+      "number": 38,
+      "text": "But God gives it a body as he has chosen and to each kind of seed its own body."
+    },
+    {
+      "block_id": "1-cor-15-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Not all flesh is alike, but there is one flesh for humans, another for animals, another for birds, and another for fish."
+    },
+    {
+      "block_id": "1-cor-15-40",
+      "type": "verse",
+      "number": 40,
+      "text": "There are both heavenly bodies and earthly bodies, but the glory of the heavenly is one thing, and that of the earthly is another."
+    },
+    {
+      "block_id": "1-cor-15-41",
+      "type": "verse",
+      "number": 41,
+      "text": "There is one glory of the sun and another glory of the moon and another glory of the stars; indeed, star differs from star in glory."
+    },
+    {
+      "block_id": "1-cor-15-42",
+      "type": "verse",
+      "number": 42,
+      "text": "So it is with the resurrection of the dead. What is sown is perishable; what is raised is imperishable."
+    },
+    {
+      "block_id": "1-cor-15-43",
+      "type": "verse",
+      "number": 43,
+      "text": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power."
+    },
+    {
+      "block_id": "1-cor-15-44",
+      "type": "verse",
+      "number": 44,
+      "text": "It is sown a physical body; it is raised a spiritual body. If there is a physical body, there is also a spiritual body."
+    },
+    {
+      "block_id": "1-cor-15-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Thus it is written, “The first man, Adam, became a living being”; the last Adam became a life-giving spirit."
+    },
+    {
+      "block_id": "1-cor-15-46",
+      "type": "verse",
+      "number": 46,
+      "text": "But it is not the spiritual that is first but the physical and then the spiritual."
+    },
+    {
+      "block_id": "1-cor-15-47",
+      "type": "verse",
+      "number": 47,
+      "text": "The first man was from the earth, made of dust; the second man is from heaven."
+    },
+    {
+      "block_id": "1-cor-15-48",
+      "type": "verse",
+      "number": 48,
+      "text": "As one of dust, so are those who are of the dust, and as one of heaven, so are those who are of heaven."
+    },
+    {
+      "block_id": "1-cor-15-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Just as we have borne the image of the one of dust, we will also bear the image of the one of heaven."
+    },
+    {
+      "block_id": "1-cor-15-50",
+      "type": "verse",
+      "number": 50,
+      "text": "What I am saying, brothers and sisters, is this: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable."
+    },
+    {
+      "block_id": "1-cor-15-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Look, I will tell you a mystery! We will not all die, but we will all be changed,"
+    },
+    {
+      "block_id": "1-cor-15-52",
+      "type": "verse",
+      "number": 52,
+      "text": "in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we will be changed."
+    },
+    {
+      "block_id": "1-cor-15-53",
+      "type": "verse",
+      "number": 53,
+      "text": "For this perishable body must put on imperishability, and this mortal body must put on immortality."
+    },
+    {
+      "block_id": "1-cor-15-54",
+      "type": "verse",
+      "number": 54,
+      "text": "When this perishable body puts on imperishability and this mortal body puts on immortality, then the saying that is written will be fulfilled:"
+    },
+    {
+      "block_id": "1-cor-15-55",
+      "type": "verse",
+      "number": 55,
+      "text": "“Where, O death, is your victory?"
+    },
+    {
+      "block_id": "1-cor-15-56",
+      "type": "verse",
+      "number": 56,
+      "text": "The sting of death is sin, and the power of sin is the law."
+    },
+    {
+      "block_id": "1-cor-15-57",
+      "type": "verse",
+      "number": 57,
+      "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ."
+    },
+    {
+      "block_id": "1-cor-15-58",
+      "type": "verse",
+      "number": 58,
+      "text": "Therefore, my beloved brothers and sisters, be steadfast, immovable, always excelling in the work of the Lord because you know that in the Lord your labor is not in vain."
     }
   ]
 }

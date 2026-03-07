@@ -14,7 +14,10 @@ import type AdmZip from "adm-zip";
 //   - LORD rendered as: <span class="sm">Lord</span>
 
 // NRSVue book number → canonical name mapping
+// Derived by inspecting actual verse IDs (v[bookNum:2][chapter:3][verse:3]) in the EPUB.
+// NT = 40-66, Deuterocanonical = 67-84. (Previous mapping had these swapped.)
 const NRSVUE_BOOK_NUMBERS: Record<number, string> = {
+  // Old Testament (01-39)
   1: "Genesis", 2: "Exodus", 3: "Leviticus", 4: "Numbers", 5: "Deuteronomy",
   6: "Joshua", 7: "Judges", 8: "Ruth", 9: "1 Samuel", 10: "2 Samuel",
   11: "1 Kings", 12: "2 Kings", 13: "1 Chronicles", 14: "2 Chronicles",
@@ -24,23 +27,25 @@ const NRSVUE_BOOK_NUMBERS: Record<number, string> = {
   28: "Hosea", 29: "Joel", 30: "Amos", 31: "Obadiah", 32: "Jonah",
   33: "Micah", 34: "Nahum", 35: "Habakkuk", 36: "Zephaniah", 37: "Haggai",
   38: "Zechariah", 39: "Malachi",
-  // Deuterocanonical (numbered 40-54 in this EPUB)
-  40: "Tobit", 41: "Judith", 42: "Esther (Greek)",
-  43: "Wisdom of Solomon", 44: "Sirach", 45: "Baruch",
-  46: "Letter of Jeremiah", 47: "Azariah and the Three Jews",
-  48: "Susanna", 49: "Bel and the Dragon",
-  50: "1 Maccabees", 51: "2 Maccabees", 52: "1 Esdras",
-  53: "Prayer of Manasseh", 54: "Psalm 151",
-  55: "3 Maccabees", 56: "2 Esdras", 57: "4 Maccabees",
-  // New Testament (numbered 60+ in NRSVue IDs)
-  60: "Matthew", 61: "Mark", 62: "Luke", 63: "John",
-  64: "Acts", 65: "Romans", 66: "1 Corinthians", 67: "2 Corinthians",
-  68: "Galatians", 69: "Ephesians", 70: "Philippians", 71: "Colossians",
-  72: "1 Thessalonians", 73: "2 Thessalonians",
-  74: "1 Timothy", 75: "2 Timothy", 76: "Titus", 77: "Philemon",
-  78: "Hebrews", 79: "James", 80: "1 Peter", 81: "2 Peter",
-  82: "1 John", 83: "2 John", 84: "3 John", 85: "Jude",
-  86: "Revelation",
+  // New Testament (40-66)
+  40: "Matthew", 41: "Mark", 42: "Luke", 43: "John",
+  44: "Acts", 45: "Romans", 46: "1 Corinthians", 47: "2 Corinthians",
+  48: "Galatians", 49: "Ephesians", 50: "Philippians", 51: "Colossians",
+  52: "1 Thessalonians", 53: "2 Thessalonians",
+  54: "1 Timothy", 55: "2 Timothy", 56: "Titus", 57: "Philemon",
+  58: "Hebrews", 59: "James", 60: "1 Peter", 61: "2 Peter",
+  62: "1 John", 63: "2 John", 64: "3 John", 65: "Jude",
+  66: "Revelation",
+  // Deuterocanonical (67-84)
+  67: "Tobit", 68: "Judith", 69: "Esther (Greek)",
+  70: "Wisdom of Solomon", 71: "Sirach", 72: "Baruch",
+  73: "Letter of Jeremiah", 74: "Azariah and the Three Jews",
+  75: "Susanna", 76: "Bel and the Dragon",
+  77: "1 Maccabees", 78: "2 Maccabees", 79: "1 Esdras",
+  80: "Prayer of Manasseh",
+  // Book 81 = Psalm 151: EPUB encodes it as bookNum=81, chapter=151
+  81: "Psalm 151",
+  82: "3 Maccabees", 83: "2 Esdras", 84: "4 Maccabees",
 };
 
 export const nrsvueProfile: Profile = {
@@ -72,11 +77,15 @@ export const nrsvueProfile: Profile = {
         if (!idMatch) return;
 
         const bookNum = parseInt(idMatch[1], 10);
-        const chapter = parseInt(idMatch[2], 10);
+        let chapter = parseInt(idMatch[2], 10);
         const verseNum = parseInt(idMatch[3], 10);
 
         const bookName = NRSVUE_BOOK_NUMBERS[bookNum];
         if (!bookName) return;
+
+        // Psalm 151 is encoded as bookNum=81, chapter=151 in this EPUB.
+        // Normalize to chapter=1 so its document_id is "ps-151-1".
+        if (bookNum === 81 && chapter === 151) chapter = 1;
 
         const abbrev = lookupAbbrev(bookName);
         const key = `${abbrev}-${chapter}`;

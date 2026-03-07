@@ -5,151 +5,74 @@
   "translation": "NRSVue",
   "blocks": [
     {
-      "block_id": "1-thess-1-heading-baruch-and-the-jews-",
+      "block_id": "1-thess-1-heading-salutation",
       "type": "heading",
-      "text": "Baruch and the Jews in Babylon"
+      "text": "Salutation"
     },
     {
-      "block_id": "1-thess-1-heading-a-letter-to-jerusale",
+      "block_id": "1-thess-1-heading-the-thessalonians’-f",
       "type": "heading",
-      "text": "A Letter to Jerusalem"
-    },
-    {
-      "block_id": "1-thess-1-heading-confession-of-sins",
-      "type": "heading",
-      "text": "Confession of Sins"
+      "text": "The Thessalonians’ Faith and Example"
     },
     {
       "block_id": "1-thess-1-1",
       "type": "verse",
       "number": 1,
-      "text": "These are the words of the book that Baruch son of Neriah son of Mahseiah son of Zedekiah son of Hasadiah son of Hilkiah wrote in Babylon,"
+      "text": "Paul, Silvanus, and Timothy,"
     },
     {
       "block_id": "1-thess-1-2",
       "type": "verse",
       "number": 2,
-      "text": "in the fifth year, on the seventh day of the month, at the time when the Chaldeans took Jerusalem and burned it with fire."
+      "text": "We always give thanks to God for all of you and mention you in our prayers, constantly"
     },
     {
       "block_id": "1-thess-1-3",
       "type": "verse",
       "number": 3,
-      "text": "Baruch read the words of this book to Jeconiah son of Jehoiakim, king of Judah, and to all the people who came to hear the book"
+      "text": "remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ."
     },
     {
       "block_id": "1-thess-1-4",
       "type": "verse",
       "number": 4,
-      "text": "and to the nobles and the princes and to the elders and to all the people, small and great, all who lived in Babylon by the River Sud."
+      "text": "For we know, brothers and sisters beloved by God, that he has chosen you,"
     },
     {
       "block_id": "1-thess-1-5",
       "type": "verse",
       "number": 5,
-      "text": "Then they wept and fasted and prayed before the Lord;"
+      "text": "because our message of the gospel came to you not in word only but also in power and in the Holy Spirit and with full conviction; just as you know what kind of persons we proved to be among you for your sake."
     },
     {
       "block_id": "1-thess-1-6",
       "type": "verse",
       "number": 6,
-      "text": "they collected as much silver as each could give"
+      "text": "And you became imitators of us and of the Lord, for in spite of persecution you received the word with joy from the Holy Spirit,"
     },
     {
       "block_id": "1-thess-1-7",
       "type": "verse",
       "number": 7,
-      "text": "and sent it to Jerusalem to the priest Jehoiakim son of Hilkiah son of Shallum the priest and to the priests and to all the people who were present with him in Jerusalem."
+      "text": "so that you became an example to all the believers in Macedonia and in Achaia."
     },
     {
       "block_id": "1-thess-1-8",
       "type": "verse",
       "number": 8,
-      "text": "At the same time, on the tenth day of Sivan, Baruch took the vessels of the house of the Lord that had been carried away from the temple, to return them to the land of Judah—the silver vessels that Zedekiah son of Josiah, king of Judah, had made"
+      "text": "For the word of the Lord has sounded forth from you not only in Macedonia and Achaia but in every place your faith in God has become known, so that we have no need to speak about it."
     },
     {
       "block_id": "1-thess-1-9",
       "type": "verse",
       "number": 9,
-      "text": "after King Nebuchadnezzar of Babylon had carried away from Jerusalem Jeconiah and the princes and the prisoners and the nobles and the people of the land and brought them to Babylon."
+      "text": "For they report about us what kind of welcome we had among you and how you turned to God from idols to serve a living and true God"
     },
     {
       "block_id": "1-thess-1-10",
       "type": "verse",
       "number": 10,
-      "text": "They said, “Here we send you silver, so buy with the silver burnt offerings and for sin and incense, and prepare a grain offering, and offer them on the altar of the Lord our God,"
-    },
-    {
-      "block_id": "1-thess-1-11",
-      "type": "verse",
-      "number": 11,
-      "text": "and pray for the life of King Nebuchadnezzar of Babylon and for the life of his son Belshazzar, so that their days on earth may be like the days of heaven."
-    },
-    {
-      "block_id": "1-thess-1-12",
-      "type": "verse",
-      "number": 12,
-      "text": "The Lord will give us strength and light to our eyes; we shall live under the protection of King Nebuchadnezzar of Babylon and under the protection of his son Belshazzar, and we shall serve them many days and find favor in their sight."
-    },
-    {
-      "block_id": "1-thess-1-13",
-      "type": "verse",
-      "number": 13,
-      "text": "Pray also for us to the Lord our God, for we have sinned against the Lord our God, and to this day the anger of the Lord and his wrath have not turned away from us."
-    },
-    {
-      "block_id": "1-thess-1-14",
-      "type": "verse",
-      "number": 14,
-      "text": "And you shall read aloud this scroll that we are sending you, to make your confession in the house of the Lord on the days of the festivals and at appointed seasons."
-    },
-    {
-      "block_id": "1-thess-1-15",
-      "type": "verse",
-      "number": 15,
-      "text": "“And you shall say: To the Lord our God belongs righteousness, but to us, this day, public shame, on the people of Judah, on the inhabitants of Jerusalem,"
-    },
-    {
-      "block_id": "1-thess-1-16",
-      "type": "verse",
-      "number": 16,
-      "text": "and on our kings, our rulers, our priests, our prophets, and our ancestors,"
-    },
-    {
-      "block_id": "1-thess-1-17",
-      "type": "verse",
-      "number": 17,
-      "text": "because we have sinned before the Lord."
-    },
-    {
-      "block_id": "1-thess-1-18",
-      "type": "verse",
-      "number": 18,
-      "text": "We have disobeyed him and have not heeded the voice of the Lord our God, to walk in the statutes of the Lord that he set before us."
-    },
-    {
-      "block_id": "1-thess-1-19",
-      "type": "verse",
-      "number": 19,
-      "text": "From the time when the Lord brought our ancestors out of the land of Egypt until today, we have been disobedient to the Lord our God, and we have been negligent in not listening to his voice."
-    },
-    {
-      "block_id": "1-thess-1-20",
-      "type": "verse",
-      "number": 20,
-      "text": "So to this day there have clung to us the calamities and the curse that the Lord declared through his servant Moses at the time when he brought our ancestors out of the land of Egypt to give to us a land flowing with milk and honey."
-    },
-    {
-      "block_id": "1-thess-1-21",
-      "type": "verse",
-      "number": 21,
-      "text": "We did not listen to the voice of the Lord our God in all the words of the prophets whom he sent to us,"
-    },
-    {
-      "block_id": "1-thess-1-22",
-      "type": "verse",
-      "number": 22,
-      "text": "but all of us followed the intent of our own wicked hearts by serving other gods and doing what is evil in the sight of the Lord our God."
+      "text": "and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath."
     }
   ]
 }
