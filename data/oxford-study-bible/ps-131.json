@@ -1,0 +1,55 @@
+{
+  "document_id": "ps-131",
+  "title": "Psalms 131",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-131-heading-psalm-132",
+      "type": "heading",
+      "text": "Psalm 132"
+    },
+    {
+      "block_id": "oxford-ps-131-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, my heart is not lifted up, my eyes are not raised too high; I do not occupy myself with things too great and too marvelous for me."
+    },
+    {
+      "block_id": "oxford-ps-131-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 131: Waiting for the Lord like a child. A declaration of trust with an extraordinary central metaphor: a weaned child, in that culture a threeto five‐year‐old. The poem is framed by its opening and closing occurrences of “the ” and its opening and closing statements, the first put negatively (“my heart is not lifted up”) and the second put positively (“I have calmed and quieted my soul”). The threefold denial in v. 1 and the doubled affirmation in v. 2 show deep feeling. Verse 3, as in many other psalms, moves from the individual to the community, here inviting all Israel to imitate the singer’s calm and trust.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 131
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-131-2",
+      "type": "verse",
+      "number": 2,
+      "text": "But I have calmed and quieted my soul, like a weaned child with its mother; my soul is like the weaned child that is with me."
+    },
+    {
+      "block_id": "oxford-ps-131-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , the singer, like the child, has been nurtured daily and would not doubt the mother’s further care. The image of God as female is the second in the Songs of Ascents; cf. Ps 123.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 131
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-131-3",
+      "type": "verse",
+      "number": 3,
+      "text": "O Israel, hope in the Lord from this time on and forevermore."
+    }
+  ]
+}

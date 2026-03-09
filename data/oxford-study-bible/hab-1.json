@@ -1,0 +1,247 @@
+{
+  "document_id": "hab-1",
+  "title": "Habakkuk 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hab-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-hab-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The oracle that the prophet Habakkuk saw."
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1: Superscription. Like Nahum, which precedes it, the book of Habakkuk is called an ; Nahum is also called a vision, deriving from the same Hebrew verbal root as (cf. also Isa 1.1; Am 1.1). The superscription explicitly labels Habakkuk a (Hab 1.1; 3.1; see Hag 1.1 and Zech 1.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-hab-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "O Lord, how long shall I cry for help, and you will not listen? Or cry to you “Violence!” and you will not save?"
+    },
+    {
+      "block_id": "oxford-hab-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Why do you make me see wrongdoing and look at trouble? Destruction and violence are before me; strife and contention arise."
+    },
+    {
+      "block_id": "oxford-hab-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So the law becomes slack and justice never prevails. The wicked surround the righteous— therefore judgment comes forth perverted."
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-3",
+      "type": "commentary",
+      "text": "2–4",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-4",
+      "type": "commentary",
+      "text": "4 : : This could refer to the reign of Jehoiakim (608–598 ), when the reforms of his father Josiah languished (2 Kings 23.35–37; cf. Jer 2.8). The (Heb “torah”) formed the basis of Josiah's reforms. The complaint that the will be repeated in v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hab-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Look at the nations, and see! Be astonished! Be astounded! For a work is being done in your days that you would not believe if you were told."
+    },
+    {
+      "block_id": "oxford-hab-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For I am rousing the Chaldeans, that fierce and impetuous nation, who march through the breadth of the earth to seize dwellings not their own."
+    },
+    {
+      "block_id": "oxford-hab-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Dread and fearsome are they; their justice and dignity proceed from themselves."
+    },
+    {
+      "block_id": "oxford-hab-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Their horses are swifter than leopards, more menacing than wolves at dusk; their horses charge. Their horsemen come from far away; they fly like an eagle swift to devour."
+    },
+    {
+      "block_id": "oxford-hab-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "They all come for violence, with faces pressing forward; they gather captives like sand."
+    },
+    {
+      "block_id": "oxford-hab-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "At kings they scoff, and of rulers they make sport. They laugh at every fortress, and heap up earth to take it."
+    },
+    {
+      "block_id": "oxford-hab-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then they sweep by like the wind; they transgress and become guilty; their own might is their god!"
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-5",
+      "type": "commentary",
+      "text": "5–11",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hab-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Are you not from of old, O Lord my God, my Holy One? You shall not die. O Lord, you have marked them for judgment; and you, O Rock, have established them for punishment."
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-8",
+      "type": "commentary",
+      "text": "12 : , Ps 74.12. As textual note explains, the MT changed the original reading of to in order to avoid the possibility of suggesting that God could die; this change is one of the medieval “tiqqune sopherim” (“restorations of the scribes”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hab-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Your eyes are too pure to behold evil, and you cannot look on wrongdoing; why do you look on the treacherous, and are silent when the wicked swallow those more righteous than they?"
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-7",
+      "type": "commentary",
+      "text": "12–13 : As in numerous psalms, the prophet appeals to God's goodness and constancy as the basis for his request: why, if God is good, does God not act?",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-9",
+      "type": "commentary",
+      "text": "13 : The claim that the oppress the repeats the prophet's initial complaint in 1.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hab-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You have made people like the fish of the sea, like crawling things that have no ruler."
+    },
+    {
+      "block_id": "oxford-hab-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The enemy brings all of them up with a hook; he drags them out with his net, he gathers them in his seine; so he rejoices and exults."
+    },
+    {
+      "block_id": "oxford-hab-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Therefore he sacrifices to his net and makes offerings to his seine; for by them his portion is lavish, and his food is rich."
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-11",
+      "type": "commentary",
+      "text": "16 : The enemy even treats his power, his , as his god.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hab-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Is he then to keep on emptying his net, and destroying nations without mercy?"
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.2–17: First interaction between the prophet and God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-6",
+      "type": "commentary",
+      "text": "12–17",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hab-1-h1kj-10",
+      "type": "commentary",
+      "text": "14–17 : , Heb “ʾadam,” the word used in Gen 1 to describe all humanity. In the Priestly account of creation, humanity was given dominion over the and (Gen 1.26,28); now the people have become in the of the enemy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 17
+    }
+  ]
+}

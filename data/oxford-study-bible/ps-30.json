@@ -1,0 +1,145 @@
+{
+  "document_id": "ps-30",
+  "title": "Psalms 30",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-30-heading-psalm-31",
+      "type": "heading",
+      "text": "Psalm 31"
+    },
+    {
+      "block_id": "oxford-ps-30-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I will extol you, O Lord, for you have drawn me up, and did not let my foes rejoice over me."
+    },
+    {
+      "block_id": "oxford-ps-30-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 30: Praise for deliverance. An individual thanksgiving with four parts: praise and thanks for deliverance and restoration (vv. 1–3), an invitation to others to join in (vv. 4–5), narrative of the crisis including the original prayer (vv. 6–10), and repetition of praise and thanks (vv. 11–12). It has a dual metaphor system: going down, death, silence; and rising up, life, praise. God moves the psalmist from one state to the other. The divine names (“the ” and “God”) add up to twelve, the number of the tribes of Israel, suggesting that the healing is a type of what God does for all the tribes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-30-2",
+      "type": "verse",
+      "number": 2,
+      "text": "O Lord my God, I cried to you for help, and you have healed me."
+    },
+    {
+      "block_id": "oxford-ps-30-3",
+      "type": "verse",
+      "number": 3,
+      "text": "O Lord, you brought up my soul from Sheol, restored me to life from among those gone down to the Pit."
+    },
+    {
+      "block_id": "oxford-ps-30-h1kj-2",
+      "type": "commentary",
+      "text": "3 : Language of death and recovery is used by people who were saved by God from life‐threatening problems. , the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-30-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Sing praises to the Lord, O you his faithful ones, and give thanks to his holy name."
+    },
+    {
+      "block_id": "oxford-ps-30-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For his anger is but for a moment; his favor is for a lifetime. Weeping may linger for the night, but joy comes with the morning."
+    },
+    {
+      "block_id": "oxford-ps-30-6",
+      "type": "verse",
+      "number": 6,
+      "text": "As for me, I said in my prosperity, “I shall never be moved.”"
+    },
+    {
+      "block_id": "oxford-ps-30-h1kj-3",
+      "type": "commentary",
+      "text": "6 : , the psalmist admits that smugness preceded the crisis. Withdrawal of divine support led to collapse (cf. Ps 104.27–30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-30-7",
+      "type": "verse",
+      "number": 7,
+      "text": "By your favor, O Lord, you had established me as a strong mountain; you hid your face; I was dismayed."
+    },
+    {
+      "block_id": "oxford-ps-30-8",
+      "type": "verse",
+      "number": 8,
+      "text": "To you, O Lord, I cried, and to the Lord I made supplication:"
+    },
+    {
+      "block_id": "oxford-ps-30-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“What profit is there in my death, if I go down to the Pit? Will the dust praise you? Will it tell of your faithfulness?"
+    },
+    {
+      "block_id": "oxford-ps-30-h1kj-4",
+      "type": "commentary",
+      "text": "9 : The theme that God should save a psalmist because the dead do not praise God is common in the Psalms (see Ps 6.5n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-30-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Hear, O Lord, and be gracious to me! O Lord, be my helper!”"
+    },
+    {
+      "block_id": "oxford-ps-30-11",
+      "type": "verse",
+      "number": 11,
+      "text": "You have turned my mourning into dancing; you have taken off my sackcloth and clothed me with joy,"
+    },
+    {
+      "block_id": "oxford-ps-30-12",
+      "type": "verse",
+      "number": 12,
+      "text": "so that my soul may praise you and not be silent. O Lord my God, I will give thanks to you forever."
+    },
+    {
+      "block_id": "oxford-ps-30-h1kj-5",
+      "type": "commentary",
+      "text": "11–12 : The psalmist casts off mourning garments ( ) to dance with joy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 30
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    }
+  ]
+}

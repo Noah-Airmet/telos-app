@@ -1,0 +1,548 @@
+{
+  "document_id": "deut-22",
+  "title": "Deuteronomy 22",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-22-1",
+      "type": "verse",
+      "number": 1,
+      "text": "You shall not watch your neighbor’s ox or sheep straying away and ignore them; you shall take them back to their owner."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-7",
+      "type": "commentary",
+      "text": "1 : , a revision of “your enemy’s ox” (Ex 23.4). , lit., “brother”; see 20.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-deut-22-2",
+      "type": "verse",
+      "number": 2,
+      "text": "If the owner does not reside near you or you do not know who the owner is, you shall bring it to your own house, and it shall remain with you until the owner claims it; then you shall return it."
+    },
+    {
+      "block_id": "oxford-deut-22-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You shall do the same with a neighbor’s donkey; you shall do the same with a neighbor’s garment; and you shall do the same with anything else that your neighbor loses and you find. You may not withhold your help."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-6",
+      "type": "commentary",
+      "text": "1–3 : The earlier law governing the return of wandering animals (Ex 23.4–5) is here revised and extended.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-8",
+      "type": "commentary",
+      "text": "3 : , the earlier law is universalized to apply to any lost property.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-22-4",
+      "type": "verse",
+      "number": 4,
+      "text": "You shall not see your neighbor’s donkey or ox fallen on the road and ignore it; you shall help to lift it up."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-5",
+      "type": "commentary",
+      "text": "22.1–4: Moral duties toward the neighbor. Two laws (vv. 1–3,4) that develop two corresponding laws from the earlier Book of the Covenant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-9",
+      "type": "commentary",
+      "text": "4 : Reworking Ex 23.5 to emphasize the neighbor, as in v. 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-deut-22-5",
+      "type": "verse",
+      "number": 5,
+      "text": "A woman shall not wear a man’s apparel, nor shall a man put on a woman’s garment; for whoever does such things is abhorrent to the Lord your God."
+    },
+    {
+      "block_id": "oxford-deut-22-6",
+      "type": "verse",
+      "number": 6,
+      "text": "If you come on a bird’s nest, in any tree or on the ground, with fledglings or eggs, with the mother sitting on the fledglings or on the eggs, you shall not take the mother with the young."
+    },
+    {
+      "block_id": "oxford-deut-22-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Let the mother go, taking only the young for yourself, in order that it may go well with you and you may live long."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-11",
+      "type": "commentary",
+      "text": "6–7 : Avoiding simultaneous consumption of two generations of the same creature is also evident in other laws (14.21; Ex 23.19; 34.26; Lev 22.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-deut-22-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When you build a new house, you shall make a parapet for your roof; otherwise you might have bloodguilt on your house, if anyone should fall from it."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-12",
+      "type": "commentary",
+      "text": "8 : The flat was used as living space (Josh 2.6; Judg 3.20–25; 2 Sam 11.2) and was where people often slept. , criminal negligence; a capital offense (see 19.10n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-deut-22-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall not sow your vineyard with a second kind of seed, or the whole yield will have to be forfeited, both the crop that you have sown and the yield of the vineyard itself."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-14",
+      "type": "commentary",
+      "text": "9 : , not permitted for human consumption.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-22-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You shall not plow with an ox and a donkey yoked together."
+    },
+    {
+      "block_id": "oxford-deut-22-11",
+      "type": "verse",
+      "number": 11,
+      "text": "You shall not wear clothes made of wool and linen woven together."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-13",
+      "type": "commentary",
+      "text": "9–11 : These laws attempt to maintain specific boundaries between categories seen as incompatible (as in v. 5; 14.3–20); see the corresponding laws in Lev 19.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-deut-22-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You shall make tassels on the four corners of the cloak with which you cover yourself."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-4",
+      "type": "commentary",
+      "text": "22.1–12: Various moral and religious responsibilities of citizenship. The rationale for the sequence and selection of these laws is often unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-10",
+      "type": "commentary",
+      "text": "22.5–12: Miscellaneous laws. 5: The prohibition against cross‐dressing seeks to maintain gender boundaries; a similar concern for boundaries is evident in vv. 9–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 5,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-15",
+      "type": "commentary",
+      "text": "12 : , this may reflect an application of royal garb, seen, for example, in Neo‐Assyrian palace reliefs, to the nation as a whole. Num 15.37–40 gives a theological rationale.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-22-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Suppose a man marries a woman, but after going in to her, he dislikes her"
+    },
+    {
+      "block_id": "oxford-deut-22-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and makes up charges against her, slandering her by saying, “I married this woman; but when I lay with her, I did not find evidence of her virginity.”"
+    },
+    {
+      "block_id": "oxford-deut-22-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The father of the young woman and her mother shall then submit the evidence of the young woman’s virginity to the elders of the city at the gate."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-18",
+      "type": "commentary",
+      "text": "15 : , see 16.18n.; 21.19n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-22-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The father of the young woman shall say to the elders: “I gave my daughter in marriage to this man but he dislikes her;"
+    },
+    {
+      "block_id": "oxford-deut-22-17",
+      "type": "verse",
+      "number": 17,
+      "text": "now he has made up charges against her, saying, ‘I did not find evidence of your daughter’s virginity.’ But here is the evidence of my daughter’s virginity.” Then they shall spread out the cloth before the elders of the town."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-19",
+      "type": "commentary",
+      "text": "17 : upon which husband and wife slept upon consummation of the relationship. It was understood that the cloth should have been bloodstained from the couple’s first intercourse; there is scant medical support for this widespread assumption. No other biblical text refers to this . Nor is it likely that such a cloth was kept by the parents, but it would have been easy for them to manufacture one. This entire case is set up to deter false accusations against the bride and her family.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-22-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The elders of that town shall take the man and punish him;"
+    },
+    {
+      "block_id": "oxford-deut-22-19",
+      "type": "verse",
+      "number": 19,
+      "text": "they shall fine him one hundred shekels of silver (which they shall give to the young woman’s father) because he has slandered a virgin of Israel. She shall remain his wife; he shall not be permitted to divorce her as long as he lives."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-20",
+      "type": "commentary",
+      "text": "19 : , the penalty for his slanderous accusation is financial, although the penalty for her lack of virginity, if proven true, is capital (vv. 20–21); contrast 19.19. , about 1.1 kg (2.5 lb), twice the fine for rape (v. 29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-deut-22-20",
+      "type": "verse",
+      "number": 20,
+      "text": "If, however, this charge is true, that evidence of the young woman’s virginity was not found,"
+    },
+    {
+      "block_id": "oxford-deut-22-21",
+      "type": "verse",
+      "number": 21,
+      "text": "then they shall bring the young woman out to the entrance of her father’s house and the men of her town shall stone her to death, because she committed a disgraceful act in Israel by prostituting herself in her father’s house. So you shall purge the evil from your midst."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-17",
+      "type": "commentary",
+      "text": "22.13–21: False accusation of breach of marital contract. 14: , possibly for mercenary reasons, since nonfulfillment of the marital contract would entail refund of the bridewealth and possibly a payment of a penalty for breach of contract. The , the bloodstained cloth of v. 17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 13,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-21",
+      "type": "commentary",
+      "text": "21 : , at the very site of the offense. , see 13.10n. , a violation of basic community sexual and religious norms (Gen 34.7; Josh 7.15; Judg 19.23–34; 20.6,10). , see 13.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-22-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If a man is caught lying with the wife of another man, both of them shall die, the man who lay with the woman as well as the woman. So you shall purge the evil from Israel."
+    },
+    {
+      "block_id": "oxford-deut-22-23",
+      "type": "verse",
+      "number": 23,
+      "text": "If there is a young woman, a virgin already engaged to be married, and a man meets her in the town and lies with her,"
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-24",
+      "type": "commentary",
+      "text": "23 : , this distinction in legal status between the betrothed and married woman permits another distinction between adultery and rape: Although the woman still resides with her father, she is contractually bound to her future husband. Therefore consensual sex with the betrothed woman by anyone other than her future husband would constitute adultery. , where there are potential witnesses ( §A 12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-deut-22-24",
+      "type": "verse",
+      "number": 24,
+      "text": "you shall bring both of them to the gate of that town and stone them to death, the young woman because she did not cry for help in the town and the man because he violated his neighbor’s wife. So you shall purge the evil from your midst."
+    },
+    {
+      "block_id": "oxford-deut-22-25",
+      "type": "verse",
+      "number": 25,
+      "text": "But if the man meets the engaged woman in the open country, and the man seizes her and lies with her, then only the man who lay with her shall die."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-25",
+      "type": "commentary",
+      "text": "25 : The assault in , where rescuers or witnesses are unlikely, suggests planned malice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-deut-22-26",
+      "type": "verse",
+      "number": 26,
+      "text": "You shall do nothing to the young woman; the young woman has not committed an offense punishable by death, because this case is like that of someone who attacks and murders a neighbor."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-26",
+      "type": "commentary",
+      "text": "26 : , i.e., premeditated (19.11–13). The importance of the analogy is not in the definition of the crime, however. Rather, it is in the determination of the legal status of the participants in the crime; the analogy absolves the woman of legal culpability for adultery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-deut-22-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Since he found her in the open country, the engaged woman may have cried for help, but there was no one to rescue her."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-23",
+      "type": "commentary",
+      "text": "23–27 : Two laws to determine culpability (vv. 23–24) or nonculpability (vv. 25–27) in cases of rape or seduction. Both laws show detailed points of contact with ( ca. 1076 ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 23,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-deut-22-28",
+      "type": "verse",
+      "number": 28,
+      "text": "If a man meets a virgin who is not engaged, and seizes her and lies with her, and they are caught in the act,"
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-28",
+      "type": "commentary",
+      "text": "28 : , as in Ex 22.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-deut-22-29",
+      "type": "verse",
+      "number": 29,
+      "text": "the man who lay with her shall give fifty shekels of silver to the young woman’s father, and she shall become his wife. Because he violated her he shall not be permitted to divorce her as long as he lives."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-27",
+      "type": "commentary",
+      "text": "28–29 : These conditions correspond to §A 55, which implies forced rape. In contrast, Ex 22.16–17 specifies intercourse with, but not forced rape of, a “virgin who is not engaged.” The conflation of these two models in this law blurs the distinction between consensual and non‐consensual intercourse on the woman’s part.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-29",
+      "type": "commentary",
+      "text": "29 : , cf. Ex 22.16–17. In both cases, intercourse with an unmarried, unbetrothed woman is not adultery. Ex 22.16–17 requires payment of the bridewealth, usually a negotiated amount (Gen 34.12), and grants the father the right to refuse the marriage. In Deuteronomy’s law, the father must agree to the marriage and therefore must negotiate the bridewealth with the man who had intercourse with his daughter. The fixed payment here seems to be a fine (cf. v. 19) intended to compensate the father for diminished potential earnings had he been able to negotiate a higher bridewealth with another man.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-22-30",
+      "type": "verse",
+      "number": 30,
+      "text": "A man shall not marry his father’s wife, thereby violating his father’s rights."
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-2",
+      "type": "commentary",
+      "text": "12.1–26.15: The legal corpus: Deuteronomy’s transformation of earlier Israelite religion. Just as Deuteronomy provides a significant reinterpretation of earlier narrative traditions about the nation’s past (see 1.19–46n; 4.1–40n; 5.1–33n; 7.9–11n; etc.), so does it here advance a major new understanding of the nation’s religious requirements and legal traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-3",
+      "type": "commentary",
+      "text": "21.10–25.19: Miscellaneous civil and family laws. The following laws are concerned with family, civil, and ethical issues. Laws to extend legal protection to women when they would otherwise be disenfranchised concern female captives (21.10–14), property rights of the less‐favored wife (21.15–17), and false charges of infidelity (22.13–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-16",
+      "type": "commentary",
+      "text": "22.13–30: Violations of marriage law. In the ancient Near East, marriage was a contractual arrangement between the woman’s father and the husband. The woman remained in her father’s household until a suitor paid the bridewealth (vv. 28–29; Ex 22.16–17) to compensate for the reduction of the household. At that point she became formally “engaged,” although still residing with her father (v. 21). Later, at the marriage feast, the union was consummated (Gen 29.22–25), and the woman took up residence in her husband’s house.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 13,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-22",
+      "type": "commentary",
+      "text": "22.22–30: Adultery and rape. 22: Adultery, defined in biblical law as a man having sex with a woman betrothed or married to another man, is a violation of the Decalogue (5.18) and a capital offense (Lev 18.20; 20.10). , a contrast with ancient Near Eastern norms, which required the male’s death but left the wife’s fate to her husband (but cf. Prov 6.34). The law removes the wife from her husband’s authority and defines her as a legal person accountable for her actions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 22,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-22-h1kj-30",
+      "type": "commentary",
+      "text": "30 : A transition to the next section. , i.e., a widowed stepmother (see Lev 18.7–8). , lit., “uncovering his father’s skirt” (text note ); i.e., even indirect sexual contact with him must be avoided (Gen 9.23–24; 49.4; Lev 18.8; 20.11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 22
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "document_id": "ps-105",
+  "title": "Psalms 105",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-105-heading-psalm-106",
+      "type": "heading",
+      "text": "Psalm 106"
+    },
+    {
+      "block_id": "oxford-ps-105-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O give thanks to the Lord, call on his name, make known his deeds among the peoples."
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 105: Praise of the Lord who has acted wonderfully toward Israel. A hymn praising God’s wondrous guidance of Israel, like Pss 135 and 136. It invites the offspring of Abraham and Jacob to praise and seek the (vv. 1–6) who remembers the covenant (vv. 7–11), and then identifies Abraham in the land of Canaan (vv. 12–15; (Gen 12–26): Joseph in the land of Egypt (vv. 16–22; (Gen 37–47); Israel in Egypt (vv. 23–38; (Ex 1–15); and Israel in the wilderness (vv. 39–45; (Ex 16–17). In each case the land of Canaan is a symbol of God’s generosity and fidelity. In every section after the invitation, a form of the key words “word/promise,” “land,” and “servant” (named) appear. The promise of land is realized differently in each one of the four periods, depending on where Israel is and who the servant is. Thus the promise of land is shown to be effective at all times and in all places.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-105-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Sing to him, sing praises to him; tell of all his wonderful works."
+    },
+    {
+      "block_id": "oxford-ps-105-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Glory in his holy name; let the hearts of those who seek the Lord rejoice."
+    },
+    {
+      "block_id": "oxford-ps-105-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Seek the Lord and his strength; seek his presence continually."
+    },
+    {
+      "block_id": "oxford-ps-105-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Remember the wonderful works he has done, his miracles, and the judgments he has uttered,"
+    },
+    {
+      "block_id": "oxford-ps-105-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O offspring of his servant Abraham, children of Jacob, his chosen ones."
+    },
+    {
+      "block_id": "oxford-ps-105-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He is the Lord our God; his judgments are in all the earth."
+    },
+    {
+      "block_id": "oxford-ps-105-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He is mindful of his covenant forever, of the word that he commanded, for a thousand generations,"
+    },
+    {
+      "block_id": "oxford-ps-105-9",
+      "type": "verse",
+      "number": 9,
+      "text": "the covenant that he made with Abraham, his sworn promise to Isaac,"
+    },
+    {
+      "block_id": "oxford-ps-105-10",
+      "type": "verse",
+      "number": 10,
+      "text": "which he confirmed to Jacob as a statute, to Israel as an everlasting covenant,"
+    },
+    {
+      "block_id": "oxford-ps-105-11",
+      "type": "verse",
+      "number": 11,
+      "text": "saying, “To you I will give the land of Canaan as your portion for an inheritance.”"
+    },
+    {
+      "block_id": "oxford-ps-105-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When they were few in number, of little account, and strangers in it,"
+    },
+    {
+      "block_id": "oxford-ps-105-13",
+      "type": "verse",
+      "number": 13,
+      "text": "wandering from nation to nation, from one kingdom to another people,"
+    },
+    {
+      "block_id": "oxford-ps-105-14",
+      "type": "verse",
+      "number": 14,
+      "text": "he allowed no one to oppress them; he rebuked kings on their account,"
+    },
+    {
+      "block_id": "oxford-ps-105-15",
+      "type": "verse",
+      "number": 15,
+      "text": "saying, “Do not touch my anointed ones; do my prophets no harm.”"
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-2",
+      "type": "commentary",
+      "text": "15 : Abraham is called a in Gen 20.7; none of the patriarchs is ever called (Heb “mashiaḥ”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ps-105-16",
+      "type": "verse",
+      "number": 16,
+      "text": "When he summoned famine against the land, and broke every staff of bread,"
+    },
+    {
+      "block_id": "oxford-ps-105-17",
+      "type": "verse",
+      "number": 17,
+      "text": "he had sent a man ahead of them, Joseph, who was sold as a slave."
+    },
+    {
+      "block_id": "oxford-ps-105-18",
+      "type": "verse",
+      "number": 18,
+      "text": "His feet were hurt with fetters, his neck was put in a collar of iron;"
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-3",
+      "type": "commentary",
+      "text": "18 : This is one of many cases in this psalm where the retelling of the past differs in detail from the narratives in the Toraḥ",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ps-105-19",
+      "type": "verse",
+      "number": 19,
+      "text": "until what he had said came to pass, the word of the Lord kept testing him."
+    },
+    {
+      "block_id": "oxford-ps-105-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The king sent and released him; the ruler of the peoples set him free."
+    },
+    {
+      "block_id": "oxford-ps-105-21",
+      "type": "verse",
+      "number": 21,
+      "text": "He made him lord of his house, and ruler of all his possessions,"
+    },
+    {
+      "block_id": "oxford-ps-105-22",
+      "type": "verse",
+      "number": 22,
+      "text": "to instruct his officials at his pleasure, and to teach his elders wisdom."
+    },
+    {
+      "block_id": "oxford-ps-105-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then Israel came to Egypt; Jacob lived as an alien in the land of Ham."
+    },
+    {
+      "block_id": "oxford-ps-105-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And the Lord made his people very fruitful, and made them stronger than their foes,"
+    },
+    {
+      "block_id": "oxford-ps-105-25",
+      "type": "verse",
+      "number": 25,
+      "text": "whose hearts he then turned to hate his people, to deal craftily with his servants."
+    },
+    {
+      "block_id": "oxford-ps-105-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He sent his servant Moses, and Aaron whom he had chosen."
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-4",
+      "type": "commentary",
+      "text": "26 : is mentioned in parallelism with ; cf. Ps 77.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ps-105-27",
+      "type": "verse",
+      "number": 27,
+      "text": "They performed his signs among them, and miracles in the land of Ham."
+    },
+    {
+      "block_id": "oxford-ps-105-28",
+      "type": "verse",
+      "number": 28,
+      "text": "He sent darkness, and made the land dark; they rebelled against his words."
+    },
+    {
+      "block_id": "oxford-ps-105-29",
+      "type": "verse",
+      "number": 29,
+      "text": "He turned their waters into blood, and caused their fish to die."
+    },
+    {
+      "block_id": "oxford-ps-105-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Their land swarmed with frogs, even in the chambers of their kings."
+    },
+    {
+      "block_id": "oxford-ps-105-31",
+      "type": "verse",
+      "number": 31,
+      "text": "He spoke, and there came swarms of flies, and gnats throughout their country."
+    },
+    {
+      "block_id": "oxford-ps-105-32",
+      "type": "verse",
+      "number": 32,
+      "text": "He gave them hail for rain, and lightning that flashed through their land."
+    },
+    {
+      "block_id": "oxford-ps-105-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He struck their vines and fig trees, and shattered the trees of their country."
+    },
+    {
+      "block_id": "oxford-ps-105-34",
+      "type": "verse",
+      "number": 34,
+      "text": "He spoke, and the locusts came, and young locusts without number;"
+    },
+    {
+      "block_id": "oxford-ps-105-35",
+      "type": "verse",
+      "number": 35,
+      "text": "they devoured all the vegetation in their land, and ate up the fruit of their ground."
+    },
+    {
+      "block_id": "oxford-ps-105-36",
+      "type": "verse",
+      "number": 36,
+      "text": "He struck down all the firstborn in their land, the first issue of all their strength."
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-5",
+      "type": "commentary",
+      "text": "27–36 : In terms of number and order, this differs strikingly from the plague narrative in (Ex 7–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 27,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ps-105-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Then he brought Israel out with silver and gold, and there was no one among their tribes who stumbled."
+    },
+    {
+      "block_id": "oxford-ps-105-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Egypt was glad when they departed, for dread of them had fallen upon it."
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-6",
+      "type": "commentary",
+      "text": "38 : This differs from the account in (Ex 14–15 of the Egyptians chasing after the Israelites, and drowning in the Red Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-ps-105-39",
+      "type": "verse",
+      "number": 39,
+      "text": "He spread a cloud for a covering, and fire to give light by night."
+    },
+    {
+      "block_id": "oxford-ps-105-40",
+      "type": "verse",
+      "number": 40,
+      "text": "They asked, and he brought quails, and gave them food from heaven in abundance."
+    },
+    {
+      "block_id": "oxford-ps-105-41",
+      "type": "verse",
+      "number": 41,
+      "text": "He opened the rock, and water gushed out; it flowed through the desert like a river."
+    },
+    {
+      "block_id": "oxford-ps-105-42",
+      "type": "verse",
+      "number": 42,
+      "text": "For he remembered his holy promise, and Abraham, his servant."
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-7",
+      "type": "commentary",
+      "text": "42 : The relation between Israel and its land is permanent and unalterable, predicated on .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-ps-105-43",
+      "type": "verse",
+      "number": 43,
+      "text": "So he brought his people out with joy, his chosen ones with singing."
+    },
+    {
+      "block_id": "oxford-ps-105-44",
+      "type": "verse",
+      "number": 44,
+      "text": "He gave them the lands of the nations, and they took possession of the wealth of the peoples,"
+    },
+    {
+      "block_id": "oxford-ps-105-45",
+      "type": "verse",
+      "number": 45,
+      "text": "that they might keep his statutes and observe his laws. Praise the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-105-h1kj-8",
+      "type": "commentary",
+      "text": "45 : But the gift of the land depends on obedience to God. If written in the exilic period, this psalm would remind the people to return to God so that they might return to the land, and to remind God of his absolute, unalterable promise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 105
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    }
+  ]
+}

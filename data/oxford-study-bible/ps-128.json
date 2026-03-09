@@ -1,0 +1,97 @@
+{
+  "document_id": "ps-128",
+  "title": "Psalms 128",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-128-heading-psalm-129",
+      "type": "heading",
+      "text": "Psalm 129"
+    },
+    {
+      "block_id": "oxford-ps-128-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Happy is everyone who fears the Lord, who walks in his ways."
+    },
+    {
+      "block_id": "oxford-ps-128-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 128: The blessings of the man who fears God. A companion piece to Ps 127, declaring that he “who fears the ” (v. 1) will flourish in his family (v. 3), national, and religious life (vv. 5–6). The three spheres were closely related, for the father was paterfamilias of the house, the king was paterfamilias of the house of Israel, and the functioned as the patrimonial lord to whom Israel was bound through covenant. Correspondingly, the blessings include family (fruitful wife, many children), nation (prosperity of Jerusalem, seat of the dynasty), and God (font of blessings). Like several Songs of Ascents (see Ps 120n.), the poem has two parts: a statement of trust (vv. 1–4) and a prayer that builds on the statement (vv. 5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 128
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-128-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , the result of a quality possessed or a choice made.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 128
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-128-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall eat the fruit of the labor of your hands; you shall be happy, and it shall go well with you."
+    },
+    {
+      "block_id": "oxford-ps-128-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table."
+    },
+    {
+      "block_id": "oxford-ps-128-h1kj-3",
+      "type": "commentary",
+      "text": "3 : The verse both expresses and reinforces the status of the father as head of the household.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 128
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-128-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Thus shall the man be blessed who fears the Lord."
+    },
+    {
+      "block_id": "oxford-ps-128-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord bless you from Zion. May you see the prosperity of Jerusalem all the days of your life."
+    },
+    {
+      "block_id": "oxford-ps-128-6",
+      "type": "verse",
+      "number": 6,
+      "text": "May you see your children’s children. Peace be upon Israel!"
+    },
+    {
+      "block_id": "oxford-ps-128-h1kj-4",
+      "type": "commentary",
+      "text": "6 : see Ps 125.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 128
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    }
+  ]
+}

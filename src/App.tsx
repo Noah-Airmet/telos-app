@@ -93,10 +93,22 @@ function getBookFromPaneState(
     translation?.books[0] ??
     null;
 
+  let chapter = book ? getChapterValueForBook(book, state.chapter) : state.chapter;
+  let documentId: string | null = null;
+
+  if (state.document_id && book) {
+    const entry = book.chapters.find((c) => c.document_id === state.document_id);
+    if (entry) {
+      documentId = entry.document_id;
+      chapter = entry.chapter ?? 0;
+    }
+  }
+
   return {
     translation,
     book,
-    chapter: book ? getChapterValueForBook(book, state.chapter) : state.chapter,
+    chapter,
+    documentId: documentId ?? state.document_id ?? null,
   };
 }
 
@@ -438,12 +450,13 @@ function App() {
   }, [activeReadingPane, manifests, repository, saveShellLayout]);
 
   const openReadingPaneAt = useCallback(
-    (profile: string, bookId: string, chapter: number) => {
+    (profile: string, bookId: string, chapter: number, documentId?: string) => {
       saveShellLayout((previous) => {
         const readingPane = createReadingPane({
           profile,
           book_id: bookId,
           chapter,
+          document_id: documentId,
         });
         let nextLayout = insertPaneAfter(previous, readingPane, previous.active_pane_id);
 
@@ -659,7 +672,8 @@ function App() {
       sourcePaneId: string,
       nextProfile: string | null,
       nextBookId: string | null,
-      nextChapter: number
+      nextChapter: number,
+      nextDocumentId?: string | null
     ) => {
       if (!shellLayout) return;
       const sourcePane = shellLayout.panes.find((pane) => pane.id === sourcePaneId);
@@ -670,6 +684,7 @@ function App() {
         profile: nextProfile,
         book_id: nextBookId,
         chapter: nextChapter,
+        document_id: nextDocumentId,
       });
 
       saveShellLayout((previous) => ({
@@ -684,6 +699,7 @@ function App() {
                 profile: nextProfile,
                 book_id: nextBookId,
                 chapter: nextChapter,
+                document_id: nextDocumentId ?? undefined,
               },
             };
           }
@@ -697,12 +713,17 @@ function App() {
           const matchingBook = findMatchingBook(targetManifest, nextSourceLocation.book);
           if (!matchingBook) return pane;
 
+          const matchingEntry = nextDocumentId
+            ? matchingBook.chapters.find((c) => c.document_id === nextDocumentId)
+            : null;
+
           return {
             ...pane,
             state: {
               ...pane.state,
               book_id: matchingBook.book_id,
-              chapter: getChapterValueForBook(matchingBook, nextChapter),
+              chapter: matchingEntry?.chapter ?? getChapterValueForBook(matchingBook, nextChapter),
+              document_id: nextDocumentId ?? undefined,
             },
           };
         }),
@@ -713,9 +734,9 @@ function App() {
   );
 
   const updateActiveReadingPaneLocation = useCallback(
-    (profile: string, book: BookEntry, chapter: number) => {
+    (profile: string, book: BookEntry, chapter: number, documentId?: string) => {
       if (!activeReadingPane) return;
-      syncReadingGroupLocation(activeReadingPane.id, profile, book.book_id, chapter);
+      syncReadingGroupLocation(activeReadingPane.id, profile, book.book_id, chapter, documentId);
     },
     [activeReadingPane, syncReadingGroupLocation]
   );
@@ -1106,17 +1127,20 @@ function App() {
           profile={pane.state.profile ?? ""}
           book={paneLocation.book}
           chapter={paneLocation.chapter}
+          documentId={paneLocation.documentId}
           onPrev={() => {
             if (!paneLocation.book || !paneLocation.translation) return;
-            const chapterIndex = paneLocation.book.chapters.findIndex(
-              (entry) => entry.chapter === paneLocation.chapter
-            );
+            const chapterIndex = paneLocation.documentId
+              ? paneLocation.book.chapters.findIndex((e) => e.document_id === paneLocation.documentId)
+              : paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter);
             if (chapterIndex > 0) {
+              const prev = paneLocation.book.chapters[chapterIndex - 1];
               syncReadingGroupLocation(
                 pane.id,
                 pane.state.profile,
                 paneLocation.book.book_id,
-                paneLocation.book.chapters[chapterIndex - 1].chapter || getFirstChapterValue(paneLocation.book)
+                prev.chapter ?? 0,
+                prev.document_id ?? undefined
               );
               return;
             }
@@ -1135,15 +1159,17 @@ function App() {
           }}
           onNext={() => {
             if (!paneLocation.book || !paneLocation.translation) return;
-            const chapterIndex = paneLocation.book.chapters.findIndex(
-              (entry) => entry.chapter === paneLocation.chapter
-            );
+            const chapterIndex = paneLocation.documentId
+              ? paneLocation.book.chapters.findIndex((e) => e.document_id === paneLocation.documentId)
+              : paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter);
             if (chapterIndex < paneLocation.book.chapters.length - 1) {
+              const next = paneLocation.book.chapters[chapterIndex + 1];
               syncReadingGroupLocation(
                 pane.id,
                 pane.state.profile,
                 paneLocation.book.book_id,
-                paneLocation.book.chapters[chapterIndex + 1].chapter || getFirstChapterValue(paneLocation.book)
+                next.chapter ?? 0,
+                next.document_id ?? undefined
               );
               return;
             }
@@ -1161,13 +1187,17 @@ function App() {
           hasPrev={Boolean(
             paneLocation.book &&
               paneLocation.translation &&
-              (paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter) > 0 ||
+              ((paneLocation.documentId
+                ? paneLocation.book.chapters.findIndex((e) => e.document_id === paneLocation.documentId)
+                : paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter)) > 0 ||
                 paneLocation.translation.books.indexOf(paneLocation.book) > 0)
           )}
           hasNext={Boolean(
             paneLocation.book &&
               paneLocation.translation &&
-              (paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter) <
+              ((paneLocation.documentId
+                ? paneLocation.book.chapters.findIndex((e) => e.document_id === paneLocation.documentId)
+                : paneLocation.book.chapters.findIndex((entry) => entry.chapter === paneLocation.chapter)) <
                 paneLocation.book.chapters.length - 1 ||
                 paneLocation.translation.books.indexOf(paneLocation.book) <
                   paneLocation.translation.books.length - 1)
@@ -1186,8 +1216,14 @@ function App() {
           onSelectBook={(book) => {
             syncReadingGroupLocation(pane.id, pane.state.profile, book.book_id, getFirstChapterValue(book));
           }}
-          onSelectChapter={(chapter) => {
-            syncReadingGroupLocation(pane.id, pane.state.profile, paneLocation.book?.book_id ?? null, chapter);
+          onSelectChapter={(chapter, documentId) => {
+            syncReadingGroupLocation(
+              pane.id,
+              pane.state.profile,
+              paneLocation.book?.book_id ?? null,
+              chapter,
+              documentId ?? undefined
+            );
           }}
           onAddPane={() => openPaneLauncher(pane.id)}
           canRelinkPane={linkedPeers.length === 0 && linkablePeers.length > 0}
@@ -1280,6 +1316,7 @@ function App() {
               activeProfile={activeReadingPane?.state.profile ?? "lds-bom"}
               activeBookId={activeReadingPane?.state.book_id ?? null}
               activeChapter={activeReadingPane?.state.chapter ?? 1}
+              activeDocumentId={activeReadingPane?.state.document_id ?? null}
               authStatus={status}
               authMode={mode}
               userName={user?.displayName || user?.email || null}
@@ -1305,12 +1342,13 @@ function App() {
                   getFirstChapterValue(book)
                 );
               }}
-              onSelectChapter={(chapter) => {
+              onSelectChapter={(chapter, documentId) => {
                 if (!activeReadingPane || !activeReadingLocation.book) return;
                 updateActiveReadingPaneLocation(
                   activeReadingPane.state.profile ?? "lds-bom",
                   activeReadingLocation.book,
-                  chapter
+                  chapter,
+                  documentId
                 );
               }}
             />
@@ -1363,12 +1401,12 @@ function App() {
 
       <CommandPalette
         manifests={manifests}
-        onSelect={(profile, book, chapter) => {
+        onSelect={(profile, book, chapter, documentId) => {
           if (activeReadingPane) {
-            syncReadingGroupLocation(activeReadingPane.id, profile, book.book_id, chapter);
+            syncReadingGroupLocation(activeReadingPane.id, profile, book.book_id, chapter, documentId);
             return;
           }
-          openReadingPaneAt(profile, book.book_id, chapter);
+          openReadingPaneAt(profile, book.book_id, chapter, documentId);
         }}
       />
     </div>

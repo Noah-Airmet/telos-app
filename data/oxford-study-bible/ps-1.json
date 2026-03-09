@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-1",
+  "title": "Psalms 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-1-heading-psalm-2",
+      "type": "heading",
+      "text": "Psalm 2"
+    },
+    {
+      "block_id": "oxford-ps-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Happy are those who do not follow the advice of the wicked, or take the path that sinners tread, or sit in the seat of scoffers;"
+    },
+    {
+      "block_id": "oxford-ps-1-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 1: The two ways. A torah or instructional psalm serving as an introduction to the Psalter, along with Ps 2. Both celebrate the saving presence of God—Ps 1 for the individual and Ps 2 for the Davidic king—who offers blessing and protection from the wicked. Unlike the following psalms, these introductory works lack a Davidic superscription, suggesting their secondary, editorial function. Using the metaphor of the two ways, one leading to life and the other to death, Psalm 1 declares that reciting God’s saving torah or teaching (in this case, including the psalms) keeps one on the path of life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-1-h1kj-3",
+      "type": "commentary",
+      "text": "1 : , like and , contemptuously dismiss God’s capacity to rule the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "but their delight is in the law of the Lord, and on his law they meditate day and night."
+    },
+    {
+      "block_id": "oxford-ps-1-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , lit., “recite”; ancients usually read aloud. , possibly the trees in the Temple garden (Pss 52.8; 92.12–15) on Mount Zion, abundantly watered, symbolizing vitality (Pss 46.4; 65.9; Ezek 47.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They are like trees planted by streams of water, which yield their fruit in its season, and their leaves do not wither. In all that they do, they prosper."
+    },
+    {
+      "block_id": "oxford-ps-1-h1kj-2",
+      "type": "commentary",
+      "text": "1–3 : Any individual who adheres to the torah ( ), the authoritative teaching contained in the psalms, and rejects the views of the wicked, is fortunate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The wicked are not so, but are like chaff that the wind drives away."
+    },
+    {
+      "block_id": "oxford-ps-1-h1kj-5",
+      "type": "commentary",
+      "text": "4–7 : In contrast to the well‐watered and deeply rooted tree (a vertical image; cf. Jer 17.7–8) is the dry and wind‐driven (a horizontal image).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;"
+    },
+    {
+      "block_id": "oxford-ps-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "for the Lord watches over the way of the righteous, but the way of the wicked will perish."
+    }
+  ]
+}

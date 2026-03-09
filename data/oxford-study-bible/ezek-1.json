@@ -1,0 +1,416 @@
+{
+  "document_id": "ezek-1",
+  "title": "Ezekiel 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezek-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the river Chebar, the heavens were opened, and I saw visions of God."
+    },
+    {
+      "block_id": "oxford-ezek-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "On the fifth day of the month (it was the fifth year of the exile of King Jehoiachin),"
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-16",
+      "type": "commentary",
+      "text": "1.28b : , a reaction of awe, and a posture of submission (also 3.23; 43.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-17",
+      "type": "commentary",
+      "text": "2 : (see 3.12,14,24), a vigorous empowerment at receiving God's word.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ezek-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the word of the Lord came to the priest Ezek iel son of Buzi, in the land of the Chal-deans by the river Chebar; and the hand of the Lord was on him there."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–3",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-3",
+      "type": "commentary",
+      "text": "3 : Ezekiel was a Zadokite (4.5–6n.; 44.15–31n.), steeped in the traditions of the Holiness School (see Introduction). Despite being a deportee, he never lost his priestly identity (cf. 43.12n.). The name means “God strengthens.” , Babylonians. (3.14,22; 8.1; 33.22; 37.1; 40.1), Ezekiel will undergo the same divine compulsions and ecstatic trances experienced by Israel's early prophets, such as Elijah and Elisha (1 Kings 18.46; 2 Kings 3.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-18",
+      "type": "commentary",
+      "text": "3 : , violated the terms of the vassal covenant of the Holiness School (Lev 26.9,15,25). Vassal covenants had punishments for disobedience: Israel can forfeit its status on God's land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezek-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "As I looked, a stormy wind came out of the north: a great cloud with brightness around it and fire flashing forth continually, and in the middle of the fire, something like gleaming amber."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , as in the Holiness School, a brilliant, fiery radiance surrounds God (Ex 24.17; 40.38; Num 16.35, all HS). , Ezekiel struggles to find words to express transcendent otherness. (Heb “ḥashmal”), perhaps molten metal, is language about pure preternatural substance that has intrigued interpreters for centuries (see also 1.27; 8.2). Traditions in the Talmud play with translations such as “living fire” and “silent speaking.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-20",
+      "type": "commentary",
+      "text": "1.4–28a , cf. 1.13; Lev 16.12; Ps 18.8,13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ezek-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "In the middle of it was something like four living creatures. This was their appearance: they were of human form."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-19",
+      "type": "commentary",
+      "text": "5 : , a phrase unique to Ezekiel (2.5,6,8; 3.9,26,27; 12.2,3,9,25; 17.12; 24.3) expressing the Holiness School's emphasis on the people's ingrained stubbornness and irreverence (cf. Num 17.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ezek-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Each had four faces, and each of them had four wings."
+    },
+    {
+      "block_id": "oxford-ezek-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Their legs were straight, and the soles of their feet were like the sole of a calf's foot; and they sparkled like burnished bronze."
+    },
+    {
+      "block_id": "oxford-ezek-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Under their wings on their four sides they had human hands. And the four had their faces and their wings thus:"
+    },
+    {
+      "block_id": "oxford-ezek-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "their wings touched one another; each of them moved straight ahead, without turning as they moved."
+    },
+    {
+      "block_id": "oxford-ezek-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "As for the appearance of their faces: the four had the face of a human being, the face of a lion on the right side, the face of an ox on the left side, and the face of an eagle;"
+    },
+    {
+      "block_id": "oxford-ezek-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "such were their faces. Their wings were spread out above; each creature had two wings, each of which touched the wing of another, while two covered their bodies."
+    },
+    {
+      "block_id": "oxford-ezek-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Each moved straight ahead; wherever the spirit would go, they went, without turning as they went."
+    },
+    {
+      "block_id": "oxford-ezek-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "In the middle of the living creatures there was something that looked like burning coals of fire, like torches moving to and fro among the living creatures; the fire was bright, and lightning issued from the fire."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-7",
+      "type": "commentary",
+      "text": "13 : , cf. Gen 15.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ezek-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The living creatures darted to and fro, like a flash of lightning."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-6",
+      "type": "commentary",
+      "text": "5–14 : The are cherubim (10.15,20), guardians of God's throne (see Ex 25.18–22; 1 Kings 6.23–28). In ancient Near Eastern art they are winged, human-headed lions or bulls exhibiting mobility, intelligence, and strength. Such hybrid creatures often guarded entrances to ancient temples and palaces. These creatures have four (v. 10), adding the lordly , since square configurations symbolize holiness and cosmic totality in Ezekiel's book (cf. 40.47n.; 41.4; 43.16; 48.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ezek-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "As I looked at the living creatures, I saw a wheel on the earth beside the living creatures, one for each of the four of them."
+    },
+    {
+      "block_id": "oxford-ezek-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "As for the appearance of the wheels and their construction: their appearance was like the gleaming of beryl; and the four had the same form, their construction being something like a wheel within a wheel."
+    },
+    {
+      "block_id": "oxford-ezek-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When they moved, they moved in any of the four directions without veering as they moved."
+    },
+    {
+      "block_id": "oxford-ezek-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Their rims were tall and awesome, for the rims of all four were full of eyes all around."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-9",
+      "type": "commentary",
+      "text": "18 : , symbolic of omniscience (10.12; Zech 4.2,5,10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ezek-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "When the living creatures moved, the wheels moved beside them; and when the living creatures rose from the earth, the wheels rose."
+    },
+    {
+      "block_id": "oxford-ezek-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Wherever the spirit would go, they went, and the wheels rose along with them; for the spirit of the living creatures was in the wheels."
+    },
+    {
+      "block_id": "oxford-ezek-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "When they moved, the others moved; when they stopped, the others stopped; and when they rose from the earth, the wheels rose along with them; for the spirit of the living creatures was in the wheels."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-8",
+      "type": "commentary",
+      "text": "15–21 : (cf. the four faces of the creatures) represent a cosmic reality lying behind earthly wheels in the Temple (1 Kings 7.27–39) or associated with the ark (2 Sam 6.3–7). The appearance of the wheels in Babylonia means that the cosmic throne of God has limitless, omnidirectional mobility and is not tied down to earthly Jerusalem, which is about to be judged and destroyed. See also 1.26–28n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ezek-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Over the heads of the living creatures there was something like a dome, shining like crystal, spread out above their heads."
+    },
+    {
+      "block_id": "oxford-ezek-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Under the dome their wings were stretched out straight, one toward another; and each of the creatures had two wings covering its body."
+    },
+    {
+      "block_id": "oxford-ezek-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "When they moved, I heard the sound of their wings like the sound of mighty waters, like the thunder of the Almighty, a sound of tumult like the sound of an army; when they stopped, they let down their wings."
+    },
+    {
+      "block_id": "oxford-ezek-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And there came a voice from above the dome over their heads; when they stopped, they let down their wings."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-10",
+      "type": "commentary",
+      "text": "22–25 : , the cosmic firmament that separates earth and heaven (Gen 1.6–8,14; Pss 19.1; 150.1; Dan 12.3). The Temple mount symbolizes the cosmic mountain where heaven and earth intersect at the dome (see 28.14n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ezek-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And above the dome over their heads there was something like a throne, in ap pearance like sapphire; and seated above the likeness of a throne was something that seemed like a human form."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-12",
+      "type": "commentary",
+      "text": "26 : , Ezekiel provides a rather humanlike image of God in keeping with the imagery of the Holiness School. Cf. images of the Mesopotamian god Ashur with a glowing upper torso and a flaming lower body. Ezekiel's imagery is controversial. Isa 40–66 and the Priestly Torah would be aghast at an association of God with any sort of likeness (see Isa 40.18,25; 46.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ezek-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Upward from what appeared like the loins I saw something like gleaming amber, something that looked like fire enclosed all around; and downward from what looked like the loins I saw something that looked like fire, and there was a splendor all around."
+    },
+    {
+      "block_id": "oxford-ezek-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Like the bow in a cloud on a rainy day, such was the appearance of the splendor all around. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell on my face, and I heard the voice of someone speaking."
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–3.27: The call of Ezekiel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.4–28a: The throne-chariot vision. The first two-thirds of Ezekiel's vision describes the creatures and wheels below the platform supporting God's throne. The throne-chariot's form reveals a graduated, spatial system of layered sanctity with wheels, heavenly creatures, and a crystalline expanse separating the prophet from the divine presence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-11",
+      "type": "commentary",
+      "text": "26–28 : Thus the was still really enthroned atop the cosmos, even though Jerusalem, the symbol of God's cosmic dwelling (Pss 26.8; 63.2; 102.16), was to be destroyed by the Babylonians.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-13",
+      "type": "commentary",
+      "text": "28 : , the qualified language again emphasizes God's holy transcendence (see 1.4n.). , for the Zadokites, represents God's embodied Presence on earth, tangible and accessible; see further 10.1–22n. Israel's divinely appointed role is to know the Presence, be transformed by it, and reflect it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-14",
+      "type": "commentary",
+      "text": "1.28b–3.27: Ezekiel's commissioning. The length of this section helps buttress Ezekiel's authority in the face of opposition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezek-1-h1kj-15",
+      "type": "commentary",
+      "text": "1.28b–2.8a : Ezekiel is commissioned in a series of addresses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 28
+    }
+  ]
+}

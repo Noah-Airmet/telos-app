@@ -1,0 +1,290 @@
+{
+  "document_id": "hab-2",
+  "title": "Habakkuk 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hab-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then the Lord answered me and said: Write the vision; make it plain on tablets, so that a runner may read it."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-3",
+      "type": "commentary",
+      "text": "2 : God's reply will be a , from the same Hebrew word as “saw” in the book's superscription (1.1). It will be made plain to all, written largely enough that a (running messenger) can read it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hab-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For there is still a vision for the appointed time; it speaks of the end, and does not lie. If it seems to tarry, wait for it; it will surely come, it will not delay."
+    },
+    {
+      "block_id": "oxford-hab-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Look at the proud! Their spirit is not right in them, but the righteous live by their faith."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Although Rom 1.17; Gal 3.11; and Heb 10.38–39 draw heavily on this verse to prioritize over works, the Heb word is better understood as “faithfulness.” Like the previous verse and 3.16, it stresses that the one who patiently awaits God's response will be rewarded.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hab-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Moreover, wealth is treacherous; the arrogant do not endure. They open their throats wide as Sheol; like Death they never have enough. They gather all nations for themselves, and collect all peoples as their own."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-4",
+      "type": "commentary",
+      "text": "3–5 : All three verses constitute God's reply: the prophet is told to trust that an answer will come, despite its apparent .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-6",
+      "type": "commentary",
+      "text": "5 : The of v. 4 are here linked with and the . , the abode of the dead. In ancient Canaanite and Israelite literature, death and the underworld are often depicted as having an open mouth with an insatiable appetite; see Isa 5.14; Prov 30.15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hab-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Shall not everyone taunt such people and, with mocking riddles, say about them, “Alas for you who heap up what is not your own!” How long will you load yourselves with goods taken in pledge?"
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-9",
+      "type": "commentary",
+      "text": "6b : , a term often used in funeral laments (1 Kings 13.30; Jer 22.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hab-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Will not your own creditors suddenly rise, and those who make you tremble wake up? Then you will be booty for them."
+    },
+    {
+      "block_id": "oxford-hab-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Because you have plundered many nations, all that survive of the peoples shall plunder you— because of human bloodshed, and violence to the earth, to cities and all who live in them."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-8",
+      "type": "commentary",
+      "text": "6–8 : The first taunt condemns the voracious appetite of the Babylonians. Common to prophetic literature is the affirmation that the evil will suffer the same pains they inflicted on others (Ob 15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hab-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“Alas for you who get evil gain for your house, setting your nest on high to be safe from the reach of harm!”"
+    },
+    {
+      "block_id": "oxford-hab-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You have devised shame for your house by cutting off many peoples; you have forfeited your life."
+    },
+    {
+      "block_id": "oxford-hab-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The very stones will cry out from the wall, and the plaster will respond from the woodwork."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-10",
+      "type": "commentary",
+      "text": "9–11 : Like Ob 3–4, the second taunt chastises the arrogance of the proud in setting their high; their very houses will rise up against them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hab-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“Alas for you who build a town by bloodshed, and found a city on iniquity!”"
+    },
+    {
+      "block_id": "oxford-hab-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Is it not from the Lord of hosts that peoples labor only to feed the flames, and nations weary themselves for nothing?"
+    },
+    {
+      "block_id": "oxford-hab-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-11",
+      "type": "commentary",
+      "text": "12–14 : The third taunt contrasts the aspirations of the peoples and the power of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-12",
+      "type": "commentary",
+      "text": "14 : Isa 11.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hab-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "“Alas for you who make your neighbors drink, pouring out your wrath until they are drunk, in order to gaze on their nakedness!”"
+    },
+    {
+      "block_id": "oxford-hab-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "You will be sated with contempt instead of glory. Drink, you yourself, and stagger! The cup in the Lord’s right hand will come around to you, and shame will come upon your glory!"
+    },
+    {
+      "block_id": "oxford-hab-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For the violence done to Lebanon will overwhelm you; the destruction of the animals will terrify you— because of human bloodshed and violence to the earth, to cities and all who live in them."
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-13",
+      "type": "commentary",
+      "text": "15–17 : The fourth taunt insists that Babylon's fortunes will be reversed, using the imagery of drinking: she who made others of her will herself drink God's cup of punishment (Jer 25.15–27; 51.7). Throughout the prophetic books, the punished suffer and (Jer 13.26; Ezek 7.18; Nah 3.5; Ob 10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-14",
+      "type": "commentary",
+      "text": "17 : Isa 14.8; 37.24 suggest that both Assyrian and Babylonian kings cut down the famous cedars of ; this verse suggests that the themselves will take revenge. and , mentioned earlier in 2.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hab-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "What use is an idol once its maker has shaped it— a cast image, a teacher of lies? For its maker trusts in what has been made, though the product is only an idol that cannot speak!"
+    },
+    {
+      "block_id": "oxford-hab-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Alas for you who say to the wood, “Wake up!” to silent stone, “Rouse yourself!” Can it teach? See, it is gold and silver plated, and there is no breath in it at all."
+    },
+    {
+      "block_id": "oxford-hab-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But the Lord is in his holy temple; let all the earth keep silence before him!"
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–20: Second interaction between the prophet and God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-7",
+      "type": "commentary",
+      "text": "6–20",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-hab-2-h1kj-15",
+      "type": "commentary",
+      "text": "18–20 : The fifth taunt differs from the others: “alas” does not begin the unit, and the theme of idolatry is introduced for the first time since 1.16. Isaiah 40.18–20; 44.9–20 also lampoon the making of an .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hab",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 20
+    }
+  ]
+}

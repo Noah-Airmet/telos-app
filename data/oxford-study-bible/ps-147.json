@@ -1,0 +1,205 @@
+{
+  "document_id": "ps-147",
+  "title": "Psalms 147",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-147-heading-psalm-148",
+      "type": "heading",
+      "text": "Psalm 148"
+    },
+    {
+      "block_id": "oxford-ps-147-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! How good it is to sing praises to our God; for he is gracious, and a song of praise is fitting."
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 147: Praise the Lord who restores Jerusalem. The second of the five hymns concluding the Psalms. Each of its three sections (vv. 1–6,7–11, and 12–20) begins with an invitation in the imperative to praise the and lists the divine acts for which praise is to be given. Verses 1–6 cite the ’s restoration of Jerusalem and gathering of exiles; vv. 7–11 cite the ’s control of fertility for the nurture of humans, and vv. 12–20 cite the ’s gift to Israel of his powerful word. Written for a scattered, malnourished, and demoralized people, most likely in the exilic or postexilic period, the psalm teaches them how to see divine purpose and give thanks.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-147-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord builds up Jerusalem; he gathers the outcasts of Israel."
+    },
+    {
+      "block_id": "oxford-ps-147-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He heals the brokenhearted, and binds up their wounds."
+    },
+    {
+      "block_id": "oxford-ps-147-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He determines the number of the stars; he gives to all of them their names."
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-2",
+      "type": "commentary",
+      "text": "4 : Creating the heavens and rebuilding Zion are parallel works as in Isa 51.16, for God ensures that the original creation continues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-147-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Great is our Lord, and abundant in power; his understanding is beyond measure."
+    },
+    {
+      "block_id": "oxford-ps-147-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The Lord lifts up the downtrodden; he casts the wicked to the ground."
+    },
+    {
+      "block_id": "oxford-ps-147-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Sing to the Lord with thanksgiving; make melody to our God on the lyre."
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-4",
+      "type": "commentary",
+      "text": "7 : It is unclear if is a sacrifice or verbal thanks.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-147-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He covers the heavens with clouds, prepares rain for the earth, makes grass grow on the hills."
+    },
+    {
+      "block_id": "oxford-ps-147-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He gives to the animals their food, and to the young ravens when they cry."
+    },
+    {
+      "block_id": "oxford-ps-147-10",
+      "type": "verse",
+      "number": 10,
+      "text": "His delight is not in the strength of the horse, nor his pleasure in the speed of a runner;"
+    },
+    {
+      "block_id": "oxford-ps-147-11",
+      "type": "verse",
+      "number": 11,
+      "text": "but the Lord takes pleasure in those who fear him, in those who hope in his steadfast love."
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-3",
+      "type": "commentary",
+      "text": "7–11 : Again directing creation to benefit Israel, God restores the devastated lands to provide food.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 7,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-147-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Praise the Lord, O Jerusalem! Praise your God, O Zion!"
+    },
+    {
+      "block_id": "oxford-ps-147-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For he strengthens the bars of your gates; he blesses your children within you."
+    },
+    {
+      "block_id": "oxford-ps-147-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He grants peace within your borders; he fills you with the finest of wheat."
+    },
+    {
+      "block_id": "oxford-ps-147-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He sends out his command to the earth; his word runs swiftly."
+    },
+    {
+      "block_id": "oxford-ps-147-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He gives snow like wool; he scatters frost like ashes."
+    },
+    {
+      "block_id": "oxford-ps-147-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He hurls down hail like crumbs— who can stand before his cold?"
+    },
+    {
+      "block_id": "oxford-ps-147-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He sends out his word, and melts them; he makes his wind blow, and the waters flow."
+    },
+    {
+      "block_id": "oxford-ps-147-19",
+      "type": "verse",
+      "number": 19,
+      "text": "He declares his word to Jacob, his statutes and ordinances to Israel."
+    },
+    {
+      "block_id": "oxford-ps-147-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He has not dealt thus with any other nation; they do not know his ordinances. Praise the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-5",
+      "type": "commentary",
+      "text": "15–20 : These verses have seven terms for the word of God, some repeated: , , , .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 15,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ps-147-h1kj-6",
+      "type": "commentary",
+      "text": "19–20 : The spoke at Sinai and afterward. It made Israel distinctive then (Deut 4.5–8) and does so now, for God (v. 20a). The Torah here is recognized as Israel’s special gift from God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 147
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    }
+  ]
+}

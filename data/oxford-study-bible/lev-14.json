@@ -1,0 +1,650 @@
+{
+  "document_id": "lev-14",
+  "title": "Leviticus 14",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-14-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "This shall be the ritual for the leprousa person at the time of his cleansing: He shall be brought to the priest;"
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , see 6.9n. , better, “It shall be reported,” cf. v. 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lev-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the priest shall go out of the camp, and the priest shall make an examination. If the disease is healed in the leprousa person,"
+    },
+    {
+      "block_id": "oxford-lev-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "the priest shall command that two living clean birds and cedarwood and crimson yarn and hyssop be brought for the one who is to be cleansed."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-6",
+      "type": "commentary",
+      "text": "4 : Many of the materials in this verse probably have symbolic significance and are well attested in biblical and other ancient Near Eastern rituals (cf. Ex 12.22; Num 19.6; Job 9.19; Ps 51.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-lev-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The priest shall command that one of the birds be slaughtered over fresh water in an earthen vessel."
+    },
+    {
+      "block_id": "oxford-lev-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He shall take the living bird with the cedarwood and the crimson yarn and the hyssop, and dip them and the living bird in the blood of the bird that was slaughtered over the fresh water."
+    },
+    {
+      "block_id": "oxford-lev-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He shall sprinkle it seven times upon the one who is to be cleansed of the leprous disease; then he shall pronounce him clean, and he shall let the living bird go into the open field."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-5",
+      "type": "commentary",
+      "text": "4–7 : The same ritual is found in vv. 49–53 for purifying houses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-7",
+      "type": "commentary",
+      "text": "6–7 : The person’s impurity is purged by the sprinkling of blood and transferred to the living bird, which carries it away (cf. the goat in 16.21–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lev-14-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The one who is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water, and he shall be clean. After that he shall come into the camp, but shall live outside his tent seven days."
+    },
+    {
+      "block_id": "oxford-lev-14-9",
+      "type": "verse",
+      "number": 9,
+      "text": "On the seventh day he shall shave all his hair: of head, beard, eyebrows; he shall shave all his hair. Then he shall wash his clothes, and bathe his body in water, and he shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-8",
+      "type": "commentary",
+      "text": "8–9 : The staged transition constitutes a rite of passage from impure to pure and underscores the severity of impurity caused by surface affliction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-lev-14-10",
+      "type": "verse",
+      "number": 10,
+      "text": "On the eighth day he shall take two male lambs without blemish, and one ewe lamb in its first year without blemish, and a grain offering of three‐tenths of an ephah of choice flour mixed with oil, and one log of oil."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , about 21 qts (23 L). , about 11 oz (.32 l).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lev-14-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The priest who cleanses shall set the person to be cleansed, along with these things, before the Lord, at the entrance of the tent of meeting."
+    },
+    {
+      "block_id": "oxford-lev-14-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The priest shall take one of the lambs, and offer it as a guilt offering, along with the logb of oil, and raise them as an elevation offering before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , better, “reparation offering”; see 5.14–6.7n. , see 7.30n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lev-14-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He shall slaughter the lamb in the place where the sin offering and the burnt offering are slaughtered in the holy place; for the guilt offering, like the sin offering, belongs to the priest: it is most holy."
+    },
+    {
+      "block_id": "oxford-lev-14-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The priest shall take some of the blood of the guilt offering and put it on the lobe of the right ear of the one to be cleansed, and on the thumb of the right hand, and on the big toe of the right foot."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-12",
+      "type": "commentary",
+      "text": "14 ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lev-14-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The priest shall take some of the logb of oil and pour it into the palm of his own left hand,"
+    },
+    {
+      "block_id": "oxford-lev-14-16",
+      "type": "verse",
+      "number": 16,
+      "text": "and dip his right finger in the oil that is in his left hand and sprinkle some oil with his finger seven times before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-14-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Some of the oil that remains in his hand the priest shall put on the lobe of the right ear of the one to be cleansed, and on the thumb of the right hand, and on the big toe of the right foot, on top of the blood of the guilt offering."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-13",
+      "type": "commentary",
+      "text": "17 ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lev-14-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The rest of the oil that is in the priest’s hand he shall put on the head of the one to be cleansed. Then the priest shall make atonement on his behalf before the Lord:"
+    },
+    {
+      "block_id": "oxford-lev-14-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the priest shall offer the sin offering, to make atonement for the one to be cleansed from his uncleanness. Afterward he shall slaughter the burnt offering;"
+    },
+    {
+      "block_id": "oxford-lev-14-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and the priest shall offer the burnt offering and the grain offering on the altar. Thus the priest shall make atonement on his behalf and he shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-9",
+      "type": "commentary",
+      "text": "10–20 : The eighth‐day sacrifices purge the tabernacle of impurity (cf. 4.1–6.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 10,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-16",
+      "type": "commentary",
+      "text": "20 : , a summary statement for the foregoing purification rituals. The sacrifices purify the tabernacle, not the person.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lev-14-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But if he is poor and cannot afford so much, he shall take one male lamb for a guilt offering to be elevated, to make atonement on his behalf, and one‐tenth of an ephah of choice flour mixed with oil for a grain offering and a logb of oil;"
+    },
+    {
+      "block_id": "oxford-lev-14-22",
+      "type": "verse",
+      "number": 22,
+      "text": "also two turtledoves or two pigeons, such as he can afford, one for a sin offering and the other for a burnt offering."
+    },
+    {
+      "block_id": "oxford-lev-14-23",
+      "type": "verse",
+      "number": 23,
+      "text": "On the eighth day he shall bring them for his cleansing to the priest, to the entrance of the tent of meeting, before the Lord;"
+    },
+    {
+      "block_id": "oxford-lev-14-24",
+      "type": "verse",
+      "number": 24,
+      "text": "and the priest shall take the lamb of the guilt offering and the logb of oil, and the priest shall raise them as an elevation offering before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-14-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The priest shall slaughter the lamb of the guilt offering and shall take some of the blood of the guilt offering, and put it on the lobe of the right ear of the one to be cleansed, and on the thumb of the right hand, and on the big toe of the right foot."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-14",
+      "type": "commentary",
+      "text": "25 ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-lev-14-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The priest shall pour some of the oil into the palm of his own left hand,"
+    },
+    {
+      "block_id": "oxford-lev-14-27",
+      "type": "verse",
+      "number": 27,
+      "text": "and shall sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-14-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The priest shall put some of the oil that is in his hand on the lobe of the right ear of the one to be cleansed, and on the thumb of the right hand, and the big toe of the right foot, where the blood of the guilt offering was placed."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-15",
+      "type": "commentary",
+      "text": "28 : For smearing of blood and oil and the significance of the ear, thumb, and toe, see 8.10–12,30n.; 8.23–24n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-lev-14-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The rest of the oil that is in the priest’s hand he shall put on the head of the one to be cleansed, to make atonement on his behalf before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-14-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And he shall offer, of the turtledoves or pigeons such as he can afford,"
+    },
+    {
+      "block_id": "oxford-lev-14-31",
+      "type": "verse",
+      "number": 31,
+      "text": "one for a sin offering and the other for a burnt offering, along with a grain offering; and the priest shall make atonement before the Lord on behalf of the one being cleansed."
+    },
+    {
+      "block_id": "oxford-lev-14-32",
+      "type": "verse",
+      "number": 32,
+      "text": "This is the ritual for the one who has a leprous disease, who cannot afford the offerings for his cleansing."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-3",
+      "type": "commentary",
+      "text": "14.1–32: Purification after surface affliction. The ritual here does not heal surface affliction; it only purifies the already healed individual; the priest performs it only after confirming the person’s recovery (v. 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-17",
+      "type": "commentary",
+      "text": "21–32 : More affordable provisions for purification (cf. 2.1–16n.; 5.7–13n.; 12.6–8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 21,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-lev-14-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The Lord spoke to Moses and Aaron, saying:"
+    },
+    {
+      "block_id": "oxford-lev-14-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When you come into the land of Canaan, which I give you for a possession, and I put a leprousb disease in a house in the land of your possession,"
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-19",
+      "type": "commentary",
+      "text": "34 : In the narrative, the Israelites are living in the wilderness camp; they therefore do not currently live in houses. , in non‐Priestly texts, surface affliction is viewed as divine punishment (Num 12.10; Deut 28.27,35; 2 Sam 3.29; 2 Kings 5.26–27; 2 Chr 26.16–21); however, in the Priestly view, all natural occurrences ultimately stem from the deity’s command. P thus attributes outbreaks of surface affliction to God even when they are not divine punishments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-lev-14-35",
+      "type": "verse",
+      "number": 35,
+      "text": "the owner of the house shall come and tell the priest, saying, “There seems to me to be some sort of disease in my house.”"
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-20",
+      "type": "commentary",
+      "text": "35 : , though it is potentially inconvenient and even a potentially significant financial loss (cf. vv. 43–45), the homeowner is expected to report possible surface affliction because of the threat of contamination and its effect on the entire community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-lev-14-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The priest shall command that they empty the house before the priest goes to examine the disease, or all that is in the house will become unclean; and afterward the priest shall go in to inspect the house."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-21",
+      "type": "commentary",
+      "text": "36 : The impurity caused by surface affliction will contaminate other objects and persons in the house (cf. vv. 46–47), but an allowance is made for removing objects before the priest officially diagnoses surface affliction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-lev-14-37",
+      "type": "verse",
+      "number": 37,
+      "text": "He shall examine the disease; if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface,"
+    },
+    {
+      "block_id": "oxford-lev-14-38",
+      "type": "verse",
+      "number": 38,
+      "text": "the priest shall go outside to the door of the house and shut up the house seven days."
+    },
+    {
+      "block_id": "oxford-lev-14-39",
+      "type": "verse",
+      "number": 39,
+      "text": "The priest shall come again on the seventh day and make an inspection; if the disease has spread in the walls of the house,"
+    },
+    {
+      "block_id": "oxford-lev-14-40",
+      "type": "verse",
+      "number": 40,
+      "text": "the priest shall command that the stones in which the disease appears be taken out and thrown into an unclean place outside the city."
+    },
+    {
+      "block_id": "oxford-lev-14-41",
+      "type": "verse",
+      "number": 41,
+      "text": "He shall have the inside of the house scraped thoroughly, and the plaster that is scraped off shall be dumped in an unclean place outside the city."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-22",
+      "type": "commentary",
+      "text": "40–41 ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 40,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-lev-14-42",
+      "type": "verse",
+      "number": 42,
+      "text": "They shall take other stones and put them in the place of those stones, and take other plaster and plaster the house."
+    },
+    {
+      "block_id": "oxford-lev-14-43",
+      "type": "verse",
+      "number": 43,
+      "text": "If the disease breaks out again in the house, after he has taken out the stones and scraped the house and plastered it,"
+    },
+    {
+      "block_id": "oxford-lev-14-44",
+      "type": "verse",
+      "number": 44,
+      "text": "the priest shall go and make inspection; if the disease has spread in the house, it is a spreading leprousb disease in the house; it is unclean."
+    },
+    {
+      "block_id": "oxford-lev-14-45",
+      "type": "verse",
+      "number": 45,
+      "text": "He shall have the house torn down, its stones and timber and all the plaster of the house, and taken outside the city to an unclean place."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-23",
+      "type": "commentary",
+      "text": "45 : Disposal outside the city parallels the exclusion of surface‐afflicted persons outside the camp (13.46).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-lev-14-46",
+      "type": "verse",
+      "number": 46,
+      "text": "All who enter the house while it is shut up shall be unclean until the evening;"
+    },
+    {
+      "block_id": "oxford-lev-14-47",
+      "type": "verse",
+      "number": 47,
+      "text": "and all who sleep in the house shall wash their clothes; and all who eat in the house shall wash their clothes."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-24",
+      "type": "commentary",
+      "text": "46–47 : See 11.24–40n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 46,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-lev-14-48",
+      "type": "verse",
+      "number": 48,
+      "text": "If the priest comes and makes an inspection, and the disease has not spread in the house after the house was plastered, the priest shall pronounce the house clean; the disease is healed."
+    },
+    {
+      "block_id": "oxford-lev-14-49",
+      "type": "verse",
+      "number": 49,
+      "text": "For the cleansing of the house he shall take two birds, with cedarwood and crimson yarn and hyssop,"
+    },
+    {
+      "block_id": "oxford-lev-14-50",
+      "type": "verse",
+      "number": 50,
+      "text": "and shall slaughter one of the birds over fresh water in an earthen vessel,"
+    },
+    {
+      "block_id": "oxford-lev-14-51",
+      "type": "verse",
+      "number": 51,
+      "text": "and shall take the cedarwood and the hyssop and the crimson yarn, along with the living bird, and dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times."
+    },
+    {
+      "block_id": "oxford-lev-14-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Thus he shall cleanse the house with the blood of the bird, and with the fresh water, and with the living bird, and with the cedarwood and hyssop and crimson yarn;"
+    },
+    {
+      "block_id": "oxford-lev-14-53",
+      "type": "verse",
+      "number": 53,
+      "text": "and he shall let the living bird go out of the city into the open field; so he shall make atonement for the house, and it shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-18",
+      "type": "commentary",
+      "text": "14.33–53: Surface affliction in houses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 33,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-lev-14-54",
+      "type": "verse",
+      "number": 54,
+      "text": "This is the ritual for any leprous disease: for an itch,"
+    },
+    {
+      "block_id": "oxford-lev-14-55",
+      "type": "verse",
+      "number": 55,
+      "text": "for leprousa diseases in clothing and houses,"
+    },
+    {
+      "block_id": "oxford-lev-14-56",
+      "type": "verse",
+      "number": 56,
+      "text": "and for a swelling or an eruption or a spot,"
+    },
+    {
+      "block_id": "oxford-lev-14-57",
+      "type": "verse",
+      "number": 57,
+      "text": "to determine when it is unclean and when it is clean. This is the ritual for leprousa diseases."
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–16.34: Ritual impurity and purification. Chs 11–16 narrate divine instructions concerning impurity and various processes for purification. In Priestly literature, impurity is a real, though invisible, film that adheres to persons and objects and is attracted to the tabernacle as some metals are attracted to a magnet. However, impurity is fundamentally different from sin: impurity is contracted in the course of normal, daily activities and carries no moral stigma (see further 10.10n.). Yet because impurity is contagious and vexes the deity in the sanctuary, the Israelites must carefully dispose of it. Therefore failure to purify is sinful and carries dire consequences (cf. 15.31). The sources of impurity are human and animal corpses (ch 11; Num 19), normal and abnormal genital discharges (chs 12; 15), and a disease, “surface affliction,” often mistranslated as “leprosy” (chs 13–14). The common denominator among these sources of impurity may be their association with death or loss of life force. In cases of minor impurity, purification is accomplished through some combination of bathing, laundering, and the passage of time. In addition to these rites, major impurities also require presentation of a purification offering to cleanse the sanctuary, for major impurities penetrate into the tabernacle complex. Because of their regular contact with the sanctuary and the threat of its contamination, priests are required to avoid virtually all impurity (cf. 21.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–14.57: Surface afflictions. Though consolidated under a single term (Heb “tsara˓at”) traditionally translated “leprosy,” the surface afflictions described in these chapters are not modern leprosy (Hansen’s disease), which was likely unknown in the ancient Near East when these texts were written. The inclusion of conditions affecting fabrics and houses alongside human disease also rules out modern leprosy, as do the symptoms of the human diseases described. The Priestly authors do not view disease in general as causing impurity; surface affliction likely causes impurity because it is associated with death (cf. Num 12.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-lev-14-h1kj-25",
+      "type": "commentary",
+      "text": "54–57 : A typical Priestly conclusion formula for chs 13–14, though the items in the summary are ordered differently in the chapters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 14
+      },
+      "verse_start": 54,
+      "verse_end": 57
+    }
+  ]
+}

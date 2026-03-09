@@ -1,0 +1,362 @@
+{
+  "document_id": "2-sam-7",
+  "title": "2 Samuel 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-2-sam-7-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now when the king was settled in his house, and the Lord had given him rest from all his enemies around him,"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , this statement is inconsistent with the accounts of David’s wars in chs 8–20 and with 1 Kings 5.3–4, which say that rest came only to Solomon. It is also inconsistent with v. 11, which indicates that the “rest” lies in the future, and is not in the parallel in 1 Chr 17.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-2-sam-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "the king said to the prophet Nathan, “See now, I am living in a house of cedar, but the ark of God stays in a tent.”"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , the tabernacle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-2-sam-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Nathan said to the king, “Go, do all that you have in mind; for the Lord is with you.”"
+    },
+    {
+      "block_id": "oxford-2-sam-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But that same night the word of the Lord came to Nathan:"
+    },
+    {
+      "block_id": "oxford-2-sam-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Go and tell my servant David: Thus says the Lord: Are you the one to build me a house to live in?"
+    },
+    {
+      "block_id": "oxford-2-sam-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I have not lived in a house since the day I brought up the people of Israel from Egypt to this day, but I have been moving about in a tent and a tabernacle."
+    },
+    {
+      "block_id": "oxford-2-sam-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Wherever I have moved about among all the people of Israel, did I ever speak a word with any of the tribal leaders of Israel, whom I commanded to shepherd my people Israel, saying, “Why have you not built me a house of cedar?”"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-5",
+      "type": "commentary",
+      "text": "5–7 : The (Heb “bayit”) David proposes to build is a temple. The says instead (v. 11) that he will build David a house (“bayit”), that is, a dynasty. The claim in vv. 6–7 that the has never had a (i.e., temple) ignores or does not acknowledge the temple in Shiloh (1 Sam 1–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-2-sam-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Now therefore thus you shall say to my servant David: Thus says the Lord of hosts: I took you from the pasture, from following the sheep to be prince over my people Israel;"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , see 1 Sam 17.15, 34. Kings in the ancient Near East were often described as shepherds; see 24.17; 1 Chr 11.2; Ps 78.70; Isa 44.28. , “king designate” (translated “ruler” in 5.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-2-sam-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "and I have been with you wherever you went, and have cut off all your enemies from before you; and I will make for you a great name, like the name of the great ones of the earth."
+    },
+    {
+      "block_id": "oxford-2-sam-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And I will appoint a place for my people Israel and will plant them, so that they may live in their own place, and be disturbed no more; and evildoers shall afflict them no more, as formerly,"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-7",
+      "type": "commentary",
+      "text": "10 : (Heb “maqom”) in Hebrew may mean a shrine or place of worship, here probably the Jerusalem Temple. (The second occurrence of “place “is a different Heb word.)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-2-sam-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "from the time that I appointed judges over my people Israel; and I will give you rest from all your enemies. Moreover the Lord declares to you that the Lord will make you a house."
+    },
+    {
+      "block_id": "oxford-2-sam-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When your days are fulfilled and you lie down with your ancestors, I will raise up your offspring after you, who shall come forth from your body, and I will establish his kingdom."
+    },
+    {
+      "block_id": "oxford-2-sam-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He shall build a house for my name, and I will establish the throne of his kingdom forever."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-8",
+      "type": "commentary",
+      "text": "13 : David’s son, Solomon, will build the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-2-sam-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I will be a father to him, and he shall be a son to me. When he commits iniquity, I will punish him with a rod such as mortals use, with blows inflicted by human beings."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-9",
+      "type": "commentary",
+      "text": "14 : , a king could be described as the (adopted) “son” of God; see, e.g., Pss 2.7; 89.26–27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-2-sam-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But I will not take my steadfast love from him, as I took it from Saul, whom I put away from before you."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-10",
+      "type": "commentary",
+      "text": "15 : (Heb “ḥesed”), another form of the promise; see Ps 89.1,24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-2-sam-7-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Your house and your kingdom shall be made sure forever before me; your throne shall be established forever."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-11",
+      "type": "commentary",
+      "text": "16 : Cf. 1 Sam 25.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-2-sam-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "In accordance with all these words and with all this vision, Nathan spoke to David."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-4",
+      "type": "commentary",
+      "text": "4–17 : The ’s promise to David.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 4,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-2-sam-7-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then King David went in and sat before the Lord, and said, “Who am I, O Lord God, and what is my house, that you have brought me thus far?"
+    },
+    {
+      "block_id": "oxford-2-sam-7-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And yet this was a small thing in your eyes, O Lord God; you have spoken also of your servant’s house for a great while to come. May this be instruction for the people, O Lord God!"
+    },
+    {
+      "block_id": "oxford-2-sam-7-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And what more can David say to you? For you know your servant, O Lord God!"
+    },
+    {
+      "block_id": "oxford-2-sam-7-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Because of your promise, and according to your own heart, you have wrought all this greatness, so that your servant may know it."
+    },
+    {
+      "block_id": "oxford-2-sam-7-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Therefore you are great, O Lord God; for there is no one like you, and there is no God besides you, according to all that we have heard with our ears."
+    },
+    {
+      "block_id": "oxford-2-sam-7-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Who is like your people, like Israel? Is there another nation on earth whose God went to redeem it as a people, and to make a name for himself, doing great and awesome things for them, by driving out before his people nations and their gods?"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-13",
+      "type": "commentary",
+      "text": "23 : refer to the Exodus from Egypt and the conquest of Canaan; the language is Deuteronomistic.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-2-sam-7-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And you established your people Israel for yourself to be your people forever; and you, O Lord, became their God."
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-14",
+      "type": "commentary",
+      "text": "24 : Cf. Ex 6.7; Deut 29.10–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-2-sam-7-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And now, O Lord God, as for the word that you have spoken concerning your servant and concerning his house, confirm it forever; do as you have promised."
+    },
+    {
+      "block_id": "oxford-2-sam-7-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Thus your name will be magnified forever in the saying, ‘The Lord of hosts is God over Israel’; and the house of your servant David will be established before you."
+    },
+    {
+      "block_id": "oxford-2-sam-7-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For you, O Lord of hosts, the God of Israel, have made this revelation to your servant, saying, ‘I will build you a house’; therefore your servant has found courage to pray this prayer to you."
+    },
+    {
+      "block_id": "oxford-2-sam-7-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And now, O Lord God, you are God, and your words are true, and you have promised this good thing to your servant;"
+    },
+    {
+      "block_id": "oxford-2-sam-7-29",
+      "type": "verse",
+      "number": 29,
+      "text": "now therefore may it please you to bless the house of your servant, so that it may continue forever before you; for you, O Lord God, have spoken, and with your blessing shall the house of your servant be blessed forever.”"
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-1",
+      "type": "commentary",
+      "text": "7.1–29: A dynasty for David. This chapter with the ’s promise to David of an eternal dynasty is a key passage in the Deuteronomistic History, combining its central themes of Jerusalem as the divinely chosen center for worship and the Davidic line as the chosen dynasty in Judah. The chapter’s major theme is the eternity of that dynasty, reflected in expressions for “forever” that occur eight times; scholars debate as to whether the term refers to eternity or a very long time period. In the broader context of the Deuteronomistic History, it explains Judah’s survival in contrast to the destruction of the Northern Kingdom of Israel in 722 . It later provided a foundation for messianic hope for a new Davidic king. The language and style of the chapter are thoroughly Deuteronomistic, although many scholars think that one or more older oracles underlie vv. 1–7. This promise is reflected in various forms in the Deuteronomistic History and in Pss 89 and 132, as well as in Chronicles. Some of these texts temper the unconditional, eternal nature of the promise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-12",
+      "type": "commentary",
+      "text": "18–29 : David’s prayer to the . Compare Solomon’s prayers in 1 Kings 3.6–9 and 8.22–53.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 18,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-2-sam-7-h1kj-15",
+      "type": "commentary",
+      "text": "27–29 : , a way of referring to oneself before a superior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 29
+    }
+  ]
+}

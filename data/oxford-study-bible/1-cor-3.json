@@ -1,0 +1,289 @@
+{
+  "document_id": "1-cor-3",
+  "title": "1 Corinthians 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-cor-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-1-cor-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I fed you with milk, not solid food, for you were not ready for solid food. Even now you are still not ready,"
+    },
+    {
+      "block_id": "oxford-1-cor-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for you are still of the flesh. For as long as there is jealousy and quarreling among you, are you not of the flesh, and behaving according to human inclinations?"
+    },
+    {
+      "block_id": "oxford-1-cor-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For when one says, “I belong to Paul,” and another, “I belong to Apollos,” are you not merely human?"
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–4 : Paul chides the Corinthians in a derisive manner for their spiritual immaturity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-4",
+      "type": "commentary",
+      "text": "4 : The reduction in the number of slogans from the four of 1.12 to two, suggests that Apollos is the focus of the Corinthians’ partisanship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-cor-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "What then is Apollos? What is Paul? Servants through whom you came to believe, as the Lord assigned to each."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-6",
+      "type": "commentary",
+      "text": "3.5 : Both Paul and Apollos have been positions as by .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-1-cor-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I planted, Apollos watered, but God gave the growth."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-7",
+      "type": "commentary",
+      "text": "6 : The one who has priority over the one who has , and a greater claim upon the produce.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-1-cor-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So neither the one who plants nor the one who waters is anything, but only God who gives the growth."
+    },
+    {
+      "block_id": "oxford-1-cor-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The one who plants and the one who waters have a common purpose, and each will receive wages according to the labor of each."
+    },
+    {
+      "block_id": "oxford-1-cor-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For we are God's servants, working together; you are God's field, God's building."
+    },
+    {
+      "block_id": "oxford-1-cor-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "According to the grace of God given to me, like a skilled master builder I laid a foundation, and someone else is building on it. Each builder must choose with care how to build on it."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-8",
+      "type": "commentary",
+      "text": "10 : Paul is a (Gk “sophos architekton,” a technical term of construction work) who has laid the of the community, while Apollos is, figuratively, one of the anonymous workers ( ) who has added something to the structure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-1-cor-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For no one can lay any foundation other than the one that has been laid; that foundation is Jesus Christ."
+    },
+    {
+      "block_id": "oxford-1-cor-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw—"
+    },
+    {
+      "block_id": "oxford-1-cor-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "the work of each builder will become visible, for the Day will disclose it, because it will be revealed with fire, and the fire will test what sort of work each has done."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-9",
+      "type": "commentary",
+      "text": "13 : , the day of judgment; see 1.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-1-cor-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "If what has been built on the foundation survives, the builder will receive a reward."
+    },
+    {
+      "block_id": "oxford-1-cor-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If the work is burned up, the builder will suffer loss; the builder will be saved, but only as through fire."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-10",
+      "type": "commentary",
+      "text": "15 : The expression is a common Greek idiom describing a narrow escape from danger: as the fire ignites, the workers escape from the legal penalty to be imposed upon their shoddy construction by running through the walls of the burning building.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-1-cor-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do you not know that you are God's temple and that God's Spirit dwells in you?"
+    },
+    {
+      "block_id": "oxford-1-cor-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If anyone destroys God's temple, God will destroy that person. For God's temple is holy, and you are that temple."
+    },
+    {
+      "block_id": "oxford-1-cor-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Do not deceive yourselves. If you think that you are wise in this age, you should become fools so that you may become wise."
+    },
+    {
+      "block_id": "oxford-1-cor-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For the wisdom of this world is foolishness with God. For it is written, “He catches the wise in their craftiness,”"
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-11",
+      "type": "commentary",
+      "text": "19 : Job 5.12–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-1-cor-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and again, “The Lord knows the thoughts of the wise, that they are futile.”"
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-12",
+      "type": "commentary",
+      "text": "20 : Ps 94.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-1-cor-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "So let no one boast about human leaders. For all things are yours,"
+    },
+    {
+      "block_id": "oxford-1-cor-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all belong to you,"
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-13",
+      "type": "commentary",
+      "text": "22 : , see 1.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-1-cor-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "and you belong to Christ, and Christ belongs to God."
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–4.21: Apostles as servants of the Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-1-cor-3-h1kj-5",
+      "type": "commentary",
+      "text": "3.5–4.5: In a series of well-constructed metaphors, Paul portrays himself and Apollos as farm workers (3.6–9), construction laborers (3.9–15), and household stewards (4.1–5), in order to emphasize collegiality against partisanship, and to diminish the importance attributed to them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 23
+    }
+  ]
+}

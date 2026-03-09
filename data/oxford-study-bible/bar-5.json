@@ -1,0 +1,176 @@
+{
+  "document_id": "bar-5",
+  "title": "Baruch 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-bar-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Put on the robe of the righteousness that comes from God; put on your head the diadem of the glory of the Everlasting;"
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-4",
+      "type": "commentary",
+      "text": "5.1–2 : 4.20; Isa 52.1; 61.3,10; 11.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-bar-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for God will show your splendor everywhere under heaven."
+    },
+    {
+      "block_id": "oxford-bar-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For God will give you evermore the name, “Righteous Peace, Godly Glory.”"
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-3",
+      "type": "commentary",
+      "text": "4.36–5.4 : Jerusalem is exhorted to watch the exiles return from the east.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-5",
+      "type": "commentary",
+      "text": "4 : The renaming of Jerusalem, which marks a change in status, is a theme in the prophetic books (Isa 1.26; 60.14; 62.2–4; Jer 33.16; Ezek 48.35). , Isa 32.17; 60.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Arise, O Jerusalem, stand upon the height; look toward the east, and see your children gathered from west and east at the word of the Holy One, rejoicing that God has remembered them."
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-7",
+      "type": "commentary",
+      "text": "5 : 4.36; Isa 40.9–11; 43.5; 49.18; 60.4; 11.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-bar-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For they went out from you on foot, led away by their enemies; but God will bring them back to you, carried in glory, as on a royal throne."
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-8",
+      "type": "commentary",
+      "text": "6 : Isa 49.22; 66.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-bar-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For God has ordered that every high mountain and the everlasting hills be made low and the valleys filled up, to make level ground, so that Israel may walk safely in the glory of God."
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-9",
+      "type": "commentary",
+      "text": "7 : Isa 40.4–5; 42.16; 11.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-bar-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The woods and every fragrant tree have shaded Israel at God's command."
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-10",
+      "type": "commentary",
+      "text": "8 : 11.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For God will lead Israel with joy, in the light of his glory, with the mercy and righteousness that come from him."
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-1",
+      "type": "commentary",
+      "text": "4.5–5.9: Poem of consolation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-2",
+      "type": "commentary",
+      "text": "4.30–5.9 : The narrator consoles Jerusalem with the prospect of the exiles’ return.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-bar-5-h1kj-6",
+      "type": "commentary",
+      "text": "5.5–9 : A second call for Jerusalem to watch God bring the exiles to her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 9
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "ps-53",
+  "title": "Psalms 53",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-53-heading-psalm-54",
+      "type": "heading",
+      "text": "Psalm 54"
+    },
+    {
+      "block_id": "oxford-ps-53-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Fools say in their hearts, “There is no God.” They are corrupt, they commit abominable acts; there is no one who does good."
+    },
+    {
+      "block_id": "oxford-ps-53-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 53: Refusal to be silenced by those who deny God’s justice. A song of trust condemning those who deny God is active in the world and declaring trust in God who cares for the poor (among whom the psalmist wants to be counted). Psalm 53 is a near duplicate of Ps 14. A major difference is that this psalm is part of the “Elohistic Psalter (Pss 42–83), which prefers the divine name “Elohim,” translated “God,” rather than “the ,” and thus replaces many occurrences of “ ” in Ps 14 with “God.” See Ps 14 for commentary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 53
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-53-2",
+      "type": "verse",
+      "number": 2,
+      "text": "God looks down from heaven on humankind to see if there are any who are wise, who seek after God."
+    },
+    {
+      "block_id": "oxford-ps-53-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They have all fallen away, they are all alike perverse; there is no one who does good, no, not one."
+    },
+    {
+      "block_id": "oxford-ps-53-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Have they no knowledge, those evildoers, who eat up my people as they eat bread, and do not call upon God?"
+    },
+    {
+      "block_id": "oxford-ps-53-5",
+      "type": "verse",
+      "number": 5,
+      "text": "There they shall be in great terror, in terror such as has not been. For God will scatter the bones of the ungodly; they will be put to shame, for God has rejected them."
+    },
+    {
+      "block_id": "oxford-ps-53-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O that deliverance for Israel would come from Zion! When God restores the fortunes of his people, Jacob will rejoice; Israel will be glad."
+    }
+  ]
+}

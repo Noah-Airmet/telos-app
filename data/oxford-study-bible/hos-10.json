@@ -1,0 +1,301 @@
+{
+  "document_id": "hos-10",
+  "title": "Hosea 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hos-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-hos-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Their heart is false; now they must bear their guilt. The Lord will break down their altars, and destroy their pillars."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-5",
+      "type": "commentary",
+      "text": "1–2 : In Canaan Israel increased in sin (here adopting illicit religious practices) as it increased in prosperity; cf. Deut 6.10–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , standing stones, condemned in Ex 23.24; see 3.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hos-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For now they will say: “We have no king, for we do not fear the Lord, and a king—what could he do for us?”"
+    },
+    {
+      "block_id": "oxford-hos-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They utter mere words; with empty oaths they make covenants; so litigation springs up like poisonous weeds in the furrows of the field."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-7",
+      "type": "commentary",
+      "text": "4 : , Ex 20.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hos-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The inhabitants of Samaria tremble for the calf of Beth-aven. Its people shall mourn for it, and its idolatrous priests shall wail over it, over its glory that has departed from it."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , 8.5n. , see 4.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hos-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The thing itself shall be carried to Assyria as tribute to the great king. Ephraim shall be put to shame, and Israel shall be ashamed of his idol."
+    },
+    {
+      "block_id": "oxford-hos-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Samaria's king shall perish like a chip on the face of the waters."
+    },
+    {
+      "block_id": "oxford-hos-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The high places of Aven, the sin of Israel, shall be destroyed. Thorn and thistle shall grow up on their altars. They shall say to the mountains, Cover us, and to the hills, Fall on us."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , 10.5n. …, this phrase will be reused in New Testament depictions of divine judgment (Lk 23.30; Rev 6.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hos-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Since the days of Gibeah you have sinned, O Israel; there they have continued. Shall not war overtake them in Gibeah?"
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , 9.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hos-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I will come against the wayward people to punish them; and nations shall be gathered against them when they are punished for their double iniquity."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-4",
+      "type": "commentary",
+      "text": "10.1–10: Israel, a luxuriant vine (v. 1), is now weedy (v. 4) and overrun with thorns (v. 8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-11",
+      "type": "commentary",
+      "text": "10 : God is a commander of the nations who will direct them against Israel. , Gibeah's former sin (see 9.9n.) and present guilt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-hos-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Ephraim was a trained heifer that loved to thresh, and I spared her fair neck; but I will make Ephraim break the ground; Judah must plow; Jacob must harrow for himself."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , compare with 4.16. … , i.e., she was unyoked.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hos-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Sow for yourselves righteousness; reap steadfast love; break up your fallow ground; for it is time to seek the Lord, that he may come and rain righteousness upon you."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-14",
+      "type": "commentary",
+      "text": "12 : , Jer 4.3. is a frequent prophetic symbol of divine restoration and blessing (Isa 44.3; 45.8; 55.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hos-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You have plowed wickedness, you have reaped injustice, you have eaten the fruit of lies. Because you have trusted in your power and in the multitude of your warriors,"
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-15",
+      "type": "commentary",
+      "text": "13 : Contrast Ps 20.7, 44.6, Isa 31.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hos-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "therefore the tumult of war shall rise against your people, and all your fortresses shall be destroyed, as Shalman destroyed Beth-arbel on the day of battle when mothers were dashed in pieces with their children."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-16",
+      "type": "commentary",
+      "text": "14 : … , the allusion is unknown, but perhaps refers to the Assyrian king Shalmaneser V (see 2 Kings 17.3) or the Moabite king Salamanu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hos-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Thus it shall be done to you, O Bethel, because of your great wickedness. At dawn the king of Israel shall be utterly cut off."
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–14.9: The prophetic speeches of Hosea indict Israel for unfaithfulness and announce the divine judgment, while offering hope of eventual restoration. The boundaries between individual speech units in the remainder of the book are unclear. This may in part reflect the style of the prophet and may in part be due to later editorial rearrangement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-2",
+      "type": "commentary",
+      "text": "4.1–12.1: The Lord has an indictment against Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-3",
+      "type": "commentary",
+      "text": "9.10–11.11: Before and after. This section consists of a series of four metaphors (Israel as grapes in the wilderness, a luxuriant vine, a heifer trained, a beloved child) used to characterize the people's former fidelity and health, and contrasted with their present corrupt state brought about by religious, social, and political misdeeds. As the first three metaphors unfold, the cumulative message appears to be that the covenant is irrevocably broken and Israel is to be abandoned (9.17; 10.10; 10.15). The fourth part, the culmination of the series and, for many scholars, the culmination of the prophecies of Hosea, initially continues in this vein (11.1–7), but then dramatically shifts from an angry to a compassionate tone (11.8–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-12",
+      "type": "commentary",
+      "text": "10.11–15: Heifer Israel now plows wickedness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 11,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hos-10-h1kj-17",
+      "type": "commentary",
+      "text": "15 : , see 8.5–6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 10
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "document_id": "ps-146",
+  "title": "Psalms 146",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-146-heading-psalm-147",
+      "type": "heading",
+      "text": "Psalm 147"
+    },
+    {
+      "block_id": "oxford-ps-146-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! Praise the Lord, O my soul!"
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 146: Praise of the Lord, savior of the downtrodden. A hymn, like (Pss 147–150; together, these five psalms form the concluding doxology to the entire book of Psalms. Each of these hymns begins and ends with “Praise the ” (Heb “halelu‐yah,” in English “Hallelujah”). The singer in Ps 146 engages in an inner dialogue (“O my soul!” v. 1b) before addressing the community in v. 3. Such reflection enables the singer to appreciate the vanity of human resources (vv. 3–4) and the compassion of the ’s governance of the world (vv. 5–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-146-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I will praise the Lord as long as I live; I will sing praises to my God all my life long."
+    },
+    {
+      "block_id": "oxford-ps-146-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not put your trust in princes, in mortals, in whom there is no help."
+    },
+    {
+      "block_id": "oxford-ps-146-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When their breath departs, they return to the earth; on that very day their plans perish."
+    },
+    {
+      "block_id": "oxford-ps-146-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Happy are those whose help is the God of Jacob, whose hope is in the Lord their God,"
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-2",
+      "type": "commentary",
+      "text": "5 : In contrast to placing one’s hopes in human helpers, weak and mortal (vv. 3–4), the psalmist’s hopes are in the , already covenanted to Israel, the powerful and just creator and judge (vv. 6–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-146-6",
+      "type": "verse",
+      "number": 6,
+      "text": "who made heaven and earth, the sea, and all that is in them; who keeps faith forever;"
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-3",
+      "type": "commentary",
+      "text": "6 : , see Ps 124.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-146-7",
+      "type": "verse",
+      "number": 7,
+      "text": "who executes justice for the oppressed; who gives food to the hungry. The Lord sets the prisoners free;"
+    },
+    {
+      "block_id": "oxford-ps-146-8",
+      "type": "verse",
+      "number": 8,
+      "text": "the Lord opens the eyes of the blind. The Lord lifts up those who are bowed down; the Lord loves the righteous."
+    },
+    {
+      "block_id": "oxford-ps-146-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord watches over the strangers; he upholds the orphan and the widow, but the way of the wicked he brings to ruin."
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-4",
+      "type": "commentary",
+      "text": "7–9 : All the ’s actions here are rescues of beleaguered individuals, inspiring the psalmist to hope for and praise rescues in the future.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 7,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-5",
+      "type": "commentary",
+      "text": "9 : God’s justice is complete; he even , before their plans reach fruition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-146-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The Lord will reign forever, your God, O Zion, for all generations. Praise the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-146-h1kj-6",
+      "type": "commentary",
+      "text": "10 : These aspects of God—creator, righteous judge—are related to his kingship, mentioned explicitly only in the final verse. This connects Pss 145 and 146.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 146
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    }
+  ]
+}

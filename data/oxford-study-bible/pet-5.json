@@ -1,0 +1,158 @@
+{
+  "document_id": "pet-5",
+  "title": "pet 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-pet-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "to tend the flock of God that is in your charge, exercising the oversight, not under compulsion but willingly, as God would have you do it—not for sordid gain but eagerly."
+    },
+    {
+      "block_id": "oxford-pet-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not lord it over those in your charge, but be examples to the flock."
+    },
+    {
+      "block_id": "oxford-pet-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And when the chief shepherd appears, you will win the crown of glory that never fades away."
+    },
+    {
+      "block_id": "oxford-pet-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "In the same way, you who are younger must accept the authority of the elders. And all of you must clothe yourselves with humility in your dealings with one another, for “God opposes the proud, but gives grace to the humble.”"
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-5",
+      "type": "commentary",
+      "text": "5 : Prov 3.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-pet-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Humble yourselves therefore under the mighty hand of God, so that he may exalt you in due time."
+    },
+    {
+      "block_id": "oxford-pet-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Cast all your anxiety on him, because he cares for you."
+    },
+    {
+      "block_id": "oxford-pet-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Discipline yourselves, keep alert. Like a roaring lion your adversary the devil prowls around, looking for someone to devour."
+    },
+    {
+      "block_id": "oxford-pet-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Resist him, steadfast in your faith, for you know that your brothers and sisters in all the world are undergoing the same kinds of suffering."
+    },
+    {
+      "block_id": "oxford-pet-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And after you have suffered for a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, support, strengthen, and establish you."
+    },
+    {
+      "block_id": "oxford-pet-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "To him be the power forever and ever. Amen."
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.13–5.11: Body of the letter, calling the readers to disciplined thinking and action (1.13; 4.7; 5.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-2",
+      "type": "commentary",
+      "text": "3.13–5.11: Responsible suffering in the face of hostility.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–11: Concluding exhortation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-pet-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Through Silvanus, whom I consider a faithful brother, I have written this short letter to encourage you and to testify that this is the true grace of God. Stand fast in it."
+    },
+    {
+      "block_id": "oxford-pet-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Your sister church in Babylon, chosen together with you, sends you greetings; and so does my son Mark."
+    },
+    {
+      "block_id": "oxford-pet-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Greet one another with a kiss of love. Peace to all of you who are in Christ."
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-6",
+      "type": "commentary",
+      "text": "5.12–14: Conclusion of the Letter. and were companions of Paul (Acts 15.22; 2 Cor 1.19; Philem 24). , a cryptographic name for Rome.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-pet-5-h1kj-7",
+      "type": "commentary",
+      "text": "14 : Cf. Rom 16.16; 1 Cor 16.20; 1 Thess 5.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    }
+  ]
+}

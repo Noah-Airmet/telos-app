@@ -1,0 +1,368 @@
+{
+  "document_id": "lev-27",
+  "title": "Leviticus 27",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-27-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-27-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the people of Israel and say to them: When a person makes an explicit vow to the Lord concerning the equivalent for a human being,"
+    },
+    {
+      "block_id": "oxford-lev-27-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the equivalent for a male shall be: from twenty to sixty years of age the equivalent shall be fifty shekels of silver by the sanctuary shekel."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-3",
+      "type": "commentary",
+      "text": "3 : A weighed about.4 oz (11.4 gr).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-27-4",
+      "type": "verse",
+      "number": 4,
+      "text": "If the person is a female, the equivalent is thirty shekels."
+    },
+    {
+      "block_id": "oxford-lev-27-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If the age is from five to twenty years of age, the equivalent is twenty shekels for a male and ten shekels for a female."
+    },
+    {
+      "block_id": "oxford-lev-27-6",
+      "type": "verse",
+      "number": 6,
+      "text": "If the age is from one month to five years, the equivalent for a male is five shekels of silver, and for a female the equivalent is three shekels of silver."
+    },
+    {
+      "block_id": "oxford-lev-27-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And if the person is sixty years old or over, then the equivalent for a male is fifteen shekels, and for a female ten shekels."
+    },
+    {
+      "block_id": "oxford-lev-27-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If any cannot afford the equivalent, they shall be brought before the priest and the priest shall assess them; the priest shall assess them according to what each one making a vow can afford."
+    },
+    {
+      "block_id": "oxford-lev-27-9",
+      "type": "verse",
+      "number": 9,
+      "text": "If it concerns an animal that may be brought as an offering to the Lord, any such that may be given to the Lord shall be holy."
+    },
+    {
+      "block_id": "oxford-lev-27-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Another shall not be exchanged or substituted for it, either good for bad or bad for good; and if one animal is substituted for another, both that one and its substitute shall be holy."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-4",
+      "type": "commentary",
+      "text": "9–10 : Sacrificeable animals offered as vows are viewed as the deity’s food and are thus holy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lev-27-11",
+      "type": "verse",
+      "number": 11,
+      "text": "If it concerns any unclean animal that may not be brought as an offering to the Lord, the animal shall be presented before the priest."
+    },
+    {
+      "block_id": "oxford-lev-27-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The priest shall assess it: whether good or bad, according to the assessment of the priest, so it shall be."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-5",
+      "type": "commentary",
+      "text": "11–12 : Nonsacrificeable animals vowed to God are intended to be sold by the sanctuary according to their valuation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lev-27-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But if it is to be redeemed, one‐fifth must be added to the assessment."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-2",
+      "type": "commentary",
+      "text": "2–13 : Procedures for vows of persons and animals; cf. Num 30.1–16. Vows are promised gifts to God in exchange for divine favor. In the case of vows of humans (oneself or another), an equivalent monetary gift is presented in lieu of human sacrifice. Calculations are made according to the vowed person’s socioeconomic worth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 2,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-6",
+      "type": "commentary",
+      "text": "13 : , cf. 5.16; 6.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lev-27-14",
+      "type": "verse",
+      "number": 14,
+      "text": "If a person consecrates a house to the Lord, the priest shall assess it: whether good or bad, as the priest assesses it, so it shall stand."
+    },
+    {
+      "block_id": "oxford-lev-27-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And if the one who consecrates the house wishes to redeem it, one‐fifth shall be added to its assessed value, and it shall revert to the original owner."
+    },
+    {
+      "block_id": "oxford-lev-27-16",
+      "type": "verse",
+      "number": 16,
+      "text": "If a person consecrates to the Lord any inherited landholding, its assessment shall be in accordance with its seed requirements: fifty shekels of silver to a homer of barley seed."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-8",
+      "type": "commentary",
+      "text": "16 : A was about 6.5 bushels (230 L).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-lev-27-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If the person consecrates the field as of the year of jubilee, that assessment shall stand;"
+    },
+    {
+      "block_id": "oxford-lev-27-18",
+      "type": "verse",
+      "number": 18,
+      "text": "but if the field is consecrated after the jubilee, the priest shall compute the price for it according to the years that remain until the year of jubilee, and the assessment shall be reduced."
+    },
+    {
+      "block_id": "oxford-lev-27-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And if the one who consecrates the field wishes to redeem it, then one‐fifth shall be added to its assessed value, and it shall revert to the original owner;"
+    },
+    {
+      "block_id": "oxford-lev-27-20",
+      "type": "verse",
+      "number": 20,
+      "text": "but if the field is not redeemed, or if it has been sold to someone else, it shall no longer be redeemable."
+    },
+    {
+      "block_id": "oxford-lev-27-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But when the field is released in the jubilee, it shall be holy to the Lord as a devoted field; it becomes the priest’s holding."
+    },
+    {
+      "block_id": "oxford-lev-27-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If someone consecrates to the Lord a field that has been purchased, which is not a part of the inherited landholding,"
+    },
+    {
+      "block_id": "oxford-lev-27-23",
+      "type": "verse",
+      "number": 23,
+      "text": "the priest shall compute for it the proportionate assessment up to the year of jubilee, and the assessment shall be paid as of that day, a sacred donation to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-27-24",
+      "type": "verse",
+      "number": 24,
+      "text": "In the year of jubilee the field shall return to the one from whom it was bought, whose holding the land is."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-7",
+      "type": "commentary",
+      "text": "14–24 : Dedications of houses, ancestral land, and nonancestral land. Valuations of land are accounted according to the jubilee calendar (cf. 25.13–17n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 14,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-lev-27-25",
+      "type": "verse",
+      "number": 25,
+      "text": "All assessments shall be by the sanctuary shekel: twenty gerahs shall make a shekel."
+    },
+    {
+      "block_id": "oxford-lev-27-26",
+      "type": "verse",
+      "number": 26,
+      "text": "A firstling of animals, however, which as a firstling belongs to the Lord, cannot be consecrated by anyone; whether ox or sheep, it is the Lord’s."
+    },
+    {
+      "block_id": "oxford-lev-27-27",
+      "type": "verse",
+      "number": 27,
+      "text": "If it is an unclean animal, it shall be ransomed at its assessment, with one‐fifth added; if it is not redeemed, it shall be sold at its assessment."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-9",
+      "type": "commentary",
+      "text": "26–27 : Firstborn animals already belong to God (Ex 13.1–2,12; 22.29–30; 34.19; Num 3.40–51; 18.17; Deut 15.19–20) and therefore cannot be dedicated or vowed. , better, “It may be ransomed”; cf. Num 18.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-lev-27-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Nothing that a person owns that has been devoted to destruction for the Lord, be it human or animal, or inherited landholding, may be sold or redeemed; every devoted thing is most holy to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-10",
+      "type": "commentary",
+      "text": "28 : , a type of dedication found mostly in biblical war texts (e.g., Num 21.2; Deut 2.34; 3.6; 7.2; Josh 6.17–21; 8.26; 10.1,28; 1 Sam 15) and in the Moabite Mesha Inscription. Here, such dedication (Heb “ḥerem”) is applied to personal property.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-lev-27-29",
+      "type": "verse",
+      "number": 29,
+      "text": "No human beings who have been devoted to destruction can be ransomed; they shall be put to death."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-11",
+      "type": "commentary",
+      "text": "29 : The dedication in this instance may refer to a judicial sentence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-lev-27-30",
+      "type": "verse",
+      "number": 30,
+      "text": "All tithes from the land, whether the seed from the ground or the fruit from the tree, are the Lord’s; they are holy to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-27-31",
+      "type": "verse",
+      "number": 31,
+      "text": "If persons wish to redeem any of their tithes, they must add one‐fifth to them."
+    },
+    {
+      "block_id": "oxford-lev-27-32",
+      "type": "verse",
+      "number": 32,
+      "text": "All tithes of herd and flock, every tenth one that passes under the shepherd’s staff, shall be holy to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-27-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Let no one inquire whether it is good or bad, or make substitution for it; if one makes substitution for it, then both it and the substitute shall be holy and cannot be redeemed."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-12",
+      "type": "commentary",
+      "text": "30–33 : Tithes (cf. Num 18.20–32; Deut 14.22–29; 26.12). This is the only animal tithe in pentateuchal law, but see Gen 14.20; 28.22; 1 Sam 8.15–17; 2 Chr 31.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 30,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-lev-27-34",
+      "type": "verse",
+      "number": 34,
+      "text": "These are the commandments that the Lord gave to Moses for the people of Israel on Mount Sinai."
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-1",
+      "type": "commentary",
+      "text": "27.1–34: Vows, dedications, and tithes. This chapter, which contains priestly material, is a later addition, inserted as an appendix to the earlier P and H material. Its author(s) attempted to integrate it into the composition by repeating the concluding summary from 26.46 in 27.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-lev-27-h1kj-13",
+      "type": "commentary",
+      "text": "34 : A variation of the conclusion in 26.46.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 27
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    }
+  ]
+}

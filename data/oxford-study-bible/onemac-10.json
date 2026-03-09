@@ -1,0 +1,913 @@
+{
+  "document_id": "onemac-10",
+  "title": "onemac 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onemac-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-onemac-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When King Demetrius heard of it, he assembled a very large army and marched out to meet him in battle."
+    },
+    {
+      "block_id": "oxford-onemac-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Demetrius sent Jonathan a letter in peaceable words to honor him;"
+    },
+    {
+      "block_id": "oxford-onemac-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "for he said to himself, “Let us act first to make peace with him before he makes peace with Alexander against us,"
+    },
+    {
+      "block_id": "oxford-onemac-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "for he will remember all the wrongs that we did to him and to his brothers and his nation.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So Demetrius gave him authority to recruit troops, to equip them with arms, and to become his ally; and he commanded that the hostages in the citadel should be released to him."
+    },
+    {
+      "block_id": "oxford-onemac-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then Jonathan came to Jerusalem and read the letter in the hearing of all the people and of those in the citadel."
+    },
+    {
+      "block_id": "oxford-onemac-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They were greatly alarmed when they heard that the king had given him authority to recruit troops."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-3",
+      "type": "commentary",
+      "text": "6–8 : (cf. 9.53), an important concession.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-onemac-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But those in the citadel released the hostages to Jonathan, and he returned them to their parents."
+    },
+    {
+      "block_id": "oxford-onemac-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And Jonathan took up residence in Jerusalem and began to rebuild and restore the city."
+    },
+    {
+      "block_id": "oxford-onemac-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He directed those who were doing the work to build the walls and encircle Mount Zion with squared stones, for better fortification; and they did so."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-4",
+      "type": "commentary",
+      "text": "10–11 : Jonathan restores the defenses built by Judas (4.60) and destroyed by Lysias (6.62).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-onemac-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then the foreigners who were in the strongholds that Bacchides had built fled;"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-5",
+      "type": "commentary",
+      "text": "12 : , cf. 9.50–53.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-onemac-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "all of them left their places and went back to their own lands."
+    },
+    {
+      "block_id": "oxford-onemac-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Only in Beth-zur did some remain who had forsaken the law and the commandments, for it served as a place of refuge."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-6",
+      "type": "commentary",
+      "text": "14 : , cf. 6.50.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-onemac-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Now King Alexander heard of all the promises that Demetrius had sent to Jonathan, and he heard of the battles that Jonathana and his brothers had fought, of the brave deeds that they had done, and of the troubles that they had endured."
+    },
+    {
+      "block_id": "oxford-onemac-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "So he said, “Shall we find another such man? Come now, we will make him our friend and ally.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And he wrote a letter and sent it to him, in the following words:"
+    },
+    {
+      "block_id": "oxford-onemac-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "“King Alexander to his brother Jonathan, greetings."
+    },
+    {
+      "block_id": "oxford-onemac-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "We have heard about you, that you are a mighty warrior and worthy to be our friend."
+    },
+    {
+      "block_id": "oxford-onemac-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And so we have appointed you today to be the high priest of your nation; you are to be called the king's Friend and you are to take our side and keep friendship with us.” He also sent him a purple robe and a golden crown."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-7",
+      "type": "commentary",
+      "text": "20 : , Alexander had no right in Jewish law to do this. , see 2.18n. , appropriate both for a (see 2.18n.) and for the high priest (Ex 28.5). , a gift: the high priest could wear a golden rosette and a “holy diadem” (Ex 28.36; 29.6) on the turban.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-onemac-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "So Jonathan put on the sacred vestments in the seventh month of the one hundred sixtieth year, at the festival of booths, and he recruited troops and equipped them with arms in abundance."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-8",
+      "type": "commentary",
+      "text": "21 : , Ex 28.1–39; 39.1–26. here began in spring, as the references to and the autumn (Lev 23.33–43) require, possibly in 153 but probably in 152 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-onemac-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When Demetrius heard of these things he was distressed and said,"
+    },
+    {
+      "block_id": "oxford-onemac-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "“What is this that we have done? Alexander has gotten ahead of us in forming a friendship with the Jews to strengthen himself."
+    },
+    {
+      "block_id": "oxford-onemac-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "I also will write them words of encouragement and promise them honor and gifts, so that I may have their help.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "So he sent a message to them in the following words: “King Demetrius to the nation of the Jews, greetings."
+    },
+    {
+      "block_id": "oxford-onemac-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Since you have kept your agreement with us and have continued your friendship with us, and have not sided with our enemies, we have heard of it and rejoiced."
+    },
+    {
+      "block_id": "oxford-onemac-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Now continue still to keep faith with us, and we will repay you with good for what you do for us."
+    },
+    {
+      "block_id": "oxford-onemac-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "We will grant you many immunities and give you gifts."
+    },
+    {
+      "block_id": "oxford-onemac-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "“I now free you and exempt all the Jews from payment of tribute and salt tax and crown levies,"
+    },
+    {
+      "block_id": "oxford-onemac-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "and instead of collecting the third of the grain and the half of the fruit of the trees that I should receive, I release them from this day and henceforth. I will not collect them from the land of Judah or from the three districts added to it from Samaria and Galilee, from this day and for all time."
+    },
+    {
+      "block_id": "oxford-onemac-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Jerusalem and its environs, its tithes and its revenues, shall be holy and free from tax."
+    },
+    {
+      "block_id": "oxford-onemac-10-32",
+      "type": "verse",
+      "number": 32,
+      "text": "I release also my control of the citadel in Jerusalem and give it to the high priest, so that he may station in it men of his own choice to guard it."
+    },
+    {
+      "block_id": "oxford-onemac-10-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And everyone of the Jews taken as a captive from the land of Judah into any part of my kingdom, I set free without payment; and let all officials cancel also the taxes on their livestock."
+    },
+    {
+      "block_id": "oxford-onemac-10-34",
+      "type": "verse",
+      "number": 34,
+      "text": "“All the festivals and sabbaths and new moons and appointed days, and the three days before a festival and the three after a festival—let them all be days of immunity and release for all the Jews who are in my kingdom."
+    },
+    {
+      "block_id": "oxford-onemac-10-35",
+      "type": "verse",
+      "number": 35,
+      "text": "No one shall have authority to exact anything from them or annoy any of them about any matter."
+    },
+    {
+      "block_id": "oxford-onemac-10-36",
+      "type": "verse",
+      "number": 36,
+      "text": "“Let Jews be enrolled in the king's forces to the number of thirty thousand men, and let the maintenance be given them that is due to all the forces of the king."
+    },
+    {
+      "block_id": "oxford-onemac-10-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Let some of them be stationed in the great strongholds of the king, and let some of them be put in positions of trust in the kingdom. Let their officers and leaders be of their own number, and let them live by their own laws, just as the king has commanded in the land of Judah."
+    },
+    {
+      "block_id": "oxford-onemac-10-38",
+      "type": "verse",
+      "number": 38,
+      "text": "“As for the three districts that have been added to Judea from the country of Samaria, let them be annexed to Judea so that they may be considered to be under one ruler and obey no other authority than the high priest."
+    },
+    {
+      "block_id": "oxford-onemac-10-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Ptolemais and the land adjoining it I have given as a gift to the sanctuary in Jerusalem, to meet the necessary expenses of the sanctuary."
+    },
+    {
+      "block_id": "oxford-onemac-10-40",
+      "type": "verse",
+      "number": 40,
+      "text": "I also grant fifteen thousand shekels of silver yearly out of the king's revenues from appropriate places."
+    },
+    {
+      "block_id": "oxford-onemac-10-41",
+      "type": "verse",
+      "number": 41,
+      "text": "And all the additional funds that the government officials have not paid as they did in the first years, they shall give from now on for the service of the temple."
+    },
+    {
+      "block_id": "oxford-onemac-10-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Moreover, the five thousand shekels of silver that my officials have received every year from the income of the services of the temple, this too is canceled, because it belongs to the priests who minister there."
+    },
+    {
+      "block_id": "oxford-onemac-10-43",
+      "type": "verse",
+      "number": 43,
+      "text": "And all who take refuge at the temple in Jerusalem, or in any of its precincts, because they owe money to the king or are in debt, let them be released and receive back all their property in my kingdom."
+    },
+    {
+      "block_id": "oxford-onemac-10-44",
+      "type": "verse",
+      "number": 44,
+      "text": "“Let the cost of rebuilding and restoring the structures of the sanctuary be paid from the revenues of the king."
+    },
+    {
+      "block_id": "oxford-onemac-10-45",
+      "type": "verse",
+      "number": 45,
+      "text": "And let the cost of rebuilding the walls of Jerusalem and fortifying it all around, and the cost of rebuilding the walls in Judea, also be paid from the revenues of the king.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-9",
+      "type": "commentary",
+      "text": "22–45 : Demetrius offers new, remarkable concessions (vv. 29–45). Some major concessions reappear in Demetrius II's proposals (11.30–37: the exemption from [v. 29; 11.35], from payments of and [v. 30; 11.34]), and therefore were probably not part of Demetrius I's offer. Demetrius's astonishing offer of exemption from (v. 29) is not granted until 13.39, as part of a peace agreement. Ceding (v. 32) (in fact never returned but captured by Simon, 13.50), the gift of its (v. 39; cf. v. 1), the annual grant of (v. 40), are also unlikely concessions at this stage. More realistically, Demetrius I may have conceded tax freedom and inviolability for (v. 31), as (v. 34), enrollment of Jews in the and administration with freedom to (vv. 36–37), the annexation to Judea of three Samarian districts (v. 38), various provisions for Temple finances and debtors taking sanctuary in the Temple (vv. 41–45), and the costs of and and (vv. 44–45).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 22,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-onemac-10-46",
+      "type": "verse",
+      "number": 46,
+      "text": "When Jonathan and the people heard these words, they did not believe or accept them, because they remembered the great wrongs that Demetrius had done in Israel and how much he had oppressed them."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-10",
+      "type": "commentary",
+      "text": "46 : , cf. chs 7–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-onemac-10-47",
+      "type": "verse",
+      "number": 47,
+      "text": "They favored Alexander, because he had been the first to speak peaceable words to them, and they remained his allies all his days."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-11",
+      "type": "commentary",
+      "text": "47 : , in fact, Demetrius had been (v. 3). The Greek perhaps means that Alexander provided the original opportunity for peace.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-onemac-10-48",
+      "type": "verse",
+      "number": 48,
+      "text": "Now King Alexander assembled large forces and encamped opposite Demetrius."
+    },
+    {
+      "block_id": "oxford-onemac-10-49",
+      "type": "verse",
+      "number": 49,
+      "text": "The two kings met in battle, and the army of Demetrius fled, and Alexander pursued him and defeated them."
+    },
+    {
+      "block_id": "oxford-onemac-10-50",
+      "type": "verse",
+      "number": 50,
+      "text": "He pressed the battle strongly until the sun set, and on that day Demetrius fell."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-1",
+      "type": "commentary",
+      "text": "10.1–50: Alexander Epiphanes and Demetrius I compete for Jonathan's support.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-12",
+      "type": "commentary",
+      "text": "48–50 : This follows from v. 2. The battleground is unknown; see Josephus, 13.58–61. The date is probably summer 150 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 48,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-onemac-10-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Then Alexander sent ambassadors to Ptolemy king of Egypt with the following message:"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-14",
+      "type": "commentary",
+      "text": "51 : VI Philometor (180–145 ), cf. 1.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-onemac-10-52",
+      "type": "verse",
+      "number": 52,
+      "text": "“Since I have returned to my kingdom and have taken my seat on the throne of my ancestors, and established my rule—for I crushed Demetrius and gained control of our country;"
+    },
+    {
+      "block_id": "oxford-onemac-10-53",
+      "type": "verse",
+      "number": 53,
+      "text": "I met him in battle, and he and his army were crushed by us, and we have taken our seat on the throne of his kingdom—"
+    },
+    {
+      "block_id": "oxford-onemac-10-54",
+      "type": "verse",
+      "number": 54,
+      "text": "now therefore let us establish friendship with one another; give me now your daughter as my wife, and I will become your son-in-law, and will make gifts to you and to her in keeping with your position.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-15",
+      "type": "commentary",
+      "text": "54 : , Cleopatra Thea (v. 57).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-onemac-10-55",
+      "type": "verse",
+      "number": 55,
+      "text": "Ptolemy the king replied and said, “Happy was the day on which you returned to the land of your ancestors and took your seat on the throne of their kingdom."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-16",
+      "type": "commentary",
+      "text": "55 : Ptolemy recognizes Alexander's legitimacy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 55,
+      "verse_end": 55
+    },
+    {
+      "block_id": "oxford-onemac-10-56",
+      "type": "verse",
+      "number": 56,
+      "text": "And now I will do for you as you wrote, but meet me at Ptolemais, so that we may see one another, and I will become your father-in-law, as you have said.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-17",
+      "type": "commentary",
+      "text": "56 : (cf. v. 1), a symbol of Egyptian presence on the coast.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 56,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-onemac-10-57",
+      "type": "verse",
+      "number": 57,
+      "text": "So Ptolemy set out from Egypt, he and his daughter Cleopatra, and came to Ptolemais in the one hundred sixty-second year."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-18",
+      "type": "commentary",
+      "text": "57 : , probably summer-autumn 150 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 57,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-onemac-10-58",
+      "type": "verse",
+      "number": 58,
+      "text": "King Alexander met him, and Ptolemy gave him his daughter Cleopatra in marriage, and celebrated her wedding at Ptolemais with great pomp, as kings do."
+    },
+    {
+      "block_id": "oxford-onemac-10-59",
+      "type": "verse",
+      "number": 59,
+      "text": "Then King Alexander wrote to Jonathan to come and meet him."
+    },
+    {
+      "block_id": "oxford-onemac-10-60",
+      "type": "verse",
+      "number": 60,
+      "text": "So he went with pomp to Ptolemais and met the two kings; he gave them and their Friends silver and gold and many gifts, and found favor with them."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-19",
+      "type": "commentary",
+      "text": "60 : (i.e., Jonathan); , Alexander and Ptolemy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 60,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-onemac-10-61",
+      "type": "verse",
+      "number": 61,
+      "text": "A group of malcontents from Israel, renegades, gathered together against him to accuse him; but the king paid no attention to them."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-20",
+      "type": "commentary",
+      "text": "61 : , see 1.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 61,
+      "verse_end": 61
+    },
+    {
+      "block_id": "oxford-onemac-10-62",
+      "type": "verse",
+      "number": 62,
+      "text": "The king gave orders to take off Jonathan's garments and to clothe him in purple, and they did so."
+    },
+    {
+      "block_id": "oxford-onemac-10-63",
+      "type": "verse",
+      "number": 63,
+      "text": "The king also seated him at his side; and he said to his officers, “Go out with him into the middle of the city and proclaim that no one is to bring charges against him about any matter, and let no one annoy him for any reason.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-64",
+      "type": "verse",
+      "number": 64,
+      "text": "When his accusers saw the honor that was paid him, in accord with the proclamation, and saw him clothed in purple, they all fled."
+    },
+    {
+      "block_id": "oxford-onemac-10-65",
+      "type": "verse",
+      "number": 65,
+      "text": "Thus the king honored him and enrolled him among his chief Friends, and made him general and governor of the province."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-21",
+      "type": "commentary",
+      "text": "65 : , a promotion, cf. v. 20. (i.e., military and civil head of the , such as Judea). Jonathan is now a Seleucid official.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 65,
+      "verse_end": 65
+    },
+    {
+      "block_id": "oxford-onemac-10-66",
+      "type": "verse",
+      "number": 66,
+      "text": "And Jonathan returned to Jerusalem in peace and gladness."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-13",
+      "type": "commentary",
+      "text": "10.51-66: Alexander, Ptolemy, and Jonathan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 51,
+      "verse_end": 66
+    },
+    {
+      "block_id": "oxford-onemac-10-67",
+      "type": "verse",
+      "number": 67,
+      "text": "In the one hundred sixty-fifth year Demetrius son of Demetrius came from Crete to the land of his ancestors."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-23",
+      "type": "commentary",
+      "text": "67 : probably began in autumn 148 ; II Nicator to Cilicia in spring 147 with Cretan mercenaries led by Lasthenes (cf. 11.32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 67,
+      "verse_end": 67
+    },
+    {
+      "block_id": "oxford-onemac-10-68",
+      "type": "verse",
+      "number": 68,
+      "text": "When King Alexander heard of it, he was greatly distressed and returned to Antioch."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-24",
+      "type": "commentary",
+      "text": "68 : , the Seleucid capital.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 68,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-onemac-10-69",
+      "type": "verse",
+      "number": 69,
+      "text": "And Demetrius appointed Apollonius the governor of Coelesyria, and he assembled a large force and encamped against Jamnia. Then he sent the following message to the high priest Jonathan:"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-25",
+      "type": "commentary",
+      "text": "69 : , known from Polybius ( 31.11.19). , lit. “hollow Syria” between the Lebanon and Anti-Lebanon ranges, then with wider reference. , see 4.15n. Demetrius has to control Jonathan before attacking Alexander.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 69,
+      "verse_end": 69
+    },
+    {
+      "block_id": "oxford-onemac-10-70",
+      "type": "verse",
+      "number": 70,
+      "text": "“You are the only one to rise up against us, and I have fallen into ridicule and disgrace because of you. Why do you assume authority against us in the hill country?"
+    },
+    {
+      "block_id": "oxford-onemac-10-71",
+      "type": "verse",
+      "number": 71,
+      "text": "If you now have confidence in your forces, come down to the plain to meet us, and let us match strength with each other there, for I have with me the power of the cities."
+    },
+    {
+      "block_id": "oxford-onemac-10-72",
+      "type": "verse",
+      "number": 72,
+      "text": "Ask and learn who I am and who the others are that are helping us. People will tell you that you cannot stand before us, for your ancestors were twice put to flight in their own land."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-26",
+      "type": "commentary",
+      "text": "72 : , perhaps referring to Judas's defeats, 6.47; 9.6–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 72,
+      "verse_end": 72
+    },
+    {
+      "block_id": "oxford-onemac-10-73",
+      "type": "verse",
+      "number": 73,
+      "text": "And now you will not be able to withstand my cavalry and such an army in the plain, where there is no stone or pebble, or place to flee.”"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-27",
+      "type": "commentary",
+      "text": "73 : (i.e., for ammunition).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 73,
+      "verse_end": 73
+    },
+    {
+      "block_id": "oxford-onemac-10-74",
+      "type": "verse",
+      "number": 74,
+      "text": "When Jonathan heard the words of Apollonius, his spirit was aroused. He chose ten thousand men and set out from Jerusalem, and his brother Simon met him to help him."
+    },
+    {
+      "block_id": "oxford-onemac-10-75",
+      "type": "verse",
+      "number": 75,
+      "text": "He encamped before Joppa, but the people of the city closed its gates, for Apollonius had a garrison in Joppa."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-28",
+      "type": "commentary",
+      "text": "75 : (cf. 2 Macc 3–9), on the coast north of Jamnia, Azotus, and Ascalon; Jonathan thus separates Apollonius from Demetrius.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 75,
+      "verse_end": 75
+    },
+    {
+      "block_id": "oxford-onemac-10-76",
+      "type": "verse",
+      "number": 76,
+      "text": "So they fought against it, and the people of the city became afraid and opened the gates, and Jonathan gained possession of Joppa."
+    },
+    {
+      "block_id": "oxford-onemac-10-77",
+      "type": "verse",
+      "number": 77,
+      "text": "When Apollonius heard of it, he mustered three thousand cavalry and a large army, and went to Azotus as though he were going farther. At the same time he advanced into the plain, for he had a large troop of cavalry and put confidence in it."
+    },
+    {
+      "block_id": "oxford-onemac-10-78",
+      "type": "verse",
+      "number": 78,
+      "text": "Jonathan pursued him to Azotus, and the armies engaged in battle."
+    },
+    {
+      "block_id": "oxford-onemac-10-79",
+      "type": "verse",
+      "number": 79,
+      "text": "Now Apollonius had secretly left a thousand cavalry behind them."
+    },
+    {
+      "block_id": "oxford-onemac-10-80",
+      "type": "verse",
+      "number": 80,
+      "text": "Jonathan learned that there was an ambush behind him, for they surrounded his army and shot arrows at his men from early morning until late afternoon."
+    },
+    {
+      "block_id": "oxford-onemac-10-81",
+      "type": "verse",
+      "number": 81,
+      "text": "But his men stood fast, as Jonathan had commanded, and the enemy's horses grew tired."
+    },
+    {
+      "block_id": "oxford-onemac-10-82",
+      "type": "verse",
+      "number": 82,
+      "text": "Then Simon brought forward his force and engaged the phalanx in battle (for the cavalry was exhausted); they were overwhelmed by him and fled,"
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-29",
+      "type": "commentary",
+      "text": "82 : Simon's forces complete the rout.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 82,
+      "verse_end": 82
+    },
+    {
+      "block_id": "oxford-onemac-10-83",
+      "type": "verse",
+      "number": 83,
+      "text": "and the cavalry was dispersed in the plain. They fled to Azotus and entered Beth-dagon, the temple of their idol, for safety."
+    },
+    {
+      "block_id": "oxford-onemac-10-84",
+      "type": "verse",
+      "number": 84,
+      "text": "But Jonathan burned Azotus and the surrounding towns and plundered them; and the temple of Dagon, and those who had taken refuge in it, he burned with fire."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-30",
+      "type": "commentary",
+      "text": "83–84 : , see 4.15n. , lit. “the house of Dagon” (a West Semitic and later a Philistine god) at Azotus/Ashdod; see 1 Sam 5.1–5; cf. Judg 16.23. 1 Macc emphasizes Maccabean hostility to paganism.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 83,
+      "verse_end": 84
+    },
+    {
+      "block_id": "oxford-onemac-10-85",
+      "type": "verse",
+      "number": 85,
+      "text": "The number of those who fell by the sword, with those burned alive, came to eight thousand."
+    },
+    {
+      "block_id": "oxford-onemac-10-86",
+      "type": "verse",
+      "number": 86,
+      "text": "Then Jonathan left there and encamped against Askalon, and the people of the city came out to meet him with great pomp."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-31",
+      "type": "commentary",
+      "text": "86 : , earlier Ashkelon, ca. 10 mi (16 km) south of Azotus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 86,
+      "verse_end": 86
+    },
+    {
+      "block_id": "oxford-onemac-10-87",
+      "type": "verse",
+      "number": 87,
+      "text": "He and those with him then returned to Jerusalem with a large amount of booty."
+    },
+    {
+      "block_id": "oxford-onemac-10-88",
+      "type": "verse",
+      "number": 88,
+      "text": "When King Alexander heard of these things, he honored Jonathan still more;"
+    },
+    {
+      "block_id": "oxford-onemac-10-89",
+      "type": "verse",
+      "number": 89,
+      "text": "and he sent to him a golden buckle, such as it is the custom to give to the King's Kinsmen. He also gave him Ekron and all its environs as his possession."
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-22",
+      "type": "commentary",
+      "text": "10.67–89: Jonathan defeats Apollonius.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 67,
+      "verse_end": 89
+    },
+    {
+      "block_id": "oxford-onemac-10-h1kj-32",
+      "type": "commentary",
+      "text": "88–89 : , to fasten the cloak; cf. 11.58. , see 2.18. , Tel Miqne, a former Philistine city (Josh 14.3) ca. 22 mi (35 km) west of Jerusalem. Judea begins to extend its territory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 10
+      },
+      "verse_start": 88,
+      "verse_end": 89
+    }
+  ]
+}

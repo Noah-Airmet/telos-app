@@ -1,0 +1,410 @@
+{
+  "document_id": "prov-30",
+  "title": "Proverbs 30",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-30-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The words of Agur son of Jakeh. An oracle. Thus says the man: I am weary, O God, I am weary, O God. How can I prevail?"
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-2",
+      "type": "commentary",
+      "text": "1 : The Hebrew of this verse is difficult, prompting the slight emendation of one word (NRSV ) to read “the Massaite,” that is, as the ethnic designation of a north Arabian people descended from Ishmael (Gen 25.14; 1 Chr 1.30; cf. 31.1n.). , lit., “oracle of the man,” a phrase found elsewhere in the last words of David (2 Sam 23.1) and oracles of Balaam (Num 24.3–15). An is a genre common to prophecy, an utterance inspired by God (e.g., Jer 23.4, 11–12; Isa 56.8; Zech 12.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-prov-30-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Surely I am too stupid to be human; I do not have human understanding."
+    },
+    {
+      "block_id": "oxford-prov-30-3",
+      "type": "verse",
+      "number": 3,
+      "text": "I have not learned wisdom, nor have I knowledge of the holy ones."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-3",
+      "type": "commentary",
+      "text": "2–3 : , brutish, more like an animal than like God; see 12.1; Pss 22.6; 73.22; 92.5–6; Job 25.4–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-30-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Who has ascended to heaven and come down? Who has gathered the wind in the hollow of the hand? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is the person's name? And what is the name of the person's child? Surely you know!"
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-4",
+      "type": "commentary",
+      "text": "4 : Rhetorical questions to which the answer is “only God”; see Job 38–41; Isa 40.12–14. , lit., “son,” a student of wisdom: in this case, Agur. See 1.8–9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-30-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Every word of God proves true; he is a shield to those who take refuge in him."
+    },
+    {
+      "block_id": "oxford-prov-30-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Do not add to his words, or else he will rebuke you, and you will be found a liar."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-5",
+      "type": "commentary",
+      "text": "5–6 : , i.e., pure, as with precious metals refined by smelting. , see Deut 4.2; 12.32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-prov-30-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Two things I ask of you; do not deny them to me before I die:"
+    },
+    {
+      "block_id": "oxford-prov-30-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that I need,"
+    },
+    {
+      "block_id": "oxford-prov-30-9",
+      "type": "verse",
+      "number": 9,
+      "text": "or I shall be full, and deny you, and say, “Who is the Lord?” or I shall be poor, and steal, and profane the name of my God."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-6",
+      "type": "commentary",
+      "text": "7–9 : The only prayer in Proverbs.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 7,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-30-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Do not slander a servant to a master, or the servant will curse you, and you will be held guilty."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-7",
+      "type": "commentary",
+      "text": "10 : , accusations made secretly against another; see Ps 101.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-30-11",
+      "type": "verse",
+      "number": 11,
+      "text": "There are those who curse their fathers and do not bless their mothers."
+    },
+    {
+      "block_id": "oxford-prov-30-12",
+      "type": "verse",
+      "number": 12,
+      "text": "There are those who are pure in their own eyes yet are not cleansed of their filthiness."
+    },
+    {
+      "block_id": "oxford-prov-30-13",
+      "type": "verse",
+      "number": 13,
+      "text": "There are those—how lofty are their eyes, how high their eyelids lift!—"
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-9",
+      "type": "commentary",
+      "text": "13 : High or lifted eyes, see 6.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-30-14",
+      "type": "verse",
+      "number": 14,
+      "text": "there are those whose teeth are swords, whose teeth are knives, to devour the poor from off the earth, the needy from among mortals."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-8",
+      "type": "commentary",
+      "text": "11–14 : A list of wretched people. Cursing one's parents was a capital offense; see Ex 21.17; Deut 27.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 11,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-prov-30-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The leech has two daughters; “Give, give,” they cry. Three things are never satisfied; four never say, “Enough”:"
+    },
+    {
+      "block_id": "oxford-prov-30-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Sheol, the barren womb, the earth ever thirsty for water, and the fire that never says, “Enough.”"
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-10",
+      "type": "commentary",
+      "text": "15–16 : , a blood-sucking worm with , or suckers to attach and draw blood. , see 1.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-30-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The eye that mocks a father and scorns to obey a mother will be pecked out by the ravens of the valley and eaten by the vultures."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-11",
+      "type": "commentary",
+      "text": "17 : , carrion birds.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-30-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Three things are too wonderful for me; four I do not understand:"
+    },
+    {
+      "block_id": "oxford-prov-30-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a girl."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-12",
+      "type": "commentary",
+      "text": "18–19 : A numerical proverb about four , or movements, that are graceful without evident mechanics and (usually) leave no trace behind (cf. Wis 5.9–12). Heb “ʿalmah” (NRSV ) is a “young woman”; see Gen 24.43; Ex 2.8; Song 1.3; 6.8; Isa 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-30-20",
+      "type": "verse",
+      "number": 20,
+      "text": "This is the way of an adulteress: she eats, and wipes her mouth, and says, “I have done no wrong.”"
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-13",
+      "type": "commentary",
+      "text": "20 : Eating is a metaphor for sex; see 9.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-30-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Under three things the earth trembles; under four it cannot bear up:"
+    },
+    {
+      "block_id": "oxford-prov-30-22",
+      "type": "verse",
+      "number": 22,
+      "text": "a slave when he becomes king, and a fool when glutted with food;"
+    },
+    {
+      "block_id": "oxford-prov-30-23",
+      "type": "verse",
+      "number": 23,
+      "text": "an unloved woman when she gets a husband, and a maid when she succeeds her mistress."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-14",
+      "type": "commentary",
+      "text": "21–23 : World-turned-upsidedown situations, see 19.10. , see Hagar and Sarah (Gen 16; 21) and Rachel and Bilhah (Gen 30.1–23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-30-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Four things on earth are small, yet they are exceedingly wise:"
+    },
+    {
+      "block_id": "oxford-prov-30-25",
+      "type": "verse",
+      "number": 25,
+      "text": "the ants are a people without strength, yet they provide their food in the summer;"
+    },
+    {
+      "block_id": "oxford-prov-30-26",
+      "type": "verse",
+      "number": 26,
+      "text": "the badgers are a people without power, yet they make their homes in the rocks;"
+    },
+    {
+      "block_id": "oxford-prov-30-27",
+      "type": "verse",
+      "number": 27,
+      "text": "the locusts have no king, yet all of them march in rank;"
+    },
+    {
+      "block_id": "oxford-prov-30-28",
+      "type": "verse",
+      "number": 28,
+      "text": "the lizard can be grasped in the hand, yet it is found in kings’ palaces."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-15",
+      "type": "commentary",
+      "text": "24–28 : Small and wise creatures, described as . , see 6.6–8n. Without leadership, move swiftly in vast swarms (e.g., Ex 10; Judg 6.5; Joel 2.7–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 24,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-30-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Three things are stately in their stride; four are stately in their gait:"
+    },
+    {
+      "block_id": "oxford-prov-30-30",
+      "type": "verse",
+      "number": 30,
+      "text": "the lion, which is mightiest among wild animals and does not turn back before any;"
+    },
+    {
+      "block_id": "oxford-prov-30-31",
+      "type": "verse",
+      "number": 31,
+      "text": "the strutting rooster, the he-goat, and a king striding beforea his people."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-16",
+      "type": "commentary",
+      "text": "29–31 : as lion, see 19.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 29,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-prov-30-32",
+      "type": "verse",
+      "number": 32,
+      "text": "If you have been foolish, exalting yourself, or if you have been devising evil, put your hand on your mouth."
+    },
+    {
+      "block_id": "oxford-prov-30-33",
+      "type": "verse",
+      "number": 33,
+      "text": "For as pressing milk produces curds, and pressing the nose produces blood, so pressing anger produces strife."
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-1",
+      "type": "commentary",
+      "text": "30.1–33: The words of Agur, son of Jaqeh, an otherwise unknown sage. The latter portion of the chapter (vv. 15–33) is comprised largely of numerical proverbs, in which two numbers occur in parallel (x and x+1) and the second number governs the content (vv. 15–16,18–19,21–23,24–28,29–31; cf. 6.16–19; Job 5.19–22; Sir 25.7–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-prov-30-h1kj-17",
+      "type": "commentary",
+      "text": "32–33 : , see 12.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 30
+      },
+      "verse_start": 32,
+      "verse_end": 33
+    }
+  ]
+}

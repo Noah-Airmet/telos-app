@@ -1,0 +1,326 @@
+{
+  "document_id": "jer-16",
+  "title": "Jeremiah 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord came to me:"
+    },
+    {
+      "block_id": "oxford-jer-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall not take a wife, nor shall you have sons or daughters in this place."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-4",
+      "type": "commentary",
+      "text": "1–2 : The command not to marry or have children is a poignant sign of death, especially in light of the mandate in Gen 1.28 and the conviction that progeny is a sign of divine blessing (e.g., Gen 15.5; 22.17). , see also 7.3,6,7; 14.13; 19.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jer-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For thus says the Lord concerning the sons and daughters who are born in this place, and concerning the mothers who bear them and the fathers who beget them in this land:"
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , a catchword, also used in 15.8–9,10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-jer-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They shall die of deadly diseases. They shall not be lamented, nor shall they be buried; they shall become like dung on the surface of the ground. They shall perish by the sword and by famine, and their dead bodies shall become food for the birds of the air and for the wild animals of the earth."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-6",
+      "type": "commentary",
+      "text": "4 : Common themes in Jeremiah relating to the desecration of corpses; cf. 7.33; 8.2; 9.21; 19.7; 22.18; 25.33. , characteristic language; see, e.g., 5.12; 11.22; 14.12–16; 21.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jer-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For thus says the Lord: Do not enter the house of mourning, or go to lament, or bemoan them; for I have taken away my peace from this people, says the Lord, my steadfast love and mercy."
+    },
+    {
+      "block_id": "oxford-jer-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Both great and small shall die in this land; they shall not be buried, and no one shall lament for them; there shall be no gashing, no shaving of the head for them."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-7",
+      "type": "commentary",
+      "text": "6 : and , actions of mourning; cf. 7.29; Lev 19.28; Deut 14.1; Hos 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-jer-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "No one shall break bread for the mourner, to offer comfort for the dead; nor shall anyone give them the cup of consolation to drink for their fathers or their mothers."
+    },
+    {
+      "block_id": "oxford-jer-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You shall not go into the house of feasting to sit with them, to eat and drink."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-8",
+      "type": "commentary",
+      "text": "7–8 : The house of mourning, with its meal rituals, is connected with the , lit., “house of drinking,” with emphasis upon the consumption of wine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For thus says the Lord of hosts, the God of Israel: I am going to banish from this place, in your days and before your eyes, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-9",
+      "type": "commentary",
+      "text": "9 : See 7.34n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-jer-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And when you tell this people all these words, and they say to you, “Why has the Lord pronounced all this great evil against us? What is our iniquity? What is the sin that we have committed against the Lord our God?”"
+    },
+    {
+      "block_id": "oxford-jer-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "then you shall say to them: It is because your ancestors have forsaken me, says the Lord, and have gone after other gods and have served and worshiped them, and have forsaken me and have not kept my law;"
+    },
+    {
+      "block_id": "oxford-jer-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "and because you have behaved worse than your ancestors, for here you are, every one of you, following your stubborn evil will, refusing to listen to me."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-10",
+      "type": "commentary",
+      "text": "10–12 : Cf. Deut. 4.25–28; 29.24–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-11",
+      "type": "commentary",
+      "text": "12 : Cf. 11.6–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jer-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Therefore I will hurl you out of this land into a land that neither you nor your ancestors have known, and there you shall serve other gods day and night, for I will show you no favor."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-12",
+      "type": "commentary",
+      "text": "13 : The punishment will fit the crime.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jer-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Therefore, the days are surely coming, says the Lord, when it shall no longer be said, “As the Lord lives who brought the people of Israel up out of the land of Egypt,”"
+    },
+    {
+      "block_id": "oxford-jer-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "but “As the Lord lives who brought the people of Israel up out of the land of the north and out of all the lands where he had driven them.” For I will bring them back to their own land that I gave to their ancestors."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-13",
+      "type": "commentary",
+      "text": "14–15 : A brief interpolation from 23.7–8; see note there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I am now sending for many fishermen, says the Lord, and they shall catch them; and afterward I will send for many hunters, and they shall hunt them from every mountain and every hill, and out of the clefts of the rocks."
+    },
+    {
+      "block_id": "oxford-jer-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For my eyes are on all their ways; they are not hidden from my presence, nor is their iniquity concealed from my sight."
+    },
+    {
+      "block_id": "oxford-jer-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And I will doubly repay their iniquity and their sin, because they have polluted my land with the carcasses of their detestable idols, and have filled my inheritance with their abominations."
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-14",
+      "type": "commentary",
+      "text": "16–18 : Fishing and hunting are metaphors for divine judgment; cf. Hab 1.14–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 16,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-15",
+      "type": "commentary",
+      "text": "18 : Double punishment is warranted for the offense; cf. Ex 22.7; Isa 40.2. Since dead carcasses pollute, as do things that are “detestable” (Lev 11.10–12), the dead carcasses of detestable things ( ) would be particularly defiling.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "O Lord, my strength and my stronghold, my refuge in the day of trouble, to you shall the nations come from the ends of the earth and say: Our ancestors have inherited nothing but lies, worthless things in which there is no profit."
+    },
+    {
+      "block_id": "oxford-jer-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Can mortals make for themselves gods? Such are no gods!"
+    },
+    {
+      "block_id": "oxford-jer-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "“Therefore I am surely going to teach them, this time I am going to teach them my power and my might, and they shall know that my name is the Lord.”"
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–17.27: Accusation and lament. The unit has three parts: 11.1–12.17; 13.1–15.21; and 16.1–17.27. Each begins with a prose sermon or prose account that highlights divine judgment, followed by one or more laments (11.18–12.13; 15.15–21; 17.14–18). This juxtaposition creates a degree of narrative coherence. At God's command, Jeremiah challenges aspects of Israel's cherished beliefs, traditions, and institutions; the people retaliate, determined to silence God's voice; and Jeremiah cries out to God for justice, declaring his innocence and his adversaries’ culpability.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-2",
+      "type": "commentary",
+      "text": "16.1–17.27: The end of ordinary life. Although the third and final section of the larger literary unit (11.1–17.27) is diverse and fragmented, it has several unifying features. Like earlier sections, it begins with a prose discourse (16.1–18) that triggers responses, including laments. In this case, the section also ends with a prose piece (17.19–27). Jeremiah 16.1–17.27 continues to focus on facets of uprooting and tearing down Judah's preexilic world (1.10), a world that had already ended for the writers and first readers of Jeremiah. The literary unit addresses the pressing questions of survivors— why their world had collapsed, what it meant, and how they could cope in their dangerous new world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–21: Further prohibitions for Jeremiah as sign-acts of coming judgment. Like the prohibition of intercession, now Jeremiah is prohibited from the normal patterns of family life and mourning rituals as signs of the coming judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-16-h1kj-16",
+      "type": "commentary",
+      "text": "19–21 : A brief concluding hymn of praise and divine oath regarding the conversion of the nations; cf. Isa 2.2; 60.3; 66.18; Mic 4.2; Zech 8.22; 14.16; Ps 86.9. , a term used of idols of false gods (Deut 22.31; Ps 31.6). , an allusion to the Canaanite god Baal; see 2.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 16
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    }
+  ]
+}

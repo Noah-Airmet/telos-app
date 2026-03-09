@@ -1,0 +1,350 @@
+{
+  "document_id": "onechr-15",
+  "title": "onechr 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onechr-15-1",
+      "type": "verse",
+      "number": 1,
+      "text": "David built houses for himself in the city of David, and he prepared a place for the ark of God and pitched a tent for it."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-2",
+      "type": "commentary",
+      "text": "15.1 : The houses David builds for himself most likely refer to domiciles in addition to the palace built by Huram of Tyre (14.1). David’s construction activity establishes a positive pattern for other kings to follow (2 Chr 11.5–12; 14.6; 26.2; 32.27–30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-onechr-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then David commanded that no one but the Levites were to carry the ark of God, for the Lord had chosen them to carry the ark of the Lord and to minister to him forever."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-3",
+      "type": "commentary",
+      "text": "2 : David’s command that carry the ark responds to Uzzah’s unfortunate death (13.10) through the lens of the Priestly material (Num 4.4–15; 7.9), the implication being that the proper personnel had not been involved in the first attempt to bring the ark into the City of David (v. 13). The following verses detail what personnel and actions David deems necessary to install the ark successfully.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-onechr-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "David assembled all Israel in Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-4",
+      "type": "commentary",
+      "text": "3 : The reference to a for the ark of God implies a sacred precinct or sanctuary (Deut 12.5,11; 14.23–25; 15.20; Josh 9.27; 1 Chr 21.22,25; 2 Chr 3.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-onechr-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then David gathered together the descendants of Aaron and the Levites:"
+    },
+    {
+      "block_id": "oxford-onechr-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "of the sons of Kohath, Uriel the chief, with one hundred twenty of his kindred;"
+    },
+    {
+      "block_id": "oxford-onechr-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "of the sons of Merari, Asaiah the chief, with two hundred twenty of his kindred;"
+    },
+    {
+      "block_id": "oxford-onechr-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "of the sons of Gershom, Joel the chief, with one hundred thirty of his kindred;"
+    },
+    {
+      "block_id": "oxford-onechr-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "of the sons of Elizaphan, Shemaiah the chief, with two hundred of his kindred;"
+    },
+    {
+      "block_id": "oxford-onechr-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "of the sons of Hebron, Eliel the chief, with eighty of his kindred;"
+    },
+    {
+      "block_id": "oxford-onechr-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "of the sons of Uzziel, Amminadab the chief, with one hundred twelve of his kindred."
+    },
+    {
+      "block_id": "oxford-onechr-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "David summoned the priests Zadok and Abiathar, and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-5",
+      "type": "commentary",
+      "text": "11 : The two priests appear together during the first part of the reign of David (15.29,35; 18.16; 19.11; 20.25). Each of these priests headed or represented major priestly houses. See further 6.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-onechr-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "He said to them, “You are the heads of families of the Levites; sanctify yourselves, you and your kindred, so that you may bring up the ark of the Lord, the God of Israel, to the place that I have prepared for it."
+    },
+    {
+      "block_id": "oxford-onechr-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Because you did not carry it the first time, the Lord our God burst out against us, because we did not give it proper care.”"
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-6",
+      "type": "commentary",
+      "text": "13 : The Chronicler plays on Hebrew roots “prts,” “to break out” (13.3,11; 14.11; 15.13) and “drsh,” “to seek.” The earlier attempt to redress neglect of the ark—“for we did not seek (drsh) it in the days of Saul” (13.3)—was brought to a swift end by the divine outbreak ( , Heb “prts”; 13.10–11) against Uzzah. As later events made clear (distinctively in Chronicles), the problem was not Israel’s communal decision “to seek” the ark, but the manner in which the people involved handled the arrangements. In the new attempt David insists on the intimate involvement of the priests and Levites to rectify the deficiency.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-onechr-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So the priests and the Levites sanctified themselves to bring up the ark of the Lord, the God of Israel."
+    },
+    {
+      "block_id": "oxford-onechr-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded according to the word of the Lord."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-7",
+      "type": "commentary",
+      "text": "15 : , the Chronicler asserts that the law of Moses was followed (Num 7.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-onechr-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "David also commanded the chiefs of the Levites to appoint their kindred as the singers to play on musical instruments, on harps and lyres and cymbals, to raise loud sounds of joy."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-8",
+      "type": "commentary",
+      "text": "16 : figure prominently in the Chronicler’s ritual liturgies (16.42; 2 Chr 5.13; 7.6; 23.13; 34.12). In some texts the instruments are associated with David himself (2 Chr 29.24,26–27; Neh 12.36; cf. Am 6.5). Though David could not build the Temple (ch 17; 2 Sam 7), the Chronicler emphasizes here and elsewhere that David initiated the project, in this case by establishing the guilds of levitical Temple musicians.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-onechr-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So the Levites appointed Heman son of Joel; and of his kindred Asaph son of Berechiah; and of the sons of Merari, their kindred, Ethan son of Kushaiah;"
+    },
+    {
+      "block_id": "oxford-onechr-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and with them their kindred of the second order, Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, and Mikneiah, and the gatekeepers Obededom and Jeiel."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-9",
+      "type": "commentary",
+      "text": "18 : Many of these musicians are mentioned again in vv. 20–21 and 16.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-onechr-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The singers Heman, Asaph, and Ethan were to sound bronze cymbals;"
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-11",
+      "type": "commentary",
+      "text": "19 : , and , see 6.33n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-onechr-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play harps according to Alamoth;"
+    },
+    {
+      "block_id": "oxford-onechr-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "but Mattithiah, Eliphelehu, Mikneiah, Obed‐edom, Jeiel, and Azaziah were to lead with lyres according to the Sheminith."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-10",
+      "type": "commentary",
+      "text": "20–21 : and are obscure musical terms found in Psalms (6.1; 12.1; 46.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-onechr-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Chenaniah, leader of the Levites in music, was to direct the music, for he understood it."
+    },
+    {
+      "block_id": "oxford-onechr-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Berechiah and Elkanah were to be gatekeepers for the ark."
+    },
+    {
+      "block_id": "oxford-onechr-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, were to blow the trumpets before the ark of God. Obed‐edom and Jehiah also were to be gatekeepers for the ark."
+    },
+    {
+      "block_id": "oxford-onechr-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "So David and the elders of Israel, and the commanders of the thousands, went to bring up the ark of the covenant of the Lord from the house of Obed‐edom with rejoicing."
+    },
+    {
+      "block_id": "oxford-onechr-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And because God helped the Levites who were carrying the ark of the covenant of the Lord, they sacrificed seven bulls and seven rams."
+    },
+    {
+      "block_id": "oxford-onechr-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "David was clothed with a robe of fine linen, as also were all the Levites who were carrying the ark, and the singers, and Chenaniah the leader of the music of the singers; and David wore a linen ephod."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-13",
+      "type": "commentary",
+      "text": "27 : : Against the scantily clad David of 2 Sam 6.20, the fully clothed David of Chronicles wears a priestly vestment, as befitting one leading a ritual procession (Ex 28.6–14, 39–43; Sir 45:8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-onechr-15-28",
+      "type": "verse",
+      "number": 28,
+      "text": "So all Israel brought up the ark of the covenant of the Lord with shouting, to the sound of the horn, trumpets, and cymbals, and made loud music on harps and lyres."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-12",
+      "type": "commentary",
+      "text": "25–28 : The Chronicler rewrites 2 Sam 6.12–15 to underscore the broad support for David’s campaign to complete the transfer of the ark. The elaborate apparel worn by the Levites in Chronicles contrasts markedly with that depicted in Samuel (see Ex 28.6–14,39–43; Sir 45.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-onechr-15-29",
+      "type": "verse",
+      "number": 29,
+      "text": "As the ark of the covenant of the Lord came to the city of David, Michal daughter of Saul looked out of the window, and saw King David leaping and dancing; and she despised him in her heart."
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-1",
+      "type": "commentary",
+      "text": "15.1–16.3: David and the ark, Part 2. Having been successful in war and blessed by God, David turns his attention again to the matter of the ark. In the ancient Near East successful kings were expected to honor the deities who led them by supporting and endowing places of worship. Much of chs 15–16, which supplements material from 2 Sam 6 with original material concerning the Levites, elaborates on this very point.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-onechr-15-h1kj-14",
+      "type": "commentary",
+      "text": "15.29–16.3: Michal and all Israel. A significant abridgment of 2 Sam 6.16–23, omitting the details of how Michal mocked David.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 15
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    }
+  ]
+}

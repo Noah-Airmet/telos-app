@@ -1,0 +1,115 @@
+{
+  "document_id": "ps-110",
+  "title": "Psalms 110",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-110-heading-psalm-111",
+      "type": "heading",
+      "text": "Psalm 111"
+    },
+    {
+      "block_id": "oxford-ps-110-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord says to my lord, “Sit at my right hand until I make your enemies your footstool.”"
+    },
+    {
+      "block_id": "oxford-ps-110-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 110: Victory to the Davidic king. A royal psalm in which a court official cites a promise of victory made to the Davidic king in v. 1 and then elaborates the promise in vv. 2–7. Christian interpretation has understood the king’s victory as prefiguring Jesus’s resurrection and rule over the nations (Acts 2.34; 1 Cor 15.25; Heb 1.3,13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-110-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord sends out from Zion your mighty scepter. Rule in the midst of your foes."
+    },
+    {
+      "block_id": "oxford-ps-110-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your people will offer themselves willingly on the day you lead your forces on the holy mountains. From the womb of the morning, like dew, your youth will come to you."
+    },
+    {
+      "block_id": "oxford-ps-110-h1kj-2",
+      "type": "commentary",
+      "text": "1–3 : , take your throne; is the place of honor; , victorious kings were depicted with their feet on their defeated foes’ necks.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-110-h1kj-3",
+      "type": "commentary",
+      "text": "3 : Though very obscure, the general sense is clear: the king will lead the army and defeat the ’s enemies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-110-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord has sworn and will not change his mind, “You are a priest forever according to the order of Melchizedek.”"
+    },
+    {
+      "block_id": "oxford-ps-110-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord is at your right hand; he will shatter kings on the day of his wrath."
+    },
+    {
+      "block_id": "oxford-ps-110-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He will execute judgment among the nations, filling them with corpses; he will shatter heads over the wide earth."
+    },
+    {
+      "block_id": "oxford-ps-110-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He will drink from the stream by the path; therefore he will lift up his head."
+    },
+    {
+      "block_id": "oxford-ps-110-h1kj-4",
+      "type": "commentary",
+      "text": "4–7 : , priest‐king of pre‐Israelite Jerusalem who greeted Abraham in Gen 14.17–20; the tradition is applied only here to the Davidic king. As elsewhere in the ancient Near East, Israelite kings are sometimes described as exercising priestly duties (e.g., 2 Sam 6.13–14; 8.18; 1 Kings 3.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-110-h1kj-5",
+      "type": "commentary",
+      "text": "7 : Obscure, possibly referring to a ritual of the warrior returning from victory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 110
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    }
+  ]
+}

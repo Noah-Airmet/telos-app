@@ -1,0 +1,23 @@
+{
+  "document_id": "ric-36",
+  "title": "Section 36",
+  "type": "commentary",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "ric-36-p-0",
+      "type": "paragraph",
+      "text": "[Revelations in Context Section 36 — Import from PDF using Marker and ingest-ric-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 36,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

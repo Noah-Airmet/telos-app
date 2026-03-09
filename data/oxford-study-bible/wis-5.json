@@ -1,0 +1,265 @@
+{
+  "document_id": "wis-5",
+  "title": "Wisdom 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-wis-5-heading-6",
+      "type": "heading",
+      "text": "6"
+    },
+    {
+      "block_id": "oxford-wis-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When the unrighteous see them, they will be shaken with dreadful fear, and they will be amazed at the unexpected salvation of the righteous."
+    },
+    {
+      "block_id": "oxford-wis-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They will speak to one another in repentance, and in anguish of spirit they will groan, and say,"
+    },
+    {
+      "block_id": "oxford-wis-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "“These are persons whom we once held in derision and made a byword of reproach—fools that we were! We thought that their lives were madness and that their end was without honor."
+    },
+    {
+      "block_id": "oxford-wis-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why have they been numbered among the children of God? And why is their lot among the saints?"
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-3",
+      "type": "commentary",
+      "text": "5 : , the ungodly had mocked the claim of the just to be (2.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-wis-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So it was we who strayed from the way of truth, and the light of righteousness did not shine on us, and the sun did not rise upon us."
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-5",
+      "type": "commentary",
+      "text": "6 : The metaphor of path or way for conduct is common in wisdom literature (e.g., Job 22.15; Ps 1.1; Prov 4.14-19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-wis-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "We took our fill of the paths of lawlessness and destruction, and we journeyed through trackless deserts, but the way of the Lord we have not known."
+    },
+    {
+      "block_id": "oxford-wis-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "What has our arrogance profited us? And what good has our boasted wealth brought us?"
+    },
+    {
+      "block_id": "oxford-wis-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“All those things have vanished like a shadow, and like a rumor that passes by;"
+    },
+    {
+      "block_id": "oxford-wis-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "like a ship that sails through the billowy water, and when it has passed no trace can be found, no track of its keel in the waves;"
+    },
+    {
+      "block_id": "oxford-wis-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "or as, when a bird flies through the air, no evidence of its passage is found; the light air, lashed by the beat of its pinions and pierced by the force of its rushing flight, is traversed by the movement of its wings, and afterward no sign of its coming is found there;"
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-7",
+      "type": "commentary",
+      "text": "10–11 : , cf. Prov 30.18–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-wis-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "or as, when an arrow is shot at a target, the air, thus divided, comes together at once, so that no one knows its pathway."
+    },
+    {
+      "block_id": "oxford-wis-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So we also, as soon as we were born, ceased to be, and we had no sign of virtue to show, but were consumed in our wickedness.”"
+    },
+    {
+      "block_id": "oxford-wis-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Because the hope of the ungodly is like thistledown carried by the wind, and like a light frost driven away by a storm; it is dispersed like smoke before the wind, and it passes like the remembrance of a guest who stays but a day."
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–14: The confession of the ungodly. The sudden unexpected appearance of the just before their oppressors elicits from the ungodly an admission of their folly; cf. Isa 52.13–53.12. The use of an imaginary monologue, here and in 2.1–20, is a device common in diatribe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-4",
+      "type": "commentary",
+      "text": "6–14 : Admission of guilt by the wicked.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-6",
+      "type": "commentary",
+      "text": "9–14 : The ephemeral existence of ; cf. Job 20.4–29; Ps 1.4–5; 2 Esd 7.61; Jas 4.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-wis-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But the righteous live forever, and their reward is with the Lord; the Most High takes care of them."
+    },
+    {
+      "block_id": "oxford-wis-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Therefore they will receive a glorious crown and a beautiful diadem from the hand of the Lord, because with his right hand he will cover them, and with his arm he will shield them."
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-9",
+      "type": "commentary",
+      "text": "16 : , the reward of the just is often depicted as royal; cf. Prov 4.9; Isa 28.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-wis-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The Lord will take his zeal as his whole armor, and will arm all creation to repel his enemies;"
+    },
+    {
+      "block_id": "oxford-wis-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "he will put on righteousness as a breastplate, and wear impartial justice as a helmet;"
+    },
+    {
+      "block_id": "oxford-wis-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "he will take holiness as an invincible shield,"
+    },
+    {
+      "block_id": "oxford-wis-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and sharpen stern wrath for a sword, and creation will join with him to fight against his frenzied foes."
+    },
+    {
+      "block_id": "oxford-wis-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Shafts of lightning will fly with true aim, and will leap from the clouds to the target, as from a well-drawn bow,"
+    },
+    {
+      "block_id": "oxford-wis-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and hailstones full of wrath will be hurled as from a catapult; the water of the sea will rage against them, and rivers will relentlessly overwhelm them;"
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-10",
+      "type": "commentary",
+      "text": "17–22 : For the image of God taking zeal as armor see Isa 59.17–19, but that (v. 20) is unusual; cf. Sir 39.28–31. Creation's collaboration with God will be a major theme in chs 11–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-wis-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "a mighty wind will rise against them, and like a tempest it will winnow them away. Lawlessness will lay waste the whole earth, and evildoing will overturn the thrones of rulers."
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–6.21: Exhortation to love righteousness. This opening section embodies a complex argument for justice in an elegant concentric structure:",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-wis-5-h1kj-8",
+      "type": "commentary",
+      "text": "5.15–23: The final judgment. In contrast to the ungodly whose life is dispersed into nothingness, the righteous live forever in the presence of the Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 23
+    }
+  ]
+}

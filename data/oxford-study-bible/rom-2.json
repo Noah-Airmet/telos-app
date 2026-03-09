@@ -1,0 +1,385 @@
+{
+  "document_id": "rom-2",
+  "title": "Romans 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-rom-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-rom-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You say, “We know that God's judgment on those who do such things is in accordance with truth.”"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-3",
+      "type": "commentary",
+      "text": "2 : The words , which are not in the Gk, have been added to make it clear that what follows are words attributed to the interlocutor. Some interpreters suggest that Paul is addressing Jews who condemn Gentiles for the deeds in 1.18–32. However, Paul does not address fellow Jews directly until 2.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-rom-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do you imagine, whoever you are, that when you judge those who do such things and yet do them yourself, you will escape the judgment of God?"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-4",
+      "type": "commentary",
+      "text": "3 : Paul is probably addressing all of humanity, , since, as Paul will state, there is no one who is righteous (3.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-rom-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Or do you despise the riches of his kindness and forbearance and patience? Do you not realize that God's kindness is meant to lead you to repentance?"
+    },
+    {
+      "block_id": "oxford-rom-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But by your hard and impenitent heart you are storing up wrath for yourself on the day of wrath, when God's righteous judgment will be revealed."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , which is the expected culmination of the current revelation of God's wrath (1.18), refers to God's final judgment on humanity; see also 14.10; 1 Cor 4.4–5; 2 Cor 5.10; 1 Thess 1.9–10. Paul believes that when judgment occurs in the future it will finally end humanity's subservience to sin and creation's bondage to decay (8.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-rom-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For he will repay according to each one's deeds:"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-6",
+      "type": "commentary",
+      "text": "6 : At the day of wrath, God will (lit., “works”). See Prov 24.12; also Ps 62.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-rom-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "to those who by patiently doing good seek for glory and honor and immortality, he will give eternal life;"
+    },
+    {
+      "block_id": "oxford-rom-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "while for those who are self-seeking and who obey not the truth but wickedness, there will be wrath and fury."
+    },
+    {
+      "block_id": "oxford-rom-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "There will be anguish and distress for everyone who does evil, the Jew first and also the Greek,"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-7",
+      "type": "commentary",
+      "text": "9 : This verse, which appears to contradict Paul's earlier statement that God saves everyone who has faith (1.16), might be read as a building block in argument. In the immediate context it builds toward Paul's statement in v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-rom-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "but glory and honor and peace for everyone who does good, the Jew first and also the Greek."
+    },
+    {
+      "block_id": "oxford-rom-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For God shows no partiality."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-8",
+      "type": "commentary",
+      "text": "11 : , might have been offensive to ; Jews believed that they were God's chosen people to whom God was partial. Both here and at 1.16 Paul maintains the priority of the Jew in God's purposes and care. Israel's election is irrevocable (11.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-rom-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "All who have sinned apart from the law will also perish apart from the law, and all who have sinned under the law will be judged by the law."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-9",
+      "type": "commentary",
+      "text": "12 : Sin is judged whether or not people are aware of the law. Those who are , that is, the Gentiles, will be judged ( and appear to have parallel meanings). Those who are , that is the Jews, will be judged by the law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-rom-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For it is not the hearers of the law who are righteous in God's sight, but the doers of the law who will be justified."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-10",
+      "type": "commentary",
+      "text": "13 : The statement that it is serves as a building block in Paul's argument toward his central conviction that all have sinned and consequently justification comes only as God's gift through faith (3.23-25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-rom-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When Gentiles, who do not possess the law, do instinctively what the law requires, these, though not having the law, are a law to themselves."
+    },
+    {
+      "block_id": "oxford-rom-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "They show that what the law requires is written on their hearts, to which their own conscience also bears witness; and their conflicting thoughts will accuse or perhaps excuse them"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-11",
+      "type": "commentary",
+      "text": "14–15 : Gentiles can do the law (lit., “by nature”) by means of the guidance of their , cf. Jer 31.33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-rom-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "on the day when, according to my gospel, God, through Jesus Christ, will judge the secret thoughts of all."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–16: All humanity will be judged.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-rom-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But if you call yourself a Jew and rely on the law and boast of your relation to God"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-13",
+      "type": "commentary",
+      "text": "17 : Paul turns to a Jewish interlocutor who is proud of a relationship to God grounded in the law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-rom-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and know his will and determine what is best because you are instructed in the law,"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-14",
+      "type": "commentary",
+      "text": "18 . (Ps 40.8; Bar 4.4), a positive feature of Jewish piety.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-rom-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and if you are sure that you are a guide to the blind, a light to those who are in darkness,"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-15",
+      "type": "commentary",
+      "text": "19 . , see Isa 42.6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-rom-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "a corrector of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth,"
+    },
+    {
+      "block_id": "oxford-rom-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "you, then, that teach others, will you not teach yourself? While you preach against stealing, do you steal?"
+    },
+    {
+      "block_id": "oxford-rom-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "You that forbid adultery, do you commit adultery? You that abhor idols, do you rob temples?"
+    },
+    {
+      "block_id": "oxford-rom-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "You that boast in the law, do you dishonor God by breaking the law?"
+    },
+    {
+      "block_id": "oxford-rom-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For, as it is written, “The name of God is blasphemed among the Gentiles because of you.”"
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-16",
+      "type": "commentary",
+      "text": "21–24 . Each sentence could be read as a statement rather than a question. As questions, these sentences interrogate an imagined interlocutor. The scriptural citation in v. 24 (Isa 52.5) could serve as the evidence for a statement of the charge in v. 23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-rom-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Circumcision indeed is of value if you obey the law; but if you break the law, your circumcision has become uncircumcision."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-17",
+      "type": "commentary",
+      "text": "25 : Even (the sign of the covenant between God and the Jews; Gen 17.1–4) does not determine those who carry out God's will.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-rom-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "So, if those who are uncircumcised keep the requirements of the law, will not their uncircumcision be regarded as circumcision?"
+    },
+    {
+      "block_id": "oxford-rom-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Then those who are physically uncircumcised but keep the law will condemn you that have the written code and circumcision but break the law."
+    },
+    {
+      "block_id": "oxford-rom-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "For a person is not a Jew who is one outwardly, nor is true circumcision something external and physical."
+    },
+    {
+      "block_id": "oxford-rom-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Rather, a person is a Jew who is one inwardly, and real circumcision is a matter of the heart—it is spiritual and not literal. Such a person receives praise not from others but from God."
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-12",
+      "type": "commentary",
+      "text": "2.17–29: Who is a Jew?",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-rom-2-h1kj-18",
+      "type": "commentary",
+      "text": "29 : When Paul writes that a , he is not calling for Jews to abandon circumcision. Rather, like the law and the prophets (Deut 10.16; 30.6; Jer 4.4; 9.26), Paul asks his fellow Jews to let the meaning of circumcision transform their hearts. Paul's aim here is to support his upcoming declaration (3.9) that even Jews need the gospel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 2
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    }
+  ]
+}

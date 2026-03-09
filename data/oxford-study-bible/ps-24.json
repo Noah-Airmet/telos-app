@@ -1,0 +1,157 @@
+{
+  "document_id": "ps-24",
+  "title": "Psalms 24",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-24-heading-psalm-25",
+      "type": "heading",
+      "text": "Psalm 25"
+    },
+    {
+      "block_id": "oxford-ps-24-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The earth is the Lord’s and all that is in it, the world, and those who live in it;"
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 24: The awesome majesty of the house of the Lord. A hymn celebrating the ’s enthronement as king that begins, like Ps 15, with a demand of right conduct and loyalty. The psalm proceeds in three stages: the proclamation of the cosmic victory of the (vv. 1–2), a scrutiny to make certain that only the loyal enter and welcome the Divine Warrior to his dwelling (vv. 3–6), and a call to the Temple gates to welcome God the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-24-2",
+      "type": "verse",
+      "number": 2,
+      "text": "for he has founded it on the seas, and established it on the rivers."
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-2",
+      "type": "commentary",
+      "text": "1–2 : Presupposed is the combat myth in which the storm god defeats chaotic Sea who threatens to destroy the world, creates the orderly universe, and erects a palace (temple) to commemorate the victory. Israel likely borrowed and transformed this myth from its Canaanite predecessors.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-24-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Who shall ascend the hill of the Lord? And who shall stand in his holy place?"
+    },
+    {
+      "block_id": "oxford-ps-24-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Those who have clean hands and pure hearts, who do not lift up their souls to what is false, and do not swear deceitfully."
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , similar to the commandment of the Decalogue, “You shall have no other gods before you” (Ex 20.3; Deut 5.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-24-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They will receive blessing from the Lord, and vindication from the God of their salvation."
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , the deity shares the fruits of victory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-24-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Such is the company of those who seek him, who seek the face of the God of Jacob. Selah"
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-3",
+      "type": "commentary",
+      "text": "3–6 : Only those loyal to the victorious are fit to share the fruits of victory; the scrutiny determines whether worshipers have been loyal; cf. Ps 15.2–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 3,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-6",
+      "type": "commentary",
+      "text": "6 : (also v. 10), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-24-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Lift up your heads, O gates! and be lifted up, O ancient doors! that the King of glory may come in."
+    },
+    {
+      "block_id": "oxford-ps-24-h1kj-7",
+      "type": "commentary",
+      "text": "7 : Temple are personified and invited to lift up their heads in joy and join the chorus welcoming the triumphant Warrior; some scholars emend “gates” to “gatekeepers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 24
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-24-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Who is the King of glory? The Lord, strong and mighty, the Lord, mighty in battle."
+    },
+    {
+      "block_id": "oxford-ps-24-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Lift up your heads, O gates! and be lifted up, O ancient doors! that the King of glory may come in."
+    },
+    {
+      "block_id": "oxford-ps-24-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Who is this King of glory? The Lord of hosts, he is the King of glory. Selah"
+    }
+  ]
+}

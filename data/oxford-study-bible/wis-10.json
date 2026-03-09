@@ -1,0 +1,313 @@
+{
+  "document_id": "wis-10",
+  "title": "Wisdom 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-wis-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-wis-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and gave him strength to rule all things."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-3",
+      "type": "commentary",
+      "text": "1–2 : , Adam, is not called righteous, for he was saved by wisdom ; this does not exactly appear in Gen 2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-wis-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But when an unrighteous man departed from her in his anger, he perished because in rage he killed his brother."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-4",
+      "type": "commentary",
+      "text": "3 : Cain (Gen 4.1–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-wis-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When the earth was flooded because of him, wisdom again saved it, steering the righteous man by a paltry piece of wood."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-5",
+      "type": "commentary",
+      "text": "4 : The sin of Cain in killing his brother is named as the cause of the flood; cf. Gen 6.11. , Noah; cf. Gen 6–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-wis-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Wisdom also, when the nations in wicked agreement had been put to confusion, recognized the righteous man and preserved him blameless before God, and kept him strong in the face of his compassion for his child."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , at the tower of Babel, Gen 11.1–9. , Abraham, cf. Gen 15.6; , Isaac, Gen 22.1–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-wis-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Wisdoma rescued a righteous man when the ungodly were perishing; he escaped the fire that descended on the Five Cities."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , though in Gen 19 Lot is not presented in exemplary fashion, the author interprets the two angels who save him as the work of wisdom. … , Sodom, Gomorrah, and the other cities of the Plain; Gen 19.1–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-wis-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Evidence of their wickedness still remains: a continually smoking wasteland, plants bearing fruit that does not ripen, and a pillar of salt standing as a monument to an unbelieving soul."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , Lot's wife; Gen 19.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-wis-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For because they passed wisdom by, they not only were hindered from recognizing the good, but also left for humankind a reminder of their folly, so that their failures could never go unnoticed."
+    },
+    {
+      "block_id": "oxford-wis-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Wisdom rescued from troubles those who served her."
+    },
+    {
+      "block_id": "oxford-wis-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When a righteous man fled from his brother's wrath, she guided him on straight paths; she showed him the kingdom of God, and gave him knowledge of holy things; she prospered him in his labors, and increased the fruit of his toil."
+    },
+    {
+      "block_id": "oxford-wis-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "When his oppressors were covetous, she stood by him and made him rich."
+    },
+    {
+      "block_id": "oxford-wis-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "She protected him from his enemies, and kept him safe from those who lay in wait for him; in his arduous contest she gave him the victory, so that he might learn that godliness is more powerful than anything else."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-9",
+      "type": "commentary",
+      "text": "10–12 : Jacob. Several events from Jacob's life are alluded to: flight from his brother Esau, Gen 27.41–45; Jacob's vision of the ladder at Bethel, , Gen 28.10–17; Jacob's prosperity despite , Laban and his sons, Gen 30.25–31.54; Jacob's wrestling with an angel in at Peniel, Gen 32.22–32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-wis-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "When a righteous man was sold, wisdom did not desert him, but delivered him from sin. She descended with him into the dungeon,"
+    },
+    {
+      "block_id": "oxford-wis-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and when he was in prison she did not leave him, until she brought him the scepter of a kingdom and authority over his masters. Those who accused him she showed to be false, and she gave him everlasting honor."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-10",
+      "type": "commentary",
+      "text": "13–14 : Joseph. Several events from Joseph's life are singled out from the lengthy narrative: being by his brothers, Gen 37.28; the unsuccessful seduction by Potiphar's wife ( ), Gen 39.6–20; being liberated from the , Gen 41.1–43; and Joseph's rise to power ( ), Gen 41.37–57.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-wis-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "A holy people and blameless race wisdom delivered from a nation of oppressors."
+    },
+    {
+      "block_id": "oxford-wis-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "She entered the soul of a servant of the Lord, and withstood dread kings with wonders and signs."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-12",
+      "type": "commentary",
+      "text": "16 : , a frequent title for Moses (e.g., Ex 14.31; Num 12.7; Deut 34.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-wis-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "She gave to holy people the reward of their labors; she guided them along a marvelous way, and became a shelter to them by day, and a starry flame through the night."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-13",
+      "type": "commentary",
+      "text": "17 : , Ex 13.21–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-wis-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "She brought them over the Red Sea, and led them through deep waters;"
+    },
+    {
+      "block_id": "oxford-wis-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "but she drowned their enemies, and cast them up from the depth of the sea."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-14",
+      "type": "commentary",
+      "text": "18–19 : , the only proper name mentioned in the book, Ex 14–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-wis-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Therefore the righteous plundered the ungodly; they sang hymns, O Lord, to your holy name, and praised with one accord your defending hand;"
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-15",
+      "type": "commentary",
+      "text": "20 : , Ex 11.2; 12.35–36;",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-wis-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "for wisdom opened the mouths of those who were mute, and made the tongues of infants speak clearly."
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-1",
+      "type": "commentary",
+      "text": "6.22–11.1: Praise of the wisdom of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-2",
+      "type": "commentary",
+      "text": "10.1–11.1: Wisdom saves the righteous ancestors. As examples of wisdom's power to save, the author provides seven loose contrasts in which the righteous were saved through wisdom whereas the wicked perished for lack of wisdom. Names are not provided in order to engage the reader in identifying the various personages.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-wis-10-h1kj-11",
+      "type": "commentary",
+      "text": "15–21 : , Israel. , Egypt, when it oppressed the Israelites (Ex 1.8–14). The final contrast is more complex than the previous in that the righteous consists of the entire people of Israel and their singular leader, Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 10
+      },
+      "verse_start": 15,
+      "verse_end": 21
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "document_id": "hebr-8",
+  "title": "hebr 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hebr-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-hebr-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "a minister in the sanctuary and the true tent that the Lord, and not any mortal, has set up."
+    },
+    {
+      "block_id": "oxford-hebr-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For every high priest is appointed to offer gifts and sacrifices; hence it is necessary for this priest also to have something to offer."
+    },
+    {
+      "block_id": "oxford-hebr-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Now if he were on earth, he would not be a priest at all, since there are priests who offer gifts according to the law."
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-6",
+      "type": "commentary",
+      "text": "4 : That is, the in the line of Levi.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hebr-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They offer worship in a sanctuary that is a sketch and shadow of the heavenly one; for Moses, when he was about to erect the tent, was warned, “See that you make everything according to the pattern that was shown you on the mountain.”"
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , a term denoting that which is less real because it is derivative; , or perhaps better “archetype.” The author contrasts the heavenly temple, which he believes was shown to Moses on the mountain, with the earthly tabernacle and temple. The language of “shadow” and “archetype” is adapted from Plato: that which exists in the divine realm is more “real” than the copies seen on earth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hebr-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But Jesus has now obtained a more excellent ministry, and to that degree he is the mediator of a better covenant, which has been enacted through better promises."
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-4",
+      "type": "commentary",
+      "text": "8.1–6 : Based on Ex 25.40, Jewish authors often viewed the earthly tabernacle as a model of the cosmos, with the Holy Places modeling heaven (see Wis 9.8; Rev 8.2–4; 11.19; 15.5–8; Philo, 2.71–145; Josephus, 3.179–87). The author understands Jesus's ascension to indicate his entrance into the cosmic, heavenly Holy of Holies where God lives.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , better, “to the degree that.” In other words, the quality of the covenant and the promises determine the quality of the ministry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For if that first covenant had been faultless, there would have been no need to look for a second one."
+    },
+    {
+      "block_id": "oxford-hebr-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "God finds fault with them when he says: “The days are surely coming, says the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah;"
+    },
+    {
+      "block_id": "oxford-hebr-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "not like the covenant that I made with their ancestors, on the day when I took them by the hand to lead them out of the land of Egypt; for they did not continue in my covenant, and so I had no concern for them, says the Lord."
+    },
+    {
+      "block_id": "oxford-hebr-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "This is the covenant that I will make with the house of Israel after those days, says the Lord: I will put my laws in their minds, and write them on their hearts, and I will be their God, and they shall be my people."
+    },
+    {
+      "block_id": "oxford-hebr-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And they shall not teach one another or say to each other, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest."
+    },
+    {
+      "block_id": "oxford-hebr-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For I will be merciful toward their iniquities, and I will remember their sins no more.”"
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-9",
+      "type": "commentary",
+      "text": "8.8–12 : Jer 31.31–34. See 7.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hebr-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "In speaking of “a new covenant,” he has made the first one obsolete. And what is obsolete and growing old will soon disappear."
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-1",
+      "type": "commentary",
+      "text": "4.14–10.18: The “long and difficult word” about Jesus's priestly work.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-2",
+      "type": "commentary",
+      "text": "7.1–10.18: Exposition resumed: Superior access to God through Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-3",
+      "type": "commentary",
+      "text": "8.1–13: Jesus's location in a better sanctuary, mediating a better covenant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-8-h1kj-10",
+      "type": "commentary",
+      "text": "13 : The author of Hebrews, like Paul in Galatians (3.19; 3.23–4.5), considers the first covenant to have been valid for a limited duration.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 8
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    }
+  ]
+}

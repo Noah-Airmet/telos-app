@@ -1,0 +1,355 @@
+{
+  "document_id": "twocori-1",
+  "title": "twocori 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twocori-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-twocori-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–2: Opening salutation. , also co-senders in Phil 1.1; Col. 1.1; Thess 1.1; 2 Thess 1.1; Philem 1. (cf. 1 Thess 3.2), and elsewhere “my beloved child” (1 Cor 4.17), was an emissary for Paul (but never called an “apostle”) to Corinth (1 Cor 4.17; 16.10). , also 1 Cor 1.1; cf. Rom 1.1; Gal 1.1. Here, where that status is being contested, that claim is especially pointed. The addressees include the church at Corinth and (or “the sanctified,” Paul's designation for all believers) (the Roman province in southern Greece to which the city of Corinth belongs). , Paul's standard greeting, which reflects Greco-Roman epistolary form with modified vocabulary: e.g., (Gk “charis”) instead of the standard Gk term “chaire” (“greeting”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-twocori-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all consolation,"
+    },
+    {
+      "block_id": "oxford-twocori-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "who consoles us in all our affliction, so that we may be able to console those who are in any affliction with the consolation with which we ourselves are consoled by God."
+    },
+    {
+      "block_id": "oxford-twocori-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For just as the sufferings of Christ are abundant for us, so also our consolation is abundant through Christ."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-4",
+      "type": "commentary",
+      "text": "3–5 : Instead of the typical thanksgiving formula, “I give thanks …,” (1 Cor 1.4), Paul here uses the language of associated with Jewish benedictions; cf. Eph 1.3. The benediction establishes that the principal agent of comfort in affliction, as of apostolic commission, is God, the (Ex 34.6; Pss 25.6; 69.16; Rom 12.1; Phil 2.1) and (Isa 40.1; 49.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-twocori-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "If we are being afflicted, it is for your consolation and salvation; if we are being consoled, it is for your consolation, which you experience when you patiently endure the same sufferings that we are also suffering."
+    },
+    {
+      "block_id": "oxford-twocori-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Our hope for you is unshaken; for we know that as you share in our sufferings, so also you share in our consolation."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-5",
+      "type": "commentary",
+      "text": "6–7 : Suffering in service to God is answered by the consolation of God. As the Corinthians , they will experience that comfort.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-twocori-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "We do not want you to be unaware, brothers and sisters, of the affliction we experienced in Asia; for we were so utterly, unbearably crushed that we despaired of life itself."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , what Paul refers to is unclear (cf. 1 Cor 15.32 and Acts 19.23–24); , the Roman province in western Asia Minor. , cf. 4.8; Ps 88.16 (LXX).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-twocori-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Indeed, we felt that we had received the sentence of death so that we would rely not on ourselves but on God who raises the dead."
+    },
+    {
+      "block_id": "oxford-twocori-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He who rescued us from so deadly a peril will continue to rescue us; on him we have set our hope that he will rescue us again,"
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-7",
+      "type": "commentary",
+      "text": "9–10 . But (4.14), rescued him from then and will . , Gk “charisma.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-twocori-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "as you also join in helping us by your prayers, so that many will give thanks on our behalf for the blessing granted us through the prayers of many."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–11: Opening salutation and blessing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.3–11: Blessing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-twocori-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Indeed, this is our boast, the testimony of our conscience: we have behaved in the world with frankness and godly sincerity, not by earthly wisdom but by the grace of God—and all the more toward you."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-10",
+      "type": "commentary",
+      "text": "12 : A defensive tone is suggested by ; cf. 7.2. A well-attested variant (see textual note ) reads “hagiotēti,” “holiness,” instead of “haplotēti,” .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-twocori-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For we write you nothing other than what you can read and also understand; I hope you will understand until the end—"
+    },
+    {
+      "block_id": "oxford-twocori-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "as you have already understood us in part—that on the day of the Lord Jesus we are your boast even as you are our boast."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-11",
+      "type": "commentary",
+      "text": "13–14 : End-time terminology (see 2 Thess 2.2n.) punctuates Paul's assertion of sincerity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-twocori-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Since I was sure of this, I wanted to come to you first, so that you might have a double favor;"
+    },
+    {
+      "block_id": "oxford-twocori-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I wanted to visit you on my way to Macedonia, and to come back to you from Macedonia and have you send me on to Judea."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-13",
+      "type": "commentary",
+      "text": "16 : , Roman province in northern Greece where Thessalonica, Philippi, and Beroea were located.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-twocori-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Was I vacillating when I wanted to do this? Do I make my plans according to ordinary human standards, ready to say “Yes, yes” and “No, no” at the same time?"
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-14",
+      "type": "commentary",
+      "text": "17 : Against the charge of Paul identifies his straightforward (cf. Mt 5.37; Jas 5.12) with the (v.18). suggests a liturgical context; see 1 Cor 14.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twocori-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "As surely as God is faithful, our word to you has not been “Yes and No.”"
+    },
+    {
+      "block_id": "oxford-twocori-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For the Son of God, Jesus Christ, whom we proclaimed among you, Silvanus and Timothy and I, was not “Yes and No”; but in him it is always “Yes.”"
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-15",
+      "type": "commentary",
+      "text": "19 : were coworkers on his first visit to Corinth; see Acts 18.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-twocori-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "For in him every one of God's promises is a “Yes.” For this reason it is through him that we say the “Amen,” to the glory of God."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-12",
+      "type": "commentary",
+      "text": "15–20 : Paul had intended a double visit (“double favor,” v. 15), one on either side of his trip to Macedonia (1 Cor 16.5–6), but altered his plans a second time.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-twocori-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But it is God who establishes us with you in Christ and has anointed us,"
+    },
+    {
+      "block_id": "oxford-twocori-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "by putting his seal on us and giving us his Spirit in our hearts as a first installment."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-16",
+      "type": "commentary",
+      "text": "21–22 : A tone of defensiveness but also reassurance marks the claim to divine confirmation (lit., “Christ-ward”) of Paul and the Corinthians together, itself founded upon God's past action of anointing, sealing, and giving the (the same Gk word is translated “guarantee” in 5.5) of the ; cf. Eph 1.13. Early commentators (e.g., Clement of Alexandria, Tertullian) understood this as baptismal language.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-twocori-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But I call on God as witness against me: it was to spare you that I did not come again to Corinth."
+    },
+    {
+      "block_id": "oxford-twocori-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "I do not mean to imply that we lord it over your faith; rather, we are workers with you for your joy, because you stand firm in the faith."
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-8",
+      "type": "commentary",
+      "text": "1.12–7.16: Body, Part I: Visitation, trauma, reconciliation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-9",
+      "type": "commentary",
+      "text": "1.12–2.13: Paul's change of plans and painful visit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-twocori-1-h1kj-17",
+      "type": "commentary",
+      "text": "1.23–2.4 : A return to the courtroom imagery of 1.12. The prior “tearful” letter (2.3–4) is sometimes identified with chs 10–13, where Paul repeatedly and passionately restates his love for the Corinthians; see Introduction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twocori",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 24
+    }
+  ]
+}

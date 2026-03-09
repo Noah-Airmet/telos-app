@@ -1,0 +1,331 @@
+{
+  "document_id": "zech-8",
+  "title": "Zechariah 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-zech-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-zech-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord of hosts came to me, saying:"
+    },
+    {
+      "block_id": "oxford-zech-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Thus says the Lord of hosts: I am jealous for Zion with great jealousy, and I am jealous for her with great wrath."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-4",
+      "type": "commentary",
+      "text": "1–2 : Language of reprises 1.14; cf. Ezek 36.6b.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-zech-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Thus says the Lord: I will return to Zion, and will dwell in the midst of Jerusalem; Jerusalem shall be called the faithful city, and the mountain of the Lord of hosts shall be called the holy mountain."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-5",
+      "type": "commentary",
+      "text": "3 : This oracle echoes 1.14, with referring to the Temple. , a new name for Jerusalem; cf. Isa 62.4; Jer 33.16; Ezek 48.35. , see Joel 3.17; Isa 52.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-zech-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Thus says the Lord of hosts: Old men and old women shall again sit in the streets of Jerusalem, each with staff in hand because of their great age."
+    },
+    {
+      "block_id": "oxford-zech-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And the streets of the city shall be full of boys and girls playing in its streets."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-6",
+      "type": "commentary",
+      "text": "4–5 : This oracle continues to portray prosperity in an urban setting, including multiple generations of both genders, on which see Jer 30.18–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-zech-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Thus says the Lord of hosts: Even though it seems impossible to the remnant of this people in these days, should it also seem impossible to me, says the Lord of hosts?"
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-7",
+      "type": "commentary",
+      "text": "6 : This oracle highlights the key word “impossibility” (cf. Ps 139.4), just as v. 2 focused on “jealousy.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-zech-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Thus says the Lord of hosts: I will save my people from the east country and from the west country;"
+    },
+    {
+      "block_id": "oxford-zech-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and I will bring them to live in Jerusalem. They shall be my people and I will be their God, in faithfulness and in righteousness."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-8",
+      "type": "commentary",
+      "text": "7–8 : , see Jer 30.10–11; Isa 43.5–6. The covenantal relationship is reaffirmed (cf. Ex 6.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-zech-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Thus says the Lord of hosts: Let your hands be strong—you that have recently been hearing these words from the mouths of the prophets who were present when the foundation was laid for the rebuilding of the temple, the house of the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-10",
+      "type": "commentary",
+      "text": "9 : An allusion to the ceremony reflected in 4.9; Hag 2.15,18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-zech-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For before those days there were no wages for people or for animals, nor was there any safety from the foe for those who went out or came in, and I set them all against one another."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-11",
+      "type": "commentary",
+      "text": "10 : A lamentable state portrayed similarly in Hag 1.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-zech-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But now I will not deal with the remnant of this people as in the former days, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-zech-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For there shall be a sowing of peace; the vine shall yield its fruit, the ground shall give its produce, and the skies shall give their dew; and I will cause the remnant of this people to possess all these things."
+    },
+    {
+      "block_id": "oxford-zech-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Just as you have been a cursing among the nations, O house of Judah and house of Israel, so I will save you and you shall be a blessing. Do not be afraid, but let your hands be strong."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-9",
+      "type": "commentary",
+      "text": "9–13 : This oracle begins with an admonition, not just a promise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 9,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-12",
+      "type": "commentary",
+      "text": "11–13 : , see 8.6; Hag 1.12,14. , Heb “shalom,” which is described using fertility imagery; cf. Hag 1.10; Joel 3.18. draws on covenantal traditions (e.g., Deut 28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-zech-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For thus says the Lord of hosts: Just as I purposed to bring disaster upon you, when your ancestors provoked me to wrath, and I did not relent, says the Lord of hosts,"
+    },
+    {
+      "block_id": "oxford-zech-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "so again I have purposed in these days to do good to Jerusalem and to the house of Judah; do not be afraid."
+    },
+    {
+      "block_id": "oxford-zech-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "These are the things that you shall do: Speak the truth to one another, render in your gates judgments that are true and make for peace,"
+    },
+    {
+      "block_id": "oxford-zech-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "do not devise evil in your hearts against one another, and love no false oath; for all these are things that I hate, says the Lord."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-13",
+      "type": "commentary",
+      "text": "14–17 : The promises a time of benevolence, then turns to admonitions comparable to those in 7.9–10. Legal proceedings were conducted in city (Deut 21.19; Ruth 4.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 14,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-zech-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The word of the Lord of hosts came to me, saying:"
+    },
+    {
+      "block_id": "oxford-zech-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Thus says the Lord of hosts: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be seasons of joy and gladness, and cheerful festivals for the house of Judah: therefore love truth and peace."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-14",
+      "type": "commentary",
+      "text": "18–19",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-zech-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Thus says the Lord of hosts: Peoples shall yet come, the inhabitants of many cities;"
+    },
+    {
+      "block_id": "oxford-zech-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "the inhabitants of one city shall go to another, saying, “Come, let us go to entreat the favor of the Lord, and to seek the Lord of hosts; I myself am going.”"
+    },
+    {
+      "block_id": "oxford-zech-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Many peoples and strong nations shall come to seek the Lord of hosts in Jerusalem, and to entreat the favor of the Lord."
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-15",
+      "type": "commentary",
+      "text": "20–22 : A pilgrimage of foreign nations to Jerusalem; cf. 14.16; Isa 2.2–4; 60.1–3; 66.18–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 20,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-zech-8-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Thus says the Lord of hosts: In those days ten men from nations of every language shall take hold of a Jew, grasping his garment and saying, “Let us go with you, for we have heard that God is with you.”"
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–8.23: Oracles and visions attributed to Zechariah. This first major division of the book has three parts, each introduced by a date formula (1.1; 1.7; 7.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-2",
+      "type": "commentary",
+      "text": "7.1–8.23: Oracles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-zech-8-h1kj-3",
+      "type": "commentary",
+      "text": "8.1–23: Ten oracles of restoration (vv. 1–2; 3; 4–5; 6; 7–8; 9–13; 14–17; 18–19; 20–22; 23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "document_id": "ric-55",
+  "title": "Section 55",
+  "type": "commentary",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "ric-55-p-0",
+      "type": "paragraph",
+      "text": "[Revelations in Context Section 55 — Import from PDF using Marker and ingest-ric-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 55,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

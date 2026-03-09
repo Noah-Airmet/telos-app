@@ -1,0 +1,499 @@
+{
+  "document_id": "prov-1",
+  "title": "Proverbs 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-prov-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The proverbs of Solomon son of David, king of Israel:"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-3",
+      "type": "commentary",
+      "text": "1 : , see Introduction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-prov-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For learning about wisdom and instruction, for understanding words of insight,"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-5",
+      "type": "commentary",
+      "text": "2 : (Heb “musar”), authoritative verbal or physical correction or warning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-prov-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for gaining instruction in wise dealing, righteousness, justice, and equity;"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , encompass honest and just behaviors (cf. 2.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "to teach shrewdness to the simple, knowledge and prudence to the young—"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-7",
+      "type": "commentary",
+      "text": "4 : Proverbs, like many ancient Near Eastern wisdom texts, is intended primarily for young men approaching adulthood. … are naïve and prone to foolishness, but teachable.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "let the wise also hear and gain in learning, and the discerning acquire skill,"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-8",
+      "type": "commentary",
+      "text": "5 : … summons advanced students to study the book.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-prov-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "to understand a proverb and a figure, the words of the wise and their riddles."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-4",
+      "type": "commentary",
+      "text": "2–6 : The book's aims and audience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-9",
+      "type": "commentary",
+      "text": "6 : , crafted speech, perhaps a poem or parable (Hab 2.6; Sir 47.17); , puzzling speech that requires skill to decipher (e.g., Judg 14.14–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-prov-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–7 : Title and Prologue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-10",
+      "type": "commentary",
+      "text": "7 : The book's motto. is reverence for and obedience to God that motivates virtuous behavior and fosters individual and communal well-being (e.g., 2.5; 8.13; 9.10; 10.27; 14.2,26–27; 15.16,33; 16.6). The expression frames chs 1–9 (1.7; 9.10) and the book as a whole (31.30). (Heb “reʾshit”) can be understood temporally (i.e., starting point) and qualitatively (i.e., best expression). Thus wisdom begins with and leads to fear of the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-prov-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Hear, my child, your father's instruction, and do not reject your mother's teaching;"
+    },
+    {
+      "block_id": "oxford-prov-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for they are a fair garland for your head, and pendants for your neck."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-12",
+      "type": "commentary",
+      "text": "8–9 : Chapters 1–9 are a father's instructions to his son(s), the setting of most ancient Near Eastern wisdom literature and several other proverbs in the book (19.27; 23.15–16,19; 24.13,21; 27.11; cf. Eccl 12.12). (cf. 6.20) makes clear this is household education. The father begins most instructions with a call to attention (e.g., 3.1–2,21–22; 4.1–2,20–22; 5.1–2,7; 6.20; 7.1–3,24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-13",
+      "type": "commentary",
+      "text": "9 : . Wisdom is described frequently as an adornment for the body, suggesting its value and beauty; adornments may also represent and remind the wearer of important commitments (e.g., 3.1,21–22; 4.9; 6.20–21; 7.1–3; Sir 6.29–31). See similar language for the commandments (e.g., Deut 6.6–8; Ex 13.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "My child, if sinners entice you, do not consent."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-14",
+      "type": "commentary",
+      "text": "10 : , lit., “those who miss the mark” and stray from wise paths.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "If they say, “Come with us, let us lie in wait for blood; let us wantonly ambush the innocent;"
+    },
+    {
+      "block_id": "oxford-prov-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "like Sheol let us swallow them alive and whole, like those who go down to the Pit."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-15",
+      "type": "commentary",
+      "text": "12 : , also called Abaddon (“Destruction,” cf. 15.11), the underworld and realm of the dead, characterized by an insatiable hunger for human life (e.g., 27.20; 30.15–16; cf. Hab 2.5; Isa 5.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "We shall find all kinds of costly things; we shall fill our houses with booty."
+    },
+    {
+      "block_id": "oxford-prov-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Throw in your lot among us; we will all have one purse”—"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-16",
+      "type": "commentary",
+      "text": "14 : , a stone or dice cast to divide spoils (16.33; 18.18; e.g., Ps 22.18) and a metaphor for fate (e.g., Ps 16.5; Isa 57.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-prov-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "my child, do not walk in their way, keep your foot from their paths;"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-17",
+      "type": "commentary",
+      "text": "15 : , a metaphor for a pattern of behavior, one's course in life. Chapters 1–9 distinguish between two kinds of paths: the way of wisdom/righteousness/life and the way of folly/wickedness/death (e.g., 2.8–9,12–13,15,18–20; 3.6,17,23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-prov-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for their feet run to evil, and they hurry to shed blood."
+    },
+    {
+      "block_id": "oxford-prov-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For in vain is the net baited while the bird is looking on;"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-18",
+      "type": "commentary",
+      "text": "17 : A two-line proverb. can represent the youth, who should now recognize and avoid the gang's trap, and the gang, who spread and bait the net only to plunge into it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "yet they lie in wait—to kill themselves! and set an ambush—for their own lives!"
+    },
+    {
+      "block_id": "oxford-prov-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Such is the end of all who are greedy for gain; it takes away the life of its possessors."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-11",
+      "type": "commentary",
+      "text": "1.8–19: Warning about a street gang.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-19",
+      "type": "commentary",
+      "text": "18–19 : , wickedness is self-destructive (e.g., 5.22–23). , profits acquired unjustly (e.g., 15.27; 28.16; Ex 18.21; 1 Sam 8.3). Proverbs is always suspicious of quick money (e.g., 13.11; 28.20,22; 21.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Wisdom cries out in the street; in the squares she raises her voice."
+    },
+    {
+      "block_id": "oxford-prov-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "At the busiest corner she cries out; at the entrance of the city gates she speaks:"
+    },
+    {
+      "block_id": "oxford-prov-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "“How long, O simple ones, will you love being simple? How long will scoffers delight in their scoffing and fools hate knowledge?"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-21",
+      "type": "commentary",
+      "text": "22 : , see 1.4n. are arrogant and mock anyone who tries to teach them (e.g., 9.7–8; 13.1; 14.6; 15.12; 21.4). are thickheaded and rely on their misguided wits (e.g., 14.16; 28.26; 29.11). Wisdom challenges the confused affections of all three.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Give heed to my reproof; I will pour out my thoughts to you; I will make my words known to you."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-22",
+      "type": "commentary",
+      "text": "23 : , a critical rebuke intended to change a person's behavior; a valued form of instruction in Proverbs (e.g., 1.30; 3.11; 5.12; 12.1; 15.5,31–32; 29.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Because I have called and you refused, have stretched out my hand and no one heeded,"
+    },
+    {
+      "block_id": "oxford-prov-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "and because you have ignored all my counsel and would have none of my reproof,"
+    },
+    {
+      "block_id": "oxford-prov-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I also will laugh at your calamity; I will mock when panic strikes you,"
+    },
+    {
+      "block_id": "oxford-prov-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "when panic strikes you like a storm, and your calamity comes like a whirlwind, when distress and anguish come upon you."
+    },
+    {
+      "block_id": "oxford-prov-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Then they will call upon me, but I will not answer; they will seek me diligently, but will not find me."
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-23",
+      "type": "commentary",
+      "text": "28 : , a motif for the search for wisdom (e.g., 2.4–5; 3.13; 8.17,35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Because they hated knowledge and did not choose the fear of the Lord,"
+    },
+    {
+      "block_id": "oxford-prov-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "would have none of my counsel, and despised all my reproof,"
+    },
+    {
+      "block_id": "oxford-prov-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "therefore they shall eat the fruit of their way and be sated with their own devices."
+    },
+    {
+      "block_id": "oxford-prov-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "For waywardness kills the simple, and the complacency of fools destroys them;"
+    },
+    {
+      "block_id": "oxford-prov-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "but those who listen to me will be secure and will live at ease, without dread of disaster.”"
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–9.18: The proverbs of Solomon son of David, king of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-20",
+      "type": "commentary",
+      "text": "1.20–33: Wisdom's first speech. Wisdom, personified as a woman, cries out in the , the hub of city life. City gates and nearby squares would bustle with merchants and people coming and going, while elders arbitrated matters of justice (e.g., Deut 21.19; 25.7; Ruth 4.1–12). Wisdom here resembles a prophet; she calls to a specific community, and announces and justifies judgment against it (e.g., Jer 7; 20; Zech 7). See also 3.13–20; 4.1–9; 5.15–20; 7.4–5; 8.1–9.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-prov-1-h1kj-24",
+      "type": "commentary",
+      "text": "31–33 : , a frequent metaphor for the act-consequence or retributive worldview (e.g., 13.2; 14.14; 18.20–21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 1
+      },
+      "verse_start": 31,
+      "verse_end": 33
+    }
+  ]
+}

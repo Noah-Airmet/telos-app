@@ -1,0 +1,181 @@
+{
+  "document_id": "reve-4",
+  "title": "reve 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-reve-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "At once I was in the spirit, and there in heaven stood a throne, with one seated on the throne!"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , Ezek 1.26–28; Dan 7.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-reve-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And the one seated there looks like jasper and carnelian, and around the throne is a rainbow that looks like an emerald."
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-4",
+      "type": "commentary",
+      "text": "3 : The glory of the divine presence is described in terms of precious gemstones; cf. Ex 24.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Around the throne are twenty-four thrones, and seated on the thrones are twenty-four elders, dressed in white robes, with golden crowns on their heads."
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , attendants around God's heavenly throne, probably symbolizing the twelve tribes of Israel and the twelve apostles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Coming from the throne are flashes of lightning, and rumblings and peals of thunder, and in front of the throne burn seven flaming torches, which are the seven spirits of God;"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , expressive of the majesty of God (Ex 19.16; Ezek 1.13; Rev 11.19). , Zech 4.2–3. , 1.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and in front of the throne there is something like a sea of glass, like crystal. Around the throne, and on each side of the throne, are four living creatures, full of eyes in front and behind:"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , Ex 24.10; Ezek 1.22. , heavenly beings representing humankind and all animals (Ezek 1.5,10). , symbolizing unceasing watchfulness (Ezek 1.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-reve-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "the first living creature like a lion, the second living creature like an ox, the third living creature with a face like a human face, and the fourth living creature like a flying eagle."
+    },
+    {
+      "block_id": "oxford-reve-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And the four living creatures, each of them with six wings, are full of eyes all around and inside. Day and night without ceasing they sing, “Holy, holy, holy, the Lord God the Almighty, who was and is and is to come.”"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-8",
+      "type": "commentary",
+      "text": "8 : Isa 6.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And whenever the living creatures give glory and honor and thanks to the one who is seated on the throne, who lives forever and ever,"
+    },
+    {
+      "block_id": "oxford-reve-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "the twenty-four elders fall before the one who is seated on the throne and worship the one who lives forever and ever; they cast their crowns before the throne, singing,"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , an act of homage and submission, acknowledging that all power comes from God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”"
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–5.14: Vision of God enthroned and of the Lamb.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-reve-4-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , titles that were also attributed to the Roman emperor (Suetonius, 13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "document_id": "ephe-1",
+  "title": "ephe 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ephe-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-ephe-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–2: Salutation (cf. Col 1.1–2). , see Rom 1.1n. , see 3.2–13; Gal 1.11–17. , emphasizing two foundations of Christian existence: holiness (see Col 1.2n.) and steadfast loyalty to Jesus. On , see the Introduction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-2",
+      "type": "commentary",
+      "text": "2 : A common Pauline greeting building upon conventional salutations in Gk ( ) and Heb ( ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ephe-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,"
+    },
+    {
+      "block_id": "oxford-ephe-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "just as he chose us in Christ before the foundation of the world to be holy and blameless before him in love."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , the language of Israel's election as God's people (Deut 7.6–8) is used here for followers of the Christian movement. , a reference to God's creation (Gen 1.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ephe-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He destined us for adoption as his children through Jesus Christ, according to the good pleasure of his will,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , a privileged status allowing intimacy and full inheritance rights (see 1.11–14; Rom 8.15–17; Gal 4.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ephe-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "to the praise of his glorious grace that he freely bestowed on us in the Beloved."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , a title for Christ; cf. Mk 1.11; Col 1.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ephe-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , release or ransom from slavery (Eph 1.21; 2.2; 6.10–17). , Christ's death brings reconciliation with God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ephe-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "that he lavished on us. With all wisdom and insight"
+    },
+    {
+      "block_id": "oxford-ephe-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "he has made known to us the mystery of his will, according to his good pleasure that he set forth in Christ,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , on Paul's use of this term, see Col 1:26–28n; here defined as the unification of the church and the cosmos (1:10,20–22; 3.1–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ephe-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "as a plan for the fullness of time, to gather up all things in him, things in heaven and things on earth."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , literally, “sum up” or “to gather under one head.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ephe-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "In Christ we have also obtained an inheritance, having been destined according to the purpose of him who accomplishes all things according to his counsel and will,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , continuing the metaphor of adoption (1.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ephe-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "so that we, who were the first to set our hope on Christ, might live for the praise of his glory."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , early Jewish followers of the Christian movement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ephe-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "In him you also, when you had heard the word of truth, the gospel of your salvation, and had believed in him, were marked with the seal of the promised Holy Spirit;"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-12",
+      "type": "commentary",
+      "text": "13 : , Gentiles are now included in God's plan (2.11; 3.1). , Paul traces the promise of the Spirit to Abraham (Gal 3.14,22); other early Christian texts point to the prophet Joel (Joel 2.28–32; Acts 2.14–21) and the promise of Jesus (Lk 24.49; Jn 14.26; Acts 1.4–5). , a sign of ownership and protection; see also 4.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ephe-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "this is the pledge of our inheritance toward redemption as God's own people, to the praise of his glory."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.3–14: Blessing of God for his blessings to the church (cf. Rom 8.15–39) An extended praise of God based on a traditional Jewish prayer that enumerates God's actions on behalf of Israel (1 Kings 8.15,56; Lk 1.68–75). , a theme throughout this section, indicating Christ's mediation of divine blessings. , anticipates the letter's interest in heavenly realities accessible in the present (1.20–23; 2.6–7; 3.11–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-13",
+      "type": "commentary",
+      "text": "14 : , the same Gk word is translated “first installment” in 2 Cor 1.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ephe-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I have heard of your faith in the Lord Jesus and your love toward all the saints, and for this reason"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-15",
+      "type": "commentary",
+      "text": "15 : , two central Christian virtues (1 Cor 13.13; 1 Thess 5.8; cf. Col 1.3–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ephe-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I do not cease to give thanks for you as I remember you in my prayers."
+    },
+    {
+      "block_id": "oxford-ephe-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "I pray that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation as you come to know him,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-16",
+      "type": "commentary",
+      "text": "17 : , the ability to understand God's purposes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ephe-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "so that, with the eyes of your heart enlightened, you may know what is the hope to which he has called you, what are the riches of his glorious inheritance among the saints,"
+    },
+    {
+      "block_id": "oxford-ephe-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and what is the immeasurable greatness of his power for us who believe, according to the working of his great power."
+    },
+    {
+      "block_id": "oxford-ephe-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "God put this power to work in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-17",
+      "type": "commentary",
+      "text": "19–20 : An emphatic assertion that the same that raised Jesus is available to the church to live out its calling (cf. 2.6; 3.7,16,20). , derived from Ps 110.1, a common early Christian description of Christ's exaltation (Acts 2.34–35; Rom 8.34; Col 3.1; Heb 1.13; 8.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ephe-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the age to come."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-18",
+      "type": "commentary",
+      "text": "21 : , titles given to cosmic spiritual forces in ancient religious speculation (Col 1.16; cf. 1 Cor 15.20–28). , see Phil 2.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ephe-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And he has put all things under his feet and has made him the head over all things for the church,"
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-19",
+      "type": "commentary",
+      "text": "22 : , exaltation language derived from Ps 8:6 (1 Cor 15.27; Heb. 2.6–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ephe-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "which is his body, the fullness of him who fills all in all."
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-14",
+      "type": "commentary",
+      "text": "1.15–23: Thanksgiving prayer for wisdom and power (cf. Col 1.3–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-20",
+      "type": "commentary",
+      "text": "22–23 : , see Col 1.18n. The head-body metaphor, applied here to Christ and the church (see also Eph 4.12,15–16), is also found in speculation about the cosmos in Hellenistic, Jewish, and Gnostic thought.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ephe-1-h1kj-21",
+      "type": "commentary",
+      "text": "23 : , the church expresses God's power and presence to the world; alternatively, the completion of the church by Christ (3.19; Col 1.19n; 2.9–10; see also Jer 23.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    }
+  ]
+}

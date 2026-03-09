@@ -1,0 +1,320 @@
+{
+  "document_id": "onechr-27",
+  "title": "onechr 27",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onechr-27-1",
+      "type": "verse",
+      "number": 1,
+      "text": "This is the list of the people of Israel, the heads of families, the commanders of the thousands and the hundreds, and their officers who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering twenty‐four thousand:"
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , Heb “mispar” may also be translated as “census” both here and in vv. 23–24 (cf. 23.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-onechr-27-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Jashobeam son of Zabdiel was in charge of the first division in the first month; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He was a descendant of Perez, and was chief of all the commanders of the army for the first month."
+    },
+    {
+      "block_id": "oxford-onechr-27-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Dodai the Ahohite was in charge of the division of the second month; Mikloth was the chief officer of his division. In his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The third commander, for the third month, was Benaiah son of the priest Jehoiada, as chief; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-6",
+      "type": "verse",
+      "number": 6,
+      "text": "This is the Benaiah who was a mighty man of the Thirty and in command of the Thirty; his son Ammizabad was in charge of his d ivision."
+    },
+    {
+      "block_id": "oxford-onechr-27-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Asahel brother of Joab was fourth, for the fourth month, and his son Zebadiah after him; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The fifth commander, for the fifth month, was Shamhuth, the Izrahite; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Sixth, for the sixth month, was Ira son of Ikkesh the Tekoite; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Seventh, for the seventh month, was Helez the Pelonite, of the Ephraimites; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Eighth, for the eighth month, was Sibbecai the Hushathite, of the Zerahites; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Ninth, for the ninth month, was Abiezer of Anathoth, a Benjaminite; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Tenth, for the tenth month, was Maharai of Netophah, of the Zerahites; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Eleventh, for the eleventh month, was Benaiah of Pirathon, of the Ephraimites; in his division were twenty‐four thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Twelfth, for the twelfth month, was Heldai the Netophathite, of Othniel; in his division were twentyfour thousand."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-3",
+      "type": "commentary",
+      "text": "2–15 : Many of the names in this list are also found in 11.11–47; 2 Sam 23.8–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 2,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-onechr-27-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Over the tribes of Israel, for the Reubenites, Eliezer son of Zichri was chief officer; for the Simeonites, Shephatiah son of Maacah;"
+    },
+    {
+      "block_id": "oxford-onechr-27-17",
+      "type": "verse",
+      "number": 17,
+      "text": "for Levi, Hashabiah son of Kemuel; for Aaron, Zadok;"
+    },
+    {
+      "block_id": "oxford-onechr-27-18",
+      "type": "verse",
+      "number": 18,
+      "text": "for Judah, Elihu, one of David’s brothers; for Issachar, Omri son of Michael;"
+    },
+    {
+      "block_id": "oxford-onechr-27-19",
+      "type": "verse",
+      "number": 19,
+      "text": "for Zebulun, Ishmaiah son of Obadiah; for Naphtali, Jerimoth son of Azriel;"
+    },
+    {
+      "block_id": "oxford-onechr-27-20",
+      "type": "verse",
+      "number": 20,
+      "text": "for the Ephraimites, Hoshea son of Azaziah; for the half‐tribe of Manasseh, Joel son of Pedaiah;"
+    },
+    {
+      "block_id": "oxford-onechr-27-21",
+      "type": "verse",
+      "number": 21,
+      "text": "for the half‐tribe of Manasseh in Gilead, Iddo son of Zechariah; for Benjamin, Jaasiel son of Abner;"
+    },
+    {
+      "block_id": "oxford-onechr-27-22",
+      "type": "verse",
+      "number": 22,
+      "text": "for Dan, Azarel son of Jeroham. These were the leaders of the tribes of Israel."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-4",
+      "type": "commentary",
+      "text": "16–22 : By having each of the tribes include its own “chief officer” as a participant in the national government, the Chronicler integrates traditional tribal custom into a centralized monarchic system. Contrast 1 Kings 4.1–19, which does not appear in Chronicles. See 5.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 16,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-onechr-27-23",
+      "type": "verse",
+      "number": 23,
+      "text": "David did not count those below twenty years of age, for the Lord had promised to make Israel as numerous as the stars of heaven."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-5",
+      "type": "commentary",
+      "text": "23 : The enumeration of twelve military divisions (288,000) leads the writer to explain why no general census of Israel is included (cf. Num 1.3,45). By counting Israelite males who were less than twenty years of age, David would be casting aspersions on the validity of one of God’s solemn promises to Abraham (Gen 22.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-onechr-27-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Joab son of Zeruiah began to count them, but did not finish; yet wrath came upon Israel for this, and the number was not entered into the account of the Annals of King David."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-1",
+      "type": "commentary",
+      "text": "27.1–24: Military leaders. The orderly organization of the military, no less than the organization of the priests and the Levites, is part of David’s legacy in Chronicles. The system established—twelve monthly relays of 24,000, each headed by a divisional leader (vv. 2–16)—reflects his standard administrative procedure (23.6–23; 24.1–19; 25.8–31; 26.1–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-6",
+      "type": "commentary",
+      "text": "24 : See ch 21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-onechr-27-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Over the king’s treasuries was Azmaveth son of Adiel. Over the treasuries in the country, in the cities, in the villages and in the towers, was Jonathan son of Uzziah."
+    },
+    {
+      "block_id": "oxford-onechr-27-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Over those who did the work of the field, tilling the soil, was Ezri son of Chelub."
+    },
+    {
+      "block_id": "oxford-onechr-27-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Over the vineyards was Shimei the Ramathite. Over the produce of the vineyards for the wine cellars was Zabdi the Shiphmite."
+    },
+    {
+      "block_id": "oxford-onechr-27-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Over the olive and sycamore trees in the Shephelah was Baal‐hanan the Gederite. Over the stores of oil was Joash."
+    },
+    {
+      "block_id": "oxford-onechr-27-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Over the herds that pastured in Sharon was Shitrai the Sharonite. Over the herds in the valleys was Shaphat son of Adlai."
+    },
+    {
+      "block_id": "oxford-onechr-27-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Over the camels was Obil the Ishmaelite. Over the donkeys was Jehdeiah the Meronothite. Over the flocks was Jaziz the Hagrite."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-8",
+      "type": "commentary",
+      "text": "30 : The and (or she‐asses) are related directly not to agriculture, but to trade. Because the major trade routes of the ancient Near East passed through the region, trade was an important sector of the Israelite economy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-onechr-27-31",
+      "type": "verse",
+      "number": 31,
+      "text": "All these were stewards of King David’s property."
+    },
+    {
+      "block_id": "oxford-onechr-27-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Jonathan, David’s uncle, was a counselor, being a man of understanding and a scribe; Jehiel son of Hachmoni attended the king’s sons."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-7",
+      "type": "commentary",
+      "text": "27.25–32: Other administrators. The Davidic state is multifaceted. The king owns agricultural estates (v. 27), operates storehouses in both urban and rural areas for agricultural produce (vv. 27–28), and has an investment in, if not some control over, trade (v. 30). The king employs a variety of high officials who supervise his estates, fieldworkers, and storage facilities. The king also has advisers and officers (vv. 32–34) at his disposal. Some aspects of this complicated system may be anachronistic, but they are consistent with ancient Near Eastern royal practice, especially in the Persian period during which the emperor owned royal estates throughout the various regions of his empire.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 25,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-onechr-27-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Ahithophel was the king’s counselor, and Hushai the Archite was the king’s friend."
+    },
+    {
+      "block_id": "oxford-onechr-27-h1kj-9",
+      "type": "commentary",
+      "text": "33 : On and , see 2 Sam 15.12,23–37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 27
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-onechr-27-34",
+      "type": "verse",
+      "number": 34,
+      "text": "After Ahithophel came Jehoiada son of Benaiah, and Abiathar. Joab was commander of the king’s army."
+    }
+  ]
+}

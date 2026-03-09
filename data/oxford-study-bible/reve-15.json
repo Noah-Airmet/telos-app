@@ -1,0 +1,151 @@
+{
+  "document_id": "reve-15",
+  "title": "reve 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-15-heading-16",
+      "type": "heading",
+      "text": "16"
+    },
+    {
+      "block_id": "oxford-reve-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And I saw what appeared to be a sea of glass mixed with fire, and those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands."
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , see 4.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-reve-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And they sing the song of Moses, the servant of God, and the song of the Lamb: “Great and amazing are your deeds, Lord God the Almighty! Just and true are your ways, King of the nations!"
+    },
+    {
+      "block_id": "oxford-reve-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Lord, who will not fear and glorify your name? For you alone are holy. All nations will come and worship before you, for your judgments have been revealed.”"
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-4",
+      "type": "commentary",
+      "text": "15.2–4 : Vision of the victorious martyrs in heaven (8.3–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-6",
+      "type": "commentary",
+      "text": "3–4 : Ex 15.1–18; Deut 32. The hymn is actually a collage of phrases taken from many Jewish scriptures.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "After this I looked, and the temple of the tent of witness in heaven was opened,"
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , the heavenly counterpart of the tent of witness that accompanied Israel's journey through the desert (Num 9.15). , cf. 11.19. On opening the heavenly gates as a prelude to judgment, see 3 Macc 6.18–19. In Rome, the Temple of Janus was opened as a prelude to war (Virgil, 1.294).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and out of the temple came the seven angels with the seven plagues, robed in pure bright linen, with golden sashes across their chests."
+    },
+    {
+      "block_id": "oxford-reve-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever;"
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , libation vessels used in religious rituals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-reve-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were ended."
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-1",
+      "type": "commentary",
+      "text": "15.1–16.21: The seven bowls of the wrath of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-2",
+      "type": "commentary",
+      "text": "15.1–8: The preparation for judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-15-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , Ex 19.18; 40.34–35; Isa 6.1–4; cf. 1 Kings 8.10–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 15
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

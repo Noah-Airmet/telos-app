@@ -1,0 +1,368 @@
+{
+  "document_id": "deut-16",
+  "title": "Deuteronomy 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Observe the month of Abib by keeping the passover to the Lord your God, for in the month of Abib the Lord your God brought you out of Egypt by night."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-5",
+      "type": "commentary",
+      "text": "1 : (lit., “new ear” of grain), in early spring, when ears of barley, the first crop, began to ripen (Ex 13.4; 23.15; 34.18). Originally the first month of the Hebrew calendar (Ex 12.2), later called “Nisan.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-deut-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall offer the passover sacrifice to the Lord your God, from the flock and the herd, at the place that the Lord will choose as a dwelling for his name."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , Ex 12.4–5,21 restricts the offering to the flock only.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-deut-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You must not eat with it anything leavened. For seven days you shall eat unleavened bread with it—the bread of affliction—because you came out of the land of Egypt in great haste, so that all the days of your life you may remember the day of your departure from the land of Egypt."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-7",
+      "type": "commentary",
+      "text": "3 : , combining the seven‐day observance of the festival of unleavened bread (Ex 12.14–20; 23.15) and the one‐evening observance of Passover (vv. 1–3a,4b–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "No leaven shall be seen with you in all your territory for seven days; and none of the meat of what you slaughter on the evening of the first day shall remain until morning."
+    },
+    {
+      "block_id": "oxford-deut-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You are not permitted to offer the passover sacrifice within any of your towns that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-deut-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But at the place that the Lord your God will choose as a dwelling for his name, only there shall you offer the passover sacrifice, in the evening at sunset, the time of day when you departed from Egypt."
+    },
+    {
+      "block_id": "oxford-deut-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You shall cook it and eat it at the place that the Lord your God will choose; the next morning you may go back to your tents."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , more accurately, “boil,” like other standard sacrifices (Ex 29.1; Lev 6.28; 8.31; Num 6.19; Zech 14.21). This provision conflicts with the stipulation that the paschal offering be “roasted over the fire,” not “boiled in water” (Ex 12.8–9). The two inconsistent requirements for preparing the Passover are harmonized at 2 Chr 35.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-deut-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For six days you shall continue to eat unleavened bread, and on the seventh day there shall be a solemn assembly for the Lord your God, when you shall do no work."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-4",
+      "type": "commentary",
+      "text": "1–8 : Passover, as originally described in the Exodus narrative, was a separate, family observance (Ex 12.1–13,21–23), involving a nighttime slaughter of a sheep or goat in the doorway of the house, where the blood was smeared to mark the house as Israelite. Deuteronomy’s centralization of worship necessitated the redirection of the paschal slaughter to the central sanctuary (vv. 2,6–7). The older blood ritual then merges with the festival of unleavened bread, also celebrated in early spring. In contrast to Deuteronomy, the festivals of Passover and unleavened bread remain distinct in Lev 23.5–6; Num 28.16,17–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-deut-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall count seven weeks; begin to count the seven weeks from the time the sickle is first put to the standing grain."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , the seven weeks begin when the grain is ripe, delaying the celebration until the conclusion of the harvest. Lev 23.15 offers a slightly different date for this festival.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Then you shall keep the festival of weeks to the Lord your God, contributing a freewill offering in proportion to the blessing that you have received from the Lord your God."
+    },
+    {
+      "block_id": "oxford-deut-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Rejoice before the Lord your God—you and your sons and your daughters, your male and female slaves, the Levites resident in your towns, as well as the strangers, the orphans, and the widows who are among you—at the place that the Lord your God will choose as a dwelling for his name."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , the command to rejoice specifies the inclusion of women (as v. 14; 12.12,18). , the marginalized and the disadvantaged are also included. , better, “resident aliens”; see 1.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-deut-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Remember that you were a slave in Egypt, and diligently observe these statutes."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-9",
+      "type": "commentary",
+      "text": "9–12 : The festival of weeks (Heb “shavu˓ot”; Ex 34.22; Lev 23.15–16; Num 28.26), originally a “festival of harvest” (Ex 23.16) celebrated in June. In postbiblical Judaism, the festival came to be associated with the revelation at Mount Sinai (Ex 19–20); in the New Testament it is called Pentecost because it begins on the fiftieth day after Passover (Acts 2.1; 20.16; 1 Cor 16.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You shall keep the festival of booths for seven days, when you have gathered in the produce from your threshing floor and your wine press."
+    },
+    {
+      "block_id": "oxford-deut-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Rejoice during your festival, you and your sons and your daughters, your male and female slaves, as well as the Levites, the strangers, the orphans, and the widows resident in your towns."
+    },
+    {
+      "block_id": "oxford-deut-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Seven days you shall keep the festival to the Lord your God at the place that the Lord will choose; for the Lord your God will bless you in all your produce and in all your undertakings, and you shall surely celebrate."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-12",
+      "type": "commentary",
+      "text": "13–15 : , originally the fall harvest festival, called “ingathering” (Ex 23.16; 34.22; cf. Lev 23.33–43).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Three times a year all your males shall appear before the Lord your God at the place that he will choose: at the festival of unleavened bread, at the festival of weeks, and at the festival of booths.a They shall not appear before the Lord empty‐handed;"
+    },
+    {
+      "block_id": "oxford-deut-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "all shall give as they are able, according to the blessing of the Lord your God that he has given you."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–17: The festival calendar. Previously, each male Israelite was commanded to undertake three pilgrimages to “appear before the ”: to make an offering at one of the multiple local sanctuaries (v. 16; cf. Ex 23.14–18). These occasions, which Deuteronomy redirects to the central sanctuary, were called “pilgrimage festivals.” The three festivals were unleavened bread (Heb “matsot”), harvest, and ingathering (Ex 23.14–17; 34.18,23). Deuteronomy renames the latter two “weeks” (Heb “shavu˓ot,” v. 10) and “booths” (Heb “sukkot,” v. 13), their current names.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-13",
+      "type": "commentary",
+      "text": "16–17 : The formulaic summary reuses the conclusion of the older festival calendar in the Book of the Covenant (Ex 23.17). Two elements, however, reflect older assumptions inconsistent with the rest of this chapter: Passover (vv. 1–8) is not mentioned, and the pilgrimage requirement is directed to (as Ex 23.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall appoint judges and officials throughout your tribes, in all your towns that the Lord your God is giving you, and they shall render just decisions for the people."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-16",
+      "type": "commentary",
+      "text": "18 : (lit., “gates”), the local sphere (12.15,17,21; 16.5), as distinguished from the central sanctuary; also the traditional place where the village elders dispensed justice (Job 29.7; Ruth 4.1,11; Lam 5.14). By leaving the elders unmentioned, Deuteronomy contracts or eliminates their authority, though they are mentioned elsewhere (e.g., 19.12; 21.2; 22.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-deut-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You must not distort justice; you must not show partiality; and you must not accept bribes, for a bribe blinds the eyes of the wise and subverts the cause of those who are in the right."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-17",
+      "type": "commentary",
+      "text": "19 : , an admonition, quoting Ex 23.6a (where the same verb is translated “pervert”). , the older law in Ex 23.8, whose reference to “those with sight” (NRSV’s “officials” is not correct) is revised in light of Deuteronomy’s stress upon wisdom (see 1.13n., 34.9n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-deut-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Justice, and only justice, you shall pursue, so that you may live and occupy the land that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-deut-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You shall not plant any tree as a sacred pole beside the altar that you make for the Lord your God;"
+    },
+    {
+      "block_id": "oxford-deut-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "nor shall you set up a stone pillar—things that the Lord your God hates."
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-2",
+      "type": "commentary",
+      "text": "12.1–26.15: The legal corpus: Deuteronomy’s transformation of earlier Israelite religion. Just as Deuteronomy provides a significant reinterpretation of earlier narrative traditions about the nation’s past (see 1.19–46n; 4.1–40n; 5.1–33n; 7.9–11n; etc.), so does it here advance a major new understanding of the nation’s religious requirements and legal traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-14",
+      "type": "commentary",
+      "text": "16.18–18.22: Laws of public officials. The proposed government has judicial, executive, and religious branches: local and central courts (16.18–17.13), kingship (17.14–20), levitical priesthood (18.1–8), and prophecy (18.9–22). Each relates to the others and is subordinated to the authority of the word of God, the teaching of Deuteronomy. Even institutions that might claim absolute authority, such as king or prophet, are integrated into a comprehensive vision. The continual concern with centralization of worship connects this section with the preceding legislation on the sacrificial system. The ritual laws (16.21–17.1) seem to intrude between two paragraphs each concerned with justice (16.18–20; 17.2–7), but the repetition provides a transition into the new section, while establishing the underlying unity of both areas of community life: (A) worship (12.1–16.17); (B) justice (16.18–20); (A′) worship (16.21–17.1); (B′) justice (17.2–7,8–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-15",
+      "type": "commentary",
+      "text": "16.18–17.13: The organization of justice. 16.18–20: Deuteronomy here establishes a professionalized local judiciary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-18",
+      "type": "commentary",
+      "text": "16.21–17.1: Prohibitions against Canaanite cultic objects (7.5; 12.3; Ex 34.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-16-h1kj-19",
+      "type": "commentary",
+      "text": "16.21–22 : See 7.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 16
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    }
+  ]
+}

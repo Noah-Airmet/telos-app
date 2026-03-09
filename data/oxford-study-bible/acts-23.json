@@ -1,0 +1,445 @@
+{
+  "document_id": "acts-23",
+  "title": "Acts 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-acts-23-heading-24",
+      "type": "heading",
+      "text": "24"
+    },
+    {
+      "block_id": "oxford-acts-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then the high priest Ananias ordered those standing near him to strike him on the mouth."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-2",
+      "type": "commentary",
+      "text": "23.2 : in the reigns of Claudius and Nero, was murdered by rebels about 66 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-acts-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "At this Paul said to him, “God will strike you, you whitewashed wall! Are you sitting there to judge me according to the law, and yet in violation of the law you order me to be struck?”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , cf. Ezek 13.10–15; Mt 23.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-acts-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Those standing nearby said, “Do you dare to insult God's high priest?”"
+    },
+    {
+      "block_id": "oxford-acts-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And Paul said, “I did not realize, brothers, that he was high priest; for it is written, ‘You shall not speak evil of a leader of your people.’”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-4",
+      "type": "commentary",
+      "text": "5 : Ex 22.28. It is strange that Paul does not recognize the",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-acts-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When Paul noticed that some were Sadducees and others were Pharisees, he called out in the council, “Brothers, I am a Pharisee, a son of Pharisees. I am on trial concerning the hope of the resurrection of the dead.”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-5",
+      "type": "commentary",
+      "text": "6 : as a (26.5; Phil 3.5) realizes he can exploit a difference of opinion between and over the (see Josephus, 2.163–65).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-acts-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When he said this, a dissension began between the Pharisees and the Sadducees, and the assembly was divided."
+    },
+    {
+      "block_id": "oxford-acts-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "(The Sadducees say that there is no resurrection, or angel, or spirit; but the Pharisees acknowledge all three.)"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-6",
+      "type": "commentary",
+      "text": "8 : denied a (Mk 12.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-acts-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then a great clamor arose, and certain scribes of the Pharisees’ group stood up and contended, “We find nothing wrong with this man. What if a spirit or an angel has spoken to him?”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-7",
+      "type": "commentary",
+      "text": "9 : The side with Paul (see 15.5n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-acts-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When the dissension became violent, the tribune, fearing that they would tear Paul to pieces, ordered the soldiers to go down, take him by force, and bring him into the barracks."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-8",
+      "type": "commentary",
+      "text": "10 : Paul is rescued from mob violence for a second time by an agent of Rome (21.33–36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-acts-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "That night the Lord stood near him and said, “Keep up your courage! For just as you have testified for me in Jerusalem, so you must bear witness also in Rome.”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-1",
+      "type": "commentary",
+      "text": "22.30–23.11: Paul before the Sanhedrin. The tribune brings him before it to get evidence, not to try him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-9",
+      "type": "commentary",
+      "text": "11 : A vision (cf. 18.9–10) provides assurance that martyrdom will not occur in Jerusalem (21.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-acts-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "In the morning the Jews joined in a conspiracy and bound themselves by an oath neither to eat nor drink until they had killed Paul."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , 9.24; 20.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-acts-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "There were more than forty who joined in this conspiracy."
+    },
+    {
+      "block_id": "oxford-acts-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "They went to the chief priests and elders and said, “We have strictly bound ourselves by an oath to taste no food until we have killed Paul."
+    },
+    {
+      "block_id": "oxford-acts-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Now then, you and the council must notify the tribune to bring him down to you, on the pretext that you want to make a more thorough examination of his case. And we are ready to do away with him before he arrives.”"
+    },
+    {
+      "block_id": "oxford-acts-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Now the son of Paul's sister heard about the ambush; so he went and gained entrance to the barracks and told Paul."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-12",
+      "type": "commentary",
+      "text": "16 : There is no other extant information about Paul's family. The notion of Paul's education in Jerusalem (22.3) could suggest that other family members were there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-acts-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Paul called one of the centurions and said, “Take this young man to the tribune, for he has something to report to him.”"
+    },
+    {
+      "block_id": "oxford-acts-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "So he took him, brought him to the tribune, and said, “The prisoner Paul called me and asked me to bring this young man to you; he has something to tell you.”"
+    },
+    {
+      "block_id": "oxford-acts-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The tribune took him by the hand, drew him aside privately, and asked, “What is it that you have to report to me?”"
+    },
+    {
+      "block_id": "oxford-acts-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He answered, “The Jews have agreed to ask you to bring Paul down to the council tomorrow, as though they were going to inquire more thoroughly into his case."
+    },
+    {
+      "block_id": "oxford-acts-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But do not be persuaded by them, for more than forty of their men are lying in ambush for him. They have bound themselves by an oath neither to eat nor drink until they kill him. They are ready now and are waiting for your consent.”"
+    },
+    {
+      "block_id": "oxford-acts-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "So the tribune dismissed the young man, ordering him, “Tell no one that you have informed me of this.”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-13",
+      "type": "commentary",
+      "text": "17–22 : The prisoner Paul's remarkable access to the commanders shows some favoritism.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 17,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-acts-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then he summoned two of the centurions and said, “Get ready to leave by nine o’clock tonight for Caesarea with two hundred soldiers, seventy horsemen, and two hundred spearmen."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-14",
+      "type": "commentary",
+      "text": "23 : , 8.40n. The number of emphasizes the danger faced. The Gk word translated is obscure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-acts-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Also provide mounts for Paul to ride, and take him safely to Felix the governor.”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-15",
+      "type": "commentary",
+      "text": "24 : Antonius , procurator of Judea (ca. 52–60 ), brother of Pallas, a favorite freedman of the emperor Claudius.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-acts-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "He wrote a letter to this effect:"
+    },
+    {
+      "block_id": "oxford-acts-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "“Claudius Lysias to his Excellency the governor Felix, greetings."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-16",
+      "type": "commentary",
+      "text": "26 : , the same word used in addressing Theophilus (Lk 1.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-acts-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "This man was seized by the Jews and was about to be killed by them, but when I had learned that he was a Roman citizen, I came with the guard and rescued him."
+    },
+    {
+      "block_id": "oxford-acts-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Since I wanted to know the charge for which they accused him, I had him brought to their council."
+    },
+    {
+      "block_id": "oxford-acts-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "I found that he was accused concerning questions of their law, but was charged with nothing deserving death or imprisonment."
+    },
+    {
+      "block_id": "oxford-acts-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "When I was informed that there would be a plot against the man, I sent him to you at once, ordering his accusers also to state before you what they have against him.”"
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-17",
+      "type": "commentary",
+      "text": "27–30 : The letter summarizes the preceding events and perhaps casts the tribune in a better light. As was the case with Jesus (Lk 23.4,14–16,20–25), Romans find no serious charges (v. 29; cf. 18.14–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 27,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-acts-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "So the soldiers, according to their instructions, took Paul and brought him during the night to Antipatris."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-18",
+      "type": "commentary",
+      "text": "31 : , a city in the Plain of Sharon on the main road to Caesarea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-acts-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "The next day they let the horsemen go on with him, while they returned to the barracks."
+    },
+    {
+      "block_id": "oxford-acts-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When they came to Caesarea and delivered the letter to the governor, they presented Paul also before him."
+    },
+    {
+      "block_id": "oxford-acts-23-34",
+      "type": "verse",
+      "number": 34,
+      "text": "On reading the letter, he asked what province he belonged to, and when he learned that he was from Cilicia,"
+    },
+    {
+      "block_id": "oxford-acts-23-35",
+      "type": "verse",
+      "number": 35,
+      "text": "he said, “I will give you a hearing when your accusers arrive.” Then he ordered that he be kept under guard in Herod's headquarters."
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-10",
+      "type": "commentary",
+      "text": "23.12–35: A plot to kill Paul results in his transfer to Caesarea, the seat of the Roman governor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 12,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-acts-23-h1kj-19",
+      "type": "commentary",
+      "text": "35 : , a palace built by Herod the Great and occupied by the Roman governors in Palestine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 23
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    }
+  ]
+}

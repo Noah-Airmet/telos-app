@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-16",
+  "title": "Section 16: Peter Whitmer Jr. called",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-16-heading",
+      "type": "heading",
+      "text": "Peter Whitmer Jr. called"
+    },
+    {
+      "block_id": "dc-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 16 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 16,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

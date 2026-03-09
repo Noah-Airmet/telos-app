@@ -1,0 +1,115 @@
+{
+  "document_id": "ps-11",
+  "title": "Psalms 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-11-heading-psalm-12",
+      "type": "heading",
+      "text": "Psalm 12"
+    },
+    {
+      "block_id": "oxford-ps-11-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In the Lord I take refuge; how can you say to me, “Flee like a bird to the mountains;"
+    },
+    {
+      "block_id": "oxford-ps-11-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 11: Trust in the Lord and do not panic. A song of trust, which develops one aspect of the individual petition, the statement of trust in the in the Temple (as in Pss 27.8–9,13; 42.2). After a scornful dismissal of timorous advice (vv. 1–3), it offers a bold statement of confidence in God (vv. 4–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-11-h1kj-2",
+      "type": "commentary",
+      "text": "1 : Disaster in the form of invading armies and moral collapse has struck and people are urging flight. A fleeing is a symbol of panicstricken flight as in Isa 16.2; Prov 27.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "for look, the wicked bend the bow, they have fitted their arrow to the string, to shoot in the dark at the upright in heart."
+    },
+    {
+      "block_id": "oxford-ps-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If the foundations are destroyed, what can the righteous do?”"
+    },
+    {
+      "block_id": "oxford-ps-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord is in his holy temple; the Lord’s throne is in heaven. His eyes behold, his gaze examines humankind."
+    },
+    {
+      "block_id": "oxford-ps-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord tests the righteous and the wicked, and his soul hates the lover of violence."
+    },
+    {
+      "block_id": "oxford-ps-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "On the wicked he will rain coals of fire and sulfur; a scorching wind shall be the portion of their cup."
+    },
+    {
+      "block_id": "oxford-ps-11-h1kj-4",
+      "type": "commentary",
+      "text": "6 : and , divine weapons (see Gen 19.24; Am 7.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 11
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For the Lord is righteous; he loves righteous deeds; the upright shall behold his face."
+    },
+    {
+      "block_id": "oxford-ps-11-h1kj-3",
+      "type": "commentary",
+      "text": "4–7 : Rejecting others’ advice, the psalmist chooses instead to trust in the ’s protective presence in the Temple, confident that the just will curb the wicked and uphold the loyal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 11
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-11-h1kj-5",
+      "type": "commentary",
+      "text": "7 : The see the ’s , i.e., experience the divine presence in the Temple; see Pss 27.8–9; 42.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 11
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    }
+  ]
+}

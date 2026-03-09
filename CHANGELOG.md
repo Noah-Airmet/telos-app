@@ -5,6 +5,14 @@ All notable changes to the Telos Gospel Library project will be documented in th
 ## [Unreleased]
 
 ### Added
+- **Oxford Study Bible full support:** Complete ingestion and display of The New Oxford Annotated Bible with Apocrypha.
+  - **Long verse commentary (h1.h1kj):** Extracts verse-by-verse notes from `h1.h1kj` elements (inside `notegroup`) before removal; parses bold verse refs and commentary text; merges into chapter documents with `verse_start`/`verse_end`; supports multi-chapter spans.
+  - **Section intro essays:** Pentateuch, Historical Books, Apocrypha, Gospels from `012_part1a`, `012_part1g`, `013_part2a`, `014_part3a`; emitted as `oxford-essay-pentateuch`, etc.
+  - **General essays:** Canons, Textual Criticism, Interpretation, and 15+ essays from `100_part5.xhtml`.
+  - **Essay document type:** New `type: "essay"` in `TelosDocument`; essays use `heading` and `paragraph` blocks with `compare_unit_ids` for verse links.
+  - **Two-column layout for study Bibles:** When viewing Oxford Study Bible, scripture in left column (60–70%), margin notes (commentary blocks) in right column (30–40%).
+  - **Essays in library:** "Essays" book under Oxford Study Bible lists all essay titles; chapter picker shows essay titles for Essays book; Command Palette searches essays.
+  - **Document ID navigation:** `ReadingPaneState` supports optional `document_id` for essay loading; `syncReadingGroupLocation` and prev/next handlers support essay navigation.
 - **Verse-based comparison model:** Added canonical `compare_units` plus verse-range metadata on render blocks in `src/db/db.ts` and `src/lib/scripture.ts`, so editions can preserve their own paragraph layout while Diffs and linked sync operate on shared verse identities.
 - **Regression coverage for verse-based Diffs:** Added `scripts/scripture-regression.test.ts` covering Hardy paragraph normalization, LDS coverage matching, and chapter-level compare readiness.
 - **Pane launcher workflow:** Added a dedicated in-shell pane chooser so the reading-pane `Add` button can open `Reader`, `Workspace`, or `Notes` panes without relying on the old global topbar creation controls.
@@ -14,6 +22,7 @@ All notable changes to the Telos Gospel Library project will be documented in th
 - **Block-level note indicators:** Reading panes now show note badges on anchored blocks and can reopen the notes pane focused on the corresponding note.
 
 ### Changed
+- **Oxford Study Bible books in canonical order:** `generate-manifest.ts` applies `bookSequence()` for Oxford (as with NRSVue/KJV) so OT, NT, and Deuterocanonical books appear in standard Bible order.
 - **Diff resolution now uses verse alignment instead of raw block identity:** `src/components/ReadingPane.tsx` now builds comparison text from canonical verse compare units rather than `block_id === block_id` lookup, which lets Hardy paragraphs compare against the corresponding 2013 BoM verses.
 - **Linked reading sync now follows canonical compare-unit IDs:** `src/App.tsx`, `src/components/ReadingPane.tsx`, and `src/components/VerseBlock.tsx` now sync linked panes by verse-level comparison identity instead of source block IDs, improving cross-edition scroll alignment.
 - **Hardy ingest now preserves layout separately from comparison units:** `scripts/lib/profiles/hardy-bom.ts` now emits paragraph-aware render blocks with verse-level compare units and verse-range metadata, preparing future ingests for structurally correct cross-edition comparison.

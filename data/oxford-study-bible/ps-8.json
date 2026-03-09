@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-8",
+  "title": "Psalms 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-8-heading-psalm-9",
+      "type": "heading",
+      "text": "Psalm 9"
+    },
+    {
+      "block_id": "oxford-ps-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, our Sovereign, how majestic is your name in all the earth! You have set your glory above the heavens."
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 8: Wonder at the Lord’s creation of humans. This memorable hymn praises God who has given such honor and responsibility to humans.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , parallel to (of God). As often in hymns, the opening invitation is reprised in the final line (v. 9), forming an inclusio or envelope structure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Out of the mouths of babes and infants you have founded a bulwark because of your foes, to silence the enemy and the avenger."
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-3",
+      "type": "commentary",
+      "text": "2 : The text is unclear; it may refer to the ’s victory over chaotic forces (see Pss 89; 93).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When I look at your heavens, the work of your fingers, the moon and the stars that you have established;"
+    },
+    {
+      "block_id": "oxford-ps-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "what are human beings that you are mindful of them, mortals that you care for them?"
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Contrast Ps 144.3; Job 7.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Yet you have made them a little lower than God, and crowned them with glory and honor."
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , better, “heavenly beings” (Heb “ʾelohim,” lit., “gods”; see textual note ). As the heavenly world is ruled by heavenly beings, so the earthly world, parallel to it, is ruled by earthly beings as in Gen 1.26–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You have given them dominion over the works of your hands; you have put all things under their feet,"
+    },
+    {
+      "block_id": "oxford-ps-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "all sheep and oxen, and also the beasts of the field,"
+    },
+    {
+      "block_id": "oxford-ps-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "the birds of the air, and the fish of the sea, whatever passes along the paths of the seas."
+    },
+    {
+      "block_id": "oxford-ps-8-h1kj-4",
+      "type": "commentary",
+      "text": "3–8 : Looking at the vast universe, the poet is awed by the ’s attentiveness to one small element in that universe: humans, who have been given the honor of ruling the three domains of sky, earth, and sea. The picture is much like Gen 1.26–28, where humans rule over the three domains and enjoy the dignity of being created in the image of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "O Lord, our Sovereign, how majestic is your name in all the earth!"
+    }
+  ]
+}

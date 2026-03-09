@@ -1,0 +1,223 @@
+{
+  "document_id": "sos-15",
+  "title": "sos 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-15-heading-16",
+      "type": "heading",
+      "text": "16"
+    },
+    {
+      "block_id": "oxford-sos-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "She will come to meet him like a mother, and like a young bride she will welcome him."
+    },
+    {
+      "block_id": "oxford-sos-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "She will feed him with the bread of learning, and give him the water of wisdom to drink."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-3",
+      "type": "commentary",
+      "text": "2–3 : nurtures as a and loves as a (cf. Prov 7.4; Wis 7.12; 8.2). and , cf. 1.16; 24.19–21; Prov 9.1–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sos-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He will lean on her and not fall, and he will rely on her and not be put to shame."
+    },
+    {
+      "block_id": "oxford-sos-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "She will exalt him above his neighbors, and will open his mouth in the midst of the assembly."
+    },
+    {
+      "block_id": "oxford-sos-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He will find gladness and a crown of rejoicing, and will inherit an everlasting name."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , 1.11; 6.31. , immortality through a good reputation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The foolish will not obtain her, and sinners will not see her."
+    },
+    {
+      "block_id": "oxford-sos-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "She is far from arrogance, and liars will never think of her."
+    },
+    {
+      "block_id": "oxford-sos-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Praise is unseemly on the lips of a sinner, for it has not been sent from the Lord."
+    },
+    {
+      "block_id": "oxford-sos-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For in wisdom must praise be uttered, and the Lord will make it prosper."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-1",
+      "type": "commentary",
+      "text": "14.20–15.10. The benefits of wisdom. Whoever pursues Wisdom will receive benefits from her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Do not say, “It was the Lord's doing that I fell away”; for he does not do what he hates."
+    },
+    {
+      "block_id": "oxford-sos-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Do not say, “It was he who led me astray”; for he has no need of the sinful."
+    },
+    {
+      "block_id": "oxford-sos-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The Lord hates all abominations; such things are not loved by those who fear him."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-6",
+      "type": "commentary",
+      "text": "11–13 : Even though God created all things (see 11.14), God cannot .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "It was he who created humankind in the beginning, and he left them in the power of their own free choice."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-8",
+      "type": "commentary",
+      "text": "14 : (Heb “yetser”) can have both positive (Isa 26.3; 1 Chr 29.18) and negative (Gen 6.5; 8.1) connotations in the Hebrew Bible. In later Jewish texts, the idea develops that every person possesses a good and an evil “yetser.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If you choose, you can keep the commandments, and to act faithfully is a matter of your own choice."
+    },
+    {
+      "block_id": "oxford-sos-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He has placed before you fire and water; stretch out your hand for whichever you choose."
+    },
+    {
+      "block_id": "oxford-sos-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Before each person are life and death, and whichever one chooses will be given."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-7",
+      "type": "commentary",
+      "text": "14–17 : Humans have had free choice since , a likely interpretation of Gen 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 14,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-9",
+      "type": "commentary",
+      "text": "17 : , Deut 30.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For great is the wisdom of the Lord; he is mighty in power and sees everything;"
+    },
+    {
+      "block_id": "oxford-sos-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "his eyes are on those who fear him, and he knows every human action."
+    },
+    {
+      "block_id": "oxford-sos-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He has not commanded anyone to be wicked, and he has not given anyone permission to sin."
+    },
+    {
+      "block_id": "oxford-sos-15-h1kj-5",
+      "type": "commentary",
+      "text": "15.11–16.23: Free will and God's justice. God created humans with the capacity to choose, and so they are responsible for their sins, both individually and corporately.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 15
+      },
+      "verse_start": 11,
+      "verse_end": 20
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "document_id": "add-esth-10",
+  "title": "Additions to Esther 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-add-esth-10-heading-interpretation",
+      "type": "heading",
+      "text": "Interpretation"
+    },
+    {
+      "block_id": "oxford-add-esth-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": ") and the colophon (descriptive note at the end of a manuscript) to the Greek version (11.1) Besides the Additions, the translators also made many minor changes as they rendered the Hebrew text; these are mentioned in the annotations. It is also likely that the base text used by the early translators was not identical to the one preserved within later Judaism."
+    }
+  ]
+}

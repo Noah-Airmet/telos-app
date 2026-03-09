@@ -1,0 +1,157 @@
+{
+  "document_id": "sons-3",
+  "title": "sons 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sons-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-sons-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“I will rise now and go about the city, in the streets and in the squares; I will seek him whom my soul loves.” I sought him, but found him not."
+    },
+    {
+      "block_id": "oxford-sons-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The sentinels found me, as they went about in the city. “Have you seen him whom my soul loves?”"
+    },
+    {
+      "block_id": "oxford-sons-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Scarcely had I passed them, when I found him whom my soul loves. I held him, and would not let him go until I brought him into my mother's house, and into the chamber of her that conceived me."
+    },
+    {
+      "block_id": "oxford-sons-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I adjure you, O daughters of Jerusalem, by the gazelles or the wild does: do not stir up or awaken love until it is ready!"
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–5 : In her second story, she describes her nocturnal search for her beloved and its resolution when she finds him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-3",
+      "type": "commentary",
+      "text": "5 : See 2.7; 8.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-sons-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "What is that coming up from the wilderness, like a column of smoke, perfumed with myrrh and frankincense, with all the fragrant powders of the merchant?"
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , the procession is in motion. First it looks . Next comes an appeal to the sense of smell created by the fragrant aromas of and , suggesting that what is approaching from the distance might be a caravan laden with .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sons-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Look, it is the litter of Solomon! Around it are sixty mighty men of the mighty men of Israel,"
+    },
+    {
+      "block_id": "oxford-sons-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "all equipped with swords and expert in war, each with his sword at his thigh because of alarms by night."
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-6",
+      "type": "commentary",
+      "text": "7–8 : , now the source of the smoke and the fragrance can be seen, a or (v. 9), an enclosed chair or couch carried by bearers, surrounded by an armed escort.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-sons-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "King Solomon made himself a palanquin from the wood of Lebanon."
+    },
+    {
+      "block_id": "oxford-sons-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He made its posts of silver, its back of gold, its seat of purple; its interior was inlaid with love. Daughters of Jerusalem,"
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-7",
+      "type": "commentary",
+      "text": "9–10 : The trappings of the magnificent progressively come into view. is not a material for decorating, like , , , and , and should be emended to “precious stones” or “ebony” or “leather.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sons-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "come out. Look, O daughters of Zion, at King Solomon, at the crown with which his mother crowned him on the day of his wedding, on the day of the gladness of his heart."
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-1",
+      "type": "commentary",
+      "text": "2.8–3.11: The woman's first long speech. The woman's primary mode of speaking about love is to tell stories in which she and her lover are characters. As stories, these parts of the Song, unlike the poem as a whole, have plots. Here she tells three.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sons-3-h1kj-4",
+      "type": "commentary",
+      "text": "3.6–11 : Her third story. A luxurious conveyance approaches, bearing her lover, whom she casts in the role of King Solomon on his wedding day.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 11
+    }
+  ]
+}

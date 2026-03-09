@@ -1,0 +1,198 @@
+{
+  "document_id": "oxford-essay-textual-criticism",
+  "title": "Textual Criticism",
+  "type": "essay",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-0",
+      "type": "heading",
+      "text": "The Need for Textual Criticism"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-1",
+      "type": "paragraph",
+      "text": "No original manuscript of any biblical book has survived. This situation, which may seem unusual to us, is actually quite normal for ancient writings, and even for those from only a few centuries ago. For instance, none of Shakespeare’s plays is available in the original manuscript from Shakespeare’s hand, and for most of them there are two or more early printed versions with many differences between them. For the biblical books, numerous copies or partial copies, varying greatly in age and quality, have been preserved in various parts of the world. Occasionally, as with the discovery of the Dead Sea Scrolls (the Qumran documents) in the mid-twentieth century, new copies turn up. Nevertheless, for the entire text of the Bible, scholars are faced with a situation in which they have multiple manuscripts that have been copied by hand so that each is a unique product, unlike a modern printed or electronic book, and therefore the copies differ among themselves in many places, some differences being trivial and some important. Given this situation, scholars have had to develop a methodology for deciding which wording should be followed in cases where the copies disagree. This methodology is called “textual criticism” because it is a way of assessing a text through critical comparison of its different copies."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-2",
+      "type": "paragraph",
+      "text": "Textual criticism is not used only on religious writings. Any important text where there is not a definitive, printed edition backed up with an author’s manuscript or corrected by the author may need to undergo textual criticism. Confused letters, omitted words, even graphic elements like incorrect indentions of poetic lines, can all mean that a text does not reflect the original author’s intentions completely. The methods may have to be adapted to differing circumstances, but the principles have been developed over centuries and have been checked when manuscripts have been found that can confirm or refute reconstructions of a text. Most important, there is widespread agreement among textual scholars on the methods and procedures that should be used, even when the results remain in dispute."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-3",
+      "type": "heading",
+      "text": "Definitions"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-4",
+      "type": "paragraph",
+      "text": "Establishing a critical edition of the biblical text involves the collection of all the differences between manuscript copies of any text, and the publication of all significant ones. The manuscripts are in the form of collections of biblical books, usually bound leaves, called codices (the plural of codex); scrolls, or long strips of papyrus or parchment rolled up, of individual books, such as those found at Qumran near the Dead Sea; lectionaries, or passages excerpted from texts in order to be read in worship services; and citations, or quotations in ancient works, such as the Dead Sea Scrolls, rabbinic literature, and early church writings. These sources, taken all together, are called witnesses or authorities, and the differences among them are called variant readings or simply variants. Also important are ancient translations, or versions, of the Bible, which provide indirect evidence for the original text. More details on these different forms of the texts are given below under the specific discussion of the texts for the Hebrew Bible, the Apocryphal/Deuterocanonical Books, and the New Testament."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-5",
+      "type": "heading",
+      "text": "Reasons for Variants"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-6",
+      "type": "paragraph",
+      "text": "Variants can be of several kinds. The copyist may have misseen or misheard a word, producing a simple spelling error, or perhaps a different word. For example, in Eph 4.32 (cf. 5.2), the variants alternate between the pronouns “us” and “you.” In Greek these two words are quite close (hēmin and humin), differing by only one letter, and when pronounced aloud they are almost indistinguishable. In other places, the copyist’s eye may inadvertently have skipped a phrase or sentence, thereby leaving out a sequence of words. In Sir 30.11–12, for example, some manuscripts omit two lines ending “… in his youth,” possibly because the immediately preceding line also ends “… in his youth” and the copyist picked up after the second occurrence, omitting what came in between. Conversely, the copyist may inadvertently have gone over a phrase twice, producing a repetition. Although it may be difficult to determine when these errors took place in particular instances, there is nothing complex about them, and many variants are of this kind."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-7",
+      "type": "paragraph",
+      "text": "Sometimes, however, copyists seem to have tried to improve the text they were reproducing. They might have done this in several ways. They may have tried to change a word or phrase that was unacceptable for one reason or another by substituting a more acceptable word or phrase. At 1 Tim 5.16, for example, the text reads “believing woman,” and the translators’ note says that some manuscripts have “believing man or woman,” others “believing man.” Here the translators have chosen the variant that is the most unusual, assuming that a copyist would more likely expand the phrase, or substitute “man” for “woman,” rather than the reverse, in a cultural context that tended to treat women as less important than men. Copyists might also have been aware of a similar passage in another biblical book, and tried to make the passage they were copying conform to that. For example, Lk 11.2, the beginning of the Lord’s Prayer, has variant readings that are probably an effort to make it conform to Mt 6.9. Copyists might also have tried to make the text support a particular theological view or belief. For instance, at Deut 32.8, some manuscripts read “according to the number of the sons of God” (NRSV “the gods,” a paraphrase), while others read “according to the number of the sons of Israel” (NRSV “Israelites”). There is general agreement that the second variant was introduced by a scribe trying to avoid a polytheistic wording. Copying a manuscript was not simply a mechanical process, but could involve deliberate changes for a number of reasons."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-8",
+      "type": "heading",
+      "text": "Ancient Translations"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-9",
+      "type": "paragraph",
+      "text": "These methods of trying to determine the correct reading do not always provide enough evidence, or it may be that none of the existing manuscripts seems to have preserved the exact wording of the original author. Another source of information that scholars turn to is very early translations of the Bible. These early translations are often called “versions,” and they were in use among Jews or Christians whose primary languages were other than the ones used in the original writings. They include translations of the Hebrew Bible into Greek (for instance, the Septuagint or LXX), Aramaic (translations and paraphrases called “Targums”), Syriac (the Peshitta), and Latin (the Vulgate), and translations of part or all of the Christian scriptures into Syriac, Coptic, and other languages."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-10",
+      "type": "paragraph",
+      "text": "These versions are useful to translators because the early stage at which they were made provides insight into forms of the biblical text that may be closer to the original writings. They can therefore be consulted for help in determining what is more likely to be an original reading, or when the best manuscripts of the original language texts have gaps or obvious errors. In many translations, including the NRSV, these ancient versions are cited in the footnotes to explain where and why the translators have chosen an alternative reading or translated something other than the text that has come down to us. For readers unfamiliar with the nomenclature of these ancient documents, however, such notes may not convey very much information."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-11",
+      "type": "heading",
+      "text": "The Process of Textual Criticism"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-12",
+      "type": "paragraph",
+      "text": "In order to establish the best possible text, scholars must first collect all of the significant variants and information about the manuscripts in which they occur. As a practical matter, a critical text—one with a version of the Greek or Hebrew on the page and an apparatus, usually footnotes giving variants and their source manuscripts—is published. Scholars must then determine whether they will accept the readings in the text or adopt instead one of the alternatives."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-13",
+      "type": "paragraph",
+      "text": "They may first rely on external evidence. This would include matters such as the age of the manuscript in which the variant occurs, since older manuscripts are generally closer to the original than later ones; or whether the variant occurs in manuscripts from only one region or in those from widely different regions. They will also use internal evidence: In general, shorter readings are preferable to longer ones, since scribes are more likely to add to a text than to delete materials (though, in the case of offensive or theologically challenging texts, deletion must be considered); difficult readings, including awkward phrases, coarse words, and poor grammar, are preferable to smoother ones, since scribes might try to correct such difficulties; and stylistic considerations can help judgments about how a particular author would have written."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-14",
+      "type": "paragraph",
+      "text": "The task would be difficult enough if scholars could be sure that the original wording in any place with a variant reading was preserved in at least one manuscript; but even that is not necessarily the case. There are instances where no existing manuscript is likely to preserve the original wording: where none of the variants seem to be right, or where the original text does not make sense as far as current scholarship can determine. In such cases scholars must assume that the original wording of the text has been lost or distorted in the course of the copying process. They then have several options open to them. One (called “conjectural emendation”) is to conjecture, based on the text as it now stands, what the original wording might have been. This can often be based on a scholar’s general knowledge of the ancient languages, just as an English speaker can notice, and mentally correct, a typographical error in a modern book without having access to the author’s manuscript. Another possibility is to consult the ancient versions. Finally, scholars may have to admit defeat and acknowledge that, given the current state of our knowledge, it is impossible to determine what the original wording might have been. For instance, at 1 Sam 13.1, the translation shows, by the use of ellipsis, that a word (the age of Saul when he began to reign) is missing. The translators’ note points out that this number is not in the Hebrew text, and that the obvious second place to look for it, the ancient Greek translation known as the Septuagint, does not include any part of the verse. It is therefore impossible to recover the original wording unless some other ancient manuscript source is discovered."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-15",
+      "type": "paragraph",
+      "text": "The translators’ notes in the NRSV call attention to all of these matters and many others as well. These notes, printed in italic type and keyed to the text by superscript letters, can be found at the bottom of the right-hand column of the translation on each page. The abbreviations used in these notes are given in the discussion below, and are listed on p. xxi."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-16",
+      "type": "heading",
+      "text": "The Hebrew Bible: Texts and Versions"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-17",
+      "type": "paragraph",
+      "text": "The basic text for the Hebrew Bible today is called the Masoretic Text (MT), an edition of the Hebrew that was standardized in the fifth to tenth centuries ce by rabbinic scholars (called masoretes, from Heb massorah, probably “what is handed down,” that is, “tradition”). The Masoretic Text accomplished two things: It settled upon a consonantal text, that is, it established specific choices for the consonants of the Hebrew words in the text; and it “pointed” those letters with a system of markings that indicated which vowels should be read with the Hebrew letters. This two-part decision was necessary because classical Hebrew writing was in effect a system of consonants, with only a few ways of indicating vowel sounds. Words with the same consonants but different vowels would look the same, as would the English words “untrained” and “interned” if they were both spelled “ntrnd.” In the notes to the Hebrew Bible of the NRSV, “Heb” may refer to the consonantal (unpointed) Hebrew text, and MT to the same text with the vowel pointings included. The distinction is an important one, because the consonants are more likely to represent the original text than are the vowel sounds, which were added later, though based on older traditions. If the same consonants will make more sense with different vowels, the NRSV (and most other modern translations) will assume that those different vowels yield a word that is closer to the original text."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-18",
+      "type": "paragraph",
+      "text": "When ancient scholars had gotten the Masoretic Text into its final form, it became the standard text-form and alternative text-traditions were lost. Therefore, all copies of the Hebrew Bible that were known were based upon this Masoretic Text, and although there were variants among the different copies, there was no way to check independently on the textual basis of most of the Hebrew Bible. With a few exceptions, this remained the case until the discovery of the Dead Sea Scrolls (the library of the Qumran community) in 1947. Among the scrolls were manuscripts of most books of the Hebrew Bible that were more than a thousand years older than the oldest manuscripts available up to that point. These more ancient copies of the Hebrew text have shed light on some passages in the traditional form of the biblical text. For example, at 1 Sam 10.27–11.1 in the traditional text there is no indication of the background to the conflict between King Nahash of Ammon and the men of Jabeshgilead. But in a Qumran manuscript of 2 Samuel there is a continuation of 10.27 and an opening phrase for 11.1 that explains the context, and the NRSV includes them."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-19",
+      "type": "paragraph",
+      "text": "In cases where no form of the Hebrew text gives a reading that is satisfactory, scholars can turn to the ancient versions. The assistance these ancient versions give to textual critics and translators is partly due to the situation with regard to the text of the Hebrew Bible explained above. These early translations were made from Greek or Hebrew texts that, for the most part, are earlier than those copies of the Masoretic Text that have survived to the present. They therefore can give guidance to scholars about the state of the text, and even choices of wording, that are not represented in existing manuscripts. They can also confirm readings as being more likely. Of course, these ancient translations are themselves preserved only in copies, so that all of the considerations that apply to the original language texts of the Bible also apply to them: It is necessary to establish a critical text for them by comparing variant readings. They must therefore be used with caution, and they cannot be relied upon absolutely. This is, of course, a standard of comparison at one remove from the text itself: Scholars must look at the Greek, for instance, in the Septuagint, and conjecture or assume what the Hebrew would have been in order to result in a particular rendition into Greek. Nevertheless, it is a valuable source of clues."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-20",
+      "type": "paragraph",
+      "text": "For example, at 1 Sam 10.1, the text of the Septuagint is longer than that of the Hebrew Bible. In examining the difference, scholars have theorized that a copyist of the Hebrew text inadvertently omitted part of the verse because the same phrase occurs twice in it, and the copyist went directly from one to the other, omitting what was in between."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-21",
+      "type": "paragraph",
+      "text": "The ancient versions of the Bible are referred to in a variety of ways by scholars. Following is a list, by language, of the chief versions."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-22",
+      "type": "paragraph",
+      "text": "Greek: The most prominent Greek version, and the oldest surviving translation of the Hebrew Bible, is the Septuagint, which was translated beginning in the third century bce for use of Jews who were living in the Diaspora in Alexandria, Egypt, and other places around the Mediterranean after the conquests of Alexander the Great, and who therefore spoke Greek. The Septuagint, from a word meaning “seventy” because of a legend that seventy or seventy-two scholars worked on it, is abbreviated LXX (the Roman numeral for seventy) and, in the notes to the NRSV of the Hebrew text, is referred to as “Gk.” Three later Greek versions—by Aquila, Symmachus, and Theodotion—were produced for the use of Jews after Christians had adopted the Septuagint as their scripture, and the increasing conflict between Jews and Christians about the interpretation of the Jewish scriptures had led Jews to stop using the Septuagint. These versions are also sometimes used by translators, but none of them has survived in its entirety."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-23",
+      "type": "paragraph",
+      "text": "Aramaic: Aramaic was the official language of the Persian Empire, and the Jewish people who lived under Persian domination spoke Aramaic, which eventually supplanted Hebrew as the ordinary language of Jews. Aramaic is a Semitic language closely related to Hebrew, and shares some vocabulary with it, but Aramaic speakers cannot easily understand Hebrew. It was therefore necessary to provide translations of the Hebrew Bible for Aramaic speakers. Read aloud in liturgical contexts, after the Hebrew had been read (see Neh 8.7 for an early example), these translations, called Targums, are often more paraphrases than literal translations. Most date to the early centuries of the Common Era. They nevertheless provide useful information about earlier forms of the Hebrew text. In the NRSV notes they are abbreviated “Tg.”"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-24",
+      "type": "paragraph",
+      "text": "Syriac: The Syriac language is a form of Aramaic and was spoken by Jews in northern Syria who translated their Bible into it. The Peshitta (which means “simple,” that is, a plain translation without textual comments) was prepared for the use of Jews and later adopted by Syriac-speaking Christians, who added a Syriac version of the New Testament to it. In the NRSV notes it is abbreviated “Syr.” There is also a Syriac translation of the Septuagint that was part of a “hexapla” or “sixfold” Bible; in the NRSV notes this is abbreviated “Syr H.”"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-25",
+      "type": "paragraph",
+      "text": "Latin: Two Latin translations are used by scholars. The first, the Old Latin version, was actually a Latin translation of the Septuagint and of the New Testament dating from before the fourth century ce. More useful is the Vulgate, the translation prepared in the fourth century by the great Christian biblical scholar Jerome. Jerome, in translating his Old Testament, worked directly from the Hebrew text of the time, and his version therefore can be helpful in determining original readings in that text. In the NRSV notes the Old Latin version is abbreviated “OL,” and the Vulgate is abbreviated “Vg.”"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-26",
+      "type": "heading",
+      "text": "The Apocryphal/Deuterocanonical Books: Texts and Versions"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-27",
+      "type": "paragraph",
+      "text": "For most of the Apocryphal/Deuterocanonical Books, the translational basis is the Septuagint text. Various manuscripts of the Septuagint have survived, and the complete text is available in a critical edition prepared by Alfred Rahlfs and published in 1935. A newer critical text is in process of publication—the Göttingen Septuagint project—but it is not yet complete. The NRSV used the newer text when it was available, for example in Esther and Sirach. The translators used Theodotion’s version for the Additions to Daniel. For the Wisdom of Jesus ben Sira (Sirach or Ecclesiasticus), Hebrew manuscripts of large parts of the text have been discovered, and the NRSV therefore used the Hebrew text instead of the Greek when it seems to offer a better alternative; in addition, there are Syriac and Latin versions of this book that also shed light on the text. For 2 Esdras, scholars agree that the best text is the Latin; they also consult versions in Syriac, Ethiopic, Arabic, Armenian, and Georgian."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-heading-28",
+      "type": "heading",
+      "text": "The New Testament: Texts and Versions"
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-29",
+      "type": "paragraph",
+      "text": "Text critics must evaluate the evidence of thousands of manuscripts in order to establish the wording of the Greek New Testament. (See “Textual Criticism,” p. 2242.) This is a very large number of surviving copies for a collection of ancient documents; many classical texts survive in only a few copies. The overwhelming majority of these New Testament manuscripts (ca. 2,400) contain full or partial Gospel texts, followed by texts containing all or portions of the Pauline epistles (ca. 800). Revelation survives in only 287 copies. The manuscripts consist of papyrus fragments (some of only a few pages, some even shorter, preserving only a few verses); uncials, very early manuscripts written in letters unconnected to each other and similar to uppercase letters; and minuscules, later manuscripts written in a script that connects the letters and in which lowercase letters predominate. In addition to manuscript evidence, citations in Christian writers, lectionaries (excerpted passages for liturgical reading), and translations into other languages may shed light on the earliest wording of the text. With such a wealth of evidence, there is no phrase in the New Testament for which there is not some variant. Most involve issues of grammar, style, or copyists’ corrections. Textual variants that affect the theological meaning of the text are fewer."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-30",
+      "type": "paragraph",
+      "text": "With such a wealth of information about the New Testament text, scholars have had to develop ways of classifying not only individual manuscripts but groups of copies so that they can more readily deal with all of the variants. If they can determine, for example, that a group of copies all descended from a common ancestor, they can assess the variants for that group together and compare them with other groups that descend from different early copies. Variants that occur in two or more of these distinct “families” have a much higher probability of being original than variants that may have arisen within only one group, for instance."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-31",
+      "type": "paragraph",
+      "text": "Most of the known variants to the text of the New Testament originated in the first two centuries of its existence. As Christianity spread throughout the Mediterranean, different groups had their own copies of the various New Testament documents, in some cases excluding books that are now included, or including books that are now excluded (see the essay on “The Canons of the Bible,” p. 2238). In addition, as the Greek copies began to diverge, they were being translated into other languages: Latin, Syriac, and Coptic. The Latin text, because of the dominance of the Latin language in the western Roman Empire, became the most prevalent, and the Greek text was used consistently only in the east, in the area around Constantinople (modern Istanbul). This Greek text, preserved and copied in the Orthodox churches of the East, became known as the Byzantine text, and for many centuries it was the only or main version of the Greek text available. Beginning in the seventeenth and eighteenth centuries, however, scholars began to discover other early texts. Early in the twentieth century, text critics proposed families or text-types linked to the major regions of Christianity: Alexandria in Egypt, to the south; the east represented by Caesarea, on the eastern coast of the Mediterranean; and the west represented by Italy/Gaul and Africa. At first scholars assumed that the Byzantine text resulted from combinations of these types, but such a genealogy of the various text-types could not explain the mixture of readings found in the papyri and the oldest surviving codices. The so-called Alexandrian tradition, texts from the area of Egypt that included many of the most ancient papyrus copies (preserved in the very dry climate of that area), became in the nineteenth century a favored basis for establishing original readings. But the complexity of variants has increasingly made this approach untenable."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-32",
+      "type": "paragraph",
+      "text": "Since papyri evidence from the earliest centuries represents only individual books of the New Testament, it is likely that the fourth-century scribes charged with producing codices containing the entire Bible had a variety of different text-types for the individual books. No single codex, therefore, is of uniform reliability. Codex Alexandrinus (early fifth century ce) is, as it turns out, a poor witness for the Gospels, but many critics consider it the best text of Revelation, even superior to a third-century papyrus copy. The age of a manuscript, therefore, does not necessarily determine the value of its readings, although it is one factor among many that scholars take into account. Revelation and the shorter catholic epistles (2 and 3 John; Jude; 2 Peter), which were not widely used as scripture until the fourth century, have a different textual tradition than the Gospels and the Pauline epistles."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-33",
+      "type": "paragraph",
+      "text": "Consequently, most text critics do not begin with a particular manuscript and correct it to establish the text. Instead, the wealth and diversity of manuscript evidence have enabled critics to produce a Greek text based on eclectic principles: choosing the best readings from a variety of manuscript sources. This range of choice has also meant that New Testament scholars do not need to make conjectural emendations of the text, a practice common in the editing of other ancient texts, including the Hebrew Bible, where few early manuscripts are available. The best text for a particular passage requires detailed study of all preserved variants. Internal principles of textual criticism include consideration of readings that are more likely to be scribal corrections or errors, that fit the theological biases of an author or later editors, or that could have given rise to the other known variants."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-34",
+      "type": "paragraph",
+      "text": "The NRSV translation is based on a modern eclectic edition of the Greek text, Nestle-Aland 26th ed. (or the equivalent United Bible Societies Greek New Testament 3rd ed., but incorporating information from the 4th ed. as well). Textual variants in wording, both stylistic and theologically significant, are indicated in the translators’ notes as “other ancient authorities.” In order to understand the basis for these alternative translations, readers should consult the text-critical notes in the Greek text or a commentary on the Greek text."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-35",
+      "type": "paragraph",
+      "text": "The early Christian focus on the written word led to translation of the Bible into other languages for converts who did not speak Greek. Evidence from Old Latin, Syriac, and Coptic translations from the late second and third centuries ce figures in text criticism. Ethiopic (mid-fourth century), Armenian (early fifth century), and Old Slavonic (late ninth century) translations form key moments in the cultural life of the people. Many of the apocryphal writings are preserved in Syriac, Coptic, and Armenian, thus providing a wider literature associated with the Bible."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-36",
+      "type": "paragraph",
+      "text": "Often manuscript evidence for the earliest translations is scanty or only derived from quotations. Tertullian’s quotations appear to be his own translation into Latin, so the first evidence for the Latin text appears in Cyprian (250 ce). Augustine and Jerome both complain about the large number of poor translations in circulation. Jerome was commissioned by Pope Damasus to produce a Latin Bible (ca. 383). His revised Gospels and translation of the Hebrew Bible were combined with other translations for the remaining books of the Old and New Testaments to produce a Latin version known as the Vulgate. The Vulgate enjoyed wide circulation from the seventh century ce on and was officially promulgated as the text of the Roman Catholic Church by Pope Sixtus V (1590). A neo-Vulgate with alterations in the text, style, and corrections to bring the translation closer to the Greek text was promulgated by Pope John Paul II (1979)."
+    },
+    {
+      "block_id": "oxford-essay-textual-criticism-para-37",
+      "type": "paragraph",
+      "text": "The earliest evidence for the Syriac New Testament comes from a harmony of the Gospels, The Diatessaron, composed by Tatian in the second century ce. It is the source of citations in the commentary by Ephraem (310–373). Texts from Antioch contributed to revisions of the Syriac New Testament, the Peshitta or common version (earliest manuscripts from the mid-fifth century), and a translation by Philoxenus (507/508). The oldest versions of the New Testament translated into the Sahidic dialect of Coptic emerge in the third century. In the fourth century the whole Bible was translated into the Bohairic dialect, which became the official language of Coptic Christianity. A number of manuscripts found in the twentieth century remain to be assembled, catalogued, and incorporated into editions of the Coptic text."
+    }
+  ]
+}

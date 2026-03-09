@@ -1,0 +1,361 @@
+{
+  "document_id": "pet-1",
+  "title": "pet 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-pet-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-pet-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "who have been chosen and destined by God the Father and sanctified by the Spirit to be obedient to Jesus Christ and to be sprinkled with his blood: May grace and peace be yours in abundance."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–2: Salutation. The author adapts the form used by Paul (see Rom 1.1–7n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : A proto-Trinitarian formula. and being are covenant language (see Ex 24.3–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-pet-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ! By his great mercy he has given us a new birth into a living hope through the resurrection of Jesus Christ from the dead,"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-5",
+      "type": "commentary",
+      "text": "3 : expresses the present confidence in the reality of future redemption founded on the resurrection of Jesus Christ. is related to baptism (see 1.23; 2.2; 3.20–22; Jn 3.3–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-pet-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and into an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you,"
+    },
+    {
+      "block_id": "oxford-pet-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "who are being protected by the power of God through faith for a salvation ready to be revealed in the last time."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-6",
+      "type": "commentary",
+      "text": "5 : . The present experience has a future consummation. The believer does not go “up” to heaven, but “forward” to the future reward to be revealed at the end time.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-pet-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In this you rejoice, even if now for a little while you have had to suffer various trials,"
+    },
+    {
+      "block_id": "oxford-pet-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "so that the genuineness of your faith—being more precious than gold that, though perishable, is tested by fire—may be found to result in praise and glory and honor when Jesus Christ is revealed."
+    },
+    {
+      "block_id": "oxford-pet-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Although you have not seen him, you love him; and even though you do not see him now, you believe in him and rejoice with an indescribable and glorious joy,"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-7",
+      "type": "commentary",
+      "text": "8 : The contrast is not between the author who has seen and the readers who have not, but is a statement about Christian faith as such (as in Jn 20.29; Rom 8.23–24; 2 Cor 4.18; 5.7; Heb 11.1–40).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-pet-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for you are receiving the outcome of your faith, the salvation of your souls."
+    },
+    {
+      "block_id": "oxford-pet-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Concerning this salvation, the prophets who prophesied of the grace that was to be yours made careful search and inquiry,"
+    },
+    {
+      "block_id": "oxford-pet-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "inquiring about the person or time that the Spirit of Christ within them indicated when it testified in advance to the sufferings destined for Christ and the subsequent glory."
+    },
+    {
+      "block_id": "oxford-pet-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "It was revealed to them that they were serving not themselves but you, in regard to the things that have now been announced to you through those who brought you good news by the Holy Spirit sent from heaven—things into which angels long to look!"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.3–12: Thanksgiving. As in 2 Cor 1.3 and Eph 1.3, the customary thanksgiving (see Rom 1.8–15n.) becomes a doxological expression of praise that constitutes the theological basis for the imperatives to follow.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-8",
+      "type": "commentary",
+      "text": "12 : The readers’ Christian lives, though beset with difficulties (1.6; 2.19–24; 3.14–15; 4.12–19; 5.10), represent the climax of God's plan for the ages, which even the prophets and the angels could only long to share.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-pet-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Therefore prepare your minds for action; discipline yourselves; set all your hope on the grace that Jesus Christ will bring you when he is revealed."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-11",
+      "type": "commentary",
+      "text": "1.13 : In the Greek text, the first imperative in the letter is the command to for Christ's triumphal appearance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-pet-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Like obedient children, do not be conformed to the desires that you formerly had in ignorance."
+    },
+    {
+      "block_id": "oxford-pet-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Instead, as he who called you is holy, be holy yourselves in all your conduct;"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-12",
+      "type": "commentary",
+      "text": "15 : The second imperative to means to live a life set apart for God's service, though in the midst of the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-pet-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for it is written, “You shall be holy, for I am holy.”"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-13",
+      "type": "commentary",
+      "text": "16 : Quoting Lev 11.44–45; 19.2; 20.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-pet-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If you invoke as Father the one who judges all people impartially according to their deeds, live in reverent fear during the time of your exile."
+    },
+    {
+      "block_id": "oxford-pet-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You know that you were ransomed from the futile ways inherited from your ancestors, not with perishable things like silver or gold,"
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-14",
+      "type": "commentary",
+      "text": "17–18 : The third imperative is to in reverent fear of God rather than of the oppressive culture (cf. 2.17; 3.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-pet-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "but with the precious blood of Christ, like that of a lamb without defect or blemish."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-15",
+      "type": "commentary",
+      "text": "19 : , see Ex 12.5; Lev 23.12; Num 6.14; etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-pet-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He was destined before the foundation of the world, but was revealed at the end of the ages for your sake."
+    },
+    {
+      "block_id": "oxford-pet-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Through him you have come to trust in God, who raised him from the dead and gave him glory, so that your faith and hope are set on God."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-16",
+      "type": "commentary",
+      "text": "21 : Christian faith is theocentric, in God who has acted definitively in Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-pet-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Now that you have purified your souls by your obedience to the truth so that you have genuine mutual love, love one another deeply from the heart."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-17",
+      "type": "commentary",
+      "text": "22 : The fourth imperative is the command of , unselfish caring for others (see Mt 22.34–40; Rom 13.8–10; 1 Cor 13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-pet-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "You have been born anew, not of perishable but of imperishable seed, through the living and enduring word of God."
+    },
+    {
+      "block_id": "oxford-pet-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For “All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls,"
+    },
+    {
+      "block_id": "oxford-pet-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "but the word of the Lord endures forever.” That word is the good news that was announced to you."
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-9",
+      "type": "commentary",
+      "text": "1.13–5.11: Body of the letter, calling the readers to disciplined thinking and action (1.13; 4.7; 5.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-10",
+      "type": "commentary",
+      "text": "1.13–2.10: The new identity as the elect and holy people of God. The preceding indicative statements of God's mighty acts lead to imperatives for the Christian life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-pet-1-h1kj-18",
+      "type": "commentary",
+      "text": "24–25 : Isa 40.6–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "pet",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    }
+  ]
+}

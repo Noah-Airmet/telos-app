@@ -1,0 +1,367 @@
+{
+  "document_id": "isa-44",
+  "title": "Isaiah 44",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-44-heading-45",
+      "type": "heading",
+      "text": "45"
+    },
+    {
+      "block_id": "oxford-isa-44-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Thus says the Lord who made you, who formed you in the womb and will help you: Do not fear, O Jacob my servant, Jeshurun whom I have chosen."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , “one who is upright,” is a poetic name for Israel (Deut 32.15; 33.5,26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-isa-44-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For I will pour water on the thirsty land, and streams on the dry ground; I will pour my spirit upon your descendants, and my blessing on your offspring."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-7",
+      "type": "commentary",
+      "text": "3 : The passage employs the imagery of libation offerings poured out at the Temple at the festival of Sukkot, “Tabernacles,” to celebrate the onset of the rainy season and fertility in the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-isa-44-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They shall spring up like a green tamarisk, like willows by flowing streams."
+    },
+    {
+      "block_id": "oxford-isa-44-5",
+      "type": "verse",
+      "number": 5,
+      "text": "This one will say, “I am the Lord's,” another will be called by the name of Jacob, yet another will write on the hand, “The Lord's,” and adopt the name of Israel."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-5",
+      "type": "commentary",
+      "text": "44.1–5 : An oracle of salvation for Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-isa-44-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Thus says the Lord, the King of Israel, and his Redeemer, the Lord of hosts: I am the first and I am the last; besides me there is no god."
+    },
+    {
+      "block_id": "oxford-isa-44-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Who is like me? Let them proclaim it, let them declare and set it forth before me. Who has announced from of old the things to come? Let them tell us what is yet to be."
+    },
+    {
+      "block_id": "oxford-isa-44-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Do not fear, or be afraid; have I not told you from of old and declared it? You are my witnesses! Is there any god besides me? There is no other rock; I know not one."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-8",
+      "type": "commentary",
+      "text": "6–8 : A recapitulation of earlier arguments for the incomparability of the who has declared the divine plans for Israel from the beginning (see 41.21–29; 43.10–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-isa-44-9",
+      "type": "verse",
+      "number": 9,
+      "text": "All who make idols are nothing, and the things they delight in do not profit; their witnesses neither see nor know. And so they will be put to shame."
+    },
+    {
+      "block_id": "oxford-isa-44-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Who would fashion a god or cast an image that can do no good?"
+    },
+    {
+      "block_id": "oxford-isa-44-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Look, all its devotees shall be put to shame; the artisans too are merely human. Let them all assemble, let them stand up; they shall be terrified, they shall all be put to shame."
+    },
+    {
+      "block_id": "oxford-isa-44-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The ironsmith fashions it and works it over the coals, shaping it with hammers, and forging it with his strong arm; he becomes hungry and his strength fails, he drinks no water and is faint."
+    },
+    {
+      "block_id": "oxford-isa-44-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The carpenter stretches a line, marks it out with a stylus, fashions it with planes, and marks it with a compass; he makes it in human form, with human beauty, to be set up in a shrine."
+    },
+    {
+      "block_id": "oxford-isa-44-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He cuts down cedars or chooses a holm tree or an oak and lets it grow strong among the trees of the forest. He plants a cedar and the rain nourishes it."
+    },
+    {
+      "block_id": "oxford-isa-44-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then it can be used as fuel. Part of it he takes and warms himself; he kindles a fire and bakes bread. Then he makes a god and worships it, makes it a carved image and bows down before it."
+    },
+    {
+      "block_id": "oxford-isa-44-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Half of it he burns in the fire; over this half he roasts meat, eats it and is satisfied. He also warms himself and says, “Ah, I am warm, I can feel the fire!”"
+    },
+    {
+      "block_id": "oxford-isa-44-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The rest of it he makes into a god, his idol, bows down to it and worships it; he prays to it and says, “Save me, for you are my god!”"
+    },
+    {
+      "block_id": "oxford-isa-44-18",
+      "type": "verse",
+      "number": 18,
+      "text": "They do not know, nor do they comprehend; for their eyes are shut, so that they cannot see, and their minds as well, so that they cannot understand."
+    },
+    {
+      "block_id": "oxford-isa-44-19",
+      "type": "verse",
+      "number": 19,
+      "text": "No one considers, nor is there knowledge or discernment to say, “Half of it I burned in the fire; I also baked bread on its coals, I roasted meat and have eaten. Now shall I make the rest of it an abomination? Shall I fall down before a block of wood?”"
+    },
+    {
+      "block_id": "oxford-isa-44-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He feeds on ashes; a deluded mind has led him astray, and he cannot save himself or say, “Is not this thing in my right hand a fraud?”"
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-9",
+      "type": "commentary",
+      "text": "9–20 : A lengthy and satirical prose polemic against idolatry, describing how artisans meticulously fashion idols out of metal and wood and then declare the idol to be a god (cf. Wis 13–15; Let Jer). The blindness and deafness motif is here applied to the idols who can neither see nor hear (cf. 6.9–10; 42.18–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 9,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-isa-44-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Remember these things, O Jacob, and Israel, for you are my servant; I formed you, you are my servant; O Israel, you will not be forgotten by me."
+    },
+    {
+      "block_id": "oxford-isa-44-22",
+      "type": "verse",
+      "number": 22,
+      "text": "I have swept away your transgressions like a cloud, and your sins like mist; return to me, for I have redeemed you."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-10",
+      "type": "commentary",
+      "text": "21–22 : Conclusion of the oracle in vv. 6–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-isa-44-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Sing, O heavens, for the Lord has done it; shout, O depths of the earth; break forth into singing, O mountains, O forest, and every tree in it! For the Lord has redeemed Jacob, and will be glorified in Israel."
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-3",
+      "type": "commentary",
+      "text": "42.14–44.23: The Lord is the redeemer of Israel. The third contention in the series is that the redeems Israel. Insofar as Israel had suffered punishment and exile at the hands of the Assyrians and the Babylonians, acting as agents of the , such a contention is designed to answer claims that the is an enemy to Israel or that the is powerless to redeem Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-4",
+      "type": "commentary",
+      "text": "43.8–44.23: The setting returns to the courtroom as the substantiates the claims to redeem Israel (see 41.1–5,21–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-11",
+      "type": "commentary",
+      "text": "23 : Hymnic conclusion in which all creation celebrates the redemption of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-isa-44-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Thus says the Lord, your Redeemer, who formed you in the womb: I am the Lord, who made all things, who alone stretched out the heavens, who by myself spread out the earth;"
+    },
+    {
+      "block_id": "oxford-isa-44-25",
+      "type": "verse",
+      "number": 25,
+      "text": "who frustrates the omens of liars, and makes fools of diviners; who turns back the wise, and makes their knowledge foolish;"
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-15",
+      "type": "commentary",
+      "text": "25 : , Babylonian religion was renowned for its use of techniques for determining the future.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-isa-44-26",
+      "type": "verse",
+      "number": 26,
+      "text": "who confirms the word of his servant, and fulfills the prediction of his messengers; who says of Jerusalem, “It shall be inhabited,” and of the cities of Judah, “They shall be rebuilt, and I will raise up their ruins”;"
+    },
+    {
+      "block_id": "oxford-isa-44-27",
+      "type": "verse",
+      "number": 27,
+      "text": "who says to the deep, “Be dry— I will dry up your rivers”;"
+    },
+    {
+      "block_id": "oxford-isa-44-28",
+      "type": "verse",
+      "number": 28,
+      "text": "who says of Cyrus, “He is my shepherd, and he shall carry out all my purpose”; and who says of Jerusalem, “It shall be rebuilt,” and of the temple, “Your foundation shall be laid.”"
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-1",
+      "type": "commentary",
+      "text": "34.1–66.24: Concerning the realization of the Lord's plans for revealing worldwide sovereignty from Zion. Whereas chs 1–33 anticipate the revelation of the 's worldwide sovereignty at Zion, the second half of the book in chs 34–66 presupposes that the time is at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-2",
+      "type": "commentary",
+      "text": "40.1–54.17: Prophetic instruction that the Lord reveals divine sovereignty at Zion. Chapter 40 begins the portion of the book (chs 40–55) attributed to an anonymous prophet of the latter years of the Babylonian exile when King Cyrus of Persia conquered Babylonia and decreed that Jews could return to their homeland (ca. 545–538 ). Although these chapters are clearly written long after the time of the eighth-century prophet Isaiah, they nevertheless share his basic theological perspective rooted in the Zion/Davidic tradition, i.e., that the protects Zion, although the Davidic covenant is now applied to the people rather than to the Davidic king (55.3). These chapters therefore function within the book to describe the realization of the 's plans to restore Zion as articulated throughout chs 1–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-12",
+      "type": "commentary",
+      "text": "44.24–48.22: The Lord will use Cyrus for the restoration of Zion. This lengthy unit constitutes the fourth contention in the series. The claim that the uses Cyrus to restore Zion is particularly controversial because the Persian king is a foreign monarch who displaces the role traditionally assigned to the Davidic king as anointed one and Temple builder. Nevertheless, Cyrus's conquest of Babylon in 539 opened the way for his declaration that exiled Jews could return to their homeland to rebuild the Temple (2 Chr 36.22–23; Ezra 1.1–4). Since Cyrus does not restore Davidic kingship, the prophet determines that the has declared Cyrus to be the righteous king of Isaian tradition (9.1–7; 11.1–16; 32.1–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 24,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-13",
+      "type": "commentary",
+      "text": "44.24–45.8: The Lord's announcement concerning Cyrus. The announces the plan to use Cyrus as the redeemer of Zion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 24,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-14",
+      "type": "commentary",
+      "text": "44.24–28 : Reiterations of the divine qualities and roles previously articulated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 24,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-44-h1kj-16",
+      "type": "commentary",
+      "text": "28 : , a common metaphor for ruler (56.11; Jer 23.4). Cyrus II (558–530 ), founder of the Persian Empire, is identified with the 's long established plans, including the rebuilding of Jerusalem and the Temple, a role formerly accomplished by David and Solomon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 44
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    }
+  ]
+}

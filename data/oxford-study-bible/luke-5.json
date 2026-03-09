@@ -1,0 +1,505 @@
+{
+  "document_id": "luke-5",
+  "title": "Luke 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-luke-5-heading-6",
+      "type": "heading",
+      "text": "6"
+    },
+    {
+      "block_id": "oxford-luke-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "he saw two boats there at the shore of the lake; the fishermen had gone out of them and were washing their nets."
+    },
+    {
+      "block_id": "oxford-luke-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He got into one of the boats, the one belonging to Simon, and asked him to put out a little way from the shore. Then he sat down and taught the crowds from the boat."
+    },
+    {
+      "block_id": "oxford-luke-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When he had finished speaking, he said to Simon, “Put out into the deep water and let down your nets for a catch.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-4",
+      "type": "commentary",
+      "text": "4 : as a title for Jesus frequently replaces “Rabbi” and “Teacher” in Mark's account.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-luke-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Simon answered, “Master, we have worked all night long but have caught nothing. Yet if you say so, I will let down the nets.”"
+    },
+    {
+      "block_id": "oxford-luke-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When they had done this, they caught so many fish that their nets were beginning to break."
+    },
+    {
+      "block_id": "oxford-luke-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So they signaled their partners in the other boat to come and help them. And they came and filled both boats, so that they began to sink."
+    },
+    {
+      "block_id": "oxford-luke-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But when Simon Peter saw it, he fell down at Jesus’ knees, saying, “Go away from me, Lord, for I am a sinful man!”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-5",
+      "type": "commentary",
+      "text": "8 : anticipates 6.14 where Jesus nicknames Simon “Peter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-6",
+      "type": "commentary",
+      "text": "8 : Peter reacts to Jesus's authority by confessing his sinfulness and addressing Jesus as .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-luke-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For he and all who were with him were amazed at the catch of fish that they had taken;"
+    },
+    {
+      "block_id": "oxford-luke-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and so also were James and John, sons of Zebedee, who were partners with Simon. Then Jesus said to Simon, “Do not be afraid; from now on you will be catching people.”"
+    },
+    {
+      "block_id": "oxford-luke-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "When they had brought their boats to shore, they left everything and followed him."
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–11: The great catch of fish (Mt 13.1–3a; 4.18–22; Mk 4.1–2; 1.16–20); cf. Jn 21.4–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Once, when he was in one of the cities, there was a man covered with leprosy. When he saw Jesus, he bowed with his face to the ground and begged him, “Lord, if you choose, you can make me clean.”"
+    },
+    {
+      "block_id": "oxford-luke-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then Jesusc stretched out his hand, touched him, and said, “I do choose. Be made clean.” Immediately the leprosyd left him."
+    },
+    {
+      "block_id": "oxford-luke-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And he ordered him to tell no one. “Go,” he said, “and show yourself to the priest, and, as Moses commanded, make an offering for your cleansing, for a testimony to them.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-8",
+      "type": "commentary",
+      "text": "14 : Jesus's touching this man countered the assumption that such contact rendered a person unclean. The healing demonstrates the power of God overcoming both disease and ritual impurity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-luke-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But now more than ever the word about Jesus spread abroad; many crowds would gather to hear him and to be cured of their diseases."
+    },
+    {
+      "block_id": "oxford-luke-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But he would withdraw to deserted places and pray."
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-7",
+      "type": "commentary",
+      "text": "5.12–16: The healing of a man with leprosy (Mt 8.1–4; Mk 1.40–45). Biblical descriptions of (Lev 13–14) indicate that the term was a generic reference to skin ailments from psoriasis to true leprosy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-9",
+      "type": "commentary",
+      "text": "16 : Luke refers to Jesus's prayer seven times; see 3.21; 5.16; 6.12; 9.18,28–29; 11.1; 22.41–45.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-luke-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "One day, while he was teaching, Pharisees and teachers of the law were sitting near by (they had come from every village of Galilee and Judea and from Jerusalem); and the power of the Lord was with him to heal."
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-11",
+      "type": "commentary",
+      "text": "17 : The were a religious movement (a sect within Judaism) that was devoted to exacting observance of the law of Moses. They concerned themselves with both the written law and its interpretation preserved in oral tradition. is the law of Moses or the Torah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-luke-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Just then some men came, carrying a paralyzed man on a bed. They were trying to bring him in and lay him before Jesus;"
+    },
+    {
+      "block_id": "oxford-luke-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "but finding no way to bring him in because of the crowd, they went up on the roof and let him down with his bed through the tiles into the middle of the crowd in front of Jesus."
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-12",
+      "type": "commentary",
+      "text": "19 : is Luke's adjustment of Mark's story to present a tiled roof rather than the mud-plaster roof through which people “dug” a hole (Mk 2.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-luke-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "When he saw their faith, he said, “Friend, your sins are forgiven you.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-13",
+      "type": "commentary",
+      "text": "20 : The connection between forgiveness and healing reflects a belief that sickness resulted from sin (see Ex 34.7; Jn 9.2). The configuration of these factors is striking: while the faith belongs to the men carrying their friend, the paralyzed man's sins are recognized and then forgiven.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-luke-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then the scribes and the Pharisees began to question, “Who is this who is speaking blasphemies? Who can forgive sins but God alone?”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-14",
+      "type": "commentary",
+      "text": "21 : , the group called “teachers of the law” at 5.17, were Jewish specialists in the law of Moses. Luke also refers to them as “lawyers” (e.g., 7.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-15",
+      "type": "commentary",
+      "text": "21 : Blasphemy was a capital offense; see Lev 24.14–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When Jesus perceived their questionings, he answered them, “Why do you raise such questions in your hearts?"
+    },
+    {
+      "block_id": "oxford-luke-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Stand up and walk’?"
+    },
+    {
+      "block_id": "oxford-luke-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the one who was paralyzed—“I say to you, stand up and take your bed and go to your home.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-16",
+      "type": "commentary",
+      "text": "24 : , Jesus's self-designation can be understood either to refer to Jesus as a human being (see, e.g., Ps 8.4; Ezek 2.1) or to identify Jesus with the apocalyptic figure of Dan 7.13–14, understood to be the coming messiah and deputy of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-luke-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Immediately he stood up before them, took what he had been lying on, and went to his home, glorifying God."
+    },
+    {
+      "block_id": "oxford-luke-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Amazement seized all of them, and they glorified God and were filled with awe, saying, “We have seen strange things today.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-10",
+      "type": "commentary",
+      "text": "5.17–26: Healing and forgiveness of sins (Mt 9.1–8; Mk 2.1–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-luke-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "After this he went out and saw a tax collector named Levi, sitting at the tax booth; and he said to him, “Follow me.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-18",
+      "type": "commentary",
+      "text": "27 : Tax collectors who worked for the Romans were generally despised by the population. is identified by some as Matthew (6.15; cf. Mt 10.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And he got up, left everything, and followed him."
+    },
+    {
+      "block_id": "oxford-luke-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Then Levi gave a great banquet for him in his house; and there was a large crowd of tax collectors and others sitting at the table with them."
+    },
+    {
+      "block_id": "oxford-luke-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The Pharisees and their scribes were complaining to his disciples, saying, “Why do you eat and drink with tax collectors and sinners?”"
+    },
+    {
+      "block_id": "oxford-luke-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Jesus answered, “Those who are well have no need of a physician, but those who are sick;"
+    },
+    {
+      "block_id": "oxford-luke-5-32",
+      "type": "verse",
+      "number": 32,
+      "text": "I have come to call not the righteous but sinners to repentance.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-17",
+      "type": "commentary",
+      "text": "5.27–32: The call of Levi (Mt 9.9–13; Mk 2.13–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 27,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-19",
+      "type": "commentary",
+      "text": "32 : A central theme in Luke, repentance occurs three times in Mark, seven in Matthew, but fourteen times in Luke's Gospel and eleven more in Acts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-luke-5-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Then they said to him, “John's disciples, like the disciples of the Pharisees, frequently fast and pray, but your disciples eat and drink.”"
+    },
+    {
+      "block_id": "oxford-luke-5-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Jesus said to them, “You cannot make wedding guests fast while the bridegroom is with them, can you?"
+    },
+    {
+      "block_id": "oxford-luke-5-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The days will come when the bridegroom will be taken away from them, and then they will fast in those days.”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-21",
+      "type": "commentary",
+      "text": "34–35 : Jesus refers to himself as the and to days as the time after his death and resurrection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-luke-5-36",
+      "type": "verse",
+      "number": 36,
+      "text": "He also told them a parable: “No one tears a piece from a new garment and sews it on an old garment; otherwise the new will be torn, and the piece from the new will not match the old."
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-22",
+      "type": "commentary",
+      "text": "36 : , memorable word-pictures or stories that communicated the essence of Jesus's message concerning God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-luke-5-37",
+      "type": "verse",
+      "number": 37,
+      "text": "And no one puts new wine into old wineskins; otherwise the new wine will burst the skins and will be spilled, and the skins will be destroyed."
+    },
+    {
+      "block_id": "oxford-luke-5-38",
+      "type": "verse",
+      "number": 38,
+      "text": "But new wine must be put into fresh wineskins."
+    },
+    {
+      "block_id": "oxford-luke-5-39",
+      "type": "verse",
+      "number": 39,
+      "text": "And no one after drinking old wine desires new wine, but says, ‘The old is good.’”"
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-1",
+      "type": "commentary",
+      "text": "4.14–9.50: Jesus's ministry in Galilee (Mt 4.12–18.35; Mk 1.14–9.50).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-20",
+      "type": "commentary",
+      "text": "5.33–39: Debate about fasting (Mt 9.14–17; Mk 2.18–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 33,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-luke-5-h1kj-23",
+      "type": "commentary",
+      "text": "39 : Found only in Luke, this saying is obscure. It may be ironic, indicating that contentment with prevents openness to the",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 5
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    }
+  ]
+}

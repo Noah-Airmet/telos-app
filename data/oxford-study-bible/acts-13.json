@@ -1,0 +1,859 @@
+{
+  "document_id": "acts-13",
+  "title": "Acts 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-acts-13-heading-14",
+      "type": "heading",
+      "text": "14"
+    },
+    {
+      "block_id": "oxford-acts-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-3",
+      "type": "commentary",
+      "text": "2 : As is usual in Acts initiates new developments. , cf. Rom 1.1; Gal 1.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-acts-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then after fasting and praying they laid their hands on them and sent them off."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-1",
+      "type": "commentary",
+      "text": "12.24–13.3: Commission at Antioch.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , see 6.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-acts-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So, being sent out by the Holy Spirit, they went down to Seleucia; and from there they sailed to Cyprus."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-6",
+      "type": "commentary",
+      "text": "4 : Pieria, Antioch's seaport, about 12 mi (20 km) west at the mouth of the Orontes River.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-acts-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When they arrived at Salamis, they proclaimed the word of God in the synagogues of the Jews. And they had John also to assist them."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , important port and former capital city at the eastern end of Cyprus. , there was a large Jewish population on Cyprus. According to Acts, Paul regularly begins mission work in a new place in the local synagogue (13.14; 14.1; 17.1,10,17; 18.4,19; 19.8; see 9.20n.; cf. Rom 1.16). , see 12.12n. According to 11.19, missionaries had previously reached the island.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-acts-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When they had gone through the whole island as far as Paphos, they met a certain magician, a Jewish false prophet, named Bar-Jesus."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , capital of Cyprus, located in the extreme west. , see 8.9n. - , “son of Jesus [or Joshua].”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-acts-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He was with the proconsul, Sergius Paulus, an intelligent man, who summoned Barnabas and Saul and wanted to hear the word of God."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-9",
+      "type": "commentary",
+      "text": "7 : The island was a senatorial province ruled by a , another Roman official favorable to Christianity (see 10.1n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-acts-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But the magician Elymas (for that is the translation of his name) opposed them and tried to turn the proconsul away from the faith."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-10",
+      "type": "commentary",
+      "text": "8 : does not mean “Bar-Jesus.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-acts-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But Saul, also known as Paul, filled with the Holy Spirit, looked intently at him"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-11",
+      "type": "commentary",
+      "text": "9 : was his Jewish name, used up to this point to stress his origin; was his Roman name, the one he was generally known by, and is used from now on in Acts as missionary activity aims at both Jews and Gentiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-acts-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and said, “You son of the devil, you enemy of all righteousness, full of all deceit and villainy, will you not stop making crooked the straight paths of the Lord?"
+    },
+    {
+      "block_id": "oxford-acts-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And now listen—the hand of the Lord is against you, and you will be blind for a while, unable to see the sun.” Immediately mist and darkness came over him, and he went about groping for someone to lead him by the hand."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-12",
+      "type": "commentary",
+      "text": "10–11 : Compare Peter's rebuke of Simon (8.20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-acts-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord. Chs"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-5",
+      "type": "commentary",
+      "text": "13.4–12: Cyprus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-acts-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then Paul and his companions set sail from Paphos and came to Perga in Pamphylia. John, however, left them and returned to Jerusalem;"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-14",
+      "type": "commentary",
+      "text": "13 : is inland 8 mi (13 km) from Attalia (14.25), main seaport of , a small province south of the Taurus mountains, between Cilicia and Lycia. , v. 5; see 15.38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-acts-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "but they went on from Perga and came to Antioch in Pisidia. And on the sabbath day they went into the synagogue and sat down."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-15",
+      "type": "commentary",
+      "text": "14 : , about 100 mi (160 km) north of Perga. , v. 5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-acts-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "After the reading of the law and the prophets, the officials of the synagogue sent them a message, saying, “Brothers, if you have any word of exhortation for the people, give it.”"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-16",
+      "type": "commentary",
+      "text": "15 : One lesson each from was customary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-acts-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "So Paul stood up and with a gesture began to speak: “You Israelites, and others who fear God, listen."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-17",
+      "type": "commentary",
+      "text": "16 : , an orator's move. , here and v. 26 is probably equivalent to “devout converts” to Judaism in v. 43 (where “convert” is the Gk word for proselyte; see 6.5n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-acts-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The God of this people Israel chose our ancestors and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it."
+    },
+    {
+      "block_id": "oxford-acts-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For about forty years he put up with them in the wilderness."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-19",
+      "type": "commentary",
+      "text": "18 : Context requires the reading with Deut 1.31 (note ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-acts-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "After he had destroyed seven nations in the land of Canaan, he gave them their land as an inheritance"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-20",
+      "type": "commentary",
+      "text": "19 : , Deut 7.1; Josh 3.10; 24.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-acts-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "for about four hundred fifty years. After that he gave them judges until the time of the prophet Samuel."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-21",
+      "type": "commentary",
+      "text": "20 : from the entrance into Canaan to the building of the Temple may be an approximation. , 1 Sam 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-acts-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then they asked for a king; and God gave them Saul son of Kish, a man of the tribe of Benjamin, who reigned for forty years."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-22",
+      "type": "commentary",
+      "text": "21 : 1 Sam 8.5; 9.15–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-acts-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When he had removed him, he made David their king. In his testimony about him he said, ‘I have found David, son of Jesse, to be a man after my heart, who will carry out all my wishes.’"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-23",
+      "type": "commentary",
+      "text": "22 : Ps 89.20; 1 Sam 13.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-acts-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Of this man's posterity God has brought to Israel a Savior, Jesus, as he promised;"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-24",
+      "type": "commentary",
+      "text": "23 : , see Lk 3.31. , see 5.31n. For the promise, see 2 Sam 7.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-acts-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "before his coming John had already proclaimed a baptism of repentance to all the people of Israel."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-25",
+      "type": "commentary",
+      "text": "24 : Lk 3.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-acts-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And as John was finishing his work, he said, ‘What do you suppose that I am? I am not he. No, but one is coming after me; I am not worthy to untie the thong of the sandals on his feet.’"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-18",
+      "type": "commentary",
+      "text": "17–25 : The survey of biblical history emphasizes the theme of fulfillment in the latter part of the speech (vv. 23,27,29,32,33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 17,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-26",
+      "type": "commentary",
+      "text": "25 : The Baptist's emphatic denial here (cf. Lk 3.16; Mk 1.7; Mt 3.11; Jn 1.20) may be aimed at those who continued to be his disciples (18.25; 19.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-acts-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "“My brothers, you descendants of Abraham's family, and others who fear God, to us the message of this salvation has been sent."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-27",
+      "type": "commentary",
+      "text": "26 : , 4.12; in vv. 38–39 it is forgiveness of sins (2.38; 10.43; Lk 24.47).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-acts-13-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Because the residents of Jerusalem and their leaders did not recognize him or understand the words of the prophets that are read every sabbath, they fulfilled those words by condemning him."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-29",
+      "type": "commentary",
+      "text": "27 : , see 3.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-acts-13-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Even though they found no cause for a sentence of death, they asked Pilate to have him killed."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-30",
+      "type": "commentary",
+      "text": "28 : , Lk 23.4,14–15,22,47. , 3.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-acts-13-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When they had carried out everything that was written about him, they took him down from the tree and laid him in a tomb."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-31",
+      "type": "commentary",
+      "text": "29 : , 5.30n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-acts-13-30",
+      "type": "verse",
+      "number": 30,
+      "text": "But God raised him from the dead;"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-32",
+      "type": "commentary",
+      "text": "30 : The resurrection is the heart of the gospel in Acts (3.15; 4.10; 10.40. 13.37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-acts-13-31",
+      "type": "verse",
+      "number": 31,
+      "text": "and for many days he appeared to those who came up with him from Galilee to Jerusalem, and they are now his witnesses to the people."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-33",
+      "type": "commentary",
+      "text": "31 : , 1.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-acts-13-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And we bring you the good news that what God promised to our ancestors"
+    },
+    {
+      "block_id": "oxford-acts-13-33",
+      "type": "verse",
+      "number": 33,
+      "text": "he has fulfilled for us, their children, by raising Jesus; as also it is written in the second psalm, ‘You are my Son; today I have begotten you.’"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-34",
+      "type": "commentary",
+      "text": "33 : Ps 2.7. , here in the sense of bringing him on the scene (in contrast to v. 34; cf. 3.22,26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-acts-13-34",
+      "type": "verse",
+      "number": 34,
+      "text": "As to his raising him from the dead, no more to return to corruption, he has spoken in this way, ‘I will give you the holy promises made to David.’"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-35",
+      "type": "commentary",
+      "text": "34 : Isa 55.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-acts-13-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Therefore he has also said in another psalm, ‘You will not let your Holy One experience corruption.’"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-36",
+      "type": "commentary",
+      "text": "35 : Ps 16.10 (see Acts 2.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-acts-13-36",
+      "type": "verse",
+      "number": 36,
+      "text": "For David, after he had served the purpose of God in his own generation, died, was laid beside his ancestors, and experienced corruption;"
+    },
+    {
+      "block_id": "oxford-acts-13-37",
+      "type": "verse",
+      "number": 37,
+      "text": "but he whom God raised up experienced no corruption."
+    },
+    {
+      "block_id": "oxford-acts-13-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Let it be known to you therefore, my brothers, that through this man forgiveness of sins is proclaimed to you;"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-37",
+      "type": "commentary",
+      "text": "38 : , v. 26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-acts-13-39",
+      "type": "verse",
+      "number": 39,
+      "text": "by this Jesus everyone who believes is set free from all those sins from which you could not be freed by the law of Moses."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-38",
+      "type": "commentary",
+      "text": "39 : , lit. “justified”; the only reference to justification by faith in Acts fittingly appears on Paul's lips even if the sense is not fully that found in Paul's letters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-acts-13-40",
+      "type": "verse",
+      "number": 40,
+      "text": "Beware, therefore, that what the prophets said does not happen to you:"
+    },
+    {
+      "block_id": "oxford-acts-13-41",
+      "type": "verse",
+      "number": 41,
+      "text": "‘Look, you scoffers! Be amazed and perish, for in your days I am doing a work, a work that you will never believe, even if someone tells you.’”"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-28",
+      "type": "commentary",
+      "text": "26–41 : For argument and style compare Peter's speeches in 2.14–36; 3.12–26; 10.34–43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 26,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-39",
+      "type": "commentary",
+      "text": "41 : Hab 1.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-acts-13-42",
+      "type": "verse",
+      "number": 42,
+      "text": "As Paul and Barnabas were going out, the people urged them to speak about these things again the next sabbath."
+    },
+    {
+      "block_id": "oxford-acts-13-43",
+      "type": "verse",
+      "number": 43,
+      "text": "When the meeting of the synagogue broke up, many Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-40",
+      "type": "commentary",
+      "text": "43 : , see v. 16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-acts-13-44",
+      "type": "verse",
+      "number": 44,
+      "text": "The next sabbath almost the whole city gathered to hear the word of the Lord."
+    },
+    {
+      "block_id": "oxford-acts-13-45",
+      "type": "verse",
+      "number": 45,
+      "text": "But when the Jews saw the crowds, they were filled with jealousy; and blaspheming, they contradicted what was spoken by Paul."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-41",
+      "type": "commentary",
+      "text": "45 : At the level of Luke's audience, , here and at other places in the narrative, may stand for “Jewish Christians” who opposed the relaxation of ritual practices promoted by Pauline and Lukan Christianity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-acts-13-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Then both Paul and Barnabas spoke out boldly, saying, “It was necessary that the word of God should be spoken first to you. Since you reject it and judge yourselves to be unworthy of eternal life, we are now turning to the Gentiles."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-42",
+      "type": "commentary",
+      "text": "46 : The same dramatic announcement of turning to the occurs in 18.5–6; 28.25–28. , 14.3; 18.26; 19.8; 26.26; see 4.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-acts-13-47",
+      "type": "verse",
+      "number": 47,
+      "text": "For so the Lord has commanded us, saying, ‘I have set you to be a light for the Gentiles, so that you may bring salvation to the ends of the earth.’”"
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-43",
+      "type": "commentary",
+      "text": "47 : Isa 49.6; cf. Lk 2.32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-acts-13-48",
+      "type": "verse",
+      "number": 48,
+      "text": "When the Gentiles heard this, they were glad and praised the word of the Lord; and as many as had been destined for eternal life became believers."
+    },
+    {
+      "block_id": "oxford-acts-13-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Thus the word of the Lord spread throughout the region."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-44",
+      "type": "commentary",
+      "text": "49 : A typical summary that makes it clear that Acts claims to be only a partial report of the spread of Christianity; cf. 9.10n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-acts-13-50",
+      "type": "verse",
+      "number": 50,
+      "text": "But the Jews incited the devout women of high standing and the leading men of the city, and stirred up persecution against Paul and Barnabas, and drove them out of their region."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-45",
+      "type": "commentary",
+      "text": "50 : The scene depicted here (see 2 Tim 3.11) is repeated in subsequent accounts (see 14.2,19; 17.5,13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 50,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-acts-13-51",
+      "type": "verse",
+      "number": 51,
+      "text": "So they shook the dust off their feet in protest against them, and went to Iconium."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-46",
+      "type": "commentary",
+      "text": "51 : f (18.6) to show that their responsibility ended (Lk 9.5; 10.11; Mt 10.14). , modern Konya, ca. 75 mi (120 km) southeast of Antioch.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-acts-13-52",
+      "type": "verse",
+      "number": 52,
+      "text": "And the disciples were filled with joy and with the Holy Spirit."
+    },
+    {
+      "block_id": "oxford-acts-13-h1kj-13",
+      "type": "commentary",
+      "text": "13.13–52: Journey to Antioch of Pisidia and Iconium. The focus now clearly shifts to Paul as his first work in inner Asia Minor is depicted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 52
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-130",
+  "title": "Psalms 130",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-130-heading-psalm-131",
+      "type": "heading",
+      "text": "Psalm 131"
+    },
+    {
+      "block_id": "oxford-ps-130-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Out of the depths I cry to you, O Lord."
+    },
+    {
+      "block_id": "oxford-ps-130-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 130: Waiting for the Lord’s redemption. An individual petition seeking rescue “out of the depths” (v. 1), but seeming even more intent on simply being heard by God. The usual statement of trust takes the form of resolutions to wait for the (vv. 5–6), and the other common feature of petitions, teaching others to revere the , appears in vv. 7–8. Verses 1–6 detail the psalmist’s desire to be heard, and vv. 7–8 detail the psalmist’s and Israel’s waiting for the redeeming (vv. 5–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 130
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-130-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , God seems too distant to hear the psalmist’s voice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 130
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-130-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Lord, hear my voice! Let your ears be attentive to the voice of my supplications!"
+    },
+    {
+      "block_id": "oxford-ps-130-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If you, O Lord, should mark iniquities, Lord, who could stand?"
+    },
+    {
+      "block_id": "oxford-ps-130-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But there is forgiveness with you, so that you may be revered."
+    },
+    {
+      "block_id": "oxford-ps-130-h1kj-3",
+      "type": "commentary",
+      "text": "4 : At the middle of the psalm, the psalmist reminds God of his forgiving nature.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 130
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-130-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I wait for the Lord, my soul waits, and in his word I hope;"
+    },
+    {
+      "block_id": "oxford-ps-130-6",
+      "type": "verse",
+      "number": 6,
+      "text": "my soul waits for the Lord more than those who watch for the morning, more than those who watch for the morning."
+    },
+    {
+      "block_id": "oxford-ps-130-h1kj-4",
+      "type": "commentary",
+      "text": "5–6 : , repeated three times in step‐parallelism; waiting expectantly is a form of prayer. The psalmist is waiting either for an oracle or some other divine intervention.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 130
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-130-7",
+      "type": "verse",
+      "number": 7,
+      "text": "O Israel, hope in the Lord! For with the Lord there is steadfast love, and with him is great power to redeem."
+    },
+    {
+      "block_id": "oxford-ps-130-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It is he who will redeem Israel from all its iniquities."
+    }
+  ]
+}

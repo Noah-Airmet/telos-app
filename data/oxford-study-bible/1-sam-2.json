@@ -1,0 +1,488 @@
+{
+  "document_id": "1-sam-2",
+  "title": "1 Samuel 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-sam-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hannah prayed and said, “My heart exults in the Lord; my strength is exalted in my God. My mouth derides my enemies, because I rejoice in my victory."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , lit., “horn” of an animal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-1-sam-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“There is no Holy One like the Lord, no one besides you; there is no Rock like our God."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , a common metaphor for God (2 Sam 22.2–3; Ps 18.2; 28.1; 62.2,6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-1-sam-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Talk no more so very proudly, let not arrogance come from your mouth; for the Lord is a God of knowledge, and by him actions are weighed."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-4",
+      "type": "commentary",
+      "text": "3 : The enemies of Israel are addressed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-1-sam-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The bows of the mighty are broken, but the feeble gird on strength."
+    },
+    {
+      "block_id": "oxford-1-sam-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Those who were full have hired themselves out for bread, but those who were hungry are fat with spoil. The barren has borne seven, but she who has many children is forlorn."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , a line probably explaining the insertion of the poem at this place. is symbolic of a sizable family; Hannah will eventually have six children (2.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-1-sam-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The Lord kills and brings to life; he brings down to Sheol and raises up."
+    },
+    {
+      "block_id": "oxford-1-sam-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord makes poor and makes rich; he brings low, he also exalts."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-7",
+      "type": "commentary",
+      "text": "6–7 : refers to birth, not resurrection from the dead. was the underworld (Isa 14.9–21), where all people were believed to go after death. (The idea of heaven and hell does not exist yet in the Hebrew Bible.) Sheol may be metaphorical for conditions near death (Ps 86.13; 88.3–7), injuries, or serious trouble.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-1-sam-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He raises up the poor from the dust; he lifts the needy from the ash heap, to make them sit with princes and inherit a seat of honor. For the pillars of the earth are the Lord’s, and on them he has set the world."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-8",
+      "type": "commentary",
+      "text": "8 : , a common theme in the Bible. The is conceived of as a platform resting upon great .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-1-sam-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“He will guard the feet of his faithful ones, but the wicked shall be cut off in darkness; for not by might does one prevail."
+    },
+    {
+      "block_id": "oxford-1-sam-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The Lord! His adversaries shall be shattered; the Most High will thunder in heaven. The Lord will judge the ends of the earth; he will give strength to his king, and exalt the power of his anointed.”"
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–10: The Song of Hannah. Poems were often inserted into prose books where they seemed appropriate. In this case the poem seems to be considerably later than the surrounding narrative context. It is a psalm of national thanksgiving, but its thankful tone appropriately reflects Hannah’s sentiments. It was later used as a model for Lk 1.46–55.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-5",
+      "type": "commentary",
+      "text": "4–10 : The reversal of fortune for the downtrodden and oppressed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-9",
+      "type": "commentary",
+      "text": "10 : shows that the psalm was written later than Hannah since no king of Israel reigned yet in her time. (Heb “mashiaḥ”) was a title for the king and the source of the postbiblical term “messiah,” which never means a future Davidic ruler in the Hebrew Bible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-1-sam-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then Elkanah went home to Ramah, while the boy remained to minister to the Lord, in the presence of the priest Eli."
+    },
+    {
+      "block_id": "oxford-1-sam-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now the sons of Eli were scoundrels; they had no regard for the Lord"
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , lit., “they did not know,” implying that Eli’s sons did not have a personal relationship with the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-1-sam-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "or for the duties of the priests to the people. When anyone offered sacrifice, the priest’s servant would come, while the meat was boiling, with a three‐pronged fork in his hand,"
+    },
+    {
+      "block_id": "oxford-1-sam-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and he would thrust it into the pan, or kettle, or caldron, or pot; all that the fork brought up the priest would take for himself. This is what they did at Shiloh to all the Israelites who came there."
+    },
+    {
+      "block_id": "oxford-1-sam-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Moreover, before the fat was burned, the priest’s servant would come and say to the one who was sacrificing, “Give meat for the priest to roast; for he will not accept boiled meat from you, but only raw.”"
+    },
+    {
+      "block_id": "oxford-1-sam-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And if the man said to him, “Let them burn the fat first, and then take whatever you wish,” he would say, “No, you must give it now; if not, I will take it by force.”"
+    },
+    {
+      "block_id": "oxford-1-sam-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Thus the sin of the young men was very great in the sight of the Lord; for they treated the offerings of the Lord with contempt. Chs 1‐6: The activity of Samuel."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-12",
+      "type": "commentary",
+      "text": "13–17 : Priests made their living by receiving a portion of the sacrifices. The custom in Shiloh (vv. 13–14) was for the priest to get whatever the fork brought up while the meat was boiling, which is different from that prescribed elsewhere (contrast Lev 7.28–36; Deut 18.3). By demanding the fat portion, which properly belonged to God, and taking it before the sacrifice was made, Eli’s sons were sinning against the (v. 25) and treating him with contempt (vv. 12,17). They also threatened violence against worshipers who tried to do right (v. 16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-1-sam-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Samuel was ministering before the Lord, a boy wearing a linen ephod."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-13",
+      "type": "commentary",
+      "text": "18 : This was a kind of apron worn by priests.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-1-sam-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "His mother used to make for him a little robe and take it to him each year, when she went up with her husband to offer the yearly sacrifice."
+    },
+    {
+      "block_id": "oxford-1-sam-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then Eli would bless Elkanah and his wife, and say, “May the Lord repay you with children by this woman for the gift that she made to the Lord”; and then they would return to their home."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-14",
+      "type": "commentary",
+      "text": "20 : , another pun on Saul’s name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-1-sam-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And the Lord took note of Hannah; she conceived and bore three sons and two daughters. And the boy Samuel grew up in the presence of the Lord."
+    },
+    {
+      "block_id": "oxford-1-sam-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Now Eli was very old. He heard all that his sons were doing to all Israel, and how they lay with the women who served at the entrance to the tent of meeting."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-15",
+      "type": "commentary",
+      "text": "22 : , this line, if original, indicates that the shrine at Shiloh was a portable tent or tabernacle (see 1.7n.). However, this line is not in some of the best witnesses to the text of Samuel and may be borrowed from Ex 38.8. It is unknown exactly how these women .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-1-sam-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "He said to them, “Why do you do such things? For I hear of your evil dealings from all these people."
+    },
+    {
+      "block_id": "oxford-1-sam-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "No, my sons; it is not a good report that I hear the people of the Lord spreading abroad."
+    },
+    {
+      "block_id": "oxford-1-sam-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "If one person sins against another, someone can intercede for the sinner with the Lord; but if someone sins against the Lord, who can make intercession?” But they would not listen to the voice of their father; for it was the will of the Lord to kill them."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-16",
+      "type": "commentary",
+      "text": "25 : , compare God’s hardening of Pharaoh’s heart in Ex 4–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-1-sam-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Now the boy Samuel continued to grow both in stature and in favor with the Lord and with the people."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-10",
+      "type": "commentary",
+      "text": "2.12–26: The wicked sons of Eli. Samuel’s faithful service, in contrast to the evil deeds of Eli’s sons, hints that he will replace Eli.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-1-sam-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "A man of God came to Eli and said to him, “Thus the Lord has said, ‘I revealed myself to the family of your ancestor in Egypt when they were slaves to the house of Pharaoh."
+    },
+    {
+      "block_id": "oxford-1-sam-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "I chose him out of all the tribes of Israel to be my priest, to go up to my altar, to offer incense, to wear an ephod before me; and I gave to the family of your ancestor all my offerings by fire from the people of Israel."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-18",
+      "type": "commentary",
+      "text": "27–28 : may refer to Moses, to whom Eli’s family traced their ancestry. The statement that he was chosen seems to indicate Levi, and Moses was a Levite (Ex 2.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-19",
+      "type": "commentary",
+      "text": "28 : , three principal duties of priests. Going up to the altar refers to offering sacrifices.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-1-sam-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Why then look with greedy eye at my sacrifices and my offerings that I commanded, and honor your sons more than me by fattening yourselves on the choicest parts of every offering of my people Israel?’"
+    },
+    {
+      "block_id": "oxford-1-sam-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Therefore the Lord the God of Israel declares: ‘I promised that your family and the family of your ancestor should go in and out before me forever’; but now the Lord declares: ‘Far be it from me; for those who honor me I will honor, and those who despise me shall be treated with contempt."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-20",
+      "type": "commentary",
+      "text": "30 : The promise mentioned here is not explicitly found in the Bible but resembles Ex 28.43, which is directed to Aaron.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-1-sam-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "See, a time is coming when I will cut off your strength and the strength of your ancestor’s family, so that no one in your family will live to old age."
+    },
+    {
+      "block_id": "oxford-1-sam-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Then in distress you will look with greedy eye on all the prosperity that shall be bestowed upon Israel; and no one in your family shall ever live to old age."
+    },
+    {
+      "block_id": "oxford-1-sam-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The only one of you whom I shall not cut off from my altar shall be spared to weep out his eyes and grieve his heart; all the members of your household shall die by the sword."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-21",
+      "type": "commentary",
+      "text": "31–33 : The cutting off of Eli’s household probably refers not to the death of Eli and his sons in 4.11,18 but to Saul’s annihilation of the priests of Nob in ch 22. is Abiathar, who alone escaped the slaughter (22.18–23; 1 Kings 2.26–27). The Hebrew of v. 32a is obscure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 31,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-1-sam-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "The fate of your two sons, Hophni and Phinehas, shall be the sign to you—both of them shall die on the same day."
+    },
+    {
+      "block_id": "oxford-1-sam-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "I will raise up for myself a faithful priest, who shall do according to what is in my heart and in my mind. I will build him a sure house, and he shall go in and out before my anointed one forever."
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-22",
+      "type": "commentary",
+      "text": "35 : The is Zadok, who came to prominence when Abiathar was banished by Solomon. The language of this verse is very similar to that of 2 Sam 7.11–16, which promises a dynasty to David. Both were probably written by the Deuteronomistic Historian. See also 1 Sam 25.28; 1 Kings 11.38. , see 2.10n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-1-sam-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Everyone who is left in your family shall come to implore him for a piece of silver or a loaf of bread, and shall say, Please put me in one of the priest’s places, that I may eat a morsel of bread.’”"
+    },
+    {
+      "block_id": "oxford-1-sam-2-h1kj-17",
+      "type": "commentary",
+      "text": "2.27–36: The oracle against Eli. This passage was probably written by the Deuteronomistic author to justify the exclusion of Abiathar, a descendent of Eli, and his sons from the priesthood in favor of Zadok and his descendants (1 Kings 2.27,35)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 2
+      },
+      "verse_start": 27,
+      "verse_end": 36
+    }
+  ]
+}

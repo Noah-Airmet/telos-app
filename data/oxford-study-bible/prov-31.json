@@ -1,0 +1,422 @@
+{
+  "document_id": "prov-31",
+  "title": "Proverbs 31",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-31-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The words of King Lemuel. An oracle that his mother taught him:"
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-2",
+      "type": "commentary",
+      "text": "1 : is otherwise unknown in the Hebrew Bible and, like Agur (30.1–33), is likely a Massaite (Heb “massaʾ” can be translated as or as the ethnic designation Massaite, see 30.1n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-prov-31-2",
+      "type": "verse",
+      "number": 2,
+      "text": "No, my son! No, son of my womb! No, son of my vows!"
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , compare Hannah's vow (1 Sam 1.11,28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-prov-31-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not give your strength to women, your ways to those who destroy kings."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-4",
+      "type": "commentary",
+      "text": "3 : Heb “ḥayil” ( , cf. v. 10) refers variously to physical strength (e.g., 1 Sam 2.4; Eccl 10.10), wealth and property (e.g., 13.22; Isa 30.6; Jer 15.13), capacity (e.g., Gen 47.6; Ex 18.21), and bravery (e.g., Judg 11.1; 1 Chr 5.24). Men with “ḥayil” in the Hebrew Bible tend to be well regarded and affluent—as kings, landowners, and persons who serve with courage and loyalty, often in the military (e.g., Ex 18.25; Ruth 2.1; 2 Sam 23.20; 2 Kings 15.20). They are persons of “substance,” namely, strength, capacity, wealth, and skill. See 31.10–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-31-4",
+      "type": "verse",
+      "number": 4,
+      "text": "It is not for kings, O Lemuel, it is not for kings to drink wine, or for rulers to desire strong drink;"
+    },
+    {
+      "block_id": "oxford-prov-31-5",
+      "type": "verse",
+      "number": 5,
+      "text": "or else they will drink and forget what has been decreed, and will pervert the rights of all the afflicted."
+    },
+    {
+      "block_id": "oxford-prov-31-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Give strong drink to one who is perishing, and wine to those in bitter distress;"
+    },
+    {
+      "block_id": "oxford-prov-31-7",
+      "type": "verse",
+      "number": 7,
+      "text": "let them drink and forget their poverty, and remember their misery no more."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-5",
+      "type": "commentary",
+      "text": "4–7 : See 20.1n. Inebriated leaders pose particular dangers to the community (e.g., Esth 1.5–22; Eccl 10.16–17; Isa 5.11–12,22–23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-prov-31-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Speak out for those who cannot speak, for the rights of all the destitute."
+    },
+    {
+      "block_id": "oxford-prov-31-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Speak out, judge righteously, defend the rights of the poor and needy."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-1",
+      "type": "commentary",
+      "text": "31.1–9: The words of Lemuel, king of Massa, which his mother taught him the only known ancient Near Eastern wisdom text attributed to a woman, though Proverbs refers to mothers as teachers (1.8; 6.20; 31.26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-6",
+      "type": "commentary",
+      "text": "8–9 : , the most vulnerable in society; see 16.12–13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-31-10",
+      "type": "verse",
+      "number": 10,
+      "text": "A capable wife who can find? She is far more precious than jewels."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-8",
+      "type": "commentary",
+      "text": "10 : (see 20.6n.) suggests that such a woman is rare (only elsewhere in 12.4; Ruth 3.11). Like Wisdom, her value surpasses that of jewels, see 2.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-31-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The heart of her husband trusts in her, and he will have no lack of gain."
+    },
+    {
+      "block_id": "oxford-prov-31-12",
+      "type": "verse",
+      "number": 12,
+      "text": "She does him good, and not harm, all the days of her life."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-9",
+      "type": "commentary",
+      "text": "11–12 : , i.e., loot (1.13; 16.19), hints at the woman's warriorlike traits (vv. 15,17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-31-13",
+      "type": "verse",
+      "number": 13,
+      "text": "She seeks wool and flax, and works with willing hands."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-10",
+      "type": "commentary",
+      "text": "13 : Spinning and weaving were emblematic of women's skill in the ancient Near East (vv. 19,21–22,24; e.g., Judg 16.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-31-14",
+      "type": "verse",
+      "number": 14,
+      "text": "She is like the ships of the merchant, she brings her food from far away."
+    },
+    {
+      "block_id": "oxford-prov-31-15",
+      "type": "verse",
+      "number": 15,
+      "text": "She rises while it is still night and provides food for her household and tasks for her servant-girls."
+    },
+    {
+      "block_id": "oxford-prov-31-16",
+      "type": "verse",
+      "number": 16,
+      "text": "She considers a field and buys it; with the fruit of her hands she plants a vineyard."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-11",
+      "type": "commentary",
+      "text": "16 : She independently identifies and purchases property, and plants a to make it productive, see 20.30–34n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-31-17",
+      "type": "verse",
+      "number": 17,
+      "text": "She girds herself with strength, and makes her arms strong."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-12",
+      "type": "commentary",
+      "text": "17 : , tucks up the skirts of a garment to prepare for difficult work; often done by warriors (e.g., Ex 12.11; 2 Kings 4.29; 9.1; Deut 1.41; 1 Sam 25.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-31-18",
+      "type": "verse",
+      "number": 18,
+      "text": "She perceives that her merchandise is profitable. Her lamp does not go out at night."
+    },
+    {
+      "block_id": "oxford-prov-31-19",
+      "type": "verse",
+      "number": 19,
+      "text": "She puts her hands to the distaff, and her hands hold the spindle."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-13",
+      "type": "commentary",
+      "text": "19 : , tools for spinning and weaving; see v. 13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-31-20",
+      "type": "verse",
+      "number": 20,
+      "text": "She opens her hand to the poor, and reaches out her hands to the needy."
+    },
+    {
+      "block_id": "oxford-prov-31-21",
+      "type": "verse",
+      "number": 21,
+      "text": "She is not afraid for her household when it snows, for all her household are clothed in crimson."
+    },
+    {
+      "block_id": "oxford-prov-31-22",
+      "type": "verse",
+      "number": 22,
+      "text": "She makes herself coverings; her clothing is fine linen and purple."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-14",
+      "type": "commentary",
+      "text": "21–22 : , marks of wealth, quality, and luxury; see 2 Sam 1.24; Jer 4.30; Isa 3.23. are elegant covers, like those of the “strange” woman in 7.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-31-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Her husband is known in the city gates, taking his seat among the elders of the land."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-15",
+      "type": "commentary",
+      "text": "23 : , the center of commerce and justice; see 1.21n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-31-24",
+      "type": "verse",
+      "number": 24,
+      "text": "She makes linen garments and sells them; she supplies the merchant with sashes."
+    },
+    {
+      "block_id": "oxford-prov-31-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Strength and dignity are her clothing, and she laughs at the time to come."
+    },
+    {
+      "block_id": "oxford-prov-31-26",
+      "type": "verse",
+      "number": 26,
+      "text": "She opens her mouth with wisdom, and the teaching of kindness is on her tongue."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-16",
+      "type": "commentary",
+      "text": "26 : Compare Wisdom's teaching, 8.6–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-prov-31-27",
+      "type": "verse",
+      "number": 27,
+      "text": "She looks well to the ways of her household, and does not eat the bread of idleness."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-17",
+      "type": "commentary",
+      "text": "27 : , see 4.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-prov-31-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Her children rise up and call her happy; her husband too, and he praises her:"
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-18",
+      "type": "commentary",
+      "text": "28 : , a gesture that signals the importance of their declaration (e.g., Jer 1.17; Mic 6.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-31-29",
+      "type": "verse",
+      "number": 29,
+      "text": "“Many women have done excellently, but you surpass them all.”"
+    },
+    {
+      "block_id": "oxford-prov-31-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Charm is deceitful, and beauty is vain, but a woman who fears the Lord is to be praised."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-19",
+      "type": "commentary",
+      "text": "30 : The woman is the epitome of ; see 1.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-prov-31-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Give her a share in the fruit of her hands, and let her works praise her in the city gates."
+    },
+    {
+      "block_id": "oxford-prov-31-h1kj-7",
+      "type": "commentary",
+      "text": "31:10–31: The woman of substance an alphabetic acrostic (each successive line begins with the next letter of the twenty-two-letter Hebrew alphabet) that celebrates the attributes and activities of a woman with “ḥayil” (v. 10; see 12.4n., 31.3n.). Her activities are consistent with those of affluent and moderately wealthy women of the commercial class in the postexilic period. She also closely resembles Wisdom in chs 1–9; see Introduction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 31
+      },
+      "verse_start": 10,
+      "verse_end": 31
+    }
+  ]
+}

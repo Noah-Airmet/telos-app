@@ -1,0 +1,835 @@
+{
+  "document_id": "twoesd-10",
+  "title": "twoesd 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twoesd-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-twoesd-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "So all of us put out our lamps, and all my neighborsc attempted to console me; I remained quiet until the evening of the second day."
+    },
+    {
+      "block_id": "oxford-twoesd-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But when all of them had stopped consoling me, encouraging me to be quiet, I got up in the night and fled, and I came to this field, as you see."
+    },
+    {
+      "block_id": "oxford-twoesd-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And now I intend not to return to the town, but to stay here; I will neither eat nor drink, but will mourn and fast continually until I die.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-4",
+      "type": "commentary",
+      "text": "9.38–10.4: The first part of the vision. Ezra converses with a disconsolate woman. The sudden departure from the pattern of the first three visions, wherein the angel had appeared, signals a shift in tone.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , as Ezra had done previously.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-twoesd-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then I broke off the reflections with which I was still engaged, and answered her in anger and said,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , as before ( , 9.39), Ezra is forced to leave aside his prior concerns.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-twoesd-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "“You most foolish of women, do you not see our mourning, and what has happened to us?"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-9",
+      "type": "commentary",
+      "text": "5–6 : , Ezra's highly emotional disposition, evident in the first three visions, continues here, but is redirected.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-twoesd-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For Zion, the mother of us all, is in deep grief and great distress."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-10",
+      "type": "commentary",
+      "text": "7 : , Isa 50.1; Jer 50.12; Bar 4.8– ; Gal 4.26. For in , see Lam 1.12–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-twoesd-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It is most appropriate to mourn now, because we are all mourning, and to be sorrowful, because we are all sorrowing; you are sorrowing for one son, but we, the whole world, for our mother."
+    },
+    {
+      "block_id": "oxford-twoesd-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Now ask the earth, and she will tell you that it is she who ought to mourn over so many who have come into being upon her."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-12",
+      "type": "commentary",
+      "text": "9 : , who is also the mother of all humankind (v. 10). Thus, the figure of the mother functions on three levels: Ezra's interlocutor, Zion (Jerusalem), and the whole earth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-twoesd-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "From the beginning all have been born of her, and others will come; and, lo, almost all go to perdition, and a multitude of them will come to doom."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-11",
+      "type": "commentary",
+      "text": "9–10 : Ezra's arguments recall those of the angel in the first three visions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-13",
+      "type": "commentary",
+      "text": "10 : This is the perspective Ezra refused to accept in the third vision (cf. ; 8.1–3,41; 9.17–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-twoesd-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Who then ought to mourn the more, she who lost so great a multitude, or you who are grieving for one alone?"
+    },
+    {
+      "block_id": "oxford-twoesd-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But if you say to me, ‘My lamentation is not like the earth's, for I have lost the fruit of my womb, which I brought forth in pain and bore in sorrow;"
+    },
+    {
+      "block_id": "oxford-twoesd-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "but it is with the earth according to the way of the earth—the multitude that is now in it goes as it came’;"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-14",
+      "type": "commentary",
+      "text": "13 : Cf. 24.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-twoesd-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "then I say to you, ‘Just as you brought forth in sorrow, so the earth also has from the beginning given her fruit, that is, humankind, to him who made her.’"
+    },
+    {
+      "block_id": "oxford-twoesd-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Now, therefore, keep your sorrow to yourself, and bear bravely the troubles that have come upon you."
+    },
+    {
+      "block_id": "oxford-twoesd-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For if you acknowledge the decree of God to be just, you will receive your son back in due time, and will be praised among women."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-15",
+      "type": "commentary",
+      "text": "16 : , as the angel had earlier encouraged Ezra to do. , perhaps in the resurrection; Heb 11.35; 2 Macc 7.23,29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-twoesd-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Therefore go into the town to your husband.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "She said to me, “I will not do so; I will not go into the city, but I will die here.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-16",
+      "type": "commentary",
+      "text": "18 : , the woman's stubbornness recalls Ezra's earlier attitude.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-twoesd-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "So I spoke again to her, and said,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "“Do not do that, but let yourself be persuaded—for how many are the adversities of Zion?—and be consoled because of the sorrow of Jerusalem."
+    },
+    {
+      "block_id": "oxford-twoesd-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For you see how our sanctuary has been laid waste, our altar thrown down, our temple destroyed;"
+    },
+    {
+      "block_id": "oxford-twoesd-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "our harp has been laid low, our song has been silenced, and our rejoicing has been ended; the light of our lampstand has been put out, the ark of our covenant has been plundered, our holy things have been polluted, and the name by which we are called has been almost profaned; our children have suffered abuse, our priests have been burned to death, our Levites have gone into exile, our virgins have been defiled, and our wives have been ravished; our righteous men have been carried off, our little ones have been cast out, our young men have been enslaved and our strong men made powerless."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-18",
+      "type": "commentary",
+      "text": "22 : symbolizes the service of praise. Cf. Pss 43.4; 137.2. The extinction of the perpetually burning lamp marked the cessation of Temple services. are enumerated in 1 Macc 4.49–51. “Israel” was bestowed by God (Gen 32.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-twoesd-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And, worst of all, the seal of Zion has been deprived of its glory, and given over into the hands of those that hate us."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-17",
+      "type": "commentary",
+      "text": "21–23 : Ezra sadly recalls the desolation of Jerusalem (cf. Lam 1.10; 2.7; 1 Macc 1.36–40; 2.7–13); ultimately, this refers to the city's destruction in 70 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-19",
+      "type": "commentary",
+      "text": "23 : , i.e., the city is under enemy control.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-twoesd-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Therefore shake off your great sadness and lay aside your many sorrows, so that the Mighty One may be merciful to you again, and the Most High may give you rest, a respite from your troubles.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-7",
+      "type": "commentary",
+      "text": "10.5–24: The second part of the vision. Ezra tries to convince the woman of the relative insignificance of her own sorrows in relation to the broader concerns of (v. 8), just as the angel had done with Ezra in the earlier visions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-20",
+      "type": "commentary",
+      "text": "24 : In Ezra's final words to the woman, he has fully become a consoler to her, just as the angel earlier had been to him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-twoesd-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "While I was talking to her, her face suddenly began to shine exceedingly; her countenance flashed like lightning, so that I was too frightened to approach her, and my heart was terrified. While I was wondering what this meant,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-22",
+      "type": "commentary",
+      "text": "25 : , the figure of the woman had only been a foil for the inner transformation of Ezra, who is now worthy to receive the vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-twoesd-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "she suddenly uttered a loud and fearful cry, so that the earth shook at the sound."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-3",
+      "type": "commentary",
+      "text": ": Introduction. 26 : , an unknown location.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-twoesd-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "When I looked up, the woman was no longer visible to me, but a city was being built, and a place of huge foundations showed itself. I was afraid, and cried with a loud voice and said,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-21",
+      "type": "commentary",
+      "text": "10.25–27a: A vision of the transformed Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 25,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-23",
+      "type": "commentary",
+      "text": "27 : , Zech 2.1–5; Rev 21.9–21. Jerusalem, whose destruction was movingly described in vv. 21–23, is being transformed or rebuilt in a way open only to visionary experience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-twoesd-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "“Where is the angel Uriel, who came to me at first? For it was he who brought me into this overpowering bewilderment; my end has become corruption, and my prayer a reproach.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-25",
+      "type": "commentary",
+      "text": "28 : , 4.1. Although the angel (Uriel; 4.1) has had no part in this vision, it is he upon whom Ezra immediately calls for guidance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-twoesd-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "While I was speaking these words, the angel who had come to me at first came to me, and when he saw me"
+    },
+    {
+      "block_id": "oxford-twoesd-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "lying there like a corpse, deprived of my understanding, he grasped my right hand and strengthened me and set me on my feet, and said to me,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-26",
+      "type": "commentary",
+      "text": "30 : , cf. Dan 8.18; 10.9; Rev 1.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-twoesd-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "“What is the matter with you? And why are you troubled? And why are your understanding and the thoughts of your mind troubled?”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-32",
+      "type": "verse",
+      "number": 32,
+      "text": "I said, “It was because you abandoned me. I did as you directed, and went out into the field, and lo, what I have seen and can still see, I am unable to explain.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-27",
+      "type": "commentary",
+      "text": "32 : , the vision is still before the seer's eyes. The seer is the vision, much as he had earlier been unable to come to terms with the angel's more rational explanations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-twoesd-10-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He said to me, “Stand up like a man, and I will instruct you.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-28",
+      "type": "commentary",
+      "text": "33 : Cf. Job 38.3; 40.7; see 5.15; 6.13,17; 7.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-twoesd-10-34",
+      "type": "verse",
+      "number": 34,
+      "text": "I said, “Speak, my lord; only do not forsake me, so that I may not die before my time. 35For I have seen what I did not know, and I hear what I do not understand"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-30",
+      "type": "commentary",
+      "text": "34 : , Ezra's plea is ironic. See 5.18 and 12.41, where Ezra's compatriots beg him not to “forsake” them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-twoesd-10-36",
+      "type": "verse",
+      "number": 36,
+      "text": "—or is my mind deceived, and my soul dreaming?"
+    },
+    {
+      "block_id": "oxford-twoesd-10-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Now therefore I beg you to give your servant an explanation of this bewildering vision.”"
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-24",
+      "type": "commentary",
+      "text": "10.27b–37: The appearance of the angel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 27,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-29",
+      "type": "commentary",
+      "text": "34–37 : Cf. 12.3b–9; 13.13b–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 34,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-twoesd-10-38",
+      "type": "verse",
+      "number": 38,
+      "text": "He answered me and said, “Listen to me, and I will teach you, and tell you about the things that you fear; for the Most High has revealed many secrets to you."
+    },
+    {
+      "block_id": "oxford-twoesd-10-39",
+      "type": "verse",
+      "number": 39,
+      "text": "He has seen your righteous conduct, and that you have sorrowed continually for your people and mourned greatly over Zion."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-32",
+      "type": "commentary",
+      "text": "38–39 : See n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 38,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-twoesd-10-40",
+      "type": "verse",
+      "number": 40,
+      "text": "This therefore is the meaning of the vision."
+    },
+    {
+      "block_id": "oxford-twoesd-10-41",
+      "type": "verse",
+      "number": 41,
+      "text": "The woman who appeared to you a little while ago, whom you saw mourning and whom you began to console"
+    },
+    {
+      "block_id": "oxford-twoesd-10-42",
+      "type": "verse",
+      "number": 42,
+      "text": "(you do not now see the form of a woman, but there appeared to you a city being built)"
+    },
+    {
+      "block_id": "oxford-twoesd-10-43",
+      "type": "verse",
+      "number": 43,
+      "text": "and who told you about the misfortune of her son—this is the interpretation:"
+    },
+    {
+      "block_id": "oxford-twoesd-10-44",
+      "type": "verse",
+      "number": 44,
+      "text": "The woman whom you saw is Zion, which you now behold as a city being built."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-33",
+      "type": "commentary",
+      "text": "44 : , the transformed Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-twoesd-10-45",
+      "type": "verse",
+      "number": 45,
+      "text": "And as for her telling you that she was barren for thirty years, the reason is that there were three thousand years in the world before any offering was offered in it."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-34",
+      "type": "commentary",
+      "text": "45 : , the time between the creation of the world and construction of the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-twoesd-10-46",
+      "type": "verse",
+      "number": 46,
+      "text": "And after three thousand years Solomon built the city, and offered offerings; then it was that the barren woman bore a son."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-35",
+      "type": "commentary",
+      "text": "46 : , the historical Jerusalem. , although David established Jerusalem as an Israelite city, Solomon built the Temple (1 Kings 5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-twoesd-10-47",
+      "type": "verse",
+      "number": 47,
+      "text": "And as for her telling you that she brought him up with much care, that was the period of residence in Jerusalem."
+    },
+    {
+      "block_id": "oxford-twoesd-10-48",
+      "type": "verse",
+      "number": 48,
+      "text": "And as for her saying to you, ‘My son died as he entered his wedding chamber,’ and that misfortune had overtaken her, this was the destruction that befell Jerusalem."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-36",
+      "type": "commentary",
+      "text": "48 : , see 10.21–23 and note. In its context, this passage refers to the destruction of Jerusalem in 586 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-twoesd-10-49",
+      "type": "verse",
+      "number": 49,
+      "text": "So you saw her likeness, how she mourned for her son, and you began to console her for what had happened."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-37",
+      "type": "commentary",
+      "text": "49 : Zion, in the universal sense, the destruction of her physical manifestation, the earthly city.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-twoesd-10-50",
+      "type": "verse",
+      "number": 50,
+      "text": "For now the Most High, seeing that you are sincerely grieved and profoundly distressed for her, has shown you the brilliance of her glory, and the loveliness of her beauty."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-38",
+      "type": "commentary",
+      "text": "49–50 : Ezra's vision is a direct reward for his sincere consolation of the mourning woman (see 10.41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 49,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-twoesd-10-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Therefore I told you to remain in the field where no house had been built,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-52",
+      "type": "verse",
+      "number": 52,
+      "text": "for I knew that the Most High would reveal these things to you."
+    },
+    {
+      "block_id": "oxford-twoesd-10-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Therefore I told you to go into the field where there was no foundation of any building,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-54",
+      "type": "verse",
+      "number": 54,
+      "text": "because no work of human construction could endure in a place where the city of the Most High was to be revealed."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-31",
+      "type": "commentary",
+      "text": "10.38–54: Interpretation of the vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 38,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-twoesd-10-55",
+      "type": "verse",
+      "number": 55,
+      "text": "“Therefore do not be afraid, and do not let your heart be terrified; but go in and see the splendor or the vastness of the building, as far as it is possible for your eyes to see it,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-56",
+      "type": "verse",
+      "number": 56,
+      "text": "and afterward you will hear as much as your ears can hear."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-40",
+      "type": "commentary",
+      "text": "55–56 : , the city is conceived as still present to Ezra (see vv. 32,42,44).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 55,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-twoesd-10-57",
+      "type": "verse",
+      "number": 57,
+      "text": "For you are more blessed than many, and you have been called to be with the Most High as few have been."
+    },
+    {
+      "block_id": "oxford-twoesd-10-58",
+      "type": "verse",
+      "number": 58,
+      "text": "But tomorrow night you shall remain here,"
+    },
+    {
+      "block_id": "oxford-twoesd-10-59",
+      "type": "verse",
+      "number": 59,
+      "text": "and the Most High will show you in those dream visions what the Most High will do to those who inhabit the earth in the last days.” So I slept that night and the following one, as he had told me."
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-1",
+      "type": "commentary",
+      "text": "Chapters 3–14 comprise a separate literary composition also known as 4 Ezra (see Introduction).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-2",
+      "type": "commentary",
+      "text": "9.26–10.59: The fourth vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-39",
+      "type": "commentary",
+      "text": "10.55–59: Conclusion and injunctions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 55,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-twoesd-10-h1kj-41",
+      "type": "commentary",
+      "text": "59 : The remainder of the book will consist of rather than argumentation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 10
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    }
+  ]
+}

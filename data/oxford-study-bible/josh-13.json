@@ -1,0 +1,314 @@
+{
+  "document_id": "josh-13",
+  "title": "Joshua 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-josh-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now Joshua was old and advanced in years; and the Lord said to him, “You are old and advanced in years, and very much of the land still remains to be possessed."
+    },
+    {
+      "block_id": "oxford-josh-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "This is the land that still remains: all the regions of the Philistines, and all those of the Geshurites"
+    },
+    {
+      "block_id": "oxford-josh-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "(from the Shihor, which is east of Egypt, northward to the boundary of Ekron, it is reckoned as Canaanite; there are five rulers of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath, and Ekron), and those of the Avvim"
+    },
+    {
+      "block_id": "oxford-josh-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "in the south; all the land of the Canaanites, and Mearah that belongs to the Sidonians, to Aphek, to the boundary of the Amorites,"
+    },
+    {
+      "block_id": "oxford-josh-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and the land of the Gebalites, and all Lebanon, toward the east, from Baal‐gad below Mount Hermon to Lebo‐hamath,"
+    },
+    {
+      "block_id": "oxford-josh-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "all the inhabitants of the hill country from Lebanon to Misrephoth‐maim, even all the Sidonians. I will myself drive them out from before the Israelites; only allot the land to Israel for an inheritance, as I have commanded you."
+    },
+    {
+      "block_id": "oxford-josh-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Now therefore divide this land for an inheritance to the nine tribes and the half‐tribe of Manasseh.”"
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–7: Land remaining. The land remaining is defined by those towns and regions inside the borders of Canaan (cf. Num 34.1–12) that are not under Israelite control. This foreshadows other passages in chs 13–21 that contrast with the first half of the book, by documenting Israel’s failure to capture all of the land, or by noting that foreigners live among the Israelites. These contrast with the idealistic reports given in the text (cf. 15.63; 16.10; 17.11–13; 18.2; 19.47). The particular areas designated as outside Israelite possession are (the southwestern coastal area), (east of the Sea of Galilee) (cf. 13.13), and the land of Phoenicia (northern coastal areas). According to 2 Sam 8.1–2 and 3.3, Philistia and Geshur came under Israelite control or influence only during the period of David).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-josh-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "With the other half‐tribe of Manasseh the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the Jordan eastward, as Moses the servant of the Lord gave them:"
+    },
+    {
+      "block_id": "oxford-josh-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "from Aroer, which is on the edge of the Wadi Arnon, and the town that is in the middle of the valley, and all the tableland from Medeba as far as Dibon;"
+    },
+    {
+      "block_id": "oxford-josh-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and all the cities of King Sihon of the Amorites, who reigned in Heshbon, as far as the boundary of the Ammonites;"
+    },
+    {
+      "block_id": "oxford-josh-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and Gilead, and the region of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan to Salecah;"
+    },
+    {
+      "block_id": "oxford-josh-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei (he alone was left of the survivors of the Rephaim); these Moses had defeated and driven out."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-4",
+      "type": "commentary",
+      "text": "12 : , see 12.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-josh-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Yet the Israelites did not drive out the Geshurites or the Maacathites; but Geshur and Maacath live within Israel to this day."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-5",
+      "type": "commentary",
+      "text": "13 : The first of many qualifications about Israelite success in possessing the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-josh-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "To the tribe of Levi alone Moses gave no inheritance; the offerings by fire to the Lord God of Israel are their inheritance, as he said to them."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-6",
+      "type": "commentary",
+      "text": "14 : , as the priestly tribe, the Levites were in charge of worship and shared the offerings; cf. Lev 7.29–36; etc. See also v. 33n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-josh-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Moses gave an inheritance to the tribe of the Reubenites according to their clans."
+    },
+    {
+      "block_id": "oxford-josh-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Their territory was from Aroer, which is on the edge of the Wadi Arnon, and the town that is in the middle of the valley, and all the tableland by Medeba;"
+    },
+    {
+      "block_id": "oxford-josh-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "with Heshbon, and all its towns that are in the tableland; Dibon, and Bamoth‐baal, and Beth‐baal‐meon,"
+    },
+    {
+      "block_id": "oxford-josh-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and Jahaz, and Kedemoth, and Mephaath,"
+    },
+    {
+      "block_id": "oxford-josh-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and Kiriathaim, and Sibmah, and Zereth‐shahar on the hill of the valley,"
+    },
+    {
+      "block_id": "oxford-josh-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and Beth‐peor, and the slopes of Pisgah, and Beth‐jeshimoth,"
+    },
+    {
+      "block_id": "oxford-josh-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "that is, all the towns of the tableland, and all the kingdom of King Sihon of the Amorites, who reigned in Heshbon, whom Moses defeated with the leaders of Midian, Evi and Rekem and Zur and Hur and Reba, as princes of Sihon, who lived in the land."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-7",
+      "type": "commentary",
+      "text": "21 : , see Num 31.1–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-josh-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Along with the rest of those they put to death, the Israelites also put to the sword Balaam son of Beor, who practiced divination."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-8",
+      "type": "commentary",
+      "text": "22 : , in contrast to the narrative about him in Num 22–24, here this non‐Israelite prophet is presented in a negative light. The tradition that the Israelites said to have killed him is also found in Num 31.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-josh-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And the border of the Reubenites was the Jordan and its banks. This was the inheritance of the Reubenites according to their families with their towns and villages."
+    },
+    {
+      "block_id": "oxford-josh-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Moses gave an inheritance also to the tribe of the Gadites, according to their families."
+    },
+    {
+      "block_id": "oxford-josh-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Their territory was Jazer, and all the towns of Gilead, and half the land of the Ammonites, to Aroer, which is east of Rabbah,"
+    },
+    {
+      "block_id": "oxford-josh-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "and from Heshbon to Ramath‐mizpeh and Betonim, and from Mahanaim to the territory of Debir,"
+    },
+    {
+      "block_id": "oxford-josh-13-27",
+      "type": "verse",
+      "number": 27,
+      "text": "and in the valley Beth‐haram, Beth‐nimrah, Succoth, and Zaphon, the rest of the kingdom of King Sihon of Heshbon, the Jordan and its banks, as far as the lower end of the Sea of Chinnereth, eastward beyond the Jordan."
+    },
+    {
+      "block_id": "oxford-josh-13-28",
+      "type": "verse",
+      "number": 28,
+      "text": "This is the inheritance of the Gadites according to their clans, with their towns and villages."
+    },
+    {
+      "block_id": "oxford-josh-13-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Moses gave an inheritance to the halftribe of Manasseh; it was allotted to the halftribe of the Manassites according to their families."
+    },
+    {
+      "block_id": "oxford-josh-13-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Their territory extended from Mahanaim, through all Bashan, the whole kingdom of King Og of Bashan, and all the settlements of Jair, which are in Bashan, sixty towns,"
+    },
+    {
+      "block_id": "oxford-josh-13-31",
+      "type": "verse",
+      "number": 31,
+      "text": "and half of Gilead, and Ashtaroth, and Edrei, the towns of the kingdom of Og in Bashan; these were allotted to the people of Machir son of Manasseh according to their clans—for half the Machirites."
+    },
+    {
+      "block_id": "oxford-josh-13-32",
+      "type": "verse",
+      "number": 32,
+      "text": "These are the inheritances that Moses distributed in the plains of Moab, beyond the Jordan east of Jericho."
+    },
+    {
+      "block_id": "oxford-josh-13-33",
+      "type": "verse",
+      "number": 33,
+      "text": "But to the tribe of Levi Moses gave no inheritance; the Lord God of Israel is their inheritance, as he said to them."
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-1",
+      "type": "commentary",
+      "text": "13.1–24.33: The allotment of the land. Having completed his first task, the conquest (1.2–5), Joshua turns his attention to his second task (1.6): “Put this people in possession of the land” (cf. Deut 4.21; 15.4; 19.10). The concern over allotment or inheritance (Heb “naḥalah”) unifies this section (13.6; 14.3,13; 17.4,6,14; 19.49). The section emphasizes that the division follows the divine will, as mediated by Joshua and Eleazar the priest. It utilizes four types of sources: boundary descriptions; town lists integrated into boundary descriptions; town lists; and short narratives that relate incidents of importance within the allotments, providing didactic significance to the division of the land. The cities of refuge and Levitical cities are attached at the end of the section since it is necessary for the tribes to receive their inheritance before they can allocate parts of it to others. For this entire section, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-3",
+      "type": "commentary",
+      "text": "13.8–33: Transjordanian tribal allotment. Before the allotments west of the Jordan can be described, the Transjordanian allotments that Moses made are recounted: a general description of the extent of the Transjordanian lands (13.8–13), a declaration that the Levites received no inheritance (13.14), a specific description of the Transjordanian territories (13.15–32), and again a declaration that the Levites received no inheritance (13.33). Israel had great difficulties controlling this territory throughout its history, though Deuteronomy considered it part of Israel (see Deut 3.12–17). See map 2 at the end of this volume.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-josh-13-h1kj-9",
+      "type": "commentary",
+      "text": "33 : A somewhat different formulation from v. 14; cf. Deut 10.9; 18.2; 18.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 13
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    }
+  ]
+}

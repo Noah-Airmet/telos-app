@@ -1,0 +1,523 @@
+{
+  "document_id": "acts-17",
+  "title": "Acts 17",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-acts-17-heading-18",
+      "type": "heading",
+      "text": "18"
+    },
+    {
+      "block_id": "oxford-acts-17-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And Paul went in, as was his custom, and on three sabbath days argued with them from the scriptures,"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , the pattern of starting a new mission in a synagogue (vv. 1,10,17) is explicitly stated (see 13.5n.; 14.1n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-acts-17-3",
+      "type": "verse",
+      "number": 3,
+      "text": "explaining and proving that it was necessary for the Messiah to suffer and to rise from the dead, and saying, “This is the Messiah,d Jesus whom I am proclaiming to you.”"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-4",
+      "type": "commentary",
+      "text": "3 : See 3.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-acts-17-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Some of them were persuaded and joined Paul and Silas, as did a great many of the devout Greeks and not a few of the leading women."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , see 16.14n. , v. 12; contrast 13.50.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-acts-17-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But the Jews became jealous, and with the help of some ruffians in the marketplaces they formed a mob and set the city in an uproar. While they were searching for Paul and Silas to bring them out to the assembly, they attacked Jason's house."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , 13.45. On the typical nature of the scene, see 13.50n.; cf. 1 Thess 2.14–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-acts-17-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When they could not find them, they dragged Jason and some believersb before the city authorities, shouting, “These people who have been turning the world upside down have come here also,"
+    },
+    {
+      "block_id": "oxford-acts-17-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and Jason has entertained them as guests. They are all acting contrary to the decrees of the emperor, saying that there is another king named Jesus.”"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-7",
+      "type": "commentary",
+      "text": "6–7 : , i.e., politarchs, a Macedonian title for non-Roman magistrates. Serious charges of activities that threaten Roman order are made; cf. Lk 23.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-acts-17-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The people and the city officials were disturbed when they heard this,"
+    },
+    {
+      "block_id": "oxford-acts-17-9",
+      "type": "verse",
+      "number": 9,
+      "text": "and after they had taken bail from Jason and the others, they let them go."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , had made him financially and legally responsible for future good behavior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-acts-17-10",
+      "type": "verse",
+      "number": 10,
+      "text": "That very night the believersb sent Paul and Silas off to Beroea; and when they arrived, they went to the Jewish synagogue."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , a city of Macedonia, 36 mi (58 km) west-southwest of Thessalonica.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-acts-17-11",
+      "type": "verse",
+      "number": 11,
+      "text": "These Jews were more receptive than those in Thessalonica, for they welcomed the message very eagerly and examined the scriptures every day to see whether these things were so."
+    },
+    {
+      "block_id": "oxford-acts-17-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Many of them therefore believed, including not a few Greek women and men of high standing."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-10",
+      "type": "commentary",
+      "text": "11–12 : and Gentiles believe (15.14n.). , Christianity is attracting people with status (16.37–38n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-acts-17-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But when the Jews of Thessalonica learned that the word of God had been proclaimed by Paul in Beroea as well, they came there too, to stir up and incite the crowds."
+    },
+    {
+      "block_id": "oxford-acts-17-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Then the believers immediately sent Paul away to the coast, but Silas and Timothy remained behind."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-11",
+      "type": "commentary",
+      "text": "14 : , where he would take a ship to Athens (v. 15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-acts-17-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Those who conducted Paul brought him as far as Athens; and after receiving instructions to have Silas and Timothy join him as soon as possible, they left him."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-1",
+      "type": "commentary",
+      "text": "17.1–15: From Thessalonica to Athens. Paul founds churches in Thessalonica and Beroea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-acts-17-16",
+      "type": "verse",
+      "number": 16,
+      "text": "While Paul was waiting for them in Athens, he was deeply distressed to see that the city was full of idols."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-13",
+      "type": "commentary",
+      "text": "16 : , cf. 1 Thess 3.1–2. , v. 22; cf. 1 Thess 1.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-acts-17-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So he argued in the synagogue with the Jews and the devout persons, and also in the marketplace every day with those who happened to be there."
+    },
+    {
+      "block_id": "oxford-acts-17-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Also some Epicurean and Stoic philosophers debated with him. Some said, “What does this babbler want to say?” Others said, “He seems to be a proclaimer of foreign divinities.” (This was because he was telling the good news about Jesus and the resurrection.)"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-14",
+      "type": "commentary",
+      "text": "18 : , recognizable tenets from both groups are incorporated into Paul's speech in vv. 22–31. , a term of disparagement; the Gk word literally refers to birds “picking up seeds,” and of persons “one who makes a living by picking up scraps” (here implied: “of learning”). Anastasis (the Gk word for ) are mistaken for two",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-acts-17-19",
+      "type": "verse",
+      "number": 19,
+      "text": "So they took him and brought him to the Areopagus and asked him, “May we know what this new teaching is that you are presenting?"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-15",
+      "type": "commentary",
+      "text": "19 : , could either imply arrest or friendly escort, and could refer either to arraignment before the Council of the Areopagus (essentially the chief Roman court in Athens) or the Areopagus hill west of the Acropolis. The request suggests a more relaxed setting for discussion, though allusions to Socrates before the Areopagus court are surely intended (see v. 34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-acts-17-20",
+      "type": "verse",
+      "number": 20,
+      "text": "It sounds rather strange to us, so we would like to know what it means.”"
+    },
+    {
+      "block_id": "oxford-acts-17-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Now all the Athenians and the foreigners living there would spend their time in nothing but telling or hearing something new."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-16",
+      "type": "commentary",
+      "text": "21 : The curiosity of was proverbial.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-acts-17-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then Paul stood in front of the Areopagus and said, “Athenians, I see how extremely religious you are in every way."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-18",
+      "type": "commentary",
+      "text": "22 : , can be taken in a good or bad sense. It connects to “idols” in v. 16 and leads to v. 23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-acts-17-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For as I went through the city and looked carefully at the objects of your worship, I found among them an altar with the inscription, ‘To an unknown god.’ What therefore you worship as unknown, this I proclaim to you."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-19",
+      "type": "commentary",
+      "text": "23 : , such an inscription has not been found in Athens to date; the plural form is attested. The scene intends to illustrate the anxiety of the “extremely religious” (v. 22) lest the honor due to any deity be inadvertently omitted and gives Paul an opening to the Christian message.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-acts-17-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The God who made the world and everything in it, he who is Lord of heaven and earth, does not live in shrines made by human hands,"
+    },
+    {
+      "block_id": "oxford-acts-17-25",
+      "type": "verse",
+      "number": 25,
+      "text": "nor is he served by human hands, as though he needed anything, since he himself gives to all mortals life and breath and all things."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-20",
+      "type": "commentary",
+      "text": "24–25 : as the creator (14.15) is an idea common to Jews (Gen 1.1) and Greeks (e.g., Plato, ). , 7.48n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-acts-17-26",
+      "type": "verse",
+      "number": 26,
+      "text": "From one ancestor he made all nations to inhabit the whole earth, and he allotted the times of their existence and the boundaries of the places where they would live,"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-21",
+      "type": "commentary",
+      "text": "26 : , Adam.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-acts-17-27",
+      "type": "verse",
+      "number": 27,
+      "text": "so that they would search for God and perhaps grope for him and find him—though indeed he is not far from each one of us."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-22",
+      "type": "commentary",
+      "text": "27 : God created “all nations” (v. 26) to (cf. 14.17). That God was near to all people was a Stoic belief.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-acts-17-28",
+      "type": "verse",
+      "number": 28,
+      "text": "For ‘In him we live and move and have our being’; as even some of your own poets have said, ‘For we too are his offspring.’"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-23",
+      "type": "commentary",
+      "text": "28 : Although the first quotation is sometimes attributed to Epimenides, its language is probably to be associated with Posidonius (based on Plato); the second quotation is from Aratus ( 5), a Greek poet of Cilicia educated as a Stoic. In Paul's usage the original pantheistic sense of both “quotations” is reinterpreted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-acts-17-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Since we are God's offspring, we ought not to think that the deity is like gold, or silver, or stone, an image formed by the art and imagination of mortals."
+    },
+    {
+      "block_id": "oxford-acts-17-30",
+      "type": "verse",
+      "number": 30,
+      "text": "While God has overlooked the times of human ignorance, now he commands all people everywhere to repent,"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-24",
+      "type": "commentary",
+      "text": "30 : , cf. 14.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-acts-17-31",
+      "type": "verse",
+      "number": 31,
+      "text": "because he has fixed a day on which he will have the world judged in righteousness by a man whom he has appointed, and of this he has given assurance to all by raising him from the dead.”"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-17",
+      "type": "commentary",
+      "text": "22–31 : Contrast the approach to Gentiles attributed to Paul in this speech with Rom 1.18–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 22,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-25",
+      "type": "commentary",
+      "text": "31 : That the will be (10.42) … , i.e., Jesus (2.22,36), by God has been guaranteed by the resurrection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-acts-17-32",
+      "type": "verse",
+      "number": 32,
+      "text": "When they heard of the resurrection of the dead, some scoffed; but others said, “We will hear you again about this.”"
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-26",
+      "type": "commentary",
+      "text": "32 : , Greek thought made no provision for resurrection of the body (e.g., Aeschylus, , 647–648; cf. 1 Cor 15.12,35), were intrigued.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-acts-17-33",
+      "type": "verse",
+      "number": 33,
+      "text": "At that point Paul left them."
+    },
+    {
+      "block_id": "oxford-acts-17-34",
+      "type": "verse",
+      "number": 34,
+      "text": "But some of them joined him and became believers, including Dionysius the Areopagite and a woman named Damaris, and others with them."
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-12",
+      "type": "commentary",
+      "text": "17.16–34: Paul at Athens. Paul is portrayed as the first Christian philosopher, using Stoic and Jewish arguments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 16,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-acts-17-h1kj-27",
+      "type": "commentary",
+      "text": "34 : The conversion of , a member of the Areopagus court, contributes to the theme of rulers attracted to Christianity. The note about conforms to a pattern found in both the Gospel (e.g., Lk 15.3–10) and Acts (e.g., 5.1–11) of juxtaposing characters of both genders.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "acts",
+        "chapter": 17
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    }
+  ]
+}

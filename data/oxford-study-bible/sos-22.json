@@ -1,0 +1,289 @@
+{
+  "document_id": "sos-22",
+  "title": "sos 22",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-22-heading-23",
+      "type": "heading",
+      "text": "23"
+    },
+    {
+      "block_id": "oxford-sos-22-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The idler is like the filth of dunghills; anyone that picks it up will shake it off his hand."
+    },
+    {
+      "block_id": "oxford-sos-22-3",
+      "type": "verse",
+      "number": 3,
+      "text": "It is a disgrace to be the father of an undisciplined son, and the birth of a daughter is a loss."
+    },
+    {
+      "block_id": "oxford-sos-22-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A sensible daughter obtains a husband of her own, but one who acts shamefully is a grief to her father."
+    },
+    {
+      "block_id": "oxford-sos-22-5",
+      "type": "verse",
+      "number": 5,
+      "text": "An impudent daughter disgraces father and husband, and is despised by both."
+    },
+    {
+      "block_id": "oxford-sos-22-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Like music in time of mourning is ill-timed conversation, but a thrashing and discipline are at all times wisdom."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-3",
+      "type": "commentary",
+      "text": "3–6 : , sons were valued more highly than daughters in Ben Sira's social world (cf. 7.24–25; 42.9–14), but both can bring shame on their .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 3,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , corporal punishment was the norm in parenting and education (30.12–13; Prov 13.24; 23.13–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-22-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Whoever teaches a fool is like one who glues potsherds together, or who rouses a sleeper from deep slumber."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-5",
+      "type": "commentary",
+      "text": "9 : See 21.13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-22-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Whoever tells a story to a fool tells it to a drowsy man; and at the end he will say, “What is it?”"
+    },
+    {
+      "block_id": "oxford-sos-22-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Weep for the dead, for he has left the light behind; and weep for the fool, for he has left intelligence behind. Weep less bitterly for the dead, for he is at rest; but the life of the fool is worse than death."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-6",
+      "type": "commentary",
+      "text": "11 : For the nothing more exists; for the the rest of life is at stake.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-22-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Mourning for the dead lasts seven days, but for the foolish or the ungodly it lasts all the days of their lives."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-7",
+      "type": "commentary",
+      "text": "12 : , the traditional mourning period, but cf. 38.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-22-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Do not talk much with a senseless person or visit an unintelligent person. Stay clear of him, or you may have trouble, and be spattered when he shakes himself off. Avoid him and you will find rest, and you will never be wearied by his lack of sense."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-8",
+      "type": "commentary",
+      "text": "13 : , the image is of an animal shaking off that affects anyone standing close by.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-22-14",
+      "type": "verse",
+      "number": 14,
+      "text": "What is heavier than lead? And what is its name except “Fool”?"
+    },
+    {
+      "block_id": "oxford-sos-22-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Sand, salt, and a piece of iron are easier to bear than a stupid person."
+    },
+    {
+      "block_id": "oxford-sos-22-16",
+      "type": "verse",
+      "number": 16,
+      "text": "A wooden beam firmly bonded into a building is not loosened by an earthquake; so the mind firmly resolved after due reflection will not be afraid in a crisis."
+    },
+    {
+      "block_id": "oxford-sos-22-17",
+      "type": "verse",
+      "number": 17,
+      "text": "A mind settled on an intelligent thought is like stucco decoration that makes a wall smooth."
+    },
+    {
+      "block_id": "oxford-sos-22-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Fences set on a high place will not stand firm against the wind; so a timid mind with a fool's resolve will not stand firm against any fear."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-1",
+      "type": "commentary",
+      "text": "21.11–22.18: The wise and the foolish.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-9",
+      "type": "commentary",
+      "text": "16–18 : contrasts with the resolve of the wise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 16,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-22-19",
+      "type": "verse",
+      "number": 19,
+      "text": "One who pricks the eye brings tears, and one who pricks the heart makes clear its feelings."
+    },
+    {
+      "block_id": "oxford-sos-22-20",
+      "type": "verse",
+      "number": 20,
+      "text": "One who throws a stone at birds scares them away, and one who reviles a friend destroys a friendship."
+    },
+    {
+      "block_id": "oxford-sos-22-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Even if you draw your sword against a friend, do not despair, for there is a way back."
+    },
+    {
+      "block_id": "oxford-sos-22-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If you open your mouth against your friend, do not worry, for reconciliation is possible. But as for reviling, arrogance, disclosure of secrets, or a treacherous blow— in these cases any friend will take to flight."
+    },
+    {
+      "block_id": "oxford-sos-22-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Gain the trust of your neighbor in his poverty, so that you may rejoice with him in his prosperity. Stand by him in time of distress, so that you may share with him in his inheritance."
+    },
+    {
+      "block_id": "oxford-sos-22-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The vapor and smoke of the furnace precede the fire; so insults precede bloodshed."
+    },
+    {
+      "block_id": "oxford-sos-22-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I am not ashamed to shelter a friend, and I will not hide from him."
+    },
+    {
+      "block_id": "oxford-sos-22-26",
+      "type": "verse",
+      "number": 26,
+      "text": "But if harm should come to me because of him, whoever hears of it will beware of him."
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-10",
+      "type": "commentary",
+      "text": "22.19–26: Preserving friendship. See also 6.5–17. Even true and loyal friends might make mistakes that require . True friends friends in good and bad times.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 19,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-11",
+      "type": "commentary",
+      "text": "25–26 : runs counter to Ben Sira's usual ethic of caution; cf. 11.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 25,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-22-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Who will set a guard over my mouth, and an effective seal upon my lips, so that I may not fall because of them, and my tongue may not destroy me?"
+    },
+    {
+      "block_id": "oxford-sos-22-h1kj-12",
+      "type": "commentary",
+      "text": "22.27–23.6. Prayer for self-control.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 22
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

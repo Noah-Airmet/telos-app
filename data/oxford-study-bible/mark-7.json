@@ -1,0 +1,595 @@
+{
+  "document_id": "mark-7",
+  "title": "Mark 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-mark-7-heading-8",
+      "type": "heading",
+      "text": "8"
+    },
+    {
+      "block_id": "oxford-mark-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "they noticed that some of his disciples were eating with defiled hands, that is, without washing them."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , lit., “eating the loaves,” a colloquial expression that may echo the feeding story (6.30–44; 6.52n.). , a condition of impurity (Lev 15.11), a consistent concern among Jesus's religious opponents.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-mark-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "(For the Pharisees, and all the Jews, do not eat unless they thoroughly wash their hands, thus observing the tradition of the elders;"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-8",
+      "type": "commentary",
+      "text": "3 : , the oral instruction the Pharisees considered authoritative interpretation of biblical law. Cf. Lk 11.38; Gal 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-mark-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and they do not eat anything from the market unless they wash it; and there are also many other traditions that they observe, the washing of cups, pots, and bronze kettles.)"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-7",
+      "type": "commentary",
+      "text": "2b–4 : Mark explains but exaggerates hand-washing as a ubiquitous Jewish practice, a feature that reflects a non-Jewish component of the Gospel's original audience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-mark-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So the Pharisees and the scribes asked him, “Why do your disciples not live according to the tradition of the elders, but eat with defiled hands?”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-9",
+      "type": "commentary",
+      "text": "5 : , the Pharisees hold Jesus accountable for his followers’ conduct; cf. 2.18,24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-mark-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He said to them, “Isaiah prophesied rightly about you hypocrites, as it is written, The geography of the Gospel of Mark. ‘This people honors me with their lips, but their hearts are far from me;"
+    },
+    {
+      "block_id": "oxford-mark-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "in vain do they worship me, teaching human precepts as doctrines.’"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-10",
+      "type": "commentary",
+      "text": "6–7 : See Isa 29.13 (LXX); see also Jer 7.3–7; Am 5.21–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-mark-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You abandon the commandment of God and hold to human tradition.”"
+    },
+    {
+      "block_id": "oxford-mark-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then he said to them, “You have a fine way of rejecting the commandment of God in order to keep your tradition!"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-11",
+      "type": "commentary",
+      "text": "8–9 : , for Jesus, the written law takes precedence over its interpretation, not the other way around.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-mark-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For Moses said, ‘Honor your father and your mother’; and, ‘Whoever speaks evil of father or mother must surely die.’"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-12",
+      "type": "commentary",
+      "text": "10 : Jesus combines the commandment to honor parents (Ex 20.12; Deut 5.16) with the consequence for breaking it (Ex 21.17; Lev 20.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mark-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But you say that if anyone tells father or mother, ‘Whatever support you might have had from me is Corban’ (that is, an offering to God)—"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , Aramaic for “offering.” , a phrase that is absent in the Greek text, which implies but does not state the offering's object.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-mark-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "then you no longer permit doing anything for a father or mother,"
+    },
+    {
+      "block_id": "oxford-mark-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "thus making void the word of God through your tradition that you have handed on. And you do many things like this.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , the laws just cited.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-mark-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Then he called the crowd again and said to them, “Listen to me, all of you, and understand:"
+    },
+    {
+      "block_id": "oxford-mark-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "there is nothing outside a person that by going in can defile, but the things that come out are what defile.”"
+    },
+    {
+      "block_id": "oxford-mark-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When he had left the crowd and entered the house, his disciples asked him about the parable."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-16",
+      "type": "commentary",
+      "text": "17 : , another shift from a public setting to a private audience (see 4.10–12,20–34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-mark-7-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He said to them, “Then do you also fail to understand? Do you not see that whatever goes into a person from outside cannot defile,"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-17",
+      "type": "commentary",
+      "text": "18 : , a common theme in Mark; see 4.13; 6.52; 8.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-mark-7-19",
+      "type": "verse",
+      "number": 19,
+      "text": "since it enters, not the heart but the stomach, and goes out into the sewer?” (Thus he declared all foods clean.)"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-18",
+      "type": "commentary",
+      "text": "19 : , the moral center of the human being, according to ancient thought. Jesus thus defines purity as a matter of conduct rather than consumption. , Mark applies Jesus's saying to dietary laws in Torah (Lev 11.1–47), since Mark's audience probably wrestled with which aspects of Jewish law pertained to its non-Jewish members. Cf. Acts 10.9–16; Gal 2.11–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-mark-7-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And he said, “It is what comes out of a person that defiles."
+    },
+    {
+      "block_id": "oxford-mark-7-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For it is from within, from the human heart, that evil intentions come: fornication, theft, murder,"
+    },
+    {
+      "block_id": "oxford-mark-7-22",
+      "type": "verse",
+      "number": 22,
+      "text": "adultery, avarice, wickedness, deceit, licentiousness, envy, slander, pride, folly."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-19",
+      "type": "commentary",
+      "text": "21–22 : Vice lists appear frequently in texts from the Hellenistic world. For Mark's Jesus, it is ethical infractions more than flawed ritual practice that (7.20,23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-mark-7-23",
+      "type": "verse",
+      "number": 23,
+      "text": "All these evil things come from within, and they defile a person.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-4",
+      "type": "commentary",
+      "text": "7.1–23: Jesus on Jewish law and its interpretation (Mt 15.1–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-15",
+      "type": "commentary",
+      "text": "7.14–23: Jesus on defilement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 14,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-mark-7-24",
+      "type": "verse",
+      "number": 24,
+      "text": "From there he set out and went away to the region of Tyre. He entered a house and did not want anyone to know he was there. Yet he could not escape notice,"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-21",
+      "type": "commentary",
+      "text": "24 : , a predominantly Gentile area northwest of Galilee. Cf. 3.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-mark-7-25",
+      "type": "verse",
+      "number": 25,
+      "text": "but a woman whose little daughter had an unclean spirit immediately heard about him, and she came and bowed down at his feet."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-22",
+      "type": "commentary",
+      "text": "25 : , see 3.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-mark-7-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Now the woman was a Gentile, of Syrophoenician origin. She begged him to cast the demon out of her daughter."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-23",
+      "type": "commentary",
+      "text": "26 : , lit., “Greek,” combining with the woman's to emphasize that she is a cultural and ethnic “outsider.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-mark-7-27",
+      "type": "verse",
+      "number": 27,
+      "text": "He said to her, “Let the children be fed first, for it is not fair to take the children's food and throw it to the dogs.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-24",
+      "type": "commentary",
+      "text": "27 : , sometimes used as a slur in the Hebrew Bible (e.g., 1 Sam 17.43; 24.14); Jesus exhibits a surprisingly provincial attitude here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-mark-7-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But she answered him, “Sir, even the dogs under the table eat the children's crumbs.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-25",
+      "type": "commentary",
+      "text": "28 : The woman accepts Jewish but challenges Jewish , suggesting that “leftovers” in God's kingdom (6.43) could be offered to “outsiders.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-mark-7-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Then he said to her, “For saying that, you may go—the demon has left your daughter.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-26",
+      "type": "commentary",
+      "text": "29 : , Jesus declares the exorcism accomplished, even from a distance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-mark-7-30",
+      "type": "verse",
+      "number": 30,
+      "text": "So she went home, found the child lying on the bed, and the demon gone."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-20",
+      "type": "commentary",
+      "text": "7.24–30: Jesus exorcises a demon (Mt 15.21–28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 24,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-mark-7-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Then he returned from the region of Tyre, and went by way of Sidon towards the Sea of Galilee, in the region of the Decapolis."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-28",
+      "type": "commentary",
+      "text": "31 : , see 5.20n. Jesus's route here is a circuitous one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-mark-7-32",
+      "type": "verse",
+      "number": 32,
+      "text": "They brought to him a deaf man who had an impediment in his speech; and they begged him to lay his hand on him."
+    },
+    {
+      "block_id": "oxford-mark-7-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He took him aside in private, away from the crowd, and put his fingers into his ears, and he spat and touched his tongue."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-29",
+      "type": "commentary",
+      "text": "33 : On healing by physical touch, see 1.31n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-mark-7-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Then looking up to heaven, he sighed and said to him, “Ephphatha,” that is, “Be opened.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-30",
+      "type": "commentary",
+      "text": "34 : , see 3.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-mark-7-35",
+      "type": "verse",
+      "number": 35,
+      "text": "And immediately his ears were opened, his tongue was released, and he spoke plainly."
+    },
+    {
+      "block_id": "oxford-mark-7-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Then Jesus ordered them to tell no one; but the more he ordered them, the more zealously they proclaimed it."
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-31",
+      "type": "commentary",
+      "text": "36 : , see 1.43–44n.; 7.24. , probably the “good news” about God's coming kingdom (and the related power Jesus exhibits); see 1.14; 3.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-mark-7-37",
+      "type": "verse",
+      "number": 37,
+      "text": "They were astounded beyond measure, saying, “He has done everything well; he even makes the deaf to hear and the mute to speak.”"
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-1",
+      "type": "commentary",
+      "text": "1.16–8.26: Jesus's messianic mission: word and deed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-2",
+      "type": "commentary",
+      "text": "3.19b–35: Jesus at home (Mt 12.22–32; Lk 11.14–23; 12.10). An intertwined intercalation of two passages, linked by the motif of household. For other examples of this technique, see 5.21–43; 11.12–25[26]; 14.1–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-3",
+      "type": "commentary",
+      "text": "6.53–8.26: Jesus among the Gentiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-27",
+      "type": "commentary",
+      "text": "7.31–37: Jesus heals another Gentile (Mt 15.29–31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 31,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-mark-7-h1kj-32",
+      "type": "commentary",
+      "text": "37 : , see 1.22n. , evidence of God's sovereign power taking root on earth (see Isa 35.5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 7
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    }
+  ]
+}

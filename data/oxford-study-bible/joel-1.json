@@ -1,0 +1,313 @@
+{
+  "document_id": "joel-1",
+  "title": "Joel 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-joel-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-joel-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord that came to Joel son of Pethuel:"
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1: Superscription. Unlike Hos 1.1 and Am 1.1, there is no reference to a king during whose reign Joel prophesied. This probably suggests a date when Israel was no longer a monarchy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-joel-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear this, O elders, give ear, all inhabitants of the land! Has such a thing happened in your days, or in the days of your ancestors?"
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.2 : Different groups are commanded to undertake various rituals of lament and petition to the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-joel-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Tell your children of it, and let your children tell their children, and their children another generation."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-4",
+      "type": "commentary",
+      "text": "2–3 : The prophet strikes an intergenerational note, which involves both hearing and telling. , probably village or regional officials (cf. Ezra 5.9; 6.8,14; 10.8,14), stand in parallel with the hyperbolic . , lit., “fathers.” The rhetorical question, which has an obvious negative answer, does not reveal the nature of",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-joel-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "What the cutting locust left, the swarming locust has eaten. What the swarming locust left, the hopping locust has eaten, and what the hopping locust left, the destroying locust has eaten."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Rather than different species, these nouns probably refer to the developmental stages of the . For Joel, the four forms represent four attacks on the vegetation (cf. Am 4.9). For other references to plagues see Ex 10.12; Pss 78.46; 105.34–35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-joel-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Wake up, you drunkards, and weep; and wail, all you wine-drinkers, over the sweet wine, for it is cut off from your mouth."
+    },
+    {
+      "block_id": "oxford-joel-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For a nation has invaded my land, powerful and innumerable; its teeth are lions’ teeth, and it has the fangs of a lioness."
+    },
+    {
+      "block_id": "oxford-joel-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "It has laid waste my vines, and splintered my fig trees; it has stripped off their bark and thrown it down; their branches have turned white."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-6",
+      "type": "commentary",
+      "text": "5–7 : may be too negative a translation. In these speeches Joel does not regularly indict Israelites, so here he may simply be referring to those who enjoy wine. Joel 3.18 promises the return of The admonition to may involve ritual lament as in Jer 4.8, not simply crying.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-7",
+      "type": "commentary",
+      "text": "6–7 : The reference to (cf. 2.18; Lev 25.23) suggests that God is speaking. The poem offers the reason for the commands: of vast numbers is ferocious; it is destroying Israel's (note the earlier reference to wine) and , both of which must grow for a long time before they bear fruit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-joel-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Lament like a virgin dressed in sackcloth for the husband of her youth."
+    },
+    {
+      "block_id": "oxford-joel-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The grain offering and the drink offering are cut off from the house of the Lord. The priests mourn, the ministers of the Lord."
+    },
+    {
+      "block_id": "oxford-joel-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The fields are devastated, the ground mourns; for the grain is destroyed, the wine dries up, the oil fails."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-8",
+      "type": "commentary",
+      "text": "8–10 : may mean a young woman who is grief-stricken at the death of her husband. Again, the reason for the command follows the command itself. Rituals at the Temple— —could not take place because , and (cf. 2.19, which promises their return) were no longer available.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-joel-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Be dismayed, you farmers, wail, you vinedressers, over the wheat and the barley; for the crops of the field are ruined."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , a person who prunes grape vines.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-joel-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The vine withers, the fig tree droops. Pomegranate, palm, and apple— all the trees of the field are dried up; surely, joy withers away among the people."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-9",
+      "type": "commentary",
+      "text": "11–12 : Now farmers must lament the demise of eight different harvests, divided into and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-joel-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Put on sackcloth and lament, you priests; wail, you ministers of the altar. Come, pass the night in sackcloth, you ministers of my God! Grain offering and drink offering are withheld from the house of your God."
+    },
+    {
+      "block_id": "oxford-joel-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Sanctify a fast, call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of the Lord your God, and cry out to the Lord."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-11",
+      "type": "commentary",
+      "text": "13–14 : (cf. 1.9–11) are now commanded to lament and put on , which was worn during mourning rites (e.g., Am 8.10) and other difficult times (e.g., Ps 35.13); see 2 Sam 12.16 for passing the night in a comparable ritual. could be a public event (cf. Zech 7.3–5; 8.18–19; Ezra 8.21–23; Neh 1.4–11). For a different perspective on , see Am 5.21; Isa 1:13. and echo 1.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-joel-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Alas for the day! For the day of the Lord is near, and as destruction from the Almighty it comes."
+    },
+    {
+      "block_id": "oxford-joel-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Is not the food cut off before our eyes, joy and gladness from the house of our God?"
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-13",
+      "type": "commentary",
+      "text": "16 : A rhetorical question, with an obvious affirmative response.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-joel-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The seed shrivels under the clods, the storehouses are desolate; the granaries are ruined because the grain has failed."
+    },
+    {
+      "block_id": "oxford-joel-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "How the animals groan! The herds of cattle wander about because there is no pasture for them; even the flocks of sheep are dazed."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-14",
+      "type": "commentary",
+      "text": "18 : Domestic animals also suffer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-joel-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "To you, O Lord, I cry. For fire has devoured the pastures of the wilderness, and flames have burned all the trees of the field."
+    },
+    {
+      "block_id": "oxford-joel-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Even the wild animals cry to you because the watercourses are dried up, and fire has devoured the pastures of the wilderness."
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.2–2.17: Crisis and call to action. A series of staccato-like poems, some of which depict the crisis (e.g., 1.17–18), more of which call people to act (e.g., 1.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-12",
+      "type": "commentary",
+      "text": "15–20 : These verses may be a single lament, spoken by the prophet, the people, or their priests. (see also 2.1,11,31; 3.14) symbolizes God's theophanic and judging presence (cf. Am 5.18; Ob 15; Zeph 1.7,14–15; Isa 13.6; Ezek 13.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-joel-1-h1kj-15",
+      "type": "commentary",
+      "text": "20 : completes the picture of all life—plant and animal—suffering through the attack, fire, and drought.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "joel",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    }
+  ]
+}

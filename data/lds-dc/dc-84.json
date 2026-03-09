@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-84",
+  "title": "Section 84: The priesthood",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-84-heading",
+      "type": "heading",
+      "text": "The priesthood"
+    },
+    {
+      "block_id": "dc-84-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 84 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 84,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

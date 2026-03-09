@@ -1,0 +1,541 @@
+{
+  "document_id": "luke-13",
+  "title": "Luke 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-luke-13-heading-14",
+      "type": "heading",
+      "text": "14"
+    },
+    {
+      "block_id": "oxford-luke-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He asked them, “Do you think that because these Galileans suffered in this way they were worse sinners than all other Galileans?"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-4",
+      "type": "commentary",
+      "text": "2 : The reports raised questions about the belief that painful experiences reflected God's judgments (see 5.20n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-luke-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "No, I tell you; but unless you repent, you will all perish as they did."
+    },
+    {
+      "block_id": "oxford-luke-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Or those eighteen who were killed when the tower of Siloam fell on them—do you think that they were worse offenders than all the others living in Jerusalem?"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , in the southeast corner of Jerusalem (Isa 8.6; Neh 3.15; Jn 9.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-luke-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "No, I tell you; but unless you repent, you will all perish just as they did.”"
+    },
+    {
+      "block_id": "oxford-luke-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then he told this parable: “A man had a fig tree planted in his vineyard; and he came looking for fruit on it and found none."
+    },
+    {
+      "block_id": "oxford-luke-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So he said to the gardener, ‘See here! For three years I have come looking for fruit on this fig tree, and still I find none. Cut it down! Why should it be wasting the soil?’"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-7",
+      "type": "commentary",
+      "text": "7 : See 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-luke-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He replied, ‘Sir, let it alone for one more year, until I dig around it and put manure on it."
+    },
+    {
+      "block_id": "oxford-luke-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "If it bears fruit next year, well and good; but if not, you can cut it down.’”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–9: Parable of the unfruitful fig tree (cf. Mt 21.18–19; Mk 11.12–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-6",
+      "type": "commentary",
+      "text": "6–9 : An oddly placed parable about judgment deferred.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 6,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-luke-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now he was teaching in one of the synagogues on the sabbath."
+    },
+    {
+      "block_id": "oxford-luke-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And just then there appeared a woman with a spirit that had crippled her for eighteen years. She was bent over and was quite unable to stand up straight."
+    },
+    {
+      "block_id": "oxford-luke-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When Jesus saw her, he called her over and said, “Woman, you are set free from your ailment.”"
+    },
+    {
+      "block_id": "oxford-luke-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "When he laid his hands on her, immediately she stood up straight and began praising God."
+    },
+    {
+      "block_id": "oxford-luke-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the leader of the synagogue, indignant because Jesus had cured on the sabbath, kept saying to the crowd, “There are six days on which work ought to be done; come on those days and be cured, and not on the sabbath day.”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-9",
+      "type": "commentary",
+      "text": "14 : Ex 20.9–10. Lev 23.3; Deut 5.13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-luke-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But the Lord answered him and said, “You hypocrites! Does not each of you on the sabbath untie his ox or his donkey from the manger, and lead it away to give it water?"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-10",
+      "type": "commentary",
+      "text": "15 : Jesus's speaks to , not the synagogue leader alone. Jesus uses the law against the leader's interpretation of the law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-luke-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And ought not this woman, a daughter of Abraham whom Satan bound for eighteen long years, be set free from this bondage on the sabbath day?”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-11",
+      "type": "commentary",
+      "text": "16 : Jesus relates the woman's physical disorder to the work of Satan. Enslavement language graphically depicts the human predicament. Such afflictions conflict with God's purpose of salvation (4.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-luke-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When he said this, all his opponents were put to shame; and the entire crowd was rejoicing at all the wonderful things that he was doing."
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-8",
+      "type": "commentary",
+      "text": "13.10–17: Healing of a woman who was crippled on the sabbath. A similar sabbath healing follows in 14.1–6; see 4.31n.; cf. 8.43–48.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 10,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-luke-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He said therefore, “What is the kingdom of God like? And to what should I compare it?"
+    },
+    {
+      "block_id": "oxford-luke-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "It is like a mustard seed that someone took and sowed in the garden; it grew and became a tree, and the birds of the air made nests in its branches.”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-12",
+      "type": "commentary",
+      "text": "13.18–19: Parable of the mustard seed (Mt 13.31–32; Mk 4.30–32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-13",
+      "type": "commentary",
+      "text": "19 : , an exaggeration. The last phrase reflects Ps 104.12; Dan 4.12,21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-luke-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And again he said, “To what should I compare the kingdom of God?"
+    },
+    {
+      "block_id": "oxford-luke-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "It is like yeast that a woman took and mixed in with three measures of flour until all of it was leavened.”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-14",
+      "type": "commentary",
+      "text": "13.20–21: Parable of the yeast (Mt 13.33). The future grandeur of the kingdom contrasts with the seemingly insignificant start in the ministry of Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-15",
+      "type": "commentary",
+      "text": "21 : , ca. 63 dry quarts (69 L).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Jesus went through one town and village after another, teaching as he made his way to Jerusalem."
+    },
+    {
+      "block_id": "oxford-luke-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Someone asked him, “Lord, will only a few be saved?” He said to them,"
+    },
+    {
+      "block_id": "oxford-luke-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "“Strive to enter through the narrow door; for many, I tell you, will try to enter and will not be able."
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-17",
+      "type": "commentary",
+      "text": "24 : Cf. Mt 7.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-luke-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "When once the owner of the house has got up and shut the door, and you begin to stand outside and to knock at the door, saying, ‘Lord, open to us,’ then in reply he will say to you, ‘I do not know where you come from.’"
+    },
+    {
+      "block_id": "oxford-luke-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Then you will begin to say, ‘We ate and drank with you, and you taught in our streets.’"
+    },
+    {
+      "block_id": "oxford-luke-13-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But he will say, ‘I do not know where you come from; go away from me, all you evildoers!’"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-18",
+      "type": "commentary",
+      "text": "25–27 : The narrow door of v. 24 becomes permanently closed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 25,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-19",
+      "type": "commentary",
+      "text": "27 : Cf. Ps 6.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-13-28",
+      "type": "verse",
+      "number": 28,
+      "text": "There will be weeping and gnashing of teeth when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, and you yourselves thrown out."
+    },
+    {
+      "block_id": "oxford-luke-13-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Then people will come from east and west, from north and south, and will eat in the kingdom of God."
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-20",
+      "type": "commentary",
+      "text": "28–29 : The eschatological gathering of all peoples may refer to the Christian mission.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-21",
+      "type": "commentary",
+      "text": "29 : Ps 107.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-luke-13-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Indeed, some are last who will be first, and some are first who will be last.”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-16",
+      "type": "commentary",
+      "text": "13.22–30: The necessity of discipline for salvation (Mt 7.13–14,22–23; 8.11–12; 19.30; 20.16; Mk 10.31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 22,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-luke-13-31",
+      "type": "verse",
+      "number": 31,
+      "text": "At that very hour some Pharisees came and said to him, “Get away from here, for Herod wants to kill you.”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-23",
+      "type": "commentary",
+      "text": "31 : Not all were hostile to Jesus. Antipas, see 3.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-luke-13-32",
+      "type": "verse",
+      "number": 32,
+      "text": "He said to them, “Go and tell that fox for me, ‘Listen, I am casting out demons and performing cures today and tomorrow, and on the third day I finish my work."
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-24",
+      "type": "commentary",
+      "text": "32 : , paired with the “hen” in v. 34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-luke-13-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Yet today, tomorrow, and the next day I must be on my way, because it is impossible for a prophet to be killed outside of Jerusalem.’"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-22",
+      "type": "commentary",
+      "text": "13.31–33: Report and reply concerning Herod.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 31,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-25",
+      "type": "commentary",
+      "text": "33 : , bitter irony that leads to the ensuing laments (see 13.34–35; 19.41–42).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-luke-13-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-27",
+      "type": "commentary",
+      "text": "34 : See 11.47–51.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-luke-13-35",
+      "type": "verse",
+      "number": 35,
+      "text": "See, your house is left to you. And I tell you, you will not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”"
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-1",
+      "type": "commentary",
+      "text": "9.51–19.27: Jesus's journey to Jerusalem with his followers (Mt 19.1–20.34; Mk 10.1–52). Most of this section, which reports the ministry of Jesus in Samaria and Judea, is unique to Luke.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-26",
+      "type": "commentary",
+      "text": "13.34–35: Jesus's lament over Jerusalem (Mt 23.37–39). Cf. 19.41–44.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-luke-13-h1kj-28",
+      "type": "commentary",
+      "text": "35 : , the Temple; see Jer 22.5. , Ps 118.26; see Lk 19.37–38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 13
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "document_id": "1-sam-10",
+  "title": "1 Samuel 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-sam-10-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Samuel took a vial of oil and poured it on his head, and kissed him; he said, “The Lord has anointed you ruler over his people Israel. You shall reign over the people of the Lord and you will save them from the hand of their enemies all around. Now this shall be the sign to you that the Lord has anointed you ruler over his heritage:"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-3",
+      "type": "commentary",
+      "text": "10.1 : Anointing was a rite designating an individual for a special office, usually a king or a priest. It involved pouring or dabbing fine oil on the head of the designee. The ’s is the land of Israel. Every nation is understood as the inheritance of the god it worships. The , creator of the world, is envisioned as having chosen Israel as his people (Deut 10.14–15; 32.8–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-1-sam-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When you depart from me today you will meet two men by Rachel’s tomb in the territory of Benjamin at Zelzah; they will say to you, ‘The donkeys that you went to seek are found, and now your father has stopped worrying about them and is worrying about you, saying: What shall I do about my son?’"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , a different location is given in Gen 35.19; 48.7. , location unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-1-sam-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then you shall go on from there further and come to the oak of Tabor; three men going up to God at Bethel will meet you there, one carrying three kids, another carrying three loaves of bread, and another carrying a skin of wine."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-6",
+      "type": "commentary",
+      "text": "3 : The are carrying items for sacrifice. Tabor is a different place than that in Judg 4.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-1-sam-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They will greet you and give you two loaves of bread, which you shall accept from them."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-7",
+      "type": "commentary",
+      "text": "4 : , lit., “ask (about) your well‐being”; the verb is a pun on Saul’s name. The men give , one for Saul and one for his servant. The Greek (LXX) reading, “two offerings of bread,” suggests that Saul again receives the portion of a priest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-sam-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "After that you shall come to Gibeathelohim, at the place where the Philistine garrison is; there, as you come to the town, you will meet a band of prophets coming down from the shrine with harp, tambourine, flute, and lyre playing in front of them; they will be in a prophetic frenzy."
+    },
+    {
+      "block_id": "oxford-1-sam-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then the spirit of the Lord will possess you, and you will be in a prophetic frenzy along with them and be turned into a different person."
+    },
+    {
+      "block_id": "oxford-1-sam-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Now when these signs meet you, do whatever you see fit to do, for God is with you."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-8",
+      "type": "commentary",
+      "text": "5–7 : Music was used to induce an ecstatic condition in which prophets uttered their oracles (2 Kings 3.15–16); (vv. 5–6,10,13) is a misleadingly pejorative translation. Like the judges, Saul will be moved to action by the spirit of the (see Judg 3.10; 6.34; 11.29; 13.24; etc.). The instruction to is a military commission.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-1-sam-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And you shall go down to Gilgal ahead of me; then I will come down to you to present burnt offerings and offer sacrifices of well‐being. Seven days you shall wait, until I come to you and show you what you shall do.”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-4",
+      "type": "commentary",
+      "text": "2–8 : The encounters predicted here serve as signs to Saul ratifying his choice as king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-9",
+      "type": "commentary",
+      "text": "8 : This verse connects this story to 13.7b–15a.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-1-sam-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "As he turned away to leave Samuel, God gave him another heart; and all these signs were fulfilled that day."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , Saul’s psychological state is changed to one befitting his new role as king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-1-sam-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When they were going from there to Gibeah, a band of prophets met him; and the spirit of God possessed him, and he fell into a prophetic frenzy along with them."
+    },
+    {
+      "block_id": "oxford-1-sam-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "When all who knew him before saw how he prophesied with the prophets, the people said to one another, “What has come over the son of Kish? Is Saul also among the prophets?”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "A man of the place answered, “And who is their father?” Therefore it became a proverb, “Is Saul also among the prophets?”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "When his prophetic frenzy had ended, he went home."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-11",
+      "type": "commentary",
+      "text": "10–13 : An etiology for the proverb, Here the proverb has a positive sense, showing that the ’s spirit empowers Saul to prophesy and rule. A different explanation of the proverb occurs in 19.19–24. The of a group of prophets (v. 12) is their leader.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-1-sam-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Saul’s uncle said to him and to the boy, “Where did you go?” And he replied, “To seek the donkeys; and when we saw they were not to be found, we went to Samuel.”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Saul’s uncle said, “Tell me what Samuel said to you.”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Saul said to his uncle, “He told us that the donkeys had been found.” But about the matter of the kingship, of which Samuel had spoken, he did not tell him anything."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-2",
+      "type": "commentary",
+      "text": "9.1–10.16: Saul’s anointing. This is an old story that has been edited by the Deuteronomist. Samuel appears not as a judge but as a “man of God.” Both Saul and kingship are depicted positively. The lengthy genealogy for Saul is probably intended to demonstrate his pedigree.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-12",
+      "type": "commentary",
+      "text": "14–16 : It is surprising that Saul’s uncle rather than his father questions him, since the uncle has not been mentioned before in the story. These verses are an editorial addition that prepares for the following story (10.17–27a) by pointing out that since Saul’s anointing was private, a later public proclamation of his kingship is needed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-1-sam-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Samuel summoned the people to the Lord at Mizpah"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-14",
+      "type": "commentary",
+      "text": "17 : , see 7.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-1-sam-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and said to them, “Thus says the Lord, the God of Israel, ‘I brought up Israel out of Egypt, and I rescued you from the hand of the Egyptians and from the hand of all the kingdoms that were oppressing you.’"
+    },
+    {
+      "block_id": "oxford-1-sam-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But today you have rejected your God, who saves you from all your calamities and your distresses; and you have said, ‘No! but set a king over us.’ Now therefore present yourselves before the Lord by your tribes and by your clans.”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-15",
+      "type": "commentary",
+      "text": "18–19 : The language of these verses is Deuteronomistic, especially the references to bringing up and the accusation that they have their God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-1-sam-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then Samuel brought all the tribes of Israel near, and the tribe of Benjamin was taken by lot."
+    },
+    {
+      "block_id": "oxford-1-sam-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "He brought the tribe of Benjamin near by its families, and the family of the Matrites was taken by lot. Finally he brought the family of the Matrites near man by man, and Saul the son of Kish was taken by lot. But when they sought him, he could not be found."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-16",
+      "type": "commentary",
+      "text": "20–21 : Israelite society was structured in a descending hierarchy of tribe, clan, family (“house of the father”), and individual. In the Bible (Josh 7.14; 1 Sam 14.41; Jon 1.7) the lot is used to find by divine assistance a person responsible for a calamity. Some scholars think that two stories are combined at this point, one in which Saul was present and chosen by lot and another in which he was chosen by oracle or because of his height.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-1-sam-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "So they inquired again of the Lord, “Did the man come here?” and the Lord said, “See, he has hidden himself among the baggage.”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-17",
+      "type": "commentary",
+      "text": "22 : , another pun on Saul’s name. suggests that Saul is humble or perhaps inept. , an acclamation also found for Absalom (2 Sam 16.16), Adonijah (1 Kings 1.25), Solomon (1 Kings 1.34,39) and Joash (2 Kings 11.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-1-sam-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then they ran and brought him from there. When he took his stand among the people, he was head and shoulders taller than any of them."
+    },
+    {
+      "block_id": "oxford-1-sam-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Samuel said to all the people, “Do you see the one whom the Lord has chosen? There is no one like him among all the people.” And all the people shouted, “Long live the king!”"
+    },
+    {
+      "block_id": "oxford-1-sam-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Samuel told the people the rights and duties of the kingship; and he wrote them in a book and laid it up before the Lord. Then Samuel sent all the people back to their homes."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-18",
+      "type": "commentary",
+      "text": "25 : probably set out the responsibilities of king and people to each other. The expression here is nearly identical to “the ways of the king” in 8.9,11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-1-sam-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Saul also went to his home at Gibeah, and with him went warriors whose hearts God had touched."
+    },
+    {
+      "block_id": "oxford-1-sam-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But some worthless fellows said, “How can this man save us?” They despised him and brought him no present. But he held his peace. Now Nahash, king of the Ammonites, had been grievously oppressing the Gadites and the Reubenites. He would gouge out the right eye of each of them and would not grant Israel a deliverer. No one was left of the Israelites across the Jordan whose right eye Nahash, king of the Ammonites, had not gouged out. But there were seven thousand men who had escaped from the Ammonites and had entered Jabesh‐gilead."
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-1",
+      "type": "commentary",
+      "text": "Chs 8–12: The beginning of kingship in Israel. These chapters include five distinct episodes: the people’s request for a king and Samuel’s response (ch 8); Saul’s search for his father’s asses and his anointing (9.1–10.16); the designation of Saul by lot (10.17–27a); Saul’s victory over the Ammonites (10.27b–11.15); and Samuel’s farewell address (ch 12). The stories in 9.1–10.16 and 10.27b–11.15 are generally recognized as older and neutral or positive in their attitude toward monarchy, while the other three episodes, widely recognized as Deuteronomistic, view kingship with suspicion and depict the people’s request as a sin. In the end, God allows a king but also warns the people against letting their king lead them astray.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-13",
+      "type": "commentary",
+      "text": "10.17–27a: Saul chosen by lot.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-19",
+      "type": "commentary",
+      "text": "26–27a : Saul’s return to Gibeah and the doubts of the prepare for the subsequent story in which Saul proves his ability to save Israel. By bringing him these people refuse to accept him as king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-20",
+      "type": "commentary",
+      "text": "10.27b–11.15: Saul proves himself able to lead in battle and is publicly made king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-sam-10-h1kj-21",
+      "type": "commentary",
+      "text": "10.27b : This paragraph was lost from the Hebrew text and has been restored from a Dead Sea Scroll fragment of Samuel; see textual note The paragraph explains the reason for the conflict in ch 11. were Israelites living east of the Jordan in territory that the Ammonite king, Nahash, considered his. The city of Jabesh in Gilead was farther north, outside the disputed area, but Nahash threatened it because some of the Israelites from Gad and Reuben had fled there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 10
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

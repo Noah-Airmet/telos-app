@@ -1,0 +1,454 @@
+{
+  "document_id": "gen-49",
+  "title": "Genesis 49",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-49-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Jacob called his sons, and said: “Gather around, that I may tell you what will happen to you in days to come."
+    },
+    {
+      "block_id": "oxford-gen-49-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Assemble and hear, O sons of Jacob; listen to Israel your father."
+    },
+    {
+      "block_id": "oxford-gen-49-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Reuben, you are my firstborn, my might and the first fruits of my vigor, excelling in rank and excelling in power."
+    },
+    {
+      "block_id": "oxford-gen-49-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Unstable as water, you shall no longer excel because you went up onto your father’s bed; then you defiled it—you went up onto my couch!"
+    },
+    {
+      "block_id": "oxford-gen-49-4-commentary-1",
+      "type": "commentary",
+      "text": "Gk Syr Tg: Heb he",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-12",
+      "type": "commentary",
+      "text": "3–4 : This section justifies Reuben’s ejection from favor as firstborn by recalling the story of his sleeping with his father’s concubine (see 35.22n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-gen-49-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Simeon and Levi are brothers; weapons of violence are their swords."
+    },
+    {
+      "block_id": "oxford-gen-49-6",
+      "type": "verse",
+      "number": 6,
+      "text": "May I never come into their council; may I not be joined to their company— for in their anger they killed men, and at their whim they hamstrung oxen."
+    },
+    {
+      "block_id": "oxford-gen-49-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will divide them in Jacob, and scatter them in Israel."
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-13",
+      "type": "commentary",
+      "text": "5–7 : Judah’s older brothers, Simeon and Levi, fail to take Reuben’s place because of their role in the despoiling of Shechem (34.25–31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-gen-49-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father’s sons shall bow down before you."
+    },
+    {
+      "block_id": "oxford-gen-49-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Judah is a lion’s whelp; from the prey, my son, you have gone up. He crouches down, he stretches out like a lion, like a lioness—who dares rouse him up?"
+    },
+    {
+      "block_id": "oxford-gen-49-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The scepter shall not depart from Judah, nor the ruler’s staff from between his feet, until tribute comes to him; and the obedience of the peoples is his."
+    },
+    {
+      "block_id": "oxford-gen-49-10-commentary-2",
+      "type": "commentary",
+      "text": "Or until Shiloh comes or until he comes to Shiloh or (with Syr) until he comes to whom it belongs",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-15",
+      "type": "commentary",
+      "text": "10 : The and are symbols of sovereignty. The latter part of the verse, however, is obscure (see note ). It appears to predict rule for Judean royalty (Num 24.17; Pss 2, 110).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-gen-49-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Binding his foal to the vine and his donkey’s colt to the choice vine, he washes his garments in wine and his robe in the blood of grapes;"
+    },
+    {
+      "block_id": "oxford-gen-49-12",
+      "type": "verse",
+      "number": 12,
+      "text": "his eyes are darker than wine, and his teeth whiter than milk."
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-14",
+      "type": "commentary",
+      "text": "8–12 : With his three older brothers out of favor (vv. 3–7), Judah receives the greatest part of his father’s blessing. The narrative of the succession to David features a similar displacement of three older sons: Amnon (2 Sam 13), Absalom (2 Sam 15–18), and Adonijah (1 Kings 1–2). See 38.27–30n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 8,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-gen-49-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Zebulun shall settle at the shore of the sea; he shall be a haven for ships, and his border shall be at Sidon."
+    },
+    {
+      "block_id": "oxford-gen-49-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Issachar is a strong donkey, lying down between the sheepfolds;"
+    },
+    {
+      "block_id": "oxford-gen-49-15",
+      "type": "verse",
+      "number": 15,
+      "text": "he saw that a resting place was good, and that the land was pleasant; so he bowed his shoulder to the burden, and became a slave at forced labor."
+    },
+    {
+      "block_id": "oxford-gen-49-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Dan shall judge his people as one of the tribes of Israel."
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-17",
+      "type": "commentary",
+      "text": "16 : The tribal name is derived from the Hebrew verb for “judge” (“dan”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-49-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Dan shall be a snake by the roadside, a viper along the path, that bites the horse’s heels so that its rider falls backward."
+    },
+    {
+      "block_id": "oxford-gen-49-18",
+      "type": "verse",
+      "number": 18,
+      "text": "I wait for your salvation, O Lord."
+    },
+    {
+      "block_id": "oxford-gen-49-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Gad shall be raided by raiders, but he shall raid at their heels."
+    },
+    {
+      "block_id": "oxford-gen-49-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Asher’s food shall be rich, and he shall provide royal delicacies."
+    },
+    {
+      "block_id": "oxford-gen-49-20-commentary-3",
+      "type": "commentary",
+      "text": "Gk Vg Syr: Heb From Asher",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-49-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Naphtali is a doe let loose that bears lovely fawns."
+    },
+    {
+      "block_id": "oxford-gen-49-21-commentary-4",
+      "type": "commentary",
+      "text": "Or that gives beautiful words",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-gen-49-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Joseph is a fruitful bough, a fruitful bough by a spring; his branches run over the wall."
+    },
+    {
+      "block_id": "oxford-gen-49-22-commentary-5",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-gen-49-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The archers fiercely attacked him; they shot at him and pressed him hard."
+    },
+    {
+      "block_id": "oxford-gen-49-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Yet his bow remained taut, and his arms were made agile by the hands of the Mighty One of Jacob, by the name of the Shepherd, the Rock of Israel,"
+    },
+    {
+      "block_id": "oxford-gen-49-24-commentary-6",
+      "type": "commentary",
+      "text": "Heb the arms of his hands",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-gen-49-25",
+      "type": "verse",
+      "number": 25,
+      "text": "by the God of your father, who will help you, by the Almighty who will bless you with blessings of heaven above, blessings of the deep that lies beneath, blessings of the breasts and of the womb."
+    },
+    {
+      "block_id": "oxford-gen-49-25-commentary-7",
+      "type": "commentary",
+      "text": "Traditional rendering of Heb Shaddai",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-19",
+      "type": "commentary",
+      "text": "25 : , see 17.1n. , i.e., rain, dew, sun. , an allusion to the subterranean ocean (see 1.6; 2.6). Compare Deut 33.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-49-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The blessings of your father are stronger than the blessings of the eternal mountains, the bounties of the everlasting hills; may they be on the head of Joseph, on the brow of him who was set apart from his brothers."
+    },
+    {
+      "block_id": "oxford-gen-49-26-commentary-8",
+      "type": "commentary",
+      "text": "Cn Compare Gk: Heb of my progenitors to the boundaries",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49,
+        "verse": 26
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-18",
+      "type": "commentary",
+      "text": "22–26 : The lengthy blessing on Joseph and its triumphant conclusion (v. 26) suggest that he may have been the original focus of the early blessing (see 49.1–28n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 22,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-gen-49-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Benjamin is a ravenous wolf, in the morning devouring the prey, and at evening dividing the spoil.”"
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-16",
+      "type": "commentary",
+      "text": "13–27 : This latter part of the blessing (vv. 13–27) diverges from the birth order of 30.1–24. This section appears to predate placement into its present context in the story of Jacob and Joseph.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 13,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-gen-49-28",
+      "type": "verse",
+      "number": 28,
+      "text": "All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them, blessing each one of them with a suitable blessing."
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-11",
+      "type": "commentary",
+      "text": "49.1–28: Jacob’s blessing on his twelve sons. Though the poem is depicted as a deathbed by the text following it (49.28; cf. 27.4 and n.), this poem seems to have been originally designed as a prediction of the destinies, good and bad, of the tribes of Israel. Many scholars have argued that the poem is ancient on the basis of its language and resemblance to other supposedly ancient tribal poems in Deut 33 and Judg 5. Nevertheless, the present form of the poem appears to have been modified to fit the narrative context in which it has been put. Its first part follows the birth order of 29.31–35 and legitimates rule for Judah and—by extension—the Davidic dynasty. The author of these changes may be responsible for inserting the whole poem into its present context, as well as for the addition to the Jacob‐Joseph story of the narratives referred to in 49.3–7 (30.21; 34.1–31; 35.21–22a; cf. 37.36–38.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-gen-49-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Then he charged them, saying to them, “I am about to be gathered to my people. Bury me with my ancestors—in the cave in the field of Ephron the Hittite,"
+    },
+    {
+      "block_id": "oxford-gen-49-30",
+      "type": "verse",
+      "number": 30,
+      "text": "in the cave in the field at Machpelah, near Mamre, in the land of Canaan, in the field that Abraham bought from Ephron the Hittite as a burial site."
+    },
+    {
+      "block_id": "oxford-gen-49-31",
+      "type": "verse",
+      "number": 31,
+      "text": "There Abraham and his wife Sarah were buried; there Isaac and his wife Rebekah were buried; and there I buried Leah—"
+    },
+    {
+      "block_id": "oxford-gen-49-32",
+      "type": "verse",
+      "number": 32,
+      "text": "the field and the cave that is in it were purchased from the Hittites.”"
+    },
+    {
+      "block_id": "oxford-gen-49-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When Jacob ended his charge to his sons, he drew up his feet into the bed, breathed his last, and was gathered to his people."
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-9",
+      "type": "commentary",
+      "text": "37.1–50.26: The story of Joseph and his family. As indicated in the Introduction, this portion of Genesis features an intricate depiction of Joseph’s relations with his brothers and father. Starting with a pair of dreams (37.5–11), the narrative follows a trajectory from his brothers’ murderous hatred of Joseph to Joseph’s eventual testing of and reunion with them (chs 42–45; 50). Joseph was a prominent northern tribe, and like the Jacob story, this narrative has Northern connections, especially with the addition of the story in 48.8–14 of Joseph’s special blessing on his son, Ephraim. The first king of the Northern Kingdom, Jeroboam, was a member of the tribe of Ephraim (1 Kings 11.26), and stories like these about early Israelite ancestors would have reinforced his claim to rule. Yet over time the story evolved in significance, through additions assuming ’s destiny to rule (see 49.8–12n.), inserted echoes of the promise theme first introduced in the Abraham story (such as 46.1–4; 48.15–16 and 12.1–3n.), connections leading to the book of Joshua (50.24–25), and a few fragments that may come from the Priestly source (e.g., 37.1–2; 46.8–27; 47.27–28; 48.3–6; 49.29–33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-10",
+      "type": "commentary",
+      "text": "47.29–49.33: Jacob’s preparations for death, including the adoption and blessing of Ephraim and Manasseh. This section is viewed by many scholars as a series of later insertions into the Joseph story, linking it back to the Jacob story and forward to the story of the Israelites in Exodus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-49-h1kj-20",
+      "type": "commentary",
+      "text": "49.29–33: This Priestly section includes an order to bury Jacob at Machpelah (see ch 23) that parallels the earlier non‐Priestly burial order (47.29–31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 49
+      },
+      "verse_start": 29,
+      "verse_end": 33
+    }
+  ]
+}

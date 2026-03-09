@@ -1,0 +1,61 @@
+{
+  "document_id": "ps-123",
+  "title": "Psalms 123",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-123-heading-psalm-124",
+      "type": "heading",
+      "text": "Psalm 124"
+    },
+    {
+      "block_id": "oxford-ps-123-1",
+      "type": "verse",
+      "number": 1,
+      "text": "To you I lift up my eyes, O you who are enthroned in the heavens!"
+    },
+    {
+      "block_id": "oxford-ps-123-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 123: A plea for divine mercy. A community petition, perhaps composed in the Second Temple period when the nation felt the indignity (v. 3) of being a small state in the vast Persian empire. Feeling like a powerless slave (NRSV “servant,” v. 2), the community speaker (“I” in v. 1) feels constricted, repeating a plea for divine mercy three times. The psalmist continues to hope, nonetheless, for the prayer is directed to the divine king “enthroned in the heavens” (v. 1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 123
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-123-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to the Lord our God, until he has mercy upon us."
+    },
+    {
+      "block_id": "oxford-ps-123-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , the metaphor of looking expectantly to the is developed through servants looking at their masters; contrasts are maximized— male and female, plural and singular—to express completeness: all look to you. Female images of God are very rare in the Bible (e.g., Isa 49.14–16), especially in Psalms, making the comparison of God to noteworthy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 123
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-123-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Have mercy upon us, O Lord, have mercy upon us, for we have had more than enough of contempt."
+    },
+    {
+      "block_id": "oxford-ps-123-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Our soul has had more than its fill of the scorn of those who are at ease, of the contempt of the proud."
+    }
+  ]
+}

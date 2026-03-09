@@ -6,6 +6,7 @@ import { hardyBomProfile } from "./hardy-bom.js";
 import { turleyDcProfile } from "./turley-dc.js";
 import { ldsPogpProfile } from "./lds-pogp.js";
 import { jsbProfile } from "./jsb.js";
+import { oxfordStudyBibleProfile } from "./oxford-study-bible.js";
 
 export const profiles: Record<string, Profile> = {
   "lds-bom": ldsBomProfile,
@@ -15,6 +16,7 @@ export const profiles: Record<string, Profile> = {
   "turley-dc": turleyDcProfile,
   "lds-pogp": ldsPogpProfile,
   "jsb": jsbProfile,
+  "oxford-study-bible": oxfordStudyBibleProfile,
 };
 
 export function listProfiles(): string[] {

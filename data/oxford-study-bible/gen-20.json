@@ -1,0 +1,176 @@
+{
+  "document_id": "gen-20",
+  "title": "Genesis 20",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-20-1",
+      "type": "verse",
+      "number": 1,
+      "text": "From there Abraham journeyed toward the region of the Negeb, and settled between Kadesh and Shur. While residing in Gerar as an alien,"
+    },
+    {
+      "block_id": "oxford-gen-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Abraham said of his wife Sarah, “She is my sister.” And King Abimelech of Gerar sent and took Sarah."
+    },
+    {
+      "block_id": "oxford-gen-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But God came to Abimelech in a dream by night, and said to him, “You are about to die because of the woman whom you have taken; for she is a married woman.”"
+    },
+    {
+      "block_id": "oxford-gen-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Now Abimelech had not approached her; so he said, “Lord, will you destroy an innocent people?"
+    },
+    {
+      "block_id": "oxford-gen-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Did he not himself say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I did this in the integrity of my heart and the innocence of my hands.”"
+    },
+    {
+      "block_id": "oxford-gen-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then God said to him in the dream, “Yes, I know that you did this in the integrity of your heart; furthermore it was I who kept you from sinning against me. Therefore I did not let you touch her."
+    },
+    {
+      "block_id": "oxford-gen-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Now then, return the man’s wife; for he is a prophet, and he will pray for you and you shall live. But if you do not restore her, know that you shall surely die, you and all that are yours.”"
+    },
+    {
+      "block_id": "oxford-gen-20-h1kj-3",
+      "type": "commentary",
+      "text": "3–7 : The depiction of Abimelech is far more detailed and sympathetic than that of the foreign king in either of the parallel accounts (cf. 12.15–19; 26.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20
+      },
+      "verse_start": 3,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-gen-20-h1kj-4",
+      "type": "commentary",
+      "text": "7 : To Abraham is attributed the intercessory role of this is the Bible’s first use of the term, and the only designation of Abraham as a prophet in the Torah (but see Ps 105.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-gen-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So Abimelech rose early in the morning, and called all his servants and told them all these things; and the men were very much afraid."
+    },
+    {
+      "block_id": "oxford-gen-20-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then Abimelech called Abraham, and said to him, “What have you done to us? How have I sinned against you, that you have brought such great guilt on me and my kingdom? You have done things to me that ought not to be done.”"
+    },
+    {
+      "block_id": "oxford-gen-20-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And Abimelech said to Abraham, “What were you thinking of, that you did this thing?”"
+    },
+    {
+      "block_id": "oxford-gen-20-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Abraham said, “I did it because I thought, There is no fear of God at all in this place, and they will kill me because of my wife."
+    },
+    {
+      "block_id": "oxford-gen-20-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Besides, she is indeed my sister, the daughter of my father but not the daughter of my mother; and she became my wife."
+    },
+    {
+      "block_id": "oxford-gen-20-h1kj-5",
+      "type": "commentary",
+      "text": "12 : The narrator never asserts that Sarah is Terah’s daughter (cf. 11.27–30). Nevertheless, faced with Abimelech’s passionate questioning, Abraham claims to be her half brother by way of his father. Though many have taken his assertion at face value, it may be an attempt to provide as many excuses for his behavior as possible (cf. 20.11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-gen-20-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And when God caused me to wander from my father’s house, I said to her, ‘This is the kindness you must do me: at every place to which we come, say of me, He is my brother.’”"
+    },
+    {
+      "block_id": "oxford-gen-20-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Then Abimelech took sheep and oxen, and male and female slaves, and gave them to Abraham, and restored his wife Sarah to him."
+    },
+    {
+      "block_id": "oxford-gen-20-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Abimelech said, “My land is before you; settle where it pleases you.”"
+    },
+    {
+      "block_id": "oxford-gen-20-16",
+      "type": "verse",
+      "number": 16,
+      "text": "To Sarah he said, “Look, I have given your brother a thousand pieces of silver; it is your exoneration before all who are with you; you are completely vindicated.”"
+    },
+    {
+      "block_id": "oxford-gen-20-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Then Abraham prayed to God; and God healed Abimelech, and also healed his wife and female slaves so that they bore children."
+    },
+    {
+      "block_id": "oxford-gen-20-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For the Lord had closed fast all the wombs of the house of Abimelech because of Sarah, Abraham’s wife."
+    },
+    {
+      "block_id": "oxford-gen-20-h1kj-1",
+      "type": "commentary",
+      "text": "11.27–25.11: The story of Abraham and his family. The bulk of this section is a non‐Priestly narrative about Abraham. It builds on a blend of oral traditions about him, including the stories standing behind the present narratives about his descent into Egypt (12.10–20), the Abraham and Lot cycle (13.2–13; 18.1–16; 19.1–28,30–37), a pair of Hagar and Ishmael narratives (16.1–14 and 21.8–20), and the tradition about Abraham’s stay in Philistine Gerar (20.1–18; 21.22–34; cf. 26.6–33). Some scholars think that the Abraham stories incorporate two separate written J and E sources, with remnants of J (the Yahwistic source) found primarily in chs 12–19 (along with ch 24) and E (Elohistic source) fragments in chs 20–22. Others suggest that they were composed as a single whole, though building on a range of separate traditions (see the Introduction and 20.1–18n.). Scholars generally agree, however, that the story of conquest and covenant in 14.1–15.21 and Priestly materials found in 17.1–27 and elsewhere (see 11.27–32n.; 12.4b–5n. 16.3n. 17.1–27n. 21.3–5n. 25.7–11n) were added later. For patterns uniting this complex whole, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-gen-20-h1kj-2",
+      "type": "commentary",
+      "text": "20.1–18: The second story of endangerment of the matriarch (cf. 12.10–20; 26.6–11). Many scholars have argued that chs 20–22 contain the first major block of an Elohistic (E) source parallel to the Yahwistic (J) source found in chs 12–19 and extending through the rest of the Pentateuch (see further 15.2–5n. and the Introduction). Note parallels between stories of endangerment of Sarah in 20.1–18 (E) and 12.10–20 (J); the Hagar stories 21.8–19 (E) and 16.1–14 (J), and even stories about Abimelech in 21.22–34 (E) and 26.17–33 (J). These similarities indicate that the author of the non‐Priestly Abraham narrative probably drew upon cycles of Yahwistic and Elohistic traditions that were parallel at some points. Nevertheless, there are some important indicators that the Elohistic traditions seen in Gen 20–22 were written down as part of a larger whole that included the preceding narratives in Gen 12–19 and thus do not reflect (in their present form) a separate written source. Not only are the Elohistic accounts organized as part of a broader chiasm that includes the narratives of Gen 12–19, but details of Gen 20–22 are understandable only when these chapters are read following Gen 12–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    }
+  ]
+}

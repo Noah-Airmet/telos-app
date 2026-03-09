@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-33",
+  "title": "Section 33: Ezra Thayre and Northrop Sweet",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-33-heading",
+      "type": "heading",
+      "text": "Ezra Thayre and Northrop Sweet"
+    },
+    {
+      "block_id": "dc-33-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 33 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 33,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

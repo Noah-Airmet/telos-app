@@ -1,0 +1,259 @@
+{
+  "document_id": "jam-3",
+  "title": "jam 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jam-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-jam-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For all of us make many mistakes. Anyone who makes no mistakes in speaking is perfect, able to keep the whole body in check with a bridle."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , or “mature” as in 1.4 (Gk “teleios”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jam-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If we put bits into the mouths of horses to make them obey us, we guide their whole bodies."
+    },
+    {
+      "block_id": "oxford-jam-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Or look at ships: though they are so large that it takes strong winds to drive them, yet they are guided by a very small rudder wherever the will of the pilot directs."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-4",
+      "type": "commentary",
+      "text": "3–4 : and exercise control far beyond what might be expected from their size because they express or rider.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jam-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So also the tongue is a small member, yet it boasts of great exploits. How great a forest is set ablaze by a small fire!"
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-5",
+      "type": "commentary",
+      "text": "5 : likewise expresses the person's will and directs one's actions (Lk 6.45).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jam-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And the tongue is a fire. The tongue is placed among our members as a world of iniquity; it stains the whole body, sets on fire the cycle of nature, and is itself set on fire by hell."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , destructive impact of will and actions opposed to God's will (cf. 1.14–15, 26–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-jam-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For every species of beast and bird, of reptile and sea creature, can be tamed and has been tamed by the human species,"
+    },
+    {
+      "block_id": "oxford-jam-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "but no one can tame the tongue—a restless evil, full of deadly poison."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , an implicit call to do the very thing said to be impossible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jam-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "With it we bless the Lord and Father, and with it we curse those who are made in the likeness of God."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , both titles referring to God. , human beings who should act as God's agents (see Gen 1.26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-jam-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "From the same mouth come blessing and cursing. My brothers and sisters, this ought not to be so."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , another indication of “double-mindedness” (1.7–8; 4.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jam-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Does a spring pour forth from the same opening both fresh and brackish water?"
+    },
+    {
+      "block_id": "oxford-jam-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Can a fig tree, my brothers and sisters, yield olives, or a grapevine figs? No more can salt water yield fresh."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-10",
+      "type": "commentary",
+      "text": "11–12 : Cf. Mt 7.16–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jam-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Who is wise and understanding among you? Show by your good life that your works are done with gentleness born of wisdom."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-11",
+      "type": "commentary",
+      "text": "13 : , teachers should be those whose shows both of the word (1.22) and the of mercy (2.13) arising from God's will (cf. 1.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jam-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But if you have bitter envy and selfish ambition in your hearts, do not be boastful and false to the truth."
+    },
+    {
+      "block_id": "oxford-jam-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Such wisdom does not come down from above, but is earthly, unspiritual, devilish."
+    },
+    {
+      "block_id": "oxford-jam-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For where there is envy and selfish ambition, there will also be disorder and wickedness of every kind."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-12",
+      "type": "commentary",
+      "text": "15–16 : , what some might call is proven by its effects ( , and ) not to be wisdom at all.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-jam-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But the wisdom from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without a trace of partiality or hypocrisy."
+    },
+    {
+      "block_id": "oxford-jam-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And a harvest of righteousness is sown in peace for those who make peace."
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–18: Proper use of speech is teaching God's wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jam-3-h1kj-13",
+      "type": "commentary",
+      "text": "17–18 : Genuine is likewise proven by its origins ( , see 1.5, 17) and effects (cf. these virtues and preceding vices with Gal 5.19–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 18
+    }
+  ]
+}

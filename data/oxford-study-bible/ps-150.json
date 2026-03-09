@@ -1,0 +1,56 @@
+{
+  "document_id": "ps-150",
+  "title": "Psalms 150",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-150-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! Praise God in his sanctuary; praise him in his mighty firmament!"
+    },
+    {
+      "block_id": "oxford-ps-150-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 150: Climactic praise for the Lord’s total sovereignty. The last of the final five hymns ending the Psalms. All the verses except the final one (v. 6) begin with the same verb in the imperative mood: The verb occurs thirteen times in this final outburst of praise. Each of the first four of the five books of the Psalms ends with a oneor two‐verse doxology (Pss 41.13; 72.18–19; 89.52; 106.48), and it is fitting that a whole poem be the final doxology that notes where (v. 1), why (v. 2), and how (v. 3–5) God should be praised. The invitation extends throughout the whole poem; the poem is one long invitation to give praise. The group summoned to give praise, whom most psalms name almost immediately, is not revealed until the end, and it is vast: “everything that breathes” (v. 6). It goes beyond Israel to the entire human race, even to animals. The vast reach of the poem is a reminder that the call of one people is made in view of God’s creation of all.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 150
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-150-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Praise him for his mighty deeds; praise him according to his surpassing greatness!"
+    },
+    {
+      "block_id": "oxford-ps-150-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Praise him with trumpet sound; praise him with lute and harp!"
+    },
+    {
+      "block_id": "oxford-ps-150-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Praise him with tambourine and dance; praise him with strings and pipe!"
+    },
+    {
+      "block_id": "oxford-ps-150-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Praise him with clanging cymbals; praise him with loud clashing cymbals!"
+    },
+    {
+      "block_id": "oxford-ps-150-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let everything that breathes praise the Lord! Praise the Lord!"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "ps-142",
+  "title": "Psalms 142",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-142-heading-psalm-143",
+      "type": "heading",
+      "text": "Psalm 143"
+    },
+    {
+      "block_id": "oxford-ps-142-1",
+      "type": "verse",
+      "number": 1,
+      "text": "With my voice I cry to the Lord; with my voice I make supplication to the Lord."
+    },
+    {
+      "block_id": "oxford-ps-142-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 142: Prayer for God’s help. An individual petition that proceeds in two stages: the first stage (vv. 1–4) simply lists the peril and danger and declares there is no one else to turn to, and the second (vv. 5–7), with more confidence, calls God “my refuge, my portion in the land of the living” (v. 5) and promises praise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 142
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-142-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I pour out my complaint before him; I tell my trouble before him."
+    },
+    {
+      "block_id": "oxford-ps-142-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When my spirit is faint, you know my way. In the path where I walk they have hidden a trap for me."
+    },
+    {
+      "block_id": "oxford-ps-142-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Look on my right hand and see— there is no one who takes notice of me; no refuge remains to me; no one cares for me."
+    },
+    {
+      "block_id": "oxford-ps-142-h1kj-2",
+      "type": "commentary",
+      "text": "4 : Loyal friends customarily stood at one’s (Ps 109.31), but no one is there for the psalmist.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 142
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-142-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I cry to you, O Lord; I say, “You are my refuge, my portion in the land of the living.”"
+    },
+    {
+      "block_id": "oxford-ps-142-h1kj-3",
+      "type": "commentary",
+      "text": "5 : For the first time, the psalmist addresses God, using two impressive metaphors that illustrate God’s ability to help at this time of crisis. is elsewhere parallel to mighty rock (Pss 62.7; 91.2; 94.22). means a share in land (cf. Josh 18.5,6,9), which in that agrarian society was the source of food and clothing. , cf. Num 18.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 142
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-142-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Give heed to my cry, for I am brought very low. Save me from my persecutors, for they are too strong for me."
+    },
+    {
+      "block_id": "oxford-ps-142-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Bring me out of prison, so that I may give thanks to your name. The righteous will surround me, for you will deal bountifully with me."
+    },
+    {
+      "block_id": "oxford-ps-142-h1kj-4",
+      "type": "commentary",
+      "text": "7 : As a motivation for divine help, is similar to Ps 86.12; these psalmists assume that God wants to be thanked, and this motivates divine behavior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 142
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    }
+  ]
+}

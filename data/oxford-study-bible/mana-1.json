@@ -1,0 +1,218 @@
+{
+  "document_id": "mana-1",
+  "title": "mana 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-mana-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord Almighty, God of our ancestors, of Abraham and Isaac and Jacob and of their righteous offspring;"
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , a possible allusion to Manasseh's prayer in 2 Chr 33:12. The daily rabbinic Jewish prayer, the Amidah, also begins with this epithet. , an unusual phrase, which may speak to certain dynamics of the community in which it was written.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-mana-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "you who made heaven and earth with all their order;"
+    },
+    {
+      "block_id": "oxford-mana-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "who shackled the sea by your word of command, who confined the deep and sealed it with your terrible and glorious name;"
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-3",
+      "type": "commentary",
+      "text": "3 : The restraining of the sea by the creator is a common mythic theme in the Bible (e.g., Ps 74:12–17), but the notion that it is accomplished appears to be a later tradition that also figures in rabbinic literature.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-mana-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "at whom all things shudder, and tremble before your power,"
+    },
+    {
+      "block_id": "oxford-mana-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "for your glorious splendor cannot be borne, and the wrath of your threat to sinners is unendurable;"
+    },
+    {
+      "block_id": "oxford-mana-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "yet immeasurable and unsearchable is your promised mercy,"
+    },
+    {
+      "block_id": "oxford-mana-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "for you are the Lord Most High, of great compassion, long-suffering, and very merciful, and you relent at human suffering. O Lord, according to your great goodness you have promised repentance and forgiveness to those who have sinned against you, and in the multitude of your mercies you have appointed repentance for sinners, so that they may be saved."
+    },
+    {
+      "block_id": "oxford-mana-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Therefore you, O Lord, God of the righteous, have not appointed repentance for the righteous, for Abraham and Isaac and Jacob, who did not sin against you, but you have appointed repentance for me, who am a sinner."
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-1",
+      "type": "commentary",
+      "text": "1–8: Praise of the creator.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-4",
+      "type": "commentary",
+      "text": "6–8 : The divine attributes of mercy, attested in Ex 34.6–7, are here turned into a blanket promise regarding the efficacy of repentance for sinners.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-mana-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For the sins I have committed are more in number than the sand of the sea; my transgressions are multiplied, O Lord, they are multiplied! I am not worthy to look up and see the height of heaven because of the multitude of my iniquities."
+    },
+    {
+      "block_id": "oxford-mana-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I am weighted down with many an iron fetter, so that I am rejected because of my sins, and I have no relief; for I have provoked your wrath and have done what is evil in your sight, setting up abominations and multiplying offenses."
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-5",
+      "type": "commentary",
+      "text": "9–10: Lament. A presentation of the central problem: the petitioner's sin has ruined him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-6",
+      "type": "commentary",
+      "text": "10 : , see 2 Chr 33:11. , see 2 Chr 33.2–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mana-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And now I bend the knee of my heart, imploring you for your kindness."
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-8",
+      "type": "commentary",
+      "text": "11 : , the climax of the prayer, the petition for forgiveness and, hence, relief from the present circumstances. , a way of asserting the sincerity of the supplicant's inner repentance, but also a possible indication of Manasseh's circumstances, who is bound and cannot prostrate himself in the normal fashion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-mana-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I have sinned, O Lord, I have sinned, and I acknowledge my transgressions."
+    },
+    {
+      "block_id": "oxford-mana-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I earnestly implore you, forgive me, O Lord, forgive me! Do not destroy me with my transgressions! Do not be angry with me forever or store up evil for me; do not condemn me to the depths of the earth. For you, O Lord, are the God of those who repent,"
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-7",
+      "type": "commentary",
+      "text": "11–13: Petition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-mana-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and in me you will manifest your goodness; for, unworthy as I am, you will save me according to your great mercy,"
+    },
+    {
+      "block_id": "oxford-mana-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and I will praise you continually all the days of my life. For all the host of heaven sings your praise, and yours is the glory forever. Amen."
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-9",
+      "type": "commentary",
+      "text": "14–15: Vow of praise. Commonly found at the end of laments in the Psalms (e.g., 22.22–31; 80.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mana-1-h1kj-10",
+      "type": "commentary",
+      "text": "15 : Human praise joins, at the end, with angelic praise (cf. Ps 148).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mana",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    }
+  ]
+}

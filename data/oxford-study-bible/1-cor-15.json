@@ -1,0 +1,811 @@
+{
+  "document_id": "1-cor-15",
+  "title": "1 Corinthians 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-cor-15-heading-16",
+      "type": "heading",
+      "text": "16"
+    },
+    {
+      "block_id": "oxford-1-cor-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "through which also you are being saved, if you hold firmly to the message that I proclaimed to you—unless you have come to believe in vain."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-2",
+      "type": "commentary",
+      "text": "15.1–2 : Paul reminds the Corinthians that the resurrection faith belongs to the foundation of Christian tradition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-1-cor-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For I handed on to you as of first importance what I in turn had received: that Christ died for our sins in accordance with the scriptures,"
+    },
+    {
+      "block_id": "oxford-1-cor-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and that he was buried, and that he was raised on the third day in accordance with the scriptures,"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-3",
+      "type": "commentary",
+      "text": "3–4 : Paul quotes an early creed; cf. Rom 4.24–25; 10.9–10; 1 Thess 5.10. The phrase, , is unique to this instance of the creed and may have been added by Paul for the context here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-cor-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and that he appeared to Cephas, then to the twelve."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-5",
+      "type": "commentary",
+      "text": "5 : is the Aramaic form of Peter's name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-1-cor-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then he appeared to more than five hundred brothers and sistersa at one time, most of whom are still alive, though some have died."
+    },
+    {
+      "block_id": "oxford-1-cor-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then he appeared to James, then to all the apostles."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-4",
+      "type": "commentary",
+      "text": "5–7 : Within the argument of ch 15, the list of witnesses to Christ's resurrection, which belonged to the tradition that Paul had received, provides the evidential basis for what follows.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-1-cor-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Last of all, as to one untimely born, he appeared also to me."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-6",
+      "type": "commentary",
+      "text": "8 : Paul adds his own witness to the tradition. The term translated refers to an abortion or miscarriage. Paul may be taking up an insult hurled at him by his opponents.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-1-cor-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For I am the least of the apostles, unfit to be called an apostle, because I persecuted the church of God."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-7",
+      "type": "commentary",
+      "text": "9 : See 9.4–5; 22.4–5; Gal 1.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-1-cor-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But by the grace of God I am what I am, and his grace toward me has not been in vain. On the contrary, I worked harder than any of them—though it was not I, but the grace of God that is with me."
+    },
+    {
+      "block_id": "oxford-1-cor-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Whether then it was I or they, so we proclaim and so you have come to believe."
+    },
+    {
+      "block_id": "oxford-1-cor-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now if Christ is proclaimed as raised from the dead, how can some of you say there is no resurrection of the dead?"
+    },
+    {
+      "block_id": "oxford-1-cor-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "If there is no resurrection of the dead, then Christ has not been raised;"
+    },
+    {
+      "block_id": "oxford-1-cor-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and if Christ has not been raised, then our proclamation has been in vain and your faith has been in vain."
+    },
+    {
+      "block_id": "oxford-1-cor-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "We are even found to be misrepresenting God, because we testified of God that he raised Christ—whom he did not raise if it is true that the dead are not raised."
+    },
+    {
+      "block_id": "oxford-1-cor-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For if the dead are not raised, then Christ has not been raised."
+    },
+    {
+      "block_id": "oxford-1-cor-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If Christ has not been raised, your faith is futile and you are still in your sins."
+    },
+    {
+      "block_id": "oxford-1-cor-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then those also who have diedc in Christ have perished."
+    },
+    {
+      "block_id": "oxford-1-cor-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "If for this life only we have hoped in Christ, we are of all people most to be pitied."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-9",
+      "type": "commentary",
+      "text": "13–19 : Paul employs a series of rhetorical syllogisms ( ) to refute the denial of the resurrection by some at Corinth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 13,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-10",
+      "type": "commentary",
+      "text": "18–19 : Cf. 1 Thess 4.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-1-cor-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But in fact Christ has been raised from the dead, the first fruits of those who have died.c"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-12",
+      "type": "commentary",
+      "text": "20 : guarantee the harvest to come.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-1-cor-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For since death came through a human being, the resurrection of the dead has also come through a human being;"
+    },
+    {
+      "block_id": "oxford-1-cor-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "for as all die in Adam, so all will be made alive in Christ."
+    },
+    {
+      "block_id": "oxford-1-cor-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But each in his own order: Christ the first fruits, then at his coming those who belong to Christ."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-13",
+      "type": "commentary",
+      "text": "21–23 : For the typology, see also vv. 45–49; Rom 5.12–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-14",
+      "type": "commentary",
+      "text": "23 : Cf. 1 Thess 4.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-1-cor-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Then comes the end, when he hands over the kingdom to God the Father, after he has destroyed every ruler and every authority and power."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-16",
+      "type": "commentary",
+      "text": "24 : Cf. Rom 5.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-1-cor-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For he must reign until he has put all his enemies under his feet."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-15",
+      "type": "commentary",
+      "text": "24–25 : On the apocalyptic scenario envisioned here, cf. 2 Esd 7.29; Rev 20.4–6; 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-17",
+      "type": "commentary",
+      "text": "25 : See Ps 110.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-1-cor-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The last enemy to be destroyed is death."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-18",
+      "type": "commentary",
+      "text": "26 : For the personification of death, see vv. 54–55; 2 Esd 8.55.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-1-cor-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For “God has put all things in subjection under his feet.” But when it says, “All things are put in subjection,” it is plain that this does not include the one who put all things in subjection under him."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-19",
+      "type": "commentary",
+      "text": "27 : Ps 8.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-cor-15-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When all things are subjected to him, then the Son himself will also be subjected to the one who put all things in subjection under him, so that God may be all in all."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-11",
+      "type": "commentary",
+      "text": "20–28 : Paul argues positively for the resurrection based upon an established by God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 20,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-1-cor-15-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Otherwise, what will those people do who receive baptism on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-21",
+      "type": "commentary",
+      "text": "29 : It is not clear what was involved in the Corinthian practice of . Paul appeals to the practice to suggest to the Corinthians that they have an implicit faith in the resurrection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-1-cor-15-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And why are we putting ourselves in danger every hour?"
+    },
+    {
+      "block_id": "oxford-1-cor-15-31",
+      "type": "verse",
+      "number": 31,
+      "text": "I die every day! That is as certain, brothers and sisters, as my boasting of you—a boast that I make in Christ Jesus our Lord."
+    },
+    {
+      "block_id": "oxford-1-cor-15-32",
+      "type": "verse",
+      "number": 32,
+      "text": "If with merely human hopes I fought with wild animals at Ephesus, what would I have gained by it? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-22",
+      "type": "commentary",
+      "text": "32 : Paul speaks metaphorically, comparing the mortal danger to which he is daily exposed in his apostolic calling with a “beast fight” in the arena of Ephesus, the city from which Paul is writing. The quotation is from Isa 22.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-1-cor-15-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Do not be deceived: “Bad company ruins good morals.”"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-23",
+      "type": "commentary",
+      "text": "33 : Paul cites a proverb from a play by the Greek comic writer Menander (third century ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-1-cor-15-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Come to a sober and right mind, and sin no more; for some people have no knowledge of God. I say this to your shame."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-8",
+      "type": "commentary",
+      "text": "12–34",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 12,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-20",
+      "type": "commentary",
+      "text": "29–34 : A personal attack on his opponents, appealing to practice, experience, and generally accepted wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 29,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-1-cor-15-35",
+      "type": "verse",
+      "number": 35,
+      "text": "But someone will ask, “How are the dead raised? With what kind of body do they come?”"
+    },
+    {
+      "block_id": "oxford-1-cor-15-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Fool! What you sow does not come to life unless it dies."
+    },
+    {
+      "block_id": "oxford-1-cor-15-37",
+      "type": "verse",
+      "number": 37,
+      "text": "And as for what you sow, you do not sow the body that is to be, but a bare seed, perhaps of wheat or of some other grain."
+    },
+    {
+      "block_id": "oxford-1-cor-15-38",
+      "type": "verse",
+      "number": 38,
+      "text": "But God gives it a body as he has chosen, and to each kind of seed its own body."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-25",
+      "type": "commentary",
+      "text": "36–38 : The first analogy is drawn from a ; the same analogy is used in Jn 12.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 36,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-1-cor-15-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Not all flesh is alike, but there is one flesh for human beings, another for animals, another for birds, and another for fish."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-26",
+      "type": "commentary",
+      "text": "39 : The second analogy references the different kinds of of lower beings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-1-cor-15-40",
+      "type": "verse",
+      "number": 40,
+      "text": "There are both heavenly bodies and earthly bodies, but the glory of the heavenly is one thing, and that of the earthly is another."
+    },
+    {
+      "block_id": "oxford-1-cor-15-41",
+      "type": "verse",
+      "number": 41,
+      "text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars; indeed, star differs from star in glory."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-27",
+      "type": "commentary",
+      "text": "40–41 : The third analogy points to the difference between and , and references the various types of among celestial bodies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 40,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-1-cor-15-42",
+      "type": "verse",
+      "number": 42,
+      "text": "So it is with the resurrection of the dead. What is sown is perishable, what is raised is imperishable."
+    },
+    {
+      "block_id": "oxford-1-cor-15-43",
+      "type": "verse",
+      "number": 43,
+      "text": "It is sown in dishonor, it is raised in glory. It is sown in weakness, it is raised in power."
+    },
+    {
+      "block_id": "oxford-1-cor-15-44",
+      "type": "verse",
+      "number": 44,
+      "text": "It is sown a physical body, it is raised a spiritual body. If there is a physical body, there is also a spiritual body."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-28",
+      "type": "commentary",
+      "text": "42–44 : By means of four antitheses, Paul contrasts the resurrected with the present, mortal body.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 42,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-1-cor-15-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Thus it is written, “The first man, Adam, became a living being”; the last Adam became a life-giving spirit."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-29",
+      "type": "commentary",
+      "text": "45 : Gen. 2.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-1-cor-15-46",
+      "type": "verse",
+      "number": 46,
+      "text": "But it is not the spiritual that is first, but the physical, and then the spiritual."
+    },
+    {
+      "block_id": "oxford-1-cor-15-47",
+      "type": "verse",
+      "number": 47,
+      "text": "The first man was from the earth, a man of dust; the second man is from heaven."
+    },
+    {
+      "block_id": "oxford-1-cor-15-48",
+      "type": "verse",
+      "number": 48,
+      "text": "As was the man of dust, so are those who are of the dust; and as is the man of heaven, so are those who are of heaven."
+    },
+    {
+      "block_id": "oxford-1-cor-15-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Just as we have borne the image of the man of dust, we will also bear the image of the man of heaven."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-30",
+      "type": "commentary",
+      "text": "45–49 : is Adam; the is Christ; cf. 15.21–23n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 45,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-31",
+      "type": "commentary",
+      "text": "49 : Christians will be transformed in the resurrection: they will exchange the , which they currently bear as descendants of Adam, for the , which they will receive through participation in Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-1-cor-15-50",
+      "type": "verse",
+      "number": 50,
+      "text": "What I am saying, brothers and sisters, is this: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-24",
+      "type": "commentary",
+      "text": "35–50",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 35,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-32",
+      "type": "commentary",
+      "text": "50 : Paul clarifies that a resurrection of is impossible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 50,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-1-cor-15-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Listen, I will tell you a mystery! We will not all die, but we will all be changed,"
+    },
+    {
+      "block_id": "oxford-1-cor-15-52",
+      "type": "verse",
+      "number": 52,
+      "text": "in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we will be changed."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-34",
+      "type": "commentary",
+      "text": "52 : Cf. 1 Thess 4.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-1-cor-15-53",
+      "type": "verse",
+      "number": 53,
+      "text": "For this perishable body must put on imperishability, and this mortal body must put on immortality."
+    },
+    {
+      "block_id": "oxford-1-cor-15-54",
+      "type": "verse",
+      "number": 54,
+      "text": "When this perishable body puts on imperishability, and this mortal body puts on immortality, then the saying that is written will be fulfilled: “Death has been swallowed up in victory.”"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-35",
+      "type": "commentary",
+      "text": "54 : Isa 25.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-1-cor-15-55",
+      "type": "verse",
+      "number": 55,
+      "text": "“Where, O death, is your victory? Where, O death, is your sting?”"
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-36",
+      "type": "commentary",
+      "text": "55 : Hos 13.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 55,
+      "verse_end": 55
+    },
+    {
+      "block_id": "oxford-1-cor-15-56",
+      "type": "verse",
+      "number": 56,
+      "text": "The sting of death is sin, and the power of sin is the law."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-37",
+      "type": "commentary",
+      "text": "56 : A later gloss by an editor reflecting thorough acquaintance with Paul's mature theology; cf. Rom 5.12; 7.7–8,13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 56,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-1-cor-15-57",
+      "type": "verse",
+      "number": 57,
+      "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-33",
+      "type": "commentary",
+      "text": "51–57 : Paul discloses a , a lyrical account of the destiny of those who survive until the resurrection, a Pauline counterpart to the mythological hymn which concludes philosophical proofs of the immortality of the soul.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 51,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-1-cor-15-58",
+      "type": "verse",
+      "number": 58,
+      "text": "Therefore, my beloved, be steadfast, immovable, always excelling in the work of the Lord, because you know that in the Lord your labor is not in vain."
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-1",
+      "type": "commentary",
+      "text": "15.1–58: A reasoned proof of the resurrection of the dead. The issue that evokes this argument is identified in v. 12: some of the Corinthians have said, “ .” Those Greeks and Romans who were not skeptics about life beyond death tended to believe in the separation of the soul from the body, a belief sanctioned by the oracle at Delphi and popular philosophers. Enlightened persons found the idea of the resurrection of the body laughable; cf. Acts 17.32. Paul constructs an argument for the resurrection of the body on the analogy of the philosophical proof of the immortality of the soul in Plato 245c–257d; Cicero bk. 1; Plutarch ; etc. The major divisions of Paul's discourse are easily recognized and correspond to his philosophical models: 15.1–34, proof of the fact of the resurrection, established by reasoned arguments; and 15.35–58, discussion of the manner of the resurrection and the nature of the resurrection body, culminating in a “mythological hymn.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-1-cor-15-h1kj-38",
+      "type": "commentary",
+      "text": "58 : Concluding exhortation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-cor",
+        "chapter": 15
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    }
+  ]
+}

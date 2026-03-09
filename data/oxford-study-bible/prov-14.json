@@ -1,0 +1,493 @@
+{
+  "document_id": "prov-14",
+  "title": "Proverbs 14",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-14-heading-15",
+      "type": "heading",
+      "text": "15"
+    },
+    {
+      "block_id": "oxford-prov-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Those who walk uprightly fear the Lord, but one who is devious in conduct despises him."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , see 1.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-prov-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The talk of fools is a rod for their backs, but the lips of the wise preserve them."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-4",
+      "type": "commentary",
+      "text": "3 : In the fool's mouth is a (so Hebrew) that can harm others (cf. 10.31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Where there are no oxen, there is no grain; abundant crops come by the strength of the ox."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , draft animals in the ancient Near East. Farmers used wooden-frame plows pulled by oxen to plow the fields (cf. Deut 22.10; 1 Kings 19.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "A faithful witness does not lie, but a false witness breathes out lies."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-6",
+      "type": "commentary",
+      "text": "5 : Faithful witness, see 12.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-prov-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "A scoffer seeks wisdom in vain, but knowledge is easy for one who understands."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , see 1.22n. Surprisingly here the scoffer seeks wisdom (cf. 1.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-prov-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Leave the presence of a fool, for there you do not find words of knowledge."
+    },
+    {
+      "block_id": "oxford-prov-14-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It is the wisdom of the clever to understand where they go, but the folly of fools misleads."
+    },
+    {
+      "block_id": "oxford-prov-14-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Fools mock at the guilt offering, but the upright enjoy God's favor."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , see Lev 5.14–6.1–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-14-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The heart knows its own bitterness, and no stranger shares its joy."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-9",
+      "type": "commentary",
+      "text": "10",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-14-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The house of the wicked is destroyed, but the tent of the upright flourishes."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-11",
+      "type": "commentary",
+      "text": "11 : See 10.2–3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-prov-14-12",
+      "type": "verse",
+      "number": 12,
+      "text": "There is a way that seems right to a person, but its end is the way to death."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-12",
+      "type": "commentary",
+      "text": "12 : See 16.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-14-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Even in laughter the heart is sad, and the end of joy is grief."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-10",
+      "type": "commentary",
+      "text": "13 : , see 2.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-13",
+      "type": "commentary",
+      "text": "13 : Incongruities like joy and pain can coexist, (e.g., Eccl 7.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-14-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The perverse get what their ways deserve, and the good, what their deeds deserve."
+    },
+    {
+      "block_id": "oxford-prov-14-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The simple believe everything, but the clever consider their steps."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-14",
+      "type": "commentary",
+      "text": "15 : , see 1.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-prov-14-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The wise are cautious and turn away from evil, but the fool throws off restraint and is careless."
+    },
+    {
+      "block_id": "oxford-prov-14-17",
+      "type": "verse",
+      "number": 17,
+      "text": "One who is quick-tempered acts foolishly, and the schemer is hated."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-15",
+      "type": "commentary",
+      "text": "17 : , see 12.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-14-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The simple are adorned with folly, but the clever are crowned with knowledge."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-17",
+      "type": "commentary",
+      "text": "18 : On wisdom as adornment, see 1.9n. , see 12.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-prov-14-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The evil bow down before the good, the wicked at the gates of the righteous."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-16",
+      "type": "commentary",
+      "text": "18–19 : Esteem brought by wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-14-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The poor are disliked even by their neighbors, but the rich have many friends."
+    },
+    {
+      "block_id": "oxford-prov-14-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Those who despise their neighbors are sinners, but happy are those who are kind to the poor."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-18",
+      "type": "commentary",
+      "text": "20–21 : One proverb about common social reactions to the rich and poor (v. 20), and a second that condemns it (v. 21; see 10.15n.; cf. v. 31; 17.5; 22.22; 29.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-prov-14-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Do they not err that plan evil? Those who plan good find loyalty and faithfulness."
+    },
+    {
+      "block_id": "oxford-prov-14-23",
+      "type": "verse",
+      "number": 23,
+      "text": "In all toil there is profit, but mere talk leads only to poverty."
+    },
+    {
+      "block_id": "oxford-prov-14-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The crown of the wise is their wisdom, but folly is the garland of fools."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-19",
+      "type": "commentary",
+      "text": "24 : , see 12.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-prov-14-25",
+      "type": "verse",
+      "number": 25,
+      "text": "A truthful witness saves lives, but one who utters lies is a betrayer."
+    },
+    {
+      "block_id": "oxford-prov-14-26",
+      "type": "verse",
+      "number": 26,
+      "text": "In the fear of the Lord one has strong confidence, and one's children will have a refuge."
+    },
+    {
+      "block_id": "oxford-prov-14-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The fear of the Lord is a fountain of life, so that one may avoid the snares of death."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-20",
+      "type": "commentary",
+      "text": "26–27 : , see 1.7n. , see 10.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-prov-14-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The glory of a king is a multitude of people; without people a prince is ruined."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-21",
+      "type": "commentary",
+      "text": "28 : The first of many proverbs about kings (e.g., 14.35; 16.10,12–15; 19.12; 20.2,8,26,28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-14-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Whoever is slow to anger has great understanding, but one who has a hasty temper exalts folly."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-22",
+      "type": "commentary",
+      "text": "29 : , see 12.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-prov-14-30",
+      "type": "verse",
+      "number": 30,
+      "text": "A tranquil mind gives life to the flesh, but passion makes the bones rot."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-23",
+      "type": "commentary",
+      "text": "30 : , see 3.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-prov-14-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Those who oppress the poor insult their Maker, but those who are kind to the needy honor him."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-24",
+      "type": "commentary",
+      "text": "31 : That everyone shares the same creator motivates respect for and generosity to the poor; see 17.5; 19.17; 21.13; 22.2; 29.13 (cf. 22.16; 28.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-prov-14-32",
+      "type": "verse",
+      "number": 32,
+      "text": "The wicked are overthrown by their evildoing, but the righteous find a refuge in their integrity."
+    },
+    {
+      "block_id": "oxford-prov-14-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Wisdom is at home in the mind of one who has understanding, but it is not known in the heart of fools."
+    },
+    {
+      "block_id": "oxford-prov-14-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Righteousness exalts a nation, but sin is a reproach to any people."
+    },
+    {
+      "block_id": "oxford-prov-14-35",
+      "type": "verse",
+      "number": 35,
+      "text": "A servant who deals wisely has the king's favor, but his wrath falls on one who acts shamefully."
+    },
+    {
+      "block_id": "oxford-prov-14-h1kj-1",
+      "type": "commentary",
+      "text": "10.1–22.16: The proverbs of Solomon. Comprised predominantly of two-line proverbs, the oldest section of Proverbs can be divided into 10.1–15.33, which features antithetical proverbs, and 16.1–22.16, which includes a mix of proverbial forms.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "document_id": "ps-99",
+  "title": "Psalms 99",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-99-heading-psalm-100",
+      "type": "heading",
+      "text": "Psalm 100"
+    },
+    {
+      "block_id": "oxford-ps-99-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is king; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!"
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 99: Announcement that the Lord the king rules with justice. The last of the enthronement hymns (Pss 93; 95–99) celebrates the ’s enthronement, acknowledgment of the nations, and gracious communication of his decrees to Israel. Verses 1–5 call on the nations to recognize the who establishes justice in the world, and vv. 6–9 describe how divine justice is mediated by Israel’s traditions. Each section is concluded by the exhortation “Extol the our God.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , composite animals, form a throne, on which God is enthroned; cf. 1 Sam 4.4; Ps 17.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-99-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord is great in Zion; he is exalted over all the peoples."
+    },
+    {
+      "block_id": "oxford-ps-99-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let them praise your great and awesome name. Holy is he!"
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-3",
+      "type": "commentary",
+      "text": "3 : The phrase appears again in v. 5 and is expanded climactically in v. 9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-99-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Mighty King, lover of justice, you have established equity; you have executed justice and righteousness in Jacob."
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-4",
+      "type": "commentary",
+      "text": "4 : As in the other psalms about God’s kingship, the emphasis is on divine justice. Human kings served as a type of supreme court; here God the king takes over this role, but unlike human kings, he adjudicates fairly and impartially.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-99-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Extol the Lord our God; worship at his footstool. Holy is he!"
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-5",
+      "type": "commentary",
+      "text": "5 : The of the cherubim throne (see v. 1) was the ark of the covenant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-99-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Moses and Aaron were among his priests, Samuel also was among those who called on his name. They cried to the Lord, and he answered them."
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-6",
+      "type": "commentary",
+      "text": "6 : Ancient leaders who mediated God’s decrees to Israel. The mention of alongside is unusual.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-99-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He spoke to them in the pillar of cloud; they kept his decrees, and the statutes that he gave them."
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , see Num 11.25; 12.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-99-8",
+      "type": "verse",
+      "number": 8,
+      "text": "O Lord our God, you answered them; you were a forgiving God to them, but an avenger of their wrongdoings."
+    },
+    {
+      "block_id": "oxford-ps-99-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Extol the Lord our God, and worship at his holy mountain; for the Lord our God is holy."
+    },
+    {
+      "block_id": "oxford-ps-99-h1kj-8",
+      "type": "commentary",
+      "text": "9 : A variant of v. 5, forming a refrain focusing on Jerusalem and the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 99
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    }
+  ]
+}

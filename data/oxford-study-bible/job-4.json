@@ -1,0 +1,235 @@
+{
+  "document_id": "job-4",
+  "title": "Job 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-job-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Eliphaz the Temanite answered:"
+    },
+    {
+      "block_id": "oxford-job-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“If one ventures a word with you, will you be offended? But who can keep from speaking?"
+    },
+    {
+      "block_id": "oxford-job-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "See, you have instructed many; you have strengthened the weak hands."
+    },
+    {
+      "block_id": "oxford-job-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Your words have supported those who were stumbling, and you have made firm the feeble knees."
+    },
+    {
+      "block_id": "oxford-job-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But now it has come to you, and you are impatient; it touches you, and you are dismayed."
+    },
+    {
+      "block_id": "oxford-job-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Is not your fear of God your confidence, and the integrity of your ways your hope?"
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-4",
+      "type": "commentary",
+      "text": "4.2–6 : Eliphaz is not scornful in reminding Job how he has comforted others; he believes that Job’s good deeds are a reason why God will soon restore him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-job-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“Think now, who that was innocent ever perished? Or where were the upright cut off?"
+    },
+    {
+      "block_id": "oxford-job-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "As I have seen, those who plow iniquity and sow trouble reap the same."
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-6",
+      "type": "commentary",
+      "text": "8 : Cf. Hos 10.13; Gal 6.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-job-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "By the breath of God they perish, and by the blast of his anger they are consumed."
+    },
+    {
+      "block_id": "oxford-job-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The roar of the lion, the voice of the fierce lion, and the teeth of the young lions are broken."
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-7",
+      "type": "commentary",
+      "text": "10 : Cf. Ps 58.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-job-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The strong lion perishes for lack of prey, and the whelps of the lioness are scattered."
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-5",
+      "type": "commentary",
+      "text": "7–11 : Eliphaz describes the fate of the wicked, as a contrast to what Job can expect since he is not one of them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-job-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“Now a word came stealing to me, my ear received the whisper of it."
+    },
+    {
+      "block_id": "oxford-job-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Amid thoughts from visions of the night, when deep sleep falls on mortals,"
+    },
+    {
+      "block_id": "oxford-job-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "dread came upon me, and trembling, which made all my bones shake."
+    },
+    {
+      "block_id": "oxford-job-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "A spirit glided past my face; the hair of my flesh bristled."
+    },
+    {
+      "block_id": "oxford-job-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "It stood still, but I could not discern its appearance. A form was before my eyes; there was silence, then I heard a voice:"
+    },
+    {
+      "block_id": "oxford-job-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "‘Can mortals be righteous before God? Can human beings be pure beforea their Maker?"
+    },
+    {
+      "block_id": "oxford-job-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Even in his servants he puts no trust, and his angels he charges with error;"
+    },
+    {
+      "block_id": "oxford-job-4-19",
+      "type": "verse",
+      "number": 19,
+      "text": "how much more those who live in houses of clay, whose foundation is in the dust, who are crushed like a moth."
+    },
+    {
+      "block_id": "oxford-job-4-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Between morning and evening they are destroyed; they perish forever without any regarding it."
+    },
+    {
+      "block_id": "oxford-job-4-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Their tent‐cord is plucked up within them, and they die devoid of wisdom.’"
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–11.20: First cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-3",
+      "type": "commentary",
+      "text": "4.1–5.27: Eliphaz’s first speech. Eliphaz regards Job as a pious man and urges him not to lose heart, since the innocent never finally suffer. Even the pious are not perfect, however, and may experience reproof and discipline (5.17); but they will soon come to an end (4.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-job-4-h1kj-8",
+      "type": "commentary",
+      "text": "12–21 : However, not even the angels are perfect (v. 18), still less the righteous (v. 17; cf. 15.14–16; 25.4–6). They are mere mortals, who, unlike the angels, can expire within a single day (v. 20a) and be so insignificant that they can die without anyone noticing (v. 20b) and without their ever attaining wisdom (v. 21b). Eliphaz’s dream or waking vision terrified him because of its supernatural source, but the message it brought was obvious. Appeals to revelatory experience are unusual in wisdom books, but see 33.15–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 21
+    }
+  ]
+}

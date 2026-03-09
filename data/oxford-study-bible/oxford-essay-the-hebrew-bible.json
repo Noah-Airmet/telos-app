@@ -1,0 +1,88 @@
+{
+  "document_id": "oxford-essay-the-hebrew-bible",
+  "title": "The Hebrew Bible",
+  "type": "essay",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-0",
+      "type": "paragraph",
+      "text": "Different religious communities have different Bibles. Most significantly, the Christian Bible includes the New Testament while the Jewish Bible does not. But even collections that at first seem shared between communities, upon closer inspection are not. For example, the Jewish Hebrew Bible and the Christian Old Testament are not identical, and different Christians have different Old Testaments (see chart on p. 2237). The following discussion will explain, within the limits of what scholars now know, how the Bible came into being within the Jewish and Christian communities."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-heading-1",
+      "type": "heading",
+      "text": "Definitions"
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-2",
+      "type": "paragraph",
+      "text": "“Canon,” a Greek word meaning “reed,” came to refer to any straight stick that could be used for measuring. This basic meaning was extended to refer to any rule or standard by which things could be compared or judged. The Alexandrian grammarians, classical Greek writers from Alexandria, Egypt, who were also literary critics, used “canon” as their term for the list of standard or classic authors who were worthy of attention and imitation (e.g., Homer’s Iliad and Odyssey). This was not a closed category, and ancient authorities debated adding or removing works from the list. Inclusion on a list recognized a work’s quality or central importance, but did not confer upon it any new status."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-3",
+      "type": "paragraph",
+      "text": "When used with reference to the Bible, canon has come to have a different connotation: It marks a closed, unchangeable set of texts of central religious significance. Other, noncanonical texts are relegated to a lesser role. A more radical notion of religious canon, expressed in a rabbinic comment on Eccl 12.12, suggests that the Bible (with its interpretation) is the single sufficient text for the religious community. The biblical text reads:"
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-4",
+      "type": "paragraph",
+      "text": "The rabbinic comment states:"
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-heading-5",
+      "type": "heading",
+      "text": "The Hebrew Bible"
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-6",
+      "type": "paragraph",
+      "text": "Unlike the canonization of the New Testament, which took place at a series of councils or synods, the process of the canonization of the Hebrew Bible is obscure and unattested in contemporaneous sources. Much of the material from early Jewish sources (for instance, the Dead Sea Scrolls, the first-century ce historian Josephus, and rabbinic texts,) and early Christian sources (for instance, the New Testament and church fathers) is ambiguous and conflicting, and does not offer a clear picture of how the Hebrew Bible came into being. Until the mid-twentieth century, many scholars thought that the Hebrew Bible was canonized in the same fashion as the New Testament, and they posited an early rabbinic council at Jabneh (Jamnia), a city near the Mediterranean coast, west of Jerusalem, which was a center of Jewish learning after the destruction of the Second Temple (70 ce). According to this theory, a group of rabbis met there in about 90 ce and voted on whether certain books were canonical; at the end of this meeting, the official contents of the Hebrew Bible were established for perpetuity. This reconstruction is now recognized as based on a misunderstanding of rabbinic texts and an improper analogy between how the New Testament and the Hebrew Bible canons were formed. In fact, some scholars prefer not to use in reference to the Hebrew Bible the word “canon,” which derives from New Testament studies, preferring to speak instead of how the Hebrew Bible became the Hebrew Bible. Scholars have also emphasized that it is improper to speak of the (Hebrew) Bible until after it was firmly and finally canonized; for that reason, the remainder of this essay will use quotation marks around “(Hebrew) Bible” when referring to the early centuries of the Common Era; this is as a shorthand to refer to the books or the collection that later became the Hebrew Bible."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-7",
+      "type": "paragraph",
+      "text": "The Hebrew Bible did not develop at a single moment in time but rather in stages. Most scholars agree that the Torah or Pentateuch (the five books from Genesis through Deuteronomy) functioned as the earliest Jewish “Bible,” though exactly when this happened is uncertain. Many scholars had associated this development with Ezra, and they saw the “law of your God” (Ezra 7.14), with which Ezra was entrusted in the fifth century bce, as the Pentateuch. We now recognize, however, that this assertion goes beyond the evidence. Though the Jewish community had recognized the Torah as central by the Persian period (sixth to fourth centuries bce), a conclusion suggested by citations of Torah material in “biblical” books from this period (e.g., Chronicles, Ezra-Nehemiah), it is unclear exactly how this happened, or whether this development should be associated primarily with a single individual such as Ezra, or should be seen as part of a larger, more complicated process."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-8",
+      "type": "paragraph",
+      "text": "According to rabbinic tradition, the Torah is the first part of a tripartite (three-part) canon, followed by Nevi˒im (prophets) and Ketuvim (writings), forming a work that much later was known by the acronym Tanak(h), Torah, Nevi˒im, Ketuvim. Nevi˒im is composed of Joshua, Judges, Samuel (seen as one book), Kings (seen as one book)—historical works known as “the former prophets”—and “the latter prophets,” consisting of Isaiah, Jeremiah, Ezekiel, and the twelve minor (i.e., shorter) prophets (Hosea through Malachi, seen as one book). The order of these eight books has been relatively stable. Ketuvim is comprised of the following eleven books, which, by contrast, appear in a wide variety of orders in various book lists and biblical manuscripts: Psalms, Proverbs, Job; the “five scrolls” (“Megillot”) whose order has been especially variable, Ruth, Song of Solomon, Ecclesiastes, Lamentations, and Esther; Daniel, Ezra-Nehemiah (seen as one book), and Chronicles (seen as one book). The number of canonical books according to traditional Jewish sources is thus twenty-four (five in the Torah, eight in Nevi˒im, eleven in Ketuvim)."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-9",
+      "type": "paragraph",
+      "text": "The origin of the tripartite canon has been a topic of debate, with several scholars suggesting that it developed from a two-part structure comprised of the Torah and other works. This bipartite structure may be reflected, e.g., in Mt 7.12 (cf. 11.13), which refers to “the law and the prophets,” where the later category may refer to all books outside the Torah. On the other hand, evidence for the tripartite canon may appear in such sources as Lk 24.44, which refers to “the law of Moses, the prophets, and the psalms,” where “psalms” may be shorthand for Ketuvim, and in a possible parallel expression in the Dead Sea Scrolls. The tripartite canon may reflect the canonization process, with Nevi˒im canonized before Ketuvim. This would explain why the Ketuvim contain the book of Daniel (dating from the second century bce), and several late historical books, such as Ezra-Nehemiah and Chronicles, which would seem more appropriately to belong with similar works such as Joshua and Kings. According to this model, the Torah was canonized in the Persian period, followed by the canonization of Nevi˒im in the late Persian or early Greek period, while the Ketuvim were canonized last, perhaps around the time of the destruction of the Second Temple (70 ce)."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-10",
+      "type": "paragraph",
+      "text": "Different canons, and different organizations of the canon, existed in the first centuries of the Common Era. Josephus refers to twenty-two biblical books (Ag. Ap. 1.42). It is not clear if he simply had a smaller canon or if, instead, his canon had the texts in a different order, combined in different ways, perhaps following a tradition found in the Septuagint (see “Canons of the Bible,” on the Greek Bible, p. 2238), which places Ruth after Judges and Lamentations after Jeremiah, treating these smaller books as appendixes to the ones they follow. Such an arrangement would yield twenty-two books, a number that conveniently corresponds to the number of letters in the Hebrew alphabet. According to this tradition, mentioned by some early church fathers and reflected in the arrangement of the earliest comprehensive Septuagint manuscripts (fourth century ce), the Hebrew Bible is divided into four parts: Torah, Histories, Poetical and Wisdom Books, and Prophets (see the Introduction to the Poetical and Wisdom Books, p. 729). This order continues to be used by Christians in their organization of the Old Testament. Older scholarship spoke of this four-part, twentytwo-book arrangement as the Alexandrian canon, in contrast to the tripartite, twenty-four-book Palestinian canon, but the association of this structure specifically with the Jewish community in Alexandria is now disputed."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-11",
+      "type": "paragraph",
+      "text": "It is difficult to know if the Dead Sea Scroll community had a conception of Bible—they do not, for example, use the earliest rabbinic term for the Bible, “holy writings” (cf. Rom 1.2). No copy of Esther has survived among the thousands of fragments discovered there, while many manuscripts of Jubilees, a reworking of Genesis and part of Exodus, have survived. Given this work’s affinities with the practices of the Dead Sea community, and the fact that it is cited in the same way that texts that would later be biblical are cited, it probably had within that community the same status as “biblical” books. Within rabbinic literature, the Wisdom of Jesus ben Sirach (Sirach or Ecclesiasticus) is sometimes cited with the same formula used for texts that we consider biblical texts, suggesting that it had the same status for some rabbis as those texts; Sirach is also found at Qumran and Masada. This evidence all implies that Judaism writ large did not have a single canon at this period, and that at least through the early first millennium ce, different Jewish groups had different “Bibles,” with different contents in different orders. It is even possible that the Jewish canon was finalized after the Christian canon was determined, in reaction to that development."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-12",
+      "type": "paragraph",
+      "text": "This flexibility was not only in what comprised “the Bible” but in what the biblical text itself looked like. Manuscripts from Qumran, from translations of the Hebrew Bible in the Septuagint and elsewhere, and to a lesser extent from early rabbinic citations, differ from each other and from the later “official” Hebrew Bible text, the Masoretic Text (MT). These differences are sometimes small, such as variant spellings, but are often major and affect the meaning of the text. Some books are found in two or more different recensions—identifiably different versions, which may vary the order of materials, may exhibit fundamentally different text-types (e.g., short types versus expansive types, as with the text of Jeremiah; see the Introduction to Jeremiah, p. 1069), and may contain blocks of material not found in the MT (e.g., the Greek versions of Esther and Daniel). The types of rabbinic exposition that paid a great deal of attention to the exact spelling of the individual word would eventually bring about textual stability, though here too this was a gradual process, and the means by which it was accomplished—through which “alternative” versions were suppressed—are largely unknown."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-13",
+      "type": "paragraph",
+      "text": "Canonization is fundamentally a process of selection, but we cannot reconstruct why particular texts were canonized while others were not. The Hebrew Bible itself mentions more than twenty books that are no longer extant, such as The Book of the Wars of the lord and the Book of Jashar; many others, not mentioned in the Bible, certainly existed as well. Perhaps some excluded texts were seen as too heterodox, while others were seen as too recently composed. Many more texts were excluded than included; some of the former were translated in the Septuagint and were therefore canonized in the Christian community (see “Canons of the Bible,” on the Greek Bible, p. 2238); others were lost, or survived as pseudepigrapha (writings falsely attributed to major biblical figures), or were preserved (typically in fragmentary form) in the Dead Sea Scrolls."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-14",
+      "type": "paragraph",
+      "text": "Whether a book or group of books is canonized is often discussed in terms of the community’s views on their centrality, authority, sacredness, and inspiration. These terms are not identical, and each is murky. Sometimes these characteristics became connected. The Song of Solomon, for instance, was originally an erotic love poem; by the early rabbinic period, it came to be interpreted allegorically as a love poem between God and Israel. It was also seen as the inspired composition of Solomon himself. Was it canonized before it was seen as a holy, allegorical text? In that case, its canonization might reflect a central role that it held in culture or ritual. Or was it canonized only after it was viewed as allegorical and as a composition of Solomon? In that case its significance, whether of authorship or of ideas, could have played a more important part. It is impossible to judge between these two paths to canonization that more broadly reflect the problems in dealing with issues of canonization in general."
+    },
+    {
+      "block_id": "oxford-essay-the-hebrew-bible-para-15",
+      "type": "paragraph",
+      "text": "Despite such major uncertainties in our understanding of the process of canonization, however, several points seem likely. The destruction of the Second Temple in 70 ce played an important role in Jews becoming the people of the Book. Second, it is unlikely that canonization represents a purely top-down process, through which a small group of leaders (rabbis) determined the canon; instead, the formation of the Hebrew Bible was more likely the official recognition of the works that a large or influential segment of the community had already held to be central, holy, or authoritative. Finally, the act of canonization was remarkably inclusive, creating a body of works richly textured by a wide variety of genres, ideologies, and theologies. This is, fundamentally, a typical ancient Near Eastern process: Instead of creating a small, highly consistent text, as we perhaps might now do, those responsible for the process included many of the viewpoints in ancient Israel, incorporating differing and even contradictory traditions into this single, and singular, book—the Hebrew Bible."
+    }
+  ]
+}

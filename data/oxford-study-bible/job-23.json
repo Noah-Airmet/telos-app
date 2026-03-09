@@ -1,0 +1,187 @@
+{
+  "document_id": "job-23",
+  "title": "Job 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-23-heading-24",
+      "type": "heading",
+      "text": "24"
+    },
+    {
+      "block_id": "oxford-job-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Job answered:"
+    },
+    {
+      "block_id": "oxford-job-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Today also my complaint is bitter; his hand is heavy despite my groaning."
+    },
+    {
+      "block_id": "oxford-job-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Oh, that I knew where I might find him, that I might come even to his dwelling!"
+    },
+    {
+      "block_id": "oxford-job-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I would lay my case before him, and fill my mouth with arguments."
+    },
+    {
+      "block_id": "oxford-job-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I would learn what he would answer me, and understand what he would say to me."
+    },
+    {
+      "block_id": "oxford-job-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Would he contend with me in the greatness of his power? No; but he would give heed to me."
+    },
+    {
+      "block_id": "oxford-job-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "There an upright person could reason with him, and I should be acquitted forever by my judge."
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-5",
+      "type": "commentary",
+      "text": "4–7 : When Job first imagined a lawsuit with God (9.3–4), he immediately recognized that he could not succeed. But the more he considers the idea, the more it becomes a reality. In a later speech, even though he has no hope of success (13.15), he craves to enter into dispute with him (13.3). In his next speech he announces that he already has a “witness” stationed in heaven, his “cry” that is his spokesman (16.19–20). Still later, he expresses his conviction that his case will be heard, even if after his death (19.27). Now he believes that he would get justice from God if only he could locate him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-job-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“If I go forward, he is not there; or backward, I cannot perceive him;"
+    },
+    {
+      "block_id": "oxford-job-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "on the left he hides, and I cannot behold him; I turn to the right, but I cannot see him."
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-6",
+      "type": "commentary",
+      "text": "8–9 : , and designate the four cardinal directions: east, west, south, and north.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-job-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But he knows the way that I take; when he has tested me, I shall come out like gold."
+    },
+    {
+      "block_id": "oxford-job-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "My foot has held fast to his steps; I have kept his way and have not turned aside."
+    },
+    {
+      "block_id": "oxford-job-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I have not departed from the commandment of his lips; I have treasured in my bosom the words of his mouth."
+    },
+    {
+      "block_id": "oxford-job-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But he stands alone and who can dissuade him? What he desires, that he does."
+    },
+    {
+      "block_id": "oxford-job-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For he will complete what he appoints for me; and many such things are in his mind."
+    },
+    {
+      "block_id": "oxford-job-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Therefore I am terrified at his presence; when I consider, I am in dread of him."
+    },
+    {
+      "block_id": "oxford-job-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "God has made my heart faint; the Almighty has terrified me;"
+    },
+    {
+      "block_id": "oxford-job-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If only I could vanish in darkness, and thick darkness would cover my face!"
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-2",
+      "type": "commentary",
+      "text": "21.1–27.23: Third cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-3",
+      "type": "commentary",
+      "text": "23.1–24.25: Job’s eighth speech. This speech is a soliloquy, addressed neither to the friends nor to God. In ch 23 Job is concerned mainly with himself and his sense of how inaccessible God is to him. In ch 24 his concern is with others, especially the innocent poor, who seem to be neglected by God. If he could gain access to God, he would be vindicated; but he despairs of ever receiving such vindication, since God plainly does not hold regular for judgment when wrongs are righted (24.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-job-23-h1kj-4",
+      "type": "commentary",
+      "text": "23.3–17 : God is plainly not entering into the lawsuit that Job desires (cf. 19.26), so Job must search him out. But his quest is a failure (vv. 8–9). God is not acting fairly or legally; (v. 13), and that is only to harm Job.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 23
+      },
+      "verse_start": 3,
+      "verse_end": 17
+    }
+  ]
+}

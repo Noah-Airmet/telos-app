@@ -1,0 +1,442 @@
+{
+  "document_id": "gen-37",
+  "title": "Genesis 37",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-37-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Jacob settled in the land where his father had lived as an alien, the land of Canaan."
+    },
+    {
+      "block_id": "oxford-gen-37-2",
+      "type": "verse",
+      "number": 2,
+      "text": "This is the story of the family of Jacob. Joseph, being seventeen years old, was shepherding the flock with his brothers; he was a helper to the sons of Bilhah and Zilpah, his father’s wives; and Joseph brought a bad report of them to their father."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-5",
+      "type": "commentary",
+      "text": "2a : , despite the different translation here in the NRSV, this heading, which brings unity to Genesis, is identical with those in 5.1; 6.9; 10.1; 11.27; 25.12,18; 36.1,9 that refer to the “descendants” of a given figure. Here it identifies what follows as concerning the “descendants of Jacob,” that is, Joseph and his brothers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-37-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Now Israel loved Joseph more than any other of his children, because he was the son of his old age; and he had made him a long robe with sleeves."
+    },
+    {
+      "block_id": "oxford-gen-37-3-commentary-1",
+      "type": "commentary",
+      "text": "Traditional rendering (compare Gk): a coat of many colors; meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-gen-37-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But when his brothers saw that their father loved him more than all his brothers, they hated him, and could not speak peaceably to him."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-6",
+      "type": "commentary",
+      "text": "2b–4 : According to the Priestly narrative (vv. 1–2), Joseph tattled on his brothers. The non‐Priestly narrative (vv. 3–4) explains his brothers’ antagonism toward him as resulting from jealousy about Jacob’s love. Joseph is favored as the eldest of the children of Jacob by his favorite wife, Rachel (30.22–24). The (v. 3; but see note ) is a royal garment (2 Sam 13.18–19) anticipating Joseph’s future status. At this point in the story neither the reader nor the brothers know how this will come about.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-gen-37-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Once Joseph had a dream, and when he told it to his brothers, they hated him even more."
+    },
+    {
+      "block_id": "oxford-gen-37-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He said to them, “Listen to this dream that I dreamed."
+    },
+    {
+      "block_id": "oxford-gen-37-7",
+      "type": "verse",
+      "number": 7,
+      "text": "There we were, binding sheaves in the field. Suddenly my sheaf rose and stood upright; then your sheaves gathered around it, and bowed down to my sheaf.”"
+    },
+    {
+      "block_id": "oxford-gen-37-8",
+      "type": "verse",
+      "number": 8,
+      "text": "His brothers said to him, “Are you indeed to reign over us? Are you indeed to have dominion over us?” So they hated him even more because of his dreams and his words. Chs 12–50: The genealogy of Abraham, Isaac, and Jacob. Dashed lines show the wives; solid lines show descendants."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-7",
+      "type": "commentary",
+      "text": "5–8 : This first dream report predicts Joseph’s domination of his brothers (43.26; 50.18; cf. 42.6). The story may intend to predict the future rule of Jeroboam, a member of the Joseph tribe of Ephraim, over the other tribes of northern Israel (1 Kings 11.26; 12.1–14.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-gen-37-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He had another dream, and told it to his brothers, saying, “Look, I have had another dream: the sun, the moon, and eleven stars were bowing down to me.”"
+    },
+    {
+      "block_id": "oxford-gen-37-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But when he told it to his father and to his brothers, his father rebuked him, and said to him, “What kind of dream is this that you have had? Shall we indeed come, I and your mother and your brothers, and bow to the ground before you?”"
+    },
+    {
+      "block_id": "oxford-gen-37-11",
+      "type": "verse",
+      "number": 11,
+      "text": "So his brothers were jealous of him, but his father kept the matter in mind."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-4",
+      "type": "commentary",
+      "text": "37.1–11: Joseph’s dreams of power. These narratives open the remarkably cohesive story of Joseph and his brothers in chs 37–50. Source critics have attempted to trace strands of the hypothesized Yahwistic and Elohistic source documents (see Introduction) through the Joseph story; thus sections focusing on Reuben and Midianites (e.g., 37.22–24,28–36) were assigned to E, while sections focusing on Judah and the Ishmaelites (e.g., 37.25–28) were assigned to J. Others suggested that an early Joseph story focused on Reuben was revised by an author who focused on Judah and referred to Jacob as “Israel.” Despite the presence of some additions and modifications (e.g., 37.2a, 28; 41.46), however, the essential unity of the Joseph story is clear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-8",
+      "type": "commentary",
+      "text": "9–11 : Jacob sees this dream as predicting that he and Joseph’s mother, Rachel, will join the brothers in submitting to Joseph. This episode was probably part of an independent Joseph story that originally did not follow an account of Rachel’s death (see 35.16–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-gen-37-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now his brothers went to pasture their father’s flock near Shechem."
+    },
+    {
+      "block_id": "oxford-gen-37-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And Israel said to Joseph, “Are not your brothers pasturing the flock at Shechem? Come, I will send you to them.” He answered, “Here I am.”"
+    },
+    {
+      "block_id": "oxford-gen-37-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So he said to him, “Go now, see if it is well with your brothers and with the flock; and bring word back to me.” So he sent him from the valley of Hebron. He came to Shechem,"
+    },
+    {
+      "block_id": "oxford-gen-37-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and a man found him wandering in the fields; the man asked him, “What are you seeking?”"
+    },
+    {
+      "block_id": "oxford-gen-37-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“I am seeking my brothers,” he said; “tell me, please, where they are pasturing the flock.”"
+    },
+    {
+      "block_id": "oxford-gen-37-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The man said, “They have gone away, for I heard them say, ‘Let us go to Dothan.’” So Joseph went after his brothers, and found them at Dothan."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-10",
+      "type": "commentary",
+      "text": "17 : Dothan is about 15 mi (24 km) north of Shechem and lay along a trade route from Syria to Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-gen-37-18",
+      "type": "verse",
+      "number": 18,
+      "text": "They saw him from a distance, and before he came near to them, they conspired to kill him."
+    },
+    {
+      "block_id": "oxford-gen-37-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They said to one another, “Here comes this dreamer."
+    },
+    {
+      "block_id": "oxford-gen-37-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Come now, let us kill him and throw him into one of the pits; then we shall say that a wild animal has devoured him, and we shall see what will become of his dreams.”"
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-11",
+      "type": "commentary",
+      "text": "20 : were cisterns for storing rainwater and sometimes used to imprison people (Jer 38.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-37-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But when Reuben heard it, he delivered him out of their hands, saying, “Let us not take his life.”"
+    },
+    {
+      "block_id": "oxford-gen-37-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Reuben said to them, “Shed no blood; throw him into this pit here in the wilderness, but lay no hand on him”—that he might rescue him out of their hand and restore him to his father."
+    },
+    {
+      "block_id": "oxford-gen-37-23",
+      "type": "verse",
+      "number": 23,
+      "text": "So when Joseph came to his brothers, they stripped him of his robe, the long robe with sleeves that he wore;"
+    },
+    {
+      "block_id": "oxford-gen-37-23-commentary-2",
+      "type": "commentary",
+      "text": "See note on 37.3",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37,
+        "verse": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-gen-37-24",
+      "type": "verse",
+      "number": 24,
+      "text": "and they took him and threw him into a pit. The pit was empty; there was no water in it."
+    },
+    {
+      "block_id": "oxford-gen-37-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Then they sat down to eat; and looking up they saw a caravan of Ishmaelites coming from Gilead, with their camels carrying gum, balm, and resin, on their way to carry it down to Egypt."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-14",
+      "type": "commentary",
+      "text": "25 : , in northern Transjordan, was famous for its , an aromatic resin used in healing (see Jer 8.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-37-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Then Judah said to his brothers, “What profit is it if we kill our brother and conceal his blood?"
+    },
+    {
+      "block_id": "oxford-gen-37-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Come, let us sell him to the Ishmaelites, and not lay our hands on him, for he is our brother, our own flesh.” And his brothers agreed."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-12",
+      "type": "commentary",
+      "text": "22–27 : The advice of Reuben and Judah reflects the ancient idea that blood cannot be “concealed” (v. 26), but cries out for requital (see 4.10–11n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-15",
+      "type": "commentary",
+      "text": "26–27 : On the role of Judah, see 44.18–34n. 28: The first half of this verse (possibly an insertion) displaces blame for the actual sale to passing Midianites (cf. Gen 37.27; 45.4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-gen-37-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When some Midianite traders passed by, they drew Joseph up, lifting him out of the pit, and sold him to the Ishmaelites for twenty pieces of silver. And they took Joseph to Egypt."
+    },
+    {
+      "block_id": "oxford-gen-37-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When Reuben returned to the pit and saw that Joseph was not in the pit, he tore his clothes."
+    },
+    {
+      "block_id": "oxford-gen-37-30",
+      "type": "verse",
+      "number": 30,
+      "text": "He returned to his brothers, and said, “The boy is gone; and I, where can I turn?”"
+    },
+    {
+      "block_id": "oxford-gen-37-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Then they took Joseph’s robe, slaughtered a goat, and dipped the robe in the blood."
+    },
+    {
+      "block_id": "oxford-gen-37-32",
+      "type": "verse",
+      "number": 32,
+      "text": "They had the long robe with sleevesa taken to their father, and they said, “This we have found; see now whether it is your son’s robe or not.”"
+    },
+    {
+      "block_id": "oxford-gen-37-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He recognized it, and said, “It is my son’s robe! A wild animal has devoured him; Joseph is without doubt torn to pieces.”"
+    },
+    {
+      "block_id": "oxford-gen-37-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Then Jacob tore his garments, and put sackcloth on his loins, and mourned for his son many days."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-16",
+      "type": "commentary",
+      "text": "31–34 : Now Jacob is tricked by an article of clothing (contrast 27.15; see 29.23–25n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 31,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-gen-37-35",
+      "type": "verse",
+      "number": 35,
+      "text": "All his sons and all his daughters sought to comfort him; but he refused to be comforted, and said, “No, I shall go down to Sheol to my son, mourning.” Thus his father bewailed him."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-17",
+      "type": "commentary",
+      "text": "35 : , the underworld to which everyone went at death—the Hebrew Bible does not recognize a differentiated heaven and hell. Since this afterlife was at best a shadowy existence (see Ps 6.5; Eccl 9.10), Jacob’s going to his son further reflects his misery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-gen-37-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Meanwhile the Midianites had sold him in Egypt to Potiphar, one of Pharaoh’s officials, the captain of the guard."
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-3",
+      "type": "commentary",
+      "text": "37.1–50.26: The story of Joseph and his family. As indicated in the Introduction, this portion of Genesis features an intricate depiction of Joseph’s relations with his brothers and father. Starting with a pair of dreams (37.5–11), the narrative follows a trajectory from his brothers’ murderous hatred of Joseph to Joseph’s eventual testing of and reunion with them (chs 42–45; 50). Joseph was a prominent northern tribe, and like the Jacob story, this narrative has Northern connections, especially with the addition of the story in 48.8–14 of Joseph’s special blessing on his son, Ephraim. The first king of the Northern Kingdom, Jeroboam, was a member of the tribe of Ephraim (1 Kings 11.26), and stories like these about early Israelite ancestors would have reinforced his claim to rule. Yet over time the story evolved in significance, through additions assuming ’s destiny to rule (see 49.8–12n.), inserted echoes of the promise theme first introduced in the Abraham story (such as 46.1–4; 48.15–16 and 12.1–3n.), connections leading to the book of Joshua (50.24–25), and a few fragments that may come from the Priestly source (e.g., 37.1–2; 46.8–27; 47.27–28; 48.3–6; 49.29–33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-9",
+      "type": "commentary",
+      "text": "37.12–36: Joseph is sold into slavery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 12,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-13",
+      "type": "commentary",
+      "text": "25–36 : Most scholars agree that some combination or modification of traditions has occurred here. Though the brothers decide here to sell Joseph (v. 27) and Joseph later says that they did so (45.4–5), this narrative describes the s as drawing him out and selling him to the (v. 28). Later, both the s (37.36) and the (39.1; cf. 37.25) are identified as the ones who sold Joseph to Potiphar.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 25,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-gen-37-h1kj-18",
+      "type": "commentary",
+      "text": "36 : Multiple traditions testify to some kind of connection between Joseph and an Egyptian “Potiphera.” is a form of “Potiphera,” the name of the Egyptian priest who is Joseph’s father‐in‐law in 41.45 and 46.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 37
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    }
+  ]
+}

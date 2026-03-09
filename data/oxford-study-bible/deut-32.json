@@ -1,0 +1,776 @@
+{
+  "document_id": "deut-32",
+  "title": "Deuteronomy 32",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-32-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Give ear, O heavens, and I will speak; let the earth hear the words of my mouth."
+    },
+    {
+      "block_id": "oxford-deut-32-2",
+      "type": "verse",
+      "number": 2,
+      "text": "May my teaching drop like the rain, my speech condense like the dew; like gentle rain on grass, like showers on new growth."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-2",
+      "type": "commentary",
+      "text": "32.2 : , the original prophetic lawsuit has been combined with wisdom themes (Prov 1.5; 4.2; 17.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-deut-32-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For I will proclaim the name of the Lord; ascribe greatness to our God!"
+    },
+    {
+      "block_id": "oxford-deut-32-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Rock, his work is perfect, and all his ways are just. A faithful God, without deceit, just and upright is he;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , better, “Mountain,” a title applied to the high god of ancient Canaan (see v. 8n.) and to the biblical God (vv. 15,18,30–31,37; Isa 44.8; Ps 78.35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-deut-32-5",
+      "type": "verse",
+      "number": 5,
+      "text": "yet his degenerate children have dealt falsely with him, a perverse and crooked generation."
+    },
+    {
+      "block_id": "oxford-deut-32-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Do you thus repay the Lord, O foolish and senseless people? Is not he your father, who created you, who made you and established you?"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , when God redeemed Israel from Egypt (Ex 15.16, correcting NRSV “acquired”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-deut-32-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remember the days of old, consider the years long past; ask your father, and he will inform you; your elders, and they will tell you."
+    },
+    {
+      "block_id": "oxford-deut-32-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When the Most High apportioned the nations, when he divided humankind, he fixed the boundaries of the peoples according to the number of the gods;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-5",
+      "type": "commentary",
+      "text": "8 : , or (text note ), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). , the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-deut-32-9",
+      "type": "verse",
+      "number": 9,
+      "text": "the Lord’s own portion was his people, Jacob his allotted share."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-6",
+      "type": "commentary",
+      "text": "9 : , NRSV has added in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-32-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He sustained him in a desert land, in a howling wilderness waste; he shielded him, cared for him, guarded him as the apple of his eye."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-7",
+      "type": "commentary",
+      "text": "10 : , more likely “found” (Hos 9.10). The Song here traces the beginnings of Israel to the wilderness period, romanticizing its ideal purity (similarly Hos 2.14–15; Jer 2.2–3; contrast Deut 9.6–7,22–27; Ezek 20). , i.e., the aperture or pupil of the eye.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-32-11",
+      "type": "verse",
+      "number": 11,
+      "text": "As an eagle stirs up its nest, and hovers over its young; as it spreads its wings, takes them up, and bears them aloft on its pinions,"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-8",
+      "type": "commentary",
+      "text": "11 : Israel as God’s fledgling; see Ex 19.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-deut-32-12",
+      "type": "verse",
+      "number": 12,
+      "text": "the Lord alone guided him; no foreign god was with him."
+    },
+    {
+      "block_id": "oxford-deut-32-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He set him atop the heights of the land, and fed him with produce of the field; he nursed him with honey from the crags, with oil from flinty rock;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-9",
+      "type": "commentary",
+      "text": "13 : , see Ex 15.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-deut-32-14",
+      "type": "verse",
+      "number": 14,
+      "text": "curds from the herd, and milk from the flock, with fat of lambs and rams; Bashan bulls and goats, together with the choicest wheat— you drank fine wine from the blood of grapes."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-10",
+      "type": "commentary",
+      "text": "14 : , symbolic of extravagant hospitality offered to special guests (Gen 18.8; Judg 5.25). , in northern Transjordan, was famous for its cattle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-deut-32-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Jacob ate his fill; Jeshurun grew fat, and kicked. You grew fat, bloated, and gorged! He abandoned God who made him, and scoffed at the Rock of his salvation."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-11",
+      "type": "commentary",
+      "text": "15 : , probably meaning “upright,” is a poetic term for Israel (33.5,26; Isa 44.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-32-16",
+      "type": "verse",
+      "number": 16,
+      "text": "They made him jealous with strange gods, with abhorrent things they provoked him."
+    },
+    {
+      "block_id": "oxford-deut-32-17",
+      "type": "verse",
+      "number": 17,
+      "text": "They sacrificed to demons, not God, to deities they had never known, to new ones recently arrived, whom your ancestors had not feared."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-12",
+      "type": "commentary",
+      "text": "17 : , better, “protective spirits” (also Ps 106.37). , the language is sarcastic: “a non‐god” (see v. 21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-32-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You were unmindful of the Rock that bore you; you forgot the God who gave you birth."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-13",
+      "type": "commentary",
+      "text": "18 : God is depicted as a woman; refers specifically to labor pain (Isa 51.2; cf. Isa 42.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-deut-32-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The Lord saw it, and was jealous; he spurned his sons and daughters."
+    },
+    {
+      "block_id": "oxford-deut-32-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He said: I will hide my face from them, I will see what their end will be; for they are a perverse generation, children in whom there is no faithfulness."
+    },
+    {
+      "block_id": "oxford-deut-32-21",
+      "type": "verse",
+      "number": 21,
+      "text": "They made me jealous with what is no god, provoked me with their idols. So I will make them jealous with what is no people, provoke them with a foolish nation."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-14",
+      "type": "commentary",
+      "text": "21 : refers to the covenant’s demand for exclusive loyalty to God (5.8; 6.15; Num 25.11). Accordingly, the punishment for breach of the covenant metes out precise retributive justice (see 19.19n.). The Hebrew emphasizes the sarcasm: thus, and , lit., “with a non‐god,” “with a non‐people.” , lit., “their vapors” or “their vanities,” even “their vapidities” (Jer 8.19; 10.15; 16.19; Eccl 1.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-32-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For a fire is kindled by my anger, and burns to the depths of Sheol; it devours the earth and its increase, and sets on fire the foundations of the mountains."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-15",
+      "type": "commentary",
+      "text": "22 : , the underworld (Gen 37.35; 1 Sam 2.6; Ps 139.8); the abode of all the dead, not a place of damnation like the later idea of hell.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-32-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I will heap disasters upon them, spend my arrows against them:"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-16",
+      "type": "commentary",
+      "text": "23 : , divine punishments (v. 42; Ezek 5.16; Pss 7.13; 18.14; 38.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-deut-32-24",
+      "type": "verse",
+      "number": 24,
+      "text": "wasting hunger, burning consumption, bitter pestilence. The teeth of beasts I will send against them, with venom of things crawling in the dust."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-17",
+      "type": "commentary",
+      "text": "24 : , the name of the Ugaritic god of pestilence; thus better, “devoured by Plague.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-deut-32-25",
+      "type": "verse",
+      "number": 25,
+      "text": "In the street the sword shall bereave, and in the chambers terror, for young man and woman alike, nursing child and old gray head."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-18",
+      "type": "commentary",
+      "text": "25 : , better, “young woman,” to emphasize the double merism (28.3–6n.), which symbolizes the totality of the slaughter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-deut-32-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I thought to scatter them and blot out the memory of them from humankind;"
+    },
+    {
+      "block_id": "oxford-deut-32-27",
+      "type": "verse",
+      "number": 27,
+      "text": "but I feared provocation by the enemy, for their adversaries might misunderstand and say, “Our hand is triumphant; it was not the Lord who did all this.”"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-19",
+      "type": "commentary",
+      "text": "26–27 : The Song here pivots from judgment of Israel to her vindication at the expense of the foreign invaders.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-20",
+      "type": "commentary",
+      "text": "27 : , God has feelings and vulnerabilities (as at Gen 6.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-deut-32-28",
+      "type": "verse",
+      "number": 28,
+      "text": "They are a nation void of sense; there is no understanding in them."
+    },
+    {
+      "block_id": "oxford-deut-32-29",
+      "type": "verse",
+      "number": 29,
+      "text": "If they were wise, they would understand this; they would discern what the end would be."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-22",
+      "type": "commentary",
+      "text": "28–29 : The foreign nation, like Israel, has failed in wisdom, justifying God’s judgment (see v. 6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-32-30",
+      "type": "verse",
+      "number": 30,
+      "text": "How could one have routed a thousand, and two put a myriad to flight, unless their Rock had sold them, the Lord had given them up?"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-23",
+      "type": "commentary",
+      "text": "30 : Ironically inverts the holy war idea (3.22; 20.1): The enemy is reproached for failing to understand that it owes its triumph over Israel to God rather than force of arms. God will thus punish Israel’s conquerors to preserve his own honor (see 9.25–29; Num 14.13–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-32-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Indeed their rock is not like our Rock; our enemies are fools.a"
+    },
+    {
+      "block_id": "oxford-deut-32-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Their vine comes from the vinestock of Sodom, from the vineyards of Gomorrah; their grapes are grapes of poison, their clusters are bitter;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-24",
+      "type": "commentary",
+      "text": "32 : , here symbolizing moral corruption more than ruinous devastation (cf. 29.23n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-deut-32-33",
+      "type": "verse",
+      "number": 33,
+      "text": "their wine is the poison of serpents, the cruel venom of asps."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-21",
+      "type": "commentary",
+      "text": "28–33 : God’s soliloquy is interrupted by another voice, who refers to God in the third person and speaks on behalf of Israel (vv. 30–31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 28,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-deut-32-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Is not this laid up in store with me, sealed up in my treasuries?"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-25",
+      "type": "commentary",
+      "text": "34 : , the punishment of the foreign nation, which is about to be announced (vv. 35–42). , the formal legal procedures for rolling and then sealing a witnessed deed or contract with wax, so that the unaltered document can subsequently be introduced into court as evidence (Isa 8.16; Jer 32.9–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-deut-32-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Vengeance is mine, and recompense, for the time when their foot shall slip; because the day of their calamity is at hand, their doom comes swiftly."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-26",
+      "type": "commentary",
+      "text": "35 : , better, “vindication,” since the idea is not revenge but justice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-deut-32-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Indeed the Lord will vindicate his people, have compassion on his servants, when he sees that their power is gone, neither bond nor free remaining."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-27",
+      "type": "commentary",
+      "text": "36 : , God will act when no one survives who can take charge or provide assistance (2 Kings 14.26; cf. 1 Kings 14.10; 21.21; 2 Kings 9.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-deut-32-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Then he will say: Where are their gods, the rock in which they took refuge,"
+    },
+    {
+      "block_id": "oxford-deut-32-38",
+      "type": "verse",
+      "number": 38,
+      "text": "who ate the fat of their sacrifices, and drank the wine of their libations? Let them rise up and help you, let them be your protection!"
+    },
+    {
+      "block_id": "oxford-deut-32-39",
+      "type": "verse",
+      "number": 39,
+      "text": "See now that I, even I, am he; there is no god besides me. I kill and I make alive; I wound and I heal; and no one can deliver from my hand."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-28",
+      "type": "commentary",
+      "text": "39 : Similar to exilic Second Isaiah (Isa 41.4; 43.10,13; 44.6; 45.6–7,22; 48.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-deut-32-40",
+      "type": "verse",
+      "number": 40,
+      "text": "For I lift up my hand to heaven, and swear: As I live forever,"
+    },
+    {
+      "block_id": "oxford-deut-32-41",
+      "type": "verse",
+      "number": 41,
+      "text": "when I whet my flashing sword, and my hand takes hold on judgment; I will take vengeance on my adversaries, and will repay those who hate me."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-29",
+      "type": "commentary",
+      "text": "41 : , lit., “returns,” in retributive justice. Thus, gives the wrong idea (see v. 35n.). , treaty language that refers to disloyal action that violates the covenant; thus better translated, “those who reject me” (5.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-deut-32-42",
+      "type": "verse",
+      "number": 42,
+      "text": "I will make my arrows drunk with blood, and my sword shall devour flesh— with the blood of the slain and the captives, from the long‐haired enemy."
+    },
+    {
+      "block_id": "oxford-deut-32-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Praise, O heavens, his people, worship him, all you gods! For he will avenge the blood of his children, and take vengeance on his adversaries; he will repay those who hate him,b and cleanse the land for his people."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-1",
+      "type": "commentary",
+      "text": "31.30–32.43: The Song of Moses. The Song is a late insertion that reflects upon Israel’s history, probably presupposing the Exile. In form it is a revised and expanded prophetic lawsuit (cf. Isa 1; Jer 2; Mic 6; Ps 50) with this structure: introduction and summoning of witnesses (vv. 1–3); accusation (vv. 4–6); recital of God’s loving actions (vv. 7–14); indictment (vv. 15–18); declaration of punishment (vv. 19–25). Yet God interrupts his own judicial sentence to recognize a risk to his honor: Other nations might conclude that Israel’s God was weak should they see Israel destroyed (vv. 26–27). God therefore reverses himself, cancels the punishment, and decides instead to punish Israel’s enemies so as to vindicate Israel (vv. 28–42). The Song concludes with a call for the divine council to praise God for his actions; the call may originate from within the divine council itself (v. 43; similarly Ps 29.1). A prose frame links the Song to Deuteronomy, identifying Moses, otherwise unmentioned, as its speaker (31.30; 32.44).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 1,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-30",
+      "type": "commentary",
+      "text": "43 : The second, fourth, and fifth lines have been reconstructed by NRSV in light of a Dead Sea Scrolls manuscript (4QDeutq) and the LXX, both of which seem to reflect an earlier version of the text than the one preserved by the Heb text (MT). With and , the verse forms an inclusio to “heavens … earth” (v. 1), thus framing the poem and returning the focus to Israel’s impending entry into the promised land. … , better “O heavens, rejoice with him!” , the divine council (v. 8n.; Ps 29.1), probably removed from the MT because of the conflict with monotheism (see vv. 8–9n.). , God as divine blood avenger (cf. 19.6), who removes the stain of Israel’s blood from the land by requiting the aggressor for having spilled it (19.11–13). , since the moral stain on the land can only be “wiped clean” (the word’s literal meaning) with the blood of the murderer (Num 35.33–34; cf. Deut 21.8): here, the foreign nation. God’s position is nonetheless morally ambiguous, since it was he who had sanctioned the foreign invasion as punishment for Israel’s wrongdoing (vv. 19–26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-deut-32-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Moses came and recited all the words of this song in the hearing of the people, he and Joshua son of Nun."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-32",
+      "type": "commentary",
+      "text": "44 : , an inclusio (see 31.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-deut-32-45",
+      "type": "verse",
+      "number": 45,
+      "text": "When Moses had finished reciting all these words to all Israel,"
+    },
+    {
+      "block_id": "oxford-deut-32-46",
+      "type": "verse",
+      "number": 46,
+      "text": "he said to them: “Take to heart all the words that I am giving in witness against you today; give them as a command to your children, so that they may diligently observe all the words of this law."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-34",
+      "type": "commentary",
+      "text": "46 : , the laws of Deuteronomy (31.24); now, following the insertion of the Song, referring to both.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-deut-32-47",
+      "type": "verse",
+      "number": 47,
+      "text": "This is no trifling matter for you, but rather your very life; through it you may live long in the land that you are crossing over the Jordan to possess.”"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-31",
+      "type": "commentary",
+      "text": "32.44–47: Double conclusion to the Song. Two originally separate conclusions joined by Deuteronomy’s editors.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 44,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-33",
+      "type": "commentary",
+      "text": "45–47 : A separate section, the original continuation of 31.29 prior to the insertion of the Song.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 45,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-deut-32-48",
+      "type": "verse",
+      "number": 48,
+      "text": "On that very day the Lord addressed Moses as follows:"
+    },
+    {
+      "block_id": "oxford-deut-32-49",
+      "type": "verse",
+      "number": 49,
+      "text": "“Ascend this mountain of the Abarim, Mount Nebo, which is in the land of Moab, across from Jericho, and view the land of Canaan, which I am giving to the Israelites for a possession;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-36",
+      "type": "commentary",
+      "text": "49 : , as in the Priestly narrative (Num 27.12; 33.47); but, according to the Deuteronomistic tradition, Pisgah (3.27). The two traditions are joined at 34.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-deut-32-50",
+      "type": "verse",
+      "number": 50,
+      "text": "you shall die there on the mountain that you ascend and shall be gathered to your kin, as your brother Aaron died on Mount Hor and was gathered to his kin;"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-37",
+      "type": "commentary",
+      "text": "50 : , a command, “Die … !” This unusual imperative establishes that Moses both lives and dies at God’s command (34.5n.). , buried in a family tomb, where the bones of the generations would be gathered together (2 Kings 8.24; 22.20; cf. 1 Kings 13.31); here used metaphorically, since Moses’s burial place is unknown (34.6). , consistent with the Priestly tradition (Num 20.22–29; 33.37–39); but, in the Deuteronomistic tradition, “Moserah” (10.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 50,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-deut-32-51",
+      "type": "verse",
+      "number": 51,
+      "text": "because both of you broke faith with me among the Israelites at the waters of Meribath‐kadesh in the wilderness of Zin, by failing to maintain my holiness among the Israelites."
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-38",
+      "type": "commentary",
+      "text": "51 : , see Num 20.1–13; cf. 1.37n.; 4.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-deut-32-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Although you may view the land from a distance, you shall not enter it—the land that I am giving to the Israelites.”"
+    },
+    {
+      "block_id": "oxford-deut-32-h1kj-35",
+      "type": "commentary",
+      "text": "32.48–52: Moses commanded to die. This section contains a second version of the Priestly announcement of Moses’s death (Num 27.12–14). The original Priestly announcement was interrupted by Deuteronomy’s insertion into the Pentateuch. The restatement of that announcement here thus reminds the reader where the account left off in Numbers, at which point the narrative continues with the account of Moses’s death (Deut 34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 32
+      },
+      "verse_start": 48,
+      "verse_end": 52
+    }
+  ]
+}

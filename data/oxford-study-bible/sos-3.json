@@ -1,0 +1,319 @@
+{
+  "document_id": "sos-3",
+  "title": "sos 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-sos-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For the Lord honors a father above his children, and he confirms a mother's right over her children."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-2",
+      "type": "commentary",
+      "text": "1–2 : God made the family hierarchical with parents above children. For the father as family head, see 7.23–26. On respect for both parents, see, e.g., Prov 1.8–9; 6.20; 20.20; 23.22; Ex 20.12; 21.15,17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Those who honor their father atone for sins,"
+    },
+    {
+      "block_id": "oxford-sos-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and those who respect their mother are like those who lay up treasure."
+    },
+    {
+      "block_id": "oxford-sos-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Those who honor their father will have joy in their own children, and when they pray they will be heard."
+    },
+    {
+      "block_id": "oxford-sos-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Those who respect their father will have long life, and those who honor their mother obey the Lord;"
+    },
+    {
+      "block_id": "oxford-sos-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "they will serve their parents as their masters."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-3",
+      "type": "commentary",
+      "text": "3–7 : Honoring parents atones (vv. 3,14; as do almsgiving and sacrifice; see 3.30; cf. 28.1–5) and brings (Ex 20.12; Deut 5.16). It thus equals fear of the Lord (1.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Honor your father by word and deed, that his blessing may come upon you."
+    },
+    {
+      "block_id": "oxford-sos-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For a father's blessing strengthens the houses of the children, but a mother's curse uproots their foundations."
+    },
+    {
+      "block_id": "oxford-sos-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Do not glorify yourself by dishonoring your father, for your father's dishonor is no glory to you."
+    },
+    {
+      "block_id": "oxford-sos-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The glory of one's father is one's own glory, and it is a disgrace for children not to respect their mother."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-4",
+      "type": "commentary",
+      "text": "8–11 : For the significance of a father's , see Gen 27.1–29; 48.15–20; 49.1–28. Dishonoring parents brings , that is, shame.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "My child, help your father in his old age, and do not grieve him as long as he lives;"
+    },
+    {
+      "block_id": "oxford-sos-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "even if his mind fails, be patient with him; because you have all your faculties do not despise him."
+    },
+    {
+      "block_id": "oxford-sos-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For kindness to a father will not be forgotten, and will be credited to you against your sins;"
+    },
+    {
+      "block_id": "oxford-sos-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "in the day of your distress it will be remembered in your favor; like frost in fair weather, your sins will melt away."
+    },
+    {
+      "block_id": "oxford-sos-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Whoever forsakes a father is like a blasphemer, and whoever angers a mother is cursed by the Lord."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–16: Duties to parents.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-5",
+      "type": "commentary",
+      "text": "16 : The invoking of emphasizes that true piety is keeping God's commandments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-sos-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "My child, perform your tasks with humility; then you will be loved by those whom God accepts."
+    },
+    {
+      "block_id": "oxford-sos-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The greater you are, the more you must humble yourself; so you will find favor in the sight of the Lord."
+    },
+    {
+      "block_id": "oxford-sos-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "For great is the might of the Lord; but by the humble he is glorified."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-7",
+      "type": "commentary",
+      "text": "17–20 : is a marker of piety (1.27) and so wins God's favor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Neither seek what is too difficult for you, nor investigate what is beyond your power."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-8",
+      "type": "commentary",
+      "text": "21 : may refer to Jewish apocalyptic or Greek philosophical ideas about the secrets of creation; cf. Prov 30.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-sos-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Reflect upon what you have been commanded, for what is hidden is not your concern."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-9",
+      "type": "commentary",
+      "text": "22 : Wisdom and knowledge come from what is (the Torah) and the (v. 29) of the sages, two foundational sources of wisdom for Ben Sira.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Do not meddle in matters that are beyond you, for more than you can understand has been shown you."
+    },
+    {
+      "block_id": "oxford-sos-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For their conceit has led many astray, and wrong opinion has impaired their judgment."
+    },
+    {
+      "block_id": "oxford-sos-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Without eyes there is no light; without knowledge there is no wisdom."
+    },
+    {
+      "block_id": "oxford-sos-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "A stubborn mind will fare badly at the end, and whoever loves danger will perish in it."
+    },
+    {
+      "block_id": "oxford-sos-3-27",
+      "type": "verse",
+      "number": 27,
+      "text": "A stubborn mind will be burdened by troubles, and the sinner adds sin to sins."
+    },
+    {
+      "block_id": "oxford-sos-3-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When calamity befalls the proud, there is no healing, for an evil plant has taken root in him."
+    },
+    {
+      "block_id": "oxford-sos-3-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The mind of the intelligent appreciates proverbs, and an attentive ear is the desire of the wise."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-6",
+      "type": "commentary",
+      "text": "3.17–29: Humility.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-sos-3-30",
+      "type": "verse",
+      "number": 30,
+      "text": "As water extinguishes a blazing fire, so almsgiving atones for sin."
+    },
+    {
+      "block_id": "oxford-sos-3-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Those who repay favors give thought to the future; when they fall they will find support."
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-10",
+      "type": "commentary",
+      "text": "3.30–4.10: Almsgiving.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 30,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-sos-3-h1kj-11",
+      "type": "commentary",
+      "text": "30–31 : , cf. 3.3–4,14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 3
+      },
+      "verse_start": 30,
+      "verse_end": 31
+    }
+  ]
+}

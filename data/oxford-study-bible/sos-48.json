@@ -1,0 +1,385 @@
+{
+  "document_id": "sos-48",
+  "title": "sos 48",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-48-heading-49",
+      "type": "heading",
+      "text": "49"
+    },
+    {
+      "block_id": "oxford-sos-48-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He brought a famine upon them, and by his zeal he made them few in number."
+    },
+    {
+      "block_id": "oxford-sos-48-3",
+      "type": "verse",
+      "number": 3,
+      "text": "By the word of the Lord he shut up the heavens, and also three times brought down fire."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-3",
+      "type": "commentary",
+      "text": "1–3 : 1 Kings 17.1; 18.1–40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sos-48-4",
+      "type": "verse",
+      "number": 4,
+      "text": "How glorious you were, Elijah, in your wondrous deeds! Whose glory is equal to yours?"
+    },
+    {
+      "block_id": "oxford-sos-48-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You raised a corpse from death and from Hades, by the word of the Most High."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , 1 Kings 17.21–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-sos-48-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You sent kings down to destruction, and famous men, from their sickbeds."
+    },
+    {
+      "block_id": "oxford-sos-48-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You heard rebuke at Sinai and judgments of vengeance at Horeb."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-5",
+      "type": "commentary",
+      "text": "7 : , 1 Kings 19.8–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-48-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You anointed kings to inflict retribution, and prophets to succeed you."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , 1 Kings 19.15–16,19–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-sos-48-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You were taken up by a whirlwind of fire, in a chariot with horses of fire."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-7",
+      "type": "commentary",
+      "text": "9 : 2 Kings 2.1–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-48-10",
+      "type": "verse",
+      "number": 10,
+      "text": "At the appointed time, it is written, you are destined to calm the wrath of God before it breaks out in fury, to turn the hearts of parents to their children, and to restore the tribes of Jacob."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-8",
+      "type": "commentary",
+      "text": "10 : , Mal 4.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-48-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Happy are those who saw you and were adorned with your love! For we also shall surely live."
+    },
+    {
+      "block_id": "oxford-sos-48-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When Elijah was enveloped in the whirlwind, Elisha was filled with his spirit. He performed twice as many signs, and marvels with every utterance of his mouth. Never in his lifetime did he tremble before any ruler, nor could anyone intimidate him at all."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-9",
+      "type": "commentary",
+      "text": "12 : 2 Kings 2.1–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-48-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Nothing was too hard for him, and when he was dead, his body prophesied."
+    },
+    {
+      "block_id": "oxford-sos-48-14",
+      "type": "verse",
+      "number": 14,
+      "text": "In his life he did wonders, and in death his deeds were marvelous."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-10",
+      "type": "commentary",
+      "text": "13–14 : 2 Kings 13.20–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-48-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Despite all this the people did not repent, nor did they forsake their sins, until they were carried off as plunder from their land, and were scattered over all the earth. The people were left very few in number, but with a ruler from the house of David."
+    },
+    {
+      "block_id": "oxford-sos-48-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Some of them did what was right, but others sinned more and more."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-2",
+      "type": "commentary",
+      "text": "48.1–16: Elijah and Elisha.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-11",
+      "type": "commentary",
+      "text": "15–16 : An interpretation of the cause of the destruction of the northern kingdom of Israel in the eighth century ; see 2 Kings 18.11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-sos-48-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Hezekiah fortified his city, and brought water into its midst; he tunneled the rock with iron tools, and built cisterns for the water."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-13",
+      "type": "commentary",
+      "text": "17 : 2 Kings 20.20; 2 Chr 32.5–6,30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-48-18",
+      "type": "verse",
+      "number": 18,
+      "text": "In his days Sennacherib invaded the country; he sent his commander and departed; he shook his fist against Zion, and made great boasts in his arrogance."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-15",
+      "type": "commentary",
+      "text": "18 : , the Assyrian king (705–681 ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-48-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then their hearts were shaken and their hands trembled, and they were in anguish, like women in labor."
+    },
+    {
+      "block_id": "oxford-sos-48-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But they called upon the Lord who is merciful, spreading out their hands toward him. The Holy One quickly heard them from heaven, and delivered them through Isaiah."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-14",
+      "type": "commentary",
+      "text": "18–20 : The Assyrian siege of Jerusalem (2 Kings 18–19; Isa 36; 2 Chr 32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 18,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-48-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The Lord struck down the camp of the Assyrians, and his angel wiped them out."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-16",
+      "type": "commentary",
+      "text": "21 : 2 Kings 19.35–37; 2 Chr 32.20–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-sos-48-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For Hezekiah did what was pleasing to the Lord, and he kept firmly to the ways of his ancestor David, as he was commanded by the prophet Isaiah, who was great and trustworthy in his visions."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-17",
+      "type": "commentary",
+      "text": "22 : 2 Kings 18.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-48-23",
+      "type": "verse",
+      "number": 23,
+      "text": "In Isaiah's days the sun went backward, and he prolonged the life of the king."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-18",
+      "type": "commentary",
+      "text": "23 : 2 Kings 20.8–11; Isa 38.7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-sos-48-24",
+      "type": "verse",
+      "number": 24,
+      "text": "By his dauntless spirit he saw the future, and comforted the mourners in Zion."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-19",
+      "type": "commentary",
+      "text": "24 : , Isa 40.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-sos-48-25",
+      "type": "verse",
+      "number": 25,
+      "text": "He revealed what was to occur to the end of time, and the hidden things before they happened."
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-1",
+      "type": "commentary",
+      "text": "44.1–50.24: Praise of Israel's ancestors. A long section in which Ben Sira celebrates significant figures from Israel's past, who were rewarded with a lasting name. He emphasizes covenant along with the offices of prophet, priest, and king, concluding with praise of a contemporary, the high priest Simon II.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 1,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-sos-48-h1kj-12",
+      "type": "commentary",
+      "text": "48.17–25: Hezekiah and Isaiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 48
+      },
+      "verse_start": 17,
+      "verse_end": 25
+    }
+  ]
+}

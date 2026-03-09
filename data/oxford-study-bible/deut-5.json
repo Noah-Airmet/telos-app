@@ -1,0 +1,470 @@
+{
+  "document_id": "deut-5",
+  "title": "Deuteronomy 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Moses convened all Israel, and said to them: Hear, O Israel, the statutes and ordinances that I am addressing to you today; you shall learn them and observe them diligently."
+    },
+    {
+      "block_id": "oxford-deut-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord our God made a covenant with us at Horeb."
+    },
+    {
+      "block_id": "oxford-deut-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Not with our ancestors did the Lord make this covenant, but with us, who are all of us here alive today."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , inconsistent with the earlier emphasis that the generation who experienced these events has now died off (2.14–15). The aim is to overcome the limits of historical time and place through participation in the covenant, which makes revelation “present” (see 4.9n.; 11.2; 29.14–15n.). may refer either to the Exodus generation (2.14–15n.) or to the patriarchs Abraham, Isaac, and Jacob (1.11n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord spoke with you face to face at the mountain, out of the fire."
+    },
+    {
+      "block_id": "oxford-deut-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "(At that time I was standing between the Lord and you to declare to you the words of the Lord; for you were afraid because of the fire and did not go up the mountain.) And he said:"
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–5: Making the past present.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-5",
+      "type": "commentary",
+      "text": "5 : NRSV suggests that the first sentence serves to clarify v. 4. More likely, the statement presents an alternative perspective inconsistent with v. 4. , contrast “face to face” (v. 4). , contradicting v. 4, “with you … at the mountain.” , in Hebrew, the original transition from the end of v. 4 directly to the Decalogue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-deut-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery;"
+    },
+    {
+      "block_id": "oxford-deut-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "you shall have no other gods before me."
+    },
+    {
+      "block_id": "oxford-deut-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You shall not make for yourself an idol, whether in the form of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth."
+    },
+    {
+      "block_id": "oxford-deut-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall not bow down to them or worship them; for I the Lord your God am a jealous God, punishing children for the iniquity of parents, to the third and fourth generation of those who reject me,"
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-8",
+      "type": "commentary",
+      "text": "9 : Punishment for sins against God extends across three generations. This principle of vicarious punishment contrasts sharply with the Israelite norm for civil and criminal law, which restricts punishment to the agent alone (24.16). Later layers of tradition challenged this theological principle of divine justice (see 7.10n.; Jer 31.29–30; Ezek 18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "but showing steadfast love to the thousandth generation of those who love me and keep my commandments."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-7",
+      "type": "commentary",
+      "text": "7–10 : See 4.15–31n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-9",
+      "type": "commentary",
+      "text": "10 : or “grace” (Heb “ḥesed”), loyalty of action as an expectation of the covenant (2 Sam 7.15; Hos 6.6). , technical language of Near Eastern treaties, where “love” refers to the loyalty of action that the vassal owes the sovereign.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "You shall not make wrongful use of the name of the Lord your God, for the Lord will not acquit anyone who misuses his name."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-10",
+      "type": "commentary",
+      "text": "11 : The intent is to prohibit careless use of the divine name in the context of swearing an oath (“May God do X to me unless I do Y”); such oaths were viewed as legally binding (see Judg 11.29–40).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-deut-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Observe the sabbath day and keep it holy, as the Lord your God commanded you."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , contrast Ex 20.8 (“Remember”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Six days you shall labor and do all your work."
+    },
+    {
+      "block_id": "oxford-deut-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the seventh day is a sabbath to the Lord your God; you shall not do any work—you, or your son or your daughter, or your male or female slave, or your ox or your donkey, or any of your livestock, or the resident alien in your towns, so that your male and female slave may rest as well as you."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-12",
+      "type": "commentary",
+      "text": "14 : The law equally benefits slaves and nonIsraelites (1.16n.; 15.15; 16.11; 24.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-deut-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Remember that you were a slave in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm; therefore the Lord your God commanded you to keep the sabbath day."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-13",
+      "type": "commentary",
+      "text": "15 : Contrast the rationale provided for the sabbath at Ex 20.11, where it is associated with the creation of the world. Here it is associated with the origin of Israel as a people. Here also, as elsewhere, Deuteronomy emphasizes the Exodus as a central motivation for religious and social practices.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Honor your father and your mother, as the Lord your God commanded you, so that your days may be long and that it may go well with you in the land that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , the ostensible precise repetition of the Decalogue here diverges from the original (Ex 20.12) by shifting to the perspective of Moses as speaker, whose annotation is now included in the revelation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-deut-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "You shall not murder."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-15",
+      "type": "commentary",
+      "text": "17 : is correct; text note is an inaccurate translation (“kill,” as a global prohibition).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Neither shall you commit adultery."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-16",
+      "type": "commentary",
+      "text": "18 : The absolute prohibition of adultery transforms it from the breach of the contractual rights of the woman’s husband into an offense against both God and the larger community. Near Eastern law normally granted the husband the sole right of deciding whether to execute or otherwise punish the wife for adultery (see §129). Biblical law here removes the wife from the disposal of the husband and grants her the status of legal person (see 22.22n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-deut-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Neither shall you steal."
+    },
+    {
+      "block_id": "oxford-deut-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Neither shall you bear false witness against your neighbor."
+    },
+    {
+      "block_id": "oxford-deut-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Neither shall you covet your neighbor’s wife. Neither shall you desire your neighbor’s house, or field, or male or female slave, or ox, or donkey, or anything that belongs to your neighbor."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-6",
+      "type": "commentary",
+      "text": "5.6–21: The Decalogue. This version differs at several points from that in Ex 20.2–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-17",
+      "type": "commentary",
+      "text": "21 : , contrast the sequence of Ex 20.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "These words the Lord spoke with a loud voice to your whole assembly at the mountain, out of the fire, the cloud, and the thick darkness, and he added no more. He wrote them on two stone tablets, and gave them to me."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-18",
+      "type": "commentary",
+      "text": "22 : , see 4.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "When you heard the voice out of the darkness, while the mountain was burning with fire, you approached me, all the heads of your tribes and your elders;"
+    },
+    {
+      "block_id": "oxford-deut-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "and you said, “Look, the Lord our God has shown us his glory and greatness, and we have heard his voice out of the fire. Today we have seen that God may speak to someone and the person may still live."
+    },
+    {
+      "block_id": "oxford-deut-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "So now why should we die? For this great fire will consume us; if we hear the voice of the Lord our God any longer, we shall die."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-21",
+      "type": "commentary",
+      "text": "24–25 : An awkward juxtaposition; v. 24 may be an insertion reflecting 4.33. The people’s anxiety explains the request that Moses serve as mediator.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-deut-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "For who is there of all flesh that has heard the voice of the living God speaking out of fire, as we have, and remained alive?"
+    },
+    {
+      "block_id": "oxford-deut-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Go near, you yourself, and hear all that the Lord our God will say. Then tell us everything that the Lord our God tells you, and we will listen and do it.”"
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-20",
+      "type": "commentary",
+      "text": "23–27 : 4.33; cf. Ex 20.18–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 23,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-deut-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The Lord heard your words when you spoke to me, and the Lord said to me: “I have heard the words of this people, which they have spoken to you; they are right in all that they have spoken."
+    },
+    {
+      "block_id": "oxford-deut-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "If only they had such a mind as this, to fear me and to keep all my commandments always, so that it might go well with them and with their children forever!"
+    },
+    {
+      "block_id": "oxford-deut-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Go say to them, ‘Return to your tents.’"
+    },
+    {
+      "block_id": "oxford-deut-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "But you, stand here by me, and I will tell you all the commandments, the statutes and the ordinances, that you shall teach them, so that they may do them in the land that I am giving them to possess.”"
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-22",
+      "type": "commentary",
+      "text": "28–31 : The idea that Moses mediates between God and the people will be used in two ways: to justify the laws that Moses subsequently propounds as revelation (chs 12–26) and to justify the institution of prophecy (18.15–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 28,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-deut-5-32",
+      "type": "verse",
+      "number": 32,
+      "text": "You must therefore be careful to do as the Lord your God has commanded you; you shall not turn to the right or to the left."
+    },
+    {
+      "block_id": "oxford-deut-5-33",
+      "type": "verse",
+      "number": 33,
+      "text": "You must follow exactly the path that the Lord your God has commanded you, so that you may live, and that it may go well with you, and that you may live long in the land that you are to possess."
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–33: The revelation of the Decalogue at Sinai/Horeb. Ostensibly a retelling of Ex 19–20, this version introduces significant changes in both detail and theology. The central idea is that God publicly reveals the law to the entire nation across boundaries of gender, ethnicity, and class. Near Eastern legal collections, in contrast, were attributed to a human monarch and were concerned to preserve class distinctions. Moreover, a deity disclosing himself to an entire nation was unprecedented. The Decalogue has God address each Israelite individually using a singular form of “you,” rather than the expected plural form. In contrast to Near Eastern law, the prohibitions are universal and absolute: the aim of the law is to transform society by creating a moral community in which murder, theft, etc. will no longer exist. Obedience to God’s will (vv. 6–16) demands active respect for the integrity of the neighbor (vv. 17–21). The editing drives home the point that there is no access to God or revelation without mediation and interpretation (vv. 5,28–32), preserving two mutually independent viewpoints about whether God spoke directly to the people (v. 4) or only through the mediation of Moses (v. 5n.). Similarly, the editing retains a debate about the terror involved in hearing directly the divine voice (vv. 24–25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-deut-5-h1kj-19",
+      "type": "commentary",
+      "text": "5.22–33: Moses as mediator. While the Decalogue was given directly to the people (v. 4; 4.10–13), the rest of the laws were mediated to the people by Moses, at their plea (v. 27; 4.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 33
+    }
+  ]
+}

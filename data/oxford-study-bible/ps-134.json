@@ -1,0 +1,67 @@
+{
+  "document_id": "ps-134",
+  "title": "Psalms 134",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-134-heading-psalm-135",
+      "type": "heading",
+      "text": "Psalm 135"
+    },
+    {
+      "block_id": "oxford-ps-134-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Come, bless the Lord, all you servants of the Lord, who stand by night in the house of the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-134-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 134: Come, bless the Lord. The final Song of Ascents (see Ps 120n.) is a blessing, similar to the blessings concluding each of the five books of the Psalms. It mentions themes prominent in the collection such as the Temple in Zion and its ceremonies. It is also similar to the opening and closing of the following psalm. The repeated invitation “Bless the ” and the response to it in v. 3 provides structure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 134
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-134-h1kj-2",
+      "type": "commentary",
+      "text": "1 : It is uncertain exactly which group is meant by",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 134
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-134-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Lift up your hands to the holy place, and bless the Lord."
+    },
+    {
+      "block_id": "oxford-ps-134-h1kj-3",
+      "type": "commentary",
+      "text": "2 : ing was the position of prayer in antiquity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 134
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-134-3",
+      "type": "verse",
+      "number": 3,
+      "text": "May the Lord, maker of heaven and earth, bless you from Zion."
+    }
+  ]
+}

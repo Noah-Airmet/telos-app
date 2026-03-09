@@ -1,0 +1,338 @@
+{
+  "document_id": "2-sam-1",
+  "title": "2 Samuel 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-2-sam-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "After the death of Saul, when David had returned from defeating the Amalekites, David remained two days in Ziklag."
+    },
+    {
+      "block_id": "oxford-2-sam-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "On the third day, a man came from Saul’s camp, with his clothes torn and dirt on his head. When he came to David, he fell to the ground and did obeisance."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.2 : Tearing clothes and scattering dust on the head were conventional signs of mourning. , prostrating oneself was a sign of submission to God or the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-2-sam-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "David said to him, “Where have you come from?” He said to him, “I have escaped from the camp of Israel.”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "David said to him, “How did things go? Tell me!” He answered, “The army fled from the battle, but also many of the army fell and died; and Saul and his son Jonathan also died.”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then David asked the young man who was reporting to him, “How do you know that Saul and his son Jonathan died?”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The young man reporting to him said, “I happened to be on Mount Gilboa; and there was Saul leaning on his spear, while the chariots and the horsemen drew close to him."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-3",
+      "type": "commentary",
+      "text": "6 : ’s claim that he in the heat of battle is probably a lie (see v. 10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-2-sam-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When he looked behind him, he saw me, and called to me. I answered, ‘Here sir.’"
+    },
+    {
+      "block_id": "oxford-2-sam-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And he said to me, ‘Who are you?’ I answered him, ‘I am an Amalekite.’"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-4",
+      "type": "commentary",
+      "text": "8 : , David has just come from successfully pursuing Amalekites (1 Sam 30), who are depicted as scavengers. It is ironic that an Amalekite killed Saul, who (according to 1 Sam 15) lost his kingship because he did not kill off the Amalekites. The young man’s Amalekite identity also makes it easy for David to order his execution (v. 15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-2-sam-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He said to me, ‘Come, stand over me and kill me; for convulsions have seized me, and yet my life still lingers.’"
+    },
+    {
+      "block_id": "oxford-2-sam-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "So I stood over him, and killed him, for I knew that he could not live after he had fallen. I took the crown that was on his head and the armlet that was on his arm, and I have brought them here to my lord.”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-5",
+      "type": "commentary",
+      "text": "10 : The Amalekite stripped Saul’s corpse and brought the and , symbols of kingship, to David hoping for a reward.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-2-sam-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then David took hold of his clothes and tore them; and all the men who were with him did the same."
+    },
+    {
+      "block_id": "oxford-2-sam-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "They mourned and wept, and fasted until evening for Saul and for his son Jonathan, and for the army of the Lord and for the house of Israel, because they had fallen by the sword."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-6",
+      "type": "commentary",
+      "text": "12 : Fasting was another sign of mourning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-2-sam-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "David said to the young man who had reported to him, “Where do you come from?” He answered, “I am the son of a resident alien, an Amalekite.”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "David said to him, “Were you not afraid to lift your hand to destroy the Lord’s anointed?”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then David called one of the young men and said, “Come here and strike him down.” So he struck him down and he died."
+    },
+    {
+      "block_id": "oxford-2-sam-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "David said to him, “Your blood be on your head; for your own mouth has testified against you, saying, ‘I have killed the Lord’s anointed.’”"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–16: David learns of the death of Saul and Jonathan. Some scholars think this is a separate tradition of the account in 1 Sam 31, with which it disagrees. Alternatively, the man who brings the news to David changes the story for his own benefit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-7",
+      "type": "commentary",
+      "text": "13–16 : As a , the Amalekite was subject to the same laws as an Israelite citizen, and therefore David holds him responsible for killing",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-2-sam-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "David intoned this lamentation over Saul and his son Jonathan."
+    },
+    {
+      "block_id": "oxford-2-sam-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "(He ordered that The Song of the Bow be taught to the people of Judah; it is written in the Book of Jashar.) He said:"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-9",
+      "type": "commentary",
+      "text": "18 : , the Hebrew has simply “bow.” If not a copyist’s mistake, this may refer to a type of song or a title. , a collection of poems no longer extant (see Josh 10.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-2-sam-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Your glory, O Israel, lies slain upon your high places! How the mighty have fallen!"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-10",
+      "type": "commentary",
+      "text": "19 : , an allusion to Saul and Jonathan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-2-sam-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Tell it not in Gath, proclaim it not in the streets of Ashkelon; or the daughters of the Philistines will rejoice, the daughters of the uncircumcised will exult."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-11",
+      "type": "commentary",
+      "text": "20 : , Philistine cities. , a disparaging term for the Philistines.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-2-sam-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You mountains of Gilboa, let there be no dew or rain upon you, nor bounteous fields! For there the shield of the mighty was defiled, the shield of Saul, anointed with oil no more."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-12",
+      "type": "commentary",
+      "text": "21 : , the site of the battle where Saul and Jonathan were killed. s were made of leather and were to keep them battle‐ready.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-2-sam-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not turn back, nor the sword of Saul return empty."
+    },
+    {
+      "block_id": "oxford-2-sam-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Saul and Jonathan, beloved and lovely! In life and in death they were not divided; they were swifter than eagles, they were stronger than lions."
+    },
+    {
+      "block_id": "oxford-2-sam-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "O daughters of Israel, weep over Saul, who clothed you with crimson, in luxury, who put ornaments of gold on your apparel."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-13",
+      "type": "commentary",
+      "text": "24 : Saul’s reign brought prosperity to Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-2-sam-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "How the mighty have fallen in the midst of the battle! Jonathan lies slain upon your high places."
+    },
+    {
+      "block_id": "oxford-2-sam-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I am distressed for you, my brother Jonathan; greatly beloved were you to me; your love to me was wonderful, passing the love of women."
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-14",
+      "type": "commentary",
+      "text": "26 : expresses the closeness of David’s relationship to Jonathan, but does not necessarily imply a sexual relationship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-2-sam-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "How the mighty have fallen, and the weapons of war perished!"
+    },
+    {
+      "block_id": "oxford-2-sam-1-h1kj-8",
+      "type": "commentary",
+      "text": "1.17–27: David’s elegy over Saul and Jonathan. Some scholars consider plausible the text’s attribution of authorship to David himself.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "2-sam",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 27
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "document_id": "obad-1",
+  "title": "Obadiah 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-obad-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The vision of Obadiah. Thus says the Lord God concerning Edom: We have heard a report from the Lord, and a messenger has been sent among the nations: “Rise up! Let us rise against it for battle!”"
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-1",
+      "type": "commentary",
+      "text": "1a: Superscription. A distinctively prophetic term, also occurs in Isa 1.1 and Nah 1.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-obad-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I will surely make you least among the nations; you shall be utterly despised."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-3",
+      "type": "commentary",
+      "text": "1b–2 : is the classic form of “prophetic messenger speech,” marking the words as those of the deity. Both other nations and God are described as rising up against Edom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-obad-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Your proud heart has deceived you, you that live in the clefts of the rock, whose dwelling is in the heights. You say in your heart, “Who will bring me down to the ground?”"
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-4",
+      "type": "commentary",
+      "text": "3 : Prophetic books frequently condemn the , especially among the nations (Isa 10.12; 13.11,19; 16.6; Jer 48.29; Zeph 2.10; 9.6; Zech 10.11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-obad-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Though you soar aloft like the eagle, though your nest is set among the stars, from there I will bring you down, says the Lord."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-2",
+      "type": "commentary",
+      "text": "1b–4: Edom's pending destruction. These verses closely parallel Jer 49.12–16, although in Jeremiah feminine forms are used to describe Edom. The theme of reversal runs throughout the book: Edom's fortunes have changed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-5",
+      "type": "commentary",
+      "text": "3–4 : : the same Heb word means “rock” (see Ps 137.9) and “Sela,” an Edomite city captured by the Babylonian armies in 552 and linked with the later city of Petra. Repeated pairs of opposites (proud/despised; heights/ground; soar aloft/bring down) underscore the reversal of Edom's fate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-obad-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If thieves came to you, if plunderers by night —how you have been destroyed!— would they not steal only what they wanted? If grape-gatherers came to you, would they not leave gleanings?"
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-7",
+      "type": "commentary",
+      "text": "5 : A difficult verse, suggesting that Edom's loss is beyond that caused by simple thieves. , see Deut 24.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-obad-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "How Esau has been pillaged, his treasures searched out!"
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-8",
+      "type": "commentary",
+      "text": "6 : is described as Jacob's brother and the ancestor of the Edomites in Gen 25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-obad-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "All your allies have deceived you, they have driven you to the border; your confederates have prevailed against you; those who ate your bread have set a trap for you— there is no understanding of it."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-6",
+      "type": "commentary",
+      "text": "5–7: Edom at the hand of the nations. These verses imply that Edom's former allies have begun its devastation, as in Jer 49.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-9",
+      "type": "commentary",
+      "text": "7 : Edom's former and are not named. The Hebrew of this verse is difficult.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-obad-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "On that day, says the Lord, I will destroy the wise out of Edom, and understanding out of Mount Esau."
+    },
+    {
+      "block_id": "oxford-obad-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Your warriors shall be shattered, O Teman, so that everyone from Mount Esau will be cut off."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-10",
+      "type": "commentary",
+      "text": "8–9: Edom at the hand of God. God will complete Edom's devastation , a common prophetic term for “the day of the ” (see v. 15), when God defeats Israel's enemies. Phrases are shared with Jer 49.7, 22. Only Obadiah uses the phrase ; Deut 2.2 speaks instead of “Mount Seir,” the mountainous region on the boundary between Edom and Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-11",
+      "type": "commentary",
+      "text": "9 : refers either to the northern region of Edom (as in Am 1.12) or to Edom as a whole.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-obad-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For the slaughter and violence done to your brother Jacob, shame shall cover you, and you shall be cut off forever."
+    },
+    {
+      "block_id": "oxford-obad-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "On the day that you stood aside, on the day that strangers carried off his wealth, and foreigners entered his gates and cast lots for Jerusalem, you too were like one of them."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , see Joel 3.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-obad-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But you should not have gloated over your brother on the day of his misfortune; you should not have rejoiced over the people of Judah on the day of their ruin; you should not have boasted on the day of distress."
+    },
+    {
+      "block_id": "oxford-obad-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You should not have entered the gate of my people on the day of their calamity; you should not have joined in the gloating over Judah's disaster on the day of his calamity; you should not have looted his goods on the day of his calamity."
+    },
+    {
+      "block_id": "oxford-obad-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You should not have stood at the crossings to cut off his fugitives; you should not have handed over his survivors on the day of distress."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-12",
+      "type": "commentary",
+      "text": "10–14: Edom as treacherous brother. Edom's actions are especially treacherous because Esau/Edom was the brother of Jacob/Judah (Gen 25.7). appears nine times in this unit, apparently referring to the traumatic day of Jerusalem's fall. The accusations against Edom build—that Edom , , , , and finally committed physical acts against fleeing Judeans. Although the NRSV translates 12–14 as , the forms are Heb jussives; see textual note , on the next page. While Ps 137.7 also blames Edomites, claiming they in Jerusalem's destruction, 2 Kings 24.2 blames bands of Arameans, Moabites, and Ammonites for coming up against Jerusalem, with no mention of Edomites. Jeremiah 40.11 indicates that Judeans fleeing the Babylonians had escaped to Moab, Ammon, Edom and elsewhere.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-obad-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "For the day of the Lord is near against all the nations. As you have done, it shall be done to you; your deeds shall return on your own head."
+    },
+    {
+      "block_id": "oxford-obad-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For as you have drunk on my holy mountain, all the nations around you shall drink; they shall drink and gulp down, and shall be as though they had never been."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-15",
+      "type": "commentary",
+      "text": "16 : As in other prophetic books, retribution is depicted as drinking a cup of wrath (Isa 51.17,22; Jer 25.17; Hab 2.16; Zech 12.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-obad-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But on Mount Zion there shall be those that escape, and it shall be holy; and the house of Jacob shall take possession of those who dispossessed them."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , a synonym for Jerusalem, is contrasted with in v. 8. The , here southern Israel (i.e., Judah).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-obad-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The house of Jacob shall be a fire, the house of Joseph a flame, and the house of Esau stubble; they shall burn them and consume them, and there shall be no survivor of the house of Esau; for the Lord has spoken."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-14",
+      "type": "commentary",
+      "text": "15–18: The day of the Lord. Edom's fate will be shared by all hostile nations, as they suffer a reversal of fates on the that God acts to (re)establish justice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-16",
+      "type": "commentary",
+      "text": "17–18 : The reversal of fates will benefit Judah, whose devastation will turn to preeminence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-18",
+      "type": "commentary",
+      "text": "18 : The is Israel, the Northern Kingdom destroyed in 722 . As in Mal 4.1, the day of the will the unrighteous like .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-obad-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Those of the Negeb shall possess Mount Esau, and those of the Shephelah the land of the Philistines; they shall possess the land of Ephraim and the land of Samaria, and Benjamin shall possess Gilead."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-20",
+      "type": "commentary",
+      "text": "19 : Judeans in the will expand eastward to take Edom. Those in the , the western foothills of Judah, will seize territory from the neighboring and then advance northward, first into the tribal territory of and then farther northward to . The southern Judean tribe of will expand eastward across the Jordan River to take the land of .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-obad-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The exiles of the Israelites who are in Halah shall possess Phoenicia as far as Zarephath; and the exiles of Jerusalem who are in Sepharad shall possess the towns of the Negeb."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-21",
+      "type": "commentary",
+      "text": "20 : Survivors of both the Assyrian destruction of the Northern Kingdom in the eighth century and the Babylonian destruction of the Southern Kingdom in the sixth century will return to aid in Judah's territorial expansion. Those exiled to the Assyrian territory of (2 Kings 17.6) will take in Phoenicia, territory never previously possessed by Israel. Those exiled by the Babylonians will return from , location unknown, and possess the , mentioned at the beginning of the unit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-obad-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Those who have been saved shall go up to Mount Zion to rule Mount Esau; and the kingdom shall be the Lord's."
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-19",
+      "type": "commentary",
+      "text": "19–21: Reclamation and expansion of territory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-obad-1-h1kj-22",
+      "type": "commentary",
+      "text": "21 : The concluding verse justifies 's control of (see 17n.), under the auspices of Judah's God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "obad",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    }
+  ]
+}

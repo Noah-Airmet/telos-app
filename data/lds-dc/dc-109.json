@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-109",
+  "title": "Section 109: Dedication of Kirtland Temple",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-109-heading",
+      "type": "heading",
+      "text": "Dedication of Kirtland Temple"
+    },
+    {
+      "block_id": "dc-109-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 109 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 109,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

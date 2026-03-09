@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-69",
+  "title": "Section 69: Oliver Cowdery to carry scriptures",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-69-heading",
+      "type": "heading",
+      "text": "Oliver Cowdery to carry scriptures"
+    },
+    {
+      "block_id": "dc-69-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 69 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 69,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "document_id": "ps-132",
+  "title": "Psalms 132",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-132-heading-psalm-133",
+      "type": "heading",
+      "text": "Psalm 133"
+    },
+    {
+      "block_id": "oxford-ps-132-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, remember in David’s favor all the hardships he endured;"
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 132: Bringing the Davidic king to reign in Zion. A royal psalm narrating in four stanzas David’s desire to be affirmed as king and to transfer the ark‐throne of the to Zion. It may have been written in the tenth century in celebration of the transfer of the ark from its temporary location in Kiriath‐jearim (cf. 1 Sam 6), or during the postexilic period when there was a deep desire to restore the traditional kingship. In vv. 1–5, David swears to provide a dwelling place for the ; in vv. 6–10, the ark is found and taken solemnly to Jerusalem; in vv. 11–13, the swears to give David an eternal dynasty and ratifies the choice of Zion; vv. 14–18 affirm and expand these choices. Each of the four stanzas has five couplets and each contains the name “David”; the last line of each stanza is linked to the first line of the following stanza by repetition (“find/found” in vv. 5 and 6; “David” in vv. 10 and 11; “desired” in vv. 13 and 14). In both structure and content, it is quite atypical of the Songs of Ascents (see Ps 120n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-132-2",
+      "type": "verse",
+      "number": 2,
+      "text": "how he swore to the Lord and vowed to the Mighty One of Jacob,"
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-3",
+      "type": "commentary",
+      "text": "2 : (also v. 5), see Gen 49.24; Isa 1.24; 49.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-132-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“I will not enter my house or get into my bed;"
+    },
+    {
+      "block_id": "oxford-ps-132-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I will not give sleep to my eyes or slumber to my eyelids,"
+    },
+    {
+      "block_id": "oxford-ps-132-5",
+      "type": "verse",
+      "number": 5,
+      "text": "until I find a place for the Lord, a dwelling place for the Mighty One of Jacob.”"
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-2",
+      "type": "commentary",
+      "text": "2–5 : An extensive elaboration of 2 Sam 7.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 2,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-132-6",
+      "type": "verse",
+      "number": 6,
+      "text": "We heard of it in Ephrathah; we found it in the fields of Jaar."
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , near Bethlehem, in Judah. , a variant of Kiriath‐jearim (1 Sam 7.1–2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-132-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“Let us go to his dwelling place; let us worship at his footstool.”"
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-5",
+      "type": "commentary",
+      "text": "6–7 : A poetic version of the discovery of the ark of the covenant, the visible symbol of God’s presence, and its transfer to Jerusalem; cf. 2 Sam 6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-7",
+      "type": "commentary",
+      "text": "7 : The ark was the component of the divine cherubim throne; cf. Ps 99.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-132-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Rise up, O Lord, and go to your resting place, you and the ark of your might."
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-8",
+      "type": "commentary",
+      "text": "8 : Cf. Num 10.35–36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-132-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let your priests be clothed with righteousness, and let your faithful shout for joy."
+    },
+    {
+      "block_id": "oxford-ps-132-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For your servant David’s sake do not turn away the face of your anointed one."
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-4",
+      "type": "commentary",
+      "text": "6–10 : The singer asks that the allow the sacred ark to be brought to Zion (vv. 6–9) and support the Davidic kingship (v. 10; cf. v. 1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 6,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-132-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord swore to David a sure oath from which he will not turn back: “One of the sons of your body I will set on your throne."
+    },
+    {
+      "block_id": "oxford-ps-132-12",
+      "type": "verse",
+      "number": 12,
+      "text": "If your sons keep my covenant and my decrees that I shall teach them, their sons also, forevermore, shall sit on your throne.”"
+    },
+    {
+      "block_id": "oxford-ps-132-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For the Lord has chosen Zion; he has desired it for his habitation:"
+    },
+    {
+      "block_id": "oxford-ps-132-14",
+      "type": "verse",
+      "number": 14,
+      "text": "“This is my resting place forever; here I will reside, for I have desired it."
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-9",
+      "type": "commentary",
+      "text": "11–14 : The first request is answered in vv. 11–12 and the second in vv. 13–14. This is a paraphrase of 1 Sam 7.5–17, though that passage (like Ps 89.28–37) makes an unconditional promise of dynasty to David, while in this psalm (v. 12: ) it is conditional. The choice of Zion, however, is presented as unconditional and eternal (v. 14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 11,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-132-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I will abundantly bless its provisions; I will satisfy its poor with bread."
+    },
+    {
+      "block_id": "oxford-ps-132-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Its priests I will clothe with salvation, and its faithful will shout for joy."
+    },
+    {
+      "block_id": "oxford-ps-132-17",
+      "type": "verse",
+      "number": 17,
+      "text": "There I will cause a horn to sprout up for David; I have prepared a lamp for my anointed one."
+    },
+    {
+      "block_id": "oxford-ps-132-h1kj-10",
+      "type": "commentary",
+      "text": "17 : , a symbol of strength. , cf. 2 Sam 21.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 132
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ps-132-18",
+      "type": "verse",
+      "number": 18,
+      "text": "His enemies I will clothe with disgrace, but on him, his crown will gleam.”"
+    }
+  ]
+}

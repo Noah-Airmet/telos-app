@@ -1,0 +1,230 @@
+{
+  "document_id": "twochr-1",
+  "title": "twochr 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twochr-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Solomon son of David established himself in his kingdom; the Lord his God was with him and made him exceedingly great."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-2",
+      "type": "commentary",
+      "text": "1 : Solomon ruled ca. 968–928 . When Solomon took office, he immediately and enjoyed the 's blessings. There was no need to pacify, eliminate, or exile his domestic foes (contrast 1 Kings 1–2) because David had already consolidated support for Solomon (1 Chr 23–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-twochr-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Solomon summoned all Israel, the commanders of the thousands and of the hundreds, the judges, and all the leaders of all Israel, the heads of families."
+    },
+    {
+      "block_id": "oxford-twochr-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Solomon, and the whole assembly with him, went to the high place that was at Gibeon; for God’s tent of meeting, which Moses the servant of the Lord had made in the wilderness, was there."
+    },
+    {
+      "block_id": "oxford-twochr-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "(But David had brought the ark of God up from Kiriath‐jearim to the place that David had prepared for it; for he had pitched a tent for it in Jerusalem.)"
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-4",
+      "type": "commentary",
+      "text": "4 : See 1 Chr 13; 15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-twochr-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Moreover the bronze altar that Bezalel son of Uri, son of Hur, had made, was there in front of the tabernacle of the Lord. And Solomon and the assembly inquired at it."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-5",
+      "type": "commentary",
+      "text": "5 : On and the , cf. Ex 27.1–8; 31.1; 1 Chr 2.20. The emphasis here is on continuity and the Jerusalem Temple as the realization of older ritual traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-twochr-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Solomon went up there to the bronze altar before the Lord, which was at the tent of meeting, and offered a thousand burnt offerings on it."
+    },
+    {
+      "block_id": "oxford-twochr-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "That night God appeared to Solomon, and said to him, “Ask what I should give you.”"
+    },
+    {
+      "block_id": "oxford-twochr-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Solomon said to God, “You have shown great and steadfast love to my father David, and have made me succeed him as king."
+    },
+    {
+      "block_id": "oxford-twochr-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "O Lord God, let your promise to my father David now be fulfilled, for you have made me king over a people as numerous as the dust of the earth."
+    },
+    {
+      "block_id": "oxford-twochr-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Give me now wisdom and knowledge to go out and come in before this people, for who can rule this great people of yours?”"
+    },
+    {
+      "block_id": "oxford-twochr-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "God answered Solomon, “Because this was in your heart, and you have not asked for possessions, wealth, honor, or the life of those who hate you, and have not even asked for long life, but have asked for wisdom and knowledge for yourself that you may rule my people over whom I have made you king,"
+    },
+    {
+      "block_id": "oxford-twochr-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "wisdom and knowledge are granted to you. I will also give you riches, possessions, and honor, such as none of the kings had who were before you, and none after you shall have the like.”"
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-6",
+      "type": "commentary",
+      "text": "11–12 : The divine gifts of unprecedented , as well as and set the tone and tenor of Solomon's reign. Nevertheless, the theme of Solomon's wisdom is not as pronounced in Chronicles as it is in Kings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-twochr-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So Solomon came from the high place at Gibeon, from the tent of meeting, to Jerusalem. And he reigned over Israel."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-3",
+      "type": "commentary",
+      "text": "2–13 : The support of military, local, and civil officials enables the nation to embark on major new initiatives in a harmonious fashion (1 Chr 11.1–3; 13.1–4; 23.1–2; 28.1; 29.1–25). In this case, the author transforms a story about Solomon's private pilgrimage to the high place at Gibeon (1 Kings 3.3–15) into a national pilgrimage, adding that the tent of meeting (see Ex 38–39) was located at Gibeon (1 Chr 16.39–42). This type of addition, which harmonizes a variety of earlier texts, typifies Chronicles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-twochr-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Solomon gathered together chariots and horses; he had fourteen hundred chariots and twelve thousand horses, which he stationed in the chariot cities and with the king in Jerusalem."
+    },
+    {
+      "block_id": "oxford-twochr-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The king made silver and gold as common in Jerusalem as stone, and he made cedar as plentiful as the sycamore of the Shephelah."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-8",
+      "type": "commentary",
+      "text": "15 : , the foothills between the coastal plain and the Judean hill country.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-twochr-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Solomon’s horses were imported from Egypt and Kue; the king’s traders received them from Kue at the prevailing price."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-9",
+      "type": "commentary",
+      "text": "16 : , in Cilicia, in southern Asia Minor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-twochr-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "They imported from Egypt, and then exported, a chariot for six hundred shekels of silver, and a horse for one hundred fifty; so through them these were exported to all the kings of the Hittites and the kings of Aram."
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–17: Solomon takes charge, journeys to Gibeon, and prospers. Solomon rules an Israel unified and unhampered by internal factions or strife. Solomon's legitimacy is stressed by repeated references to him as David's rightful successor and king by divine choice (1 Chr 17.11; 23.1; 28.6; 29.23–25; 2 Chr 1.1; 6.10; 7.17–18). The Chronicler presents the United Monarchy as the time when Israel's authoritative institutions took shape. The idealized presentation of David and Solomon effectively establishes a model by which later periods are judged.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-7",
+      "type": "commentary",
+      "text": "14–17 : These verses, drawn from 1 Kings 10.26–29, illustrate that God's promises to Solomon at Gibeon are being realized. The rearrangement of earlier sources is typical of the Chronicler.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twochr-1-h1kj-10",
+      "type": "commentary",
+      "text": "17 : A weighed about 0.4 oz (11.5 gr ). The ruled over northern Syria; was southern Syria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twochr",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "document_id": "jer-17",
+  "title": "Jeremiah 17",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-17-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The sin of Judah is written with an iron pen; with a diamond point it is engraved on the tablet of their hearts, and on the horns of their altars,"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-5",
+      "type": "commentary",
+      "text": "1 : , a rare phrase; cf. Ezek 3.9; Zech 7.12; Job 19.24. : Elsewhere, the Torah is written on the human heart (30.14) and on stone tablets (Ex 24.12; 31.18), but now their sinfulness is so engraved. The human heart represented the center of resolve and will (cf. 31.33; Prov 3.3). , protrusions at each of the four corners of a cut-stone altar, symbolizing divine strength and functioning to hold in place the wood and animal parts. Sanctuary could be gained by seizing the horns; see 7.4n. This language is also commonly associated with mercy and forgiveness of sins (see, e.g., Ex 29.12; 30.10; Lev 4.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-jer-17-2",
+      "type": "verse",
+      "number": 2,
+      "text": "while their children remember their altars and their sacred poles, beside every green tree, and on the high hills,"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , Heb “ʾasherim,” sacred trees to honor the Canaanite mother-goddess Asherah; see, e.g., Ex 34.13; 2 Kings 21.7; 23.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jer-17-3",
+      "type": "verse",
+      "number": 3,
+      "text": "on the mountains in the open country. Your wealth and all your treasures I will give for spoil as the price of your sin throughout all your territory."
+    },
+    {
+      "block_id": "oxford-jer-17-4",
+      "type": "verse",
+      "number": 4,
+      "text": "By your own act you shall lose the heritage that I gave you, and I will make you serve your enemies in a land that you do not know, for in my anger a fire is kindled that shall burn forever."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-4",
+      "type": "commentary",
+      "text": "1–4 : Israel's intransigence is likened to an engraver writing on rock; cf. Job 19.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-7",
+      "type": "commentary",
+      "text": "3–4 : A variant of 15.13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jer-17-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Thus says the Lord: Cursed are those who trust in mere mortals and make mere flesh their strength, whose hearts turn away from the Lord."
+    },
+    {
+      "block_id": "oxford-jer-17-6",
+      "type": "verse",
+      "number": 6,
+      "text": "They shall be like a shrub in the desert, and shall not see when relief comes. They shall live in the parched places of the wilderness, in an uninhabited salt land."
+    },
+    {
+      "block_id": "oxford-jer-17-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Blessed are those who trust in the Lord, whose trust is the Lord."
+    },
+    {
+      "block_id": "oxford-jer-17-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They shall be like a tree planted by water, sending out its roots by the stream. It shall not fear when heat comes, and its leaves shall stay green; in the year of drought it is not anxious, and it does not cease to bear fruit."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-8",
+      "type": "commentary",
+      "text": "5–8 : A curse and accompanying blessing, linked to the theme of drought in vv. 6 and 8; cf. similar imagery in Ps 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-17-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The heart is devious above all else; it is perverse— who can understand it?"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-10",
+      "type": "commentary",
+      "text": "9 : (Heb “ʿaqob”), a play on the name “Jacob” (Heb “yaʿaqob”); see 9.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-jer-17-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I the Lord test the mind and search the heart, to give to all according to their ways, according to the fruit of their doings."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-9",
+      "type": "commentary",
+      "text": "9–10 : God discerns hidden motives and treats humans impartially. See Pss 11.5; 44.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-11",
+      "type": "commentary",
+      "text": "10 : See 11.20. , Heb “lev,” lit., “heart,” the place of rational reflection. , Heb “kilayot,” lit., “kidneys,” the seat of strong emotion and feeling; see Pss 7.9; 26.2; 73.21; Prov 23.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jer-17-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Like the partridge hatching what it did not lay, so are all who amass wealth unjustly; in mid-life it will leave them, and at their end they will prove to be fools."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-12",
+      "type": "commentary",
+      "text": "11 : A wisdom saying.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jer-17-12",
+      "type": "verse",
+      "number": 12,
+      "text": "O glorious throne, exalted from the beginning, shrine of our sanctuary!"
+    },
+    {
+      "block_id": "oxford-jer-17-13",
+      "type": "verse",
+      "number": 13,
+      "text": "O hope of Israel! O Lord! All who forsake you shall be put to shame; those who turn away from you shall be recorded in the underworld, for they have forsaken the fountain of living water, the Lord."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-13",
+      "type": "commentary",
+      "text": "12–13 : Another voice, perhaps a priestly representative, reaffirms the truth of the sages (17.1–4,5–8) that those who from God, (see 2.13), will suffer disgrace.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jer-17-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Heal me, O Lord, and I shall be healed; save me, and I shall be saved; for you are my praise."
+    },
+    {
+      "block_id": "oxford-jer-17-15",
+      "type": "verse",
+      "number": 15,
+      "text": "See how they say to me, “Where is the word of the Lord? Let it come!”"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-15",
+      "type": "commentary",
+      "text": "15 : , the prophetic oracle of judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-17-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But I have not run away from being a shepherd in your service, nor have I desired the fatal day. You know what came from my lips; it was before your face."
+    },
+    {
+      "block_id": "oxford-jer-17-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Do not become a terror to me; you are my refuge in the day of disaster;"
+    },
+    {
+      "block_id": "oxford-jer-17-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Let my persecutors be shamed, but do not let me be shamed; let them be dismayed, but do not let me be dismayed; bring on them the day of disaster; destroy them with double destruction!"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-3",
+      "type": "commentary",
+      "text": "17.1–18: Various oracles on the theme of the drought. Fragments brought together under the theme established in 14.1, these oracles present a collage of coming judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-14",
+      "type": "commentary",
+      "text": "17.14–18: Jeremiah's third complaint (see 11.18–12.6n.). Many formal elements of the lament are attested: a petition for help (v. 14), a motivation (v. 15), which includes a declaration of innocence (vv. 15–16), an affirmation of trust (v. 17), and an appeal for retribution (v. 18). The expression of praise is missing, as is a divine response.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 14,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-16",
+      "type": "commentary",
+      "text": "18 : , see 16.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-17-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Thus said the Lord to me: Go and stand in the People's Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,"
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-18",
+      "type": "commentary",
+      "text": "19 : , location unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-jer-17-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and say to them: Hear the word of the Lord, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates."
+    },
+    {
+      "block_id": "oxford-jer-17-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Thus says the Lord: For the sake of your lives, take care that you do not bear a burden on the sabbath day or bring it in by the gates of Jerusalem."
+    },
+    {
+      "block_id": "oxford-jer-17-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And do not carry a burden out of your houses on the sabbath or do any work, but keep the sabbath day holy, as I commanded your ancestors."
+    },
+    {
+      "block_id": "oxford-jer-17-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Yet they did not listen or incline their ear; they stiffened their necks and would not hear or receive instruction."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-19",
+      "type": "commentary",
+      "text": "23 : See 7.26,28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-jer-17-24",
+      "type": "verse",
+      "number": 24,
+      "text": "But if you listen to me, says the Lord, and bring in no burden by the gates of this city on the sabbath day, but keep the sabbath day holy and do no work on it,"
+    },
+    {
+      "block_id": "oxford-jer-17-25",
+      "type": "verse",
+      "number": 25,
+      "text": "then there shall enter by the gates of this city kings who sit on the throne of David, riding in chariots and on horses, they and their officials, the people of Judah and the inhabitants of Jerusalem; and this city shall be inhabited forever."
+    },
+    {
+      "block_id": "oxford-jer-17-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And people shall come from the towns of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of the Lord."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-20",
+      "type": "commentary",
+      "text": "26 : , the regions surrounding Jerusalem to the north, west, and south; see also 32.44; 33.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-jer-17-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But if you do not listen to me, to keep the sabbath day holy, and to carry in no burden through the gates of Jerusalem on the sabbath day, then I will kindle a fire in its gates; it shall devour the palaces of Jerusalem and shall not be quenched."
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–17.27: Accusation and lament. The unit has three parts: 11.1–12.17; 13.1–15.21; and 16.1–17.27. Each begins with a prose sermon or prose account that highlights divine judgment, followed by one or more laments (11.18–12.13; 15.15–21; 17.14–18). This juxtaposition creates a degree of narrative coherence. At God's command, Jeremiah challenges aspects of Israel's cherished beliefs, traditions, and institutions; the people retaliate, determined to silence God's voice; and Jeremiah cries out to God for justice, declaring his innocence and his adversaries’ culpability.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-2",
+      "type": "commentary",
+      "text": "16.1–17.27: The end of ordinary life. Although the third and final section of the larger literary unit (11.1–17.27) is diverse and fragmented, it has several unifying features. Like earlier sections, it begins with a prose discourse (16.1–18) that triggers responses, including laments. In this case, the section also ends with a prose piece (17.19–27). Jeremiah 16.1–17.27 continues to focus on facets of uprooting and tearing down Judah's preexilic world (1.10), a world that had already ended for the writers and first readers of Jeremiah. The literary unit addresses the pressing questions of survivors— why their world had collapsed, what it meant, and how they could cope in their dangerous new world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-17",
+      "type": "commentary",
+      "text": "17.19–27: A command to honor the sabbath. The prose sermon envisions the wellbeing of the nation dependent upon its devotion to the sabbath (see Ex 20.8–11; Deut 5.12–16). If the text is exilic or postexilic (see, e.g., Isa 56.1–8; Ezek 46.1–3; Neh 13.15–22), as most scholars argue, it attributes the destruction of Jerusalem to Judah's failure to keep the sabbath. By concluding the larger literary unit with this prose sermon, the Jeremiah tradition creates a framework for the montage of voices and interprets Judah's massive losses as a consequence of breaking the covenant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 19,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-17-h1kj-21",
+      "type": "commentary",
+      "text": "27 : , cf. 15.14; 17.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 17
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

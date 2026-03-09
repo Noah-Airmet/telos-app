@@ -26,7 +26,7 @@ export interface CompareUnit {
 export interface TelosDocument {
   document_id: string;
   title: string;
-  type: "scripture" | "study-bible" | "commentary";
+  type: "scripture" | "study-bible" | "commentary" | "essay";
   translation: string;
   blocks: Block[];
   compare_units?: CompareUnit[];

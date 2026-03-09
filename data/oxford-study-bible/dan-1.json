@@ -1,0 +1,314 @@
+{
+  "document_id": "dan-1",
+  "title": "Daniel 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-dan-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In the third year of the reign of King Jehoiakim of Judah, King Nebuchadnezzar of Babylon came to Jerusalem and besieged it."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-2",
+      "type": "commentary",
+      "text": "1 : is 606 (see 2 Chr 36.5–7), but Nebuchadnezzar ruled from 605–562 (see 2 Kings 24–25; 1 Chr 6; 2 Chr 36; Jer 25.1; 27–29). He did not capture Jerusalem until 597, during the reign of Jehoiachin, son of Jehoiakim. The dating formula may harmonize information in 2 Chr 36 with the account in 2 Kings 24.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-dan-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord let King Jehoiakim of Judah fall into his power, as well as some of the vessels of the house of God. These he brought to the land of Shinar, and placed the vessels in the treasury of his gods."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : The , not Nebuchadnezzar, is the agent. , ancient name for Babylon (Gen 10.10; 11.2; Josh 7.21; Isa 11.11; Zech 5.11), associated with pride. (see ch 5; 2 Kings 24.13; 25.13–15; 2 Chr 36.7,10). , Marduk, the Babylonian creator god, and Marduk's son Nabu (or Nebo; see Isa 46.1), whose name is used in Nebuchadnezzar's own name.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-dan-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then the king commanded his palace master Ashpenaz to bring some of the Israelites of the royal family and of the nobility,"
+    },
+    {
+      "block_id": "oxford-dan-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "young men without physical defect and handsome, versed in every branch of wisdom, endowed with knowledge and insight, and competent to serve in the king's palace; they were to be taught the literature and language of the Chaldeans."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : refers to the purity laws concerning priests (Lev 21.17–23) or to good appearance (2 Sam 14.25). , educated for royal service. , Babylonians. The of the Chaldeans is the corpus of Babylonian divination and astrology texts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-dan-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The king assigned them a daily portion of the royal rations of food and wine. They were to be educated for three years, so that at the end of that time they could be stationed in the king's court."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , kings often gave generous food rations to their courtiers in return for loyalty, a practice particularly prominent under Persian monarchs.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-dan-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Among them were Daniel, Hananiah, Mishael, and Azariah, from the tribe of Judah."
+    },
+    {
+      "block_id": "oxford-dan-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The palace master gave them other names: Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.3–7: Jews in the court of the foreign king. Conquered peoples were often brought into the king's court and provided with training and food to promote assimilation. Many Judean exiles were noble born (see 2 Kings 24.14–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-7",
+      "type": "commentary",
+      "text": "6–7 : The Jewish youths are given court names that may refer to other gods such as Mithra (“Meshach”), and Nebo (“nego”). Name changes and double names were part of life in a foreign court (Gen 41.45; 2 Kings 24.17; Esth 2.7), but these are probably unintentional distortions of actual Babylonian- and Persian-period names.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-dan-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But Daniel resolved that he would not defile himself with the royal rations of food and wine; so he asked the palace master to allow him not to defile himself."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-9",
+      "type": "commentary",
+      "text": "8 , refers to ritual concerns. The king's food may include items prohibited by the Torah or sacrificed to idols, but the problem is not clear. Refusing gentile food is a way to resist royal authority and assert religious identity (Tob 1.10–11; Esth 14.17; 1 Macc 1.62–63; Jdt 12.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-dan-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Now God allowed Daniel to receive favor and compassion from the palace master."
+    },
+    {
+      "block_id": "oxford-dan-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The palace master said to Daniel, “I am afraid of my lord the king; he has appointed your food and your drink. If he should see you in poorer condition than the other young men of your own age, you would endanger my head with the king.”"
+    },
+    {
+      "block_id": "oxford-dan-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then Daniel asked the guard whom the palace master had appointed over Daniel, Hananiah, Mishael, and Azariah:"
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , Daniel approaches the guard in private, perhaps to protect the palace master.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-dan-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“Please test your servants for ten days. Let us be given vegetables to eat and water to drink."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , may be a standard period for testing (Rev 2.10). , lit., “seeds.” Daniel's diet of vegetables and water has no biblical basis, but contrasts with the royal meat and wine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-dan-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You can then compare our appearance with the appearance of the young men who eat the royal rations, and deal with your servants according to what you observe.”"
+    },
+    {
+      "block_id": "oxford-dan-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So he agreed to this proposal and tested them for ten days."
+    },
+    {
+      "block_id": "oxford-dan-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "At the end of ten days it was observed that they appeared better and fatter than all the young men who had been eating the royal rations."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-12",
+      "type": "commentary",
+      "text": "15 : Daniel's diet proves better than the king's royal rations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-dan-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "So the guard continued to withdraw their royal rations and the wine they were to drink, and gave them vegetables."
+    },
+    {
+      "block_id": "oxford-dan-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "To these four young men God gave knowledge and skill in every aspect of literature and wisdom; Daniel also had insight into all visions and dreams."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-8",
+      "type": "commentary",
+      "text": "1.8–17: Daniel's resistance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-13",
+      "type": "commentary",
+      "text": "17 : God's power, not Nebuchadnezzar's training, gives the men knowledge in the divinatory arts. , Daniel's skill likens him to Joseph (Gen 39–50).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-dan-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "At the end of the time that the king had set for them to be brought in, the palace master brought them into the presence of Nebuchadnezzar,"
+    },
+    {
+      "block_id": "oxford-dan-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and the king spoke with them. And among them all, no one was found to compare with Daniel, Hananiah, Mishael, and Azariah; therefore they were stationed in the king's court."
+    },
+    {
+      "block_id": "oxford-dan-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "In every matter of wisdom and understanding concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters in his whole kingdom."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-15",
+      "type": "commentary",
+      "text": "20 : , experts in dream interpretation (2.2; Gen 41.8,24; see also Ex 7.11,22; 8.7,8–19; 9.11). , diagnosed and treated illnesses caused by evil spirits.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-dan-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And Daniel continued there until the first year of King Cyrus."
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–21: The Babylonian exile. Chapter 1, which is in Hebrew, introduces the book's theme of divine sovereignty and its main characters, Daniel and the Jewish courtiers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-dan-1-h1kj-14",
+      "type": "commentary",
+      "text": "1.18–21: The Jewish courtiers are promoted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 21
+    }
+  ]
+}

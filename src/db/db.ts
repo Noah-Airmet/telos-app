@@ -108,7 +108,7 @@ export interface StudyIndexEntry {
 export interface TelosDocument {
   document_id: string;
   title: string;
-  type: "scripture" | "study-bible" | "commentary";
+  type: "scripture" | "study-bible" | "commentary" | "essay";
   translation: string;
   edition_family?: string;
   work_id?: string;
@@ -239,6 +239,7 @@ export interface ReadingPaneState {
   profile: string | null;
   book_id: string | null;
   chapter: number;
+  document_id?: string | null;
   sync_group_id?: string | null;
   linked_to_pane_id?: string | null;
   show_comparison_diffs?: boolean;

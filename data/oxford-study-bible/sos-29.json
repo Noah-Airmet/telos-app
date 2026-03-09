@@ -1,0 +1,283 @@
+{
+  "document_id": "sos-29",
+  "title": "sos 29",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-29-heading-30",
+      "type": "heading",
+      "text": "30"
+    },
+    {
+      "block_id": "oxford-sos-29-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Lend to your neighbor in his time of need; repay your neighbor when a loan falls due."
+    },
+    {
+      "block_id": "oxford-sos-29-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Keep your promise and be honest with him, and on every occasion you will find what you need."
+    },
+    {
+      "block_id": "oxford-sos-29-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Many regard a loan as a windfall, and cause trouble to those who help them."
+    },
+    {
+      "block_id": "oxford-sos-29-5",
+      "type": "verse",
+      "number": 5,
+      "text": "One kisses another's hands until he gets a loan, and is deferential in speaking of his neighbor's money; but at the time for repayment he delays, and pays back with empty promises, and finds fault with the time."
+    },
+    {
+      "block_id": "oxford-sos-29-6",
+      "type": "verse",
+      "number": 6,
+      "text": "If he can pay, his creditor will hardly get back half, and will regard that as a windfall. If he cannot pay, the borrowerd has robbed the other of his money, and he has needlessly made him an enemy; he will repay him with curses and reproaches, and instead of glory will repay him with dishonor."
+    },
+    {
+      "block_id": "oxford-sos-29-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Many refuse to lend, not because of meanness, but from fear of being defrauded needlessly."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-2",
+      "type": "commentary",
+      "text": "1–7 : Biblical law regulates lending and taking of interest, which could not be exacted from Israelites (Ex 22.25; Lev 25.36–37; Deut 15.7–11; 23.19–20; 24.10–13). Ben Sira's warnings about possible default on loans reflect his ethic of caution (cf. 8.12–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-29-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Nevertheless, be patient with someone in humble circumstances, and do not keep him waiting for your alms."
+    },
+    {
+      "block_id": "oxford-sos-29-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Help the poor for the commandment's sake, and in their need do not send them away empty-handed."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-4",
+      "type": "commentary",
+      "text": "9 : , Deut 15.7–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-29-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Lose your silver for the sake of a brother or a friend, and do not let it rust under a stone and be lost."
+    },
+    {
+      "block_id": "oxford-sos-29-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Lay up your treasure according to the commandments of the Most High, and it will profit you more than gold."
+    },
+    {
+      "block_id": "oxford-sos-29-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Store up almsgiving in your treasury, and it will rescue you from every disaster;"
+    },
+    {
+      "block_id": "oxford-sos-29-13",
+      "type": "verse",
+      "number": 13,
+      "text": "better than a stout shield and a sturdy spear, it will fight for you against the enemy."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-3",
+      "type": "commentary",
+      "text": "8–13 : In addition to storing up (cf. Mt 6.19–20), giving atones for sins (3.30), brings God's favor (17.22), works like sacrifice (35.4), and rescues from trouble (40.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 8,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-29-14",
+      "type": "verse",
+      "number": 14,
+      "text": "A good person will be surety for his neighbor, but the one who has lost all sense of shame will fail him."
+    },
+    {
+      "block_id": "oxford-sos-29-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Do not forget the kindness of your guarantor, for he has given his life for you."
+    },
+    {
+      "block_id": "oxford-sos-29-16",
+      "type": "verse",
+      "number": 16,
+      "text": "A sinner wastes the property of his guarantor,"
+    },
+    {
+      "block_id": "oxford-sos-29-17",
+      "type": "verse",
+      "number": 17,
+      "text": "and the ungrateful person abandons his rescuer."
+    },
+    {
+      "block_id": "oxford-sos-29-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Being surety has ruined many who were prosperous, and has tossed them about like waves of the sea; it has driven the influential into exile, and they have wandered among foreign nations."
+    },
+    {
+      "block_id": "oxford-sos-29-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The sinner comes to grief through surety; his pursuit of gain involves him in lawsuits."
+    },
+    {
+      "block_id": "oxford-sos-29-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Assist your neighbor to the best of your ability, but be careful not to fall yourself."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-1",
+      "type": "commentary",
+      "text": "29.1–20: Loans, alms, and surety.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-5",
+      "type": "commentary",
+      "text": "14–20 : , see 8.12–13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 14,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-29-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The necessities of life are water, bread, and clothing, and also a house to assure privacy."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-7",
+      "type": "commentary",
+      "text": "21 : See 39.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-sos-29-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Better is the life of the poor under their own crude roof than sumptuous food in the house of others."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-8",
+      "type": "commentary",
+      "text": "22 : The have something but often live on the verge of destitution. See 40.28n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-29-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Be content with little or much, and you will hear no reproach for being a guest."
+    },
+    {
+      "block_id": "oxford-sos-29-24",
+      "type": "verse",
+      "number": 24,
+      "text": "It is a miserable life to go from house to house; as a guest you should not open your mouth;"
+    },
+    {
+      "block_id": "oxford-sos-29-25",
+      "type": "verse",
+      "number": 25,
+      "text": "you will play the host and provide drink without being thanked, and besides this you will hear rude words like these:"
+    },
+    {
+      "block_id": "oxford-sos-29-26",
+      "type": "verse",
+      "number": 26,
+      "text": "“Come here, stranger, prepare the table; let me eat what you have there.”"
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-9",
+      "type": "commentary",
+      "text": "25–26 : As a one might be treated more like a servant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 25,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-29-27",
+      "type": "verse",
+      "number": 27,
+      "text": "“Be off, stranger, for an honored guest is here; my brother has come for a visit, and I need the guest-room.”"
+    },
+    {
+      "block_id": "oxford-sos-29-28",
+      "type": "verse",
+      "number": 28,
+      "text": "It is hard for a sensible person to bear scolding about lodging and the insults of the moneylender."
+    },
+    {
+      "block_id": "oxford-sos-29-h1kj-6",
+      "type": "commentary",
+      "text": "29.21–28: Depending on others. Exceeding one's resources results in dependence that brings shame.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 29
+      },
+      "verse_start": 21,
+      "verse_end": 28
+    }
+  ]
+}

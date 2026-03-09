@@ -1,0 +1,319 @@
+{
+  "document_id": "reve-1",
+  "title": "reve 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-reve-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "who testified to the word of God and to the testimony of Jesus Christ, even to all that he saw."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : can be understood both as testimony given by Jesus Christ and as testimony about Jesus Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-reve-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Blessed is the one who reads aloud the words of the prophecy, and blessed are those who hear and who keep what is written in it; for the time is near."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–3: The prologue. The chain of transmission comes from God through Jesus Christ, as communicated to John by an angel (referred to again in 22.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the first of seven beatitudes in the book of Revelation (cf. 14.13; 16.15; 19.9; 20.6; 22.7,14) is pronounced on the reader of this prophetic book and on those who hear it read and who heed its message. In antiquity, texts were commonly read aloud even among those who were literate. (repeated in 22.10) motivates obedience by announcing the imminence of the accomplishment of God's plan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,"
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-6",
+      "type": "commentary",
+      "text": "4 : (see 2 Thess 1.2), combining the conventional Gk and Heb salutations, though John offers not his own greetings but those of God; , literally (according to the idiosyncratic Gk usage of the book) “the being … the was … the coming.” The seven spirits are either a symbolic reference to the manifold energies of the spirit of God (Isa 11.2), or a reference to the seven principal angels of God (Tob 12.15; 20.1–8). Seven, the number of completion (of the days of creation in Gen 1.1–2.4a; of a ritual in Lev 4.6; of divine punishment in Lev 26.27–28) or wholeness, is the most important symbolic number in the book of Revelation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us and freed us from our sins by his blood,"
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , Jesus is the model for Christians who died as “witnesses” (2.13; 11.7; 17.6). , Ps 89.27. He continually; he us once for all by his death (Rom 6.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and made us to be a kingdom, priests serving his God and Father, to him be glory and dominion forever and ever. Amen."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , the vocation promised to Israel (Ex 19.6; Isa 61.6) is extended to the followers of Jesus (1 Pet 2.9). , Dan 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-reve-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Look! He is coming with the clouds; every eye will see him, even those who pierced him; and on his account all the tribes of the earth will wail. So it is to be. Amen."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-9",
+      "type": "commentary",
+      "text": "7 : Dan 7.13; Zech 12.10–12. , a formal affirmation of this prophetic oracle announcing the coming of Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-reve-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“I am the Alpha and the Omega,” says the Lord God, who is and who was and who is to come, the Almighty."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-5",
+      "type": "commentary",
+      "text": "1.4–8: Epistolary salutation to seven representative Christian communities in the Roman province of Asia (in western Asia Minor, present-day Turkey). , a number associated with heavenly realities, suggests the divine authority of the message delivered by John.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-10",
+      "type": "commentary",
+      "text": "8 : , the first and last letters of the Gk alphabet (like “A” and “Z” in English); hence, the beginning and end of all things (see v. 17; 22.13; Isa 44.6; 48.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I, John, your brother who share with you in Jesus the persecution and the kingdom and the patient endurance, was on the island called Patmos because of the word of God and the testimony of Jesus."
+    },
+    {
+      "block_id": "oxford-reve-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I was in the spirit on the Lord's day, and I heard behind me a loud voice like a trumpet"
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-12",
+      "type": "commentary",
+      "text": "10 : , in a temporary condition of altered consciousness, a state of prophetic ecstasy (also 4.2; Ezek 2.2). , the weekly day of Christian worship, Sunday.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "saying, “Write in a book what you see and send it to the seven churches, to Ephesus, to Smyrna, to Pergamum, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.”"
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , see 2.1–3.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-reve-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then I turned to see whose voice it was that spoke to me, and on turning I saw seven golden lampstands,"
+    },
+    {
+      "block_id": "oxford-reve-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "and in the midst of the lampstands I saw one like the Son of Man, clothed with a long robe and with a golden sash across his chest."
+    },
+    {
+      "block_id": "oxford-reve-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "His head and his hair were white as white wool, white as snow; his eyes were like a flame of fire,"
+    },
+    {
+      "block_id": "oxford-reve-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "his feet were like burnished bronze, refined as in a furnace, and his voice was like the sound of many waters."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-15",
+      "type": "commentary",
+      "text": "13–15 : , Dan 10.5; , Dan 7.10; , Dan 10.6; , Dan 10.6; , a frequent accompaniment of theophanies; see Pss 29.3; 93.4; Ezek 1.24; 43.2; cf. Dan 10.6. The figure is a combination of attributes of the heavenly messenger from Dan 10 and the Ancient One from Dan 7. (cf. 19.15,21), the word of God (Isa 49.2; cf. Heb 4.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-reve-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "In his right hand he held seven stars, and from his mouth came a sharp, two-edged sword, and his face was like the sun shining with full force."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-14",
+      "type": "commentary",
+      "text": "12–16 : In the midst of the churches (see v. 20) stands the exalted Christ, whose royalty, eternity, wisdom, and immutability are suggested by means of symbols; the effect is that of terrifying majesty (cf. v. 17 with Isa 6.5). , reminiscent of those that stood in the wilderness tabernacle and in the Jerusalem Temple (cf. Zech 4.1–14). (cf. 14.14; Mk 2.10), a title Jesus used of himself in the Gospels, had two meanings: a typical human being in accordance with a common extended meaning of “son of” (see Mt 5.45); and a reference to the heavenly figure of Dan 7.13–14 who was to embody God's rule over the nations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-reve-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When I saw him, I fell at his feet as though dead. But he placed his right hand on me, saying, “Do not be afraid; I am the first and the last,"
+    },
+    {
+      "block_id": "oxford-reve-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and the living one. I was dead, and see, I am alive forever and ever; and I have the keys of Death and of Hades."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-16",
+      "type": "commentary",
+      "text": "18 : , used here with its synonym , is the abode of the dead; Jesus has the keys to release those confined within its gates (Mt 16.18; Jn 5.25–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-reve-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Now write what you have seen, what is, and what is to take place after this."
+    },
+    {
+      "block_id": "oxford-reve-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches."
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-11",
+      "type": "commentary",
+      "text": "1.9–20: Inaugural vision and commission on Patmos, an island in the Aegean Sea where John found himself (see Introduction), ca. 55 mi (90 km) southwest of Ephesus (see on p. ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-reve-1-h1kj-17",
+      "type": "commentary",
+      "text": "20 : , hidden meanings that human beings cannot grasp without the assistance of divine revelation (Rev 1.20; 10.7; 17.5,7; Dan 2.29,45). Angel guardians are assigned to the seven churches, as also to nations (Dan 10.20–21; 12.1) and individuals (Dan 11.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "document_id": "rom-10",
+  "title": "Romans 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-rom-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-rom-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I can testify that they have a zeal for God, but it is not enlightened."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-2",
+      "type": "commentary",
+      "text": "10.2 : , lit., “not according to knowledge.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-rom-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For, being ignorant of the righteousness that comes from God, and seeking to establish their own, they have not submitted to God's righteousness."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-3",
+      "type": "commentary",
+      "text": "3 : resonates with Paul's claim that is a power; see 6.14n.; 8.10. See also 1.16–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-rom-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For Christ is the end of the law so that there may be righteousness for everyone who believes."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-1",
+      "type": "commentary",
+      "text": "9.30–10.4: Israel's misunderstanding.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , although can mean either “cessation” or “goal,” here it likely means the latter, as 8.3–4 suggests; see also 3.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-rom-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Moses writes concerning the righteousness that comes from the law, that “the person who does these things will live by them.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-6",
+      "type": "commentary",
+      "text": "5 : Lev 18.5. As he does elsewhere (e.g., Gal 3.11–12), Paul criticizes the notion that life comes from works of law; see also 3.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-rom-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But the righteousness that comes from faith says, “Do not say in your heart, ‘Who will ascend into heaven?’” (that is, to bring Christ down)"
+    },
+    {
+      "block_id": "oxford-rom-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“or ‘Who will descend into the abyss?’” (that is, to bring Christ up from the dead)."
+    },
+    {
+      "block_id": "oxford-rom-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But what does it say? “The word is near you, on your lips and in your heart” (that is, the word of faith that we proclaim);"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-7",
+      "type": "commentary",
+      "text": "6–8 : Paul personifies , and has it speaking words that paraphrase Moses’ words in Deut 9.4; 30.11–14. The use of , which replaces Deuteronomy's phrase “cross to the other side of the sea,” shows that Paul is using Moses’ words to reference the events of Christ's death and resurrection. This confirms Paul's point in 10.4 that Christ is the “end” (i.e., goal) of the law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-rom-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "because if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+    },
+    {
+      "block_id": "oxford-rom-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For one believes with the heart and so is justified, and one confesses with the mouth and so is saved."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-8",
+      "type": "commentary",
+      "text": "9–10 : , probably refers to salvation at the last judgment; see 5.9n. is a form of the same Gk word as “righteousness.” , lit., “for salvation.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-rom-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The scripture says, “No one who believes in him will be put to shame.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-9",
+      "type": "commentary",
+      "text": "11 : Isa 28.16 (LXX).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-rom-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For there is no distinction between Jew and Greek; the same Lord is Lord of all and is generous to all who call on him."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , see also 3.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-rom-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For, “Everyone who calls on the name of the Lord shall be saved.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-5",
+      "type": "commentary",
+      "text": "10.5–13: Righteousness that comes by faith.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-11",
+      "type": "commentary",
+      "text": "13 : Joel 2.32. In Joel, refers to God, but Paul's use of this citation makes “Lord” refer to Jesus Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-rom-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But how are they to call on one in whom they have not believed? And how are they to believe in one of whom they have never heard? And how are they to hear without someone to proclaim him?"
+    },
+    {
+      "block_id": "oxford-rom-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And how are they to proclaim him unless they are sent? As it is written, “How beautiful are the feet of those who bring good news!”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-13",
+      "type": "commentary",
+      "text": "15 : Isa 52.17; , lit., “evangelize good things.” The Gk verb translated “evangelize” has the same stem as the noun translated “gospel.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-rom-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But not all have obeyed the good news; for Isaiah says, “Lord, who has believed our message?”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , see 1.5. Isa 53.1 (LXX).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-rom-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So faith comes from what is heard, and what is heard comes through the word of Christ."
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-15",
+      "type": "commentary",
+      "text": "17 : likely means “the message about Christ”; see textual note .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-rom-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "But I ask, have they not heard? Indeed they have; for “Their voice has gone out to all the earth, and their words to the ends of the world.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-16",
+      "type": "commentary",
+      "text": "18 : Ps 19.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-rom-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Again I ask, did Israel not understand? First Moses says, “I will make you jealous of those who are not a nation; with a foolish nation I will make you angry.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-17",
+      "type": "commentary",
+      "text": "19 : Deut 32.21; that is, non-Jews; cf. 9.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-rom-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then Isaiah is so bold as to say, “I have been found by those who did not seek me; I have shown myself to those who did not ask for me.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-18",
+      "type": "commentary",
+      "text": "20 : Isa 65.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-rom-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But of Israel he says, “All day long I have held out my hands to a disobedient and contrary people.”"
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-12",
+      "type": "commentary",
+      "text": "10.14–21: Israel's deafness to the word of Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-rom-10-h1kj-19",
+      "type": "commentary",
+      "text": "21 : Isa 65.2; “held out my hands” indicates God's continual invitation to Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 10
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    }
+  ]
+}

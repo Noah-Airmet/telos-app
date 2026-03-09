@@ -1,0 +1,146 @@
+{
+  "document_id": "zech-13",
+  "title": "Zechariah 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-zech-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "On that day a fountain shall be opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and impurity."
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1 : Those who might have incurred corpse defilement during mourning will be cleansed by water from . On purification from such uncleanness, see Num 19. The may be related to the motif of a river flowing from the Temple; cf. Zech 14.8; Ps 46.4 Ezek 47.1–12; Joel 3.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-zech-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "On that day, says the Lord of hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more; and also I will remove from the land the prophets and the unclean spirit."
+    },
+    {
+      "block_id": "oxford-zech-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And if any prophets appear again, their fathers and mothers who bore them will say to them, “You shall not live, for you speak lies in the name of the Lord”; and their fathers and their mothers who bore them shall pierce them through when they prophesy."
+    },
+    {
+      "block_id": "oxford-zech-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "On that day the prophets will be ashamed, every one, of their visions when they prophesy; they will not put on a hairy mantle in order to deceive,"
+    },
+    {
+      "block_id": "oxford-zech-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "but each of them will say, “I am no prophet, I am a tiller of the soil; for the land has been my possession since my youth.”"
+    },
+    {
+      "block_id": "oxford-zech-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And if anyone asks them, “What are these wounds on your chest?” the answer will be “The wounds I received in the house of my friends.”"
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-3",
+      "type": "commentary",
+      "text": "2–6 : Prophecy is viewed as negatively as idolatry, subject to punishment by death. Unlike the rebellious son, whom parents are to bring before the legal assembly (Deut 21.18–21), parents here can kill their prophetic offspring immediately.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-4",
+      "type": "commentary",
+      "text": "4–6 : , a garment, as in Gen 25.25, that symbolizes deception. quotes Am 7.14. Prophetic , cf. 1 Kings 18.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-zech-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“Awake, O sword, against my shepherd, against the man who is my associate,” says the Lord of hosts. Strike the shepherd, that the sheep may be scattered; I will turn my hand against the little ones."
+    },
+    {
+      "block_id": "oxford-zech-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "In the whole land, says the Lord, two-thirds shall be cut off and perish, and one-third shall be left alive."
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-6",
+      "type": "commentary",
+      "text": "8 : On imagery of refining, see Isa 1.25–26; Mal 3.2–4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-zech-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And I will put this third into the fire, refine them as one refines silver, and test them as gold is tested. They will call on my name, and I will answer them. I will say, “They are my people”; and they will say, “The Lord is our God.”"
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-1",
+      "type": "commentary",
+      "text": "12.1–14.21: The second “Oracle.” See 9.1–11.17n. Divine oracles and prophetic sayings about the imminent day of the , referred to as “that day.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-5",
+      "type": "commentary",
+      "text": "13.7–9: A personified sword. A poem using imagery similar to 11.17. The fractional destruction is similar to that in Ezek 5.1–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 7,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-zech-13-h1kj-7",
+      "type": "commentary",
+      "text": "9 : expresses the covenantal relationship (cf. Ex 6.7; Hos 2.23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 13
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    }
+  ]
+}

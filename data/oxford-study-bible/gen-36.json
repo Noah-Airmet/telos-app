@@ -1,0 +1,452 @@
+{
+  "document_id": "gen-36",
+  "title": "Genesis 36",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-36-1",
+      "type": "verse",
+      "number": 1,
+      "text": "These are the descendants of Esau (that is, Edom)."
+    },
+    {
+      "block_id": "oxford-gen-36-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Esau took his wives from the Canaanites: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah son of Zibeon the Hivite,"
+    },
+    {
+      "block_id": "oxford-gen-36-2-commentary-1",
+      "type": "commentary",
+      "text": "Sam Gk Syr: Heb daughter",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-36-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and Basemath, Ishmael’s daughter, sister of Nebaioth."
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-8",
+      "type": "commentary",
+      "text": "2–3 : Though this note agrees with other Priestly material in stressing his intermarriage with foreigners, the names or parentage of Esau’s wives are different here (cf. 26.34–35; 28.8–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-gen-36-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Adah bore Eliphaz to Esau; Basemath bore Reuel;"
+    },
+    {
+      "block_id": "oxford-gen-36-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan."
+    },
+    {
+      "block_id": "oxford-gen-36-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then Esau took his wives, his sons, his daughters, and all the members of his household, his cattle, all his livestock, and all the property he had acquired in the land of Canaan; and he moved to a land some distance from his brother Jacob."
+    },
+    {
+      "block_id": "oxford-gen-36-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For their possessions were too great for them to live together; the land where they were staying could not support them because of their livestock."
+    },
+    {
+      "block_id": "oxford-gen-36-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So Esau settled in the hill country of Seir; Esau is Edom."
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-9",
+      "type": "commentary",
+      "text": "6–8 : Echoes the (non‐Priestly) story of Abraham’s split from Lot (13.2–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-gen-36-9",
+      "type": "verse",
+      "number": 9,
+      "text": "These are the descendants of Esau, ancestor of the Edomites, in the hill country of Seir."
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-11",
+      "type": "commentary",
+      "text": "9 : The repeated introduction (cf. 36.1) may indicate that an earlier Priestly overview of Esau’s descendants began here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-gen-36-10",
+      "type": "verse",
+      "number": 10,
+      "text": "These are the names of Esau’s sons: Eliphaz son of Adah the wife of Esau; Reuel, the son of Esau’s wife Basemath."
+    },
+    {
+      "block_id": "oxford-gen-36-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz."
+    },
+    {
+      "block_id": "oxford-gen-36-12",
+      "type": "verse",
+      "number": 12,
+      "text": "(Timna was a concubine of Eliphaz, Esau’s son; she bore Amalek to Eliphaz.) These were the sons of Adah, Esau’s wife."
+    },
+    {
+      "block_id": "oxford-gen-36-13",
+      "type": "verse",
+      "number": 13,
+      "text": "These were the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These were the sons of Esau’s wife, Basemath."
+    },
+    {
+      "block_id": "oxford-gen-36-14",
+      "type": "verse",
+      "number": 14,
+      "text": "These were the sons of Esau’s wife Oholibamah, daughter of Anah son of Zibeon: she bore to Esau Jeush, Jalam, and Korah."
+    },
+    {
+      "block_id": "oxford-gen-36-14-commentary-2",
+      "type": "commentary",
+      "text": "Gk Syr: Heb daughter",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-10",
+      "type": "commentary",
+      "text": "9–14 : A list of Esau’s descendants organized by the mother (cf. 35.23–26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-gen-36-15",
+      "type": "verse",
+      "number": 15,
+      "text": "These are the clans of the sons of Esau. The sons of Eliphaz the firstborn of Esau: the clansc Teman, Omar, Zepho, Kenaz,"
+    },
+    {
+      "block_id": "oxford-gen-36-15-commentary-3",
+      "type": "commentary",
+      "text": "Or chiefs",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-gen-36-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Korah, Gatam, and Amalek; these are the clansc of Eliphaz in the land of Edom; they are the sons of Adah."
+    },
+    {
+      "block_id": "oxford-gen-36-17",
+      "type": "verse",
+      "number": 17,
+      "text": "These are the sons of Esau’s son Reuel: the clansc Nahath, Zerah, Shammah, and Mizzah; these are the clansc of Reuel in the land of Edom; they are the sons of Esau’s wife Basemath."
+    },
+    {
+      "block_id": "oxford-gen-36-18",
+      "type": "verse",
+      "number": 18,
+      "text": "These are the sons of Esau’s wife Oholibamah: the clansc Jeush, Jalam, and Korah; these are the clansc born of Esau’s wife Oholibamah, the daughter of Anah."
+    },
+    {
+      "block_id": "oxford-gen-36-19",
+      "type": "verse",
+      "number": 19,
+      "text": "These are the sons of Esau (that is, Edom), and these are their clans.c"
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-12",
+      "type": "commentary",
+      "text": "15–19 : A list of clans of the sons of Esau that diverges slightly from vv. 9–14 in its list of offspring of Eliphaz (cf. 36.11 and 15–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 15,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-gen-36-20",
+      "type": "verse",
+      "number": 20,
+      "text": "These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,"
+    },
+    {
+      "block_id": "oxford-gen-36-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Dishon, Ezer, and Dishan; these are the clansc of the Horites, the sons of Seir in the land of Edom."
+    },
+    {
+      "block_id": "oxford-gen-36-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The sons of Lotan were Hori and Heman; and Lotan’s sister was Timna."
+    },
+    {
+      "block_id": "oxford-gen-36-23",
+      "type": "verse",
+      "number": 23,
+      "text": "These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam."
+    },
+    {
+      "block_id": "oxford-gen-36-24",
+      "type": "verse",
+      "number": 24,
+      "text": "These are the sons of Zibeon: Aiah and Anah; he is the Anah who found the springs in the wilderness, as he pastured the donkeys of his father Zibeon."
+    },
+    {
+      "block_id": "oxford-gen-36-24-commentary-4",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 24
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-gen-36-25",
+      "type": "verse",
+      "number": 25,
+      "text": "These are the children of Anah: Dishon and Oholibamah daughter of Anah."
+    },
+    {
+      "block_id": "oxford-gen-36-26",
+      "type": "verse",
+      "number": 26,
+      "text": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran."
+    },
+    {
+      "block_id": "oxford-gen-36-27",
+      "type": "verse",
+      "number": 27,
+      "text": "These are the sons of Ezer: Bilhan, Zaavan, and Akan."
+    },
+    {
+      "block_id": "oxford-gen-36-28",
+      "type": "verse",
+      "number": 28,
+      "text": "These are the sons of Dishan: Uz and Aran."
+    },
+    {
+      "block_id": "oxford-gen-36-29",
+      "type": "verse",
+      "number": 29,
+      "text": "These are the clansc of the Horites: the clansc Lotan, Shobal, Zibeon, Anah,"
+    },
+    {
+      "block_id": "oxford-gen-36-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Dishon, Ezer, and Dishan; these are the clansc of the Horites, clan by clan in the land of Seir."
+    },
+    {
+      "block_id": "oxford-gen-36-30-commentary-5",
+      "type": "commentary",
+      "text": "Or chief by chief",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-13",
+      "type": "commentary",
+      "text": "20–30 : A list of clans of Horite inhabitants of Seir (see 14.6), which may have been originally understood as a region in Transjordan different from Edom. Deuteronomy 2.12,22 describes Esau (Edom) as having expelled the Horites from Seir.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 20,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-gen-36-31",
+      "type": "verse",
+      "number": 31,
+      "text": "These are the kings who reigned in the land of Edom, before any king reigned over the Israelites."
+    },
+    {
+      "block_id": "oxford-gen-36-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Bela son of Beor reigned in Edom, the name of his city being Dinhabah."
+    },
+    {
+      "block_id": "oxford-gen-36-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Bela died, and Jobab son of Zerah of Bozrah succeeded him as king."
+    },
+    {
+      "block_id": "oxford-gen-36-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Jobab died, and Husham of the land of the Temanites succeeded him as king."
+    },
+    {
+      "block_id": "oxford-gen-36-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Husham died, and Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king, the name of his city being Avith."
+    },
+    {
+      "block_id": "oxford-gen-36-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Hadad died, and Samlah of Masrekah succeeded him as king."
+    },
+    {
+      "block_id": "oxford-gen-36-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Samlah died, and Shaul of Rehoboth on the Euphrates succeeded him as king."
+    },
+    {
+      "block_id": "oxford-gen-36-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Shaul died, and Baal‐hanan son of Achbor succeeded him as king."
+    },
+    {
+      "block_id": "oxford-gen-36-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Baal‐hanan son of Achbor died, and Hadar succeeded him as king, the name of his city being Pau; his wife’s name was Mehetabel, the daughter of Matred, daughter of Me‐zahab."
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-14",
+      "type": "commentary",
+      "text": "31–39 : A list of early kings of Edom (see Num 20.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 31,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-gen-36-40",
+      "type": "verse",
+      "number": 40,
+      "text": "These are the names of the clans of Esau, according to their families and their localities by their names: the clansa Timna, Alvah, Jetheth,"
+    },
+    {
+      "block_id": "oxford-gen-36-40-commentary-6",
+      "type": "commentary",
+      "text": "Or chiefs",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36,
+        "verse": 40
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-gen-36-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Oholibamah, Elah, Pinon,"
+    },
+    {
+      "block_id": "oxford-gen-36-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Kenaz, Teman, Mibzar,"
+    },
+    {
+      "block_id": "oxford-gen-36-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Magdiel, and Iram; these are the clansa of Edom (that is, Esau, the father of Edom), according to their settlements in the land that they held."
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-7",
+      "type": "commentary",
+      "text": "36.1–43: Overview of the descendants of Esau and prior inhabitants of Edom/Seir. Cf. 25.12–18. Before the narrative goes into detail on the descendants of Jacob (37.2–50.26), it gives an overview (largely Priestly) of the descendants of Esau, the firstborn son of Isaac.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 1,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-gen-36-h1kj-15",
+      "type": "commentary",
+      "text": "40–43 : A list of a slightly different kind of clan group (Heb “ʾalup”) in Edom that partially overlaps with names occurring in 36.9–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 36
+      },
+      "verse_start": 40,
+      "verse_end": 43
+    }
+  ]
+}

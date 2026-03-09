@@ -1,0 +1,355 @@
+{
+  "document_id": "phil-2",
+  "title": "Philippians 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-phil-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-phil-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "make my joy complete: be of the same mind, having the same love, being in full accord and of one mind."
+    },
+    {
+      "block_id": "oxford-phil-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do nothing from selfish ambition or conceit, but in humility regard others as better than yourselves."
+    },
+    {
+      "block_id": "oxford-phil-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let each of you look not to your own interests, but to the interests of others."
+    },
+    {
+      "block_id": "oxford-phil-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the same mind be in you that was in Christ Jesus,"
+    },
+    {
+      "block_id": "oxford-phil-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "who, though he was in the form of God, did not regard equality with God as something to be exploited,"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-2",
+      "type": "commentary",
+      "text": "6 : , may refer to divine status, or simply preexistence as a heavenly being (Dan 7.13), or Adam's original immortality (Wis 2.23–24), which Christ renounced by becoming subject to death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-phil-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "but emptied himself, taking the form of a slave, being born in human likeness. And being found in human form,"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-3",
+      "type": "commentary",
+      "text": "7 : , the extreme limit of self-denial.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-phil-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "he humbled himself and became obedient to the point of death— even death on a cross."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-4",
+      "type": "commentary",
+      "text": "8 : Mt 26.39; Jn 10.18; Rom 5.19; Heb 5.8; 12.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-phil-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Therefore God also highly exalted him and gave him the name that is above every name,"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-5",
+      "type": "commentary",
+      "text": "9 : , in raising him from the dead. is Lord.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-phil-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "so that at the name of Jesus every knee should bend, in heaven and on earth and under the earth,"
+    },
+    {
+      "block_id": "oxford-phil-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-6",
+      "type": "commentary",
+      "text": "10–11 : Cf. Isa 45.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-phil-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Therefore, my beloved, just as you have always obeyed me, not only in my presence, but much more now in my absence, work out your own salvation with fear and trembling;"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-7",
+      "type": "commentary",
+      "text": "12 : , a frequent biblical expression (Ex 15.16; Deut 2.25; Ps 2.11; Isa 19.6; 4 Macc 4.10) that had become a commonplace (1 Cor 2.3; 2 Cor 7.15; Eph 6.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-phil-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "for it is God who is at work in you, enabling you both to will and to work for his good pleasure."
+    },
+    {
+      "block_id": "oxford-phil-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Do all things without murmuring and arguing,"
+    },
+    {
+      "block_id": "oxford-phil-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "so that you may be blameless and innocent, children of God without blemish in the midst of a crooked and perverse generation, in which you shine like stars in the world."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-8",
+      "type": "commentary",
+      "text": "15 : , Dan 12.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-phil-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "It is by your holding fast to the word of life that I can boast on the day of Christ that I did not run in vain or labor in vain."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-9",
+      "type": "commentary",
+      "text": "16 : , see 1.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-phil-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But even if I am being poured out as a libation over the sacrifice and the offering of your faith, I am glad and rejoice with all of you—"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-10",
+      "type": "commentary",
+      "text": "17 : Paul's possible death is compared to a temple sacrifice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-phil-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and in the same way you also must be glad and rejoice with me."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-1",
+      "type": "commentary",
+      "text": "1.27–4.1: Appeal to unity, followed by examples. 2.1–18: First example: self-emptying of Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-phil-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "I hope in the Lord Jesus to send Timothy to you soon, so that I may be cheered by news of you."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-12",
+      "type": "commentary",
+      "text": "19 : , Acts 16.1–3; 1 Cor 16.10–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-phil-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "I have no one like him who will be genuinely concerned for your welfare."
+    },
+    {
+      "block_id": "oxford-phil-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "All of them are seeking their own interests, not those of Jesus Christ."
+    },
+    {
+      "block_id": "oxford-phil-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But Timothy's worth you know, how like a son with a father he has served with me in the work of the gospel."
+    },
+    {
+      "block_id": "oxford-phil-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I hope therefore to send him as soon as I see how things go with me;"
+    },
+    {
+      "block_id": "oxford-phil-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "and I trust in the Lord that I will also come soon."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-13",
+      "type": "commentary",
+      "text": "24 : , an argument against Rome as place of writing (see Rom 15.23–25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-phil-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Still, I think it necessary to send to you Epaphroditus—my brother and co-worker and fellow soldier, your messenger and minister to my need;"
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-14",
+      "type": "commentary",
+      "text": "25 : , apostle and coworker of Paul who brought the gift from Philippi (4.18), now being sent home.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-phil-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "for he has been longing for all of you, and has been distressed because you heard that he was ill."
+    },
+    {
+      "block_id": "oxford-phil-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "He was indeed so ill that he nearly died. But God had mercy on him, and not only on him but on me also, so that I would not have one sorrow after another."
+    },
+    {
+      "block_id": "oxford-phil-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "I am the more eager to send him, therefore, in order that you may rejoice at seeing him again, and that I may be less anxious."
+    },
+    {
+      "block_id": "oxford-phil-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Welcome him then in the Lord with all joy, and honor such people,"
+    },
+    {
+      "block_id": "oxford-phil-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "because he came close to death for the work of Christ, risking his life to make up for those services that you could not give me."
+    },
+    {
+      "block_id": "oxford-phil-2-h1kj-11",
+      "type": "commentary",
+      "text": "2.19–3.1a: Second example: Timothy and Epaphroditus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "phil",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 30
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "document_id": "job-31",
+  "title": "Job 31",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-31-2",
+      "type": "verse",
+      "number": 2,
+      "text": "What would be my portion from God above, and my heritage from the Almighty on high?"
+    },
+    {
+      "block_id": "oxford-job-31-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Does not calamity befall the unrighteous, and disaster the workers of iniquity?"
+    },
+    {
+      "block_id": "oxford-job-31-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Does he not see my ways, and number all my steps?"
+    },
+    {
+      "block_id": "oxford-job-31-5",
+      "type": "verse",
+      "number": 5,
+      "text": "“If I have walked with falsehood, and my foot has hurried to deceit—"
+    },
+    {
+      "block_id": "oxford-job-31-6",
+      "type": "verse",
+      "number": 6,
+      "text": "let me be weighed in a just balance, and let God know my integrity!—"
+    },
+    {
+      "block_id": "oxford-job-31-7",
+      "type": "verse",
+      "number": 7,
+      "text": "if my step has turned aside from the way, and my heart has followed my eyes, and if any spot has clung to my hands;"
+    },
+    {
+      "block_id": "oxford-job-31-8",
+      "type": "verse",
+      "number": 8,
+      "text": "then let me sow, and another eat; and let what grows for me be rooted out."
+    },
+    {
+      "block_id": "oxford-job-31-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“If my heart has been enticed by a woman, and I have lain in wait at my neighbor’s door;"
+    },
+    {
+      "block_id": "oxford-job-31-10",
+      "type": "verse",
+      "number": 10,
+      "text": "then let my wife grind for another, and let other men kneel over her."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-6",
+      "type": "commentary",
+      "text": "9–10 : In Job’s world, a man’s adultery with a married woman is an offense against the woman’s husband, so the punishment he would deserve is to suffer the multiple adultery of other men with his wife after she had become a prostitute. The verb has a sexual overtone.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-job-31-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For that would be a heinous crime; that would be a criminal offense;"
+    },
+    {
+      "block_id": "oxford-job-31-12",
+      "type": "verse",
+      "number": 12,
+      "text": "for that would be a fire consuming down to Abaddon, and it would burn to the root all my harvest."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-7",
+      "type": "commentary",
+      "text": "12 : , the abode of the dead (see 26.6n).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-job-31-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“If I have rejected the cause of my male or female slaves, when they brought a complaint against me;"
+    },
+    {
+      "block_id": "oxford-job-31-14",
+      "type": "verse",
+      "number": 14,
+      "text": "what then shall I do when God rises up? When he makes inquiry, what shall I answer him?"
+    },
+    {
+      "block_id": "oxford-job-31-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Did not he who made me in the womb make them? And did not one fashion us in the womb?"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-8",
+      "type": "commentary",
+      "text": "13–15 : Job goes far beyond the obligations of his time in admitting that slaves have any rights and in affirming their common humanity with him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-job-31-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“If I have withheld anything that the poor desired, or have caused the eyes of the widow to fail,"
+    },
+    {
+      "block_id": "oxford-job-31-17",
+      "type": "verse",
+      "number": 17,
+      "text": "or have eaten my morsel alone, and the orphan has not eaten from it—"
+    },
+    {
+      "block_id": "oxford-job-31-18",
+      "type": "verse",
+      "number": 18,
+      "text": "for from my youth I reared the orphan like a father, and from my mother’s womb I guided the widow—"
+    },
+    {
+      "block_id": "oxford-job-31-19",
+      "type": "verse",
+      "number": 19,
+      "text": "if I have seen anyone perish for lack of clothing, or a poor person without covering,"
+    },
+    {
+      "block_id": "oxford-job-31-20",
+      "type": "verse",
+      "number": 20,
+      "text": "whose loins have not blessed me, and who was not warmed with the fleece of my sheep;"
+    },
+    {
+      "block_id": "oxford-job-31-21",
+      "type": "verse",
+      "number": 21,
+      "text": "if I have raised my hand against the orphan, because I saw I had supporters at the gate;"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-10",
+      "type": "commentary",
+      "text": "21 : , see 29.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-job-31-22",
+      "type": "verse",
+      "number": 22,
+      "text": "then let my shoulder blade fall from my shoulder, and let my arm be broken from its socket."
+    },
+    {
+      "block_id": "oxford-job-31-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For I was in terror of calamity from God, and I could not have faced his majesty."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-9",
+      "type": "commentary",
+      "text": "16–23 :Job’s humanitarian deeds are implicitly a rebuttal of Eliphaz’s claims (24.6–9). Cf. 29.12–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 16,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-job-31-24",
+      "type": "verse",
+      "number": 24,
+      "text": "“If I have made gold my trust, or called fine gold my confidence;"
+    },
+    {
+      "block_id": "oxford-job-31-25",
+      "type": "verse",
+      "number": 25,
+      "text": "if I have rejoiced because my wealth was great, or because my hand had gotten much;"
+    },
+    {
+      "block_id": "oxford-job-31-26",
+      "type": "verse",
+      "number": 26,
+      "text": "if I have looked at the sun when it shone, or the moon moving in splendor,"
+    },
+    {
+      "block_id": "oxford-job-31-27",
+      "type": "verse",
+      "number": 27,
+      "text": "and my heart has been secretly enticed, and my mouth has kissed my hand;"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-12",
+      "type": "commentary",
+      "text": "27 : , tothrowakissasagestureofworship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-job-31-28",
+      "type": "verse",
+      "number": 28,
+      "text": "this also would be an iniquity to be punished by the judges, for I should have been false to God above."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-11",
+      "type": "commentary",
+      "text": "24–28 : Confidence in one’s wealth and the devotion paid to heavenly bodies are twoformsoffalseworship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 24,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-job-31-29",
+      "type": "verse",
+      "number": 29,
+      "text": "“If I have rejoiced at the ruin of those who hated me, or exulted when evil overtook them—"
+    },
+    {
+      "block_id": "oxford-job-31-30",
+      "type": "verse",
+      "number": 30,
+      "text": "I have not let my mouth sin by asking for their lives with a curse—"
+    },
+    {
+      "block_id": "oxford-job-31-31",
+      "type": "verse",
+      "number": 31,
+      "text": "if those of my tent ever said, ‘O that we might be sated with his flesh!’—"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-3",
+      "type": "commentary",
+      "text": "30.1–31 : Job depicts his present situation—his dishonor (vv. 1–15) and his inner suffering (vv. 16–23)—and concludes with an address to God (vv. 20–23), and a lament (vv. 24–31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-13",
+      "type": "commentary",
+      "text": "31 : , or better, “O that there were someone not yet satisfied with his meat!” There is no chance of finding anyone who has not benefited from Job’s hospitality.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-job-31-32",
+      "type": "verse",
+      "number": 32,
+      "text": "the stranger has not lodged in the street; I have opened my doors to the traveler—"
+    },
+    {
+      "block_id": "oxford-job-31-33",
+      "type": "verse",
+      "number": 33,
+      "text": "if I have concealed my transgressions as others do, by hiding my iniquity in my bosom,"
+    },
+    {
+      "block_id": "oxford-job-31-34",
+      "type": "verse",
+      "number": 34,
+      "text": "because I stood in great fear of the multitude, and the contempt of families terrified me, so that I kept silence, and did not go out of doors—"
+    },
+    {
+      "block_id": "oxford-job-31-35",
+      "type": "verse",
+      "number": 35,
+      "text": "O that I had one to hear me! (Here is my signature! Let the Almighty answer me!) O that I had the indictment written by my adversary!"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-15",
+      "type": "commentary",
+      "text": "35 : , i.e., God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-job-31-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Surely I would carry it on my shoulder; I would bind it on me like a crown;"
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-16",
+      "type": "commentary",
+      "text": "36 : Job would be proud to display the sheet of charges God has against him, for it would be blank (or else filled with falsehoods).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-job-31-37",
+      "type": "verse",
+      "number": 37,
+      "text": "I would give him an account of all my steps; like a prince I would approach him."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-14",
+      "type": "commentary",
+      "text": "35–37 : These verses are the climax to the speech, and it is strange that they are not at the end; perhaps vv. 38–40 have been misplaced and should follow v. 34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 35,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-job-31-38",
+      "type": "verse",
+      "number": 38,
+      "text": "“If my land has cried out against me, and its furrows have wept together;"
+    },
+    {
+      "block_id": "oxford-job-31-39",
+      "type": "verse",
+      "number": 39,
+      "text": "if I have eaten its yield without payment, and caused the death of its owners;"
+    },
+    {
+      "block_id": "oxford-job-31-40",
+      "type": "verse",
+      "number": 40,
+      "text": "let thorns grow instead of wheat, and foul weeds instead of barley.” The words of Job are ended."
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-2",
+      "type": "commentary",
+      "text": "29.1–31.40: Job’s tenth speech. The speech consists of three sections: in the first Job surveys, in nostalgic mood, his happy former life (ch 29); in the second he portrays, in pathetic mood, his present isolation and degradation (ch 30); in the third, he utters, in defiant mood, a series of self‐curses that climax with a desperate appeal to be heard and vindicated (ch 31). The presence of the friends is ignored completely, and, except for 30.20–23, God is not addressed: the focus is entirely on Job’s own experience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-job-31-h1kj-4",
+      "type": "commentary",
+      "text": "31.1–40 : For the last time, Job summons God to a lawsuit, demanding he state what the charges against him are (v. 35). He imagines himself composing a document affirming his innocence, an oath of clearance, in the form of a curse upon himself that is meant to come into effect if he is lying. He declares his innocence against seven possible charges: deceit (vv. 5–8), adultery (vv. 9–12), disregard of servants (vv. 13–15), disregard of the poor (vv. 16–23), trust in wealth (vv. 24–28), rejoicing at the misfortune of others (vv. 29–34), and assault on the land (vv. 38–40b).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-131",
+  "title": "Section 131: The more sure word",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-131-heading",
+      "type": "heading",
+      "text": "The more sure word"
+    },
+    {
+      "block_id": "dc-131-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 131 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 131,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

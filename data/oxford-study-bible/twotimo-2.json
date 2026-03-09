@@ -1,0 +1,331 @@
+{
+  "document_id": "twotimo-2",
+  "title": "twotimo 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twotimo-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-twotimo-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and what you have heard from me through many witnesses entrust to faithful people who will be able to teach others as well."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , Timothy is to hand on the deposit he received from Paul (see 1.12n.) to the next generation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-twotimo-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Share in suffering like a good soldier of Christ Jesus."
+    },
+    {
+      "block_id": "oxford-twotimo-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "No one serving in the army gets entangled in everyday affairs; the soldier's aim is to please the enlisting officer."
+    },
+    {
+      "block_id": "oxford-twotimo-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And in the case of an athlete, no one is crowned without competing according to the rules."
+    },
+    {
+      "block_id": "oxford-twotimo-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "It is the farmer who does the work who ought to have the first share of the crops."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-3",
+      "type": "commentary",
+      "text": "4–6 : , commonplaces from three professions about the cost of securing divine favor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-twotimo-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Think over what I say, for the Lord will give you understanding in all things."
+    },
+    {
+      "block_id": "oxford-twotimo-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Remember Jesus Christ, raised from the dead, a descendant of David—that is my gospel,"
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-4",
+      "type": "commentary",
+      "text": "8 : Another encapsulation of the gospel (cf. 1.10; Rom 1.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-twotimo-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for which I suffer hardship, even to the point of being chained like a criminal. But the word of God is not chained."
+    },
+    {
+      "block_id": "oxford-twotimo-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Therefore I endure everything for the sake of the elect, so that they may also obtain the salvation that is in Christ Jesus, with eternal glory."
+    },
+    {
+      "block_id": "oxford-twotimo-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The saying is sure: If we have died with him, we will also live with him;"
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-5",
+      "type": "commentary",
+      "text": "11 : , see 1 Tim 1.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-twotimo-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "if we endure, we will also reign with him; if we deny him, he will also deny us;"
+    },
+    {
+      "block_id": "oxford-twotimo-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "if we are faithless, he remains faithful— for he cannot deny himself."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–13: Timothy's charge to suffer for the gospel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-6",
+      "type": "commentary",
+      "text": "11–13 : A series of parallel clauses, suggesting to some scholars a quotation from a hymn. , Rom 6.5–11; 2 Cor 5.14–15. , in glory at the end-time (1 Cor 4.8). , Mt 10.33; Mk 8.38; 1 Jn 2.22–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-twotimo-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Remind them of this, and warn them before God that they are to avoid wrangling over words, which does no good but only ruins those who are listening."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-8",
+      "type": "commentary",
+      "text": "14 : , Gk “logomachia,” a special concern of the Pastoral epistles (see 1 Tim 6.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-twotimo-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Do your best to present yourself to God as one approved by him, a worker who has no need to be ashamed, rightly explaining the word of truth."
+    },
+    {
+      "block_id": "oxford-twotimo-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Avoid profane chatter, for it will lead people into more and more impiety,"
+    },
+    {
+      "block_id": "oxford-twotimo-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,"
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-9",
+      "type": "commentary",
+      "text": "17 : , 1 Tim 1.20. , otherwise unknown. , the opposite of “healthy” teaching (see 1.13n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twotimo-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "who have swerved from the truth by claiming that the resurrection has already taken place. They are upsetting the faith of some."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-10",
+      "type": "commentary",
+      "text": "18 : , see 1 Tim 6.21n. (cf. 1 Cor 15.12), a glimpse at the eschatology of the opponents, though not the theology behind it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-twotimo-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But God's firm foundation stands, bearing this inscription: “The Lord knows those who are his,” and, “Let everyone who calls on the name of the Lord turn away from wickedness.”"
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-11",
+      "type": "commentary",
+      "text": "19 : (cf. 1 Tim 6.19), as known in scripture. , a quotation from Num 16.5; the second sentence has resonances with Isa 26.13; Job 36.10; Sir 17.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-twotimo-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "In a large house there are utensils not only of gold and silver but also of wood and clay, some for special use, some for ordinary."
+    },
+    {
+      "block_id": "oxford-twotimo-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "All who cleanse themselves of the things I have mentioned will become special utensils, dedicated and useful to the owner of the house, ready for every good work."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-12",
+      "type": "commentary",
+      "text": "20–21 : (lit., “some for honor, some for dishonor”); cf. Rom 9.19–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-twotimo-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Shun youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart."
+    },
+    {
+      "block_id": "oxford-twotimo-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Have nothing to do with stupid and senseless controversies; you know that they breed quarrels."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-13",
+      "type": "commentary",
+      "text": "23 : , see 1 Tim 6.4; Titus 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-twotimo-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And the Lord's servant must not be quarrelsome but kindly to everyone, an apt teacher, patient,"
+    },
+    {
+      "block_id": "oxford-twotimo-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "correcting opponents with gentleness. God may perhaps grant that they will repent and come to know the truth,"
+    },
+    {
+      "block_id": "oxford-twotimo-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "and that they may escape from the snare of the devil, having been held captive by him to do his will."
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-7",
+      "type": "commentary",
+      "text": "2.14–26: Strategies for proper combat with false teachers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-twotimo-2-h1kj-14",
+      "type": "commentary",
+      "text": "26 : , “captured and kept alive” (the same verb is used in Lk 5.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twotimo",
+        "chapter": 2
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    }
+  ]
+}

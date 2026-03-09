@@ -1,0 +1,542 @@
+{
+  "document_id": "ex-23",
+  "title": "Exodus 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "You shall not spread a false report. You shall not join hands with the wicked to act as a malicious witness."
+    },
+    {
+      "block_id": "oxford-ex-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You shall not follow a majority in wrongdoing; when you bear witness in a lawsuit, you shall not side with the majority so as to pervert justice;"
+    },
+    {
+      "block_id": "oxford-ex-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "nor shall you be partial to the poor in a lawsuit."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-6",
+      "type": "commentary",
+      "text": "1–3 : 20.16; Lev 19.12,15; Deut 19.15–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When you come upon your enemy’s ox or donkey going astray, you shall bring it back."
+    },
+    {
+      "block_id": "oxford-ex-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When you see the donkey of one who hates you lying under its burden and you would hold back from setting it free, you must help to set it free.a"
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-7",
+      "type": "commentary",
+      "text": "4–5 : Cf. Deut 22.1–4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ex-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You shall not pervert the justice due to your poor in their lawsuits."
+    },
+    {
+      "block_id": "oxford-ex-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Keep far from a false charge, and do not kill the innocent and those in the right, for I will not acquit the guilty."
+    },
+    {
+      "block_id": "oxford-ex-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You shall take no bribe, for a bribe blinds the officials, and subverts the cause of those who are in the right."
+    },
+    {
+      "block_id": "oxford-ex-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall not oppress a resident alien; you know the heart of an alien, for you were aliens in the land of Egypt."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-8",
+      "type": "commentary",
+      "text": "6–9 : See 22.21–27n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 6,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For six years you shall sow your land and gather in its yield;"
+    },
+    {
+      "block_id": "oxford-ex-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "but the seventh year you shall let it rest and lie fallow, so that the poor of your people may eat; and what they leave the wild animals may eat. You shall do the same with your vineyard, and with your olive orchard."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-9",
+      "type": "commentary",
+      "text": "10–11 : A seventh‐year agricultural hiatus to benefit the poor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ex-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Six days you shall do your work, but on the seventh day you shall rest, so that your ox and your donkey may have relief, and your homeborn slave and the resident alien may be refreshed."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-5",
+      "type": "commentary",
+      "text": "23.1–12 : Judicial integrity (vv. 1–3,6–8) and the protection of animals and marginal groups (vv. 4–5,6,9–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-10",
+      "type": "commentary",
+      "text": "12 : A seventh‐day rest (see 16.23–30n.) benefits animals, servants, and foreigners; contrast 20.8–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ex-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Be attentive to all that I have said to you. Do not invoke the names of other gods; do not let them be heard on your lips."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-12",
+      "type": "commentary",
+      "text": "13 : See 15.11n, 20.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ex-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Three times in the year you shall hold a festival for me."
+    },
+    {
+      "block_id": "oxford-ex-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "You shall observe the festival of unleavened bread; as I commanded you, you shall eat unleavened bread for seven days at the appointed time in the month of Abib, for in it you came out of Egypt. No one shall appear before me emptyhanded."
+    },
+    {
+      "block_id": "oxford-ex-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "You shall observe the festival of harvest, of the first fruits of your labor, of what you sow in the field. You shall observe the festival of ingathering at the end of the year, when you gather in from the field the fruit of your labor."
+    },
+    {
+      "block_id": "oxford-ex-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Three times in the year all your males shall appear before the Lord God."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-14",
+      "type": "commentary",
+      "text": "17 : , contrast Deut 31.11–12. , presumably wherever there is an altar (20.22–26n.); contrast Deut 16.2,6,7,11,15,16, which stipulate pilgrimage to one place.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ex-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall not offer the blood of my sacrifice with anything leavened, or let the fat of my festival remain until the morning."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-15",
+      "type": "commentary",
+      "text": "18 : The blood prohibition applies to all sacrifices, not just festival ones. , cf. 12.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ex-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The choicest of the first fruits of your ground you shall bring into the house of the Lord your God. You shall not boil a kid in its mother’s milk."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-4",
+      "type": "commentary",
+      "text": "22.21–23.19. Ethical and religious exhortations and norms. The stipulations of the second part of the community regulations (see 20.22–23.33.) are mostly unconditional. Some concern social relationships and justice (22.21–27; 23.1–12) and others involve obligations to God (22.28–31; 23.13–19), thus linking humanitarian and religious matters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-11",
+      "type": "commentary",
+      "text": "13–19 : Obligations to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-13",
+      "type": "commentary",
+      "text": "14–19a : The three major agricultural festivals, commemorated as pilgrimage festivals to the local shrine (cf. 34.22–23): (linked to passover and the Exodus; see 12.15n.); , or , also called Shavuot or Festival of Weeks or Pentecost (34.22,26; Lev 23.15–21; Deut 16.9–12); , also called Sukkot or Festival of Booths (Lev 23.33–43; Deut 16.13–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 14,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-16",
+      "type": "commentary",
+      "text": "19a : , general designation for a shrine (Gen 28.22). The elsewhere constitute a tax to support priests (also Deut 26.1–3; Neh 10.36–37; see 29.26–34n.)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-17",
+      "type": "commentary",
+      "text": "19b : , perhaps “fat,” likely prohibiting the slaughter of the kid’s mother to protect her breeding potential (also 34.26b; Deut 14.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "I am going to send an angel in front of you, to guard you on the way and to bring you to the place that I have prepared."
+    },
+    {
+      "block_id": "oxford-ex-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Be attentive to him and listen to his voice; do not rebel against him, for he will not pardon your transgression; for my name is in him."
+    },
+    {
+      "block_id": "oxford-ex-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But if you listen attentively to his voice and do all that I say, then I will be an enemy to your enemies and a foe to your foes."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-20",
+      "type": "commentary",
+      "text": "22 : employs Near Eastern treaty language.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ex-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "When my angel goes in front of you, and brings you to the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, and I blot them out,"
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-19",
+      "type": "commentary",
+      "text": "20–23 : The (lit., “messenger”) represents God’s presence (see 3.2n.; 3.19–20n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 20,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-22",
+      "type": "commentary",
+      "text": "23",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "you shall not bow down to their gods, or worship them, or follow their practices, but you shall utterly demolish them and break their pillars in pieces."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-24",
+      "type": "commentary",
+      "text": "24 : Cf. 20.3; 23.13. , upright stones, considered idolatrous (34.13; Lev 26.1; Deut 12.3, etc.), but in some sources and circumstances acceptable (e.g., Gen 28.16–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ex-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "You shall worship the Lord your God, and I will bless your bread and your water; and I will take sickness away from among you."
+    },
+    {
+      "block_id": "oxford-ex-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "No one shall miscarry or be barren in your land; I will fulfill the number of your days."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-25",
+      "type": "commentary",
+      "text": "25–26 : Sustenance, health, and progeny are the blessings produced by covenant fealty (Lev 26.3–10; Deut 28.1–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 25,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "I will send my terror in front of you, and will throw into confusion all the people against whom you shall come, and I will make all your enemies turn their backs to you."
+    },
+    {
+      "block_id": "oxford-ex-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And I will send the pestilence in front of you, which shall drive out the Hivites, the Canaanites, and the Hittites from before you."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-23",
+      "type": "commentary",
+      "text": "28 : See 3.2n. 3.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ex-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "I will not drive them out from before you in one year, or the land would become desolate and the wild animals would multiply against you."
+    },
+    {
+      "block_id": "oxford-ex-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Little by little I will drive them out from before you, until you have increased and possess the land."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-26",
+      "type": "commentary",
+      "text": "27–30 : The land’s indigenous inhabitants will be gradually expelled; in Deuteronomy and related literature, they are to be exterminated (e.g., Deut 7.2; Josh 10–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 27,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ex-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "I will set your borders from the Red Sea to the sea of the Philistines, and from the wilderness to the Euphrates; for I will hand over to you the inhabitants of the land, and you shall drive them out before you."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-27",
+      "type": "commentary",
+      "text": "31 : One of several traditions about the extent of the land (e.g., Gen 15.18; Num 34.1–12). , see 13.18n. , the Mediterranean.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "You shall make no covenant with them and their gods."
+    },
+    {
+      "block_id": "oxford-ex-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "They shall not live in your land, or they will make you sin against me; for if you worship their gods, it will surely be a snare to you."
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-1",
+      "type": "commentary",
+      "text": "15.22–24.18. Sinai and covenant. Facing recurrent difficulties, the Israelites cross the wilderness to Sinai (15.22–18.27) where they experience a theophany (ch 19) and enter into the covenant (chs 20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-2",
+      "type": "commentary",
+      "text": "20.1–24.18: Covenant. The stipulations of the covenant—Decalogue (20.1–17) and covenant rules (20.22–23.19)—are interspersed with additional Sinai narratives (20.18–21; 23.20–24.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-3",
+      "type": "commentary",
+      "text": "20.22–23.33: Community regulations. This collection of legal materials, called “book of the covenant” [Heb “sefer ha‐berit”] (24.7) or “Covenant Code” or “Covenant Collection,” has affinities of form and content with other ancient law legal traditions. A discrete scribal collection, with laws—especially agricultural ones and those mentioning houses—inapplicable to a wilderness setting, it was likely incorporated into the Sinai narrative to afford it divine authority. The oldest of the legal materials in the Pentateuch, many of its stipulations probably arose in premonarchic village settings. Introductory instructions (20.22–26) and a concluding narrative (23.20–33) frame a two‐part enumeration of legal materials. The first part (21.1–22.17) consists mainly of casuistic materials (case laws with attached punishments). The second part (22.18–23.19) comprises ethical or religious norms and exhortations typically expressed in apodictic or absolute form. These two parts may reflect the merging of ancient customary regulations with covenant‐oriented materials.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-18",
+      "type": "commentary",
+      "text": "23.20–33: The Sinai narrative resumes with further divine promises and admonitions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 20,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-21",
+      "type": "commentary",
+      "text": "23–33 : Cf. 34.11–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ex-23-h1kj-28",
+      "type": "commentary",
+      "text": "32–33 : , see 15.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 23
+      },
+      "verse_start": 32,
+      "verse_end": 33
+    }
+  ]
+}

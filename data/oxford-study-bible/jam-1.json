@@ -1,0 +1,397 @@
+{
+  "document_id": "jam-1",
+  "title": "jam 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jam-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-jam-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "My brothers and sisters, whenever you face trials of any kind, consider it nothing but joy,"
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , or “temptations” as in 1.12 (Gk “peirasmos”). , in Greek either a command or a statement of usual practice (“you considered”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jam-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "because you know that the testing of your faith produces endurance;"
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , common teaching of Jewish wisdom tradition (cf. Rom 5.3–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-jam-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and let endurance have its full effect, so that you may be mature and complete, lacking in nothing."
+    },
+    {
+      "block_id": "oxford-jam-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If any of you is lacking in wisdom, ask God, who gives to all generously and ungrudgingly, and it will be given you."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-5",
+      "type": "commentary",
+      "text": "4–5 : , suggests against their view that wisdom is a gift from God rather than learned through “trials” (cf. 1 Kings 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jam-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But ask in faith, never doubting, for the one who doubts is like a wave of the sea, driven and tossed by the wind;"
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , trusting God to give the “gift” (1.17) rather than temptation (1.13–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-jam-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": ","
+    },
+    {
+      "block_id": "oxford-jam-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "for the doubter, being double-minded and unstable in every way, must not expect to receive anything from the Lord."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-7",
+      "type": "commentary",
+      "text": "7–8 : , not knowing what God will do.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jam-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let the believer who is lowly boast in being raised up,"
+    },
+    {
+      "block_id": "oxford-jam-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and the rich in being brought low, because the rich will disappear like a flower in the field."
+    },
+    {
+      "block_id": "oxford-jam-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For the sun rises with its scorching heat and withers the field; its flower falls, and its beauty perishes. It is the same way with the rich; in the midst of a busy life, they will wither away."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.2–11: Trials and wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-8",
+      "type": "commentary",
+      "text": "9–11 : Reversal of fortunes between poor and rich (2.5; 5.1–3; cf. 1 Sam 2.7; Lk 6.20–26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jam-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Blessed is anyone who endures temptation. Such a one has stood the test and will receive the crown of life that the Lord has promised to those who love him."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , victor's laurel wreath rather than royal diadem (cf. Rev 2.10). 14–15: , certain progression of acting consistent with one's corrupted will.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jam-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "No one, when tempted, should say, “I am being tempted by God”; for God cannot be tempted by evil and he himself tempts no one."
+    },
+    {
+      "block_id": "oxford-jam-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But one is tempted by one's own desire, being lured and enticed by it;"
+    },
+    {
+      "block_id": "oxford-jam-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "then, when that desire has conceived, it gives birth to sin, and that sin, when it is fully grown, gives birth to death."
+    },
+    {
+      "block_id": "oxford-jam-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do not be deceived, my beloved."
+    },
+    {
+      "block_id": "oxford-jam-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Every generous act of giving, with every perfect gift, is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change."
+    },
+    {
+      "block_id": "oxford-jam-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "In fulfillment of his own purpose he gave us birth by the word of truth, so that we would become a kind of first fruits of his creatures."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-11",
+      "type": "commentary",
+      "text": "18 : God's opposite desire ( ) to use to give to a new will within us (cf. 1.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jam-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You must understand this, my beloved:b let everyone be quick to listen, slow to speak, slow to anger;"
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-12",
+      "type": "commentary",
+      "text": "19 : Need for self- control; cf. Sir 5.10–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-jam-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "for your anger does not produce God's righteousness."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-13",
+      "type": "commentary",
+      "text": "20 : Greek explicitly contrasts that originates in people (“orgē andros”) with that is from God (“dikaiosunēn theou”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-jam-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Therefore rid yourselves of all sordidness and rank growth of wickedness, and welcome with meekness the implanted word that has the power to save your souls."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-9",
+      "type": "commentary",
+      "text": "1.12–21: Life through the word.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-14",
+      "type": "commentary",
+      "text": "21 : Consistency with God's both checks improper action and one's /life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jam-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But be doers of the word, and not merely hearers who deceive themselves."
+    },
+    {
+      "block_id": "oxford-jam-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For if any are hearers of the word and not doers, they are like those who look at themselves in a mirror;"
+    },
+    {
+      "block_id": "oxford-jam-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "for they look at themselves and, on going away, immediately forget what they were like."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-17",
+      "type": "commentary",
+      "text": "24 : in the sense that behavior will not change unless there is a unity of word and deed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-jam-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "But those who look into the perfect law, the law of liberty, and persevere, being not hearers who forget but doers who act—they will be blessed in their doing."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-16",
+      "type": "commentary",
+      "text": "1.22–25 : Here that must be done is the “implanted word” (1.21) from God (Mt 7.24; Rom 2.13), not their own words.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-18",
+      "type": "commentary",
+      "text": "25 : , God's revealed will makes one “mature and complete” (1.4) and free from the lure of improper desire (1.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-jam-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "If any think they are religious, and do not bridle their tongues but deceive their hearts, their religion is worthless."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-19",
+      "type": "commentary",
+      "text": "26 : , now the focus shifts to consistency between their own speech and actions (2.16n.; 3.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-jam-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Religion that is pure and undefiled before God, the Father, is this: to care for orphans and widows in their distress, and to keep oneself unstained by the world."
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-15",
+      "type": "commentary",
+      "text": "1.22–2.13: Consistency of word and action. Section framed by references to speech, actions, and God's law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jam-1-h1kj-20",
+      "type": "commentary",
+      "text": "27 : should assist others and thereby one's self as well (cf. Mic 6.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 1
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "document_id": "reve-9",
+  "title": "reve 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-9-heading-10",
+      "type": "heading",
+      "text": "10"
+    },
+    {
+      "block_id": "oxford-reve-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "he opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft."
+    },
+    {
+      "block_id": "oxford-reve-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then from the smoke came locusts on the earth, and they were given authority like the authority of scorpions of the earth."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , Ex 10.12–15; cf. Joel 1.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They were told not to damage the grass of the earth or any green growth or any tree, but only those people who do not have the seal of God on their foreheads."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-6",
+      "type": "commentary",
+      "text": "4 : God's servants are not to be harmed (7.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They were allowed to torture them for five months, but not to kill them, and their torture was like the torture of a scorpion when it stings someone."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , while this might be a reference to the life cycle of locusts, which are hatched in spring and live until the end of summer, the more likely significance of this time period is symbolic, indicating the limited time span of this plague.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And in those days people will seek death but will not find it; they will long to die, but death will flee from them."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , in utter despair because of the torments (cf. Job 3.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-reve-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "In appearance the locusts were like horses equipped for battle. On their heads were what looked like crowns of gold; their faces were like human faces,"
+    },
+    {
+      "block_id": "oxford-reve-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "their hair like women's hair, and their teeth like lions’ teeth;"
+    },
+    {
+      "block_id": "oxford-reve-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "they had scales like iron breastplates, and the noise of their wings was like the noise of many chariots with horses rushing into battle."
+    },
+    {
+      "block_id": "oxford-reve-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "They have tails like scorpions, with stingers, and in their tails is their power to harm people for five months."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-9",
+      "type": "commentary",
+      "text": "7–10 : These are monstrous locusts, described in anthropomorphic terms (as in Joel 1 and 2), combining human features with the features of other creatures into a terrifying composite. , Joel 1.6; , of a soldier or war horse (Job 39.19–20; 3.17, compares armor of Assyrian soldiers to locusts).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 7,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "They have as king over them the angel of the bottomless pit; his name in Hebrew is Abaddon, and in Greek he is called Apollyon."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-10",
+      "type": "commentary",
+      "text": "11 : The name , which means “Destruction,” is a name for Sheol, the abode of the dead (see Job 26.6; Prov 15.11); here, as in Job 28,22, it is personified.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-reve-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The first woe has passed. There are still two woes to come."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-3",
+      "type": "commentary",
+      "text": "9.1–12: The plague of monstrous locusts, evokes the terrors of invading cavalry (perhaps a reference to the Parthians, an Iranian dynasty that ruled from Mesopotamia to India, at war with the Romans from the first century to the second century ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-reve-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God,"
+    },
+    {
+      "block_id": "oxford-reve-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "saying to the sixth angel who had the trumpet, “Release the four angels who are bound at the great river Euphrates.”"
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-12",
+      "type": "commentary",
+      "text": "14 : The marked the eastern border of the Roman Empire, where invasion by its Parthian enemies threatened.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-reve-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "So the four angels were released, who had been held ready for the hour, the day, the month, and the year, to kill a third of humankind."
+    },
+    {
+      "block_id": "oxford-reve-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The number of the troops of cavalry was two hundred million; I heard their number."
+    },
+    {
+      "block_id": "oxford-reve-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And this was how I saw the horses in my vision: the riders wore breastplates the color of fire and of sapphire and of sulfur; the heads of the horses were like lions’ heads, and fire and smoke and sulfur came out of their mouths."
+    },
+    {
+      "block_id": "oxford-reve-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "By these three plagues a third of humankind was killed, by the fire and smoke and sulfur coming out of their mouths."
+    },
+    {
+      "block_id": "oxford-reve-9-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For the power of the horses is in their mouths and in their tails; their tails are like serpents, having heads; and with them they inflict harm."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-13",
+      "type": "commentary",
+      "text": "16–19 : These fire-breathing, lion-headed, serpent-tailed monsters are composite creatures, like the fire-breathing Chimera of Greek and Roman mythology; cf. the description of conquering soldiers in Jer 46.2–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 16,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-reve-9-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The rest of humankind, who were not killed by these plagues, did not repent of the works of their hands or give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-15",
+      "type": "commentary",
+      "text": "20 : , Dan 5.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-reve-9-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And they did not repent of their murders or their sorceries or their fornication or their thefts."
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-1",
+      "type": "commentary",
+      "text": "8.6–9.21: The first six trumpets unleash new convulsions of nature, patterned after the plagues inflicted on Egypt in the book of Exodus (Ex 7.14–10.23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-2",
+      "type": "commentary",
+      "text": "9.1–11.19: Three trumpets of woe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-11",
+      "type": "commentary",
+      "text": "9.13–21: The plague of monstrous cavalry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 13,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-14",
+      "type": "commentary",
+      "text": "20–21 : The trumpet plagues fail to provoke the repentance that is their purpose. Compare the hardness of Pharaoh's heart despite the plagues (Ex 8.15,19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-reve-9-h1kj-16",
+      "type": "commentary",
+      "text": "21 : , sins associated with the idolatrous worship of other gods, Wis 12.3–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 9
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    }
+  ]
+}

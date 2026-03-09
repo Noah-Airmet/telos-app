@@ -1,0 +1,667 @@
+{
+  "document_id": "luke-19",
+  "title": "Luke 19",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-luke-19-heading-20",
+      "type": "heading",
+      "text": "20"
+    },
+    {
+      "block_id": "oxford-luke-19-2",
+      "type": "verse",
+      "number": 2,
+      "text": "A man was there named Zacchaeus; he was a chief tax collector and was rich."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-4",
+      "type": "commentary",
+      "text": "2 : As Zacchaeus had contracted with Roman authorities to collect revenues (lit., “tolls”). People despised toll-collectors for enabling Roman domination (v. 7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-luke-19-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He was trying to see who Jesus was, but on account of the crowd he could not, because he was short in stature."
+    },
+    {
+      "block_id": "oxford-luke-19-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So he ran ahead and climbed a sycamore tree to see him, because he was going to pass that way."
+    },
+    {
+      "block_id": "oxford-luke-19-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When Jesus came to the place, he looked up and said to him, “Zacchaeus, hurry and come down; for I must stay at your house today.”"
+    },
+    {
+      "block_id": "oxford-luke-19-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So he hurried down and was happy to welcome him."
+    },
+    {
+      "block_id": "oxford-luke-19-7",
+      "type": "verse",
+      "number": 7,
+      "text": "All who saw it began to grumble and said, “He has gone to be the guest of one who is a sinner.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-5",
+      "type": "commentary",
+      "text": "7 : 5.29–30; 15.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-luke-19-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Zacchaeus stood there and said to the Lord, “Look, half of my possessions, Lord, I will give to the poor; and if I have defrauded anyone of anything, I will pay back four times as much.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-6",
+      "type": "commentary",
+      "text": "8 : Zacchaeus's response contrasts with that of the ruler in 18.23. , a vow demonstrating repentance. , the amount exceeds the requirements of the law, a payment of principal plus twenty percent (Lev 6.5; Num 5.6–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-luke-19-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then Jesus said to him, “Today salvation has come to this house, because he too is a son of Abraham."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-7",
+      "type": "commentary",
+      "text": "9 : in Jesus's presence and evinces itself in Zacchaeus's transformation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-luke-19-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For the Son of Man came to seek out and to save the lost.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-2",
+      "type": "commentary",
+      "text": "19.1–10: Zacchaeus's salvation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-8",
+      "type": "commentary",
+      "text": "10 : A summary of Jesus's ministry in the entire Gospel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-luke-19-11",
+      "type": "verse",
+      "number": 11,
+      "text": "As they were listening to this, he went on to tell a parable, because he was near Jerusalem, and because they supposed that the kingdom of God was to appear immediately."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-10",
+      "type": "commentary",
+      "text": "11 : 9.51; 13.22; 17.11; 18.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-19-12",
+      "type": "verse",
+      "number": 12,
+      "text": "So he said, “A nobleman went to a distant country to get royal power for himself and then return."
+    },
+    {
+      "block_id": "oxford-luke-19-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He summoned ten of his slaves, and gave them ten pounds, and said to them, ‘Do business with these until I come back.’"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-11",
+      "type": "commentary",
+      "text": "13 : , lit., “ten minas,” golden coins each of which equaled a hundred drachmas (see 15.8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-luke-19-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the citizens of his country hated him and sent a delegation after him, saying, ‘We do not want this man to rule over us.’"
+    },
+    {
+      "block_id": "oxford-luke-19-15",
+      "type": "verse",
+      "number": 15,
+      "text": "When he returned, having received royal power, he ordered these slaves, to whom he had given the money, to be summoned so that he might find out what they had gained by trading."
+    },
+    {
+      "block_id": "oxford-luke-19-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The first came forward and said, ‘Lord, your pound has made ten more pounds.’"
+    },
+    {
+      "block_id": "oxford-luke-19-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He said to him, ‘Well done, good slave! Because you have been trustworthy in a very small thing, take charge of ten cities.’"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-12",
+      "type": "commentary",
+      "text": "17 : 16.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-luke-19-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then the second came, saying, ‘Lord, your pound has made five pounds.’"
+    },
+    {
+      "block_id": "oxford-luke-19-19",
+      "type": "verse",
+      "number": 19,
+      "text": "He said to him, ‘And you, rule over five cities.’"
+    },
+    {
+      "block_id": "oxford-luke-19-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then the other came, saying, ‘Lord, here is your pound. I wrapped it up in a piece of cloth,"
+    },
+    {
+      "block_id": "oxford-luke-19-21",
+      "type": "verse",
+      "number": 21,
+      "text": "for I was afraid of you, because you are a harsh man; you take what you did not deposit, and reap what you did not sow.’"
+    },
+    {
+      "block_id": "oxford-luke-19-22",
+      "type": "verse",
+      "number": 22,
+      "text": "He said to him, ‘I will judge you by your own words, you wicked slave! You knew, did you, that I was a harsh man, taking what I did not deposit and reaping what I did not sow?"
+    },
+    {
+      "block_id": "oxford-luke-19-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Why then did you not put my money into the bank? Then when I returned, I could have collected it with interest.’"
+    },
+    {
+      "block_id": "oxford-luke-19-24",
+      "type": "verse",
+      "number": 24,
+      "text": "He said to the bystanders, ‘Take the pound from him and give it to the one who has ten pounds.’"
+    },
+    {
+      "block_id": "oxford-luke-19-25",
+      "type": "verse",
+      "number": 25,
+      "text": "(And they said to him, ‘Lord, he has ten pounds!’)"
+    },
+    {
+      "block_id": "oxford-luke-19-26",
+      "type": "verse",
+      "number": 26,
+      "text": "‘I tell you, to all those who have, more will be given; but from those who have nothing, even what they have will be taken away."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-13",
+      "type": "commentary",
+      "text": "26 : See 8.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-luke-19-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But as for these enemies of mine who did not want me to be king over them—bring them here and slaughter them in my presence.’”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-1",
+      "type": "commentary",
+      "text": "9.51–19.27: Jesus's journey to Jerusalem with his followers (Mt 19.1–20.34; Mk 10.1–52). Most of this section, which reports the ministry of Jesus in Samaria and Judea, is unique to Luke.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-9",
+      "type": "commentary",
+      "text": "19.11–27: Parable of the ten pounds (Mt 25.14–30; Mk 13.34). Verses 12–15, 27 may allude to the journey of Archelaus to Rome in 4 to assure his succession to Herod's throne; his mission was opposed by a delegation of leaders from Judea (Josephus, 17.9.4; 17.10). These verses concern authority, opposition, and judgment; vv. 13,15b–26 concern responsible use of that with which one has been entrusted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 11,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-19-28",
+      "type": "verse",
+      "number": 28,
+      "text": "After he had said this, he went on ahead, going up to Jerusalem."
+    },
+    {
+      "block_id": "oxford-luke-19-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When he had come near Bethphage and Bethany, at the place called the Mount of Olives, he sent two of the disciples,"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-16",
+      "type": "commentary",
+      "text": "29 : , villages just east of Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-luke-19-30",
+      "type": "verse",
+      "number": 30,
+      "text": "saying, “Go into the village ahead of you, and as you enter it you will find tied there a colt that has never been ridden. Untie it and bring it here."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-17",
+      "type": "commentary",
+      "text": "30 : Zech. 9.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-luke-19-31",
+      "type": "verse",
+      "number": 31,
+      "text": "If anyone asks you, ‘Why are you untying it?’ just say this, ‘The Lord needs it.’”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-18",
+      "type": "commentary",
+      "text": "31 : could mean either God or Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-luke-19-32",
+      "type": "verse",
+      "number": 32,
+      "text": "So those who were sent departed and found it as he had told them."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-19",
+      "type": "commentary",
+      "text": "32 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-luke-19-33",
+      "type": "verse",
+      "number": 33,
+      "text": "As they were untying the colt, its owners asked them, “Why are you untying the colt?”"
+    },
+    {
+      "block_id": "oxford-luke-19-34",
+      "type": "verse",
+      "number": 34,
+      "text": "They said, “The Lord needs it.”"
+    },
+    {
+      "block_id": "oxford-luke-19-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Then they brought it to Jesus; and after throwing their cloaks on the colt, they set Jesus on it."
+    },
+    {
+      "block_id": "oxford-luke-19-36",
+      "type": "verse",
+      "number": 36,
+      "text": "As he rode along, people kept spreading their cloaks on the road."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-20",
+      "type": "commentary",
+      "text": "36 : Cf. 2 Kings 9.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-luke-19-37",
+      "type": "verse",
+      "number": 37,
+      "text": "As he was now approaching the path down from the Mount of Olives, the whole multitude of the disciples began to praise God joyfully with a loud voice for all the deeds of power that they had seen,"
+    },
+    {
+      "block_id": "oxford-luke-19-38",
+      "type": "verse",
+      "number": 38,
+      "text": "saying, “Blessed is the king who comes in the name of the Lord! Peace in heaven, and glory in the highest heaven!”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-21",
+      "type": "commentary",
+      "text": "35–38 : See Zech 9.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 35,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-22",
+      "type": "commentary",
+      "text": "38 : … , Ps 118.26; see Lk 13.35. , see 2.14. Jesus as , will be used in the charges against him (23.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-luke-19-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Some of the Pharisees in the crowd said to him, “Teacher, order your disciples to stop.”"
+    },
+    {
+      "block_id": "oxford-luke-19-40",
+      "type": "verse",
+      "number": 40,
+      "text": "He answered, “I tell you, if these were silent, the stones would shout out.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-15",
+      "type": "commentary",
+      "text": "19.28–40: The entry into Jerusalem (Mt 21.1–9; Mk 11.1–10; Jn 12.12–18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 28,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-23",
+      "type": "commentary",
+      "text": "39–40 : See Hab 2.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 39,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-luke-19-41",
+      "type": "verse",
+      "number": 41,
+      "text": "As he came near and saw the city, he wept over it,"
+    },
+    {
+      "block_id": "oxford-luke-19-42",
+      "type": "verse",
+      "number": 42,
+      "text": "saying, “If you, even you, had only recognized on this day the things that make for peace! But now they are hidden from your eyes."
+    },
+    {
+      "block_id": "oxford-luke-19-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Indeed, the days will come upon you, when your enemies will set up ramparts around you and surround you, and hem you in on every side."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-26",
+      "type": "commentary",
+      "text": "43 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-luke-19-44",
+      "type": "verse",
+      "number": 44,
+      "text": "They will crush you to the ground, you and your children within you, and they will not leave within you one stone upon another; because you did not recognize the time of your visitation from God.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-24",
+      "type": "commentary",
+      "text": "19.41–44: Weeping over Jerusalem. See 13.33–34; cf. 23.27–31. These verses may reflect on Jerusalem's destruction in 70 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 41,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-25",
+      "type": "commentary",
+      "text": "42–44 : and are singular forms, addressing Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 42,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-27",
+      "type": "commentary",
+      "text": "44 : Ps 137.9; Hos 10.14; 13.16. , the inhabitants of Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-luke-19-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Then he entered the temple and began to drive out those who were selling things there;"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-30",
+      "type": "commentary",
+      "text": "45 : the prescribed offerings, as in 2.24; Lev 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-luke-19-46",
+      "type": "verse",
+      "number": 46,
+      "text": "and he said, “It is written, ‘My house shall be a house of prayer’; but you have made it a den of robbers.”"
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-28",
+      "type": "commentary",
+      "text": "19.45–46: Cleansing of the Temple (Mt 21.12–13; Mk 11.15–17; Jn 2.13–17). A display of authority in the Temple, that acts out Mal 3.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 45,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-29",
+      "type": "commentary",
+      "text": "45–46 : This incident may have provoked Jewish authorities to hand Jesus over to the Romans for execution.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 45,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-31",
+      "type": "commentary",
+      "text": "46 : Isa 56.7; Jer 7.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-luke-19-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Every day he was teaching in the temple. The chief priests, the scribes, and the leaders of the people kept looking for a way to kill him;"
+    },
+    {
+      "block_id": "oxford-luke-19-48",
+      "type": "verse",
+      "number": 48,
+      "text": "but they did not find anything they could do, for all the people were spellbound by what they heard."
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-14",
+      "type": "commentary",
+      "text": "19.28–21.38: Jesus's ministry in Jerusalem (Mt 21–24; Mk 11–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 28,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-luke-19-h1kj-32",
+      "type": "commentary",
+      "text": "19.47–48: The religious leaders’ hostility toward Jesus (Mk 11.18–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 19
+      },
+      "verse_start": 47,
+      "verse_end": 48
+    }
+  ]
+}

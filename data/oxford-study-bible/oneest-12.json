@@ -1,0 +1,74 @@
+{
+  "document_id": "oneest-12",
+  "title": "oneest 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-oneest-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He overheard their conversation and inquired into their purposes, and learned that they were preparing to lay hands on King Artaxerxes; and he informed the king concerning them."
+    },
+    {
+      "block_id": "oxford-oneest-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then the king examined the two eunuchs, and after they had confessed it, they were led away to execution."
+    },
+    {
+      "block_id": "oxford-oneest-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The king made a permanent record of these things, and Mordecai wrote an account of them."
+    },
+    {
+      "block_id": "oxford-oneest-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And the king ordered Mordecai to serve in the court, and rewarded him for these things."
+    },
+    {
+      "block_id": "oxford-oneest-12-h1kj-2",
+      "type": "commentary",
+      "text": "5 : The king Mordecai immediately. This conflicts with 6.1–3, and suggests that this section is a secondary addition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 12
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-oneest-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But Haman son of Hammedatha, a Bougean, who was in great honor with the king, determined to injure Mordecai and his people because of the two eunuchs of the king. END OF ADDITION A"
+    },
+    {
+      "block_id": "oxford-oneest-12-h1kj-1",
+      "type": "commentary",
+      "text": "12.1–6: Mordecai saves the king's life. It is unclear whether this conspiracy is the same as the one in Esth 2.19–23 of the Heb text or an earlier intrigue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-oneest-12-h1kj-3",
+      "type": "commentary",
+      "text": "6 : The Gk text suggests (in contrast to the Heb) that Haman took part in the eunuchs’ foiled plot and thus provides a motivation for Mordecai's and Haman's subsequent actions. (see also 3.1) likely reflecting the Heb word “Agagite,” which connects Haman to the Amalekite king Agag, Saul's vanquished enemy (see 1 Sam 15.8). Mordecai and Haman share an ancestral enmity (Ex 17.8–16; Num 24.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    }
+  ]
+}

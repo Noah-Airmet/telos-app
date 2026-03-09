@@ -1,0 +1,458 @@
+{
+  "document_id": "lev-11",
+  "title": "Leviticus 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-11-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses and Aaron, saying to them:"
+    },
+    {
+      "block_id": "oxford-lev-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the people of Israel, saying: From among all the land animals, these are the creatures that you may eat."
+    },
+    {
+      "block_id": "oxford-lev-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Any animal that has divided hoofs and is cleftfooted and chews the cud—such you may eat."
+    },
+    {
+      "block_id": "oxford-lev-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But among those that chew the cud or have divided hoofs, you shall not eat the following: the camel, for even though it chews the cud, it does not have divided hoofs; it is unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The rock badger, for even though it chews the cud, it does not have divided hoofs; it is unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The hare, for even though it chews the cud, it does not have divided hoofs; it is unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-5",
+      "type": "commentary",
+      "text": "5–6 : Contrary to these verses’ claims, the and do not have multichambered stomachs and thus are not ruminants. It is likely that the mouth movements typical of these animals led to the claim that they chewed cud.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-lev-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The pig, for even though it has divided hoofs and is cleft‐footed, it does not chew the cud; it is unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Of their flesh you shall not eat, and their carcasses you shall not touch; they are unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-4",
+      "type": "commentary",
+      "text": "2b–8 : Permitted large land animals must have split hooves and chew their cud. The examples of prohibited animals suggests that undomesticated animals are the main focus of this chapter (see 1.2n.; 17.1–16n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lev-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "These you may eat, of all that are in the waters. Everything in the waters that has fins and scales, whether in the seas or in the streams—such you may eat."
+    },
+    {
+      "block_id": "oxford-lev-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But anything in the seas or the streams that does not have fins and scales, of the swarming creatures in the waters and among all the other living creatures that are in the waters—they are detestable to you"
+    },
+    {
+      "block_id": "oxford-lev-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and detestable they shall remain. Of their flesh you shall not eat, and their carcasses you shall regard as detestable."
+    },
+    {
+      "block_id": "oxford-lev-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Everything in the waters that does not have fins and scales is detestable to you."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-6",
+      "type": "commentary",
+      "text": "9–12 : Permitted water creatures must have fins and scales.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 9,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lev-11-13",
+      "type": "verse",
+      "number": 13,
+      "text": "These you shall regard as detestable among the birds. They shall not be eaten; they are an abomination: the eagle, the vulture, the osprey,"
+    },
+    {
+      "block_id": "oxford-lev-11-14",
+      "type": "verse",
+      "number": 14,
+      "text": "the buzzard, the kite of any kind;"
+    },
+    {
+      "block_id": "oxford-lev-11-15",
+      "type": "verse",
+      "number": 15,
+      "text": "every raven of any kind;"
+    },
+    {
+      "block_id": "oxford-lev-11-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the ostrich, the nighthawk, the sea gull, the hawk of any kind;"
+    },
+    {
+      "block_id": "oxford-lev-11-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the little owl, the cormorant, the great owl,"
+    },
+    {
+      "block_id": "oxford-lev-11-18",
+      "type": "verse",
+      "number": 18,
+      "text": "the water hen, the desert owl, the carrion vulture,"
+    },
+    {
+      "block_id": "oxford-lev-11-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the stork, the heron of any kind, the hoopoe, and the bat."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-7",
+      "type": "commentary",
+      "text": "13–19 : Rather than providing dual characteristics, as with large land animals and sea creatures, a list of prohibited birds is provided.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 13,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-lev-11-20",
+      "type": "verse",
+      "number": 20,
+      "text": "All winged insects that walk upon all fours are detestable to you."
+    },
+    {
+      "block_id": "oxford-lev-11-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But among the winged insects that walk on all fours you may eat those that have jointed legs above their feet, with which to leap on the ground."
+    },
+    {
+      "block_id": "oxford-lev-11-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Of them you may eat: the locust according to its kind, the bald locust according to its kind, the cricket according to its kind, and the grasshopper according to its kind."
+    },
+    {
+      "block_id": "oxford-lev-11-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But all other winged insects that have four feet are detestable to you."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-3",
+      "type": "commentary",
+      "text": "2b–23 : Cf. Deut 14.3–21. It is likely that a common source stands behind these two texts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-8",
+      "type": "commentary",
+      "text": "20–23 : Winged insects are generally forbidden. The only exceptions are those with jumping legs, which are specifically enumerated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 20,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-lev-11-24",
+      "type": "verse",
+      "number": 24,
+      "text": "By these you shall become unclean; whoever touches the carcass of any of them shall be unclean until the evening,"
+    },
+    {
+      "block_id": "oxford-lev-11-25",
+      "type": "verse",
+      "number": 25,
+      "text": "and whoever carries any part of the carcass of any of them shall wash his clothes and be unclean until the evening."
+    },
+    {
+      "block_id": "oxford-lev-11-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Every animal that has divided hoofs but is not cleft‐footed or does not chew the cud is unclean for you; everyone who touches one of them shall be unclean."
+    },
+    {
+      "block_id": "oxford-lev-11-27",
+      "type": "verse",
+      "number": 27,
+      "text": "All that walk on their paws, among the animals that walk on all fours, are unclean for you; whoever touches the carcass of any of them shall be unclean until the evening,"
+    },
+    {
+      "block_id": "oxford-lev-11-28",
+      "type": "verse",
+      "number": 28,
+      "text": "and the one who carries the carcass shall wash his clothes and be unclean until the evening; they are unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-29",
+      "type": "verse",
+      "number": 29,
+      "text": "These are unclean for you among the creatures that swarm upon the earth: the weasel, the mouse, the great lizard according to its kind,"
+    },
+    {
+      "block_id": "oxford-lev-11-30",
+      "type": "verse",
+      "number": 30,
+      "text": "the gecko, the land crocodile, the lizard, the sand lizard, and the chameleon."
+    },
+    {
+      "block_id": "oxford-lev-11-31",
+      "type": "verse",
+      "number": 31,
+      "text": "These are unclean for you among all that swarm; whoever touches one of them when they are dead shall be unclean until the evening."
+    },
+    {
+      "block_id": "oxford-lev-11-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And anything upon which any of them falls when they are dead shall be unclean, whether an article of wood or cloth or skin or sacking, any article that is used for any purpose; it shall be dipped into water, and it shall be unclean until the evening, and then it shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-11-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And if any of them falls into any earthen vessel, all that is in it shall be unclean, and you shall break the vessel."
+    },
+    {
+      "block_id": "oxford-lev-11-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Any food that could be eaten shall be unclean if water from any such vessel comes upon it; and any liquid that could be drunk shall be unclean if it was in any such vessel."
+    },
+    {
+      "block_id": "oxford-lev-11-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Everything on which any part of the carcass falls shall be unclean; whether an oven or stove, it shall be broken in pieces; they are unclean, and shall remain unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-36",
+      "type": "verse",
+      "number": 36,
+      "text": "But a spring or a cistern holding water shall be clean, while whatever touches the carcass in it shall be unclean."
+    },
+    {
+      "block_id": "oxford-lev-11-37",
+      "type": "verse",
+      "number": 37,
+      "text": "If any part of their carcass falls upon any seed set aside for sowing, it is clean;"
+    },
+    {
+      "block_id": "oxford-lev-11-38",
+      "type": "verse",
+      "number": 38,
+      "text": "but if water is put on the seed and any part of their carcass falls on it, it is unclean for you."
+    },
+    {
+      "block_id": "oxford-lev-11-39",
+      "type": "verse",
+      "number": 39,
+      "text": "If an animal of which you may eat dies, anyone who touches its carcass shall be unclean until the evening."
+    },
+    {
+      "block_id": "oxford-lev-11-40",
+      "type": "verse",
+      "number": 40,
+      "text": "Those who eat of its carcass shall wash their clothes and be unclean until the evening; and those who carry the carcass shall wash their clothes and be unclean until the evening."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-9",
+      "type": "commentary",
+      "text": "24–40 : Laws concerning impurity contracted through contact with animal corpses. Generally speaking, more intense contact (e.g., carrying or eating vs. touching) requires more complex purification rites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 24,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-lev-11-41",
+      "type": "verse",
+      "number": 41,
+      "text": "All creatures that swarm upon the earth are detestable; they shall not be eaten."
+    },
+    {
+      "block_id": "oxford-lev-11-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Whatever moves on its belly, and whatever moves on all fours, or whatever has many feet, all the creatures that swarm upon the earth, you shall not eat; for they are detestable."
+    },
+    {
+      "block_id": "oxford-lev-11-43",
+      "type": "verse",
+      "number": 43,
+      "text": "You shall not make yourselves detestable with any creature that swarms; you shall not defile yourselves with them, and so become unclean."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-11",
+      "type": "commentary",
+      "text": "43 ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-lev-11-44",
+      "type": "verse",
+      "number": 44,
+      "text": "For I am the Lord your God; sanctify yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming creature that moves on the earth."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-12",
+      "type": "commentary",
+      "text": "44 : , see 18.20n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-lev-11-45",
+      "type": "verse",
+      "number": 45,
+      "text": "For I am the Lord who brought you up from the land of Egypt, to be your God; you shall be holy, for I am holy."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-10",
+      "type": "commentary",
+      "text": "41–45 : Small land animals are forbidden. , see 11.1–47n., 19.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 41,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-lev-11-46",
+      "type": "verse",
+      "number": 46,
+      "text": "This is the law pertaining to land animal and bird and every living creature that moves through the waters and every creature that swarms upon the earth,"
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-14",
+      "type": "commentary",
+      "text": "46 : : better, “instruction” (Heb “torah”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-lev-11-47",
+      "type": "verse",
+      "number": 47,
+      "text": "to make a distinction between the unclean and the clean, and between the living creature that may be eaten and the living creature that may not be eaten."
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–16.34: Ritual impurity and purification. Chs 11–16 narrate divine instructions concerning impurity and various processes for purification. In Priestly literature, impurity is a real, though invisible, film that adheres to persons and objects and is attracted to the tabernacle as some metals are attracted to a magnet. However, impurity is fundamentally different from sin: impurity is contracted in the course of normal, daily activities and carries no moral stigma (see further 10.10n.). Yet because impurity is contagious and vexes the deity in the sanctuary, the Israelites must carefully dispose of it. Therefore failure to purify is sinful and carries dire consequences (cf. 15.31). The sources of impurity are human and animal corpses (ch 11; Num 19), normal and abnormal genital discharges (chs 12; 15), and a disease, “surface affliction,” often mistranslated as “leprosy” (chs 13–14). The common denominator among these sources of impurity may be their association with death or loss of life force. In cases of minor impurity, purification is accomplished through some combination of bathing, laundering, and the passage of time. In addition to these rites, major impurities also require presentation of a purification offering to cleanse the sanctuary, for major impurities penetrate into the tabernacle complex. Because of their regular contact with the sanctuary and the threat of its contamination, priests are required to avoid virtually all impurity (cf. 21.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-2",
+      "type": "commentary",
+      "text": "11.1–47: Dietary laws. The dietary laws provide a bridge between the sacrificial instructions that precede them and the following purity rules. In their concern for meat consumption, the instructions in ch 11 correlate strongly with the sacrificial laws, which themselves outline the foods that the deity eats and restrict meat consumption according to its sanctity. A comparison of the sacrificial and dietary laws reveals that the Israelite God has the most restrictive diet, followed by the priests, the Israelite laypersons, and finally non‐Israelites. By following the dietary rules, the Israelites observe the order of creation and are separated from the other nations. Such separateness is a fundamental component of holiness (vv. 44–45). Ch 11 also looks forward to the issues of impurity and its disposal in chs 12–16, for animals deemed unsuitable for consumption are termed impure, and contact with their corpses explicitly defiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-lev-11-h1kj-13",
+      "type": "commentary",
+      "text": "46–47 : A typical Priestly summary postscript.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 11
+      },
+      "verse_start": 46,
+      "verse_end": 47
+    }
+  ]
+}

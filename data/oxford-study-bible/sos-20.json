@@ -1,0 +1,259 @@
+{
+  "document_id": "sos-20",
+  "title": "sos 20",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-20-heading-21",
+      "type": "heading",
+      "text": "21"
+    },
+    {
+      "block_id": "oxford-sos-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "How much better it is to rebuke than to fume!"
+    },
+    {
+      "block_id": "oxford-sos-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And the one who admits his fault will be kept from failure."
+    },
+    {
+      "block_id": "oxford-sos-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Like a eunuch lusting to violate a girl is the person who does right under compulsion."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-2",
+      "type": "commentary",
+      "text": "4 : Sinners cannot be compelled to act properly any more than a can engage in sexual intercourse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-sos-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Some people keep silent and are thought to be wise, while others are detested for being talkative."
+    },
+    {
+      "block_id": "oxford-sos-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Some people keep silent because they have nothing to say, while others keep silent because they know when to speak."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-3",
+      "type": "commentary",
+      "text": "5–6 : Cf. Prov 17.27–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The wise remain silent until the right moment, but a boasting fool misses the right moment."
+    },
+    {
+      "block_id": "oxford-sos-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Whoever talks too much is detested, and whoever pretends to authority is hated."
+    },
+    {
+      "block_id": "oxford-sos-20-9",
+      "type": "verse",
+      "number": 9,
+      "text": "There may be good fortune for a person in adversity, and a windfall may result in a loss."
+    },
+    {
+      "block_id": "oxford-sos-20-10",
+      "type": "verse",
+      "number": 10,
+      "text": "There is the gift that profits you nothing, and the gift to be paid back double."
+    },
+    {
+      "block_id": "oxford-sos-20-11",
+      "type": "verse",
+      "number": 11,
+      "text": "There are losses for the sake of glory, and there are some who have raised their heads from humble circumstances."
+    },
+    {
+      "block_id": "oxford-sos-20-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Some buy much for little, but pay for it seven times over."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-4",
+      "type": "commentary",
+      "text": "9–12 : Although the sages argued for moral laws of cause-and-effect, they recognized both ironies and paradoxes; cf. Prov 14.12; 16.25; Eccl 9.1–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 9,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-20-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The wise make themselves beloved by only few words, but the courtesies of fools are wasted."
+    },
+    {
+      "block_id": "oxford-sos-20-14",
+      "type": "verse",
+      "number": 14,
+      "text": "A fool's gift will profit you nothing, for he looks for recompense sevenfold."
+    },
+    {
+      "block_id": "oxford-sos-20-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He gives little and upbraids much; he opens his mouth like a town crier. Today he lends and tomorrow he asks it back; such a one is hateful to God and humans."
+    },
+    {
+      "block_id": "oxford-sos-20-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The fool says, “I have no friends, and I get no thanks for my good deeds. Those who eat my bread are evil-tongued.”"
+    },
+    {
+      "block_id": "oxford-sos-20-17",
+      "type": "verse",
+      "number": 17,
+      "text": "How many will ridicule him, and how often!"
+    },
+    {
+      "block_id": "oxford-sos-20-18",
+      "type": "verse",
+      "number": 18,
+      "text": "A slip on the pavement is better than a slip of the tongue; the downfall of the wicked will occur just as speedily."
+    },
+    {
+      "block_id": "oxford-sos-20-19",
+      "type": "verse",
+      "number": 19,
+      "text": "A coarse person is like an inappropriate story, continually on the lips of the ignorant."
+    },
+    {
+      "block_id": "oxford-sos-20-20",
+      "type": "verse",
+      "number": 20,
+      "text": "A proverb from a fool's lips will be rejected, for he does not tell it at the proper time."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-5",
+      "type": "commentary",
+      "text": "20 : Cf. Prov 26.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-20-21",
+      "type": "verse",
+      "number": 21,
+      "text": "One may be prevented from sinning by poverty; so when he rests he feels no remorse."
+    },
+    {
+      "block_id": "oxford-sos-20-22",
+      "type": "verse",
+      "number": 22,
+      "text": "One may lose his life through shame, or lose it because of human respect."
+    },
+    {
+      "block_id": "oxford-sos-20-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Another out of shame makes promises to a friend, and so makes an enemy for nothing."
+    },
+    {
+      "block_id": "oxford-sos-20-24",
+      "type": "verse",
+      "number": 24,
+      "text": "A lie is an ugly blot on a person; it is continually on the lips of the ignorant."
+    },
+    {
+      "block_id": "oxford-sos-20-25",
+      "type": "verse",
+      "number": 25,
+      "text": "A thief is preferable to a habitual liar, but the lot of both is ruin."
+    },
+    {
+      "block_id": "oxford-sos-20-26",
+      "type": "verse",
+      "number": 26,
+      "text": "A liar's way leads to disgrace, and his shame is ever with him. PROVERBIAL SAYINGS 1The wise person advances himself by his words, and one who is sensible pleases the great."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-6",
+      "type": "commentary",
+      "text": "24–26 : On lying, see 7.13; 25.2; Prov 6.17; 12.22; Ps 5.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 24,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-20-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Those who cultivate the soil heap up their harvest, and those who please the great atone for injustice."
+    },
+    {
+      "block_id": "oxford-sos-20-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Favors and gifts blind the eyes of the wise; like a muzzle on the mouth they stop reproofs."
+    },
+    {
+      "block_id": "oxford-sos-20-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Hidden wisdom and unseen treasure, of what value is either?"
+    },
+    {
+      "block_id": "oxford-sos-20-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Better are those who hide their folly than those who hide their wisdom."
+    },
+    {
+      "block_id": "oxford-sos-20-h1kj-1",
+      "type": "commentary",
+      "text": "20.1–31: Topics related to speech. The advice in this section appeals to avoidance of . A significant difference between proper and improper speech concerns speaking .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    }
+  ]
+}

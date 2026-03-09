@@ -1,0 +1,769 @@
+{
+  "document_id": "mark-1",
+  "title": "Mark 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-mark-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-mark-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As it is written in the prophet Isaiah, “See, I am sending my messenger ahead of you, who will prepare your way;"
+    },
+    {
+      "block_id": "oxford-mark-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the voice of one crying out in the wilderness: ‘Prepare the way of the Lord, make his paths straight,’”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-4",
+      "type": "commentary",
+      "text": "2–3 : Mark combines Isa 40.3 with elements of Ex 23.20 and Mal 3.1. , or “deserted place,” an important theme in Mark (1.4,12,13,35,45; 6.31,32,35) and the biblical setting of Israel's deliverance (Ex 6; 13.17–22; Isa 41.18–20; 43.19–21; Hos 2.14–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-mark-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "John the baptizer appeared in the wilderness, proclaiming a baptism of repentance for the forgiveness of sins."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , a ritual cleansing performed, in this case, apart from institutional religious sanction and preparing for God's renewal of the earth. See Isa 1.16–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-mark-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And people from the whole Judean countryside and all the people of Jerusalem were going out to him, and were baptized by him in the river Jordan, confessing their sins."
+    },
+    {
+      "block_id": "oxford-mark-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Now John was clothed with camel's hair, with a leather belt around his waist, and he ate locusts and wild honey."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-6",
+      "type": "commentary",
+      "text": "6 : John's clothing resembles the prophet Elijah's (2 Kings 1.8; cf. Mal 4.5–6); cf. 6.15; 8.28; 15.35–36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-mark-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He proclaimed, “The one who is more powerful than I is coming after me; I am not worthy to stoop down and untie the thong of his sandals."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , possible allusion to a messianic figure (see Isa 11.2; . . 17.37; cf. Mk 3.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-mark-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I have baptized you with water; but he will baptize you witha the Holy Spirit.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.2–8: John appears in the wilderness (Mt 3.1–12; Lk 3.1–20; Jn 1.19–28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-mark-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-9",
+      "type": "commentary",
+      "text": "9 : , a small village in southern , the base for Jesus's public ministry (1.14,16; 39; 3.7; 7.31; 9.30; etc.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-mark-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And just as he was coming up out of the water, he saw the heavens torn apart and the Spirit descending like a dove on him."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , the rending of the heavens accompanies the divine penetration of the created realm (Isa 64.1; Ezek 1.1; see also Mk 15.38), through (see Joel 2.28–32; Acts 2.17–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mark-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And a voice came from heaven, “You are my Son, the Beloved; with you I am well pleased.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-8",
+      "type": "commentary",
+      "text": "1.9–11: John baptizes Jesus (Mt 3.13–17; Lk 3.21–22; Jn 1.29–34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , combines Ps 2.7 with Isa 42.1 to assign royal status to God's servant. Cf. 1.1; 9.7; 14.61; 15.39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-mark-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And the Spirit immediately drove him out into the wilderness."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , a typically Markan term that lends urgency to the story.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-mark-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels waited on him."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-12",
+      "type": "commentary",
+      "text": "1.12–13: Wilderness testing (cf. Mt 4.1–11; Lk 4.1–13). Mark does not elaborate on the nature of Jesus's testing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , a powerful evil figure who opposes power associated with God's coming kingdom (see 3.23–27; 4.15; 8.33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-mark-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Now after John was arrested, Jesus came to Galilee, proclaiming the good news of God,"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-16",
+      "type": "commentary",
+      "text": "14 : , the message that “the kingdom of God has come near” (v. 15) in the life and death of Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-mark-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and saying, “The time is fulfilled, and the kingdom of God has come near; repent, and believe in the good news.”c"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–15: Prologue: Jesus's baptism and appearance in Galilee. Mark sets Jesus's story against the backdrop of biblical prophecy and the career of John the Baptist.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-15",
+      "type": "commentary",
+      "text": "1.14–15: Opening proclamation (Mt 4.12–17; Lk 4.14–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-17",
+      "type": "commentary",
+      "text": "15 : , i.e., the “season” of God's renewal of the world approaches. Cf. 11.13; 12.2; also Ezek 7.12; Dan 7.22; Rev 1.3. , or “turn around and trust”; Jesus summons exclusive allegiance to God's sovereign power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mark-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "As Jesus passed along the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the sea—for they were fishermen."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-21",
+      "type": "commentary",
+      "text": "16 : , technically a freshwater lake, sometimes called Gennesaret. , that is, Peter, Jesus's most prominent disciple (see 3.16; 8.29; 9.2; 14.66–72; 16.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-mark-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And Jesus said to them, “Follow me and I will make you fish for people.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-22",
+      "type": "commentary",
+      "text": "17 : , both a play on words and a biblical allusion (see Jer 16.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-mark-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And immediately they left their nets and followed him."
+    },
+    {
+      "block_id": "oxford-mark-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "As he went a little farther, he saw James son of Zebedee and his brother John, who were in their boat mending the nets."
+    },
+    {
+      "block_id": "oxford-mark-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Immediately he called them; and they left their father Zebedee in the boat with the hired men, and followed him."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-20",
+      "type": "commentary",
+      "text": "1.16–20: First call to discipleship (Mt 4.18–22; cf. Lk 5.1–11; Jn 1.35–51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-23",
+      "type": "commentary",
+      "text": "20 : , an indication that fishing was a profitable business venture in the first century.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-mark-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "They went to Capernaum; and when the sabbath came, he entered the synagogue and taught."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-25",
+      "type": "commentary",
+      "text": "21 : , located on the sea's northwest coast. , lit., a “gathering,” typically for religious instruction and prayer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-mark-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "They were astounded at his teaching, for he taught them as one having authority, and not as the scribes."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-26",
+      "type": "commentary",
+      "text": "22 : , religious leaders whose literacy and training in Jewish law gave them elite status and who often oppose Jesus in Mark.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-mark-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Just then there was in their synagogue a man with an unclean spirit,"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-27",
+      "type": "commentary",
+      "text": "23 : , demonic force associated with physical or mental disease; see also 1.27; 3.11,30; 5.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-mark-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "and he cried out, “What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-28",
+      "type": "commentary",
+      "text": "24 : , a name that contrasts with unclean spirit and has both prophetic (2 Kings 4.9) and priestly (Ps 106.16) connotations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-mark-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "But Jesus rebuked him, saying, “Be silent, and come out of him!”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-29",
+      "type": "commentary",
+      "text": "25 : , a Markan motif that stresses Jesus's authoritative command over evil forces, often to suppress public acclaim; see also 1.34,43–44; 3.12; 8.30; 9.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-mark-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And the unclean spirit, convulsing him and crying with a loud voice, came out of him."
+    },
+    {
+      "block_id": "oxford-mark-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "They were all amazed, and they kept on asking one another, “What is this? A new teaching—with authority! He commands even the unclean spirits, and they obey him.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-30",
+      "type": "commentary",
+      "text": "27 : The exorcism combines with Jesus's teaching (1.22) to confirm his authority in word and deed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-mark-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "At once his fame began to spread throughout the surrounding region of Galilee."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-24",
+      "type": "commentary",
+      "text": "1.21–28: Jesus in Capernaum (Mt 7.28–29; Lk 4.33–37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-mark-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "As soon as they left the synagogue, they entered the house of Simon and Andrew, with James and John."
+    },
+    {
+      "block_id": "oxford-mark-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Now Simon's mother-in-law was in bed with a fever, and they told him about her at once."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-32",
+      "type": "commentary",
+      "text": "30 : , suggests that Peter was married. See 1 Cor 9.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-mark-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "He came and took her by the hand and lifted her up. Then the fever left her, and she began to serve them."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-33",
+      "type": "commentary",
+      "text": "31 : Jesus's healing power emanates through physical touch, which often violates purity codes that require separation from disease, blood, and death; see also 1.41; 3.10; 5.28; 6.56; 7.33; 8.23. , possibly in a financial sense (cf. 15.41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-mark-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "That evening, at sunset, they brought to him all who were sick or possessed with demons."
+    },
+    {
+      "block_id": "oxford-mark-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And the whole city was gathered around the door."
+    },
+    {
+      "block_id": "oxford-mark-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "And he cured many who were sick with various diseases, and cast out many demons; and he would not permit the demons to speak, because they knew him."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-31",
+      "type": "commentary",
+      "text": "1.29–34: Healings at Simon's house (Mt 8.14–17; Lk 4.38–41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 29,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-34",
+      "type": "commentary",
+      "text": "32–34 : A summary report that is typical In Mark; see also 3.7–12; 6.53–56. , see 1.25n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 32,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-mark-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "In the morning, while it was still very dark, he got up and went out to a deserted place, and there he prayed."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-36",
+      "type": "commentary",
+      "text": "35 : , or “wilderness”; see 1.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-mark-1-36",
+      "type": "verse",
+      "number": 36,
+      "text": "And Simon and his companions hunted for him."
+    },
+    {
+      "block_id": "oxford-mark-1-37",
+      "type": "verse",
+      "number": 37,
+      "text": "When they found him, they said to him, “Everyone is searching for you.”"
+    },
+    {
+      "block_id": "oxford-mark-1-38",
+      "type": "verse",
+      "number": 38,
+      "text": "He answered, “Let us go on to the neighboring towns, so that I may proclaim the message there also; for that is what I came out to do.”"
+    },
+    {
+      "block_id": "oxford-mark-1-39",
+      "type": "verse",
+      "number": 39,
+      "text": "And he went throughout Galilee, proclaiming the message in their synagogues and casting out demons."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-35",
+      "type": "commentary",
+      "text": "1.35–39: Jesus throughout Galilee (Mt 4.23–25; Lk 4.42–44).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 35,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-37",
+      "type": "commentary",
+      "text": "39 : Together, Jesus's proclaiming the (lit., “word”) and his bear witness to the dawn of God's kingdom on earth. See 1.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-mark-1-40",
+      "type": "verse",
+      "number": 40,
+      "text": "A leper came to him begging him, and kneeling he said to him, “If you choose, you can make me clean.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-39",
+      "type": "commentary",
+      "text": "40 : , a person with a highly contagious skin disease who was deemed ritually impure and thus banished from the community (see Lev 13–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-mark-1-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Moved with pity, Jesus stretched out his hand and touched him, and said to him, “I do choose. Be made clean!”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-40",
+      "type": "commentary",
+      "text": "41 : , attested in most ancient manuscripts (see also 6.34; 9.22). The alternative reading, which claims Jesus was “moved by anger,” may be original. , see 1.31n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-mark-1-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Immediately the leprosyc left him, and he was made clean."
+    },
+    {
+      "block_id": "oxford-mark-1-43",
+      "type": "verse",
+      "number": 43,
+      "text": "After sternly warning him he sent him away at once,"
+    },
+    {
+      "block_id": "oxford-mark-1-44",
+      "type": "verse",
+      "number": 44,
+      "text": "saying to him, “See that you say nothing to anyone; but go, show yourself to the priest, and offer for your cleansing what Moses commanded, as a testimony to them.”"
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-41",
+      "type": "commentary",
+      "text": "43–44 : Earlier, Jesus commanded evil spirits to remain silent (see 1.25n.); here, the injunction applies to the healed man. , Jesus promotes adherence to religious protocol, since it will restore the man's social and religious status.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 43,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-mark-1-45",
+      "type": "verse",
+      "number": 45,
+      "text": "But he went out and began to proclaim it freely, and to spread the word, so that Jesusf could no longer go into a town openly, but stayed out in the country; and people came to him from every quarter."
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-18",
+      "type": "commentary",
+      "text": "1.16–8.26: Jesus's messianic mission: word and deed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-19",
+      "type": "commentary",
+      "text": "1.16–4.41: Jesus in and around Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-38",
+      "type": "commentary",
+      "text": "1.40–45: Jesus cures a man who had leprosy (Mt 8.2–4; Lk 5.12–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 40,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-mark-1-h1kj-42",
+      "type": "commentary",
+      "text": "45 : , i.e., the message about God's sovereign power unleashed in the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 1
+      },
+      "verse_start": 45,
+      "verse_end": 45
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "document_id": "ps-113",
+  "title": "Psalms 113",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-113-heading-psalm-114",
+      "type": "heading",
+      "text": "Psalm 114"
+    },
+    {
+      "block_id": "oxford-ps-113-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! Praise, O servants of the Lord; praise the name of the Lord."
+    },
+    {
+      "block_id": "oxford-ps-113-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 113: A hymn to the God who lifts up the poor. Like other hymns, this one opens and closes with a call to praise, and specifically names those called to praise (“servants of the ,” v. 1). Ps 113 concludes the three Hallelujah psalms ((Pss 111–113) and begins the “Egyptian Hallel” (Heb “praise”) psalms (113–118) sung at major Jewish festivals even though the Psalter does not suggest that they are a collection. Many scholars think that (Pss 113–114 were sung before the Passover meal and (Pss 115–118 after it. Images of “high” and “low” unify the psalm.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 113
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-113-h1kj-2",
+      "type": "commentary",
+      "text": "1 : It is uncertain if the refers to all worshipers, or is a technical term for a specific group in the Temple. represents the person, here the who rules earth and heaven (vv. 2–4). In some late biblical and in postbiblical texts, the of God was used as a surrogate for God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 113
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-113-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Blessed be the name of the Lord from this time on and forevermore."
+    },
+    {
+      "block_id": "oxford-ps-113-3",
+      "type": "verse",
+      "number": 3,
+      "text": "From the rising of the sun to its setting the name of the Lord is to be praised."
+    },
+    {
+      "block_id": "oxford-ps-113-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord is high above all nations, and his glory above the heavens."
+    },
+    {
+      "block_id": "oxford-ps-113-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Who is like the Lord our God, who is seated on high,"
+    },
+    {
+      "block_id": "oxford-ps-113-6",
+      "type": "verse",
+      "number": 6,
+      "text": "who looks far down on the heavens and the earth?"
+    },
+    {
+      "block_id": "oxford-ps-113-h1kj-3",
+      "type": "commentary",
+      "text": "5–6 : A rhetorical question expecting the answer “No one.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 113
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-113-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He raises the poor from the dust, and lifts the needy from the ash heap,"
+    },
+    {
+      "block_id": "oxford-ps-113-8",
+      "type": "verse",
+      "number": 8,
+      "text": "to make them sit with princes, with the princes of his people."
+    },
+    {
+      "block_id": "oxford-ps-113-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He gives the barren woman a home, making her the joyous mother of children. Praise the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-113-h1kj-4",
+      "type": "commentary",
+      "text": "7–9 : Two typical examples of divine ruling: enabling a man to sit with honor among the village elders, and giving a a child; cf. 1 Sam 2.4–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 113
+      },
+      "verse_start": 7,
+      "verse_end": 9
+    }
+  ]
+}

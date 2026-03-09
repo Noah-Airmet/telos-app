@@ -1,0 +1,259 @@
+{
+  "document_id": "wis-9",
+  "title": "Wisdom 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-wis-9-heading-10",
+      "type": "heading",
+      "text": "10"
+    },
+    {
+      "block_id": "oxford-wis-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and by your wisdom have formed humankind to have dominion over the creatures you have made,"
+    },
+    {
+      "block_id": "oxford-wis-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and rule the world in holiness and righteousness, and pronounce judgment in uprightness of soul,"
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-5",
+      "type": "commentary",
+      "text": "2–3 : Cf. Gen 1.28; 2.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-wis-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "give me the wisdom that sits by your throne, and do not reject me from among your servants."
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , personified wisdom is intimately bound to God; cf. v. 10; Prov 8.27–30; Sir 24.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-wis-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For I am your servant the son of your serving girl, a man who is weak and short-lived, with little understanding of judgment and laws;"
+    },
+    {
+      "block_id": "oxford-wis-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "for even one who is perfect among human beings will be regarded as nothing without the wisdom that comes from you."
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-7",
+      "type": "commentary",
+      "text": "5–6 : Solomon's weakness as a motive for his plea for wisdom; cf. 7.1–7; 14.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-wis-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You have chosen me to be king of your people and to be judge over your sons and daughters."
+    },
+    {
+      "block_id": "oxford-wis-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You have given command to build a temple on your holy mountain, and an altar in the city of your habitation, a copy of the holy tent that you prepared from the beginning."
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-8",
+      "type": "commentary",
+      "text": "7–8 : , cf. 1 Kings 1.28–40; 3.7; for his responsibility , cf. 2 Sam 7.13; 1 Kings 5.19; Sir 47.13. On the earthly temple as a copy of the heavenly temple, see Heb 8.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-wis-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "With you is wisdom, she who knows your works and was present when you made the world; she understands what is pleasing in your sight and what is right according to your commandments."
+    },
+    {
+      "block_id": "oxford-wis-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Send her forth from the holy heavens, and from the throne of your glory send her, that she may labor at my side, and that I may learn what is pleasing to you."
+    },
+    {
+      "block_id": "oxford-wis-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For she knows and understands all things, and she will guide me wisely in my actions and guard me with her glory."
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-9",
+      "type": "commentary",
+      "text": "9–11 : Cf. Solomon's petition with wisdom's self-description in Prov 8.4–21,27–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-wis-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then my works will be acceptable, and I shall judge your people justly, and shall be worthy of the throne of my father."
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , King David; 2 Sam 12.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-wis-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For who can learn the counsel of God? Or who can discern what the Lord wills?"
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-11",
+      "type": "commentary",
+      "text": "13 : Cf. Isa 40.12–14; Sir 1.2–6; Bar 3.29–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-wis-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For the reasoning of mortals is worthless, and our designs are likely to fail;"
+    },
+    {
+      "block_id": "oxford-wis-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "for a perishable body weighs down the soul, and this earthy tent burdens the thoughtful mind."
+    },
+    {
+      "block_id": "oxford-wis-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "We can hardly guess at what is on earth, and what is at hand we find with labor; but who has traced out what is in the heavens?"
+    },
+    {
+      "block_id": "oxford-wis-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Who has learned your counsel, unless you have given wisdom and sent your holy spirit from on high?"
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-12",
+      "type": "commentary",
+      "text": "15–17 : That the was a common Greek notion (cf. Plato, 81C) and reiterates Solomon's acknowledgment of human weakness. The five rhetorical questions in vv. 13–17 emphasizing the limits of human knowledge and ability are all undone by the gift of God's and",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-wis-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And thus the paths of those on earth were set right, and people were taught what pleases you, and were saved by wisdom.”"
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-1",
+      "type": "commentary",
+      "text": "6.22–11.1: Praise of the wisdom of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-2",
+      "type": "commentary",
+      "text": "7.1–9.18: The implied author speaks in the persona of King Solomon and describes his life and search for wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-3",
+      "type": "commentary",
+      "text": "9.1–18: Solomon prays to God for wisdom. The prayer builds on 1 Kings 3.6–9 and 2 Chr 1.8–10 where Solomon speaks with God in a dream and in a vision. It is composed in an elegant concentric structure:",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-wis-9-h1kj-13",
+      "type": "commentary",
+      "text": "18 : , a perspective found here for the first time in scripture and developed in the following chapters (cf. Wis 10.4); normally God is the savior (cf. Ex 14.30; Deut 33.29; 1 Sam 17.37; 2 Chr 32.22). Although wisdom is the savior of the righteous ancestors in ch 10, God returns as the protagonist who saves Israel in the latter part of the book (cf. Wis 16.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 9
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    }
+  ]
+}

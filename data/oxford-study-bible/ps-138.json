@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-138",
+  "title": "Psalms 138",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-138-heading-psalm-139",
+      "type": "heading",
+      "text": "Psalm 139"
+    },
+    {
+      "block_id": "oxford-ps-138-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I give you thanks, O Lord, with my whole heart; before the gods I sing your praise;"
+    },
+    {
+      "block_id": "oxford-ps-138-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 138: From personal to universal thanks. An individual thanksgiving that gives thanks for a rescue (vv. 1–3), invites the kings of the world to offer their praise (vv. 4–6), and asserts confidence in the ’s future protection (vv. 7–8). The first in a small collection of David psalms ((Pss 138–145).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 138
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-138-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , either the heavenly beings who serve in the court of the Most High God (see Ps 29.1n.), or the “gods” of the kings mentioned in vv. 4–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 138
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-138-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness; for you have exalted your name and your word above everything."
+    },
+    {
+      "block_id": "oxford-ps-138-3",
+      "type": "verse",
+      "number": 3,
+      "text": "On the day I called, you answered me, you increased my strength of soul."
+    },
+    {
+      "block_id": "oxford-ps-138-4",
+      "type": "verse",
+      "number": 4,
+      "text": "All the kings of the earth shall praise you, O Lord, for they have heard the words of your mouth."
+    },
+    {
+      "block_id": "oxford-ps-138-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They shall sing of the ways of the Lord, for great is the glory of the Lord."
+    },
+    {
+      "block_id": "oxford-ps-138-h1kj-3",
+      "type": "commentary",
+      "text": "4–5 : So wonderful has been God’s protection that kings, representing the nations, should offer praise (cf. Pss 67.3–5; 126.2). Exactly what is meant by is unclear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 138
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-138-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For though the Lord is high, he regards the lowly; but the haughty he perceives from far away."
+    },
+    {
+      "block_id": "oxford-ps-138-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Though I walk in the midst of trouble, you preserve me against the wrath of my enemies; you stretch out your hand, and your right hand delivers me."
+    },
+    {
+      "block_id": "oxford-ps-138-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord will fulfill his purpose for me; your steadfast love, O Lord, endures forever. Do not forsake the work of your hands."
+    },
+    {
+      "block_id": "oxford-ps-138-h1kj-4",
+      "type": "commentary",
+      "text": "8 : As v. 3 sums up the psalmist’s past relationship, this verse sums up the psalmist’s hope that the relationship will continue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 138
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

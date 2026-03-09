@@ -1,0 +1,578 @@
+{
+  "document_id": "ex-15",
+  "title": "Exodus 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-15-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Moses and the Israelites sang this song to the Lord: “I will sing to the Lord, for he has triumphed gloriously; horse and rider he has thrown into the sea."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-4",
+      "type": "commentary",
+      "text": "1 : Although attributed here to , this poem was originally attributed to Miriam, given the association of women with the victory song genre (see v. 20n.); need not be Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ex-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord is my strength and my might, and he has become my salvation; this is my God, and I will praise him, my father’s God, and I will exalt him."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , a hymnic bicolon appearing (perhaps as a quotation) in Isa 12.2 and Ps 118.14. , Israel’s ancestral deity (3.6,13,15; 4.5; 6.2–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ex-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The Lord is a warrior; the Lord is his name."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , see 14.14n. , see 3.13–15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "“Pharaoh’s chariots and his army he cast into the sea; his picked officers were sunk in the Red Sea."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-7",
+      "type": "commentary",
+      "text": "4 : , see 13.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ex-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The floods covered them; they went down into the depths like a stone."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , in Heb the plural of the term that denotes watery chaos (“deep”) in Gen 1.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ex-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Your right hand, O Lord, glorious in power— your right hand, O Lord, shattered the enemy."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-9",
+      "type": "commentary",
+      "text": "6 : The of God (also v. 12), not Moses’s hand (as 14.16,21,26), directly vanquishes the enemy; see 3.19n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ex-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "In the greatness of your majesty you overthrew your adversaries; you sent out your fury, it consumed them like stubble."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-10",
+      "type": "commentary",
+      "text": "7 : evokes imagery of fire, which is sometimes paired with water as elements of devastation (Isa 43.2,16–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ex-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "At the blast of your nostrils the waters piled up, the floods stood up in a heap; the deeps congealed in the heart of the sea."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-11",
+      "type": "commentary",
+      "text": "8 : , poetic language for a strong wind (v. 10), usually destructive (see Job 4.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ex-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The enemy said, ‘I will pursue, I will overtake, I will divide the spoil, my desire shall have its fill of them. I will draw my sword, my hand shall destroy them.’"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-12",
+      "type": "commentary",
+      "text": "9 : , see 14.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You blew with your wind, the sea covered them; they sank like lead in the mighty waters."
+    },
+    {
+      "block_id": "oxford-ex-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“Who is like you, O Lord, among the gods? Who is like you, majestic in holiness, awesome in splendor, doing wonders?"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-13",
+      "type": "commentary",
+      "text": "11 : may be language of Israelite monolatry, in which the existence of other gods is acknowledged (18.11; 20.3; 23.32–33). Another possibility is that denotes lesser divine manifestations or angels in God’s heavenly court (Pss 82.1; 89.5–8). Either way, the rhetorical questions of this verse highlight the incomparability of Israel’s god.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ex-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You stretched out your right hand, the earth swallowed them."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-14",
+      "type": "commentary",
+      "text": "12 : , see 15.6n. , seemingly incompatible with water imagery, refers to the underworld (Sheol, the abode of the dead), which swallows the living (Num 16.32; Isa 29.4; Prov 1.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ex-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“In your steadfast love you led the people whom you redeemed; you guided them by your strength to your holy abode."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-15",
+      "type": "commentary",
+      "text": "13 : , Heb , which also connotes “kindness” and especially “faithfulness.” may refer to God’s heavenly dwelling (as do the terms of v. 17b) or mythical home in the north (Ps 48.1–2); but it perhaps also alludes to the Promised Land as God’s mountainous possession (v. 17a; Ps 78.54–55) and to the Israelites as God’s sanctuary (Ps 114.1–2). If this is not a premonarchic poem, it may also refer to the Jerusalem Temple (v. 17b).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ex-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The peoples heard, they trembled; pangs seized the inhabitants of Philistia."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-16",
+      "type": "commentary",
+      "text": "14 : , see 13.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ex-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then the chiefs of Edom were dismayed; trembling seized the leaders of Moab; all the inhabitants of Canaan melted away."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-17",
+      "type": "commentary",
+      "text": "15 : The Transjordanian kingdoms of and , along with many , are enemies of the Israelites.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ex-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Terror and dread fell upon them; by the might of your arm, they became still as a stone until your people, O Lord, passed by, until the people whom you acquired passed by."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-18",
+      "type": "commentary",
+      "text": "16 : , instead of “hand” (see 15.6n.), as in 6.6. , better “crossed,” has many possible meanings, all valid: crossing the sea, the wilderness, the Jordan, or mythically crossing to God’s mountain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ex-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "You brought them in and planted them on the mountain of your own possession, the place, O Lord, that you made your abode, the sanctuary, O Lord, that your hands have established."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-19",
+      "type": "commentary",
+      "text": "17 : This verse contains overlapping and multileveled imagery similar to that of ancient Canaanite poetry (see 15.13n.). can refer to Israel’s homeland in Canaan, conceptualized as God’s inheritance (see v. 13n.; 34.9; cf. Isa 2.3). , not the same Heb word as for “abode” in v. 13, designates God’s heavenly throne. , lit., “holy place,” is never used in 1 Kings for the Jerusalem Temple; and elsewhere it designates places or objects possessing sanctity, including celestial dwellings of deities (see 25.9n.). indicates that God made the sanctuary, implying that it is the heavenly one, not the copy constructed in Jerusalem by humans; or it could give God credit for building the earthly shrine (cf. Ps 78.69).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ex-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The Lord will reign forever and ever.”"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-20",
+      "type": "commentary",
+      "text": "18 : introduces for the first time the prominent biblical metaphor of God as king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ex-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "When the horses of Pharaoh with his chariots and his chariot drivers went into the sea, the Lord brought back the waters of the sea upon them; but the Israelites walked through the sea on dry ground."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-22",
+      "type": "commentary",
+      "text": "19 : A summary of 14.23–29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then the prophet Miriam, Aaron’s sister, took a tambourine in her hand; and all the women went out after her with tambourines and with dancing."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-23",
+      "type": "commentary",
+      "text": "20 : The title is used for Miriam (whose name appears here for the first time), perhaps because her utterances are in the form of an inspired musical performance (cf. Deborah, Judg 4.4; 5, but not for Moses in Exodus. is an anachronistic translation of Heb top, a small handheld frame drum (without jingles) played mainly by women in the ancient Near East. indicate a woman’s performance genre—usually involving drums, dance, and song—for victory celebrations (1 Sam 18.6–7; Jer 31.4,13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ex-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And Miriam sang to them: “Sing to the Lord, for he has triumphed gloriously; horse and rider he has thrown into the sea.”"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–15.21: Israel in and out of Egypt. The Israelites are oppressed in Egypt; but they escape through the intervention of their God, whose identity is revealed to their heroic leader Moses, who then carries out God’s directives to secure their release.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-2",
+      "type": "commentary",
+      "text": "13.17–15.21: Journey to and through the sea, described in prose and poetry.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-3",
+      "type": "commentary",
+      "text": "15.1–21: The Song of the Sea is a lyric victory hymn generally considered an originally independent composition, one of the oldest literary units in the Bible, perhaps from the twelfth century . Influenced by mythic accounts of the Divine Warrior’s battle with watery chaos (see 14.14n.), it is rich in metaphors and terms that preclude single explanations and at times even defy comprehension; in many details it diverges from the prose account in ch 14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-21",
+      "type": "commentary",
+      "text": "19–21 : A brief narrative with a final poetic section.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-24",
+      "type": "commentary",
+      "text": "21 : This poem, similar to 15.1, may be an abbreviation or title of 15.1–18, originally a composition of Miriam later attributed to Moses (see 15.1n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then Moses ordered Israel to set out from the Red Sea, and they went into the wilderness of Shur. They went three days in the wilderness and found no water."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-29",
+      "type": "commentary",
+      "text": "22 : , see 13.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ex-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "When they came to Marah, they could not drink the water of Marah because it was bitter. That is why it was called Marah."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-28",
+      "type": "commentary",
+      "text": "22–23 : Next stage of the journey; see 12.37n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And the people complained against Moses, saying, “What shall we drink?”"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-30",
+      "type": "commentary",
+      "text": "24 : , see 14.11–12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ex-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "He cried out to the Lord; and the Lord showed him a piece of wood; he threw it into the water, and the water became sweet. There the Lord made for them a statute and an ordinance and there he put them to the test."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-31",
+      "type": "commentary",
+      "text": "25a : Moses carries out a magical act,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-32",
+      "type": "commentary",
+      "text": "25b : , necessary because a community cannot exist without regulations; see 21.1–22.17. The wilderness crises test Israelites (also 16.4) and God (17.27); see Deut 8.1–3,16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ex-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He said, “If you will listen carefully to the voice of the Lord your God, and do what is right in his sight, and give heed to his commandments and keep all his statutes, I will not bring upon you any of the diseases that I brought upon the Egyptians; for I am the Lord who heals you.”"
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-33",
+      "type": "commentary",
+      "text": "26 : , although not used in the marvels episodes (7.8–10.29), may allude to them or to general Egyptian maladies or to both; cf. Deut 28.27. , better “your healer,” an epithet that may derive from Canaanite myth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Then they came to Elim, where there were twelve springs of water and seventy palm trees; and they camped there by the water."
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-25",
+      "type": "commentary",
+      "text": "15.22–24.18. Sinai and covenant. Facing recurrent difficulties, the Israelites cross the wilderness to Sinai (15.22–18.27) where they experience a theophany (ch 19) and enter into the covenant (chs 20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-26",
+      "type": "commentary",
+      "text": "15.22–18.27: Crises and reorganization in the wilderness. The journey resumes; four crises—two water shortages, lack of food, and military threat—foreshadowing the difficulties of life in Canaan, and a meeting with Jethro.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-27",
+      "type": "commentary",
+      "text": "15.22–27: First crisis, lack of water.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-ex-15-h1kj-34",
+      "type": "commentary",
+      "text": "27 : Next stage of the journey; see 12.37n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 15
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

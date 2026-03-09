@@ -1,0 +1,296 @@
+{
+  "document_id": "onechr-3",
+  "title": "onechr 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onechr-3-1",
+      "type": "verse",
+      "number": 1,
+      "text": "These are the sons of David who were born to him in Hebron: the firstborn Amnon, by Ahinoam the Jezreelite; the second Daniel, by Abigail the Carmelite;"
+    },
+    {
+      "block_id": "oxford-onechr-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "the third Absalom, son of Maacah, daughter of King Talmai of Geshur; the fourth Adonijah, son of Haggith;"
+    },
+    {
+      "block_id": "oxford-onechr-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the fifth Shephatiah, by Abital; the sixth Ithream, by his wife Eglah;"
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-4",
+      "type": "commentary",
+      "text": "1–3 : These verses are based on 2 Sam 3.2–4. David’s lineage follows naturally 2.9–17, which enumerates the descendants of Ram, including David and the children of David’s two sisters Zeruiah and Abigail.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-onechr-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "six were born to him in Hebron, where he reigned for seven years and six months. And he reigned thirty‐three years in Jerusalem."
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-5",
+      "type": "commentary",
+      "text": "4 : This verse draws upon and reworks 2 Sam 5.5. Consistent with David’s rule over all Israel in chs 11–29, the writer omits the distinction between Israel and Judah found in his source.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-onechr-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bath‐shua, daughter of Ammiel;"
+    },
+    {
+      "block_id": "oxford-onechr-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "then Ibhar, Elishama, Eliphelet,"
+    },
+    {
+      "block_id": "oxford-onechr-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Nogah, Nepheg, Japhia,"
+    },
+    {
+      "block_id": "oxford-onechr-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Elishama, Eliada, and Eliphelet, nine."
+    },
+    {
+      "block_id": "oxford-onechr-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "All these were David’s sons, besides the sons of the concubines; and Tamar was their sister."
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-3",
+      "type": "commentary",
+      "text": "1–9 : Some names of David’s sons, and their order, are different in the MT of 2 Samuel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-6",
+      "type": "commentary",
+      "text": "5–9 : These verses are largely dependent upon 2 Sam 5.13–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-onechr-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The descendants of Solomon: Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,"
+    },
+    {
+      "block_id": "oxford-onechr-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Joram his son, Ahaziah his son, Joash his son,"
+    },
+    {
+      "block_id": "oxford-onechr-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Amaziah his son, Azariah his son, Jotham his son,"
+    },
+    {
+      "block_id": "oxford-onechr-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Ahaz his son, Hezekiah his son, Manasseh his son,"
+    },
+    {
+      "block_id": "oxford-onechr-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Amon his son, Josiah his son."
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-7",
+      "type": "commentary",
+      "text": "10–14 : A fifteen‐generation genealogy from Solomon to Josiah, noting only the Davidic king in each generation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-onechr-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The sons of Josiah: Johanan the firstborn, the second Jehoiakim, the third Zedekiah, the fourth Shallum."
+    },
+    {
+      "block_id": "oxford-onechr-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The descendants of Jehoiakim: Jeconiah his son, Zedekiah his son;"
+    },
+    {
+      "block_id": "oxford-onechr-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "and the sons of Jeconiah, the captive: Shealtiel his son,"
+    },
+    {
+      "block_id": "oxford-onechr-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah;"
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-8",
+      "type": "commentary",
+      "text": "15–18 : A largely unparalleled genealogy from Josiah to Pedaiah. The second half 3ch 3 gives special attention to Josiah and his various offspring.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-9",
+      "type": "commentary",
+      "text": "18 : , some identify him with Sheshbazzar of Ezra 1.8, who led a group of early returnees from exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-onechr-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The sons of Pedaiah: Zerubbabel and Shimei; and the sons of Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister;"
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-11",
+      "type": "commentary",
+      "text": "19 : was a leader of the postexilic Judean community in the late sixth century ; see, e.g., Ezra 3.2; Hag 1.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-onechr-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab‐hesed, five."
+    },
+    {
+      "block_id": "oxford-onechr-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The sons of Hananiah: Pelatiah and Jeshaiah, his son Rephaiah, his sona Arnan, his sona Obadiah, his sona Shecaniah."
+    },
+    {
+      "block_id": "oxford-onechr-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The son of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six."
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-12",
+      "type": "commentary",
+      "text": "22 : returned from exile in Babylon (Ezra 8.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-onechr-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three."
+    },
+    {
+      "block_id": "oxford-onechr-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven."
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-1",
+      "type": "commentary",
+      "text": "2.3–4.23: The descendants of Judah. The Chronicler first offers a long genealogy of Judah, demonstrating Judah’s centrality; beginning with Judah is especially striking because Reuben is mentioned first in 2.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–24: The descendants of David.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-onechr-3-h1kj-10",
+      "type": "commentary",
+      "text": "19–24 : The list of Davidic descendants from to is unique to the Chronicler and likely reflects aspirations for a renewed Davidic monarchy in the postexilic period.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 24
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "document_id": "josh-20",
+  "title": "Joshua 20",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-josh-20-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then the Lord spoke to Joshua, saying,"
+    },
+    {
+      "block_id": "oxford-josh-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Say to the Israelites, ‘Appoint the cities of refuge, of which I spoke to you through Moses,"
+    },
+    {
+      "block_id": "oxford-josh-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "so that anyone who kills a person without intent or by mistake may flee there; they shall be for you a refuge from the avenger of blood."
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-4",
+      "type": "commentary",
+      "text": "3 : (Heb “goʾel”) was the deceased’s nearest relative (cf. 2 Sam 14.2–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-josh-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The slayer shall flee to one of these cities and shall stand at the entrance of the gate of the city, and explain the case to the elders of that city; then the fugitive shall be taken into the city, and given a place, and shall remain with them."
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-5",
+      "type": "commentary",
+      "text": "4 : was where of the city met to adjudicate disputes (cf. Ruth 4.1–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-josh-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And if the avenger of blood is in pursuit, they shall not give up the slayer, because the neighbor was killed by mistake, there having been no enmity between them before."
+    },
+    {
+      "block_id": "oxford-josh-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The slayer shall remain in that city until there is a trial before the congregation, until the death of the one who is high priest at the time: then the slayer may return home, to the town in which the deed was done.’”"
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-6",
+      "type": "commentary",
+      "text": "6 : Probably a later addition, incorporating the priestly perspective of Num 35.25, with trial by the (rather than the elders of v. 4), and implying that expiated the victim’s death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-josh-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali, and Shechem in the hill country of Ephraim, and Kiriath‐arba (that is, Hebron) in the hill country of Judah."
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-7",
+      "type": "commentary",
+      "text": "7–10 : See on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-josh-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the tableland, from the tribe of Reuben, and Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."
+    },
+    {
+      "block_id": "oxford-josh-20-9",
+      "type": "verse",
+      "number": 9,
+      "text": "These were the cities designated for all the Israelites, and for the aliens residing among them, that anyone who killed a person without intent could flee there, so as not to die by the hand of the avenger of blood, until there was a trial before the congregation. The Levitical cities (21.1–42). Cities of (ch 20) refuge are highlighted with a star."
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-1",
+      "type": "commentary",
+      "text": "13.1–24.33: The allotment of the land. Having completed his first task, the conquest (1.2–5), Joshua turns his attention to his second task (1.6): “Put this people in possession of the land” (cf. Deut 4.21; 15.4; 19.10). The concern over allotment or inheritance (Heb “naḥalah”) unifies this section (13.6; 14.3,13; 17.4,6,14; 19.49). The section emphasizes that the division follows the divine will, as mediated by Joshua and Eleazar the priest. It utilizes four types of sources: boundary descriptions; town lists integrated into boundary descriptions; town lists; and short narratives that relate incidents of importance within the allotments, providing didactic significance to the division of the land. The cities of refuge and Levitical cities are attached at the end of the section since it is necessary for the tribes to receive their inheritance before they can allocate parts of it to others. For this entire section, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-2",
+      "type": "commentary",
+      "text": "20.1–21.42: Allotments to persons of marginal status. This section delineates secondary allotments that form a transition to the practical concerns of how life is to be lived in the land. Neither group is bounded by the tribal borders just enumerated in chs 13–19. The establishment of both the cities of refuge and the Levitical cities was based on instructions given by Moses. Both are supplemental land grants.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-josh-20-h1kj-3",
+      "type": "commentary",
+      "text": "20.1–9: Cities of refuge. The towns of asylum provided the right of asylum for someone who committed involuntary manslaughter until the case was adjudicated. The passage shows how Joshua fulfilled what God had commanded Moses (Num 35.9–34) and Moses commanded Israel (Deut 19.1–13). The right of asylum helped to limit the social damage of unrestrained blood vengeance or feuding, especially important in a tribal context (see Judg 12.1–5; 19.1–21.25). Three towns were allotted on each side of the Jordan. All six were also Levitical cities (21.1,11,27,32,36,38).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    }
+  ]
+}

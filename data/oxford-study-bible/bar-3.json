@@ -1,0 +1,589 @@
+{
+  "document_id": "bar-3",
+  "title": "Baruch 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-bar-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-bar-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear, O Lord, and have mercy, for we have sinned before you."
+    },
+    {
+      "block_id": "oxford-bar-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For you are enthroned forever, and we are perishing forever."
+    },
+    {
+      "block_id": "oxford-bar-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "O Lord Almighty, God of Israel, hear now the prayer of the people of Israel, the children of those who sinned before you, who did not heed the voice of the Lord their God, so that calamities have clung to us."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-3",
+      "type": "commentary",
+      "text": "4 : The Greek word (see ) may represent the confusion of two similar Hebrew words, one meaning “dead” and another “men.” Note, however, that elsewhere in the book exile is symbolically depicted as a form of death (3.10–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Do not remember the iniquities of our ancestors, but in this crisis remember your power and your name."
+    },
+    {
+      "block_id": "oxford-bar-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For you are the Lord our God, and it is you, O Lord, whom we will praise."
+    },
+    {
+      "block_id": "oxford-bar-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For you have put the fear of you in our hearts so that we would call upon your name; and we will praise you in our exile, for we have put away from our hearts all the iniquity of our ancestors who sinned against you."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-4",
+      "type": "commentary",
+      "text": "7 : 1 Kings 8.47–48.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-bar-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "See, we are today in our exile where you have scattered us, to be reproached and cursed and punished for all the iniquities of our ancestors, who forsook the Lord our God."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-1",
+      "type": "commentary",
+      "text": "1.15–3.8: Confession of sin. This prayer draws on numerous biblical texts, including Lev 26, Deut 28, and parts of Jeremiah. It also has many links with Dan 9.4–19. Bar 1.15–2.5 appears to be intended for the Jewish community in Palestine and 2.6–3.8 for Jews in exile; compare 1.15–16 and 2.13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–8 : Appeal to God to hear the prayer of the exiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-5",
+      "type": "commentary",
+      "text": "8 : 2.4. The exile is punishment for sins committed by earlier generations (2.33; 3.4–5; Ex 20.5; 34.7; Lam 5.7; cf. Jer 31.29–30; Ezek 18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Hear the commandments of life, O Israel; give ear, and learn wisdom!"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , Deut 30.15–20; Sir 45.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-bar-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Why is it, O Israel, why is it that you are in the land of your enemies, that you are growing old in a foreign country, that you are defiled with the dead,"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-9",
+      "type": "commentary",
+      "text": "10 : This verse connects the Wisdom poem of 3.9–4.4 to the confession of sin in 1.15–3.8. , the exile has continued for a long time (contrast 1.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , exile is represented as a kind of death. Corpses communicated ritual pollution that prevented contact with the sacred (cf. Num 19.11–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-bar-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "that you are counted among those in Hades?"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-11",
+      "type": "commentary",
+      "text": "11 : Pss 28.1; 88.4. , see 2.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-bar-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You have forsaken the fountain of wisdom."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-12",
+      "type": "commentary",
+      "text": "12 : Prov 18.4; Jer 2.13; 2 Esd 14.47.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-bar-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "If you had walked in the way of God, you would be living in peace forever."
+    },
+    {
+      "block_id": "oxford-bar-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Learn where there is wisdom, where there is strength, where there is understanding, so that you may at the same time discern where there is length of days, and life, where there is light for the eyes, and peace."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-7",
+      "type": "commentary",
+      "text": "3.9–14 : Introduction to the poem, exhorting Israel to learn wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-13",
+      "type": "commentary",
+      "text": "14 : Prov 3.2,13–18; Job 12.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-bar-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Who has found her place? And who has entered her storehouses?"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-15",
+      "type": "commentary",
+      "text": "15 : Job 28.12,20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-bar-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Where are the rulers of the nations, and those who lorded it over the animals on earth;"
+    },
+    {
+      "block_id": "oxford-bar-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "those who made sport of the birds of the air, and who hoarded up silver and gold in which people trust, and there is no end to their getting;"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-16",
+      "type": "commentary",
+      "text": "16b–17a : Jer 27.6; Dan 2.37–38; Jdt 11.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-bar-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "those who schemed to get silver, and were anxious, but there is no trace of their works?"
+    },
+    {
+      "block_id": "oxford-bar-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They have vanished and gone down to Hades, and others have arisen in their place."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-17",
+      "type": "commentary",
+      "text": "17b–19 : Those who searched for riches were unable to avoid death. The Torah, by contrast, is associated with life (4.1; cf. Prov 3.16,18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-bar-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Later generations have seen the light of day, and have lived upon the earth; but they have not learned the way to knowledge, nor understood her paths, nor laid hold of her."
+    },
+    {
+      "block_id": "oxford-bar-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Their descendants have strayed far from her way."
+    },
+    {
+      "block_id": "oxford-bar-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "She has not been heard of in Canaan, or seen in Teman;"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-18",
+      "type": "commentary",
+      "text": "22 : , here probably a reference to the Phoenicians (cf. Gen 10.15), whose coastal cities Tyre and Sidon were associated with wisdom and mercantile skill (Isa 23.8; Ezek 28.3–5; Zech 9.2). , in Edom, a region known for its wisdom (Jer 49.7; Ob 8–9; cf. Gen 36.9–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-bar-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "the descendants of Hagar, who seek for understanding on the earth, the merchants of Merran and Teman, the story-tellers and the seekers for understanding, have not learned the way to wisdom, or given thought to her paths."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-14",
+      "type": "commentary",
+      "text": "15–23: Gentile kings and nations do not possess wisdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-19",
+      "type": "commentary",
+      "text": "23 : , the Ishmaelites, who were Arabian tribal groups with a reputation for trade and commerce (Gen 25.12–15; 37.25). occurs nowhere else in the Bible; it may be a corruption of “Midian,” an area well known for its traders in northern Arabia (Gen 25.2; 37.28; Isa 60.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-bar-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "O Israel, how great is the house of God, how vast the territory that he possesses!"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-20",
+      "type": "commentary",
+      "text": "24 : may refer to the created world rather than to the Jerusalem Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-bar-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "It is great and has no bounds; it is high and immeasurable."
+    },
+    {
+      "block_id": "oxford-bar-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The giants were born there, who were famous of old, great in stature, expert in war."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-21",
+      "type": "commentary",
+      "text": "26 : , the legendary offspring of angels and women in Gen 6.1–4; cf. 6–8; 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-bar-3-27",
+      "type": "verse",
+      "number": 27,
+      "text": "God did not choose them, or give them the way to knowledge;"
+    },
+    {
+      "block_id": "oxford-bar-3-28",
+      "type": "verse",
+      "number": 28,
+      "text": "so they perished because they had no wisdom, they perished through their folly."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-22",
+      "type": "commentary",
+      "text": "28 : Sir 16.7; Wis 14.6; 3 Macc 2.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-bar-3-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Who has gone up into heaven, and taken her, and brought her down from the clouds?"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-24",
+      "type": "commentary",
+      "text": "29 : Deut 30.12–14; cf. Prov 30.4; Sir 24.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-bar-3-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Who has gone over the sea, and found her, and will buy her for pure gold?"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-25",
+      "type": "commentary",
+      "text": "30 : Job 28.14–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-bar-3-31",
+      "type": "verse",
+      "number": 31,
+      "text": "No one knows the way to her, or is concerned about the path to her."
+    },
+    {
+      "block_id": "oxford-bar-3-32",
+      "type": "verse",
+      "number": 32,
+      "text": "But the one who knows all things knows her, he found her by his understanding. The one who prepared the earth for all time filled it with four-footed creatures;"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-26",
+      "type": "commentary",
+      "text": "32 : Job 28.23. God finds Wisdom (see v. 36), whereas in Sir 24.3,9 he creates Wisdom (cf. Prov 8.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-bar-3-33",
+      "type": "verse",
+      "number": 33,
+      "text": "the one who sends forth the light, and it goes; he called it, and it obeyed him, trembling;"
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-27",
+      "type": "commentary",
+      "text": "33 : The trembling of denotes its fear and obedience before God (cf. Gen 1.3; Job 38.35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-bar-3-34",
+      "type": "verse",
+      "number": 34,
+      "text": "the stars shone in their watches, and were glad; he called them, and they said, “Here we are!” They shone with gladness for him who made them."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-28",
+      "type": "commentary",
+      "text": "34 : Job 38.7; Ps 148.3; Sir 43.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-bar-3-35",
+      "type": "verse",
+      "number": 35,
+      "text": "This is our God; no other can be compared to him."
+    },
+    {
+      "block_id": "oxford-bar-3-36",
+      "type": "verse",
+      "number": 36,
+      "text": "He found the whole way to knowledge, and gave her to his servant Jacob and to Israel, whom he loved."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-29",
+      "type": "commentary",
+      "text": "36 : Sir 24.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-bar-3-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Afterward she appeared on earth and lived with humankind."
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-6",
+      "type": "commentary",
+      "text": "3.9–4.4: Wisdom poem. Wisdom, personified as a woman, is elusive but known to God, who gave her to Israel as the Torah. This section has many affinities with Sir 24 and Job 28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-23",
+      "type": "commentary",
+      "text": "29–37 : Only God has Wisdom, and he gives it to Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 29,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-bar-3-h1kj-30",
+      "type": "commentary",
+      "text": "37 : Divine Wisdom appears on earth in Prov 8 and Sir 24.6–12 (cf. Wis 1.7; 9.10). Contrast 42.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 3
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    }
+  ]
+}

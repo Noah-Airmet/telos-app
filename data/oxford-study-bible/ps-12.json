@@ -1,0 +1,85 @@
+{
+  "document_id": "ps-12",
+  "title": "Psalms 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-12-heading-psalm-13",
+      "type": "heading",
+      "text": "Psalm 13"
+    },
+    {
+      "block_id": "oxford-ps-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Help, O Lord, for there is no longer anyone who is godly; the faithful have disappeared from humankind."
+    },
+    {
+      "block_id": "oxford-ps-12-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 12: Prayer in a time of moral disorder and lawlessness. An individual petition provoked by the destructive speech of the powerful (vv. 1–4); it is answered by a promise of divine intervention (v. 5) that invites the psalmist’s trust (vv. 6–8). Like Ps 60.6–8, this psalm seems to preserve an oracle of salvation (v. 5), perhaps uttered by a Temple official in response to a petition (cf. 1 Sam 1.11–18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "They utter lies to each other; with flattering lips and a double heart they speak."
+    },
+    {
+      "block_id": "oxford-ps-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "May the Lord cut off all flattering lips, the tongue that makes great boasts,"
+    },
+    {
+      "block_id": "oxford-ps-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "those who say, “With our tongues we will prevail; our lips are our own—who is our master?”"
+    },
+    {
+      "block_id": "oxford-ps-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "“Because the poor are despoiled, because the needy groan, I will now rise up,” says the Lord; “I will place them in the safety for which they long.”"
+    },
+    {
+      "block_id": "oxford-ps-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The promises of the Lord are promises that are pure, silver refined in a furnace on the ground, purified seven times."
+    },
+    {
+      "block_id": "oxford-ps-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You, O Lord, will protect us; you will guard us from this generation forever."
+    },
+    {
+      "block_id": "oxford-ps-12-h1kj-2",
+      "type": "commentary",
+      "text": "6–7 : The psalmist takes the as already operating.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "On every side the wicked prowl, as vileness is exalted among humankind."
+    }
+  ]
+}

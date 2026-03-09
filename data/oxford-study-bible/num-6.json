@@ -1,0 +1,326 @@
+{
+  "document_id": "num-6",
+  "title": "Numbers 6",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-num-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-num-6-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the Israelites and say to them: When either men or women make a special vow, the vow of a nazirite, to separate themselves to the Lord,"
+    },
+    {
+      "block_id": "oxford-num-6-3",
+      "type": "verse",
+      "number": 3,
+      "text": "they shall separate themselves from wine and strong drink; they shall drink no wine vinegar or other vinegar, and shall not drink any grape juice or eat grapes, fresh or dried."
+    },
+    {
+      "block_id": "oxford-num-6-4",
+      "type": "verse",
+      "number": 4,
+      "text": "All their days as nazirites they shall eat nothing that is produced by the grapevine, not even the seeds or the skins."
+    },
+    {
+      "block_id": "oxford-num-6-5",
+      "type": "verse",
+      "number": 5,
+      "text": "All the days of their nazirite vow no razor shall come upon the head; until the time is completed for which they separate themselves to the Lord, they shall be holy; they shall let the locks of the head grow long."
+    },
+    {
+      "block_id": "oxford-num-6-6",
+      "type": "verse",
+      "number": 6,
+      "text": "All the days that they separate themselves to the Lord they shall not go near a corpse."
+    },
+    {
+      "block_id": "oxford-num-6-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Even if their father or mother, brother or sister, should die, they may not defile themselves; because their consecration to God is upon the head."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-5",
+      "type": "commentary",
+      "text": "3–7 : During the period of their vow, nazirites may not drink wine or consume anything made from grapes; they may not cut their hair; and they may not come into contact with a corpse. Many of the restrictions resemble those applied to the priests (see Lev 10.9–11; 21.1–12; Ezek 44.31), suggesting that according to Priestly legislation, this institution allowed nonpriests to become, in some sense, temporary priests.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 3,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-num-6-8",
+      "type": "verse",
+      "number": 8,
+      "text": "All their days as naziritesb they are holy to the Lord."
+    },
+    {
+      "block_id": "oxford-num-6-9",
+      "type": "verse",
+      "number": 9,
+      "text": "If someone dies very suddenly nearby, defiling the consecrated head, then they shall shave the head on the day of their cleansing; on the seventh day they shall shave it."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-6",
+      "type": "commentary",
+      "text": "9 : Seven‐day period of purification (cf. 19.11; Lev 14.10; 15.29), at the end of which his or her hair must be shaved.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-num-6-10",
+      "type": "verse",
+      "number": 10,
+      "text": "On the eighth day they shall bring two turtledoves or two young pigeons to the priest at the entrance of the tent of meeting,"
+    },
+    {
+      "block_id": "oxford-num-6-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and the priest shall offer one as a sin offering and the other as a burnt offering, and make atonement for them, because they incurred guilt by reason of the corpse. They shall sanctify the head that same day,"
+    },
+    {
+      "block_id": "oxford-num-6-12",
+      "type": "verse",
+      "number": 12,
+      "text": "and separate themselves to the Lord for their days as nazirites,b and bring a male lamb a year old as a guilt offering. The former time shall be void, because the consecrated head was defiled."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-7",
+      "type": "commentary",
+      "text": "10–12 : Eighthday offerings of two turtledoves or pigeons are presented to the priest for sacrifice, followed by a guilt offering of a one‐year‐old male lamb, which allows the person to begin the nazirite vow anew.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-num-6-13",
+      "type": "verse",
+      "number": 13,
+      "text": "This is the law for the naziritesb when the time of their consecration has been completed: they shall be brought to the entrance of the tent of meeting,"
+    },
+    {
+      "block_id": "oxford-num-6-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and they shall offer their gift to the Lord, one male lamb a year old without blemish as a burnt offering, one ewe lamb a year old without blemish as a sin offering, one ram without blemish as an offering of wellbeing,"
+    },
+    {
+      "block_id": "oxford-num-6-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and a basket of unleavened bread, cakes of choice flour mixed with oil and unleavened wafers spread with oil, with their grain offering and their drink offerings."
+    },
+    {
+      "block_id": "oxford-num-6-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The priest shall present them before the Lord and offer their sin offering and burnt offering,"
+    },
+    {
+      "block_id": "oxford-num-6-17",
+      "type": "verse",
+      "number": 17,
+      "text": "and shall offer the ram as a sacrifice of well‐being to the Lord, with the basket of unleavened bread; the priest also shall make the accompanying grain offering and drink offering."
+    },
+    {
+      "block_id": "oxford-num-6-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then the nazirites shall shave the consecrated head at the entrance of the tent of meeting, and shall take the hair from the consecrated head and put it on the fire under the sacrifice of well‐being."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-9",
+      "type": "commentary",
+      "text": "18 : Burning the hair is part of the rite of passage that transfers the nazirite back to lay status.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-num-6-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The priest shall take the shoulder of the ram, when it is boiled, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them in the palms of the nazirites,a after they have shaved the consecrated head."
+    },
+    {
+      "block_id": "oxford-num-6-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then the priest shall elevate them as an elevation offering before the Lord; they are a holy portion for the priest, together with the breast that is elevated and the thigh that is offered. After that the naziritesa may drink wine."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-8",
+      "type": "commentary",
+      "text": "13–20 : The procedures for ending the vow are complex since self‐removal from the sacred is a dangerous procedure, requiring many sacrifices: a burnt offering (see Lev 1.1–17), sin offering (see Lev 4.1–5.13), offering of well‐being (see Lev 3.1–17), and grain and drink offerings (see Lev 2.1–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 13,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-10",
+      "type": "commentary",
+      "text": "20 : (see Lev 7.27–36) marks the completion of the ritual.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-num-6-21",
+      "type": "verse",
+      "number": 21,
+      "text": "This is the law for the naziritesa who take a vow. Their offering to the Lord must be in accordance with the nazirite vow, apart from what else they can afford. In accordance with whatever vow they take, so they shall do, following the law for their consecration."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-4",
+      "type": "commentary",
+      "text": "6.1–21: Law of the nazirite. The term “nazirite” comes from the Heb verb , probably meaning “to abstain.” Any man or woman may become a nazirite by taking a vow, resulting in a priest‐like status for the person for a set period or permanently; see Judg 13.4–7; 1 Sam 1.11; Am 2.11–12. The law of the nazirite has three parts: restrictions (vv. 1–8); cleansing from accidental defilement (vv. 9–12); proper procedures for ending the vow (vv. 13–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-num-6-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-num-6-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Speak to Aaron and his sons, saying, Thus you shall bless the Israelites: You shall say to them,"
+    },
+    {
+      "block_id": "oxford-num-6-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The Lord bless you and keep you;"
+    },
+    {
+      "block_id": "oxford-num-6-25",
+      "type": "verse",
+      "number": 25,
+      "text": "the Lord make his face to shine upon you, and be gracious to you;"
+    },
+    {
+      "block_id": "oxford-num-6-26",
+      "type": "verse",
+      "number": 26,
+      "text": "the Lord lift up his countenance upon you, and give you peace."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-12",
+      "type": "commentary",
+      "text": "24–26 : The blessing consists of three lines of poetry; each line contains two verbs, the first of which summarizes an activity of Yahweh upon the worshipper (“bless, shine, lift”), and the second describes the results of God’s actions (“keep, be gracious, give peace”). Each line of the blessing is longer than the previous one, reflecting the hope for ever‐expanding blessing. The discovery of a form of this blessing on a sixth‐century silver amulet from a burial cave near Jerusalem underscores its central role in ancient Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 24,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-num-6-27",
+      "type": "verse",
+      "number": 27,
+      "text": "So they shall put my name on the Israelites, and I will bless them."
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–10.10: The wilderness camp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–6.27: The community and the camp. The layout of the camp around the tabernacle introduces degrees of holiness depending on proximity to the sanctuary at the center: the closer to God, the holier. The arrangement of the camp, the order for marching, and the role of the Levites clarifies the important role of holiness in the life of the community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–6.27: Laws to protect the camp. The divinely given laws are arranged in relationship to the sanctuary, moving from the edge of the camp to its center. The section begins with social laws that are directed to practices outside of the camp (5.1–4) before moving to actions within the camp (5.5–6.21), and concludes with the priestly blessing (6.22–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-11",
+      "type": "commentary",
+      "text": "6.22–27: Priestly blessing. A priestly blessing of the congregation provides a safeguard against defilement by infusing the camp with the power of divine blessing. (5.1–6.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 22,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-num-6-h1kj-13",
+      "type": "commentary",
+      "text": "27 : God, rather than the priest, blesses. The priestly blessing provides an ideal portrait of the community where God pays attention to persons, where blessing and security drive out impurity, and where the achievement of wholeness and peace (Heb “shalom”) is possible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 6
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

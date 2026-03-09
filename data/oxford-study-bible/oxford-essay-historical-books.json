@@ -1,0 +1,192 @@
+{
+  "document_id": "oxford-essay-historical-books",
+  "title": "Introduction to the Historical Books",
+  "type": "essay",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-essay-historical-books-heading-0",
+      "type": "heading",
+      "text": "The Historical Books and Historiography"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-1",
+      "type": "paragraph",
+      "text": "The Christian bishop Athanasius of Alexandria, in the fourth century ce, first used the term “histories” for this section of the Bible, which comprises the books of Joshua, Judges, Ruth, Samuel, Kings, Chronicles, Ezra, Nehemiah, and Esther. It is a misleading title, since these books include many genres and often are not historical in modern senses of the word; they recount a past, but do not necessarily recount the past accurately. Furthermore, the Bible contains several books that are similar to some of these “historical books,” yet they are found in different sections of the Bible."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-2",
+      "type": "paragraph",
+      "text": "Large sections of the preceding books of Genesis, Exodus, and Numbers, and much of the opening section of Deuteronomy, contain narratives that recount a past. Similarly, several psalms survey past “events” (e.g., Pss 78, 105, 106, 107). Yet, this material is not incorporated into the Historical Books. Thus, this section does not represent the collection of all works of the same genre, and its emergence as a canonical division is best understood in relation to the broader development of the Christian biblical canon. In the traditional Jewish arrangement of the books of the Bible, the books of Joshua, Judges, Samuel, and Kings are called the Former Prophets, thus beginning the second major division of the Hebrew Bible, the Prophets, which follows the Torah, the first five books of the Bible. (This designation suggests that these books should be viewed as prophecy, and not as history.) The books of Ruth, Chronicles, Ezra, Nehemiah, and Esther, however, are found in the third, final, major division, the Writings.",
+      "compare_unit_ids": [
+        "ps-78-1",
+        "ps-105-1",
+        "ps-106-1",
+        "ps-107-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-3",
+      "type": "paragraph",
+      "text": "Given the somewhat artificial nature of the canonical section of the Historical Books, this introduction examines the nature of biblical historical texts, broadly construed, with a focus on the books Joshua through Esther, which now comprise the section of the Bible called Historical Books."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-4",
+      "type": "paragraph",
+      "text": "The idea that historical writing should capture the events “as they really were,” that historians should attempt to write an objective account of the events of the past, is a notion that developed in European universities in modern times. Before that, history was typically didactic in nature, teaching readers how to be good citizens or how to lead proper religious lives. Sometimes histories produced in royal courts were apologetic, showing that the king fulfilled his royal duties; elsewhere they were written by religious officials who aimed to show that their particular religious practices were correct by recounting their ancient, sacred origin. Surviving historical documents from the ancient Near East show similar religious and ideological goals. Thus, it should not be surprising that the biblical writers are not necessarily interested in the accurate recording of events; rather, they use narratives set in the past to illustrate issues of significance to their audience, the ancient Israelite community, over a period encompassing nearly a millennium, and in different places. Such issues of significance would change over time and place."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-5",
+      "type": "paragraph",
+      "text": "It is easiest to understand the biblical notion of history by first focusing on works that are outside this canonical division. Exodus 13.3 begins: “Moses said to the people, ‘Remember this day on which you came out of Egypt, out of the house of slavery.’” Looking at this alone would suggest the importance of history for its own sake. However, this unit continues with a set of commandments directly associated with this event: “No leavened bread shall be eaten” (v. 3); “Seven days you shall eat unleavened bread, and on the seventh day there shall be a festival to the Lord” (v. 6); “No leavened bread shall be seen in your possession, and no leaven shall be seen among you in all your territory” (v. 7); “You shall tell your child on that day” (v. 8); “It shall serve for you as a sign on your hand and as a reminder on your forehead” (v. 9); “You shall set apart to the Lord all that first opens the womb. All the firstborn of your livestock that are males shall be the Lord’s” (v. 12). These laws suggest the Exodus is to be remembered not as a disembodied historical event, as the beginning of v. 3 might suggest; rather, the Exodus is key because it serves as the basis for the observance of a central set of laws or practices.",
+      "compare_unit_ids": [
+        "ex-13-1",
+        "ex-13-6",
+        "ex-13-7",
+        "ex-13-8",
+        "ex-13-9",
+        "ex-13-12"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-6",
+      "type": "paragraph",
+      "text": "The use of historical material in Psalms is even more instructive, since in them traditions about the past are typically found in a context that explicitly highlights their theological significance or purpose. For example, in Psalm 78 a particular set of traditions is chosen and shaped so"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-7",
+      "type": "paragraph",
+      "text": "Psalm 106 uses “history” quite differently. It tells how God saved Israel time after time, despite their covenant violations, forming an argument to God that they should be rescued again:"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-8",
+      "type": "paragraph",
+      "text": "Unfortunately, the Historical Books are usually not as explicit about their purposes as these psalms or Exodus 13; only through careful internal analysis is it possible to surmise the motivations and interests that shaped these books."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-heading-9",
+      "type": "heading",
+      "text": "Organization into Books and Larger Units"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-10",
+      "type": "paragraph",
+      "text": "In pursuing this task, we must remember that the division of some biblical writings into separate books is just as arbitrary as the designation of a particular set of books as a single canonical unit, such as Historical Books. The division of Samuel, Kings, and Chronicles into two separate books each is not original and was first done in the Greek Bible (the Septuagint [LXX]) so that the books would be of more reasonable length. In the formation of the canon, the books of Ezra and Nehemiah were originally considered a single work, and it is possible that the books of Joshua and Judges, which blend together well (see especially the overlapping Josh 24.29–31 and Judg 2.8–10), were also treated as a single work at an earlier period. Even the divisions between these larger works are not always certain; the first two chapters of Kings, for example, which narrate events at the end of David’s life, fit the book of Samuel better than their current place.",
+      "compare_unit_ids": [
+        "josh-24-29",
+        "josh-24-31",
+        "judg-2-8",
+        "judg-2-10"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-11",
+      "type": "paragraph",
+      "text": "In fact, it has been proposed that since the books of Joshua, Judges, Samuel, and Kings, along with the preceding book of Deuteronomy, fit so well together, these five books were edited together as a single work. This work is typically called the Deuteronomistic History, meaning the history written under the influence of ideas found in the book of Deuteronomy. Although often challenged recently, especially in relation to the book of Samuel, this theory still has much to commend it: These five books do read as a unified whole from a chronological perspective, narrating a continuous history from the end of the life of Moses through the Babylonian exile in the early sixth century bce, and they share many phrases and ideological notions, such as an insistence on exclusive worship of God and the tragic consequences of idolatry, a concern with the centrality of Jerusalem, and a belief in the eternal supremacy of the dynasty founded by King David. If this theory is correct, the size of the Deuteronomistic History, and the long period that it covers, is remarkable, even for an edited work, especially for an ancient historical work."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-12",
+      "type": "paragraph",
+      "text": "Many details of this theory are debated; some scholars suggest that these books are not unified enough to be the product of a single movement. For example, the book of Samuel shows remarkably few contacts with the language of Deuteronomy, and the book of Kings, in its final form, contains narratives in which the great prophets Elijah and Elisha are legitimately active outside the Jerusalem Temple (see, e.g., 1 Kings 18, concerning Elijah on Mount Carmel). Thus, various theories have suggested successive editions of the Deuteronomistic History, which many theorize was begun in the seventh century under the Judean King Josiah (640–609 bce), but completed only in the Babylonian exile (586–538 bce) or later. Some suggest that the lack of unity is due to non‐Deuteronomistic material that has been added at a late stage to an earlier Deuteronomistic History. Scholars have also attempted to isolate narratives that might have preceded the Deuteronomistic History and other sources used by the Deuteronomistic Historians, and to discern their original purposes before these narratives and sources became integrated into the larger literary work; by being incorporated into the larger History, a unit’s function or meaning may have been changed or modified.",
+      "compare_unit_ids": [
+        "onekings-18-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-13",
+      "type": "paragraph",
+      "text": "Some scholars have felt that the many differences between the books Deuteronomy, Joshua, Judges, Samuel, and Kings outweigh the similarities, and some have discarded the hypothesis of a Deuteronomistic History. All agree that these books have a long and complicated history, and at most, the Deuteronomistic History is a collection, so it is impossible to speak of a unified purpose or interest in the compilation of the books of Joshua, Judges, Samuel, and Kings. They reflect at the minimum different interests at the stages of their development, pre‐Deuteronomic, Deuteronomistic (exilic), and perhaps postexilic. The interests of each individual book of the Deuteronomistic History are discussed in the Introductions to those particular books."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-14",
+      "type": "paragraph",
+      "text": "Scholars have also found many similarities between Chronicles and Ezra‐Nehemiah and have posited that these works belong to a single large history that parallels the Deuteronomistic History. The author of these books is often called “the Chronicler.” A closer look at Chronicles and Ezra‐Nehemiah, however, shows that they differ from each other in outlook and vocabulary, and that the general similarities between them are best attributed not to common authorship but to the shared era in which they were written, most likely the fourth century bce."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-15",
+      "type": "paragraph",
+      "text": "Chronicles is a retelling with significant variations of the books of Genesis through Kings. It is likely that its author used a form of the Torah/Pentateuch and Samuel‐Kings, as well as several other books now in our Bible, that was very close to the form we now know them; he also had some access to external sources not found in our canonical Bibles. The main feature of Chronicles is the remarkable way in which its author reworks his sources to fit a particular notion of historical probability, namely, presenting what really could have happened based on notions of how the world worked. For example, in the book of Kings, which does not have a clear retribution theory (a theory concerning divine punishment and reward), the Judean King Manasseh (698/687–642 bce) is depicted as the most evil king of Judah, who was ultimately responsible for the destruction of the Temple in 586 (e.g., 2 Kings 24.3). The same source, however, indicates that Manasseh reigned for fifty‐five years, longer than any other king. For many biblical writers, a long life was a sign of divine favor. The contradiction between the behavior of Manasseh and his long reign did not bother the Deuteronomistic Historians, who did not believe that each individual king needed to be punished or rewarded for his behavior. The Chronicler, however, did believe in this retribution theology, and the Deuteronomistic Historians’ depiction of Manasseh in Kings was clearly troublesome. For this reason, the Chronicler rewrote the life of Manasseh, adding 2 Chronicles 33.10–13:",
+      "compare_unit_ids": [
+        "twokings-24-3",
+        "twochr-33-10",
+        "twochr-33-13"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-16",
+      "type": "paragraph",
+      "text": "Thus, the author of Chronicles “adjusted” Manasseh’s life to fit the paradigms that he believed to be true: All people need to be warned before they are punished; repentance is extremely effective; and individuals may succeed only if their behavior is meritorious. Other examples of this type of revisionism are found throughout Chronicles and are discussed in the Introductions to 1 and 2 Chronicles; they are especially easy to isolate since we have much of the material that this author revised—it is preserved in our Bible. We no longer have the sources on which Samuel and Kings are based, so it is difficult to know if they revise their sources, or are as distant from the historical events that they depict, as the Chronicler. For some contemporary biblical scholars, who doubt the historicity of King Saul, King David, and King Solomon, and suggest that the United Monarchy under David and Solomon never existed, the earlier historical books of Joshua‐Kings are just as problematic in describing the history of Israel as is the later book of Chronicles."
+    },
+    {
+      "block_id": "oxford-essay-historical-books-heading-17",
+      "type": "heading",
+      "text": "Smaller Works"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-18",
+      "type": "paragraph",
+      "text": "The books of Ruth and Esther are both short stories, historical fictions, which are different in nature from the works discussed earlier but are very similar to the books of Tobit and Judith in the Apocrypha. They are more literary or rhetorical than the larger works of the Deuteronomistic Historians and the Chronicler; that is, their authors self‐consciously manipulated their prose for esthetic as well as ideological purposes. For example, part of the structuring of Ruth involves symmetry: an ˒eshet ḥayil (“a powerful woman” [3.11]) meets and marries a ˒ish gibbor ḥayil (“a powerful man”; NRSV “a prominent rich man” [2.1]), and they live happily ever after. The book also opens with an ironic statement that is apparent only in Hebrew: A famine befalls “the house of bread” (Bethlehem). Esther as well is tightly structured, for example, using dinner parties as a major plot device for the book’s progress. Despite the literary artistry of these books—found to a lesser extent in other biblical historical writings, they are also history in the sense outlined earlier—they narrate a past in order to convey lessons relevant to a particular community. The characteristics of Ruth and Esther, each set in a distinct country and time, and each reflecting remarkably different ideologies, may be found in the Introduction to each.",
+      "compare_unit_ids": [
+        "ruth-3-11",
+        "ruth-2-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-19",
+      "type": "paragraph",
+      "text": "The book of Ezra differs from these other Historical Books in its use of extensive quotations of official Persian documents (e.g., 7.12–26), which some scholars consider authentic. The book of Nehemiah lacks these documents but is unusual in its own way: It narrates history extensively from a first‐person perspective, as a type of memoir, as in 13.15: “In those days I saw in Judah people treading wine presses on the sabbath, and bringing in heaps of grain and loading them on donkeys; and also wine, grapes, figs, and all kinds of burdens, which they brought into Jerusalem on the sabbath day; and I warned them at that time against selling food.” (Sections of Ezra 7–9 sometimes take the perspective of Ezra in the first person and are considered to be part of an “Ezra Memoir,” parallel to the “Nehemiah Memoir” noted earlier.) Ezra‐Nehemiah is closer to the events that it narrates than most other biblical books, but this does not mean that it reflects the events it narrates with greater accuracy than other biblical works, which are typically removed by centuries from the events being described; ideology may motivate the speedy reshaping of the past. Ezra‐Nehemiah is highly ideological, interested in fostering the importance of the Torah as the central document for the postexilic community (see especially Neh 8–9), and in emphasizing the grave dangers of intermarriage (Ezra 9–10; Neh 13). Thus, even Ezra‐Nehemiah, which purports to contain archival material and first‐person accounts, and is among the latest of the books in this canonical division, should not be seen as straightforward, representative, and accurate history.",
+      "compare_unit_ids": [
+        "ezra-7-12",
+        "ezra-7-26",
+        "neh-13-15",
+        "ezra-7-1",
+        "ezra-9-1",
+        "neh-8-1",
+        "neh-9-1",
+        "ezra-9-1",
+        "ezra-10-1",
+        "neh-13-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-heading-20",
+      "type": "heading",
+      "text": "The Historical Books and Historicity"
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-21",
+      "type": "paragraph",
+      "text": "The problematic nature of all of these texts as historical documents does not mean that we have no idea of the historical periods that they cover, or that they are entirely useless as historical sources. Each text, that is each unit that is incorporated into each book, needs to be weighed individually in terms of its date of composition and its likely goals. For example, it is likely that an author of the book of Kings had access to archives that detailed transactions of the royal and Temple accounts, and thus such dry accounts as 1 Kings 15.18 should be seen as (largely) reliable: “So Asa took all the silver and gold that were left in the treasures of the house of the Lord and the treasures of the king’s house, and gave them into the hands of his servants. King Asa sent them to King Ben‐hadad son of Tabrimmon son of Hezion of Aram, who resided in Damascus.” In contrast, there are good reasons to be suspicious of the historicity of the long, detailed, and embellished story of David slaying Goliath in 1 Sam 17. This story uses late biblical Hebrew language, comes from a different source than the surrounding material in Samuel, and is structured like a fairy tale, in that the poor, short, unexpected hero gets to marry the tall king’s daughter by killing the giant who had vilified God. Additionally, 2 Sam 21.19 reads: “Then there was another battle with the Philistines at Gob; and Elhanan son of Jaare‐oregim, the Bethlehemite, killed Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.” It is much more likely that a short tradition in which Goliath is killed by a relatively unknown figure (Elhanan) would be the source for the long, elaborate tale attributing the same event to the well‐known David, rather than vice versa. Thus, the modern historian must subject each text in these Historical Books to the type of internal analysis used on nonbiblical historical texts.",
+      "compare_unit_ids": [
+        "1-sam-17-1",
+        "2-sam-21-19"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-22",
+      "type": "paragraph",
+      "text": "In a small number of cases we have external, ancient Near Eastern written evidence that deals with events depicted in these Historical Books. For example, the events surrounding the siege of Jerusalem by the Assyrian King Sennacherib in 701 bce are narrated in several Assyrian written sources and are also depicted in the palace reliefs of that king. These sources suggest that the terse account in 2 Kings 18.13–16 is by and large accurate, while the highly developed continuation of the story in chs 19 and 20, especially the note in 19.35, that the angel of the Lord killed 185,000 Assyrian soldiers in a single night, is invented. Similarly, from Mesopotamian sources, we know of a “house of Omri,” and Omri’s name is also mentioned on the Moabite Mesha Stele. This confirms the existence of the king of the Northern Kingdom of Israel mentioned in 1 Kings 16.23–28. However, Kings tells little of Omri’s achievements during his twelve years as monarch, other than his building of Samaria and this notice: “Omri did what was evil in the sight of the Lord; he did more evil than all who were before him. For he walked in all the way of Jeroboam son of Nebat, and in the sins that he caused Israel to commit, provoking the Lord, the God of Israel, to anger by their idols” (vv. 25–26). The nonbiblical sources, however, suggest that Omri was a powerful king who established a significant name for himself through his military activities, information that the Bible ignores. This highlights the extreme selectivity of the biblical sources. It is also noteworthy that all of the Judean and Israelite kings mentioned in nonbiblical sources are mentioned in the Bible— but this does not confirm the details of the entire biblical account of each of these kings, or the general historical veracity of the Deuteronomic History.",
+      "compare_unit_ids": [
+        "twokings-18-13",
+        "twokings-18-16",
+        "onekings-16-23",
+        "onekings-16-28",
+        "onekings-16-25",
+        "onekings-16-25"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-23",
+      "type": "paragraph",
+      "text": "Archaeological evidence confirms the picture suggested earlier, that there may be some truth (or kernel of truth) to some of the biblical stories, but in their current form they lack historical veracity, because that is not their prime concern. The past decades, for example, have seen a remarkable reevaluation of the evidence concerning the conquest of the land of Canaan by Joshua. As more sites have been excavated, it has become clear that the main story of Joshua, that of a speedy and complete conquest (e.g., Josh 11.23: “So Joshua took the whole land, according to all that the Lord had spoken to Moses”), is contradicted by the archaeological record, which suggests that only some cities (e.g., Hazor) were destroyed and conquered at the time‐period claimed in Joshua. The book of Joshua is thus comprised of traditions that have been reworked very substantially over time in order to convey a particular picture of God and to justify the territorial claims and aspirations in ancient Israel.",
+      "compare_unit_ids": [
+        "josh-11-23"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-historical-books-para-24",
+      "type": "paragraph",
+      "text": "In sum, the term Historical Books must not frame the way we read the following texts; if we read them as we read modern historical accounts, we will misunderstand these texts in the most fundamental way. Many of these texts do contain raw material for a modern historian researching the history of ancient Israel from the late second millennium through the fourth century bce, but this “real” history may only be teased out using sophisticated and complex tools—and even then, reconstructions are often extremely tentative. This is because the biblical historians wrote their accounts, sometimes using sources, to illustrate particular perspectives concerning the relationship between God and Israel. It is these religious and religio‐political perspectives that these books highlight."
+    }
+  ]
+}

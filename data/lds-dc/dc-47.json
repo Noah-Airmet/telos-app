@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-47",
+  "title": "Section 47: John Whitmer as historian",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-47-heading",
+      "type": "heading",
+      "text": "John Whitmer as historian"
+    },
+    {
+      "block_id": "dc-47-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 47 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 47,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

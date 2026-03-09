@@ -1,0 +1,397 @@
+{
+  "document_id": "colo-3",
+  "title": "colo 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-colo-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-colo-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Set your minds on things that are above, not on things that are on earth,"
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-3",
+      "type": "commentary",
+      "text": "1–2 : , commands to orient one's life around the heavenly reality of Christ's exaltation and authority.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-colo-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for you have died, and your life is hidden with Christ in God."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , see 2.11–12n. , expressing an intimate and inseparable connection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-colo-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When Christ who is your life is revealed, then you also will be revealed with him in glory."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , at the eschatological judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-colo-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Put to death, therefore, whatever in you is earthly: fornication, impurity, passion, evil desire, and greed (which is idolatry)."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , vehemently refuse to engage in. , inappropriate sexual behavior. , often linked with sexual sins in Jewish and Christian thought (Hos 4.12–19; Rom 1.23–27; 1 Cor 10.7–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "On account of these the wrath of God is coming on those who are disobedient."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , God's eschatological judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "These are the ways you also once followed, when you were living that life."
+    },
+    {
+      "block_id": "oxford-colo-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But now you must get rid of all such things—anger, wrath, malice, slander, and abusive language from your mouth."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , a list of vices commonly condemned in antiquity (cf. 1 Cor 6.9; Gal 5.19–21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-colo-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Do not lie to one another, seeing that you have stripped off the old self with its practices"
+    },
+    {
+      "block_id": "oxford-colo-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and have clothed yourselves with the new self, which is being renewed in knowledge according to the image of its creator."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-10",
+      "type": "commentary",
+      "text": "9–10 : , another contrast emphasizing the new act of creation (recalling Gen 1.26–27) brought about by baptism (2.12). f, changing one's clothing as a metaphor for adopting a new way of life (3.12–14; Eph 4.22–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-colo-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "In that renewal there is no longer Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave and free; but Christ is all and in all!"
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-6",
+      "type": "commentary",
+      "text": "3.5–11: Reject sins of the old life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-11",
+      "type": "commentary",
+      "text": "11 : An eloquent rejection of privileges based on ethnicity and socioeconomic status; cf. the additional abrogation of a gender hierarchy in Gal 3.28. , shorthand in antiquity for uncultured peoples.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-colo-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "As God's chosen ones, holy and beloved, clothe yourselves with compassion, kindness, humility, meekness, and patience."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , virtues emphasizing a proper attitude toward oneself and genuine concern for others.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-colo-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord has forgiven you, so you also must forgive."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , Eph 4.32; cf. Mt 6.14–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-colo-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Above all, clothe yourselves with love, which binds everything together in perfect harmony."
+    },
+    {
+      "block_id": "oxford-colo-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And let the peace of Christ rule in your hearts, to which indeed you were called in the one body. And be thankful."
+    },
+    {
+      "block_id": "oxford-colo-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Let the word of Christ dwell in you richly; teach and admonish one another in all wisdom; and with gratitude in your hearts sing psalms, hymns, and spiritual songs to God."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-15",
+      "type": "commentary",
+      "text": "16 : , teachings concerning Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-colo-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-12",
+      "type": "commentary",
+      "text": "3.12–17: Adopt virtues of the new life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-colo-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Wives, be subject to your husbands, as is fitting in the Lord."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-18",
+      "type": "commentary",
+      "text": "18 : , accept a position of subordination. The role of Nympha (4.15n) stands in contrast to the idealized subordinate female.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-colo-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Husbands, love your wives and never treat them harshly."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-17",
+      "type": "commentary",
+      "text": "18–19 : / , the first of the three fundamental household relationships. Cf. Eph 5:22–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-19",
+      "type": "commentary",
+      "text": "19 : , alternatively, “do not be embittered against them.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-colo-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Children, obey your parents in everything, for this is your acceptable duty in the Lord."
+    },
+    {
+      "block_id": "oxford-colo-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Fathers, do not provoke your children, or they may lose heart."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-20",
+      "type": "commentary",
+      "text": "20–21 : C / , cf. Eph 6.1–4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-colo-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Slaves, obey your earthly masters in everything, not only while being watched and in order to please them, but wholeheartedly, fearing the Lord.c"
+    },
+    {
+      "block_id": "oxford-colo-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Whatever your task, put yourselves into it, as done for the Lord and not for your masters,"
+    },
+    {
+      "block_id": "oxford-colo-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "since you know that from the Lord you will receive the inheritance as your reward; you serve the Lord Christ."
+    },
+    {
+      "block_id": "oxford-colo-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For the wrongdoer will be paid back for whatever wrong has been done, and there is no partiality."
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–4.6: Ethical implications. 3.1–4: Maintain a heavenly perspective.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-16",
+      "type": "commentary",
+      "text": "3.18–4.1: Household relationships “in the Lord. ” This passage adopts a popular philosophical format of paired commands (wife/husband, etc.) for describing the ancient ideal of the patriarchal family and defends it as appropriate for a community dedicated to Christ as Lord (see the more extensive elaboration in Eph 5.22–6.9). The commands to the male figure somewhat moderate his traditional prerogatives (see 3.19,21; 4.1), although appeal to these rules throughout Christian history has tended to reinforce rather than challenge male authority.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-colo-3-h1kj-21",
+      "type": "commentary",
+      "text": "3.22–4.1 : S / , cf. Eph 6.5–9. This relationship is the most fully developed of the three, placing the burden on the slave to act in a way that does not incur the master's displeasure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    }
+  ]
+}

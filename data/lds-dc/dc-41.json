@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-41",
+  "title": "Section 41: Edward Partridge as bishop",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-41-heading",
+      "type": "heading",
+      "text": "Edward Partridge as bishop"
+    },
+    {
+      "block_id": "dc-41-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 41 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 41,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

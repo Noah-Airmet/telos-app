@@ -1,0 +1,1190 @@
+{
+  "document_id": "twoesd-16",
+  "title": "twoesd 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twoesd-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Bind on sackcloth and cloth of goats’ hair, and wail for your children, and lament for them; for your destruction is at hand."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-4",
+      "type": "commentary",
+      "text": "1–2 : A reprise of ch 15. Cf. Isa 10.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , signs of mourning. Cf. Isa 3.24; 15.3; Ezek 7.18; Joel 1.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-twoesd-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The sword has been sent upon you, and who is there to turn it back?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A fire has been sent upon you, and who is there to quench it?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-6",
+      "type": "commentary",
+      "text": "4 : Isa 1.31; Jer 4.4; Am 5.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-twoesd-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Calamities have been sent upon you, and who is there to drive them away?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Can one drive off a hungry lion in the forest, or quench a fire in the stubble once it has started to burn?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-7",
+      "type": "commentary",
+      "text": "6 : Ps 7.2; Isa 5.29; Jer 49.19; Am 3.4,8; Mic 5.8. See also 15.23,61.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-twoesd-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Can one turn back an arrow shot by a strong archer?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-8",
+      "type": "commentary",
+      "text": "7 : Ps 18.14; Jer 50.9; Hab 3.9. See vv. 13,16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-twoesd-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord God sends calamities, and who will drive them away?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-9",
+      "type": "commentary",
+      "text": "8 : Isa 14.27; Jer 44.2; Am 3.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-twoesd-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Fire will go forth from his wrath, and who is there to quench it?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-10",
+      "type": "commentary",
+      "text": "9 : Isa 30.30–31; Jer 4.4; 21.12; Ezek 20.47.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-twoesd-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He will flash lightning, and who will not be afraid? He will thunder, and who will not be terrified?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-11",
+      "type": "commentary",
+      "text": "10 : Ps 18.13; 104.7; Isa 29.6; Rev 8.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-twoesd-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord will threaten, and who will not be utterly shattered at his presence?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-12",
+      "type": "commentary",
+      "text": "11 : Isa 14.27; 43.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-twoesd-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The earth and its foundations quake, the sea is churned up from the depths, and its waves and the fish with them shall be troubled at the presence of the Lord and the glory of his power."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-13",
+      "type": "commentary",
+      "text": "12 : 4 Ezra 6.14–16n.; Ps 18.15; 82.5; Isa 13.3; Hag 2.6; Sir 16.18–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-twoesd-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For his right hand that bends the bow is strong, and his arrows that he shoots are sharp and when they are shot to the ends of the world will not miss once."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-14",
+      "type": "commentary",
+      "text": "13 : Deut 32.23; Ps 7.12–13; Isa 5.28; Jer 50.9; Job 30.14. See v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-twoesd-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Calamities are sent forth and shall not return until they come over the earth."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-15",
+      "type": "commentary",
+      "text": "14 : Jer 23.19–20; 30.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-twoesd-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The fire is kindled, and shall not be put out until it consumes the foundations of the earth."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-16",
+      "type": "commentary",
+      "text": "15 : Jer 21.12; 2 Pet 3.7,10; Sir 28.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-twoesd-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Just as an arrow shot by a mighty archer does not return, so the calamities that are sent upon the earth shall not return."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-17",
+      "type": "commentary",
+      "text": "16 : Jer 30.23–24; 50.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-twoesd-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Alas for me! Alas for me! Who will deliver me in those days?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–17: The inevitability of God's judgment (cf. Am 3.3–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-18",
+      "type": "commentary",
+      "text": "17 : A plaintive, personal interlude by the prophet. Cf. Jer 10.19; 45.3; Mic 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twoesd-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The beginning of sorrows, when there shall be much lamentation; the beginning of famine, when many shall perish; the beginning of wars, when the powers shall be terrified; the beginning of calamities, when all shall tremble. What shall they do, when the calamities come?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-20",
+      "type": "commentary",
+      "text": "18 : Isa 10.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-twoesd-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Famine and plague, tribulation and anguish are sent as scourges for the correction of humankind."
+    },
+    {
+      "block_id": "oxford-twoesd-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Yet for all this they will not turn from their iniquities, or ever be mindful of the scourges."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-21",
+      "type": "commentary",
+      "text": "19–20 : Calamity is for the , cf. Am 4.6–12; Hag 2.17; Heb 12.5–11; Rev 9.20–21; Jdt 8.25–27; Sir 48.15; 2 Macc 6.12–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-twoesd-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Indeed, provisions will be so cheap upon earth that people will imagine that peace is assured for them, and then calamities shall spring up on the earth—the sword, famine, and great confusion."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-22",
+      "type": "commentary",
+      "text": "21 : Isa 32.9–11; 1 Thess 5.3; Sir 18.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-twoesd-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For many of those who live on the earth shall perish by famine; and those who survive the famine shall die by the sword."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-23",
+      "type": "commentary",
+      "text": "22 : Jer 44.27; Ezek 7.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-twoesd-16-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And the dead shall be thrown out like dung, and there shall be no one to console them; for the earth shall be left desolate, and its cities shall be demolished."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-24",
+      "type": "commentary",
+      "text": "23 : Lev 26.33; 2 Kings 9.37; Isa 1.6–7; 5.25; Jer 9.22. See vv. 32,77.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-twoesd-16-24",
+      "type": "verse",
+      "number": 24,
+      "text": "No one shall be left to cultivate the earth or to sow it."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-25",
+      "type": "commentary",
+      "text": "24 : Gen 2.5; Isa 32.9–11; Jer 4.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-twoesd-16-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The trees shall bear fruit, but who will gather it?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The grapes shall ripen, but who will tread them? For in all places there shall be great solitude;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-27",
+      "type": "verse",
+      "number": 27,
+      "text": "a person will long to see another human being, or even to hear a human voice."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-26",
+      "type": "commentary",
+      "text": "26–27 : Isa 24.1–6; 27.10; Jer 44.2; 48.8–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-twoesd-16-28",
+      "type": "verse",
+      "number": 28,
+      "text": "For ten shall be left out of a city; and two, out of the field, those who have hidden themselves in thick groves and clefts in the rocks."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-27",
+      "type": "commentary",
+      "text": "28 : Isa 2.19–21; 7.19; Jer 4.29; 16.16; Am 5.3; Mt 24.40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-twoesd-16-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Just as in an olive orchard three or four olives may be left on every tree,"
+    },
+    {
+      "block_id": "oxford-twoesd-16-30",
+      "type": "verse",
+      "number": 30,
+      "text": "or just as, when a vineyard is gathered, some clusters may be left by those who search carefully through the vineyard,"
+    },
+    {
+      "block_id": "oxford-twoesd-16-31",
+      "type": "verse",
+      "number": 31,
+      "text": "so in those days three or four shall be left by those who search their houses with the sword."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-28",
+      "type": "commentary",
+      "text": "29–31 : Isa 17.5–6; 65.8; Am 6.8–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 29,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-twoesd-16-32",
+      "type": "verse",
+      "number": 32,
+      "text": "The earth shall be left desolate, and its fields shall be plowed up, and its roads and all its paths shall bring forth thorns, because no sheep will go along them."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-29",
+      "type": "commentary",
+      "text": "32 : Lev 26.22,33; Isa 1.7; 7.23–25; Jer 48.9. See vv. 23,77.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-twoesd-16-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Virgins shall mourn because they have no bridegrooms; women shall mourn because they have no husbands; their daughters shall mourn, because they have no help."
+    },
+    {
+      "block_id": "oxford-twoesd-16-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Their bridegrooms shall be killed in war, and their husbands shall perish of famine."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-2",
+      "type": "commentary",
+      "text": "15.5–16.34: Prediction of worldwide catastrophes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-19",
+      "type": "commentary",
+      "text": "16.18–34: Prediction of desolation on the earth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-30",
+      "type": "commentary",
+      "text": "33–34 : Deut 28.31; Isa 33.8; Am 4.10; Joel 1.8; Rev 18.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 33,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-twoesd-16-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Listen now to these things, and understand them, you who are servants of the Lord."
+    },
+    {
+      "block_id": "oxford-twoesd-16-36",
+      "type": "verse",
+      "number": 36,
+      "text": "This is the word of the Lord; receive it and do not disbelieve what the Lord says."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-33",
+      "type": "commentary",
+      "text": "35–36 : Isa 1.10 LXX; 42.23; 66.5; Mt 13.23; Mk 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 35,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-twoesd-16-37",
+      "type": "verse",
+      "number": 37,
+      "text": "The calamities draw near, and are not delayed."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-34",
+      "type": "commentary",
+      "text": "37 : Deut 7.10; Isa 13.22; Am 9.10; Hab 2.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-twoesd-16-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Just as a pregnant woman, in the ninth month when the time of her delivery draws near, has great pains around her womb for two or three hours beforehand, but when the child comes forth from the womb, there will not be a moment's delay,"
+    },
+    {
+      "block_id": "oxford-twoesd-16-39",
+      "type": "verse",
+      "number": 39,
+      "text": "so the calamities will not delay in coming upon the earth, and the world will groan, and pains will seize it on every side."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-35",
+      "type": "commentary",
+      "text": "38–39 : Jer 22.23; 4 Ezra 4.40–42; cf. 1 Thess 5.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 38,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-twoesd-16-40",
+      "type": "verse",
+      "number": 40,
+      "text": "Hear my words, O my people; prepare for battle, and in the midst of the calamities be like strangers on the earth."
+    },
+    {
+      "block_id": "oxford-twoesd-16-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Let the one who sells be like one who will flee; let the one who buys be like one who will lose;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-42",
+      "type": "verse",
+      "number": 42,
+      "text": "let the one who does business be like one who will not make a profit; and let the one who builds a house be like one who will not live in it;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-43",
+      "type": "verse",
+      "number": 43,
+      "text": "let the one who sows be like one who will not reap; so also the one who prunes the vines, like one who will not gather the grapes;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-44",
+      "type": "verse",
+      "number": 44,
+      "text": "those who marry, like those who will have no children; and those who do not marry, like those who are widowed."
+    },
+    {
+      "block_id": "oxford-twoesd-16-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Because of this, those who labor, labor in vain;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-46",
+      "type": "verse",
+      "number": 46,
+      "text": "for strangers shall gather their fruits, and plunder their goods, overthrow their houses, and take their children captive; for in captivity and famine they will produce their children."
+    },
+    {
+      "block_id": "oxford-twoesd-16-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Those who conduct business, do so only to have it plundered; the more they adorn their cities, their houses and possessions, and their persons,"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-36",
+      "type": "commentary",
+      "text": "40–47 : Every form of worldly activity is useless. Cf. Lev 26.16; Deut 28.4,30–42; Ps 127.1; Isa 65.22–23; Jer 12.13; 15.2; Hos 9.12–13; Mic 6.14–15; Zeph 1.13; 1 Cor 7.29–31; Heb 11.13; 1 Pet 2.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 40,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-twoesd-16-48",
+      "type": "verse",
+      "number": 48,
+      "text": "the more angry I will be with them for their sins, says the Lord."
+    },
+    {
+      "block_id": "oxford-twoesd-16-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Just as a respectable and virtuous woman abhors a prostitute,"
+    },
+    {
+      "block_id": "oxford-twoesd-16-50",
+      "type": "verse",
+      "number": 50,
+      "text": "so righteousness shall abhor iniquity, when she decks herself out, and shall accuse her to her face when he comes who will defend the one who searches out every sin on earth."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-37",
+      "type": "commentary",
+      "text": "47–50 : Jer 4.30; Ezek 23.40; Hos 2.12–13; 1 Cor 4.5; Heb 10.37. See 15.47.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 47,
+      "verse_end": 50
+    },
+    {
+      "block_id": "oxford-twoesd-16-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Therefore do not be like her or her works."
+    },
+    {
+      "block_id": "oxford-twoesd-16-52",
+      "type": "verse",
+      "number": 52,
+      "text": "For in a very short time iniquity will be removed from the earth, and righteousness will reign over us."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-32",
+      "type": "commentary",
+      "text": "35–52",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 35,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-38",
+      "type": "commentary",
+      "text": "52 : Isa 10.25; 26.20; Jer 51.33; Heb 10.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-twoesd-16-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Sinners must not say that they have not sinned; for God will burn coals of fire on the head of everyone who says, “I have not sinned before God and his glory.”"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-40",
+      "type": "commentary",
+      "text": "53 : Ps 11.6; 18.12; Jer 2.35; Am 9.10; Rom 12.20; 1 Jn 1.8,10; Prov 25.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 53,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-twoesd-16-54",
+      "type": "verse",
+      "number": 54,
+      "text": "The Lord certainly knows everything that people do; he knows their imaginations and their thoughts and their hearts."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-41",
+      "type": "commentary",
+      "text": "54 : Ps 33.14–15; 94.11; 139.1–3,23; Jer 16.17; Rev 2.23; Sir 15.18–19; 39.19. See v. 63.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-twoesd-16-55",
+      "type": "verse",
+      "number": 55,
+      "text": "He said, “Let the earth be made,” and it was made, and “Let the heaven be made,” and it was made."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-43",
+      "type": "commentary",
+      "text": "55 : Gen 1.6,9; Ps 136.5; Isa 51.13; Jer 10.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 55,
+      "verse_end": 55
+    },
+    {
+      "block_id": "oxford-twoesd-16-56",
+      "type": "verse",
+      "number": 56,
+      "text": "At his word the stars were fixed in their places, and he knows the number of the stars."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-44",
+      "type": "commentary",
+      "text": "56 : Gen 15.5; Ps 147.4; Jer 31.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 56,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-twoesd-16-57",
+      "type": "verse",
+      "number": 57,
+      "text": "He searches the abyss and its treasures; he has measured the sea and its contents;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-45",
+      "type": "commentary",
+      "text": "57 : Sir 24.5; 42.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 57,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-twoesd-16-58",
+      "type": "verse",
+      "number": 58,
+      "text": "he has confined the sea in the midst of the waters; and by his word he has suspended the earth over the water."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-46",
+      "type": "commentary",
+      "text": "58 : Ps 136.6; Prov 8.29; Isa 44.24; PrMan 1.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-twoesd-16-59",
+      "type": "verse",
+      "number": 59,
+      "text": "He has spread out the heaven like a dome and made it secure upon the waters;"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-47",
+      "type": "commentary",
+      "text": "59 : Isa 40.22; Ps 104.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-twoesd-16-60",
+      "type": "verse",
+      "number": 60,
+      "text": "he has put springs of water in the desert, and pools on the tops of the mountains, so as to send rivers from the heights to water the earth."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-48",
+      "type": "commentary",
+      "text": "60 : Ps 107.35; Isa 41.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 60,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-twoesd-16-61",
+      "type": "verse",
+      "number": 61,
+      "text": "He formed human beings and put a heart in the midst of each body, and gave each person breath and life and understanding"
+    },
+    {
+      "block_id": "oxford-twoesd-16-62",
+      "type": "verse",
+      "number": 62,
+      "text": "and the spirit of Almighty God, who surely made all things and searches out hidden things in hidden places."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-42",
+      "type": "commentary",
+      "text": "55–62 : This recital of God's acts of creation underscores God's omniscience; cf. Job 38; Sir 43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 55,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-49",
+      "type": "commentary",
+      "text": "61–62 : Ps 104.30; Isa 42.5; Job 32.8; 33.4; Sir 42.18–20; 48.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 61,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-twoesd-16-63",
+      "type": "verse",
+      "number": 63,
+      "text": "He knows your imaginations and what you think in your hearts! Woe to those who sin and want to hide their sins!"
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-50",
+      "type": "commentary",
+      "text": "63 : Ps 33.14–15; 94.11; Prov 15.11. See v. 54.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-twoesd-16-64",
+      "type": "verse",
+      "number": 64,
+      "text": "The Lord will strictly examine all their works, and will make a public spectacle of all of you."
+    },
+    {
+      "block_id": "oxford-twoesd-16-65",
+      "type": "verse",
+      "number": 65,
+      "text": "You shall be put to shame when your sins come out before others, and your own iniquities shall stand as your accusers on that day."
+    },
+    {
+      "block_id": "oxford-twoesd-16-66",
+      "type": "verse",
+      "number": 66,
+      "text": "What will you do? Or how will you hide your sins before the Lord and his glory?"
+    },
+    {
+      "block_id": "oxford-twoesd-16-67",
+      "type": "verse",
+      "number": 67,
+      "text": "Indeed, God is the judge; fear him! Cease from your sins, and forget your iniquities, never to commit them again; so Godd will lead you forth and deliver you from all tribulation."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-39",
+      "type": "commentary",
+      "text": "16.53–67: The impossibility of hiding sins from God. See 15.22–27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 53,
+      "verse_end": 67
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-51",
+      "type": "commentary",
+      "text": "63–67 : The devices of sinners are in vain. Cf. Deut 13.11; 1 Sam 26.24; Ps 11.5–6; Prov 3.7; 16.2; Jer 16.17; 17.10; Mic 6.9; Wis 1.6,9; 4.20; 6.3; Sir 2.14; 39.19; 42.18–20; 1 Cor 4.5; Heb 4.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 63,
+      "verse_end": 67
+    },
+    {
+      "block_id": "oxford-twoesd-16-68",
+      "type": "verse",
+      "number": 68,
+      "text": "The burning wrath of a great multitude is kindled over you; they shall drag some of you away and force you to eat what was sacrificed to idols."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-53",
+      "type": "commentary",
+      "text": "68 : Eating food was forbidden for many Jewish and early Christian groups. See Ex 34.15; Acts 15.20,29; 21.25; 1 Cor 8.1–13; 10.14–25; Rev 2.14,19–20; Sir 16.6; 2 Macc 6.7–9; 4 Macc 4.26; 5.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 68,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-twoesd-16-69",
+      "type": "verse",
+      "number": 69,
+      "text": "And those who consent to eat shall be held in derision and contempt, and shall be trampled under foot."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-54",
+      "type": "commentary",
+      "text": "69 : Ps 79.4; Jer 20.7–8; Wis 5.4; Bar 2.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 69,
+      "verse_end": 69
+    },
+    {
+      "block_id": "oxford-twoesd-16-70",
+      "type": "verse",
+      "number": 70,
+      "text": "For in many places and in neighboring cities there shall be a great uprising against those who fear the Lord."
+    },
+    {
+      "block_id": "oxford-twoesd-16-71",
+      "type": "verse",
+      "number": 71,
+      "text": "They shall be like maniacs, sparing no one, but plundering and destroying those who continue to fear the Lord."
+    },
+    {
+      "block_id": "oxford-twoesd-16-72",
+      "type": "verse",
+      "number": 72,
+      "text": "For they shall destroy and plunder their goods, and drive them out of house and home."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-55",
+      "type": "commentary",
+      "text": "70–72 : Mt 24.9; 3 Macc 6.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 70,
+      "verse_end": 72
+    },
+    {
+      "block_id": "oxford-twoesd-16-73",
+      "type": "verse",
+      "number": 73,
+      "text": "Then the tested quality of my elect shall be manifest, like gold that is tested by fire."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-52",
+      "type": "commentary",
+      "text": "16.68–73: Prediction of persecutions. These descriptions have close parallels with third- and early fourth-century Roman persecutions of Christians.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 68,
+      "verse_end": 73
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-56",
+      "type": "commentary",
+      "text": "73 : Zech 13.9; Wis 3.5–6; Sir 2.5; 1 Pet 1.7; Rev 3.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 73,
+      "verse_end": 73
+    },
+    {
+      "block_id": "oxford-twoesd-16-74",
+      "type": "verse",
+      "number": 74,
+      "text": "Listen, my elect ones, says the Lord; the days of tribulation are at hand, but I will deliver you from them."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-58",
+      "type": "commentary",
+      "text": "74 : Ex 6.6; Deut 4.30; 1 Sam 26.24; Ps 50.15; Jer 15.20–21; 39.17; Dan 12.1; Mt 24.29; Mk 13.19; Rev 2.10. See v. 67.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 74,
+      "verse_end": 74
+    },
+    {
+      "block_id": "oxford-twoesd-16-75",
+      "type": "verse",
+      "number": 75,
+      "text": "Do not fear or doubt, for Godd is your guide."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-59",
+      "type": "commentary",
+      "text": "75 : Deut 32.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 75,
+      "verse_end": 75
+    },
+    {
+      "block_id": "oxford-twoesd-16-76",
+      "type": "verse",
+      "number": 76,
+      "text": "You who keep my commandments and precepts, says the Lord God, must not let your sins weigh you down, or your iniquities prevail over you."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-60",
+      "type": "commentary",
+      "text": "76 : Prov 5.22; Nah 3.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 76,
+      "verse_end": 76
+    },
+    {
+      "block_id": "oxford-twoesd-16-77",
+      "type": "verse",
+      "number": 77,
+      "text": "Woe to those who are choked by their sins and overwhelmed by their iniquities! They are like a field choked with underbrush and its path overwhelmed with thorns, so that no one can pass through."
+    },
+    {
+      "block_id": "oxford-twoesd-16-78",
+      "type": "verse",
+      "number": 78,
+      "text": "It is shut off and given up to be consumed by fire."
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-31",
+      "type": "commentary",
+      "text": "16.35–78: Exhortation of God's people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 35,
+      "verse_end": 78
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-57",
+      "type": "commentary",
+      "text": "16.74–78: Concluding instructions to the elect.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 74,
+      "verse_end": 78
+    },
+    {
+      "block_id": "oxford-twoesd-16-h1kj-61",
+      "type": "commentary",
+      "text": "77–78 : 2 Sam 23.6–7; Prov 5.22; Isa 5.6; 7.23–25; 10.17; 33.11–12; Heb 6.8. See v. 32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 16
+      },
+      "verse_start": 77,
+      "verse_end": 78
+    }
+  ]
+}

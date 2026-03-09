@@ -1,0 +1,227 @@
+{
+  "document_id": "oxford-essay-pentateuch",
+  "title": "Introduction to the Pentateuch",
+  "type": "essay",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-essay-pentateuch-heading-0",
+      "type": "heading",
+      "text": "Terminology, Contents, and Traditional Views of Authorship"
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-1",
+      "type": "paragraph",
+      "text": "The word “Pentateuch,” from the Greek for “five (penta) books (teuchos),” has entered English by way of Latin as the designation for the first group of books in the Bible, comprising Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Unlike other canonical divisions, where there is significant debate within and between different religious traditions, all Jewish and Christian traditions view these five books in this order as a single unit opening the Bible. The unanimity of tradition and the initial placement of these five books reflect their significance within both Judaism and Christianity."
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-2",
+      "type": "paragraph",
+      "text": "These five books present a narrative beginning with the creation of the world and concluding immediately before the entrance of Israel into the land of Canaan. They do not, however, form a single book in the modern sense, with a single author; modern scholarship has persuasively argued that each of these books is composite, consisting of several sources and supplements from different periods in Israel’s history (see below). Nor do the five form a single book in terms of plot. Although Moses is the central human character of much of the Pentateuch, he is not introduced until ch 2 of Exodus, the second book. Nor is the early development of Israel as a people the Pentateuch’s unifying theme, as the first eleven chapters of the Bible are concerned with the world from creation to the birth of Abraham (Gen 11.27). Other suggested unifying themes for the Pentateuch, such as covenant, are also inadequate, since they do not explicitly appear at the beginning of the Pentateuch and also continue well beyond it. The suggestion that the promise of the land unifies the Pentateuch is especially problematic, since this theme, though introduced in Gen 12, is fulfilled only with the conquest of the land in the book of Joshua, in which case the Hexateuch (“six books”: the Pentateuch plus Joshua) rather than the Pentateuch should be seen as the decisive unit. In fact, the story begun in the Hexateuch continues in Judges, 1 and 2 Samuel, and 1 and 2 Kings, leading some scholars to posit an Enneateuch, or nine‐book unit starting with Genesis.",
+      "compare_unit_ids": [
+        "ex-2-1",
+        "gen-11-27",
+        "gen-12-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-3",
+      "type": "paragraph",
+      "text": "The Hebrew terms torah, torat moshe (“the Torah of Moses”), torat YHWH (“the Torah of the Lord”), and torat haʾelohim (“the Torah of God”), already in use in late biblical literature to describe what is later called the Pentateuch p.1(e.g., 2 Chr 23.18; Ezra 7.6,10; Neh 8.1,18; Dan 9.11), offer a better clue to the nature and unity of these books. Torah is often understood as “law,” and this is one of its frequent meanings in the Bible, as in Ex 12.49: “There shall be one law [Heb “torah”] for the native and for the alien who resides among you.” This understanding is already found in the Septuagint, the pre–Common Era translation of the Bible into Greek, where torah is typically translated as nomos, “law.” Law is a predominant genre of the Pentateuch, which contains extensive legal collections in Ex 21–23, Lev 17–26, and Deut 12–26, as well as selected laws within various narratives, such as the law of circumcision in the narrative about Abraham in Gen 17 and the law concerning inheritance of the land by women in Num 36, embedded within a section about the possession of the land. Many narrative sections also contain material that is of legal significance. For example, the first creation account in Genesis culminates with the “creation” of the sabbath (Gen 2.2–3), anticipating the legislation of Ex 16, and of the Decalogue, in Ex 20.8–11. Similarly, the account of the construction of the tabernacle (Ex 25–40), a temporary temple for God in the wilderness, is not narrated for its own sake, but as an introduction to the various laws of sacrifice, narrated at the beginning of Leviticus, the book that immediately follows.",
+      "compare_unit_ids": [
+        "twochr-23-18",
+        "ezra-7-6",
+        "ex-7-10",
+        "neh-8-1",
+        "neh-8-18",
+        "dan-9-11",
+        "ex-12-49",
+        "ex-21-1",
+        "ex-23-1",
+        "lev-17-1",
+        "lev-26-1",
+        "deut-12-1",
+        "deut-26-1",
+        "gen-17-1",
+        "num-36-1",
+        "gen-2-2",
+        "gen-2-3",
+        "ex-16-1",
+        "ex-20-8",
+        "ex-20-11",
+        "ex-25-1",
+        "ex-40-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-4",
+      "type": "paragraph",
+      "text": "Yet “law” is not the only possible translation of torah, and the Pentateuch is not a book of law. Torah also means “instruction” or “teaching,” as in Prov 1.8: “Hear, my child, your father’s istruction, and do not reject your mother’s teaching (torah).” Teaching is not confined to law; narratives or stories are as effective a medium of instruction. Thus, given the predominance of narrative in significant portions of the Pentateuch, especially in Genesis, the beginning of Exodus, and Numbers, it is best to understand the biblical term torat moshe as “the instruction of Moses,” an instruction realized through narratives and laws, which together elucidate the proper norms of living and the relationship between God and the world.",
+      "compare_unit_ids": [
+        "prov-1-8"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-5",
+      "type": "paragraph",
+      "text": "The term torat moshe and its variants, in several late biblical books such as Ezra, Nehemiah, and Chronicles, refers to the Pentateuch more or less as it now exists, but it is not found in the Pentateuch. In fact, the Torah never explicitly suggests that it was compiled by Moses himself. (The phrase “the Torah” in passages such as Deut 4.44, “This is the law [torah] that Moses set before the Israelites,” never refers to the complete Pentateuch.) The tradition that Moses wrote the entire Torah is likely based on the passages that suggest that Moses stayed on Mount Sinai (or Horeb) for forty days and forty nights (Ex 24.18; 34.28; Deut 9.9; 10.10). Clearly, this was too long a time for short legal collections such as Ex 21–23 to have been conveyed to him, and thus traditions developed that Moses received the entire written Torah from God at that point. According to the classical rabbis, Moses simultaneously received the oral law, which interpreted and filled in the written law. The written Torah would include, according to all rabbinic sources (which are followed by the early church), even the book of Genesis, which represents God’s narration to Moses of the early history of the world and of Abraham and his extended family. Some rabbinic sources even suggest that the final chapter of the Torah, Deut 34, which beginning in v. 5 narrates the death of Moses, was dictated by God to Moses, who wrote it with his tears. The view that the Torah should be understood as the divine word mediated by Moses was the standard view of synagogue and church through the Renaissance.",
+      "compare_unit_ids": [
+        "deut-4-44",
+        "ex-24-18",
+        "ex-34-28",
+        "deut-9-9",
+        "deut-10-10",
+        "ex-21-1",
+        "ex-23-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-6",
+      "type": "paragraph",
+      "text": "This view is explicitly contradicted by the Torah’s narrative, as was sometimes (though rarely) recognized in the Middle Ages. Thus, Abraham ibn Ezra, a scholar active in the twelfth century ce, noted that Gen 12.6 states in reference to Abraham that “at that time the Canaanites were in the land.” The words “at that time” suggest that for the author, the Canaanites were no longer in the land; in other words, it appears that this snippet was written after the time of Moses, because during his time the Canaanites were still in the land. Several other places that indicate authorship later than Moses were pointed out by a small number of medieval scholars, but this view was never systematized into a thesis that could challenge the dominant view concerning Moses’s authorship of the Torah.",
+      "compare_unit_ids": [
+        "gen-12-6"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-heading-7",
+      "type": "heading",
+      "text": "Modern Source Theories"
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-8",
+      "type": "paragraph",
+      "text": "Slowly, with the rise of rationalism, particularly as associated with figures such as Thomas Hobbes (1588–1679) and Benedict (Baruch) Spinoza (1632–1677), the view that the Torah was a unified whole, written by Moses, began to be questioned. (For additional information on this development, see the essays on “The Interpretation of the Bible,” pp. 2254–2280.) This culminated in the development of the Documentary Hypothesis in the nineteenth century, according to which the Pentateuch (or Hexateuch) is composed of four main sources or documents that were edited or redacted together: J, E, P, and D. Each of these sources or documents is embedded in a (relatively) complete form in the current Pentateuch, and each has a distinct vocabulary and theological perspective."
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-9",
+      "type": "paragraph",
+      "text": "J and E are so called after the names for God that each of them uses in Genesis: J uses the name “Yahweh” (German Jahwe, hence “J”), translated in the NRSV as “Lord,” though it is really a personal name, whose exact meaning is unknown, from the root “to be”; E prefers to call the deity “Elohim” (translated “God”), an epithet that also serves as the generic term for God or gods in the Bible; P, which also uses “Elohim” (among other names, such as el shaddai [NRSV “God Almighty”], but not “Lord”) is an abbreviation for the Priestly material; and D refers to Deuteronomy."
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-10",
+      "type": "paragraph",
+      "text": "The difference in divine names, however, is not the main criterion used by scholars for suggesting that the Torah is not a unified composition. Much more significant are doublets and contradictions, in both narrative and legal material. For example, it has long been noted that chs 1–3 of Genesis twice narrate creation. People are created first in 1.27—“So God created humankind in his image, in the image of God he created them; male and female he created them”—and then again in 2.7—“Then the Lord God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and the man became a living being.” Furthermore, the second creation account does not simply mirror or repeat the first, but differs from the first both in outline and in detail. Gen 1.1–2.3, the first account, narrates the creation of a highly symmetrical world by a very powerful deity who creates by speaking. In this account, for example, man and woman are created together (1.27) after the creation of the land animals (1.25). In contrast, the second account, in Gen 2.4–3.24, suggests that man was created (2.7), then the animals (2.19), and then woman (2.21–22). Its focus is on the creation of humanity, not of the entire physical world, and God experiments and anthropomorphically “forms” various beings, rather than creating them by speaking. Thus, these are two distinct accounts, written by two authors, expressing different worldviews about the nature of creation, humanity, and God.",
+      "compare_unit_ids": [
+        "gen-1-27",
+        "gen-2-7",
+        "gen-1-1",
+        "gen-2-3",
+        "gen-1-27",
+        "gen-1-25",
+        "gen-2-4",
+        "gen-3-24",
+        "gen-2-7",
+        "gen-2-19",
+        "gen-2-21",
+        "gen-2-22"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-11",
+      "type": "paragraph",
+      "text": "The two creation accounts appear as two totally separate blocks of material in Gen 1.1–2.4a and 2.4b–3.24. In several cases, however, an editor or redactor could not combine sources into consecutive, complete blocks. For example, the flood story culminates in a tradition that God will never again bring a flood on the land (Gen 9.11); for this reason, the J and P flood narratives cannot appear as separate and complete narratives, so they are intertwined. Similarly, the story of the plague of blood (Ex 7.14–24) contains two intertwined accounts; in one (J), Moses is the protagonist, and the blood affects only the Nile, and the main plague is death of fish (e.g., vv. 17–18), while in the other (P), Aaron appears as well, and blood affects all Egyptian water sources (e.g., vv. 19, 24). In such cases, careful attention to plot and vocabulary helps to discern the original building blocks or sources of the story. This is sometimes easier in the original Hebrew since many translations, in their desire to create a text that reads well, obscure differences between sources.",
+      "compare_unit_ids": [
+        "gen-1-1",
+        "gen-2-4",
+        "gen-2-4",
+        "gen-3-24",
+        "gen-9-11",
+        "ex-7-14",
+        "ex-7-24",
+        "ex-7-17",
+        "ex-7-18",
+        "ex-7-19",
+        "ex-7-24"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-12",
+      "type": "paragraph",
+      "text": "In addition to narrative, the legal material in the Torah is not unified. For example, slave laws concerning Hebrew or Israelite slaves are found in Ex 21.1–6, Lev 25.39–46, and Deut 15.12–18. These laws cannot be reconciled in a straightforward fashion since three different notions of slavery underlie them. Most significant is the way in which Exodus differentiates between the treatment of male and female slaves, whereas Deuteronomy claims that they should both be treated similarly. While Exodus and Deuteronomy agree that a slave who loves his master may opt to remain a slave “for life” (Ex 21.6) or “forever” (Deut 15.17), Lev 25 insists that slavery does not really exist, since slaves must be treated “as hired or bound laborers,” and they may serve only “until the year of the jubilee” (v. 40). Such legal differences are not surprising given that the Bible is composite and that the different legal collections reflect norms or ideals of different groups living in different times or locations.",
+      "compare_unit_ids": [
+        "ex-21-1",
+        "ex-21-6",
+        "lev-25-39",
+        "lev-25-46",
+        "deut-15-12",
+        "deut-15-18",
+        "ex-21-6",
+        "deut-15-17",
+        "lev-25-40"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-13",
+      "type": "paragraph",
+      "text": "In fact, it is possible to trace distinctive styles and theological notions that typify individual Pentateuchal sources. For example, the J source is well known for its highly anthropomorphic God, who has a close relationship with humans, as seen in Gen 2.4–3.24, which includes, for example, a description of the Lord God “walking in the garden” (3.8) and says that the Lord God “made garments of skins for the man and for his wife, and clothed them” (3.21). On the other hand, in E, the Elohist source, God is more distant from people, typically communicating with them by dreams or through intermediaries, such as heavenly messengers (NRSV “angels”) and prophets. The P or Priestly source is characterized by a strong interest in order and boundaries (see Gen 1), as well as an overriding concern with the priestly family of Aaron that supervises the Temple‐based religious system, which is prefigured by worship at the tabernacle in the wilderness. D, or Deuteronomy, is characterized by a unique hortatory or preaching style and insists strongly that God cannot be seen, as in this source’s description of revelation: “Then the Lord spoke to you out of the fire. You heard the sound of words but saw no form; there was only a voice” (Deut 4.12). This explains why this source, uniquely, insists that God does not physically dwell in the Temple or tabernacle; rather, the Temple is “the place that the Lord your God will choose as a dwelling for his name” (Deut 12.11). D further emphasizes that this one God must be worshiped in one place only (see especially Deut 12); this place is later understood to be Jerusalem. Deuteronomy also shows exceptional concern for the underclasses, such as the widow and orphan, and it focuses on Moses.",
+      "compare_unit_ids": [
+        "gen-2-4",
+        "gen-3-24",
+        "gen-3-8",
+        "gen-3-21",
+        "deut-4-12",
+        "deut-12-11",
+        "deut-12-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-14",
+      "type": "paragraph",
+      "text": "The narrative sources J, E, P, and D also have legal collections associated with them. The Covenant Collection or Covenant Code (see Ex 24.7) in Ex 20.22–23.33 is probably associated with E. The Holiness Collection or Holiness Code of Lev 17–26 is so named because of its central injunction, “You shall be holy, for I the Lord your God am holy” (Lev 19.2). Though not composed by the Priestly author (P), it represents a form of Priestly theology. The Deuteronomic law collection appears in Deut 12–26. These blocks of material are often called “codes,” but since the blocks are neither complete nor organized for the law court, as a “code” might be, the term “collection” is more suitable.",
+      "compare_unit_ids": [
+        "ex-24-7",
+        "ex-20-22",
+        "ex-23-33",
+        "lev-19-2",
+        "deut-12-1",
+        "deut-26-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-15",
+      "type": "paragraph",
+      "text": "Critical biblical scholarship, through the latter part of the twentieth century, was confident in dating each of these Pentateuchal sources along with the legal collections they incorporated. Thus, J was seen as the earliest collection, often dated to the period of David and Solomon in the tenth century bce, followed by E, which was often associated with the Northern Kingdom of Israel, established after the death of Solomon. D was connected to the reform of King Josiah of Judah in the late seventh century, and P was seen as deriving from the Babylonian exile in the sixth century. Scholars now agree that the reasons usually given for assigning these dates are problematic, and some doubt many of the historical events associated with them, such as the Davidic monarchy or the Josianic reform. A lively debate has developed concerning the relative order and absolute date of these sources. The existence of E as a complete source has been questioned as well, especially since E first appears well after the beginning of the Torah and is very difficult to disentangle from J after the beginning of Exodus. Thus, many scholars now talk of JE together as an early narrative source, incorporating diverse traditions; this should be distinguished from P, Priestly material, and D, Deuteronomic material, which according to some is also found outside of Deuteronomy, in the Torah’s first four books. Other scholars have abandoned a documentary model, which sees the Torah as comprised of four distinct, largely complete blocks (J, E, D and P), and have returned to a model that was more popular in the nineteenth century—a supplementary model— where the Torah grew over a long period of time as a result of a large number of supplements to a base text. Others combine documentary and supplementary approaches. Given that ancient texts remained flexible over a long period of time, such complex models are very likely."
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-16",
+      "type": "paragraph",
+      "text": "Most scholars who continue to work with a documentary model no longer see each source as the work of a single author writing at one particular time but recognize that each is the product of a single group or “school” over a long time. Thus, it is best to speak of streams or strands of tradition and to contrast their basic underpinnings, rather than to speak of a source coming from a single author, period, and locale. Yet, despite the unraveling of a consensus on the exact date and nature of the sources, it is still important to acknowledge the many contradictory perspectives found in the Torah, and to contrast the ideologies and worldviews of different passages, contrasting, for example, the Deuteronomic view of Israel’s fundamental, intrinsic holiness—as seen, in Deut 7.6, “For you are a people holy to the Lord your God”—with the Priestly view, articulated most clearly in the Holiness Collection, which suggests that Israel must aspire to holiness—as in Lev 19.2, “You shall be holy.”",
+      "compare_unit_ids": [
+        "deut-7-6",
+        "lev-19-2"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-heading-17",
+      "type": "heading",
+      "text": "Compilation and Redaction of the Pentateuch"
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-18",
+      "type": "paragraph",
+      "text": "It is unknown how these various sources and legal collections, which now comprise the Torah, came together to form a single book. Some scholars posited that the Torah was compiled by Ezra on the basis of a request by the Persian authorities—this is called “the royal authorization hypothesis”—but this goes beyond the evidence available. Most scholars posit an editor or series of editors or redactors, conventionally called R, who combined the various sources, perhaps in several stages, over a long time. Not all ancient Israelite legal and narrative traditions were collected and redacted as part of the Torah. The Torah itself occasionally indicates when it refers to other sources (e.g., Num 21.14,27), and traditions about creation and the early history of Israel that are not found in the Torah are found in biblical books outside of the Torah (e.g., Isa 51.9). Much material was certainly lost. Without direct access to these lost texts and traditions, it is impossible to suggest in detail how and why the redactor(s), R, functioned in a particular way. It is sufficient to notice that in contrast to modern editing, which is typically interested in developing a single viewpoint, the redaction of the Torah, like the editing of other ancient works, was not interested in creating a purely consistent, singular perspective but incorporated a variety of voices and perspectives and wished to preserve them despite their repetitions and contradictions. This is part of the process of the formation of authoritative scripture.",
+      "compare_unit_ids": [
+        "num-21-14",
+        "num-21-27",
+        "isa-51-9"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-19",
+      "type": "paragraph",
+      "text": "The ultimate result of this redaction, which most likely took place during the Babylonian exile (586–538 bce) or soon thereafter in the early Persian period, was the creation of a very long book, narrating what was thought to be the formative period of Israel, from the period of the creation of the world through the death of Moses. Perhaps the events narrated in Gen 1–11 were included as a type of introduction to the choosing of Abraham, describing in detail the failures of humanity, as seen especially in the flood narrative (Gen 6–9) and the tower of Babel episode (Gen 11.1–9), which necessitated the choosing of a particular nation—Israel—by God.",
+      "compare_unit_ids": [
+        "gen-6-1",
+        "gen-9-1",
+        "gen-11-1",
+        "gen-11-9"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-pentateuch-para-20",
+      "type": "paragraph",
+      "text": "No other work of comparable length or inclusiveness, in terms of the time span covered and the sources systematically incorporated, was produced in the ancient Near East. This extensive, inclusive nature of the Torah has created a fundamental and interesting problem with which biblical interpreters have either consciously or subconsciously grappled: Do we concentrate on interpreting the individual sources, on hearing the voices of the constituent parts of the text before redaction took place? Or do we focus on the final product, an approach that has been called holistic reading? The annotations of the following books will draw attention to this issue, showing how meaning may be uncovered by looking both at the early building blocks of the text and at the text in its final, redacted form."
+    }
+  ]
+}

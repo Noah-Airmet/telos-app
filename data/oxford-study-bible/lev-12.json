@@ -1,0 +1,128 @@
+{
+  "document_id": "lev-12",
+  "title": "Leviticus 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the people of Israel, saying: If a woman conceives and bears a male child, she shall be ceremonially unclean seven days; as at the time of her menstruation, she shall be unclean."
+    },
+    {
+      "block_id": "oxford-lev-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "On the eighth day the flesh of his foreskin shall be circumcised."
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-4",
+      "type": "commentary",
+      "text": "3 : Circumcision is unrelated to impurity or purification. It is mentioned here because it is performed on the eighth day after birth (see Gen 17.12) and thus immediately follows the initial seven‐day period of impurity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Her time of blood purification shall be thirty‐three days; she shall not touch any holy thing, or come into the sanctuary, until the days of her purification are completed."
+    },
+    {
+      "block_id": "oxford-lev-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If she bears a female child, she shall be unclean two weeks, as in her menstruation; her time of blood purification shall be sixty‐six days."
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-3",
+      "type": "commentary",
+      "text": "2–5 : , see 15.19–24. Because this reference anticipates ch 15, it is possible that the purity laws were once ordered differently, with ch 12 following ch 15. During the initial, major phase, the parturient can contaminate the sanctuary as well as common objects and persons through physical contact. During the subsequent, minor phase, her impurity only threatens to contaminate the sanctuary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-lev-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When the days of her purification are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb in its first year for a burnt offering, and a pigeon or a turtledove for a sin offering."
+    },
+    {
+      "block_id": "oxford-lev-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He shall offer it before the Lord, and make atonement on her behalf; then she shall be clean from her flow of blood. This is the law for her who bears a child, male or female."
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-6",
+      "type": "commentary",
+      "text": "7 : , see 11.46n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lev-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If she cannot afford a sheep, she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering; and the priest shall make atonement on her behalf, and she shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–16.34: Ritual impurity and purification. Chs 11–16 narrate divine instructions concerning impurity and various processes for purification. In Priestly literature, impurity is a real, though invisible, film that adheres to persons and objects and is attracted to the tabernacle as some metals are attracted to a magnet. However, impurity is fundamentally different from sin: impurity is contracted in the course of normal, daily activities and carries no moral stigma (see further 10.10n.). Yet because impurity is contagious and vexes the deity in the sanctuary, the Israelites must carefully dispose of it. Therefore failure to purify is sinful and carries dire consequences (cf. 15.31). The sources of impurity are human and animal corpses (ch 11; Num 19), normal and abnormal genital discharges (chs 12; 15), and a disease, “surface affliction,” often mistranslated as “leprosy” (chs 13–14). The common denominator among these sources of impurity may be their association with death or loss of life force. In cases of minor impurity, purification is accomplished through some combination of bathing, laundering, and the passage of time. In addition to these rites, major impurities also require presentation of a purification offering to cleanse the sanctuary, for major impurities penetrate into the tabernacle complex. Because of their regular contact with the sanctuary and the threat of its contamination, priests are required to avoid virtually all impurity (cf. 21.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-2",
+      "type": "commentary",
+      "text": "12.1–8: Childbirth. Childbirth produces impurity because of the mother’s postpartum flow of blood, which is viewed as analogous to menstruation (cf. v. 2,5). The period of impurity differs according to the sex of the child and is divided into a shorter, major phase (seven or fourteen days) and a longer, minor phase (thirty‐three or sixty‐six days). In each case, the entire period of impurity is a multiple of forty, a common biblical number representing completion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lev-12-h1kj-5",
+      "type": "commentary",
+      "text": "6–8 : , better, “purification offering”; see 4.1–35n. The new mother has committed no sin; she must present a purification offering because her impurity polluted the altar (see 4.1–35n.). Verse 8 is an addendum that follows the original ending of the law in v. 7b, providing a more affordable sacrificial option for a poor mother.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    }
+  ]
+}

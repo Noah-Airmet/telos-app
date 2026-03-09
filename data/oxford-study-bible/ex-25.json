@@ -1,0 +1,548 @@
+{
+  "document_id": "ex-25",
+  "title": "Exodus 25",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-25-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord said to Moses:"
+    },
+    {
+      "block_id": "oxford-ex-25-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Tell the Israelites to take for me an offering; from all whose hearts prompt them to give you shall receive the offering for me."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , indicating that materials will come from donations, not taxes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ex-25-3",
+      "type": "verse",
+      "number": 3,
+      "text": "This is the offering that you shall receive from them: gold, silver, and bronze,"
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-5",
+      "type": "commentary",
+      "text": "3 : Three precious metals will be used according to the three zones of sanctity (see 19.20–25n.), with for the most holy and for the least holy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-25-4",
+      "type": "verse",
+      "number": 4,
+      "text": "blue, purple, and crimson yarns and fine linen, goats’ hair,"
+    },
+    {
+      "block_id": "oxford-ex-25-5",
+      "type": "verse",
+      "number": 5,
+      "text": "tanned rams’ skins, fine leather, acacia wood,"
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , an insect‐resistant hardwood found in arid regions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ex-25-6",
+      "type": "verse",
+      "number": 6,
+      "text": "oil for the lamps, spices for the anointing oil and for the fragrant incense,"
+    },
+    {
+      "block_id": "oxford-ex-25-7",
+      "type": "verse",
+      "number": 7,
+      "text": "onyx stones and gems to be set in the ephod and for the breastpiece."
+    },
+    {
+      "block_id": "oxford-ex-25-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And have them make me a sanctuary, so that I may dwell among them."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , see 15.17n. , indicating that the shrine will be God’s earthly residence (see 25.1–31.17.). The Heb term for denotes a moveable presence rather than one tied to a fixed location.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ex-25-9",
+      "type": "verse",
+      "number": 9,
+      "text": "In accordance with all that I show you concerning the pattern of the tabernacle and of all its furniture, so you shall make it."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-3",
+      "type": "commentary",
+      "text": "25.1–9: Introduction: the materials (also 35.4–29). Seven kinds of substances (metals, yarn, skins, wood, oil, spices, and gemstones) signify the totality of supplies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-8",
+      "type": "commentary",
+      "text": "9 : designates the heavenly abode that is model for the earthly one (see 3.8n.). , a noun formed from the Heb verb “to dwell” (see v. 8n.). Used fifty‐eight times in Exodus, here it refers to the entire sacred complex. It can also denote just the tent structure (e.g., 26.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-25-10",
+      "type": "verse",
+      "number": 10,
+      "text": "They shall make an ark of acacia wood; it shall be two and a half cubits long, a cubit and a half wide, and a cubit and a half high."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-11",
+      "type": "commentary",
+      "text": "10 : It is similar in size (ca. 45 × 27 × 27 in = 114 × 69 × 69 cm) to ancient Egyptian chests for keeping valuables.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ex-25-11",
+      "type": "verse",
+      "number": 11,
+      "text": "You shall overlay it with pure gold, inside and outside you shall overlay it, and you shall make a molding of gold upon it all around."
+    },
+    {
+      "block_id": "oxford-ex-25-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You shall cast four rings of gold for it and put them on its four feet, two rings on the one side of it, and two rings on the other side."
+    },
+    {
+      "block_id": "oxford-ex-25-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You shall make poles of acacia wood, and overlay them with gold."
+    },
+    {
+      "block_id": "oxford-ex-25-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And you shall put the poles into the rings on the sides of the ark, by which to carry the ark."
+    },
+    {
+      "block_id": "oxford-ex-25-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The poles shall remain in the rings of the ark; they shall not be taken from it."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-12",
+      "type": "commentary",
+      "text": "12–15 : and for transport are known from ancient Egypt and Syria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 12,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ex-25-16",
+      "type": "verse",
+      "number": 16,
+      "text": "You shall put into the ark the covenant that I shall give you. Chs 25–31; 36–39: The structure of the Tabernacle as described in the book of Exodus"
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-13",
+      "type": "commentary",
+      "text": "16 : The Heb word for here (“˓edut”; cf. 2.24n.; 20.22–23.33.) is favored by the Priestly writer; perhaps referring to the tablets of 24.12, it is similar to the word for “meet,” thus signifying the role of the ark as a place for oracular revelations (v. 22; 29.42–43; 33.7–10) and alluding to another name (“tent of meeting”; see 27.20n.; 27.21n.; 38.8n.) for the wilderness shrine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ex-25-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Then you shall make a mercy seat of pure gold; two cubits and a half shall be its length, and a cubit and a half its width."
+    },
+    {
+      "block_id": "oxford-ex-25-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall make two cherubim of gold; you shall make them of hammered work, at the two ends of the mercy seat."
+    },
+    {
+      "block_id": "oxford-ex-25-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Make one cherub at the one end, and one cherub at the other; of one piece with the mercy seatb you shall make the cherubim at its two ends."
+    },
+    {
+      "block_id": "oxford-ex-25-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The cherubim shall spread out their wings above, overshadowing the mercy seatb with their wings. They shall face one to another; the faces of the cherubim shall be turned toward the mercy seat.b"
+    },
+    {
+      "block_id": "oxford-ex-25-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You shall put the mercy seatb on the top of the ark; and in the ark you shall put the covenant that I shall give you."
+    },
+    {
+      "block_id": "oxford-ex-25-22",
+      "type": "verse",
+      "number": 22,
+      "text": "There I will meet with you, and from above the mercy seat,b from between the two cherubim that are on the ark of the covenant,c I will deliver to you all my commands for the Israelites."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-10",
+      "type": "commentary",
+      "text": "25.10–22: The ark and its cover (also 37.1–9). A gilded chest that will contain the sacred covenant document, the ark has a lid surmounted by winged creatures over which God’s invisible presence rests. In ancient Israel’s aniconic tradition, the ark comes becomes a material symbol of God (see 1 Sam 4.4; 2 Sam 6.2; cf. Ex 25.31–40n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 10,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-14",
+      "type": "commentary",
+      "text": "17–22 : The ark’s cover ( ) features composite beings ( ) whose wings form the throne, with the ark as its footstool, on which God’s invisible presence rests (1 Sam 4.4; 1 Chr 28.2; Pss 99.1,5; 132.7); see 16.34n. Similar figures as components of thrones are known from ancient Near Eastern art.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 17,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-15",
+      "type": "commentary",
+      "text": "22 : , see v. 16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ex-25-23",
+      "type": "verse",
+      "number": 23,
+      "text": "You shall make a table of acacia wood, two cubits long, one cubit wide, and a cubit and a half high."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-17",
+      "type": "commentary",
+      "text": "23 : The table’s dimensions (36 × 18 in = 1 ×.5 m; height: 27 in =.75 m) are similar to those of offering tables depicted in ancient Near Eastern art.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-25-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You shall overlay it with pure gold, and make a molding of gold around it."
+    },
+    {
+      "block_id": "oxford-ex-25-25",
+      "type": "verse",
+      "number": 25,
+      "text": "You shall make around it a rim a handbreadth wide, and a molding of gold around the rim."
+    },
+    {
+      "block_id": "oxford-ex-25-26",
+      "type": "verse",
+      "number": 26,
+      "text": "You shall make for it four rings of gold, and fasten the rings to the four corners at its four legs."
+    },
+    {
+      "block_id": "oxford-ex-25-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The rings that hold the poles used for carrying the table shall be close to the rim."
+    },
+    {
+      "block_id": "oxford-ex-25-28",
+      "type": "verse",
+      "number": 28,
+      "text": "You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-18",
+      "type": "commentary",
+      "text": "27–28 : Its and provide portability; see 25.12–15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ex-25-29",
+      "type": "verse",
+      "number": 29,
+      "text": "You shall make its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-19",
+      "type": "commentary",
+      "text": "29 : , see 30.7n., 22–38n., 34–38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-ex-25-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And you shall set the bread of the Presence on the table before me always."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-16",
+      "type": "commentary",
+      "text": "25.23–30: The table (also 37.10–16; cf. 1 Kings 7.48) is the repository for sacred vessels and for the bread offering. A dwelling place for a deity, as for humans, needs a table for food. Meat, bread, and liquids are the comestibles set before God, though the priests, not God, consume the bread (Lev 24.5–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 23,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-20",
+      "type": "commentary",
+      "text": "30 : (“bread [set] before [God]”) refers to loaves offered to God on the sabbath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ex-25-31",
+      "type": "verse",
+      "number": 31,
+      "text": "You shall make a lampstand of pure gold. The base and the shaft of the lampstand shall be made of hammered work; its cups, its calyxes, and its petals shall be of one piece with it;"
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-22",
+      "type": "commentary",
+      "text": "31 : and together denote a cylindrical stand flared at the bottom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-25-32",
+      "type": "verse",
+      "number": 32,
+      "text": "and there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it;"
+    },
+    {
+      "block_id": "oxford-ex-25-33",
+      "type": "verse",
+      "number": 33,
+      "text": "three cups shaped like almond blossoms, each with calyx and petals, on one branch, and three cups shaped like almond blossoms, each with calyx and petals, on the other branch—so for the six branches going out of the lampstand."
+    },
+    {
+      "block_id": "oxford-ex-25-34",
+      "type": "verse",
+      "number": 34,
+      "text": "On the lampstand itself there shall be four cups shaped like almond blossoms, each with its calyxes and petals."
+    },
+    {
+      "block_id": "oxford-ex-25-35",
+      "type": "verse",
+      "number": 35,
+      "text": "There shall be a calyx of one piece with it under the first pair of branches, a calyx of one piece with it under the next pair of branches, and a calyx of one piece with it under the last pair of branches—so for the six branches that go out of the lampstand."
+    },
+    {
+      "block_id": "oxford-ex-25-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Their calyxes and their branches shall be of one piece with it, the whole of it one hammered piece of pure gold."
+    },
+    {
+      "block_id": "oxford-ex-25-37",
+      "type": "verse",
+      "number": 37,
+      "text": "You shall make the seven lamps for it; and the lamps shall be set up so as to give light on the space in front of it."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-23",
+      "type": "commentary",
+      "text": "37 : Seven lamps, perhaps one on each branch; otherwise, a single lamp in the middle (see 27.20n.; Lev 24.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-ex-25-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Its snuffers and trays shall be of pure gold."
+    },
+    {
+      "block_id": "oxford-ex-25-39",
+      "type": "verse",
+      "number": 39,
+      "text": "It, and all these utensils, shall be made from a talent of pure gold."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-24",
+      "type": "commentary",
+      "text": "39 : A , or 3,000 shekels, is about 34 kg = 75.5 lb.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-ex-25-40",
+      "type": "verse",
+      "number": 40,
+      "text": "And see that you make them according to the pattern for them, which is being shown you on the mountain."
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-1",
+      "type": "commentary",
+      "text": "Chs 25–40: Sanctuary and new covenant. The focus of the rest of Exodus is the construction of the wilderness tabernacle as an earthly home for God. Detailed directions for building the portable shrine (25.1–27.21; 30.1–31.18) and for clothing and inaugurating its priests (28.1–29.46) are followed by an account of its construction so God’s presence can enter (35.1–40.38). Much of the information in the second section is the same as in the first, although the internal order differs. Between the two sections comes the golden calf episode (chs 32–34), in which the covenant is broken and restored.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-2",
+      "type": "commentary",
+      "text": "25.1–31.18: Instructions for building the tabernacle and inaugurating the priesthood. Unlike religious edifices today, which are places that people enter to worship, temples and shrines in the ancient world were considered earthly residences for deities (see 25.8) and were off‐limits for most humans. They were costly, well‐furnished structures, befitting their divine occupants. A modest tent‐shrine, perhaps reflected in the term “tent of meeting” (see 27.21n.), may have existed in early Israel; but the elaborate and costly Exodus tabernacle is likely a virtual structure, based somewhat on knowledge of the later Jerusalem Temple. Like Mount Sinai (and the Jerusalem Temple), the portable wilderness shrine has three zones of sanctity; see 19.20–25n. Following an introduction (25.1–9) and instructions for making the sacred furnishings (25.10–40) are directions for making the structure (ch 26) and its courtyard and altar (27.1–19). Directives for lamp oil (27.20–21) precede a concluding section (28.1–31.18) that includes instructions for the vestments (ch 28), the consecration (ch 29) of the priests, and the making of other furnishings and of incense (ch 30) and ends with God’s announcing the two chief artisans and mandating sabbath observance (ch 31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-9",
+      "type": "commentary",
+      "text": "25.10–40: Interior furnishings. Described first, the most holy item, the gold‐covered ark (vv. 10–22), will be situated in the inner sanctum. Three more gold items—table (vv. 23–30), lampstand (vv. 31–40), and incense altar (not prescribed in this section; see 30.1–10)—will be near the ark, in the main room of the shrine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 10,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-21",
+      "type": "commentary",
+      "text": "25.31–40: The lampstand (Heb “menorah”; also 37.17–24) will hold oil lamps for illuminating God’s dwelling (cf. the ten lampstands of the Jerusalem Temple, 1 Kings 7.49). No dimensions are provided. The wealth of botanical terms (branches, calyxes, almond blossoms, petals) suggests that in shape and decoration, it represented a sacred tree and perhaps even God as source of fertility (see 3.2n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 31,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-ex-25-h1kj-25",
+      "type": "commentary",
+      "text": "40 : , see 25.9n. The divine blueprint must be followed exactly so that God dwells among the people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 25
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    }
+  ]
+}

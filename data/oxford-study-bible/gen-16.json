@@ -1,0 +1,277 @@
+{
+  "document_id": "gen-16",
+  "title": "Genesis 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now Sarai, Abram’s wife, bore him no children. She had an Egyptian slave‐girl whose name was Hagar,"
+    },
+    {
+      "block_id": "oxford-gen-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and Sarai said to Abram, “You see that the Lord has prevented me from bearing children; go in to my slave‐girl; it may be that I shall obtain children by her.” And Abram listened to the voice of Sarai."
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-8",
+      "type": "commentary",
+      "text": "2 : According to ancient surrogate motherhood customs, a wife could give her maid to her husband and claim the child as her own (30.3,9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "So, after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her slave‐girl, and gave her to her husband Abram as a wife."
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-9",
+      "type": "commentary",
+      "text": "3 : This duplicate notice of Sarah’s transfer of Hagar to Abraham as a surrogate mother probably comes from the Priestly source.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-gen-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He went in to Hagar, and she conceived; and when she saw that she had conceived, she looked with contempt on her mistress."
+    },
+    {
+      "block_id": "oxford-gen-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then Sarai said to Abram, “May the wrong done to me be on you! I gave my slave‐girl to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!”"
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-10",
+      "type": "commentary",
+      "text": "4–5 : The translation implies that Hagar disdained her mistress, whereas the Hebrew verb (“qll,” “to treat lightly”) implies only that Hagar did not look up to her mistress the way she once did. Having had a child, Hagar is now derisively seen by her mistress as a slave who is not sufficiently submissive.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-gen-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But Abram said to Sarai, “Your slave‐girl is in your power; do to her as you please.” Then Sarai dealt harshly with her, and she ran away from her."
+    },
+    {
+      "block_id": "oxford-gen-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur."
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-11",
+      "type": "commentary",
+      "text": "7 : Here is not a heavenly being subordinate to God but the (Yahweh) in earthly manifestation, as is clear from v. 13 (cf. 21.17,19; Ex 14.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-gen-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And he said, “Hagar, slave‐girl of Sarai, where have you come from and where are you going?” She said, “I am running away from my mistress Sarai.”"
+    },
+    {
+      "block_id": "oxford-gen-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The angel of the Lord said to her, “Return to your mistress, and submit to her.”"
+    },
+    {
+      "block_id": "oxford-gen-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The angel of the Lord also said to her, “I will so greatly multiply your offspring that they cannot be counted for multitude.”"
+    },
+    {
+      "block_id": "oxford-gen-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And the angel of the Lord said to her, “Now you have conceived and shall bear a son; you shall call him Ishmael, for the Lord has given heed to your affliction."
+    },
+    {
+      "block_id": "oxford-gen-16-11-commentary-1",
+      "type": "commentary",
+      "text": "That is God hears",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-12",
+      "type": "commentary",
+      "text": "11 : , lit., “The has heard,” an explanation of the name Ishmael (see note and 21.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-gen-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "He shall be a wild ass of a man, with his hand against everyone, and everyone’s hand against him; and he shall live at odds with all his kin.”"
+    },
+    {
+      "block_id": "oxford-gen-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So she named the Lord who spoke to her, “You are El‐roi”; for she said, “Have I really seen God and remained alive after seeing him?”"
+    },
+    {
+      "block_id": "oxford-gen-16-13-commentary-2",
+      "type": "commentary",
+      "text": "Perhaps God of seeing or God who sees",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-gen-16-13-commentary-3",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-13",
+      "type": "commentary",
+      "text": "13 : (see note ) was the name of the deity at the Beer‐lahai‐roi well, now identified with Israel’s God. On Hagar’s question, cf. 32.30; Ex 33.20; Judg 6.22–23; 13.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-gen-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Therefore the well was called Beerlahai‐roi; it lies between Kadesh and Bered."
+    },
+    {
+      "block_id": "oxford-gen-16-14-commentary-4",
+      "type": "commentary",
+      "text": "That is the Well of the Living One who sees me",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-gen-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Hagar bore Abram a son; and Abram named his son, whom Hagar bore, Ishmael."
+    },
+    {
+      "block_id": "oxford-gen-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Abram was eighty‐six years old when Hagar bore him Ishmael."
+    },
+    {
+      "block_id": "oxford-gen-16-16-commentary-5",
+      "type": "commentary",
+      "text": "Heb Abram",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-6",
+      "type": "commentary",
+      "text": "11.27–25.11: The story of Abraham and his family. The bulk of this section is a non‐Priestly narrative about Abraham. It builds on a blend of oral traditions about him, including the stories standing behind the present narratives about his descent into Egypt (12.10–20), the Abraham and Lot cycle (13.2–13; 18.1–16; 19.1–28,30–37), a pair of Hagar and Ishmael narratives (16.1–14 and 21.8–20), and the tradition about Abraham’s stay in Philistine Gerar (20.1–18; 21.22–34; cf. 26.6–33). Some scholars think that the Abraham stories incorporate two separate written J and E sources, with remnants of J (the Yahwistic source) found primarily in chs 12–19 (along with ch 24) and E (Elohistic source) fragments in chs 20–22. Others suggest that they were composed as a single whole, though building on a range of separate traditions (see the Introduction and 20.1–18n.). Scholars generally agree, however, that the story of conquest and covenant in 14.1–15.21 and Priestly materials found in 17.1–27 and elsewhere (see 11.27–32n.; 12.4b–5n. 16.3n. 17.1–27n. 21.3–5n. 25.7–11n) were added later. For patterns uniting this complex whole, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-7",
+      "type": "commentary",
+      "text": "16.1–16: Hagar’s encounter with God and the birth of Ishmael stand at the heart of the Abraham story (see on p. ), enveloped by parallel traditions dealing with covenant (chs 15 and 17), Lot and Abraham (chs 13–14 and 18–19), the endangerment of Sarah (12.10–20 and ch 20), and the promise (12.1–6 and 22.1–19). This story echoes the story of Abraham’s endangerment of Sarah in 12.10–20 in describing the complications resulting from human attempts to fulfill the promise, in this case the promise of offspring. In addition, like that story, this one links with the Exodus, though offering a quite different picture. In the book of Exodus Israelites are “oppressed” (Heb “ʿanah”) by the Egyptians (Ex 1.12), flee east toward Israel through the wilderness, and meet God there (Ex 19.24.1–2,10–11). In this chapter, however, it is an , Hagar, who is “oppressed” (Heb “ʿanah”; “dealt harshly with” in the NRSV of v. 6) by the Israelite matriarch Sarah; Hagar flees west from Israel toward Egypt and meets God in the wilderness. Later, in Gen 21.8–21, we will see a doublet of this story, where Hagar again must leave Abraham’s clan, go into the desert, and hear an oracle that will revolve around an interpretation of the name of Hagar’s son, Ishmael (Heb for “God hears”). Both stories have their origins in ancient traditions surrounding the origins of the Ishmaelites, seen in Genesis as ancestors of the Arab peoples (see Gen 25.12–18), but the version here in Gen 16 is distinguished by its echoes of the Exodus story and ultimately sympathetic focus on Hagar.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-16-h1kj-14",
+      "type": "commentary",
+      "text": "15–16 : Priestly material focusing more on Ishmael than on Hagar.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 16
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    }
+  ]
+}

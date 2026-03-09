@@ -13,12 +13,38 @@ interface ChapterEntry {
   document_id: string;
   title: string;
   chapter: number;
+  sequence_number?: number;
 }
 
 interface BookEntry {
   book_id: string;
   name: string;
   chapters: ChapterEntry[];
+  sequence_number?: number;
+}
+
+// Canonical Bible book order (OT, NT, Deuterocanonical) — used by NRSVue, KJV, Oxford Study Bible, JSB
+const CANONICAL_BIBLE_BOOK_ORDER: string[] = [
+  // OT
+  "gen", "ex", "exod", "lev", "num", "deut", "josh", "judg", "ruth",
+  "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra", "neh", "esth",
+  "job", "ps", "prov", "eccl", "song", "isa", "jer", "lam", "ezek", "dan",
+  "hos", "joel", "amos", "obad", "jonah", "mic", "nah", "nahum", "hab", "zeph", "hag", "zech", "mal",
+  // NT
+  "matt", "mark", "luke", "john", "acts", "rom", "1-cor", "2-cor", "gal", "eph", "phil", "col",
+  "1-thess", "2-thess", "1-tim", "2-tim", "titus", "phlm", "heb", "jas", "1-pet", "2-pet",
+  "1-jn", "2-jn", "3-jn", "jude", "rev",
+  // Deuterocanonical
+  "tob", "jdt", "esth-gr", "add-esth", "wis", "sir", "bar", "let-jer",
+  "pr-azar", "sus", "bel", "1-macc", "2-macc", "1-esd", "pr-man", "ps-151",
+  "3-macc", "2-esd", "4-macc",
+];
+
+const BIBLE_PROFILES = ["nrsvue", "kjv", "oxford-study-bible", "jsb"];
+
+function bookSequence(bookId: string): number {
+  const idx = CANONICAL_BIBLE_BOOK_ORDER.indexOf(bookId);
+  return idx >= 0 ? idx : 99999;
 }
 
 interface TranslationManifest {
@@ -60,7 +86,7 @@ function bookIdToName(bookId: string): string {
     "bom-ether": "Ether",
     "bom-moro": "Moroni",
     // OT
-    gen: "Genesis", exod: "Exodus", lev: "Leviticus", num: "Numbers",
+    gen: "Genesis", ex: "Exodus", exod: "Exodus", lev: "Leviticus", num: "Numbers",
     deut: "Deuteronomy", josh: "Joshua", judg: "Judges", ruth: "Ruth",
     "1-sam": "1 Samuel", "2-sam": "2 Samuel", "1-kgs": "1 Kings", "2-kgs": "2 Kings",
     "1-chr": "1 Chronicles", "2-chr": "2 Chronicles", ezra: "Ezra", neh: "Nehemiah",
@@ -68,7 +94,7 @@ function bookIdToName(bookId: string): string {
     eccl: "Ecclesiastes", song: "Song of Solomon", isa: "Isaiah", jer: "Jeremiah",
     lam: "Lamentations", ezek: "Ezekiel", dan: "Daniel", hos: "Hosea",
     joel: "Joel", amos: "Amos", obad: "Obadiah", jonah: "Jonah",
-    mic: "Micah", nah: "Nahum", hab: "Habakkuk", zeph: "Zephaniah",
+    mic: "Micah", nah: "Nahum", nahum: "Nahum", hab: "Habakkuk", zeph: "Zephaniah",
     hag: "Haggai", zech: "Zechariah", mal: "Malachi",
     // NT
     matt: "Matthew", mark: "Mark", luke: "Luke", john: "John",
@@ -78,6 +104,8 @@ function bookIdToName(bookId: string): string {
     "1-tim": "1 Timothy", "2-tim": "2 Timothy", titus: "Titus", phlm: "Philemon",
     heb: "Hebrews", jas: "James", "1-pet": "1 Peter", "2-pet": "2 Peter",
     "1-jn": "1 John", "2-jn": "2 John", "3-jn": "3 John", jude: "Jude", rev: "Revelation",
+    // Oxford essays
+    "oxford-essays": "Essays",
     // Deuterocanonical (NRSVue)
     tob: "Tobit", jdt: "Judith", "add-esth": "Additions to Esther",
     wis: "Wisdom", sir: "Sirach", bar: "Baruch", "let-jer": "Letter of Jeremiah",
@@ -100,6 +128,10 @@ function bookIdToName(bookId: string): string {
     "cfm-2026-appendix": "Appendixes",
     // Turley — How We Got the D&C
     "turley-dc": "How We Got the Doctrine and Covenants",
+    // Doctrine and Covenants (sections 1-138)
+    dc: "Doctrine and Covenants",
+    // Revelations in Context (D&C commentary)
+    ric: "Revelations in Context",
   };
   return map[bookId] || bookId;
 }
@@ -114,11 +146,17 @@ const profileLabels: Record<string, string> = {
   "cfm-2026": "CFM 2026",
   "turley-dc": "Turley",
   "jsb": "NJPS",
+  "lds-dc": "LDS",
+  "revelations-in-context": "Revelations in Context",
+  "oxford-study-bible": "Oxford Study Bible",
 };
 
 const studyBibleProfiles: Record<string, string> = {
   jsb: "jsb",
+  "oxford-study-bible": "oxford-study-bible",
 };
+
+const commentaryProfiles: string[] = ["revelations-in-context", "turley-dc"];
 
 const manifests: TranslationManifest[] = [];
 
@@ -131,8 +169,21 @@ for (const profile of fs.readdirSync(dataDir).sort()) {
 
   for (const file of files) {
     const docId = file.replace(".json", "");
-    // Read just the title from each file
     const raw = JSON.parse(fs.readFileSync(path.join(profileDir, file), "utf-8"));
+    const isEssay = raw.type === "essay" || docId.startsWith("oxford-essay-");
+
+    if (isEssay && profile === "oxford-study-bible") {
+      const essaysId = "oxford-essays";
+      if (!booksMap.has(essaysId)) booksMap.set(essaysId, []);
+      booksMap.get(essaysId)!.push({
+        document_id: docId,
+        title: raw.title,
+        chapter: 0,
+        sequence_number: booksMap.get(essaysId)!.length,
+      });
+      continue;
+    }
+
     const bookId = extractBookId(docId);
     const chapter = extractChapter(docId);
 
@@ -146,12 +197,25 @@ for (const profile of fs.readdirSync(dataDir).sort()) {
 
   const books: BookEntry[] = [];
   for (const [bookId, chapters] of booksMap) {
-    chapters.sort((a, b) => a.chapter - b.chapter);
-    books.push({
+    chapters.sort((a, b) => {
+      if (a.chapter === 0 && b.chapter === 0) {
+        return (a.title || "").localeCompare(b.title || "");
+      }
+      return (a.sequence_number ?? a.chapter) - (b.sequence_number ?? b.chapter);
+    });
+    const entry: BookEntry = {
       book_id: bookId,
       name: bookIdToName(bookId),
       chapters,
-    });
+    };
+    if (BIBLE_PROFILES.includes(profile)) {
+      entry.sequence_number = bookSequence(bookId);
+    }
+    books.push(entry);
+  }
+
+  if (BIBLE_PROFILES.includes(profile)) {
+    books.sort((a, b) => (a.sequence_number ?? 99999) - (b.sequence_number ?? 99999));
   }
 
   const manifest: TranslationManifest = {
@@ -162,6 +226,8 @@ for (const profile of fs.readdirSync(dataDir).sort()) {
   if (studyBibleProfiles[profile]) {
     manifest.source_type = "studyBible";
     manifest.preferred_base_profile = studyBibleProfiles[profile];
+  } else if (commentaryProfiles.includes(profile)) {
+    manifest.source_type = "commentary";
   }
   manifests.push(manifest);
 }

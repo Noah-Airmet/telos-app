@@ -3,7 +3,7 @@ import type { TranslationManifest, BookEntry } from "../lib/scripture";
 
 interface CommandPaletteProps {
     manifests: TranslationManifest[];
-    onSelect: (profile: string, book: BookEntry, chapter: number) => void;
+    onSelect: (profile: string, book: BookEntry, chapter: number, documentId?: string) => void;
 }
 
 export function CommandPalette({ manifests, onSelect }: CommandPaletteProps) {
@@ -46,6 +46,7 @@ export function CommandPalette({ manifests, onSelect }: CommandPaletteProps) {
         bookName: string;
         chapterTitle: string;
         chapterNumber: number;
+        documentId?: string;
         book: BookEntry;
     }[] = [];
 
@@ -53,12 +54,13 @@ export function CommandPalette({ manifests, onSelect }: CommandPaletteProps) {
         m.books.forEach(b => {
             b.chapters.forEach(c => {
                 items.push({
-                    id: `${m.profile}-${b.book_id}-${c.chapter}`,
+                    id: c.document_id ?? `${m.profile}-${b.book_id}-${c.chapter}`,
                     translation: m.translation,
                     profile: m.profile,
                     bookName: b.name,
                     chapterTitle: c.title,
-                    chapterNumber: c.chapter || 1,
+                    chapterNumber: c.chapter ?? 0,
+                    documentId: c.document_id,
                     book: b
                 });
             });
@@ -103,7 +105,7 @@ export function CommandPalette({ manifests, onSelect }: CommandPaletteProps) {
                                 <li key={item.id}>
                                     <button
                                         onClick={() => {
-                                            onSelect(item.profile, item.book, item.chapterNumber);
+                                            onSelect(item.profile, item.book, item.chapterNumber, item.documentId);
                                             closePalette();
                                         }}
                                         className={`w-full cursor-pointer px-4 py-3 text-left transition-colors hover:bg-white/6 ${i === 0 && query ? "bg-white/6" : ""}`}

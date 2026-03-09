@@ -1,0 +1,241 @@
+{
+  "document_id": "ps-71",
+  "title": "Psalms 71",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-71-heading-psalm-72",
+      "type": "heading",
+      "text": "Psalm 72"
+    },
+    {
+      "block_id": "oxford-ps-71-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In you, O Lord, I take refuge; let me never be put to shame."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 71: An elderly person’s plea for help. An individual petition that recycles material from Pss 22 and 31. Verses 9, 18, and 20 suggest the psalm of a person of mature years. Verses 1–13 and 14–24 seem to constitute its two parts, each with virtually the same number of Hebrew words.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-71-2",
+      "type": "verse",
+      "number": 2,
+      "text": "In your righteousness deliver me and rescue me; incline your ear to me and save me."
+    },
+    {
+      "block_id": "oxford-ps-71-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Be to me a rock of refuge, a strong fortress, to save me, for you are my rock and my fortress."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-2",
+      "type": "commentary",
+      "text": "3 : , a massive rock formation, a frequent metaphor for God saving and helping someone.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-71-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Rescue me, O my God, from the hand of the wicked, from the grasp of the unjust and cruel."
+    },
+    {
+      "block_id": "oxford-ps-71-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For you, O Lord, are my hope, my trust, O Lord, from my youth."
+    },
+    {
+      "block_id": "oxford-ps-71-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Upon you I have leaned from my birth; it was you who took me from my mother’s womb. My praise is continually of you."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-3",
+      "type": "commentary",
+      "text": "6 : Cf. Ps 22.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-71-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I have been like a portent to many, but you are my strong refuge."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-4",
+      "type": "commentary",
+      "text": "7 : , an example of God’s merciful care for loyal servants.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-71-8",
+      "type": "verse",
+      "number": 8,
+      "text": "My mouth is filled with your praise, and with your glory all day long."
+    },
+    {
+      "block_id": "oxford-ps-71-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Do not cast me off in the time of old age; do not forsake me when my strength is spent."
+    },
+    {
+      "block_id": "oxford-ps-71-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For my enemies speak concerning me, and those who watch for my life consult together."
+    },
+    {
+      "block_id": "oxford-ps-71-11",
+      "type": "verse",
+      "number": 11,
+      "text": "They say, “Pursue and seize that person whom God has forsaken, for there is no one to deliver.”"
+    },
+    {
+      "block_id": "oxford-ps-71-12",
+      "type": "verse",
+      "number": 12,
+      "text": "O God, do not be far from me; O my God, make haste to help me!"
+    },
+    {
+      "block_id": "oxford-ps-71-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Let my accusers be put to shame and consumed; let those who seek to hurt me be covered with scorn and disgrace."
+    },
+    {
+      "block_id": "oxford-ps-71-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But I will hope continually, and will praise you yet more and more."
+    },
+    {
+      "block_id": "oxford-ps-71-15",
+      "type": "verse",
+      "number": 15,
+      "text": "My mouth will tell of your righteous acts, of your deeds of salvation all day long, though their number is past my knowledge."
+    },
+    {
+      "block_id": "oxford-ps-71-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I will come praising the mighty deeds of the Lord God, I will praise your righteousness, yours alone."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-5",
+      "type": "commentary",
+      "text": "14–16 : The psalmist is unusually buoyant despite the troubles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ps-71-17",
+      "type": "verse",
+      "number": 17,
+      "text": "O God, from my youth you have taught me, and I still proclaim your wondrous deeds."
+    },
+    {
+      "block_id": "oxford-ps-71-18",
+      "type": "verse",
+      "number": 18,
+      "text": "So even to old age and gray hairs, O God, do not forsake me, until I proclaim your might to all the generations to come. Your power"
+    },
+    {
+      "block_id": "oxford-ps-71-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and your righteousness, O God, reach the high heavens. You who have done great things, O God, who is like you?"
+    },
+    {
+      "block_id": "oxford-ps-71-20",
+      "type": "verse",
+      "number": 20,
+      "text": "You who have made me see many troubles and calamities will revive me again; from the depths of the earth you will bring me up again."
+    },
+    {
+      "block_id": "oxford-ps-71-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You will increase my honor, and comfort me once again."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-6",
+      "type": "commentary",
+      "text": "17–21 : The psalmist looks back at a long life, finds that God has always been faithful, and is inspired by such fidelity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 17,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ps-71-22",
+      "type": "verse",
+      "number": 22,
+      "text": "I will also praise you with the harp for your faithfulness, O my God; I will sing praises to you with the lyre, O Holy One of Israel."
+    },
+    {
+      "block_id": "oxford-ps-71-23",
+      "type": "verse",
+      "number": 23,
+      "text": "My lips will shout for joy when I sing praises to you; my soul also, which you have rescued."
+    },
+    {
+      "block_id": "oxford-ps-71-24",
+      "type": "verse",
+      "number": 24,
+      "text": "All day long my tongue will talk of your righteous help, for those who tried to do me harm have been put to shame, and disgraced."
+    },
+    {
+      "block_id": "oxford-ps-71-h1kj-7",
+      "type": "commentary",
+      "text": "24 : As in many petitions, the person praying imagines that the prayer has already been heard and the problem rectified.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 71
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    }
+  ]
+}

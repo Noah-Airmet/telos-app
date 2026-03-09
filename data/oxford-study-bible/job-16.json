@@ -1,0 +1,241 @@
+{
+  "document_id": "job-16",
+  "title": "Job 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-16-heading-17",
+      "type": "heading",
+      "text": "17"
+    },
+    {
+      "block_id": "oxford-job-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Job answered:"
+    },
+    {
+      "block_id": "oxford-job-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“I have heard many such things; miserable comforters are you all."
+    },
+    {
+      "block_id": "oxford-job-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Have windy words no limit? Or what provokes you that you keep on talking?"
+    },
+    {
+      "block_id": "oxford-job-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I also could talk as you do, if you were in my place; I could join words together against you, and shake my head at you."
+    },
+    {
+      "block_id": "oxford-job-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I could encourage you with my mouth, and the solace of my lips would assuage your pain."
+    },
+    {
+      "block_id": "oxford-job-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "“If I speak, my pain is not assuaged, and if I forbear, how much of it leaves me?"
+    },
+    {
+      "block_id": "oxford-job-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Surely now God has worn me out; he has made desolate all my company."
+    },
+    {
+      "block_id": "oxford-job-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And he has shriveled me up, which is a witness against me; my leanness has risen up against me, and it testifies to my face."
+    },
+    {
+      "block_id": "oxford-job-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He has torn me in his wrath, and hated me; he has gnashed his teeth at me; my adversary sharpens his eyes against me."
+    },
+    {
+      "block_id": "oxford-job-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "They have gaped at me with their mouths; they have struck me insolently on the cheek; they mass themselves together against me."
+    },
+    {
+      "block_id": "oxford-job-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "God gives me up to the ungodly, and casts me into the hands of the wicked."
+    },
+    {
+      "block_id": "oxford-job-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I was at ease, and he broke me in two; he seized me by the neck and dashed me to pieces; he set me up as his target;"
+    },
+    {
+      "block_id": "oxford-job-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "his archers surround me. He slashes open my kidneys, and shows no mercy; he pours out my gall on the ground."
+    },
+    {
+      "block_id": "oxford-job-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He bursts upon me again and again; he rushes at me like a warrior."
+    },
+    {
+      "block_id": "oxford-job-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I have sewed sackcloth upon my skin, and have laid my strength in the dust."
+    },
+    {
+      "block_id": "oxford-job-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "My face is red with weeping, and deep darkness is on my eyelids,"
+    },
+    {
+      "block_id": "oxford-job-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "though there is no violence in my hands, and my prayer is pure."
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-4",
+      "type": "commentary",
+      "text": "16.7–17 : Job depicts God’s assaults as if they were the attacks by various kinds of opponents, a wild animal (vv. 9–10), a traitor (v. 11), a wrestler (v. 12), an archer (vv. 12c–13a), a swordsman (vv. 13b–14). Cf. Lam 3.1–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-job-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "“O earth, do not cover my blood; let my outcry find no resting place."
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-6",
+      "type": "commentary",
+      "text": "18 : , is the same kind of cry as Abel’s who was unlawfully killed (Gen 4.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-job-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Even now, in fact, my witness is in heaven, and he that vouches for me is on high."
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-7",
+      "type": "commentary",
+      "text": "19 : Even now, while he is still alive, he has a , which cannot be God, since God has been nothing but his enemy (vv. 7–14). His witness is his own innocence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-job-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "My friends scorn me; my eye pours out tears to God,"
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-8",
+      "type": "commentary",
+      "text": "20 : , better translated “It is my cry that is my spokesman.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-job-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "that he would maintain the right of a mortal with God, as one does for a neighbor."
+    },
+    {
+      "block_id": "oxford-job-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For when a few years have come, I shall go the way from which I shall not return."
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-2",
+      "type": "commentary",
+      "text": "12.1–20.29: Second cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–17.16: Job’s fifth speech. This is the most disjointed of Job’s speeches so far. Several earlier themes recur: he criticizes the friends (16.2–6); he then soliloquizes, lamenting the attacks of God (vv. 7–17); he imagines his possible vindication (vv. 18–22); he makes a lament about the friends (17.1–10); he fears that he will die without being vindicated (vv. 11–16). Unlike his previous speech ( – ), the subject here is always Job himself and not humanity in general.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-16-h1kj-5",
+      "type": "commentary",
+      "text": "18–22 : God’s wrongful attack on Job will probably lead to Job’s death. So he appeals to the earth to take blood revenge for him once he is dead—upon God!",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 16
+      },
+      "verse_start": 18,
+      "verse_end": 22
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "document_id": "ps-126",
+  "title": "Psalms 126",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-126-heading-psalm-127",
+      "type": "heading",
+      "text": "Psalm 127"
+    },
+    {
+      "block_id": "oxford-ps-126-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When the Lord restored the fortunes of Zion, we were like those who dream."
+    },
+    {
+      "block_id": "oxford-ps-126-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 126: A prayer for the return of all the exiles. A community prayer for the return of all exiles and the restoration of Israel. Like other Songs of Ascents ((Pss 122–125; see 120n.), it has an opening statement (vv. 1–3) developed into a prayer (vv. 4–5). It also is characterized by step‐parallelism: “restore the fortunes,” “then,” “the has done great things,” “shouts of joy,” and the verb “bearing/carrying.” The psalmist regards the return of the exiles from Babylon, where they had been deported in the early sixth century , as a past event, yet prays for the return of all in the spirit of grand promises such as Isa 49. The book of Ezra suggests that in fact few returned from Babylon, the return was a disappointment, and the hyperbolic prophecies of (Isa 40–55 were not fulfilled.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 126
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-126-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then our mouth was filled with laughter, and our tongue with shouts of joy; then it was said among the nations, “The Lord has done great things for them.”"
+    },
+    {
+      "block_id": "oxford-ps-126-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The Lord has done great things for us, and we rejoiced."
+    },
+    {
+      "block_id": "oxford-ps-126-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Restore our fortunes, O Lord, like the watercourses in the Negeb."
+    },
+    {
+      "block_id": "oxford-ps-126-h1kj-2",
+      "type": "commentary",
+      "text": "4 : , picks up “restored the fortunes” (v. 1) and prays for its completion. , valleys in the arid south, dry except when a rare rainstorm creates torrents sweeping away all in their path, a bold metaphor for sudden transformation of infertile land. The metaphor is ironic, since such watercourses are destructive, yet it sets the stage for the positive water and agricultural imagery in the following verses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 126
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-126-5",
+      "type": "verse",
+      "number": 5,
+      "text": "May those who sow in tears reap with shouts of joy."
+    },
+    {
+      "block_id": "oxford-ps-126-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Those who go out weeping, bearing the seed for sowing, shall come home with shouts of joy, carrying their sheaves."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "document_id": "ps-4",
+  "title": "Psalms 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-4-heading-psalm-5",
+      "type": "heading",
+      "text": "Psalm 5"
+    },
+    {
+      "block_id": "oxford-ps-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Answer me when I call, O God of my right! You gave me room when I was in distress. Be gracious to me, and hear my prayer."
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 4: Rescue me so that I can be an example to sinners. An individual petition, with a strong emphasis on trust.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "How long, you people, shall my honor suffer shame? How long will you love vain words, and seek after lies? Selah"
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-3",
+      "type": "commentary",
+      "text": "2 : (also v. 4), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But know that the Lord has set apart the faithful for himself; the Lord hears when I call to him."
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-2",
+      "type": "commentary",
+      "text": "1–3 : Confident in the care God lavishes on the faithful (vv. 1a,3b), the psalmist boldly demands that the slanderers cease their lies. The ’s answering and hearing the psalmist (vv. 1,3) signifies an intimate relationship. , God who vindicates me.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When you are disturbed, do not sin; ponder it on your beds, and be silent. Selah"
+    },
+    {
+      "block_id": "oxford-ps-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Offer right sacrifices, and put your trust in the Lord."
+    },
+    {
+      "block_id": "oxford-ps-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "There are many who say, “O that we might see some good! Let the light of your face shine on us, O Lord!”"
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-4",
+      "type": "commentary",
+      "text": "4–6 : , reflect in private in contrast to public worship mentioned in v. 5, “offer right sacrifices.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-5",
+      "type": "commentary",
+      "text": "6 : Unlike who demand divine gifts as a right, the psalmist quietly relies upon the to grant joy and security. , cf. the priestly blessing in Num 6.24–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You have put gladness in my heart more than when their grain and wine abound."
+    },
+    {
+      "block_id": "oxford-ps-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I will both lie down and sleep in peace; for you alone, O Lord, make me lie down in safety."
+    },
+    {
+      "block_id": "oxford-ps-4-h1kj-6",
+      "type": "commentary",
+      "text": "7–8 : Lying down to sleep is an act of trust in God, for in sleep one cannot see danger or defend oneself.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    }
+  ]
+}

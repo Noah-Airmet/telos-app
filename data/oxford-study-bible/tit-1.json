@@ -1,0 +1,295 @@
+{
+  "document_id": "tit-1",
+  "title": "tit 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-tit-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-tit-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "in the hope of eternal life that God, who never lies, promised before the ages began—"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , cf. v. 12. , see 2 Tim 1.9; cf. Jn 1.2–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-tit-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "in due time he revealed his word through the proclamation with which I have been entrusted by the command of God our Savior,"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , also 2.10; 3.4; 1 Tim 1.1; 2.3; 4.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-tit-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "To Titus, my loyal child in the faith we share: Grace and peace from God the Father and Christ Jesus our Savior."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–4: Epistolary prescript, sender, addressee, and salutation with theological expansion reminiscent of Rom 1.2–6 (cf. 1 Cor 2.7; Col 1.26; 2 Tim 1.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , also 2.13; 3.6; 2 Tim 1.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-tit-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I left you behind in Crete for this reason, so that you should put in order what remained to be done, and should appoint elders in every town, as I directed you:"
+    },
+    {
+      "block_id": "oxford-tit-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "someone who is blameless, married only once, whose children are believers, not accused of debauchery and not rebellious."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , lit., “insubordinate” (also 1.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-tit-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For a bishop, as God's steward, must be blameless; he must not be arrogant or quick-tempered or addicted to wine or violent or greedy for gain;"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-6",
+      "type": "commentary",
+      "text": "5–7 : , apparently regarded as synonymous or at least overlapping categories (cf. 1 Tim 3.1–7; 5.17–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , manager of the household (cf. 1 Cor 4.1–2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-tit-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "but he must be hospitable, a lover of goodness, prudent, upright, devout, and self-controlled."
+    },
+    {
+      "block_id": "oxford-tit-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He must have a firm grasp of the word that is trustworthy in accordance with the teaching, so that he may be able both to preach with sound doctrine and to refute those who contradict it."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-9",
+      "type": "commentary",
+      "text": "9 : , the reliable tradition the Pastorals pass on; see 1 Tim 4.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-tit-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "There are also many rebellious people, idle talkers and deceivers, especially those of the circumcision;"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , Jewish Christians who teach adherence to Torah, the law of Moses (see Gal 2.12), including dietary laws (see v. 15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-tit-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "they must be silenced, since they are upsetting whole families by teaching for sordid gain what it is not right to teach."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , lit., “households,” the basic unit of civic and church life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-tit-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "It was one of them, their very own prophet, who said, “Cretans are always liars, vicious brutes, lazy gluttons.”"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-12",
+      "type": "commentary",
+      "text": "12 : Invective against opponents supported by a hexameter from the Cretan poet Epimenides (ca. 600 ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-tit-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "That testimony is true. For this reason rebuke them sharply, so that they may become sound in the faith,"
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-13",
+      "type": "commentary",
+      "text": "13 : , having a “healthy” faith (also 2.2; see 1 Tim 4.6n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-tit-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "not paying attention to Jewish myths or to commandments of those who reject the truth."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-14",
+      "type": "commentary",
+      "text": "14 : , probably speculations on biblical texts like Genesis; see 3.9; 1 Tim 1.4; 4.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-tit-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "To the pure all things are pure, but to the corrupt and unbelieving nothing is pure. Their very minds and consciences are corrupted."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-15",
+      "type": "commentary",
+      "text": "15 : Cf. Rom 14.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-tit-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "They profess to know God, but they deny him by their actions. They are detestable, disobedient, unfit for any good work."
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-5",
+      "type": "commentary",
+      "text": "1.5–16: Titus's commission in Crete.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-tit-1-h1kj-16",
+      "type": "commentary",
+      "text": "16 : , see 2.7,14; 3.1,8,14 (also 3.8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tit",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    }
+  ]
+}

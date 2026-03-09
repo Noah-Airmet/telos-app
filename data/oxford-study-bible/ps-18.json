@@ -1,0 +1,415 @@
+{
+  "document_id": "ps-18",
+  "title": "Psalms 18",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-18-heading-psalm-19",
+      "type": "heading",
+      "text": "Psalm 19"
+    },
+    {
+      "block_id": "oxford-ps-18-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I love you, O Lord, my strength."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 18: A royal thanksgiving. A report of the king’s rescue (vv. 1–19) is followed by reflections on his intimate relationship with the and his primacy among earth’s kings (vv. 20–45); the psalm ends with a fresh acknowledgment of the ’s aid (vv. 46–50). Some scholars think that Ps 18 may have been sung at the coronation of the Davidic king to ground his authority in the ’s creation victory (cf. Ps 89.5–28). An alternate version of the psalm appears in 2 Sam 22. In structure, the psalm has parallel reports of rescue, the first told from a heavenly perspective (vv. 4–19), and the second from an earthly perspective (vv. 35–45). The first report adapts the cosmic language of a mythic battle between sea and rainstorm (the weapon of the as storm god) to depict God’s rescue of the Israelite king from his enemies. Each report has a short hymnic introduction (vv. 1–3,31–34) and conclusion (vv. 20–30,46–50).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-18-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord is my rock, my fortress, and my deliverer, my God, my rock in whom I take refuge, my shield, and the horn of my salvation, my stronghold."
+    },
+    {
+      "block_id": "oxford-ps-18-3",
+      "type": "verse",
+      "number": 3,
+      "text": "I call upon the Lord, who is worthy to be praised, so I shall be saved from my enemies."
+    },
+    {
+      "block_id": "oxford-ps-18-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The cords of death encompassed me; the torrents of perdition assailed me;"
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-2",
+      "type": "commentary",
+      "text": "4 : The enemies from which the delivered the king are cosmic, both the chaotic of the primordial sea, and the power of , in , the underworld, the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-18-5",
+      "type": "verse",
+      "number": 5,
+      "text": "the cords of Sheol entangled me; the snares of death confronted me."
+    },
+    {
+      "block_id": "oxford-ps-18-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In my distress I called upon the Lord; to my God I cried for help. From his temple he heard my voice, and my cry to him reached his ears."
+    },
+    {
+      "block_id": "oxford-ps-18-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then the earth reeled and rocked; the foundations also of the mountains trembled and quaked, because he was angry."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-3",
+      "type": "commentary",
+      "text": "7 : In answer to the king’s prayer (v. 6), the appears as a storm god; cf. Ex 15.8,10; Pss 29.3–9; 104.3–4,7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-18-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Smoke went up from his nostrils, and devouring fire from his mouth; glowing coals flamed forth from him."
+    },
+    {
+      "block_id": "oxford-ps-18-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He bowed the heavens, and came down; thick darkness was under his feet."
+    },
+    {
+      "block_id": "oxford-ps-18-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He rode on a cherub, and flew; he came swiftly upon the wings of the wind."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-4",
+      "type": "commentary",
+      "text": "10 : , one of the bearers of the divine throne (see Ex 25.18–20; Ezek 1; Ps 17.8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-18-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He made darkness his covering around him, his canopy thick clouds dark with water."
+    },
+    {
+      "block_id": "oxford-ps-18-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Out of the brightness before him there broke through his clouds hailstones and coals of fire."
+    },
+    {
+      "block_id": "oxford-ps-18-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The Lord also thundered in the heavens, and the Most High uttered his voice."
+    },
+    {
+      "block_id": "oxford-ps-18-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And he sent out his arrows, and scattered them; he flashed forth lightnings, and routed them."
+    },
+    {
+      "block_id": "oxford-ps-18-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then the channels of the sea were seen, and the foundations of the world were laid bare at your rebuke, O Lord, at the blast of the breath of your nostrils."
+    },
+    {
+      "block_id": "oxford-ps-18-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He reached down from on high, he took me; he drew me out of mighty waters."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-5",
+      "type": "commentary",
+      "text": "16 : Deliverance from a tight spot (v. 6) into a , unconfined (see also v. 36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ps-18-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He delivered me from my strong enemy, and from those who hated me; for they were too mighty for me."
+    },
+    {
+      "block_id": "oxford-ps-18-18",
+      "type": "verse",
+      "number": 18,
+      "text": "They confronted me in the day of my calamity; but the Lord was my support."
+    },
+    {
+      "block_id": "oxford-ps-18-19",
+      "type": "verse",
+      "number": 19,
+      "text": "He brought me out into a broad place; he delivered me, because he delighted in me."
+    },
+    {
+      "block_id": "oxford-ps-18-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The Lord rewarded me according to my righteousness; according to the cleanness of my hands he recompensed me."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-6",
+      "type": "commentary",
+      "text": "20 : (vv. 20,24), having fulfilled his covenant responsibilities, the king counts on his patron’s loyal response.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ps-18-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For I have kept the ways of the Lord, and have not wickedly departed from my God."
+    },
+    {
+      "block_id": "oxford-ps-18-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For all his ordinances were before me, and his statutes I did not put away from me."
+    },
+    {
+      "block_id": "oxford-ps-18-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I was blameless before him, and I kept myself from guilt."
+    },
+    {
+      "block_id": "oxford-ps-18-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Therefore the Lord has recompensed me according to my righteousness, according to the cleanness of my hands in his sight."
+    },
+    {
+      "block_id": "oxford-ps-18-25",
+      "type": "verse",
+      "number": 25,
+      "text": "With the loyal you show yourself loyal; with the blameless you show yourself blameless;"
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-7",
+      "type": "commentary",
+      "text": "25 : A new section with fresh topics: the as loyal supporter (vv. 25–31), arming the king and granting him victory (vv. 32–42), and installing him as head of the kings of the world (vv. 43–45).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ps-18-26",
+      "type": "verse",
+      "number": 26,
+      "text": "with the pure you show yourself pure; and with the crooked you show yourself perverse."
+    },
+    {
+      "block_id": "oxford-ps-18-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For you deliver a humble people, but the haughty eyes you bring down."
+    },
+    {
+      "block_id": "oxford-ps-18-28",
+      "type": "verse",
+      "number": 28,
+      "text": "It is you who light my lamp; the Lord, my God, lights up my darkness."
+    },
+    {
+      "block_id": "oxford-ps-18-29",
+      "type": "verse",
+      "number": 29,
+      "text": "By you I can crush a troop, and by my God I can leap over a wall."
+    },
+    {
+      "block_id": "oxford-ps-18-30",
+      "type": "verse",
+      "number": 30,
+      "text": "This God—his way is perfect; the promise of the Lord proves true; he is a shield for all who take refuge in him."
+    },
+    {
+      "block_id": "oxford-ps-18-31",
+      "type": "verse",
+      "number": 31,
+      "text": "For who is God except the Lord? And who is a rock besides our God?—"
+    },
+    {
+      "block_id": "oxford-ps-18-32",
+      "type": "verse",
+      "number": 32,
+      "text": "the God who girded me with strength, and made my way safe."
+    },
+    {
+      "block_id": "oxford-ps-18-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He made my feet like the feet of a deer, and set me secure on the heights."
+    },
+    {
+      "block_id": "oxford-ps-18-34",
+      "type": "verse",
+      "number": 34,
+      "text": "He trains my hands for war, so that my arms can bend a bow of bronze."
+    },
+    {
+      "block_id": "oxford-ps-18-35",
+      "type": "verse",
+      "number": 35,
+      "text": "You have given me the shield of your salvation, and your right hand has supported me; your help has made me great."
+    },
+    {
+      "block_id": "oxford-ps-18-36",
+      "type": "verse",
+      "number": 36,
+      "text": "You gave me a wide place for my steps under me, and my feet did not slip."
+    },
+    {
+      "block_id": "oxford-ps-18-37",
+      "type": "verse",
+      "number": 37,
+      "text": "I pursued my enemies and overtook them; and did not turn back until they were consumed."
+    },
+    {
+      "block_id": "oxford-ps-18-38",
+      "type": "verse",
+      "number": 38,
+      "text": "I struck them down, so that they were not able to rise; they fell under my feet."
+    },
+    {
+      "block_id": "oxford-ps-18-39",
+      "type": "verse",
+      "number": 39,
+      "text": "For you girded me with strength for the battle; you made my assailants sink under me."
+    },
+    {
+      "block_id": "oxford-ps-18-40",
+      "type": "verse",
+      "number": 40,
+      "text": "You made my enemies turn their backs to me, and those who hated me I destroyed."
+    },
+    {
+      "block_id": "oxford-ps-18-41",
+      "type": "verse",
+      "number": 41,
+      "text": "They cried for help, but there was no one to save them; they cried to the Lord, but he did not answer them."
+    },
+    {
+      "block_id": "oxford-ps-18-42",
+      "type": "verse",
+      "number": 42,
+      "text": "I beat them fine, like dust before the wind; I cast them out like the mire of the streets. You delivered me from strife with the peoples; you made me head of the nations; people whom I had not known served me."
+    },
+    {
+      "block_id": "oxford-ps-18-44",
+      "type": "verse",
+      "number": 44,
+      "text": "As soon as they heard of me they obeyed me; foreigners came cringing to me."
+    },
+    {
+      "block_id": "oxford-ps-18-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Foreigners lost heart, and came trembling out of their strongholds."
+    },
+    {
+      "block_id": "oxford-ps-18-46",
+      "type": "verse",
+      "number": 46,
+      "text": "The Lord lives! Blessed be my rock, and exalted be the God of my salvation,"
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-8",
+      "type": "commentary",
+      "text": "46 : Repetition of the epithets of the from vv. 1–3, and deliverer, bring the psalm to a close.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-ps-18-47",
+      "type": "verse",
+      "number": 47,
+      "text": "the God who gave me vengeance and subdued peoples under me;"
+    },
+    {
+      "block_id": "oxford-ps-18-48",
+      "type": "verse",
+      "number": 48,
+      "text": "who delivered me from my enemies; indeed, you exalted me above my adversaries; you delivered me from the violent."
+    },
+    {
+      "block_id": "oxford-ps-18-49",
+      "type": "verse",
+      "number": 49,
+      "text": "For this I will extol you, O Lord, among the nations, and sing praises to your name."
+    },
+    {
+      "block_id": "oxford-ps-18-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Great triumphs he gives to his king, and shows steadfast love to his anointed, to David and his descendants forever."
+    },
+    {
+      "block_id": "oxford-ps-18-h1kj-9",
+      "type": "commentary",
+      "text": "50 : The ’s eternal commitment to the dynasty of David (see 2 Sam 7.13; Ps 89.27–37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 18
+      },
+      "verse_start": 50,
+      "verse_end": 50
+    }
+  ]
+}

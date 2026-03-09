@@ -1,0 +1,343 @@
+{
+  "document_id": "ps-107",
+  "title": "Psalms 107",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-107-heading-psalm-108",
+      "type": "heading",
+      "text": "Psalm 108"
+    },
+    {
+      "block_id": "oxford-ps-107-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O give thanks to the Lord, for he is good; for his steadfast love endures forever."
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 107: Thanksgiving for bringing back the people from exile. This community thanksgiving logically follows the two pleas to end the exile in Pss 105 and 106. Psalm 107 provides four examples of divine deliverance (vv. 4–9; 10–16; 17–22; 23–32), followed by a final section (vv. 33–43) transposing the deliverance of vv. 4–32 into the daily governance of the land. In each panel a danger occurs (vv. 4–5;10–12; 17–18; 23–27), the afflicted cry out to the (vv. 6; 13; 19; 28) who rescues them (vv. 6b–7; 13b–14; 19b–10; 28b–30), prompting them to respond with thanksgiving (vv. 8–9; 15–16; 21–22; 31–32). Verses 1–3 invited the returned exiles to give praise; vv. 4–32 depict the four rescued groups: those hungering and thirsting in the wilderness (vv. 4–9); prisoners (vv. 10–16); the sick (vv. 17–22); those caught in an ocean storm (vv. 23–32); these are all metaphorical for the tribulations of the Babylonian exile of the sixth century , and the difficulties of returning by foot from Babylon. Verses 33–43 describe the ’s rescue and governance of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-107-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Let the redeemed of the Lord say so, those he redeemed from trouble"
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , in its only other biblical occurrence, the inhabitants of restored Zion (Isa 62.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-107-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and gathered in from the lands, from the east and from the west, from the north and from the south."
+    },
+    {
+      "block_id": "oxford-ps-107-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Some wandered in desert wastes, finding no way to an inhabited town;"
+    },
+    {
+      "block_id": "oxford-ps-107-5",
+      "type": "verse",
+      "number": 5,
+      "text": "hungry and thirsty, their soul fainted within them."
+    },
+    {
+      "block_id": "oxford-ps-107-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then they cried to the Lord in their trouble, and he delivered them from their distress;"
+    },
+    {
+      "block_id": "oxford-ps-107-7",
+      "type": "verse",
+      "number": 7,
+      "text": "he led them by a straight way, until they reached an inhabited town."
+    },
+    {
+      "block_id": "oxford-ps-107-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Let them thank the Lord for his steadfast love, for his wonderful works to humankind."
+    },
+    {
+      "block_id": "oxford-ps-107-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For he satisfies the thirsty, and the hungry he fills with good things."
+    },
+    {
+      "block_id": "oxford-ps-107-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Some sat in darkness and in gloom, prisoners in misery and in irons,"
+    },
+    {
+      "block_id": "oxford-ps-107-11",
+      "type": "verse",
+      "number": 11,
+      "text": "for they had rebelled against the words of God, and spurned the counsel of the Most High."
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-3",
+      "type": "commentary",
+      "text": "11 : The exile was a punishment for Israel’s behavior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-107-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Their hearts were bowed down with hard labor; they fell down, with no one to help."
+    },
+    {
+      "block_id": "oxford-ps-107-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then they cried to the Lord in their trouble, and he saved them from their distress;"
+    },
+    {
+      "block_id": "oxford-ps-107-14",
+      "type": "verse",
+      "number": 14,
+      "text": "he brought them out of darkness and gloom, and broke their bonds asunder."
+    },
+    {
+      "block_id": "oxford-ps-107-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Let them thank the Lord for his steadfast love, for his wonderful works to humankind."
+    },
+    {
+      "block_id": "oxford-ps-107-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For he shatters the doors of bronze, and cuts in two the bars of iron."
+    },
+    {
+      "block_id": "oxford-ps-107-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Some were sick through their sinful ways, and because of their iniquities endured affliction;"
+    },
+    {
+      "block_id": "oxford-ps-107-18",
+      "type": "verse",
+      "number": 18,
+      "text": "they loathed any kind of food, and they drew near to the gates of death."
+    },
+    {
+      "block_id": "oxford-ps-107-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then they cried to the Lord in their trouble, and he saved them from their distress;"
+    },
+    {
+      "block_id": "oxford-ps-107-20",
+      "type": "verse",
+      "number": 20,
+      "text": "he sent out his word and healed them, and delivered them from destruction."
+    },
+    {
+      "block_id": "oxford-ps-107-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Let them thank the Lord for his steadfast love, for his wonderful works to humankind."
+    },
+    {
+      "block_id": "oxford-ps-107-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And let them offer thanksgiving sacrifices, and tell of his deeds with songs of joy."
+    },
+    {
+      "block_id": "oxford-ps-107-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Some went down to the sea in ships, doing business on the mighty waters;"
+    },
+    {
+      "block_id": "oxford-ps-107-24",
+      "type": "verse",
+      "number": 24,
+      "text": "they saw the deeds of the Lord, his wondrous works in the deep."
+    },
+    {
+      "block_id": "oxford-ps-107-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For he commanded and raised the stormy wind, which lifted up the waves of the sea."
+    },
+    {
+      "block_id": "oxford-ps-107-26",
+      "type": "verse",
+      "number": 26,
+      "text": "They mounted up to heaven, they went down to the depths; their courage melted away in their calamity;"
+    },
+    {
+      "block_id": "oxford-ps-107-27",
+      "type": "verse",
+      "number": 27,
+      "text": "they reeled and staggered like drunkards, and were at their wits’ end."
+    },
+    {
+      "block_id": "oxford-ps-107-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Then they cried to the Lord in their trouble, and he brought them out from their distress;"
+    },
+    {
+      "block_id": "oxford-ps-107-29",
+      "type": "verse",
+      "number": 29,
+      "text": "he made the storm be still, and the waves of the sea were hushed."
+    },
+    {
+      "block_id": "oxford-ps-107-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Then they were glad because they had quiet, and he brought them to their desired haven."
+    },
+    {
+      "block_id": "oxford-ps-107-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Let them thank the Lord for his steadfast love, for his wonderful works to humankind."
+    },
+    {
+      "block_id": "oxford-ps-107-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Let them extol him in the congregation of the people, and praise him in the assembly of the elders."
+    },
+    {
+      "block_id": "oxford-ps-107-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He turns rivers into a desert, springs of water into thirsty ground,"
+    },
+    {
+      "block_id": "oxford-ps-107-34",
+      "type": "verse",
+      "number": 34,
+      "text": "a fruitful land into a salty waste, because of the wickedness of its inhabitants."
+    },
+    {
+      "block_id": "oxford-ps-107-35",
+      "type": "verse",
+      "number": 35,
+      "text": "He turns a desert into pools of water, a parched land into springs of water."
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-4",
+      "type": "commentary",
+      "text": "35 : Cf. Isa 41.18; 43.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-ps-107-36",
+      "type": "verse",
+      "number": 36,
+      "text": "And there he lets the hungry live, and they establish a town to live in;"
+    },
+    {
+      "block_id": "oxford-ps-107-37",
+      "type": "verse",
+      "number": 37,
+      "text": "they sow fields, and plant vineyards, and get a fruitful yield."
+    },
+    {
+      "block_id": "oxford-ps-107-38",
+      "type": "verse",
+      "number": 38,
+      "text": "By his blessing they multiply greatly, and he does not let their cattle decrease."
+    },
+    {
+      "block_id": "oxford-ps-107-39",
+      "type": "verse",
+      "number": 39,
+      "text": "When they are diminished and brought low through oppression, trouble, and sorrow,"
+    },
+    {
+      "block_id": "oxford-ps-107-40",
+      "type": "verse",
+      "number": 40,
+      "text": "he pours contempt on princes and makes them wander in trackless wastes;"
+    },
+    {
+      "block_id": "oxford-ps-107-41",
+      "type": "verse",
+      "number": 41,
+      "text": "but he raises up the needy out of distress, and makes their families like flocks."
+    },
+    {
+      "block_id": "oxford-ps-107-42",
+      "type": "verse",
+      "number": 42,
+      "text": "The upright see it and are glad; and all wickedness stops its mouth."
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-5",
+      "type": "commentary",
+      "text": "41–42 : Two main themes of psalms: the vindication of the needy, which leads to public recognition of God’s greatness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 41,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-ps-107-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Let those who are wise give heed to these things, and consider the steadfast love of the Lord."
+    },
+    {
+      "block_id": "oxford-ps-107-h1kj-6",
+      "type": "commentary",
+      "text": "43 : The understand that the ’s (Heb “ḥesed”) allows for periods of tribulation and defeat, but Israel will always be restored.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 107
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    }
+  ]
+}

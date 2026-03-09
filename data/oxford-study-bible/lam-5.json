@@ -1,0 +1,350 @@
+{
+  "document_id": "lam-5",
+  "title": "Lamentations 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lam-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Our inheritance has been turned over to strangers, our homes to aliens."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , ancestral land was to be kept within the family. Here the reference may be to individual real estate or to the country as a whole. , those outside the family. , foreigners.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lam-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "We have become orphans, fatherless; our mothers are like widows."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-3",
+      "type": "commentary",
+      "text": "2–3 : The breakdown of the institution of the family.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , an orphan is a person without a father. Widows and orphans are defenseless and required special protection (e.g., Isa 1.23; Ps 68.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lam-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "We must pay for the water we drink; the wood we get must be bought."
+    },
+    {
+      "block_id": "oxford-lam-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "With a yoke on our necks we are hard driven; we are weary, we are given no rest."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-6",
+      "type": "commentary",
+      "text": "4–5 : Harsh economic conditions; rampant inflation. and are basic necessities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-lam-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "We have made a pact with Egypt and Assyria, to get enough bread."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , traditional superpowers and enemy-invaders of Israel, are often found in parallelism even when, as in this period, Assyria was long gone (Isa 52.4; Zech 10.10–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-lam-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Our ancestors sinned; they are no more, and we bear their iniquities."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-8",
+      "type": "commentary",
+      "text": "7 : also means “punishment.” Earlier sinful generations did not suffer punishment like the current generation. Did the current generation also see itself as sinful and deserving of punishment, or did they think they are paying unfairly for the sins of their ancestors? The verse is ambiguous.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lam-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Slaves rule over us; there is no one to deliver us from their hand."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , previously Judah was ruled by its own king but now it is governed by the lackeys of the Babylonian king (cf. 2 Kings 25.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lam-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "We get our bread at the peril of our lives, because of the sword in the wilderness."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-10",
+      "type": "commentary",
+      "text": "9 : Food is scarce. , a difficult phrase which may mean that scavenging in the countryside was dangerous because of marauders. Alternatively, it is a metaphor for the dehydration and starvation of the inhabitants of Judah, who suffer famine that resembles the famine of the siege (v. 10 and cf. 4.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-lam-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Our skin is black as an oven from the scorching heat of famine."
+    },
+    {
+      "block_id": "oxford-lam-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Women are raped in Zion, virgins in the towns of Judah."
+    },
+    {
+      "block_id": "oxford-lam-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Princes are hung up by their hands; no respect is shown to the elders."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-12",
+      "type": "commentary",
+      "text": "12 : , impalement of corpses was a form of public shaming (Deut 21.22; Josh 10.26–27; 1 Sam 31.10). , probably meaning by the hands of the enemy (see v. 8), since victims were not generally hung by their hands. A better interpretation may be that this is not a form of execution or corpse display, but a form of torture and humiliation of the living, like putting a person in the stocks.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lam-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Young men are compelled to grind, and boys stagger under loads of wood."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-13",
+      "type": "commentary",
+      "text": "13 : , a task normally done by women (Ex 11.5; Isa 47.2; Job 31.10) or slaves (Judg 16.21) and therefore demeaning if undertaken by a man. The Hebrew is “pull the millstone,” which may refer to a large milling operation in which a donkey would normally pull the heavy millstone, making this line parallel in meaning to the next one. , humans are made to do the work of animals, beasts of burden.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lam-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The old men have left the city gate, the young men their music."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-11",
+      "type": "commentary",
+      "text": "11–14 : Social order has disintegrated; violence and indignity abound. Women are shamed sexually; leaders are shamed publicly; young and old are denied their proper calling and subjected to abusive labor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-14",
+      "type": "commentary",
+      "text": "14 : , the location of business and legal transactions (Ruth 4.1; Job 29.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lam-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The joy of our hearts has ceased; our dancing has been turned to mourning."
+    },
+    {
+      "block_id": "oxford-lam-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The crown has fallen from our head; woe to us, for we have sinned!"
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-15",
+      "type": "commentary",
+      "text": "16 : , the emblem of kingship, the Davidic dynasty, or perhaps the crenellated walls of the city. , an admission of guilt (cf. 3.42 and 5.7n).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-lam-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Because of this our hearts are sick, because of these things our eyes have grown dim:"
+    },
+    {
+      "block_id": "oxford-lam-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "because of Mount Zion, which lies desolate; jackals prowl over it."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-16",
+      "type": "commentary",
+      "text": "18 : , see 1.4n. , or “foxes,” proverbial inhabitants of ruined cities (see 4.3; Ezek 13.4; Isa 34.11–17; Zeph 2.13–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-lam-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But you, O Lord, reign forever; your throne endures to all generations."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-17",
+      "type": "commentary",
+      "text": "19 : A strong theological statement: Even though God's earthly throne, the Temple, lies in ruins, God continues to reign forever.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-lam-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Why have you forgotten us completely? Why have you forsaken us these many days?"
+    },
+    {
+      "block_id": "oxford-lam-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Restore us to yourself, O Lord, that we may be restored; renew our days as of old—"
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-18",
+      "type": "commentary",
+      "text": "21 : A wish that Israel's former relationship with God be reinstated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-lam-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "unless you have utterly rejected us, and are angry with us beyond measure."
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-1",
+      "type": "commentary",
+      "text": "5.1–22: A prayer of the survivors in Judah in the aftermath of the destruction. A call to God to notice the abject state of his people in Judah and to restore them to their previous condition. The chapter resembles communal laments and also penitential prayers of the Second Temple period.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-5-h1kj-19",
+      "type": "commentary",
+      "text": "22 : The book ends in tragic despair, with the suggestion that God's rejection of the people continues. is difficult in the Hebrew; perhaps it is better translated “but instead,” or even more literally, “for if,” suggesting that the conclusion of the conditional clause has been withheld, thus perpetuating indefinitely the divine rejection with which the book ends.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    }
+  ]
+}

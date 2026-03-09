@@ -1,0 +1,133 @@
+{
+  "document_id": "ps-141",
+  "title": "Psalms 141",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-141-heading-psalm-142",
+      "type": "heading",
+      "text": "Psalm 142"
+    },
+    {
+      "block_id": "oxford-ps-141-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I call upon you, O Lord; come quickly to me; give ear to my voice when I call to you."
+    },
+    {
+      "block_id": "oxford-ps-141-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 141: Save me from my own evil impulses and from evil companions. An individual petition. Verses 1–2 ask God to give special attention to the psalmist’s plea, and vv. 3–4 beg to be kept from sin and evil companions (vv. 3–4). Verses 5–7 are textually uncertain; vv. 8–10 express total trust in God and hope of future protection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-141-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Let my prayer be counted as incense before you, and the lifting up of my hands as an evening sacrifice."
+    },
+    {
+      "block_id": "oxford-ps-141-h1kj-2",
+      "type": "commentary",
+      "text": "2 : The psalmist’s prayer is compared to two regular sacrifices in the Temple, incense in the morning (cf. Ex 30.7–8) and the sacrifice of a lamb in the evening (cf. Ex 29.38–42)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-141-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Set a guard over my mouth, O Lord; keep watch over the door of my lips."
+    },
+    {
+      "block_id": "oxford-ps-141-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Do not turn my heart to any evil, to busy myself with wicked deeds in company with those who work iniquity; do not let me eat of their delicacies."
+    },
+    {
+      "block_id": "oxford-ps-141-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , share their fellowship; cf. Ps 41.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-141-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the righteous strike me; let the faithful correct me. Never let the oil of the wicked anoint my head, for my prayer is continually against their wicked deeds."
+    },
+    {
+      "block_id": "oxford-ps-141-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When they are given over to those who shall condemn them, then they shall learn that my words were pleasant."
+    },
+    {
+      "block_id": "oxford-ps-141-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Like a rock that one breaks apart and shatters on the land, so shall their bones be strewn at the mouth of Sheol."
+    },
+    {
+      "block_id": "oxford-ps-141-h1kj-4",
+      "type": "commentary",
+      "text": "7 : Some scholars suggest that was accompanied with the ritual shattering of a rock. , the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-141-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But my eyes are turned toward you, O God, my Lord; in you I seek refuge; do not leave me defenseless."
+    },
+    {
+      "block_id": "oxford-ps-141-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Keep me from the trap that they have laid for me, and from the snares of evildoers."
+    },
+    {
+      "block_id": "oxford-ps-141-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Let the wicked fall into their own nets, while I alone escape."
+    },
+    {
+      "block_id": "oxford-ps-141-h1kj-5",
+      "type": "commentary",
+      "text": "10 : See Ps 7.15–16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 141
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    }
+  ]
+}

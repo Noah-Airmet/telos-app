@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-107",
+  "title": "Section 107: The priesthood",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-107-heading",
+      "type": "heading",
+      "text": "The priesthood"
+    },
+    {
+      "block_id": "dc-107-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 107 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 107,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

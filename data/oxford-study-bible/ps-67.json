@@ -1,0 +1,103 @@
+{
+  "document_id": "ps-67",
+  "title": "Psalms 67",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-67-heading-psalm-68",
+      "type": "heading",
+      "text": "Psalm 68"
+    },
+    {
+      "block_id": "oxford-ps-67-1",
+      "type": "verse",
+      "number": 1,
+      "text": "May God be gracious to us and bless us and make his face to shine upon us, Selah"
+    },
+    {
+      "block_id": "oxford-ps-67-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 67: May the nations acknowledge God in our prosperity! In this communal petition, the psalmist prays that the nations may recognize how God has caused Israel to prosper, and has also guided the peoples and will judge them equitably. The nations should therefore praise God. “Bless” and “praise” are key words, repeated several times, emphasizing the theme of the psalm. Verses 1 and 5 are refrains.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 67
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-67-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , a reworking of the priestly blessing in Num 6.24–26. Like the sun and moon, the face is a light shining in favor upon the people (Pss 31.16; 80.3,7,19). (also v. 4), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 67
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-67-2",
+      "type": "verse",
+      "number": 2,
+      "text": "that your way may be known upon earth, your saving power among all nations."
+    },
+    {
+      "block_id": "oxford-ps-67-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Let the peoples praise you, O God; let all the peoples praise you."
+    },
+    {
+      "block_id": "oxford-ps-67-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let the nations be glad and sing for joy, for you judge the peoples with equity and guide the nations upon earth. Selah"
+    },
+    {
+      "block_id": "oxford-ps-67-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the peoples praise you, O God; let all the peoples praise you."
+    },
+    {
+      "block_id": "oxford-ps-67-h1kj-3",
+      "type": "commentary",
+      "text": "3–5 : The center of the poem is v. 4, the only three‐line verse: it is framed by vv. 3 and 5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 67
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-67-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The earth has yielded its increase; God, our God, has blessed us."
+    },
+    {
+      "block_id": "oxford-ps-67-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , better translated as a prayer, “May the earth yield its increase”: the people pray for their continued prosperity so that their God might receive more honor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 67
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-67-7",
+      "type": "verse",
+      "number": 7,
+      "text": "May God continue to bless us; let all the ends of the earth revere him."
+    }
+  ]
+}

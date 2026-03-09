@@ -1,0 +1,546 @@
+{
+  "document_id": "ps-89",
+  "title": "Psalms 89",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-89-heading-book-iv-psalms-90–106",
+      "type": "heading",
+      "text": "Book IV Psalms 90–106"
+    },
+    {
+      "block_id": "oxford-ps-89-heading-psalm-90",
+      "type": "heading",
+      "text": "Psalm 90"
+    },
+    {
+      "block_id": "oxford-ps-89-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I will sing of your steadfast love, O Lord, forever; with my mouth I will proclaim your faithfulness to all generations."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 89: A plea that God will remain faithful to the covenant with David. Written when the king was important to national life (the tenth to the sixth centuries ), the community petition asks God to honor the ancient promise to give victory to the Davidic king (vv. 1–37), for that promise has been called into question by an ignominious defeat (vv. 38–51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , occurring seven times, Heb “ḥesed” underscores God’s close relationship to the Davidic king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-89-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I declare that your steadfast love is established forever; your faithfulness is as firm as the heavens."
+    },
+    {
+      "block_id": "oxford-ps-89-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You said, “I have made a covenant with my chosen one, I have sworn to my servant David:"
+    },
+    {
+      "block_id": "oxford-ps-89-4",
+      "type": "verse",
+      "number": 4,
+      "text": "‘I will establish your descendants forever, and build your throne for all generations.’” Selah"
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-3",
+      "type": "commentary",
+      "text": "1–4 : God’s promise to David (see 2 Sam 7.16) is as rooted in creation as the never‐failing cycle of the sun and moon (see vv. 36–37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-4",
+      "type": "commentary",
+      "text": "4 : (also vv. 37,45,48), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-89-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let the heavens praise your wonders, O Lord, your faithfulness in the assembly of the holy ones."
+    },
+    {
+      "block_id": "oxford-ps-89-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For who in the skies can be compared to the Lord? Who among the heavenly beings is like the Lord,"
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-6",
+      "type": "commentary",
+      "text": "6 : Cf. Pss 71.19; 86.8; Ex 15.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-89-7",
+      "type": "verse",
+      "number": 7,
+      "text": "a God feared in the council of the holy ones, great and awesome above all that are around him?"
+    },
+    {
+      "block_id": "oxford-ps-89-8",
+      "type": "verse",
+      "number": 8,
+      "text": "O Lord God of hosts, who is as mighty as you, O Lord? Your faithfulness surrounds you."
+    },
+    {
+      "block_id": "oxford-ps-89-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You rule the raging of the sea; when its waves rise, you still them."
+    },
+    {
+      "block_id": "oxford-ps-89-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You crushed Rahab like a carcass; you scattered your enemies with your mighty arm."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-7",
+      "type": "commentary",
+      "text": "10 : , a name for the primeval chaos monster; Job 26.12; Isa 51.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-89-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The heavens are yours, the earth also is yours; the world and all that is in it—you have founded them."
+    },
+    {
+      "block_id": "oxford-ps-89-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The north and the south—you created them; Tabor and Hermon joyously praise your name."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-8",
+      "type": "commentary",
+      "text": "12 : , i.e., Zaphon (see Ps 48.1–3n.); , Heb “yamin,” is probably to be emended to (Mount) Amanus, today the Nur mountains in south‐central Turkey. , two prominent mountains, in southern and northern Galilee respectively.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ps-89-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You have a mighty arm; strong is your hand, high your right hand."
+    },
+    {
+      "block_id": "oxford-ps-89-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-5",
+      "type": "commentary",
+      "text": "5–14 : The heavenly assembly acknowledges the supremacy of the God who defeated Sea (vv. 9–10), arranged heaven and earth (vv. 11–12), and ascended to the throne (vv. 13–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 5,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-9",
+      "type": "commentary",
+      "text": "14 : Cf. Ps 85.10–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-89-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Happy are the people who know the festal shout, who walk, O Lord, in the light of your countenance;"
+    },
+    {
+      "block_id": "oxford-ps-89-16",
+      "type": "verse",
+      "number": 16,
+      "text": "they exult in your name all day long, and extol your righteousness."
+    },
+    {
+      "block_id": "oxford-ps-89-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For you are the glory of their strength; by your favor our horn is exalted."
+    },
+    {
+      "block_id": "oxford-ps-89-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For our shield belongs to the Lord, our king to the Holy One of Israel."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-10",
+      "type": "commentary",
+      "text": "15–18 : Paralleling the celebration in the heavens is the celebration of God’s victory on earth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 15,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ps-89-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then you spoke in a vision to your faithful one, and said: “I have set the crown on one who is mighty, I have exalted one chosen from the people."
+    },
+    {
+      "block_id": "oxford-ps-89-20",
+      "type": "verse",
+      "number": 20,
+      "text": "I have found my servant David; with my holy oil I have anointed him;"
+    },
+    {
+      "block_id": "oxford-ps-89-21",
+      "type": "verse",
+      "number": 21,
+      "text": "my hand shall always remain with him; my arm also shall strengthen him."
+    },
+    {
+      "block_id": "oxford-ps-89-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The enemy shall not outwit him, the wicked shall not humble him."
+    },
+    {
+      "block_id": "oxford-ps-89-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I will crush his foes before him and strike down those who hate him."
+    },
+    {
+      "block_id": "oxford-ps-89-24",
+      "type": "verse",
+      "number": 24,
+      "text": "My faithfulness and steadfast love shall be with him; and in my name his horn shall be exalted."
+    },
+    {
+      "block_id": "oxford-ps-89-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I will set his hand on the sea and his right hand on the rivers."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-12",
+      "type": "commentary",
+      "text": "25 : The king shares the divine task of controlling the primeval forces of watery chaos.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ps-89-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He shall cry to me, ‘You are my Father, my God, and the Rock of my salvation!’"
+    },
+    {
+      "block_id": "oxford-ps-89-27",
+      "type": "verse",
+      "number": 27,
+      "text": "I will make him the firstborn, the highest of the kings of the earth."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-14",
+      "type": "commentary",
+      "text": "26–27 : Language of (divine) adoption; see 2 Sam 7.14; Ps 2.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-ps-89-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Forever I will keep my steadfast love for him, and my covenant with him will stand firm."
+    },
+    {
+      "block_id": "oxford-ps-89-29",
+      "type": "verse",
+      "number": 29,
+      "text": "I will establish his line forever, and his throne as long as the heavens endure."
+    },
+    {
+      "block_id": "oxford-ps-89-30",
+      "type": "verse",
+      "number": 30,
+      "text": "If his children forsake my law and do not walk according to my ordinances,"
+    },
+    {
+      "block_id": "oxford-ps-89-31",
+      "type": "verse",
+      "number": 31,
+      "text": "if they violate my statutes and do not keep my commandments,"
+    },
+    {
+      "block_id": "oxford-ps-89-32",
+      "type": "verse",
+      "number": 32,
+      "text": "then I will punish their transgression with the rod and their iniquity with scourges;"
+    },
+    {
+      "block_id": "oxford-ps-89-33",
+      "type": "verse",
+      "number": 33,
+      "text": "but I will not remove from him my steadfast love, or be false to my faithfulness."
+    },
+    {
+      "block_id": "oxford-ps-89-34",
+      "type": "verse",
+      "number": 34,
+      "text": "I will not violate my covenant, or alter the word that went forth from my lips."
+    },
+    {
+      "block_id": "oxford-ps-89-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Once and for all I have sworn by my holiness; I will not lie to David."
+    },
+    {
+      "block_id": "oxford-ps-89-36",
+      "type": "verse",
+      "number": 36,
+      "text": "His line shall continue forever, and his throne endure before me like the sun."
+    },
+    {
+      "block_id": "oxford-ps-89-37",
+      "type": "verse",
+      "number": 37,
+      "text": "It shall be established forever like the moon, an enduring witness in the skies.” Selah"
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-11",
+      "type": "commentary",
+      "text": "19–37 : Time is collapsed, and David is chosen as king and anointed immediately after the conquest of chaos, as a human king who represents the divine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 19,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-13",
+      "type": "commentary",
+      "text": "28–37 : The promise to David is unconditional and eternal: as in 2 Sam 7.11–16, on which this is based; if one of David’s descendants is unfaithful to the covenant, that king will be punished but the dynasty will not be rejected.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 28,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-ps-89-38",
+      "type": "verse",
+      "number": 38,
+      "text": "But now you have spurned and rejected him; you are full of wrath against your anointed."
+    },
+    {
+      "block_id": "oxford-ps-89-39",
+      "type": "verse",
+      "number": 39,
+      "text": "You have renounced the covenant with your servant; you have defiled his crown in the dust."
+    },
+    {
+      "block_id": "oxford-ps-89-40",
+      "type": "verse",
+      "number": 40,
+      "text": "You have broken through all his walls; you have laid his strongholds in ruins."
+    },
+    {
+      "block_id": "oxford-ps-89-41",
+      "type": "verse",
+      "number": 41,
+      "text": "All who pass by plunder him; he has become the scorn of his neighbors."
+    },
+    {
+      "block_id": "oxford-ps-89-42",
+      "type": "verse",
+      "number": 42,
+      "text": "You have exalted the right hand of his foes; you have made all his enemies rejoice."
+    },
+    {
+      "block_id": "oxford-ps-89-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Moreover, you have turned back the edge of his sword, and you have not supported him in battle."
+    },
+    {
+      "block_id": "oxford-ps-89-44",
+      "type": "verse",
+      "number": 44,
+      "text": "You have removed the scepter from his hand, and hurled his throne to the ground."
+    },
+    {
+      "block_id": "oxford-ps-89-45",
+      "type": "verse",
+      "number": 45,
+      "text": "You have cut short the days of his youth; you have covered him with shame.Selah"
+    },
+    {
+      "block_id": "oxford-ps-89-46",
+      "type": "verse",
+      "number": 46,
+      "text": "How long, O Lord? Will you hide yourself forever? How long will your wrath burn like fire?"
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-16",
+      "type": "commentary",
+      "text": "46 : , see Ps 13.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-ps-89-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Remember how short my time is— for what vanity you have created all mortals!"
+    },
+    {
+      "block_id": "oxford-ps-89-48",
+      "type": "verse",
+      "number": 48,
+      "text": "Who can live and never see death? Who can escape the power of Sheol? Selah"
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-17",
+      "type": "commentary",
+      "text": "48 : , the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-ps-89-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Lord, where is your steadfast love of old, which by your faithfulness you swore to David?"
+    },
+    {
+      "block_id": "oxford-ps-89-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Remember, O Lord, how your servant is taunted; how I bear in my bosom the insults of the peoples,"
+    },
+    {
+      "block_id": "oxford-ps-89-51",
+      "type": "verse",
+      "number": 51,
+      "text": "with which your enemies taunt, O Lord, with which they taunted the footsteps of your anointed."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-15",
+      "type": "commentary",
+      "text": "38–51 : A Davidic king has suffered defeat, and the community speaker insists that God remember the promise of fidelity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 38,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-ps-89-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Blessed be the Lord forever. Amen and Amen."
+    },
+    {
+      "block_id": "oxford-ps-89-h1kj-18",
+      "type": "commentary",
+      "text": "52 : Not a part of the psalm but a doxology or blessing concluding Book III, the third of five editorial divisions of the Psalter; see also Pss 41.13; 72.18–19; 106.48; 150.1–6. It is possible that the book of Psalms at one point began with Psalm 2 and ended with this psalm, focusing on Davidic kingship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 89
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    }
+  ]
+}

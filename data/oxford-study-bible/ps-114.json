@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-114",
+  "title": "Psalms 114",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-114-heading-psalm-115",
+      "type": "heading",
+      "text": "Psalm 115"
+    },
+    {
+      "block_id": "oxford-ps-114-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When Israel went out from Egypt, the house of Jacob from a people of strange language,"
+    },
+    {
+      "block_id": "oxford-ps-114-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 114: The wonder of the Exodus. A psalm with hymnlike features, celebrating the Exodus from Egypt and entry into the land. An apt Hallel psalm ((Pss 113–118) with standard synonymous parallelism and internal repetition (vv. 3–4; 5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 114
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-114-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Judah became God’s sanctuary, Israel his dominion."
+    },
+    {
+      "block_id": "oxford-ps-114-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The sea looked and fled; Jordan turned back."
+    },
+    {
+      "block_id": "oxford-ps-114-h1kj-3",
+      "type": "commentary",
+      "text": "3 : is parallel to and is personified as a defeated warrior (cf. Pss 77.16; 104.7). The taunts sea and mountains as they tremble and flee (Ps 96.9; Deut 2.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 114
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-114-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The mountains skipped like rams, the hills like lambs."
+    },
+    {
+      "block_id": "oxford-ps-114-h1kj-2",
+      "type": "commentary",
+      "text": "1–4 : Somewhat abruptly, the psalm describes Israel leaving Egypt, passing through the sea (see (Ex 14–15) to a safe land. Telescoping events, this poem has the people cross from Egypt over the Jordan directly into Canaan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 114
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-114-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why is it, O sea, that you flee? O Jordan, that you turn back?"
+    },
+    {
+      "block_id": "oxford-ps-114-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O mountains, that you skip like rams? O hills, like lambs?"
+    },
+    {
+      "block_id": "oxford-ps-114-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,"
+    },
+    {
+      "block_id": "oxford-ps-114-8",
+      "type": "verse",
+      "number": 8,
+      "text": "who turns the rock into a pool of water, the flint into a spring of water."
+    },
+    {
+      "block_id": "oxford-ps-114-h1kj-4",
+      "type": "commentary",
+      "text": "8 : Possibly a reference to God providing water in the wilderness from a as in Ps 78.15,20; Ex 17.6; Num 20.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 114
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

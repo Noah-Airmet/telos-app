@@ -1,0 +1,367 @@
+{
+  "document_id": "matt-14",
+  "title": "Matthew 14",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-matt-14-heading-15",
+      "type": "heading",
+      "text": "15"
+    },
+    {
+      "block_id": "oxford-matt-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and he said to his servants, “This is John the Baptist; he has been raised from the dead, and for this reason these powers are at work in him.”"
+    },
+    {
+      "block_id": "oxford-matt-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For Herod had arrested John, bound him, and put him in prison on account of Herodias, his brother Philip's wife,"
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-3",
+      "type": "commentary",
+      "text": "3 . , cf. Josephus, . 18.136–37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-matt-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "because John had been telling him, “It is not lawful for you to have her.”"
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-4",
+      "type": "commentary",
+      "text": "4 : Lev 18.16; 20.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-matt-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Though Herod wanted to put him to death, he feared the crowd, because they regarded him as a prophet."
+    },
+    {
+      "block_id": "oxford-matt-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But when Herod's birthday came, the daughter of Herodias danced before the company, and she pleased Herod"
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , Josephus identifies her as Salome ( . 18.136; for Josephus's account of John's death, see . 18.116–19). Compare Esth 2.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-matt-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "so much that he promised on oath to grant her whatever she might ask."
+    },
+    {
+      "block_id": "oxford-matt-14-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Prompted by her mother, she said, “Give me the head of John the Baptist here on a platter.”"
+    },
+    {
+      "block_id": "oxford-matt-14-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The king was grieved, yet out of regard for his oaths and for the guests, he commanded it to be given;"
+    },
+    {
+      "block_id": "oxford-matt-14-10",
+      "type": "verse",
+      "number": 10,
+      "text": "he sent and had John beheaded in the prison."
+    },
+    {
+      "block_id": "oxford-matt-14-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The head was brought on a platter and given to the girl, who brought it to her mother."
+    },
+    {
+      "block_id": "oxford-matt-14-12",
+      "type": "verse",
+      "number": 12,
+      "text": "His disciples came and took the body and buried it; then they went and told Jesus."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-1",
+      "type": "commentary",
+      "text": "14.1–12: The death of John the Baptist (Mk 6.14–29; Lk 9.7–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-matt-14-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Now when Jesus heard this, he withdrew from there in a boat to a deserted place by himself. But when the crowds heard it, they followed him on foot from the towns."
+    },
+    {
+      "block_id": "oxford-matt-14-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When he went ashore, he saw a great crowd; and he had compassion for them and cured their sick."
+    },
+    {
+      "block_id": "oxford-matt-14-15",
+      "type": "verse",
+      "number": 15,
+      "text": "When it was evening, the disciples came to him and said, “This is a deserted place, and the hour is now late; send the crowds away so that they may go into the villages and buy food for themselves.”"
+    },
+    {
+      "block_id": "oxford-matt-14-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Jesus said to them, “They need not go away; you give them something to eat.”"
+    },
+    {
+      "block_id": "oxford-matt-14-17",
+      "type": "verse",
+      "number": 17,
+      "text": "They replied, “We have nothing here but five loaves and two fish.”"
+    },
+    {
+      "block_id": "oxford-matt-14-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And he said, “Bring them here to me.”"
+    },
+    {
+      "block_id": "oxford-matt-14-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then he ordered the crowds to sit down on the grass. Taking the five loaves and the two fish, he looked up to heaven, and blessed and broke the loaves, and gave them to the disciples, and the disciples gave them to the crowds."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-7",
+      "type": "commentary",
+      "text": "19 : , the language suggests eucharistic ritual; cf. 26.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-matt-14-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And all ate and were filled; and they took up what was left over of the broken pieces, twelve baskets full."
+    },
+    {
+      "block_id": "oxford-matt-14-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And those who ate were about five thousand men, besides women and children."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-8",
+      "type": "commentary",
+      "text": "21 : Matthew increases the magnitude of the miracle by adding (cf. Mk 6.44).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-matt-14-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Immediately he made the disciples get into the boat and go on ahead to the other side, while he dismissed the crowds."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-9",
+      "type": "commentary",
+      "text": "22 : The of the Sea of Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-matt-14-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And after he had dismissed the crowds, he went up the mountain by himself to pray. When evening came, he was there alone,"
+    },
+    {
+      "block_id": "oxford-matt-14-24",
+      "type": "verse",
+      "number": 24,
+      "text": "but by this time the boat, battered by the waves, was far from the land, for the wind was against them."
+    },
+    {
+      "block_id": "oxford-matt-14-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And early in the morning he came walking toward them on the sea."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-10",
+      "type": "commentary",
+      "text": "25 : , lit., “in the fourth watch of the night,” i.e., between 3 and 6 am.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-matt-14-26",
+      "type": "verse",
+      "number": 26,
+      "text": "But when the disciples saw him walking on the sea, they were terrified, saying, “It is a ghost!” And they cried out in fear."
+    },
+    {
+      "block_id": "oxford-matt-14-27",
+      "type": "verse",
+      "number": 27,
+      "text": "But immediately Jesus spoke to them and said, “Take heart, it is I; do not be afraid.”"
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-11",
+      "type": "commentary",
+      "text": "27 : , lit., “I am,” a reference to the divine name (Ex 3.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-matt-14-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Peter answered him, “Lord, if it is you, command me to come to you on the water.”"
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-12",
+      "type": "commentary",
+      "text": "28 : Peter's walking on the water is unique to Matthew and brings out both the role of Peter as the representative of the disciples, and his—and their—need for faith. This is the first time in the Gospel that the disciples Jesus and refer to him as (cf. 16.16; 27.54).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-matt-14-29",
+      "type": "verse",
+      "number": 29,
+      "text": "He said, “Come.” So Peter got out of the boat, started walking on the water, and came toward Jesus."
+    },
+    {
+      "block_id": "oxford-matt-14-30",
+      "type": "verse",
+      "number": 30,
+      "text": "But when he noticed the strong wind, he became frightened, and beginning to sink, he cried out, “Lord, save me!”"
+    },
+    {
+      "block_id": "oxford-matt-14-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Jesus immediately reached out his hand and caught him, saying to him, “You of little faith, why did you doubt?”"
+    },
+    {
+      "block_id": "oxford-matt-14-32",
+      "type": "verse",
+      "number": 32,
+      "text": "When they got into the boat, the wind ceased."
+    },
+    {
+      "block_id": "oxford-matt-14-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And those in the boat worshiped him, saying, “Truly you are the Son of God.”"
+    },
+    {
+      "block_id": "oxford-matt-14-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When they had crossed over, they came to land at Gennesaret."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-13",
+      "type": "commentary",
+      "text": "34 : is either a narrow plain on the west side of the Sea or a town on that plain; 4.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-matt-14-35",
+      "type": "verse",
+      "number": 35,
+      "text": "After the people of that place recognized him, they sent word throughout the region and brought all who were sick to him,"
+    },
+    {
+      "block_id": "oxford-matt-14-36",
+      "type": "verse",
+      "number": 36,
+      "text": "and begged him that they might touch even the fringe of his cloak; and all who touched it were healed."
+    },
+    {
+      "block_id": "oxford-matt-14-h1kj-6",
+      "type": "commentary",
+      "text": "14.13–36: The feeding of the five thousand and the walking on the water (Mk 6.30–56; Lk 9.10–17; Jn 6.1–21). These are the only miracles found in all four Gospels. There is a doublet for the feeding in 15.32–38; cf. also 1 Kings 17.8–16; 2 Kings 4.42–44.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 14
+      },
+      "verse_start": 13,
+      "verse_end": 36
+    }
+  ]
+}

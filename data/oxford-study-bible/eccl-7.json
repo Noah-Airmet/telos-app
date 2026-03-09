@@ -1,0 +1,385 @@
+{
+  "document_id": "eccl-7",
+  "title": "Ecclesiastes 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-eccl-7-heading-8",
+      "type": "heading",
+      "text": "8"
+    },
+    {
+      "block_id": "oxford-eccl-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "It is better to go to the house of mourning than to go to the house of feasting; for this is the end of everyone, and the living will lay it to heart."
+    },
+    {
+      "block_id": "oxford-eccl-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Sorrow is better than laughter, for by sadness of countenance the heart is made glad."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-4",
+      "type": "commentary",
+      "text": "3 : : since the Heb word “leb” literally means , but primarily indicates the capacity for thought, and the word translated is “tob” (“good,” “better”), the words might be translated “makes the mind better.” Meditation upon death, which is the common denominator of humanity (v. 2), sharpens mental acumen.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-eccl-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-3",
+      "type": "commentary",
+      "text": "2–4 : Qohelet draws further, shocking conclusions from the logical implications of the traditional wisdom teaching in v. 1. If a memorialized name is better than celebratory oil, then a funeral ( ) is better than a wedding ( , v. 2), and likewise excels (v. 3), as surpasses joy ( , v. 4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-eccl-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "It is better to hear the rebuke of the wise than to hear the song of fools."
+    },
+    {
+      "block_id": "oxford-eccl-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For like the crackling of thorns under a pot, so is the laughter of fools; this also is vanity."
+    },
+    {
+      "block_id": "oxford-eccl-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Surely oppression makes the wise foolish, and a bribe corrupts the heart."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-5",
+      "type": "commentary",
+      "text": "5–7 : These sayings focus on folly and seem to hew more closely to traditional wisdom. Yet the awkward insertion of (v. 6) is ambiguous, and disturbs the passage's clarity. This phrase could describe the , but it could introduce Qohelet's uncertainty about any distinction between the foolish and the wise (cf. 6.12). In v. 7 turns the into the , which underscores the instability of these categories.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-eccl-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Better is the end of a thing than its beginning; the patient in spirit are better than the proud in spirit."
+    },
+    {
+      "block_id": "oxford-eccl-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Do not be quick to anger, for anger lodges in the bosom of fools."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-6",
+      "type": "commentary",
+      "text": "8–9 : Qohelet returns to the claim that the (i.e., death) is preferable to the , and thus the who wait to render judgment excel those anxious to jump to conclusions, as in v. 9. , better “anxious.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-eccl-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Do not say, “Why were the former days better than these?” For it is not from wisdom that you ask this."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-7",
+      "type": "commentary",
+      "text": "10 : This saying inverts the nostalgic preference for the found in traditional wisdom literature (e.g., Job 8.8–10; 15.7; Sir 39.1), and suggests that personified herself does not encourage a quest to recover a pristine past (contrast Prov 8.22–31). Qohelet consistently reorients the wise toward endings rather than beginnings (cf. v. 8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-eccl-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Wisdom is as good as an inheritance, an advantage to those who see the sun."
+    },
+    {
+      "block_id": "oxford-eccl-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom gives life to the one who possesses it."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-8",
+      "type": "commentary",
+      "text": "11–12 : These sayings reiterate traditional teachings about , saying that she is as precious and even more life-giving than (cf. Prov 3.13–18; Job 28.15–19). Yet Qohelet's anxiety concerning (cf. 2.18–23) reappears: is only an for the living (those who ; see 1.14n.). The limited worth of money implies that wisdom also has its limits.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-eccl-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Consider the work of God; who can make straight what he has made crooked?"
+    },
+    {
+      "block_id": "oxford-eccl-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "In the day of prosperity be joyful, and in the day of adversity consider; God has made the one as well as the other, so that mortals may not find out anything that will come after them."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-1",
+      "type": "commentary",
+      "text": "6.10–7.14: Life's missing ending makes the world inscrutable. Qohelet explains a paradox: in the story of a person's life, death is the end, but the dead no longer comprehend. Thus, humans are barred from fully understanding their lives (6.12). This section uses the word “good/better” (Heb “tob”) nine times, but the repetition of “better than” sayings is ironic, since one does not know for certain what is better. By juxtaposing traditional wisdom literature forms and content (cf. 7.1a) with striking affirmations of death's superiority to life (cf. 7.1b), Qohelet reframes traditional wisdom and undermines notions of a benevolent cosmic order.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-9",
+      "type": "commentary",
+      "text": "13–14 : Ancient Israelite scribes associated “straightness” or “uprightness” with moral purity (Prov 11.5) and good teaching (Prov 8.8–9), and attributed the existence of “straight” teachings and actions to God's activity (Prov 3.6). Evil human actions, by contrast, are responsible for crookedness (Prov 11.20; 21.8). But here, God has the world (lit., “made unjust”; cf. 1.15), and humans cannot fix it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-eccl-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "In my vain life I have seen everything; there are righteous people who perish in their righteousness, and there are wicked people who prolong their life in their evildoing."
+    },
+    {
+      "block_id": "oxford-eccl-7-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do not be too righteous, and do not act too wise; why should you destroy yourself?"
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-11",
+      "type": "commentary",
+      "text": "16 : If you do not accept your own inevitable failures, you will",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-eccl-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Do not be too wicked, and do not be a fool; why should you die before your time?"
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-12",
+      "type": "commentary",
+      "text": "17 : One must not be overly either, as foolishness often leads to premature death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-eccl-7-18",
+      "type": "verse",
+      "number": 18,
+      "text": "It is good that you should take hold of the one, without letting go of the other; for the one who fears God shall succeed with both."
+    },
+    {
+      "block_id": "oxford-eccl-7-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Wisdom gives strength to the wise more than ten rulers that are in a city."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-14",
+      "type": "commentary",
+      "text": "19 : Cf. Prov 21.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-eccl-7-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Surely there is no one on earth so righteous as to do good without ever sinning."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-13",
+      "type": "commentary",
+      "text": "18–20 : The (see 5.7n.) will reject the search for pure righteousness, and accept both wisdom and folly as necessary parts of life. This will help one accept the failures of others as well, even a servant's offhanded criticism.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 18,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-eccl-7-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Do not give heed to everything that people say, or you may hear your servant cursing you;"
+    },
+    {
+      "block_id": "oxford-eccl-7-22",
+      "type": "verse",
+      "number": 22,
+      "text": "your heart knows that many times you have yourself cursed others."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-10",
+      "type": "commentary",
+      "text": "7.15–22: Do not seek pure, ideal things. Traditional wisdom assures students that righteous lives result in wealth and longevity, while the foolish quickly perish (cf. Prov 16.22). Surprisingly, Qohelet advises against striving for personal perfection, since overly righteous people tend towards self-destruction. Some level of personal moral failure is required to function in human society.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 15,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-eccl-7-23",
+      "type": "verse",
+      "number": 23,
+      "text": "All this I have tested by wisdom; I said, “I will be wise,” but it was far from me."
+    },
+    {
+      "block_id": "oxford-eccl-7-24",
+      "type": "verse",
+      "number": 24,
+      "text": "That which is, is far off, and deep, very deep; who can find it out?"
+    },
+    {
+      "block_id": "oxford-eccl-7-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I turned my mind to know and to search out and to seek wisdom and the sum of things, and to know that wickedness is folly and that foolishness is madness."
+    },
+    {
+      "block_id": "oxford-eccl-7-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I found more bitter than death the woman who is a trap, whose heart is snares and nets, whose hands are fetters; one who pleases God escapes her, but the sinner is taken by her."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-16",
+      "type": "commentary",
+      "text": "7.26 : Some read this verse as a misogynistic attack against women in general. More likely, Qohelet alludes to the specific misogynist metaphors commonly found in wisdom literature that personify folly and wisdom as female icons. Folly appears as a , “strange woman” (cf. Prov 5.3–4). Wisdom is described as bonds and that sages should willingly seek (cf. Sir 6.24–31). Qohelet rejects both ideals in 7.16–17, only to admit that he pursued both wisdom and folly (7.25), before disparaging such pursuit as a .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-eccl-7-27",
+      "type": "verse",
+      "number": 27,
+      "text": "See, this is what I found, says the Teacher, adding one thing to another to find the sum,"
+    },
+    {
+      "block_id": "oxford-eccl-7-28",
+      "type": "verse",
+      "number": 28,
+      "text": "which my mind has sought repeatedly, but I have not found. One man among a thousand I found, but a woman among all these I have not found."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-17",
+      "type": "commentary",
+      "text": "27–28 : Qohelet reiterates that to comprehend the world as a summative whole is impossible, not merely difficult. Like v. 26, some understand v. 28 as a general misogynistic statement about the rarity of wise men and the impossibility of a wise woman. In this passage, however, it may refer to the from v. 26. Thus, after initially assuming that he could not find Wisdom because she was “far off” (vv. 23–24), Qohelet concludes that there is no such ideal Woman to be found (cf. Job 28 on the failed search for wisdom).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-eccl-7-29",
+      "type": "verse",
+      "number": 29,
+      "text": "See, this alone I found, that God made human beings straightforward, but they have devised many schemes."
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-15",
+      "type": "commentary",
+      "text": "7.23–8.1:The frustrated search for cosmic meaning and order. This passage shares many themes and terms with the royal autobiography in 1.12–2.26. Qohelet embarks on a mental quest to comprehend the “sum” of the world, but finds instead that the world is fragmented, conflicted, with a dynamism that prevents it from being understood as a whole.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 23,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-eccl-7-h1kj-18",
+      "type": "commentary",
+      "text": "29 : The conclusion of Qohelet's quest: since God made the world crooked (cf. 1.15; 7.13), the human being's attempts to understand it are doomed to failure (reading “sum of things” with the LXX, as in v. 25, for ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 7
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    }
+  ]
+}

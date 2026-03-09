@@ -1,0 +1,247 @@
+{
+  "document_id": "ps-40",
+  "title": "Psalms 40",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-40-heading-psalm-41",
+      "type": "heading",
+      "text": "Psalm 41"
+    },
+    {
+      "block_id": "oxford-ps-40-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I waited patiently for the Lord; he inclined to me and heard my cry."
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 40: A thanksgiving with a plea for further help. A hybrid psalm of thanksgiving (vv. 1–10) and individual petition (vv. 11–17). After experiencing salvation, the psalmist faces further adversity. Verses 13–17 are duplicated in Ps 70.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-40-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He drew me up from the desolate pit, out of the miry bog, and set my feet upon a rock, making my steps secure."
+    },
+    {
+      "block_id": "oxford-ps-40-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the Lord."
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-2",
+      "type": "commentary",
+      "text": "1–3b : Report of the rescue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , “new” refers to the startling new action celebrated in the song.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-40-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Happy are those who make the Lord their trust, who do not turn to the proud, to those who go astray after false gods."
+    },
+    {
+      "block_id": "oxford-ps-40-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You have multiplied, O Lord my God, your wondrous deeds and your thoughts toward us; none can compare with you. Were I to proclaim and tell of them, they would be more than can be counted."
+    },
+    {
+      "block_id": "oxford-ps-40-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Sacrifice and offering you do not desire, but you have given me an open ear. Burnt offering and sin offering you have not required."
+    },
+    {
+      "block_id": "oxford-ps-40-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then I said, “Here I am; in the scroll of the book it is written of me."
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-5",
+      "type": "commentary",
+      "text": "7 : , the psalmist is totally available for the task (cf. Isa 6.8), in this case, to tell of the deliverance and its significance (vv. 9–10). : variously interpreted, possibly some written expression of the divine will. The phrase is quoted in Heb 10.5–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-40-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I delight to do your will, O my God; your law is within my heart.”"
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-4",
+      "type": "commentary",
+      "text": "6–8 : Instead of the customary sacrifice offering, God asks for a self‐offering through obedience; cf. 1 Sam 15.22; Ps 50.8–9; Mic 6.6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-6",
+      "type": "commentary",
+      "text": "8 : God’s word is totally internalized.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-40-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I have told the glad news of deliverance in the great congregation; see, I have not restrained my lips, as you know, O Lord."
+    },
+    {
+      "block_id": "oxford-ps-40-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I have not hidden your saving help within my heart, I have spoken of your faithfulness and your salvation; I have not concealed your steadfast love and your faithfulness from the great congregation."
+    },
+    {
+      "block_id": "oxford-ps-40-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Do not, O Lord, withhold your mercy from me; let your steadfast love and your faithfulness keep me safe forever."
+    },
+    {
+      "block_id": "oxford-ps-40-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For evils have encompassed me without number; my iniquities have overtaken me, until I cannot see; they are more than the hairs of my head, and my heart fails me."
+    },
+    {
+      "block_id": "oxford-ps-40-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Be pleased, O Lord, to deliver me; O Lord, make haste to help me."
+    },
+    {
+      "block_id": "oxford-ps-40-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Let all those be put to shame and confusion who seek to snatch away my life; let those be turned back and brought to dishonor who desire my hurt."
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-8",
+      "type": "commentary",
+      "text": "14 : , violating accepted morality brought dishonor upon the violator. The prayer is that the enemies’ schemes be publicly frustrated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-40-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Let those be appalled because of their shame who say to me, “Aha, Aha!”"
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-9",
+      "type": "commentary",
+      "text": "15 : , malicious cries of triumph that the psalmist hopes will be proved foolish by God’s judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ps-40-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But may all who seek you rejoice and be glad in you; may those who love your salvation say continually, “Great is the Lord!”"
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-10",
+      "type": "commentary",
+      "text": "16 : God’s help of this individual will encourage other righteous people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ps-40-17",
+      "type": "verse",
+      "number": 17,
+      "text": "As for me, I am poor and needy, but the Lord takes thought for me. You are my help and my deliverer; do not delay, O my God."
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-7",
+      "type": "commentary",
+      "text": "11–17 : Acceptance of the task of proclamation puts the psalmist in fresh danger and in need of God’s help.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 11,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ps-40-h1kj-11",
+      "type": "commentary",
+      "text": "17 : Psalms often depicts the supplicant as and (e.g., Pss 70.5; 86.1; 109.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 40
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

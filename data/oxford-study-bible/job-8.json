@@ -1,0 +1,224 @@
+{
+  "document_id": "job-8",
+  "title": "Job 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Bildad the Shuhite answered:"
+    },
+    {
+      "block_id": "oxford-job-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“How long will you say these things, and the words of your mouth be a great wind?"
+    },
+    {
+      "block_id": "oxford-job-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Does God pervert justice? Or does the Almighty pervert the right?"
+    },
+    {
+      "block_id": "oxford-job-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "If your children sinned against him, he delivered them into the power of their transgression."
+    },
+    {
+      "block_id": "oxford-job-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If you will seek God and make supplication to the Almighty,b"
+    },
+    {
+      "block_id": "oxford-job-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "if you are pure and upright, surely then he will rouse himself for you and restore to you your rightful place."
+    },
+    {
+      "block_id": "oxford-job-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Though your beginning was small, your latter days will be very great."
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-4",
+      "type": "commentary",
+      "text": "2–7 : Job’s children are dead, so they must have sinned (v. 4). By contrast, Job himself is not dead, so he must be innocent of anything deserving of death. He has only to in prayer (v. 5), and if he is his prayer will be heard.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-job-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“For inquire now of bygone generations, and consider what their ancestors have found;"
+    },
+    {
+      "block_id": "oxford-job-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for we are but of yesterday, and we know nothing, for our days on earth are but a shadow."
+    },
+    {
+      "block_id": "oxford-job-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Will they not teach you and tell you and utter words out of their understanding?"
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-6",
+      "type": "commentary",
+      "text": "8–10 : Bildad’s trust in the wisdom of instead of [who] is contrasted with Job’s reliance on his own experience (6.4–7,30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-job-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“Can papyrus grow where there is no marsh? Can reeds flourish where there is no water?"
+    },
+    {
+      "block_id": "oxford-job-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "While yet in flower and not cut down, they wither before any other plant."
+    },
+    {
+      "block_id": "oxford-job-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Such are the paths of all who forget God; the hope of the godless shall perish."
+    },
+    {
+      "block_id": "oxford-job-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Their confidence is gossamer, a spider’s house their trust."
+    },
+    {
+      "block_id": "oxford-job-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If one leans against its house, it will not stand; if one lays hold of it, it will not endure."
+    },
+    {
+      "block_id": "oxford-job-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The wicked thrive before the sun, and their shoots spread over the garden."
+    },
+    {
+      "block_id": "oxford-job-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Their roots twine around the stoneheap; they live among the rocks."
+    },
+    {
+      "block_id": "oxford-job-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "If they are destroyed from their place, then it will deny them, saying, ‘I have never seen you.’"
+    },
+    {
+      "block_id": "oxford-job-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "See, these are their happy ways, and out of the earth still others will spring."
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-5",
+      "type": "commentary",
+      "text": "8–19 : No effect without a cause, as the case of the wicked shows.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-job-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "“See, God will not reject a blameless person, nor take the hand of evildoers."
+    },
+    {
+      "block_id": "oxford-job-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "He will yet fill your mouth with laughter, and your lips with shouts of joy."
+    },
+    {
+      "block_id": "oxford-job-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Those who hate you will be clothed with shame, and the tent of the wicked will be no more.”"
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–11.20: First cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-3",
+      "type": "commentary",
+      "text": "8.1–22: Bildad’s first speech. Like all the friends, Bildad believes that suffering is punishment, and that the death of Job’s children is proof of their sin. Bildad has less confidence in Job’s righteousness than Eliphaz did, and his encouragement to Job depends on a condition, (v. 6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-8-h1kj-7",
+      "type": "commentary",
+      "text": "20–22 : Bildad believes Job may yet prove to be a (v. 20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 8
+      },
+      "verse_start": 20,
+      "verse_end": 22
+    }
+  ]
+}

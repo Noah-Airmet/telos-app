@@ -1,0 +1,464 @@
+{
+  "document_id": "ex-16",
+  "title": "Exodus 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The whole congregation of the Israelites set out from Elim; and Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-4",
+      "type": "commentary",
+      "text": "1 : Next stage of the journey, see 12.37n. is a month after departing Egypt (12.17–18). The name appears for the first time (see 3.1n., 3.2n., and 19.1n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ex-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The whole congregation of the Israelites complained against Moses and Aaron in the wilderness."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , see 14.11–12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ex-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The Israelites said to them, “If only we had died by the hand of the Lord in the land of Egypt, when we sat by the fleshpots and ate our fill of bread; for you have brought us out into this wilderness to kill this whole assembly with hunger.”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , see 9.3n. (referring to meat) and , their food in Egypt, will be matched by quails (v. 13) and bread (v. 4; or manna, vv. 15,31) in the wilderness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then the Lord said to Moses, “I am going to rain bread from heaven for you, and each day the people shall go out and gather enough for that day. In that way I will test them, whether they will follow my instruction or not."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-7",
+      "type": "commentary",
+      "text": "4 : This (see 15.25n.) may be about obeying God’s instructions (Heb “torah”; see 12.49n.) and about believing God will provide for them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ex-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "On the sixth day, when they prepare what they bring in, it will be twice as much as they gather on other days.”"
+    },
+    {
+      "block_id": "oxford-ex-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So Moses and Aaron said to all the Israelites, “In the evening you shall know that it was the Lord who brought you out of the land of Egypt,"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-8",
+      "type": "commentary",
+      "text": "6 : To God here (and v. 12) is to recognize that God can miraculously provide sustenance; cf. 5.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ex-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and in the morning you shall see the glory of the Lord, because he has heard your complaining against the Lord. For what are we, that you complain against us?”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-9",
+      "type": "commentary",
+      "text": "7 : The phrase , a technical Priestly phrase signifying God’s physical presence (within a cloud, v. 10), appears for the first time in the Bible (also 24.16,17; 40.34,35; cf. 33.18n.); see 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ex-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And Moses said, “When the Lord gives you meat to eat in the evening and your fill of bread in the morning, because the Lord has heard the complaining that you utter against him— what are we? Your complaining is not against us but against the Lord.”"
+    },
+    {
+      "block_id": "oxford-ex-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then Moses said to Aaron, “Say to the whole congregation of the Israelites, ‘Draw near to the Lord, for he has heard your complaining.’”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-10",
+      "type": "commentary",
+      "text": "9 : again speaks for Moses; see 4.15–16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud."
+    },
+    {
+      "block_id": "oxford-ex-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord spoke to Moses and said,"
+    },
+    {
+      "block_id": "oxford-ex-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , see 16.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ex-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "In the evening quails came up and covered the camp; and in the morning there was a layer of dew around the camp."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-12",
+      "type": "commentary",
+      "text": "13 : , like rain, signifies divine favor (e.g., Gen 27.28), both essential for agriculture in ancient Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ex-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground."
+    },
+    {
+      "block_id": "oxford-ex-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat."
+    },
+    {
+      "block_id": "oxford-ex-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "This is what the Lord has commanded: ‘Gather as much of it as each of you needs, an omer to a person according to the number of persons, all providing for those in their own tents.’”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-13",
+      "type": "commentary",
+      "text": "16 : , see 16.36n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ex-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The Israelites did so, some gathering more, some less."
+    },
+    {
+      "block_id": "oxford-ex-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "But when they measured it with an omer, those who gathered much had nothing over, and those who gathered little had no shortage; they gathered as much as each of them needed."
+    },
+    {
+      "block_id": "oxford-ex-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And Moses said to them, “Let no one leave any of it over until morning.”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-14",
+      "type": "commentary",
+      "text": "19 : This will indicate trust in God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But they did not listen to Moses; some left part of it until morning, and it bred worms and became foul. And Moses was angry with them."
+    },
+    {
+      "block_id": "oxford-ex-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Morning by morning they gathered it, as much as each needed; but when the sun grew hot, it melted."
+    },
+    {
+      "block_id": "oxford-ex-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "On the sixth day they gathered twice as much food, two omers apiece. When all the leaders of the congregation came and told Moses,"
+    },
+    {
+      "block_id": "oxford-ex-16-23",
+      "type": "verse",
+      "number": 23,
+      "text": "he said to them, “This is what the Lord has commanded: ‘Tomorrow is a day of solemn rest, a holy sabbath to the Lord; bake what you want to bake and boil what you want to boil, and all that is left over put aside to be kept until morning.’”"
+    },
+    {
+      "block_id": "oxford-ex-16-24",
+      "type": "verse",
+      "number": 24,
+      "text": "So they put it aside until morning, as Moses commanded them; and it did not become foul, and there were no worms in it."
+    },
+    {
+      "block_id": "oxford-ex-16-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Moses said, “Eat it today, for today is a sabbath to the Lord; today you will not find it in the field."
+    },
+    {
+      "block_id": "oxford-ex-16-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Six days you shall gather it; but on the seventh day, which is a sabbath, there will be none.”"
+    },
+    {
+      "block_id": "oxford-ex-16-27",
+      "type": "verse",
+      "number": 27,
+      "text": "On the seventh day some of the people went out to gather, and they found none."
+    },
+    {
+      "block_id": "oxford-ex-16-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The Lord said to Moses, “How long will you refuse to keep my commandments and instructions?"
+    },
+    {
+      "block_id": "oxford-ex-16-29",
+      "type": "verse",
+      "number": 29,
+      "text": "See! The Lord has given you the sabbath, therefore on the sixth day he gives you food for two days; each of you stay where you are; do not leave your place on the seventh day.”"
+    },
+    {
+      "block_id": "oxford-ex-16-30",
+      "type": "verse",
+      "number": 30,
+      "text": "So the people rested on the seventh day."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-15",
+      "type": "commentary",
+      "text": "23–30 : Instructions for the as a on the (cf. Gen 2.2–3) precede the Decalogue’s sabbath commandment (see 20.8–11n.); sabbath observance is part of Israel’s learning to obey God (see 16.4n.; see also 20.8–11; 23.12; 31.12–17; 34.21; 35.1–3). Thus the sabbath as part of the world order is introduced through the manna episode.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 23,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ex-16-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The house of Israel called it manna; it was like coriander seed, white, and the taste of it was like wafers made with honey."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-16",
+      "type": "commentary",
+      "text": "31 : , see 40.34n. “What is it?” (Heb “man huʾ”) in v. 15 provides an etymology for , which cannot be identified and may be a mythic substance (cf. Num 11.7–9; Ps 78.25; Wis 16.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-16-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Moses said, “This is what the Lord has commanded: ‘Let an omer of it be kept throughout your generations, in order that they may see the food with which I fed you in the wilderness, when I brought you out of the land of Egypt.’”"
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-17",
+      "type": "commentary",
+      "text": "32 : alludes to an otherwise unknown commemorative ritual; see 11.1–13.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-ex-16-33",
+      "type": "verse",
+      "number": 33,
+      "text": "And Moses said to Aaron, “Take a jar, and put an omer of manna in it, and place it before the Lord, to be kept throughout your generations.”"
+    },
+    {
+      "block_id": "oxford-ex-16-34",
+      "type": "verse",
+      "number": 34,
+      "text": "As the Lord commanded Moses, so Aaron placed it before the covenant, for safekeeping."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-18",
+      "type": "commentary",
+      "text": "33–34 : , elliptical for the not‐yet‐announced “ark of the covenant” (25.10–22), is parallel to (v. 33), indicating that the ark signifies God’s presence (see 25.17–22n.). Cf. Heb 9.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 33,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-ex-16-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The Israelites ate manna forty years, until they came to a habitable land; they ate manna, until they came to the border of the land of Canaan."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-19",
+      "type": "commentary",
+      "text": "35 : , the first mention of the length of the wilderness sojourn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-ex-16-36",
+      "type": "verse",
+      "number": 36,
+      "text": "An omer is a tenth of an ephah."
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-1",
+      "type": "commentary",
+      "text": "15.22–24.18. Sinai and covenant. Facing recurrent difficulties, the Israelites cross the wilderness to Sinai (15.22–18.27) where they experience a theophany (ch 19) and enter into the covenant (chs 20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-2",
+      "type": "commentary",
+      "text": "15.22–18.27: Crises and reorganization in the wilderness. The journey resumes; four crises—two water shortages, lack of food, and military threat—foreshadowing the difficulties of life in Canaan, and a meeting with Jethro.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–36: Second crisis, lack of food (cf. Num 11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ex-16-h1kj-20",
+      "type": "commentary",
+      "text": "36 : (ca. 21 qts [23 L]) and (2 qts [2.3 liters]) are dry measures, usually for grain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 16
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    }
+  ]
+}

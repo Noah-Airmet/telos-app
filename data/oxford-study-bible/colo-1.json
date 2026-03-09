@@ -1,0 +1,517 @@
+{
+  "document_id": "colo-1",
+  "title": "colo 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-colo-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-colo-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "To the saints and faithful brothers and sisters in Christ in Colossae: Grace to you and peace from God our Father."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–2: Salutation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , literally “holy ones,” refers to all followers of the Christian movement. , the Gk plural (see note ) has the sense of “siblings.” , a common Pauline greeting building upon conventional salutations in Gk ( ) and Heb ( ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-colo-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "In our prayers for you we always thank God, the Father of our Lord Jesus Christ,"
+    },
+    {
+      "block_id": "oxford-colo-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "for we have heard of your faith in Christ Jesus and of the love that you have for all the saints,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , here allegiance or loyalty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-colo-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "because of the hope laid up for you in heaven. You have heard of this hope before in the word of the truth, the gospel"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-5",
+      "type": "commentary",
+      "text": "3–5 : , and , a summary of Christian virtues (1 Cor 13.13; 1 Thess 5.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , proclamation of good news, here referring to the message of Christ's victory over death (see 2.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "that has come to you. Just as it is bearing fruit and growing in the whole world, so it has been bearing fruit among yourselves from the day you heard it and truly comprehended the grace of God."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , hyperbole for all the Christian communities in the ancient world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "This you learned from Epaphras, our beloved fellow servant. He is a faithful minister of Christ on your behalf,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-9",
+      "type": "commentary",
+      "text": "7 : , founder of the church in Colossae (4.12–13; Philem 23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-colo-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and he has made known to us your love in the Spirit."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.3–8: Thanksgiving for obedient lives.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-colo-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For this reason, since the day we heard it, we have not ceased praying for you and asking that you may be filled with the knowledge of God's will in all spiritual wisdom and understanding,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-11",
+      "type": "commentary",
+      "text": "9 : , a major theme of the letter (1.25–28; 2.2–4,9–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-colo-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "so that you may lead lives worthy of the Lord, fully pleasing to him, as you bear fruit in every good work and as you grow in the knowledge of God."
+    },
+    {
+      "block_id": "oxford-colo-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "May you be made strong with all the strength that comes from his glorious power, and may you be prepared to endure everything with patience, while joyfully"
+    },
+    {
+      "block_id": "oxford-colo-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "giving thanks to the Father, who has enabled you to share in the inheritance of the saints in the light."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-14",
+      "type": "commentary",
+      "text": "12 : , a metaphor based on Israel's inheritance of the land as a gift of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-colo-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He has rescued us from the power of darkness and transferred us into the kingdom of his beloved Son,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-13",
+      "type": "commentary",
+      "text": "12–13 : , apocalyptic imagery for the opposing domains within the cosmos (see 1.16n.; 1 Thess 5.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-colo-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "in whom we have redemption, the forgiveness of sins."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-10",
+      "type": "commentary",
+      "text": "1.9–14: Prayer for continued growth in knowledge (v. 9), moral maturity (v. 10), and endurance (v. 11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-12",
+      "type": "commentary",
+      "text": "12–14 : Perhaps a fragment of a baptismal hymn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-15",
+      "type": "commentary",
+      "text": "14 : , release or ransom from slavery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-colo-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He is the image of the invisible God, the firstborn of all creation;"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-17",
+      "type": "commentary",
+      "text": "15 : , the perfect, visible manifestation of God. expresses priority and supremacy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-colo-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for in him all things in heaven and on earth were created, things visible and invisible, whether thrones or dominions or rulers or powers—all things have been created through him and for him."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-18",
+      "type": "commentary",
+      "text": "16 : , hostile cosmic powers (1.13; 2.15; Eph 6.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-colo-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He himself is before all things, and in himb all things hold together."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-19",
+      "type": "commentary",
+      "text": "17 : , Christ actively maintains the coherence of the cosmos",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-colo-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He is the head of the body, the church; he is the beginning, the firstborn from the dead, so that he might come to have first place in everything."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-20",
+      "type": "commentary",
+      "text": "18 : , ruling authority or originator; see Eph 1.22; 5.23. , both terms stem from ancient political discourse for a community assembly, emphasizing unity and coherence; see Rom 12.4–5; 1 Cor 12.27. See also Eph 1.22–23n. , the first of all those to be resurrected from the dead (1 Cor 15.20,23; Acts 26.23; Rev 1.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-colo-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For in him all the fullness of God was pleased to dwell,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-21",
+      "type": "commentary",
+      "text": "19 : , the power and presence of God (see also 1.29; 2.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-colo-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and through him God was pleased to reconcile to himself all things, whether on earth or in heaven, by making peace through the blood of his cross."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-16",
+      "type": "commentary",
+      "text": "1.15–20: The supremacy of Christ. This enduring language of an early Christian hymn, probably based on the Jewish figure Wisdom/Sophia (Prov 8; Sir 24; Wis 6–9; see also Jn 1.1–18; Phil 2.6–11), expresses Christ's supremacy over the cosmos (vv. 15–17) and the church (vv. 18–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-22",
+      "type": "commentary",
+      "text": "20 : , the estrangement of creation from the creator is rectified (1.13–14, 21–22, 2.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-colo-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And you who were once estranged and hostile in mind, doing evil deeds,"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-24",
+      "type": "commentary",
+      "text": "21 : , interrelated aspects of the former life (Rom 1.18–32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-colo-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "he has now reconciled in his fleshly body through death, so as to present you holy and blameless and irreproachable before him—"
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-25",
+      "type": "commentary",
+      "text": "22 : , an emphatic contrast with Christ's heavenly origins (1.20, 2.9; cf. 1.15–17). , reconciliation is completed by Christ's approval at the eschatological judgment (v. 28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-colo-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "provided that you continue securely established and steadfast in the faith, without shifting from the hope promised by the gospel that you heard, which has been proclaimed to every creature under heaven. I, Paul, became a servant of this gospel."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-23",
+      "type": "commentary",
+      "text": "1.21–23: Assurance and warning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-26",
+      "type": "commentary",
+      "text": "23 : Concern for continued allegiance to Christ is the primary focus of the letter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-colo-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "I am now rejoicing in my sufferings for your sake, and in my flesh I am completing what is lacking in Christ's afflictions for the sake of his body, that is, the church."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-28",
+      "type": "commentary",
+      "text": "1.24 : , not a denigration of Christ's death but an acknowledgment that those who preach the gospel will experience (1.29), such as imprisonment (4.3,10,18) and other hardships (2 Cor 4.7–12; 11.23–28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-colo-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I became its servant according to God's commission that was given to me for you, to make the word of God fully known,"
+    },
+    {
+      "block_id": "oxford-colo-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "the mystery that has been hidden throughout the ages and generations but has now been revealed to his saints."
+    },
+    {
+      "block_id": "oxford-colo-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory."
+    },
+    {
+      "block_id": "oxford-colo-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "It is he whom we proclaim, warning everyone and teaching everyone in all wisdom, so that we may present everyone mature in Christ."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-29",
+      "type": "commentary",
+      "text": "26–28 : , in Paul's writings, the term refers to God's secret eschatological plan (Rom 11.25; 1 Cor 2.6–7, 15.51; cf. Dan 2.28; Wis 2.22); in Colossians, Christ himself is the mystery (2.2; 4.3; Rom 16.25–26; cf. Eph 1.10; 3.2–6). , the expectation of their eschatological presentation before Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-colo-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For this I toil and struggle with all the energy that he powerfully inspires within me."
+    },
+    {
+      "block_id": "oxford-colo-1-h1kj-27",
+      "type": "commentary",
+      "text": "1.24–2.5: Paul's mission and pastoral commitment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 29
+    }
+  ]
+}

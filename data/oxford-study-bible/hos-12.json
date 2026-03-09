@@ -1,0 +1,235 @@
+{
+  "document_id": "hos-12",
+  "title": "Hosea 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hos-12-heading-13",
+      "type": "heading",
+      "text": "13"
+    },
+    {
+      "block_id": "oxford-hos-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord has an indictment against Judah, and will punish Jacob according to his ways, and repay him according to his deeds."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-7",
+      "type": "commentary",
+      "text": "12.2 : , cf. 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hos-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "In the womb he tried to supplant his brother, and in his manhood he strove with God."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-8",
+      "type": "commentary",
+      "text": "3 : Gen 25.26; 32.22–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hos-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He strove with the angel and prevailed, he wept and sought his favor; he met him at Bethel, and there he spoke with him."
+    },
+    {
+      "block_id": "oxford-hos-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord the God of hosts, the Lord is his name!"
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-9",
+      "type": "commentary",
+      "text": "4–5 : Gen 28.11–17; 35.5–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hos-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But as for you, return to your God, hold fast to love and justice, and wait continually for your God."
+    },
+    {
+      "block_id": "oxford-hos-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "A trader, in whose hands are false balances, he loves to oppress."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-10",
+      "type": "commentary",
+      "text": "7 : See Am 8.5. , the Hebrew word can also mean “Canaanite,” thus a doubly condemnatory pun.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-hos-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Ephraim has said, “Ah, I am rich, I have gained wealth for myself; in all of my gain no offense has been found in me that would be sin.”"
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-11",
+      "type": "commentary",
+      "text": "8 : As if prosperity were proof of virtue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hos-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I am the Lord your God from the land of Egypt; I will make you live in tents again, as in the days of the appointed festival."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-12",
+      "type": "commentary",
+      "text": "9 : , see Ex 20.2; Deut 5.6; Ps 81.10; Isa 43.3. , a customary feature of seasonal rites (Lev 23.34–43; Deut 16.13) and symbolic of the wilderness period, will be all that remains for Israel following the divine punishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hos-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I spoke to the prophets; it was I who multiplied visions, and through the prophets I will bring destruction."
+    },
+    {
+      "block_id": "oxford-hos-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "In Gilead there is iniquity, they shall surely come to nothing. In Gilgal they sacrifice bulls, so their altars shall be like stone heaps on the furrows of the field."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , see 6.8n.; , see 9.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hos-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Jacob fled to the land of Aram, there Israel served for a wife, and for a wife he guarded sheep."
+    },
+    {
+      "block_id": "oxford-hos-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "By a prophet the Lord brought Israel up from Egypt, and by a prophet he was guarded."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-14",
+      "type": "commentary",
+      "text": "12–13 : , Gen 29.1–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-15",
+      "type": "commentary",
+      "text": "13 : , the first reference is clearly to Moses; the second may be Moses as well, or Samuel (1 Sam 3.20) or Elijah (1 Kings 18.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hos-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Ephraim has given bitter offense, so his Lord will bring his crimes down on him and pay him back for his insults."
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–14.9: The prophetic speeches of Hosea indict Israel for unfaithfulness and announce the divine judgment, while offering hope of eventual restoration. The boundaries between individual speech units in the remainder of the book are unclear. This may in part reflect the style of the prophet and may in part be due to later editorial rearrangement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-5",
+      "type": "commentary",
+      "text": "12.2–14.9: Rebellion and restoration. Another major division in the book (like 4.1–12.1), which begins with the announcement of an indictment and ends with an oracle of hope.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hos-12-h1kj-6",
+      "type": "commentary",
+      "text": "12.2–13.16: A divine lawsuit against Israel, which mixes historical retrospection with contemporary critique. For a historical summary with a similar tone, see Ps 106.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 14
+    }
+  ]
+}

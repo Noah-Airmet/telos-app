@@ -1,0 +1,643 @@
+{
+  "document_id": "hebr-11",
+  "title": "hebr 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hebr-11-heading-12",
+      "type": "heading",
+      "text": "12"
+    },
+    {
+      "block_id": "oxford-hebr-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Indeed, by faith our ancestors received approval."
+    },
+    {
+      "block_id": "oxford-hebr-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "By faith we understand that the worlds were prepared by the word of God, so that what is seen was made from things that are not visible."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , or “ages” (the present age and the “coming world,” 2.5). See 2 Macc 7.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hebr-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "By faith Abel offered to God a more acceptable sacrifice than Cain's. Through this he received approval as righteous, God himself giving approval to his gifts; he died, but through his faith he still speaks."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Gen 4.3–10. Genesis gives no explanation for the rejection of Cain's sacrifice; this author joins other Second Temple period writers in speculating as to what was missing (see also Josephus, 1.53; 1 Jn 3.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hebr-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "By faith Enoch was taken so that he did not experience death; and “he was not found, because God had taken him.” For it was attested before he was taken away that “he had pleased God.”"
+    },
+    {
+      "block_id": "oxford-hebr-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And without faith it is impossible to please God, for whoever would approach him must believe that he exists and that he rewards those who seek him."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-6",
+      "type": "commentary",
+      "text": "5–6 : Gen 5.22–24. The author relies on the LXX, which rendered the Hebrew “walked with God” as “pleased God.” Pleasing God is further underscored in Heb 12.28; 13.16, 21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "By faith Noah, warned by God about events as yet unseen, respected the warning and built an ark to save his household; by this he condemned the world and became an heir to the righteousness that is in accordance with faith."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , Gen 6.13. , Gen 6.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-hebr-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "By faith Abraham obeyed when he was called to set out for a place that he was to receive as an inheritance; and he set out, not knowing where he was going."
+    },
+    {
+      "block_id": "oxford-hebr-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "By faith he stayed for a time in the land he had been promised, as in a foreign land, living in tents, as did Isaac and Jacob, who were heirs with him of the same promise."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-8",
+      "type": "commentary",
+      "text": "8–9 : Gen 12.1–8. Focusing on Abraham's willingness to embrace the marginal life of a resident alien as a hallmark of his faith-in-action speaks to the hearers’ situation directly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hebr-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For he looked forward to the city that has foundations, whose architect and builder is God."
+    },
+    {
+      "block_id": "oxford-hebr-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "By faith he received power of procreation, even though he was too old—and Sarah herself was barren—because he considered him faithful who had promised."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-9",
+      "type": "commentary",
+      "text": "11 : Gen 17.15–22; 21.1–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hebr-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Therefore from one person, and this one as good as dead, descendants were born, “as many as the stars of heaven and as the innumerable grains of sand by the seashore.”"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-10",
+      "type": "commentary",
+      "text": "12 : Gen 15.5; 22.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hebr-11-13",
+      "type": "verse",
+      "number": 13,
+      "text": "All of these died in faith without having received the promises, but from a distance they saw and greeted them. They confessed that they were strangers and foreigners on the earth,"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-11",
+      "type": "commentary",
+      "text": "13 : , see Gen 23.4; 24.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-11-14",
+      "type": "verse",
+      "number": 14,
+      "text": "for people who speak in this way make it clear that they are seeking a homeland."
+    },
+    {
+      "block_id": "oxford-hebr-11-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If they had been thinking of the land that they had left behind, they would have had opportunity to return."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-12",
+      "type": "commentary",
+      "text": "15 : A pointed application for the addressees, some of whom have been inclined (10.24–25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hebr-11-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; indeed, he has prepared a city for them."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-13",
+      "type": "commentary",
+      "text": "16 : , that is, “the God of Abraham, Isaac, and Jacob” (e.g., Ex 3.6,15–16; Mt 22.32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hebr-11-17",
+      "type": "verse",
+      "number": 17,
+      "text": "By faith Abraham, when put to the test, offered up Isaac. He who had received the promises was ready to offer up his only son,"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-14",
+      "type": "commentary",
+      "text": "17 : Gen 22.1–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hebr-11-18",
+      "type": "verse",
+      "number": 18,
+      "text": "of whom he had been told, “It is through Isaac that descendants shall be named for you.”"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-15",
+      "type": "commentary",
+      "text": "18 : Gen 21.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-hebr-11-19",
+      "type": "verse",
+      "number": 19,
+      "text": "He considered the fact that God is able even to raise someone from the dead—and figuratively speaking, he did receive him back."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-16",
+      "type": "commentary",
+      "text": "19 : The author conjectures that since Abraham knew God's promises could not fail, he believed that Isaac would be restored to life, becoming a prototype of faith in resurrection. See Gen 22.12–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-hebr-11-20",
+      "type": "verse",
+      "number": 20,
+      "text": "By faith Isaac invoked blessings for the future on Jacob and Esau."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-17",
+      "type": "commentary",
+      "text": "20 : Gen 27.27–29,39–40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-hebr-11-21",
+      "type": "verse",
+      "number": 21,
+      "text": "By faith Jacob, when dying, blessed each of the sons of Joseph, “bowing in worship over the top of his staff.”"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-18",
+      "type": "commentary",
+      "text": "21 : Gen 48, “ ,” Gen 47.31 (LXX).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-hebr-11-22",
+      "type": "verse",
+      "number": 22,
+      "text": "By faith Joseph, at the end of his life, made mention of the exodus of the Israelites and gave instructions about his burial."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-19",
+      "type": "commentary",
+      "text": "22 : Gen 50.24–25; Ex 13.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-hebr-11-23",
+      "type": "verse",
+      "number": 23,
+      "text": "By faith Moses was hidden by his parents for three months after his birth, because they saw that the child was beautiful; and they were not afraid of the king's edict."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-20",
+      "type": "commentary",
+      "text": "23 : Ex 2.1–3; , Ex 1.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-hebr-11-24",
+      "type": "verse",
+      "number": 24,
+      "text": "By faith Moses, when he was grown up, refused to be called a son of Pharaoh's daughter,"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-21",
+      "type": "commentary",
+      "text": "24 : See Ex 2.11. Jewish tradition had by this time significantly embellished Moses's proximity to the throne (Philo, 1.13; Josephus, 2.232–34). Focusing on Moses's willingness to leave honor and wealth behind as a mark of his faith in action speaks to the hearers’ situation directly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-hebr-11-25",
+      "type": "verse",
+      "number": 25,
+      "text": "choosing rather to share ill-treatment with the people of God than to enjoy the fleeting pleasures of sin."
+    },
+    {
+      "block_id": "oxford-hebr-11-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He considered abuse suffered for the Christ to be greater wealth than the treasures of Egypt, for he was looking ahead to the reward."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-22",
+      "type": "commentary",
+      "text": "26 : , better, “reproach,” “censure.” The author will urge the hearers to continue to make the same choice (13.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-hebr-11-27",
+      "type": "verse",
+      "number": 27,
+      "text": "By faith he left Egypt, unafraid of the king's anger; for he persevered as though he saw him who is invisible."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-23",
+      "type": "commentary",
+      "text": "27 : According to Ex 2.14–15, Moses left for Midian out of fear. This facet of the tradition was frequently rewritten (see, e.g., Josephus, . 2.254–57).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-hebr-11-28",
+      "type": "verse",
+      "number": 28,
+      "text": "By faith he kept the Passover and the sprinkling of blood, so that the destroyer of the firstborn would not touch the firstborn of Israel."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-24",
+      "type": "commentary",
+      "text": "28 : Ex 12.7,13,21–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-hebr-11-29",
+      "type": "verse",
+      "number": 29,
+      "text": "By faith the people passed through the Red Sea as if it were dry land, but when the Egyptians attempted to do so they were drowned."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-25",
+      "type": "commentary",
+      "text": "29 : Ex 14.21–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-hebr-11-30",
+      "type": "verse",
+      "number": 30,
+      "text": "By faith the walls of Jericho fell after they had been encircled for seven days."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-26",
+      "type": "commentary",
+      "text": "30 : Josh 6.12–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-hebr-11-31",
+      "type": "verse",
+      "number": 31,
+      "text": "By faith Rahab the prostitute did not perish with those who were disobedient, because she had received the spies in peace."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-27",
+      "type": "commentary",
+      "text": "31 : Josh 2.1–21; 6.22–25. See also Mt 1.5; Jas 2.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-hebr-11-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And what more should I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets—"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-28",
+      "type": "commentary",
+      "text": "32 : , Judg 6–8; , Judg 4–5; , Judg 13–16; , Judg 11–12; , 1 Sam 16–30; 2 Sam 1–24; , 1 Sam 1–12; 15.1–16.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-hebr-11-33",
+      "type": "verse",
+      "number": 33,
+      "text": "who through faith conquered kingdoms, administered justice, obtained promises, shut the mouths of lions,"
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-29",
+      "type": "commentary",
+      "text": "33 : , Dan 6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-hebr-11-34",
+      "type": "verse",
+      "number": 34,
+      "text": "quenched raging fire, escaped the edge of the sword, won strength out of weakness, became mighty in war, put foreign armies to flight."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-30",
+      "type": "commentary",
+      "text": "34 : , Dan 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-hebr-11-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Women received their dead by resurrection. Others were tortured, refusing to accept release, in order to obtain a better resurrection."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-31",
+      "type": "commentary",
+      "text": "35 : , 1 Kings 17.17–24; 2 Kings 4.18–37; , 2 Macc 6.18–7.42 (esp. 7.9,11,14,23,29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-hebr-11-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Others suffered mocking and flogging, and even chains and imprisonment."
+    },
+    {
+      "block_id": "oxford-hebr-11-37",
+      "type": "verse",
+      "number": 37,
+      "text": "They were stoned to death, they were sawn in two, they were killed by the sword; they went about in skins of sheep and goats, destitute, persecuted, tormented—"
+    },
+    {
+      "block_id": "oxford-hebr-11-38",
+      "type": "verse",
+      "number": 38,
+      "text": "of whom the world was not worthy. They wandered in deserts and mountains, and in caves and holes in the ground."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-32",
+      "type": "commentary",
+      "text": "36–38 : Traditions about the prophets underlie these verses. Jeremiah was taunted (Jer 20.7–8), beaten (37.15), and imprisoned (20.1–3; 37.15–18). According to legend, Isaiah was sawn in two ( 1.1; 5.1–14), Jeremiah was stoned ( 2.1), and Uriah was slain with the sword (Jer 26.20–23). Presenting faith as a willingness to embrace a marginal existence in this world (represented by living in caves and wearing hides rather than textiles) speaks directly to the hearers’ situation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 36,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-hebr-11-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Yet all these, though they were commended for their faith, did not receive what was promised,"
+    },
+    {
+      "block_id": "oxford-hebr-11-40",
+      "type": "verse",
+      "number": 40,
+      "text": "since God had provided something better so that they would not, apart from us, be made perfect."
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-1",
+      "type": "commentary",
+      "text": "10.19–13.25: Exhortation to persevere in gratitude for the benefactions granted through Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-2",
+      "type": "commentary",
+      "text": "11.1–12.3: Encomium on faith. A recurring theme of the examples of faith-in-action is that people of faith chart their course through this life with a view to future realities (see 11.7,20–22,24–26, 28) and to the invisible realities of the realm beyond this creation (see 11.3,10,13–16,27; 12.2), including God's power to give life to the dead (11.17–19,35–38; 12.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-33",
+      "type": "commentary",
+      "text": "39–40 : The author understands the faithful righteous of Israel to arrive at the heavenly homeland together with the addressees, being perfected together by Jesus's priestly mediation. The fact that the hearers are in the most privileged position, living on this side of Jesus's mediation, should nurture a sense of greater responsibility to continue in faith themselves, as did earlier biblical figures.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 39,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-hebr-11-h1kj-34",
+      "type": "commentary",
+      "text": "40 : , Gk adds “concerning us.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 11
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    }
+  ]
+}

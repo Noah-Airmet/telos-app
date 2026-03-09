@@ -1,0 +1,23 @@
+{
+  "document_id": "ric-88",
+  "title": "Section 88",
+  "type": "commentary",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "ric-88-p-0",
+      "type": "paragraph",
+      "text": "[Revelations in Context Section 88 — Import from PDF using Marker and ingest-ric-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 88,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "document_id": "deut-12",
+  "title": "Deuteronomy 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "These are the statutes and ordinances that you must diligently observe in the land that the Lord, the God of your ancestors, has given you to occupy all the days that you live on the earth."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-4",
+      "type": "commentary",
+      "text": "1 : An editorial superscription. , more accurately, “land (of Israel).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-deut-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You must demolish completely all the places where the nations whom you are about to dispossess served their gods, on the mountain heights, on the hills, and under every leafy tree."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-6",
+      "type": "commentary",
+      "text": "2 : , The chapter alternates between plural (vv. 1–12) and singular (vv. 13–31), which, combined with six repetitions of the centralization command (vv. 5,11,14,18,21,26), suggests a long compositional history. , see Ex 23.23–24; 34.11–14; Deut 7.5. , Canaanite sanctuaries, “high places” (1 Kings 3.2; 2 Kings 16.4), but used to worship God as well (1 Kings 3.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-deut-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Break down their altars, smash their pillars, burn their sacred poles with fire, and hew down the idols of their gods, and thus blot out their name from their places."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-7",
+      "type": "commentary",
+      "text": "3 : See 7.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "You shall not worship the Lord your God in such ways."
+    },
+    {
+      "block_id": "oxford-deut-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But you shall seek the place that the Lord your God will choose out of all your tribes as his habitation to put his name there. You shall go there,"
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , biblical narrative reflects a tradition in which Jerusalem played no role in Israel’s history until the period of King David. Consequently the city cannot be named explicitly without undermining the literary form of Deuteronomy as an address by Moses. , better, “to establish it” (the divine name), indicating possession and special relationship. , Deuteronomy rejects the idea that a nation’s God would inhabit the Temple (contrast 1 Kings 8.12–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-deut-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "bringing there your burnt offerings and your sacrifices, your tithes and your donations, your votive gifts, your freewill offerings, and the firstlings of your herds and flocks."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-9",
+      "type": "commentary",
+      "text": "6 : , in which all of the flesh was burned on the altar (v. 27; cf. the Priestly sacrificial laws in Lev 1.3–17). , other offerings where portions of the animal were assigned to the priests or shared by worshipers (v. 27; 18.1–3; cf. Priestly law in Lev 3; 7.29–36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-deut-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And you shall eat there in the presence of the Lord your God, you and your households together, rejoicing in all the undertakings in which the Lord your God has blessed you."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-5",
+      "type": "commentary",
+      "text": "2–7 : Israel must reject the Canaanite precedent of multiple sanctuaries.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-deut-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You shall not act as we are acting here today, all of us according to our own desires,"
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-11",
+      "type": "commentary",
+      "text": "8 : , a negative judgment, as in Judg 17.6; 21.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-deut-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for you have not yet come into the rest and the possession that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-deut-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When you cross over the Jordan and live in the land that the Lord your God is allotting to you, and when he gives you rest from your enemies all around so that you live in safety,"
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-12",
+      "type": "commentary",
+      "text": "9–10 : , territorial security (Josh 21.44) would allow centralization. In the biblical account, this was fulfilled with David’s conquest of Jerusalem, which allowed the construction of the Temple (2 Sam 7.1,11; 1 Kings 8.56).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "then you shall bring everything that I command you to the place that the Lord your God will choose as a dwelling for his name: your burnt offerings and your sacrifices, your tithes and your donations, and all your choice votive gifts that you vow to the Lord."
+    },
+    {
+      "block_id": "oxford-deut-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And you shall rejoice before the Lord your God, you together with your sons and your daughters, your male and female slaves, and the Levites who reside in your towns (since they have no allotment or inheritance with you)."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-10",
+      "type": "commentary",
+      "text": "8–12 : That worship at multiple sanctuaries was to have limited temporal validity differs from Ex 20.24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 8,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-13",
+      "type": "commentary",
+      "text": "12 : Since were not assigned land (see Josh 13.14; cf. Ezek 44.28), they had to depend upon voluntary offerings (see 10.9; 18.1–2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Take care that you do not offer your burnt offerings at any place you happen to see."
+    },
+    {
+      "block_id": "oxford-deut-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But only at the place that the Lord will choose in one of your tribes—there you shall offer your burnt offerings and there you shall do everything I command you."
+    },
+    {
+      "block_id": "oxford-deut-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Yet whenever you desire you may slaughter and eat meat within any of your towns, according to the blessing that the Lord your God has given you; the unclean and the clean may eat of it, as they would of gazelle or deer."
+    },
+    {
+      "block_id": "oxford-deut-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The blood, however, you must not eat; you shall pour it out on the ground like water."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-15",
+      "type": "commentary",
+      "text": "13–16 : Two important, revolutionary distinctions: First, between sacrificial worship at random sites, , rejected as illegitimate, and legitimate sacrifice performed at a single sanctuary, This contrasts with previous norms, when altars were common throughout the land (Gen 12.7; 35.1–7; 1 Sam 3.1; 7.17; 1 Kings 18.20–46). Second, between ritual sacrifice and secular slaughter of domestic animals for food. According to the biblical account, prior to Deuteronomy all slaughter, even for food, was sacrificial and took place at an altar. With altars throughout the land, that rule imposed no burden upon Israelites. The prohibition of all local altars, however, created a real difficulty for those without easy access to the central sanctuary. The permission granted here for local, secular slaughter answers that need. By analogy to the rules for hunting wild game ( ), domestic animals may be slaughtered throughout the land, on condition that their blood is poured out (cf. Lev 17.13). Blood symbolizes “life” (v. 23; 15.23; Gen 9.4–5; Lev 17.14; 19.26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 13,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-deut-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Nor may you eat within your towns the tithe of your grain, your wine, and your oil, the firstlings of your herds and your flocks, any of your votive gifts that you vow, your freewill offerings, or your donations;"
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-16",
+      "type": "commentary",
+      "text": "17 : , see 14.22–29n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "these you shall eat in the presence of the Lord your God at the place that the Lord your God will choose, you together with your son and your daughter, your male and female slaves, and the Levites resident in your towns, rejoicing in the presence of the Lord your God in all your undertakings."
+    },
+    {
+      "block_id": "oxford-deut-12-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Take care that you do not neglect the Levite as long as you live in your land."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-14",
+      "type": "commentary",
+      "text": "13–19 : The earliest of the chapter’s five sections is concentrically arranged in a chiasm to structure diverse material in an ABC:C’B’A’ pattern.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 13,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-deut-12-20",
+      "type": "verse",
+      "number": 20,
+      "text": "When the Lord your God enlarges your territory, as he has promised you, and you say, “I am going to eat some meat,” because you wish to eat meat, you may eat meat whenever you have the desire."
+    },
+    {
+      "block_id": "oxford-deut-12-21",
+      "type": "verse",
+      "number": 21,
+      "text": "If the place where the Lord your God will choose to put his name is too far from you, and you slaughter as I have commanded you any of your herd or flock that the Lord has given you, then you may eat within your towns whenever you desire."
+    },
+    {
+      "block_id": "oxford-deut-12-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Indeed, just as gazelle or deer is eaten, so you may eat it; the unclean and the clean alike may eat it."
+    },
+    {
+      "block_id": "oxford-deut-12-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Only be sure that you do not eat the blood; for the blood is the life, and you shall not eat the life with the meat."
+    },
+    {
+      "block_id": "oxford-deut-12-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Do not eat it; you shall pour it out on the ground like water."
+    },
+    {
+      "block_id": "oxford-deut-12-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Do not eat it, so that all may go well with you and your children after you, because you do what is right in the sight of the Lord."
+    },
+    {
+      "block_id": "oxford-deut-12-26",
+      "type": "verse",
+      "number": 26,
+      "text": "But the sacred donations that are due from you, and your votive gifts, you shall bring to the place that the Lord will choose."
+    },
+    {
+      "block_id": "oxford-deut-12-27",
+      "type": "verse",
+      "number": 27,
+      "text": "You shall present your burnt offerings, both the meat and the blood, on the altar of the Lord your God; the blood of your other sacrifices shall be poured out beside the altar of the Lord your God, but the meat you may eat."
+    },
+    {
+      "block_id": "oxford-deut-12-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Be careful to obey all these words that I command you today, so that it may go well with you and with your children after you forever, because you will be doing what is good and right in the sight of the Lord your God."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-17",
+      "type": "commentary",
+      "text": "20–28 : Permission for secular slaughter is now justified by the expansion of Israel’s boundaries.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 20,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-deut-12-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When the Lord your God has cut off before you the nations whom you are about to enter to dispossess them, when you have dispossessed them and live in their land,"
+    },
+    {
+      "block_id": "oxford-deut-12-30",
+      "type": "verse",
+      "number": 30,
+      "text": "take care that you are not snared into imitating them, after they have been destroyed before you: do not inquire concerning their gods, saying, “How did these nations worship their gods? I also want to do the same.”"
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-18",
+      "type": "commentary",
+      "text": "30 : Elsewhere, the corruption of Israelite religion is presented as resulting from the attractions of marital contract (7.1–5,25) or political treaty (Ex 23.33; 34.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-12-31",
+      "type": "verse",
+      "number": 31,
+      "text": "You must not do the same for the Lord your God, because every abhorrent thing that the Lord hates they have done for their gods. They would even burn their sons and their daughters in the fire to their gods."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-19",
+      "type": "commentary",
+      "text": "31 : , the Canaanites are accused of child sacrifice (see 2 Kings 3.27; 23.10; Jer 19.5–6; ch 31), elsewhere associated with the deity Molech (Lev 18.21; 20.2–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-deut-12-32",
+      "type": "verse",
+      "number": 32,
+      "text": "You must diligently observe everything that I command you; do not add to it or take anything from it."
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-2",
+      "type": "commentary",
+      "text": "12.1–26.15: The legal corpus: Deuteronomy’s transformation of earlier Israelite religion. Just as Deuteronomy provides a significant reinterpretation of earlier narrative traditions about the nation’s past (see 1.19–46n; 4.1–40n; 5.1–33n; 7.9–11n; etc.), so does it here advance a major new understanding of the nation’s religious requirements and legal traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-3",
+      "type": "commentary",
+      "text": "12.1–32: Centralization and purification of worship. Restriction of sacrificial worship of God to a single sanctuary and removal of foreign influence represent two of the most distinctive features of Deuteronomy’s idea of religion and law. Four sections of the text (vv. 2–7,8–12,13–19,20–28) command centralization; a fifth (vv. 29–31) warns against alien worship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-deut-12-h1kj-20",
+      "type": "commentary",
+      "text": "32 : An exhortation to preserve the law unchanged. , the same idiom found at 12.1 (also 11.32) frames the unit with an inclusio. , an ancient Near Eastern scribal formula often included in the epilogues of treaties, inscriptions, and law collections to protect them from being defaced, altered, or written over (see 4.2n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 12
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    }
+  ]
+}

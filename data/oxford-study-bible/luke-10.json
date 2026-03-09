@@ -1,0 +1,679 @@
+{
+  "document_id": "luke-10",
+  "title": "Luke 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-luke-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-luke-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He said to them, “The harvest is plentiful, but the laborers are few; therefore ask the Lord of the harvest to send out laborers into his harvest."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-4",
+      "type": "commentary",
+      "text": "2 : An eschatological saying emphasizing the urgency of the moment (also Mk 4.29; Mt 9.37–38; Jn 4.35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-luke-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Go on your way. See, I am sending you out like lambs into the midst of wolves."
+    },
+    {
+      "block_id": "oxford-luke-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Carry no purse, no bag, no sandals; and greet no one on the road."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , which might cause delay, underscoring the urgency of the mission.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-luke-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Whatever house you enter, first say, ‘Peace to this house!’"
+    },
+    {
+      "block_id": "oxford-luke-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And if anyone is there who shares in peace, your peace will rest on that person; but if not, it will return to you."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-6",
+      "type": "commentary",
+      "text": "5–6 : is the translation of the Heb greeting “Shalom”; cf. 1 Sam 25.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-luke-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remain in the same house, eating and drinking whatever they provide, for the laborer deserves to be paid. Do not move about from house to house."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-8",
+      "type": "commentary",
+      "text": "7 : Deut 24.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-luke-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Whenever you enter a town and its people welcome you, eat what is set before you;"
+    },
+    {
+      "block_id": "oxford-luke-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "cure the sick who are there, and say to them, ‘The kingdom of God has come near to you.’"
+    },
+    {
+      "block_id": "oxford-luke-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But whenever you enter a town and they do not welcome you, go out into its streets and say,"
+    },
+    {
+      "block_id": "oxford-luke-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "‘Even the dust of your town that clings to our feet, we wipe off in protest against you. Yet know this: the kingdom of God has come near.’"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-7",
+      "type": "commentary",
+      "text": "7–11 . These directions shift from the villages of Jesus's ministry to the urban settings of Acts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 7,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-9",
+      "type": "commentary",
+      "text": "9–11 : The emphasis on distinguishes these instructions from those at 9.3–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-10",
+      "type": "commentary",
+      "text": "10–11 : Cf. 9.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I tell you, on that day it will be more tolerable for Sodom than for that town."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-2",
+      "type": "commentary",
+      "text": "10.1–12: The mission of the seventy (Mt 9.37–38; 10.7–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-11",
+      "type": "commentary",
+      "text": "12 : Gen 19.24–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-luke-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the deeds of power done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-13",
+      "type": "commentary",
+      "text": "13 : , a town 2 mi (3 km) north of Capernaum. were Gentile cities on the Mediterranean coast north of Galilee. recalls Nineveh's repentance in Jon 3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-luke-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But at the judgment it will be more tolerable for Tyre and Sidon than for you."
+    },
+    {
+      "block_id": "oxford-luke-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And you, Capernaum, will you be exalted to heaven? No, you will be brought down to Hades."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-12",
+      "type": "commentary",
+      "text": "10.13–15: Woes to unrepentant cities (Mt 11.20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-14",
+      "type": "commentary",
+      "text": "15 : Echoes Isa 14.13–15 (see v. 18). , equivalent to Heb “Sheol,” the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-luke-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“Whoever listens to you listens to me, and whoever rejects you rejects me, and whoever rejects me rejects the one who sent me.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-15",
+      "type": "commentary",
+      "text": "10.16: Jesus's interpretation of the mission (Mt 10.40).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-luke-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The seventy returned with joy, saying, “Lord, in your name even the demons submit to us!”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , unlike the twelve (9.1), the seventy were not promised this power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-luke-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "He said to them, “I watched Satan fall from heaven like a flash of lightning."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-18",
+      "type": "commentary",
+      "text": "18 : , the victory of the seventy over demons presages Satan's ultimate defeat; cf. Isa 14.15; Jn 12.31; Rev 12.7–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-luke-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "See, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will hurt you."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-19",
+      "type": "commentary",
+      "text": "19 : See Ps 91.13; Mk 16.17–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-luke-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Nevertheless, do not rejoice at this, that the spirits submit to you, but rejoice that your names are written in heaven.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-16",
+      "type": "commentary",
+      "text": "10.17–20: Return of the seventy (Mt 11.25–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-20",
+      "type": "commentary",
+      "text": "20 : Exorcism in itself is not proof of God's kingdom (11.19). , Dan 12.1; Ps 69.28; Ex 32.32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-luke-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "At that same hour Jesus rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and the intelligent and have revealed them to infants; yes, Father, for such was your gracious will."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-22",
+      "type": "commentary",
+      "text": "21 : , which Jesus possessed from conception, readers first hear the content of Jesus's prayer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "All things have been handed over to me by my Father; and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-21",
+      "type": "commentary",
+      "text": "10.21–22: Jesus's thanksgiving to God (Mt 11.25–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-23",
+      "type": "commentary",
+      "text": "22 : Cf. Jn 3.35; 10.14–15; 13.1; 17.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-luke-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then turning to the disciples, Jesusb said to them privately, “Blessed are the eyes that see what you see!"
+    },
+    {
+      "block_id": "oxford-luke-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For I tell you that many prophets and kings desired to see what you see, but did not see it, and to hear what you hear, but did not hear it.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-24",
+      "type": "commentary",
+      "text": "10.23–24: Jesus's blessing of the disciples (Mt 13.16–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 23,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-luke-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Just then a lawyer stood up to test Jesus. “Teacher,” he said, “what must I do to inherit eternal life?”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-26",
+      "type": "commentary",
+      "text": "25 : , an expert in the law of Moses, synonymous with “scribe.” indicates hostility, yet he addresses Jesus as . For (also 10.25; 18.18,30) as a question in Jewish literature, see Dan 12.2; 4 Macc 15.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-luke-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He said to him, “What is written in the law? What do you read there?”"
+    },
+    {
+      "block_id": "oxford-luke-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "He answered, “You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-27",
+      "type": "commentary",
+      "text": "27 : Deut 6.5; Lev 19.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And he said to him, “You have given the right answer; do this, and you will live.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-25",
+      "type": "commentary",
+      "text": "10.25–28: A lawyer's question (Mt 22.34–40; Mk 12.28–34; cf. Lk 18.9–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 25,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-luke-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "But wanting to justify himself, he asked Jesus, “And who is my neighbor?”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-29",
+      "type": "commentary",
+      "text": "29 : , to show that he was righteous before God. Jesus's answer expands Lev 19.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-luke-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Jesus replied, “A man was going down from Jerusalem to Jericho, and fell into the hands of robbers, who stripped him, beat him, and went away, leaving him half dead."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-30",
+      "type": "commentary",
+      "text": "30 : , about 18 mi (30 km) with a drop in elevation from 2,500 ft (760 m) above to 820 ft (250 m) below sea level on a road known for brigands.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-luke-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Now by chance a priest was going down that road; and when he saw him, he passed by on the other side."
+    },
+    {
+      "block_id": "oxford-luke-10-32",
+      "type": "verse",
+      "number": 32,
+      "text": "So likewise a Levite, when he came to the place and saw him, passed by on the other side."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-31",
+      "type": "commentary",
+      "text": "31–32 : The was probably returning from service in the Temple, as was the , who was entrusted with minor duties in the Temple and its rituals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 31,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-luke-10-33",
+      "type": "verse",
+      "number": 33,
+      "text": "But a Samaritan while traveling came near him; and when he saw him, he was moved with pity."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-32",
+      "type": "commentary",
+      "text": "33 : A (see 9.52n.), a foreigner not expected to show sympathy to Jews; is deep compassion,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-luke-10-34",
+      "type": "verse",
+      "number": 34,
+      "text": "He went to him and bandaged his wounds, having poured oil and wine on them. Then he put him on his own animal, brought him to an inn, and took care of him."
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-33",
+      "type": "commentary",
+      "text": "34 : The served as a salve (see Isa 1.6) and the as an antiseptic.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-luke-10-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The next day he took out two denarii, gave them to the innkeeper, and said, ‘Take care of him; and when I come back, I will repay you whatever more you spend.’"
+    },
+    {
+      "block_id": "oxford-luke-10-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Which of these three, do you think, was a neighbor to the man who fell into the hands of the robbers?”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-34",
+      "type": "commentary",
+      "text": "36 : Redefines in terms of how one acts toward those in need.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-luke-10-37",
+      "type": "verse",
+      "number": 37,
+      "text": "He said, “The one who showed him mercy.” Jesus said to him, “Go and do likewise.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-28",
+      "type": "commentary",
+      "text": "10.29–37: Parable of the Good Samaritan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 29,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-luke-10-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Now as they went on their way, he entered a certain village, where a woman named Martha welcomed him into her home."
+    },
+    {
+      "block_id": "oxford-luke-10-39",
+      "type": "verse",
+      "number": 39,
+      "text": "She had a sister named Mary, who sat at the Lord's feet and listened to what he was saying."
+    },
+    {
+      "block_id": "oxford-luke-10-40",
+      "type": "verse",
+      "number": 40,
+      "text": "But Martha was distracted by her many tasks; so she came to him and asked, “Lord, do you not care that my sister has left me to do all the work by myself? Tell her then to help me.”"
+    },
+    {
+      "block_id": "oxford-luke-10-41",
+      "type": "verse",
+      "number": 41,
+      "text": "But the Lord answered her, “Martha, Martha, you are worried and distracted by many things;"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-36",
+      "type": "commentary",
+      "text": "41 : , lit., “cause trouble.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-luke-10-42",
+      "type": "verse",
+      "number": 42,
+      "text": "there is need of only one thing. Mary has chosen the better part, which will not be taken away from her.”"
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-1",
+      "type": "commentary",
+      "text": "9.51–19.27: Jesus's journey to Jerusalem with his followers (Mt 19.1–20.34; Mk 10.1–52). Most of this section, which reports the ministry of Jesus in Samaria and Judea, is unique to Luke.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-luke-10-h1kj-35",
+      "type": "commentary",
+      "text": "10.38–42: Martha and Mary. This story affirms the importance of listening to Jesus and gives further details about women among Jesus's followers. Jn 11.1 has a Martha and Mary, sisters of Lazarus, in Bethany, just east of Jerusalem, but Luke's apparently separate tradition does not mention Lazarus and Jesus has not yet reached Bethany (see 19.29). Luke's emphasis is on the singular importance of discipleship: Mary sat at Jesus's feet (see 8.35; Acts 22.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 10
+      },
+      "verse_start": 38,
+      "verse_end": 42
+    }
+  ]
+}

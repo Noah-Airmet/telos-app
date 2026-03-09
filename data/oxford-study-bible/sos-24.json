@@ -1,0 +1,463 @@
+{
+  "document_id": "sos-24",
+  "title": "sos 24",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-24-heading-25",
+      "type": "heading",
+      "text": "25"
+    },
+    {
+      "block_id": "oxford-sos-24-2",
+      "type": "verse",
+      "number": 2,
+      "text": "In the assembly of the Most High she opens her mouth, and in the presence of his hosts she tells of her glory:"
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-2",
+      "type": "commentary",
+      "text": "1–2 : , Israel; , the heavenly host or divine council (cf. Ps 82.1,6–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-24-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“I came forth from the mouth of the Most High, and covered the earth like a mist."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-3",
+      "type": "commentary",
+      "text": "3 : evokes Gen 1. , cf. Gen 1.2; Wis 7.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sos-24-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I dwelt in the highest heavens, and my throne was in a pillar of cloud."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , see Ex 13.21–22; 33.9–10; Wis 10.17–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-sos-24-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Alone I compassed the vault of heaven and traversed the depths of the abyss."
+    },
+    {
+      "block_id": "oxford-sos-24-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Over waves of the sea, over all the earth, and over every people and nation I have held sway."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-5",
+      "type": "commentary",
+      "text": "6 : Wisdom has a universal reach (cf. 1.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-24-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Among all these I sought a resting place; in whose territory should I abide?"
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-6",
+      "type": "commentary",
+      "text": "7 : , Job 28.23; 42.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-24-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“Then the Creator of all things gave me a command, and my Creator chose the place for my tent. He said, ‘Make your dwelling in Jacob, and in Israel receive your inheritance.’"
+    },
+    {
+      "block_id": "oxford-sos-24-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Before the ages, in the beginning, he created me, and for all the ages I shall not cease to be."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-8",
+      "type": "commentary",
+      "text": "9 : Prov 8.22–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-24-10",
+      "type": "verse",
+      "number": 10,
+      "text": "In the holy tent I ministered before him, and so I was established in Zion."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , an allusion to the tabernacle (Ex 25.8–9), which represents the Temple. , Wisdom functions liturgically as a priest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-24-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Thus in the beloved city he gave me a resting place, and in Jerusalem was my domain."
+    },
+    {
+      "block_id": "oxford-sos-24-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I took root in an honored people, in the portion of the Lord, his heritage."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-7",
+      "type": "commentary",
+      "text": "8–12 : Wisdom, who was created (cf. Gen 1.1), dwells with Israel (cf. Bar 3.36–37) in the Jerusalem Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 8,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , cf. 17.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-24-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“I grew tall like a cedar in Lebanon, and like a cypress on the heights of Hermon."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-12",
+      "type": "commentary",
+      "text": "13 : , a mountain range in modern Lebanon and Syria famous for its forests. , a mountain on the border of modern Israel and Syria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-24-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I grew tall like a palm tree in En-gedi, and like rosebushes in Jericho; like a fair olive tree in the field, and like a plane tree beside water I grew tall."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-13",
+      "type": "commentary",
+      "text": "14 : and , oases in the region near the Dead Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-24-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Like cassia and camel's thorn I gave forth perfume, and like choice myrrh I spread my fragrance, like galbanum, onycha, and stacte, and like the odor of incense in the tent."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-14",
+      "type": "commentary",
+      "text": "15 : These ingredients were used in the service of the Temple (Ex 30.22–38), which is infused with Wisdom's presence, just as with .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-sos-24-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Like a terebinth I spread out my branches, and my branches are glorious and graceful."
+    },
+    {
+      "block_id": "oxford-sos-24-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Like the vine I bud forth delights, and my blossoms become glorious and abundant fruit."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-11",
+      "type": "commentary",
+      "text": "13–17 : A comparison of Wisdom with plants, , and fragrant substances, emphasizing her beauty and expanse and her connection with the Temple. See 50.8–12 where , , , , and describe the high priest Simon II.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 13,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-24-19",
+      "type": "verse",
+      "number": 19,
+      "text": "“Come to me, you who desire me, and eat your fill of my fruits."
+    },
+    {
+      "block_id": "oxford-sos-24-20",
+      "type": "verse",
+      "number": 20,
+      "text": "For the memory of me is sweeter than honey, and the possession of me sweeter than the honeycomb."
+    },
+    {
+      "block_id": "oxford-sos-24-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Those who eat of me will hunger for more, and those who drink of me will thirst for more."
+    },
+    {
+      "block_id": "oxford-sos-24-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Whoever obeys me will not be put to shame, and those who work with me will not sin.”"
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-1",
+      "type": "commentary",
+      "text": "24.1–22. Wisdom's self-praise. An aretalogy (first-person praise of oneself, often connected with the Egyptian goddess Isis) in which Wisdom is personified as a woman (Prov 8.22–36; cf. Bar 3.9–4.4; Wis 7.22–8.1) and dwells in the Jerusalem Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-15",
+      "type": "commentary",
+      "text": "19–22 : Wisdom is better than fine food and drink, and those who and will desire more (cf. 6.19; Prov 9.1–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 19,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-24-23",
+      "type": "verse",
+      "number": 23,
+      "text": "All this is the book of the covenant of the Most High God, the law that Moses commanded us as an inheritance for the congregations of Jacob."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-16",
+      "type": "commentary",
+      "text": "23 : Ben Sira is the first to relate Torah and wisdom in this way; see also Bar 4.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-18",
+      "type": "commentary",
+      "text": "23 : The (cf. Ex 24.7; Deut 33.4) embodies the eternal, timeless Wisdom of vv. 3–22 (cf. Deut 4.5–8), an important statement about the confluence of the Torah and the wisdom traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-sos-24-25",
+      "type": "verse",
+      "number": 25,
+      "text": "It overflows, like the Pishon, with wisdom, and like the Tigris at the time of the first fruits."
+    },
+    {
+      "block_id": "oxford-sos-24-26",
+      "type": "verse",
+      "number": 26,
+      "text": "It runs over, like the Euphrates, with understanding, and like the Jordan at harvest time."
+    },
+    {
+      "block_id": "oxford-sos-24-27",
+      "type": "verse",
+      "number": 27,
+      "text": "It pours forth instruction like the Nile, like the Gihon at the time of vintage."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-19",
+      "type": "commentary",
+      "text": "25–27 : The , , , and flow from the Garden of Eden (Gen 2.10–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 25,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-sos-24-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The first man did not know wisdom fully, nor will the last one fathom her."
+    },
+    {
+      "block_id": "oxford-sos-24-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For her thoughts are more abundant than the sea, and her counsel deeper than the great abyss."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-20",
+      "type": "commentary",
+      "text": "28–29 : Wisdom will never be fully grasped, not from to the ; cf. 1.4–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-sos-24-30",
+      "type": "verse",
+      "number": 30,
+      "text": "As for me, I was like a canal from a river, like a water channel into a garden."
+    },
+    {
+      "block_id": "oxford-sos-24-31",
+      "type": "verse",
+      "number": 31,
+      "text": "I said, “I will water my garden and drench my flower-beds.” And lo, my canal became a river, and my river a sea."
+    },
+    {
+      "block_id": "oxford-sos-24-32",
+      "type": "verse",
+      "number": 32,
+      "text": "I will again make instruction shine forth like the dawn, and I will make it clear from far away."
+    },
+    {
+      "block_id": "oxford-sos-24-33",
+      "type": "verse",
+      "number": 33,
+      "text": "I will again pour out teaching like prophecy, and leave it to all future generations."
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-22",
+      "type": "commentary",
+      "text": "33 : , Ben Sira's teaching has a revelatory quality to it.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-sos-24-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Observe that I have not labored for myself alone, but for all who seek wisdom.c"
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-17",
+      "type": "commentary",
+      "text": "24.24–34: Ben Sira's interpretation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-sos-24-h1kj-21",
+      "type": "commentary",
+      "text": "30–34 : Ben Sira connects his own teaching to both Torah and Wisdom through the metaphor of a , , , and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 24
+      },
+      "verse_start": 30,
+      "verse_end": 34
+    }
+  ]
+}

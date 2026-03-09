@@ -1,0 +1,403 @@
+{
+  "document_id": "matt-11",
+  "title": "Matthew 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-matt-11-heading-12",
+      "type": "heading",
+      "text": "12"
+    },
+    {
+      "block_id": "oxford-matt-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When John heard in prison what the Messiah was doing, he sent word by his disciples"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , Herod's stronghold Machaerus, 5 mi (8 km) east of the Dead Sea (see 14.1–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-matt-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and said to him, “Are you the one who is to come, or are we to wait for another?”"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , the Messiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-matt-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Jesus answered them, “Go and tell John what you hear and see:"
+    },
+    {
+      "block_id": "oxford-matt-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the poor have good news brought to them."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-7",
+      "type": "commentary",
+      "text": "5 : … , the deeds predicted of the Messiah (Isa 35.4–6; 61.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-8",
+      "type": "commentary",
+      "text": "5 : : see 8.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-matt-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And blessed is anyone who takes no offense at me.”"
+    },
+    {
+      "block_id": "oxford-matt-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "As they went away, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to look at? A reed shaken by the wind?"
+    },
+    {
+      "block_id": "oxford-matt-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "What then did you go out to see? Someone dressed in soft robes? Look, those who wear soft robes are in royal palaces."
+    },
+    {
+      "block_id": "oxford-matt-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
+    },
+    {
+      "block_id": "oxford-matt-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "This is the one about whom it is written, ‘See, I am sending my messenger ahead of you, who will prepare your way before you.’"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-9",
+      "type": "commentary",
+      "text": "10 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-matt-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Truly I tell you, among those born of women no one has arisen greater than John the Baptist; yet the least in the kingdom of heaven is greater than he."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-10",
+      "type": "commentary",
+      "text": "11 : : The least are greater through having witnessed the kingdom's arrival in Jesus and through having been given the opportunity to act on that knowledge (5.19; 18.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-matt-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "From the days of John the Baptist until now the kingdom of heaven has suffered violence, and the violent take it by force."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-11",
+      "type": "commentary",
+      "text": "12 : As had happened with many true prophets, violence would soon be visited on John and Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-matt-11-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For all the prophets and the law prophesied until John came;"
+    },
+    {
+      "block_id": "oxford-matt-11-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and if you are willing to accept it, he is Elijah who is to come."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-12",
+      "type": "commentary",
+      "text": "14 : John is the to come before the day of the Lord: he ushers in the kingdom (Mal 4.5; cf. Mt 17.12–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-matt-11-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Let anyone with ears listen!"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-13",
+      "type": "commentary",
+      "text": "15 : 13.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-matt-11-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“But to what will I compare this generation? It is like children sitting in the marketplaces and calling to one another,"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , the entire generation of Israel contemporaneous with Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-matt-11-17",
+      "type": "verse",
+      "number": 17,
+      "text": "‘We played the flute for you, and you did not dance; we wailed, and you did not mourn.’"
+    },
+    {
+      "block_id": "oxford-matt-11-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For John came neither eating nor drinking, and they say, ‘He has a demon’;"
+    },
+    {
+      "block_id": "oxford-matt-11-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the Son of Man came eating and drinking, and they say, ‘Look, a glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is vindicated by her deeds.”"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-4",
+      "type": "commentary",
+      "text": "11.2–19: The messengers from John the Baptist (Lk 7.18–35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-15",
+      "type": "commentary",
+      "text": "19 : : Deut 21.20. , see 8.20n. Jesus, like John, embodies , and his actions confirm this (11.4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-matt-11-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Then he began to reproach the cities in which most of his deeds of power had been done, because they did not repent."
+    },
+    {
+      "block_id": "oxford-matt-11-21",
+      "type": "verse",
+      "number": 21,
+      "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the deeds of power done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-17",
+      "type": "commentary",
+      "text": "21 : A woe oracle against Galilean towns for failing to respond to Jesus. has been identified with Karazeh, a site near Capernaum. After Jerusalem and Capernaum, is the place most commonly associated with Jesus's ministry in the Gospels (Mk 8.22–6). Its location is still disputed. , a rough fabric worn as a symbol of mourning and repentance; cf. Jon 3:5–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-matt-11-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But I tell you, on the day of judgment it will be more tolerable for Tyre and Sidon than for you."
+    },
+    {
+      "block_id": "oxford-matt-11-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And you, Capernaum, will you be exalted to heaven? No, you will be brought down to Hades. For if the deeds of power done in you had been done in Sodom, it would have remained until this day."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-18",
+      "type": "commentary",
+      "text": "21–23 : and , on the Mediterranean coast north of Israel, were often linked in prophetic oracles (Isa 23; Jer 25.22; 27.3–7; 47.4; Ezek 28.11–23; Joel 3.4–8) is the Greek term for both the god of the dead and his realm, the latter roughly equivalent to Heb Sheol, the shadowy domain of all the dead. Here it may also suggest Gehenna; 5.22n. was a stock example of an evil and unrepentant city (see 10.15n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-matt-11-24",
+      "type": "verse",
+      "number": 24,
+      "text": "But I tell you that on the day of judgment it will be more tolerable for the land of Sodom than for you.”"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-16",
+      "type": "commentary",
+      "text": "11.20–24: Woes to unrepentant cities (Lk 10.13–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 20,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-matt-11-25",
+      "type": "verse",
+      "number": 25,
+      "text": "At that time Jesus said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and the intelligent and have revealed them to infants;"
+    },
+    {
+      "block_id": "oxford-matt-11-26",
+      "type": "verse",
+      "number": 26,
+      "text": "yes, Father, for such was your gracious will."
+    },
+    {
+      "block_id": "oxford-matt-11-27",
+      "type": "verse",
+      "number": 27,
+      "text": "All things have been handed over to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him."
+    },
+    {
+      "block_id": "oxford-matt-11-28",
+      "type": "verse",
+      "number": 28,
+      "text": "“Come to me, all you that are weary and are carrying heavy burdens, and I will give you rest."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-20",
+      "type": "commentary",
+      "text": "28 : , 23.4. , a defining feature of the new age ( 63.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-matt-11-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Take my yoke upon you, and learn from me; for I am gentle and humble in heart, and you will find rest for your souls."
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-21",
+      "type": "commentary",
+      "text": "29 : , either Jesus's way of life or his teaching of the Torah's requirements. Jesus may be addressing his disciples here, but it is more likely the crowds in general (v. 7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-matt-11-30",
+      "type": "verse",
+      "number": 30,
+      "text": "For my yoke is easy, and my burden is light.”"
+    },
+    {
+      "block_id": "oxford-matt-11-h1kj-19",
+      "type": "commentary",
+      "text": "11.25–30: Come to me and rest (Lk 11.21–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 11
+      },
+      "verse_start": 25,
+      "verse_end": 30
+    }
+  ]
+}

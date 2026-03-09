@@ -1,0 +1,284 @@
+{
+  "document_id": "eccl-5",
+  "title": "Ecclesiastes 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-eccl-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Guard your steps when you go to the house of God; to draw near to listen is better than the sacrifice offered by fools; for they do not know how to keep from doing evil."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , temple. may mean that fools can be so foolish that they are unaware when their sacrifices produce harm.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-eccl-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Never be rash with your mouth, nor let your heart be quick to utter a word before God, for God is in heaven, and you upon earth; therefore let your words be few."
+    },
+    {
+      "block_id": "oxford-eccl-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For dreams come with many cares, and a fool's voice with many words."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-3",
+      "type": "commentary",
+      "text": "3 : in the ancient Near East were understood to be a potential source of divine revelation that often had to be interpreted by a religious expert (cf. Gen 40:5–23). At times, dreams were also denigrated as a worthless and easily manipulated medium of divination (cf. Sir 34:1–3). Qohelet cautions the reader about the extreme difficulty of discerning the meanings of dreams.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-eccl-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When you make a vow to God, do not delay fulfilling it; for he has no pleasure in fools. Fulfill what you vow."
+    },
+    {
+      "block_id": "oxford-eccl-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "It is better that you should not vow than that you should vow and not fulfill it."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-4",
+      "type": "commentary",
+      "text": "4–5 : A religious promises some future deed with words, and thus exemplifies the distance between words and deeds. Qohelet advises against vowing, because humans usually fail to match deeds to words.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-eccl-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Do not let your mouth lead you into sin, and do not say before the messenger that it was a mistake; why should God be angry at your words, and destroy the work of your hands?"
+    },
+    {
+      "block_id": "oxford-eccl-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "With many dreams come vanities and a multitude of words; but fear God."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-1",
+      "type": "commentary",
+      "text": "5.1–7: Words and deeds. The gap between what people say and what they do creates many problems, especially with religious practices (cf. Deut 23.21–22; Sir 18.2). Qohelet associates sacrifices, vows, and divinatory practices with fools.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-5",
+      "type": "commentary",
+      "text": "7 : of in the wisdom tradition refers to a reverent openness to divine instruction that is the first step to becoming a sage (cf. Prov 9.10). It can also describe awestruck terror in the face of God's overwhelming presence (cf. Job 9.35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-eccl-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If you see in a province the oppression of the poor and the violation of justice and right, do not be amazed at the matter; for the high official is watched by a higher, and there are yet higher ones over them."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-7",
+      "type": "commentary",
+      "text": "5.8 : This saying may refer to a corrupt bureaucratic hierarchy or, more generally, to those who desire positions of status and power over others.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-eccl-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But all things considered, this is an advantage for a land: a king for a plowed field."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-8",
+      "type": "commentary",
+      "text": "9 : An obscure verse that apparently praises agricultural production. See also 11.1–6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-eccl-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The lover of money will not be satisfied with money; nor the lover of wealth, with gain. This also is vanity."
+    },
+    {
+      "block_id": "oxford-eccl-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "When goods increase, those who eat them increase; and what gain has their owner but to see them with his eyes?"
+    },
+    {
+      "block_id": "oxford-eccl-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Sweet is the sleep of laborers, whether they eat little or much; but the surfeit of the rich will not let them sleep."
+    },
+    {
+      "block_id": "oxford-eccl-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "There is a grievous ill that I have seen under the sun: riches were kept by their owners to their hurt,"
+    },
+    {
+      "block_id": "oxford-eccl-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and those riches were lost in a bad venture; though they are parents of children, they have nothing in their hands."
+    },
+    {
+      "block_id": "oxford-eccl-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "As they came from their mother's womb, so they shall go again, naked as they came; they shall take nothing for their toil, which they may carry away with their hands."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-10",
+      "type": "commentary",
+      "text": "15 : , see Job 1.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-eccl-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "This also is a grievous ill: just as they came, so shall they go; and what gain do they have from toiling for the wind?"
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-11",
+      "type": "commentary",
+      "text": "16 : See 1.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-eccl-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Besides, all their days they eat in darkness, in much vexation and sickness and resentment."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-9",
+      "type": "commentary",
+      "text": "11–17 : Qohelet critiques the accumulation of wealth. See also 10.16–11.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-eccl-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "This is what I have seen to be good: it is fitting to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of the life God gives us; for this is our lot."
+    },
+    {
+      "block_id": "oxford-eccl-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Likewise all to whom God gives wealth and possessions and whom he en ables to enjoy them, and to accept their lot and find enjoyment in their toil—this is the gift of God."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-12",
+      "type": "commentary",
+      "text": "18–19 : See 3.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-eccl-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "For they will scarcely brood over the days of their lives, because God keeps them occupied with the joy of their hearts."
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-6",
+      "type": "commentary",
+      "text": "5.8–6.9: Disconnections between conditions of life and enjoyment. Objects of desire do not bring the satisfaction they promise (5.10; 6.2,7). Riches can cause restlessness (5.12) or even harm (5.13). Humans are capable of enjoyment, but it depends upon a divine agent (5.18–20). The pleasure human beings can experience never escapes “the wandering of desire” or the conditions of “vanity and a chasing after wind” (6.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-eccl-5-h1kj-13",
+      "type": "commentary",
+      "text": "20 : The verb has to do with remembering. Those who enjoy will not remember much of their days, not because enjoyment enables escapism, but because the enjoyers are so occupied with finding joy in their toil (see v. 18) that they overlook much that would otherwise trouble them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 5
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    }
+  ]
+}

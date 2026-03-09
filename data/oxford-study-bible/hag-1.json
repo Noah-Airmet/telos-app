@@ -1,0 +1,314 @@
+{
+  "document_id": "hag-1",
+  "title": "Haggai 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hag-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the Lord came by the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:"
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , 520 . , Elul (August-September). was a time for special rituals; the date is ironic, since the place where such rituals took place is in ruins. (1 Chr 3.19; Ezra 2.2; 3.2,8; 5.2; Neh 12.1; Zech 4.6–10), the grandson of Jehoiachin (2 Kings 24.8–17; 1 Chr 3.16–19), and thus a descendant of David. , Zech 3.1–10; 6.11 (= Jeshua in Ezra 2–5). Addressing the two together suggests that Yehud was led by both political and religious leaders, cf. Zech 4.10b–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-hag-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Thus says the Lord of hosts: These people say the time has not yet come to rebuild the Lord's house."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-3",
+      "type": "commentary",
+      "text": "2 : For reasons unknown, the community has resisted rebuilding the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hag-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then the word of the Lord came by the prophet Haggai, saying:"
+    },
+    {
+      "block_id": "oxford-hag-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Is it a time for you yourselves to live in your paneled houses, while this house lies in ruins?"
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Haggai charges the people not only with not building the Temple but also with living in lavish, i.e., , houses. (Solomon's palace was paneled with cedar, 1 Kings 7.7.) The issue of vv. 2,4) is important. Haggai's rhetorical question receives no direct answer, but the answer is obviously “no.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hag-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Now therefore thus says the Lord of hosts: Consider how you have fared."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-4",
+      "type": "commentary",
+      "text": "3–5 : Even though Zerubbabel and Joshua had been addressed previously, Haggai appears to speak directly to the community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , lit., “set to your hearts,” a recurring phrase (1.7; 2.15,18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hag-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You have sown much, and harvested little; you eat, but you never have enough; you drink, but you never have your fill; you clothe yourselves, but no one is warm; and you that earn wages earn wages to put them into a bag with holes."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-7",
+      "type": "commentary",
+      "text": "6 : Haggai analyzes the status quo, using imagery drawn from futility curses; cf. Deut 28.38; Hos 4.10. Such misfortune stands in marked contrast with the luxurious houses in which the people live.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hag-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Thus says the Lord of hosts: Consider how you have fared."
+    },
+    {
+      "block_id": "oxford-hag-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Go up to the hills and bring wood and build the house, so that I may take pleasure in it and be honored, says the Lord."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-9",
+      "type": "commentary",
+      "text": "8 : Haggai's central admonition: build the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hag-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You have looked for much, and, lo, it came to little; and when you brought it home, I blew it away. Why? says the Lord of hosts. Because my house lies in ruins, while all of you hurry off to your own houses."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-11",
+      "type": "commentary",
+      "text": "9 : The prophet returns to the language of futility curses, though now explicitly identifying the as the one who has caused such futility.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hag-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Therefore the heavens above you have withheld the dew, and the earth has withheld its produce."
+    },
+    {
+      "block_id": "oxford-hag-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And I have called for a drought on the land and the hills, on the grain, the new wine, the oil, on what the soil produces, on human beings and animals, and on all their labors."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–11: Haggai indicts the people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-8",
+      "type": "commentary",
+      "text": "7–11",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-10",
+      "type": "commentary",
+      "text": "9–11 : These verses are built around a wordplay: as long as the Temple is in (Heb “ḥareb”), the people will suffer drought (“ḥoreb”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hag-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then Zerubbabel son of Shealtiel, and Joshua son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of the prophet Haggai, as the Lord their God had sent him; and the people feared the Lord."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-13",
+      "type": "commentary",
+      "text": "12 : suggests that Zerubbabel and Joshua had moved the people to obey. is ambiguous, perhaps referring to a group smaller than the preexilic population, or perhaps specifying those who had returned from exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hag-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then Haggai, the messenger of the Lord, spoke to the people with the Lord's message, saying, I am with you, says the Lord."
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , a logical though unusual label for a prophet; cf. 2 Chr 35.15–16. often occurs in oracles of salvation (e.g., Isa 41.10; 43.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hag-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And the Lord stirred up the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of the Lord of hosts, their God,"
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-15",
+      "type": "commentary",
+      "text": "14",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hag-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "on the twenty-fourth day of the month, in the sixth month. In the second year of King Darius,"
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-12",
+      "type": "commentary",
+      "text": "1.12–15a: The people respond. Unlike many earlier prophets, Haggai is successful in his admonitions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-16",
+      "type": "commentary",
+      "text": "15 : , see v. 1; the date seems out of place, since such dates elsewhere in the book occur at the beginning of an oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-17",
+      "type": "commentary",
+      "text": "1.15b–2.9: The Temple will be filled with splendor. Contrary to current experience, the promises that this Temple will be even more glorious than the earlier one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hag-1-h1kj-18",
+      "type": "commentary",
+      "text": "1.15b–2.1 : , Tishri (September-October); , when the community would have been celebrating the feast of booths (Lev 23.33–36,39–42).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    }
+  ]
+}

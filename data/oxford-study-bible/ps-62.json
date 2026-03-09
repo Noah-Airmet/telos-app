@@ -1,0 +1,157 @@
+{
+  "document_id": "ps-62",
+  "title": "Psalms 62",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-62-heading-psalm-63",
+      "type": "heading",
+      "text": "Psalm 63"
+    },
+    {
+      "block_id": "oxford-ps-62-1",
+      "type": "verse",
+      "number": 1,
+      "text": "For God alone my soul waits in silence; from him comes my salvation."
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 62: Trust in God the stronghold. A song of trust, recording the feelings of an individual beset by enemies. The psalm combines two kinds of statements: an exhortation to the self (vv. 1–2,5–7) and a rebuke to enemies (vv. 3–4). The inner dialogue shows the vulnerability of a believer caught in an unjust world. Refrains in vv. 1 and 5 help unify the poem and emphasize that the psalmist’s attitude differs totally from that of the evildoers",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-62-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He alone is my rock and my salvation, my fortress; I shall never be shaken."
+    },
+    {
+      "block_id": "oxford-ps-62-3",
+      "type": "verse",
+      "number": 3,
+      "text": "How long will you assail a person, will you batter your victim, all of you, as you would a leaning wall, a tottering fence?"
+    },
+    {
+      "block_id": "oxford-ps-62-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Their only plan is to bring down a person of prominence. They take pleasure in falsehood; they bless with their mouths, but inwardly they curse. Selah"
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-2",
+      "type": "commentary",
+      "text": "3–4 : Instead of speaking the enemies, the psalmist speaks (imaginatively) the enemies (as in Pss 2.10–11; 4.2; 75.4–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-3",
+      "type": "commentary",
+      "text": "4 : (also v. 8), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-62-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For God alone my soul waits in silence, for my hope is from him."
+    },
+    {
+      "block_id": "oxford-ps-62-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He alone is my rock and my salvation, my fortress; I shall not be shaken."
+    },
+    {
+      "block_id": "oxford-ps-62-7",
+      "type": "verse",
+      "number": 7,
+      "text": "On God rests my deliverance and my honor; my mighty rock, my refuge is in God."
+    },
+    {
+      "block_id": "oxford-ps-62-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Trust in him at all times, O people; pour out your heart before him; God is a refuge for us. Selah"
+    },
+    {
+      "block_id": "oxford-ps-62-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Those of low estate are but a breath, those of high estate are a delusion; in the balances they go up; they are together lighter than a breath."
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-5",
+      "type": "commentary",
+      "text": "9 : The good deeds of the evildoers are unsubstantial.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-62-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Put no confidence in extortion, and set no vain hopes on robbery; if riches increase, do not set your heart on them."
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-4",
+      "type": "commentary",
+      "text": "8–10 : Lest others be intimidated and cease trusting, the palmist shares the hard‐won conviction that nothing but God suffices.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-62-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Once God has spoken; twice have I heard this: that power belongs to God,"
+    },
+    {
+      "block_id": "oxford-ps-62-h1kj-6",
+      "type": "commentary",
+      "text": "11 : , numerical parallelism, where a number x is paralleled by x+1. This verse thus means that I heard the one thing that God spoke, .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 62
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-62-12",
+      "type": "verse",
+      "number": 12,
+      "text": "and steadfast love belongs to you, O Lord. For you repay to all according to their work."
+    }
+  ]
+}

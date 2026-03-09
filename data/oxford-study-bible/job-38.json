@@ -1,0 +1,571 @@
+{
+  "document_id": "job-38",
+  "title": "Job 38",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-38-heading-39",
+      "type": "heading",
+      "text": "39"
+    },
+    {
+      "block_id": "oxford-job-38-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then the Lord answered Job out of the whirlwind:"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-4",
+      "type": "commentary",
+      "text": "38.1 : , better “storm,” see 37.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-job-38-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Who is this that darkens counsel by words without knowledge?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , or rather “the plan,” the set of divine principles according to which the creation is run. Job , or “obscures,” them by focusing on his quest for justice, which is not included in the divine plan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-job-38-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Gird up your loins like a man, I will question you, and you shall declare to me."
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , as a warrior does in preparation for combat. Job had better understand that summoning God to trial will not lead to a calm, rational, orderly legal process.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-job-38-4",
+      "type": "verse",
+      "number": 4,
+      "text": "“Where were you when I laid the foundation of the earth? Tell me, if you have understanding."
+    },
+    {
+      "block_id": "oxford-job-38-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Who determined its measurements— surely you know! Or who stretched the line upon it?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-9",
+      "type": "commentary",
+      "text": "5 : , the measuring line for its foundations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-job-38-6",
+      "type": "verse",
+      "number": 6,
+      "text": "On what were its bases sunk, or who laid its cornerstone"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-10",
+      "type": "commentary",
+      "text": "6 : should properly be “capstone,” the last and topmost stone laid. Sinking the bases and laying the capstone mark the beginning and end of the work.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-job-38-7",
+      "type": "verse",
+      "number": 7,
+      "text": "when the morning stars sang together and all the heavenly beings shouted for joy?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-8",
+      "type": "commentary",
+      "text": "4–7 : Creation is conceived as the erection of a building. For the creator as architect, see Prov 8.27–30. The earth was built on foundations (vv. 4–6; see Pss 78.69; 102.25; 104.5; Isa 48.13), and strict limits were set for the primeval waters of chaos (vv. 8–11; 26.10; Pss 104.9; 148.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-11",
+      "type": "commentary",
+      "text": "7 : The are regarded as .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-job-38-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“Or who shut in the sea with doors when it burst out from the womb?—"
+    },
+    {
+      "block_id": "oxford-job-38-9",
+      "type": "verse",
+      "number": 9,
+      "text": "when I made the clouds its garment, and thick darkness its swaddling band,"
+    },
+    {
+      "block_id": "oxford-job-38-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and prescribed bounds for it, and set bars and doors,"
+    },
+    {
+      "block_id": "oxford-job-38-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and said, ‘Thus far shall you come, and no farther, and here shall your proud waves be stopped’?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-12",
+      "type": "commentary",
+      "text": "8–11 : The separation of sea and land at creation. There is allusion to the ancient myth of a primordial divine struggle with the sea (cf. 7.12; 9.13), although the imagery uncharacteristically treats the sea as a newborn baby.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 8,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-job-38-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“Have you commanded the morning since your days began, and caused the dawn to know its place,"
+    },
+    {
+      "block_id": "oxford-job-38-13",
+      "type": "verse",
+      "number": 13,
+      "text": "so that it might take hold of the skirts of the earth, and the wicked be shaken out of it?"
+    },
+    {
+      "block_id": "oxford-job-38-14",
+      "type": "verse",
+      "number": 14,
+      "text": "It is changed like clay under the seal, and it is dyed like a garment."
+    },
+    {
+      "block_id": "oxford-job-38-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Light is withheld from the wicked, and their uplifted arm is broken."
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-13",
+      "type": "commentary",
+      "text": "12–15 : The daily renewal of creation as each day is created afresh. As in 24.13–17, it is assumed that the wicked prefer the cover of darkness for their activities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 12,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-job-38-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“Have you entered into the springs of the sea, or walked in the recesses of the deep?"
+    },
+    {
+      "block_id": "oxford-job-38-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Have the gates of death been revealed to you, or have you seen the gates of deep darkness?"
+    },
+    {
+      "block_id": "oxford-job-38-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Have you comprehended the expanse of the earth? Declare, if you know all this."
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-14",
+      "type": "commentary",
+      "text": "16–18 : The extent of the world, together with the underworld, being regarded as a city with .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 16,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-job-38-19",
+      "type": "verse",
+      "number": 19,
+      "text": "“Where is the way to the dwelling of light, and where is the place of darkness,"
+    },
+    {
+      "block_id": "oxford-job-38-20",
+      "type": "verse",
+      "number": 20,
+      "text": "that you may take it to its territory and that you may discern the paths to its home?"
+    },
+    {
+      "block_id": "oxford-job-38-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Surely you know, for you were born then, and the number of your days is great!"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-15",
+      "type": "commentary",
+      "text": "19–21 : and are thought of as dwelling in the same home, using it each day in turns.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-job-38-22",
+      "type": "verse",
+      "number": 22,
+      "text": "“Have you entered the storehouses of the snow, or have you seen the storehouses of the hail,"
+    },
+    {
+      "block_id": "oxford-job-38-23",
+      "type": "verse",
+      "number": 23,
+      "text": "which I have reserved for the time of trouble, for the day of battle and war?"
+    },
+    {
+      "block_id": "oxford-job-38-24",
+      "type": "verse",
+      "number": 24,
+      "text": "What is the way to the place where the light is distributed, or where the east wind is scattered upon the earth?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-16",
+      "type": "commentary",
+      "text": "22–24 : , and heat are kept in heavenly storehouses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 22,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-17",
+      "type": "commentary",
+      "text": "24 : It is probably “heat,” rather than that is distributed over the earth, often by the hot, violent or sirocco.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-job-38-25",
+      "type": "verse",
+      "number": 25,
+      "text": "“Who has cut a channel for the torrents of rain, and a way for the thunderbolt,"
+    },
+    {
+      "block_id": "oxford-job-38-26",
+      "type": "verse",
+      "number": 26,
+      "text": "to bring rain on a land where no one lives, on the desert, which is empty of human life,"
+    },
+    {
+      "block_id": "oxford-job-38-27",
+      "type": "verse",
+      "number": 27,
+      "text": "to satisfy the waste and desolate land, and to make the ground put forth grass?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-18",
+      "type": "commentary",
+      "text": "25–27 : Rainstorms travel via an unseen channel through the air from the clouds to the earth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 25,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-job-38-28",
+      "type": "verse",
+      "number": 28,
+      "text": "“Has the rain a father, or who has begotten the drops of dew?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-20",
+      "type": "commentary",
+      "text": "28 : No, it has no mythological ancestry, it is not supernatural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-job-38-29",
+      "type": "verse",
+      "number": 29,
+      "text": "From whose womb did the ice come forth, and who has given birth to the hoarfrost of heaven?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-21",
+      "type": "commentary",
+      "text": "29 : is properly “rime” formed when water droplets in fog freeze, as on trees, as distinct from formed when water vapor settles, as on the ground.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-job-38-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The waters become hard like stone, and the face of the deep is frozen."
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-19",
+      "type": "commentary",
+      "text": "28–30 : are more placid forms of moisture than torrents (v. 25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 28,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-job-38-31",
+      "type": "verse",
+      "number": 31,
+      "text": "“Can you bind the chains of the Pleiades, or loose the cords of Orion?"
+    },
+    {
+      "block_id": "oxford-job-38-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Can you lead forth the Mazzaroth in their season, or can you guide the Bear with its children?"
+    },
+    {
+      "block_id": "oxford-job-38-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Do you know the ordinances of the heavens? Can you establish their rule on the earth?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-22",
+      "type": "commentary",
+      "text": "31–33 : The four constellations, the , , (perhaps the Hyades), and the (or better, Aldebaran), were all regarded as bringers of rain; see 9.9n. and would be interfering with their rain‐making.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 31,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-job-38-34",
+      "type": "verse",
+      "number": 34,
+      "text": "“Can you lift up your voice to the clouds, so that a flood of waters may cover you?"
+    },
+    {
+      "block_id": "oxford-job-38-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Can you send forth lightnings, so that they may go and say to you, ‘Here we are’?"
+    },
+    {
+      "block_id": "oxford-job-38-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Who has put wisdom in the inward parts, or given understanding to the mind?a"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-24",
+      "type": "commentary",
+      "text": "36 : The verse should be translated: “Who gave the ibis its wisdom or endowed the rooster with its intelligence?” Both birds were regarded as foretellers of rain, which is depicted as stored in great jars (v. 37; not ) in the clouds.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-job-38-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Who has the wisdom to number the clouds? Or who can tilt the waterskins of the heavens,"
+    },
+    {
+      "block_id": "oxford-job-38-38",
+      "type": "verse",
+      "number": 38,
+      "text": "when the dust runs into a mass and the clods cling together?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-7",
+      "type": "commentary",
+      "text": "4–38 : In ten strophes, the sketches his design, or plan, for the universe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 4,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-23",
+      "type": "commentary",
+      "text": "34–38 : The clouds and lightning do not fall of their own accord, but in obedience to their master’s voice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 34,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-job-38-39",
+      "type": "verse",
+      "number": 39,
+      "text": "“Can you hunt the prey for the lion, or satisfy the appetite of the young lions,"
+    },
+    {
+      "block_id": "oxford-job-38-40",
+      "type": "verse",
+      "number": 40,
+      "text": "when they crouch in their dens, or lie in wait in their covert?"
+    },
+    {
+      "block_id": "oxford-job-38-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Who provides for the raven its prey, when its young ones cry to God, and wander about for lack of food?"
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 1,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-2",
+      "type": "commentary",
+      "text": "38.1–42.6: The Lord’s speeches and Job’s responses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 1,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-3",
+      "type": "commentary",
+      "text": "38.1–40.2: The Lord’s first speech. Between the proem in 38.2–3 and the peroration in 40.1–2, the speech is divided into two almost equal halves: 38.4–38 concerning the physical universe, and 38.39–39.30 concerning the world of animals. The divine speeches are notable for their silence over Job’s complaint of injustice, as if God means to say that administering justice is not part of his cosmic plan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 1,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-25",
+      "type": "commentary",
+      "text": "38.39–39.30 : In seven strophes, nine animals are depicted. They are all undomesticated animals, which live independently of humans.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 39,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-job-38-h1kj-26",
+      "type": "commentary",
+      "text": "38.39–41 : The lion and the raven—one huge, the other small—both need to hunt to feed their young.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 38
+      },
+      "verse_start": 39,
+      "verse_end": 41
+    }
+  ]
+}

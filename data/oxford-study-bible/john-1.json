@@ -1,0 +1,673 @@
+{
+  "document_id": "john-1",
+  "title": "John 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-john-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-john-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He was in the beginning with God."
+    },
+    {
+      "block_id": "oxford-john-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "All things came into being through him, and without him not one thing came into being. What has come into being"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-5",
+      "type": "commentary",
+      "text": "3 : … , poetic expression of the relationship between the divine and God. It anticipates language of unity with distinction that will describe the relationship between the Father and the Son in the Gospel (5.19,30; 10.30; 14.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-john-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "in him was life, and the life was the light of all people."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-4",
+      "type": "commentary",
+      "text": "2–4 : The Gk pronouns translated and could also be rendered , referring to the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-john-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The light shines in the darkness, and the darkness did not overcome it."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-6",
+      "type": "commentary",
+      "text": "4–5 : and point forward to Jesus's self-definition in the Gospel (8.18; 11.25). In Genesis, the light shined in the primordial darkness. Here the language suggests a combative struggle between light and dark forces, where light prevails.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-john-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "There was a man sent from God, whose name was John."
+    },
+    {
+      "block_id": "oxford-john-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He came as a witness to testify to the light, so that all might believe through him."
+    },
+    {
+      "block_id": "oxford-john-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He himself was not the light, but he came to testify to the light."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-7",
+      "type": "commentary",
+      "text": "6–8 : Introduction of John, who is not referred to as “the Baptist” in this Gospel. His role is to witness to Jesus (see 1.35–36). Here and elsewhere in the Gospel, the insistence that John is not the Messiah suggests a historic rivalry between followers of John and Jesus (see 1.20,30; 3.22–30; 4.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-john-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The true light, which enlightens everyone, was coming into the world."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , cf. Wis 7.26,29. “True” suggests an authentic identity that surpasses earlier expressions of Wisdom (see also 6.32; 15.1). , perhaps alluding to Isa 49.6, but in any case suggesting that the gift of light is available for all.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-john-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He was in the world, and the world came into being through him; yet the world did not know him."
+    },
+    {
+      "block_id": "oxford-john-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He came to what was his own, and his own people did not accept him."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-9",
+      "type": "commentary",
+      "text": "10–11 : Both and either did not recognize or rejected the light. may be all of humanity or the Jewish people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-john-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But to all who received him, who believed in his name, he gave power to become children of God,"
+    },
+    {
+      "block_id": "oxford-john-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "who were born, not of blood or of the will of the flesh or of the will of man, but of God."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-10",
+      "type": "commentary",
+      "text": "12–13 : The prior statement is immediately qualified. There are some who accepted, believed and were given the opportunity for relationship with God, which was not dependent on human birth or particular bloodlines.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-john-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father's only son, full of grace and truth."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-11",
+      "type": "commentary",
+      "text": "14 : , lit., “pitched a tent,” like God's Wisdom (Sir 24.8), or God's presence in the desert tabernacle (Ex 40.34). In the wilderness only Moses was permitted to see God's , at which point God announces his grace and mercy (Ex 33.18–19). Jesus conveys the glory of God, along with God's grace and truth. and will be major themes in the Gospel (3.5–7; 6.51–58,63; 13.31–32; 17.1–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-john-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "(John testified to him and cried out, “This was he of whom I said, ‘He who comes after me ranks ahead of me because he was before me.’”)"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-12",
+      "type": "commentary",
+      "text": "15 : Concerns about John's priority over Jesus are answered by John (see 1.6–8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-john-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "From his fullness we have all received, grace upon grace."
+    },
+    {
+      "block_id": "oxford-john-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The law indeed was given through Moses; grace and truth came through Jesus Christ."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-13",
+      "type": "commentary",
+      "text": "17 : Recognition of Moses's role as lawgiver, alongside the place of Jesus as the revealer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-john-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "No one has ever seen God. It is God the only Son, who is close to the Father's heart, who has made him known."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–18: The prologue introduces the major themes of the Gospel: the identity of Jesus as an eternal and preexistent divine agent sent into the world by God, his rejection by many of his own people, and his acceptance by some, who thereby can become children of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-14",
+      "type": "commentary",
+      "text": "18 : (lit., “toward the breast”), connoting Jesus's intimate and abiding relationship with God; cf. 13.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-john-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "This is the testimony given by John when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-16",
+      "type": "commentary",
+      "text": "19 : , all three designations represent religious authorities affiliated with the Jerusalem Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-john-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He confessed and did not deny it, but confessed, “I am not the Messiah.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-17",
+      "type": "commentary",
+      "text": "20 : A negative “confession” that addresses confusion over potentially competing movements (see 1.6–8n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-john-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "And they asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” He answered, “No.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-18",
+      "type": "commentary",
+      "text": "21 : Reflects a tradition about Elijah's return before the day of judgment (2 Kings 2.11; Mal 4.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-john-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then they said to him, “Who are you? Let us have an answer for those who sent us. What do you say about yourself?”"
+    },
+    {
+      "block_id": "oxford-john-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way of the Lord,’” as the prophet Isaiah said."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-19",
+      "type": "commentary",
+      "text": "23 : Reinterpretation of Isa 40.3 to refer to the coming Messiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-john-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Now they had been sent from the Pharisees."
+    },
+    {
+      "block_id": "oxford-john-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "They asked him, “Why then are you baptizing if you are neither the Messiah,a nor Elijah, nor the prophet?”"
+    },
+    {
+      "block_id": "oxford-john-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "John answered them, “I baptize with water. Among you stands one whom you do not know,"
+    },
+    {
+      "block_id": "oxford-john-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "the one who is coming after me; I am not worthy to untie the thong of his sandal.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-20",
+      "type": "commentary",
+      "text": "27 : , typically a slave's duty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-john-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "This took place in Bethany across the Jordan where John was baptizing."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-21",
+      "type": "commentary",
+      "text": "28 : , uncertain location, but different from the Bethany in Judea (11.1,18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-john-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The next day he saw Jesus coming toward him and declared, “Here is the Lamb of God who takes away the sin of the world!"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-22",
+      "type": "commentary",
+      "text": "29 : alludes to the Passover lamb, a symbol of liberation and God's saving acts (Ex 12; cf. Jn 19.36n.). Here the designation is the first of a list of titles and descriptions applied to Jesus in this opening chapter (1.36,38,41,49,51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-23",
+      "type": "commentary",
+      "text": "29 : , alludes to Jesus as the incarnate preexistent Word described in the prologue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-john-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "This is he of whom I said, ‘After me comes a man who ranks ahead of me because he was before me.’"
+    },
+    {
+      "block_id": "oxford-john-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "I myself did not know him; but I came baptizing with water for this reason, that he might be revealed to Israel.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-24",
+      "type": "commentary",
+      "text": "31 : In the Synoptic Gospels, John baptizes for the forgiveness of sins (Mt 3.6; Mk 1.4; Lk 3.3). Here, it is for the revelation of Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-john-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And John testified, “I saw the Spirit descending from heaven like a dove, and it remained on him."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-25",
+      "type": "commentary",
+      "text": "32 : The actual baptism of Jesus is not described.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-john-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "I myself did not know him, but the one who sent me to baptize with water said to me, ‘He on whom you see the Spirit descend and remain is the one who baptizes with the Holy Spirit.’"
+    },
+    {
+      "block_id": "oxford-john-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "And I myself have seen and have testified that this is the Son of God.”"
+    },
+    {
+      "block_id": "oxford-john-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The next day John again was standing with two of his disciples,"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-15",
+      "type": "commentary",
+      "text": "1.19–35: John's witness of Jesus and the gathering of disciples. On John, cf. Mt 3.1–17; Mk 1.2–11; Lk 3.1–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-john-1-36",
+      "type": "verse",
+      "number": 36,
+      "text": "and as he watched Jesus walk by, he exclaimed, “Look, here is the Lamb of God!”"
+    },
+    {
+      "block_id": "oxford-john-1-37",
+      "type": "verse",
+      "number": 37,
+      "text": "The two disciples heard him say this, and they followed Jesus."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-26",
+      "type": "commentary",
+      "text": "35–37 : , see 1.29n. Only in this Gospel do Jesus's first two disciples come from among John's followers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 35,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-john-1-38",
+      "type": "verse",
+      "number": 38,
+      "text": "When Jesus turned and saw them following, he said to them, “What are you looking for?” They said to him, “Rabbi” (which translated means Teacher), “where are you staying?”"
+    },
+    {
+      "block_id": "oxford-john-1-39",
+      "type": "verse",
+      "number": 39,
+      "text": "He said to them, “Come and see.” They came and saw where he was staying, and they remained with him that day. It was about four o’clock in the afternoon."
+    },
+    {
+      "block_id": "oxford-john-1-40",
+      "type": "verse",
+      "number": 40,
+      "text": "One of the two who heard John speak and followed him was Andrew, Simon Peter's brother."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-27",
+      "type": "commentary",
+      "text": "40 : One of the two unnamed disciples with John is now identified, but the other remains anonymous. Perhaps this is the first glimpse in the narrative of the disciple whom Jesus loved (see 13.23; 19.26; 20.2; 21.7,20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-john-1-41",
+      "type": "verse",
+      "number": 41,
+      "text": "He first found his brother Simon and said to him, “We have found the Messiah” (which is translated Anointed)."
+    },
+    {
+      "block_id": "oxford-john-1-42",
+      "type": "verse",
+      "number": 42,
+      "text": "He brought Simon to Jesus, who looked at him and said, “You are Simon son of John. You are to be called Cephas” (which is translated Peter)."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-28",
+      "type": "commentary",
+      "text": "42 : , see note .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-john-1-43",
+      "type": "verse",
+      "number": 43,
+      "text": "The next day Jesus decided to go to Galilee. He found Philip and said to him, “Follow me.”"
+    },
+    {
+      "block_id": "oxford-john-1-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Now Philip was from Bethsaida, the city of Andrew and Peter."
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-29",
+      "type": "commentary",
+      "text": "44 : , a city on the northeastern shore of the Sea of Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-john-1-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Philip found Nathanael and said to him, “We have found him about whom Moses in the law and also the prophets wrote, Jesus son of Joseph from Nazareth.”"
+    },
+    {
+      "block_id": "oxford-john-1-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Nathanael said to him, “Can anything good come out of Nazareth?” Philip said to him, “Come and see.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-30",
+      "type": "commentary",
+      "text": "45–46 : Witnessing to others about Jesus establishes a pattern for the rest of the narrative (4.29; 20.18). This Gospel does not have a birth story, but the tradition of Jesus's parentage is familiar to the audience; see 6.42. , a small village in southern Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 45,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-john-1-47",
+      "type": "verse",
+      "number": 47,
+      "text": "When Jesus saw Nathanael coming toward him, he said of him, “Here is truly an Israelite in whom there is no deceit!”"
+    },
+    {
+      "block_id": "oxford-john-1-48",
+      "type": "verse",
+      "number": 48,
+      "text": "Nathanael asked him, “Where did you get to know me?” Jesus answered, “I saw you under the fig tree before Philip called you.”"
+    },
+    {
+      "block_id": "oxford-john-1-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Nathanael replied, “Rabbi, you are the Son of God! You are the King of Israel!”"
+    },
+    {
+      "block_id": "oxford-john-1-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Jesus answered, “Do you believe because I told you that I saw you under the fig tree? You will see greater things than these.”"
+    },
+    {
+      "block_id": "oxford-john-1-51",
+      "type": "verse",
+      "number": 51,
+      "text": "And he said to him, “Very truly, I tell you, you will see heaven opened and the angels of God ascending and descending upon the Son of Man.”"
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-1",
+      "type": "commentary",
+      "text": "1–12: Jesus in the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-john-1-h1kj-31",
+      "type": "commentary",
+      "text": "47–51 : Praise of Nathaniel as an Israelite with perhaps refers to Jacob (who was deceitful), given the allusion to Jacob's vision that follows (Gen 28.12). , after the series of titles attributed to Jesus, he refers to himself with this designation. While the phrase can simply mean a mortal as in Ezekiel (e.g., 2.1), here it connotes an eschatological figure sent by God (see Dan 7.13–14; Mk 13.26; 14.62 and par.; cf. . 71.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 1
+      },
+      "verse_start": 47,
+      "verse_end": 51
+    }
+  ]
+}

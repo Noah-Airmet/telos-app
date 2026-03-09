@@ -1,0 +1,151 @@
+{
+  "document_id": "ps-52",
+  "title": "Psalms 52",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-52-heading-psalm-53",
+      "type": "heading",
+      "text": "Psalm 53"
+    },
+    {
+      "block_id": "oxford-ps-52-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Why do you boast, O mighty one, of mischief done against the godly? All day long"
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 52: True confidence. A contrast between a self‐confident wicked warrior and a person who trusts God. The psalmist denounces the arrogant (vv. 1–4), confidently awaits God’s punishment of them (vv. 5–7), and concludes with a declaration of trust in God (vv. 8–9). It is similar to Ps 36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-3",
+      "type": "commentary",
+      "text": "1 : , sometimes applied to God, here it is ironically applied to the self‐important deceiver whose days are numbered.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-52-2",
+      "type": "verse",
+      "number": 2,
+      "text": "you are plotting destruction. Your tongue is like a sharp razor, you worker of treachery."
+    },
+    {
+      "block_id": "oxford-ps-52-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You love evil more than good, and lying more than speaking the truth. Selah"
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-4",
+      "type": "commentary",
+      "text": "3 : (also v. 5), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-52-4",
+      "type": "verse",
+      "number": 4,
+      "text": "You love all words that devour, O deceitful tongue."
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-2",
+      "type": "commentary",
+      "text": "1–4 : The psalm uses types, typical ways of behaving (e.g., the wicked plot against the good person), a style common in wisdom literature.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-52-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But God will break you down forever; he will snatch and tear you from your tent; he will uproot you from the land of the living. Selah"
+    },
+    {
+      "block_id": "oxford-ps-52-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The righteous will see, and fear, and will laugh at the evildoer, saying,"
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-6",
+      "type": "commentary",
+      "text": "6 : By effecting justice in the world, God encourages people to act justly. There is a pun on similar‐sounding Heb roots, “yrʾ”(“to fear”) and “rʾh” (“to see”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-52-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“See the one who would not take refuge in God, but trusted in abundant riches, and sought refuge in wealth!”"
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-5",
+      "type": "commentary",
+      "text": "5–7 : Justice must not only be done, it must be seen. The sinner will be excluded from the Temple, but the psalmist will be “like a green olive tree in the house of God” (v. 8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-52-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But I am like a green olive tree in the house of God. I trust in the steadfast love of God forever and ever."
+    },
+    {
+      "block_id": "oxford-ps-52-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , abruptly shifts attention to the psalmist who enjoys the protection of the Temple. Ancient temples often had gardens that symbolized the life‐giving capacity of the god worshiped there.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 52
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-52-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I will thank you forever, because of what you have done. In the presence of the faithful I will proclaim your name, for it is good."
+    }
+  ]
+}

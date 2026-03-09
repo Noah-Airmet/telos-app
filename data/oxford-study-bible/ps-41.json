@@ -1,0 +1,168 @@
+{
+  "document_id": "ps-41",
+  "title": "Psalms 41",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-41-heading-book-ii-psalms-42–72",
+      "type": "heading",
+      "text": "Book II Psalms 42–72"
+    },
+    {
+      "block_id": "oxford-ps-41-heading-psalm-42",
+      "type": "heading",
+      "text": "Psalm 42"
+    },
+    {
+      "block_id": "oxford-ps-41-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Happy are those who consider the poor; the Lord delivers them in the day of trouble."
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 41: Thanksgiving for rescue. A thanksgiving in which the psalmist in vv. 4–10 cites an earlier prayer uttered in pain as a kind of verbal votive offering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-2",
+      "type": "commentary",
+      "text": "1 : (i.e., those who are attentive to the poor) is the psalmist’s conclusion after a profound deliverance (like Ps 32.1). Those who help the needy are themselves helped in their need.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-41-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord protects them and keeps them alive; they are called happy in the land. You do not give them up to the will of their enemies."
+    },
+    {
+      "block_id": "oxford-ps-41-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The Lord sustains them on their sickbed; in their illness you heal all their infirmities."
+    },
+    {
+      "block_id": "oxford-ps-41-4",
+      "type": "verse",
+      "number": 4,
+      "text": "As for me, I said, “O Lord, be gracious to me; heal me, for I have sinned against you.”"
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-4",
+      "type": "commentary",
+      "text": "4 : The psalmist believes that past sin was the cause of illness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-41-5",
+      "type": "verse",
+      "number": 5,
+      "text": "My enemies wonder in malice when I will die, and my name perish."
+    },
+    {
+      "block_id": "oxford-ps-41-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And when they come to see me, they utter empty words, while their hearts gather mischief; when they go out, they tell it abroad."
+    },
+    {
+      "block_id": "oxford-ps-41-7",
+      "type": "verse",
+      "number": 7,
+      "text": "All who hate me whisper together about me; they imagine the worst for me."
+    },
+    {
+      "block_id": "oxford-ps-41-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They think that a deadly thing has fastened on me, that I will not rise again from where I lie."
+    },
+    {
+      "block_id": "oxford-ps-41-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Even my bosom friend in whom I trusted, who ate of my bread, has lifted the heel against me."
+    },
+    {
+      "block_id": "oxford-ps-41-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But you, O Lord, be gracious to me, and raise me up, that I may repay them."
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-3",
+      "type": "commentary",
+      "text": "4–10 : The psalmist’s earlier prayer shows fear of enemies who wanted the psalmist to die and leave behind no name, i.e., no children to carry on the family.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 4,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-5",
+      "type": "commentary",
+      "text": "10 : To be raised from the sickbed constitutes a demonstration of the psalmist’s innocence to the enemies who wish the psalmist dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-41-11",
+      "type": "verse",
+      "number": 11,
+      "text": "By this I know that you are pleased with me; because my enemy has not triumphed over me."
+    },
+    {
+      "block_id": "oxford-ps-41-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But you have upheld me because of my integrity, and set me in your presence forever."
+    },
+    {
+      "block_id": "oxford-ps-41-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Blessed be the Lord, the God of Israel, from everlasting to everlasting. Amen and Amen."
+    },
+    {
+      "block_id": "oxford-ps-41-h1kj-6",
+      "type": "commentary",
+      "text": "13 : Not a part of the psalm, but a doxology or blessing concluding Book I, the first of five editorial divisions of the Psalter; see also Pss 72.18–19; 89.52; 106.48; 150.1–6. The great majority of the previous psalms were ascribed to David; the following nine are not.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 41
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    }
+  ]
+}

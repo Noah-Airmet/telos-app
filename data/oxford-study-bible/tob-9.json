@@ -1,0 +1,91 @@
+{
+  "document_id": "tob-9",
+  "title": "Tobit 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-tob-9-heading-10",
+      "type": "heading",
+      "text": "10"
+    },
+    {
+      "block_id": "oxford-tob-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Brother Azariah, take four servants and two camels with you and travel to Rages. Go to the home of Gabael, give him the bond, get the money, and then bring him with you to the wedding celebration."
+    },
+    {
+      "block_id": "oxford-tob-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You are witness to the oath Raguel has sworn, and I cannot violate his oath.”"
+    },
+    {
+      "block_id": "oxford-tob-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For you know that my father must be counting the days, and if I delay even one day I will upset him very much."
+    },
+    {
+      "block_id": "oxford-tob-9-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , as demonstrated in 10.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-tob-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So Raphael with the four servants and two camels went to Rages in Media and stayed with Gabael. Raphael gave him the bond and informed him that Tobit's son Tobias had married and was inviting him to the wedding celebration. So Gabael got up and counted out to him the money bags, with their seals intact; then they loaded them on the camels."
+    },
+    {
+      "block_id": "oxford-tob-9-h1kj-4",
+      "type": "commentary",
+      "text": "5 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 9
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-tob-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In the morning they both got up early and went to the wedding celebration. When they came into Raguel's house they found Tobias reclining at table. He sprang up and greeted Gabael, who wept and blessed him with the words, “Good and noble son of a father good and noble, upright and generous! May the Lord grant the blessing of heaven to you and your wife, and to your wife's father and mother. Blessed be God, for I see in Tobias the very image of my cousin Tobit.”"
+    },
+    {
+      "block_id": "oxford-tob-9-h1kj-1",
+      "type": "commentary",
+      "text": "8.19–9.6: The wedding celebrated and tasks fulfilled.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-tob-9-h1kj-5",
+      "type": "commentary",
+      "text": "6 : Gabael's blessing indicates that the two families are regarded as one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 9
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    }
+  ]
+}

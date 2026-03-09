@@ -1,0 +1,272 @@
+{
+  "document_id": "ex-20",
+  "title": "Exodus 20",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-20-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then God spoke all these words:"
+    },
+    {
+      "block_id": "oxford-ex-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery;"
+    },
+    {
+      "block_id": "oxford-ex-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "you shall have no other gods before me."
+    },
+    {
+      "block_id": "oxford-ex-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "You shall not make for yourself an idol, whether in the form of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth."
+    },
+    {
+      "block_id": "oxford-ex-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You shall not bow down to them or worship them; for I the Lord your God am a jealous God, punishing children for the iniquity of parents, to the third and the fourth generation of those who reject me,"
+    },
+    {
+      "block_id": "oxford-ex-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "but showing steadfast love to the thousandth generation of those who love me and keep my commandments."
+    },
+    {
+      "block_id": "oxford-ex-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You shall not make wrongful use of the name of the Lord your God, for the Lord will not acquit anyone who misuses his name."
+    },
+    {
+      "block_id": "oxford-ex-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Remember the sabbath day, and keep it holy."
+    },
+    {
+      "block_id": "oxford-ex-20-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Six days you shall labor and do all your work."
+    },
+    {
+      "block_id": "oxford-ex-20-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But the seventh day is a sabbath to the Lord your God; you shall not do any work—you, your son or your daughter, your male or female slave, your livestock, or the alien resident in your towns."
+    },
+    {
+      "block_id": "oxford-ex-20-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For in six days the Lord made heaven and earth, the sea, and all that is in them, but rested the seventh day; therefore the Lord blessed the sabbath day and consecrated it."
+    },
+    {
+      "block_id": "oxford-ex-20-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Honor your father and your mother, so that your days may be long in the land that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-ex-20-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You shall not murder."
+    },
+    {
+      "block_id": "oxford-ex-20-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You shall not commit adultery."
+    },
+    {
+      "block_id": "oxford-ex-20-15",
+      "type": "verse",
+      "number": 15,
+      "text": "You shall not steal."
+    },
+    {
+      "block_id": "oxford-ex-20-16",
+      "type": "verse",
+      "number": 16,
+      "text": "You shall not bear false witness against your neighbor."
+    },
+    {
+      "block_id": "oxford-ex-20-17",
+      "type": "verse",
+      "number": 17,
+      "text": "You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or male or female slave, or ox, or donkey, or anything that belongs to your neighbor."
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-3",
+      "type": "commentary",
+      "text": "20.1–17: Decalogue (also Deut 5.6–21). These “Ten Commandments,” also found with some variations in Deuteronomy 5, are not numbered or titled here but are later called “ten words,” that is, “ten sayings” or “ten matters” in 34.28; Deut 4.13; 10.4 (see 18.26n.; 35.1n.). Set forth in apodictic (absolute) form, they are not universal laws nor a concise summary of biblical law. Rather, they are unconditional community precepts, both injunctions and prohibitions, rather than laws, which typically have punishments. Unlike any other ancient Near Eastern materials, the Decalogue creates moral standards for a society; obedience is to be a function of divine authority, not fear of punishment. Containing more than ten statements, and not numbered in the Bible, they are counted in diverse ways.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ex-20-18",
+      "type": "verse",
+      "number": 18,
+      "text": "When all the people witnessed the thunder and lightning, the sound of the trumpet, and the mountain smoking, they were afraid and trembled and stood at a distance,"
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-5",
+      "type": "commentary",
+      "text": "18 : , see 19.16–19n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ex-20-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and said to Moses, “You speak to us, and we will listen; but do not let God speak to us, or we will die.”"
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-6",
+      "type": "commentary",
+      "text": "19 : , see 19.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-20-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Moses said to the people, “Do not be afraid; for God has come only to test you and to put the fear of him upon you so that you do not sin.”"
+    },
+    {
+      "block_id": "oxford-ex-20-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then the people stood at a distance, while Moses drew near to the thick darkness where God was."
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-4",
+      "type": "commentary",
+      "text": "20.18–21: The Sinai account resumes, with the people insisting that Moses transmit God’s word.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 18,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ex-20-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The Lord said to Moses: Thus you shall say to the Israelites: “You have seen for yourselves that I spoke with you from heaven."
+    },
+    {
+      "block_id": "oxford-ex-20-23",
+      "type": "verse",
+      "number": 23,
+      "text": "You shall not make gods of silver alongside me, nor shall you make for yourselves gods of gold."
+    },
+    {
+      "block_id": "oxford-ex-20-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You need make for me only an altar of earth and sacrifice on it your burnt offerings and your offerings of well‐being, your sheep and your oxen; in every place where I cause my name to be remembered I will come to you and bless you."
+    },
+    {
+      "block_id": "oxford-ex-20-25",
+      "type": "verse",
+      "number": 25,
+      "text": "But if you make for me an altar of stone, do not build it of hewn stones; for if you use a chisel upon it you profane it."
+    },
+    {
+      "block_id": "oxford-ex-20-26",
+      "type": "verse",
+      "number": 26,
+      "text": "You shall not go up by steps to my altar, so that your nakedness may not be exposed on it.”"
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-1",
+      "type": "commentary",
+      "text": "15.22–24.18. Sinai and covenant. Facing recurrent difficulties, the Israelites cross the wilderness to Sinai (15.22–18.27) where they experience a theophany (ch 19) and enter into the covenant (chs 20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-2",
+      "type": "commentary",
+      "text": "20.1–24.18: Covenant. The stipulations of the covenant—Decalogue (20.1–17) and covenant rules (20.22–23.19)—are interspersed with additional Sinai narratives (20.18–21; 23.20–24.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-7",
+      "type": "commentary",
+      "text": "20.22–23.33: Community regulations. This collection of legal materials, called “book of the covenant” [Heb “sefer ha‐berit”] (24.7) or “Covenant Code” or “Covenant Collection,” has affinities of form and content with other ancient law legal traditions. A discrete scribal collection, with laws—especially agricultural ones and those mentioning houses—inapplicable to a wilderness setting, it was likely incorporated into the Sinai narrative to afford it divine authority. The oldest of the legal materials in the Pentateuch, many of its stipulations probably arose in premonarchic village settings. Introductory instructions (20.22–26) and a concluding narrative (23.20–33) frame a two‐part enumeration of legal materials. The first part (21.1–22.17) consists mainly of casuistic materials (case laws with attached punishments). The second part (22.18–23.19) comprises ethical or religious norms and exhortations typically expressed in apodictic or absolute form. These two parts may reflect the merging of ancient customary regulations with covenant‐oriented materials.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 22,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-8",
+      "type": "commentary",
+      "text": "20.22–26: Introductory instructions in the second‐person plural. The forbidden statues (see 20.4–5) made of costly and are contrasted with simple, low sacrificial altars of or unhewn . Sacrifice can take place wherever people invoke God’s (presence); contrast 27.1–8 and the single “place” for sacrifice in Deuteronomy (Deut 12.5–14; etc.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 22,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ex-20-h1kj-9",
+      "type": "commentary",
+      "text": "26 : , perhaps because undergarments were not normally worn; contrast 28.42.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 20
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    }
+  ]
+}

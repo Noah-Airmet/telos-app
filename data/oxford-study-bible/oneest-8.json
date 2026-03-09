@@ -1,0 +1,229 @@
+{
+  "document_id": "oneest-8",
+  "title": "oneest 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-oneest-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-oneest-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The king took the ring that had been taken from Haman, and gave it to Mordecai; and Esther set Mordecai over everything that had been Haman's."
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-3",
+      "type": "commentary",
+      "text": "2 : Haman's position as grand vizier (3.10) becomes Mordecai's with the transfer of the king's signet (see v. 8; 3.10n.), another ironic inversion of the two figures.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-oneest-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then she spoke once again to the king and, falling at his feet, she asked him to avert all the evil that Haman had planned against the Jews."
+    },
+    {
+      "block_id": "oxford-oneest-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The king extended his golden scepter to Esther, and she rose and stood before the king."
+    },
+    {
+      "block_id": "oxford-oneest-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Esther said, “If it pleases you, and if I have found favor, let an order be sent rescinding the letters that Haman wrote and sent to destroy the Jews in your kingdom."
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , Esther diplomatically dissociates the king from the edict that condemned the Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-oneest-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "How can I look on the ruin of my people? How can I be safe if my ancestral nation is destroyed?”"
+    },
+    {
+      "block_id": "oxford-oneest-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The king said to Esther, “Now that I have granted all of Haman's property to you and have hanged him on a tree because he acted against the Jews, what else do you request?"
+    },
+    {
+      "block_id": "oxford-oneest-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Write in my name what you think best and seal it with my ring; for whatever is written at the king's command and sealed with my ring cannot be contravened.”"
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-5",
+      "type": "commentary",
+      "text": "8 : The king's earlier edict (1.19n.), but a new edict can neutralize the former's intent.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-oneest-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The secretaries were summoned on the twenty-third day of the first month, that is, Nisan, in the same year; and all that he commanded with respect to the Jews was given in writing to the administrators and governors of the provinces from India to Ethiopia, one hundred twenty-seven provinces, to each province in its own language."
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-6",
+      "type": "commentary",
+      "text": "9 : (March-April), Heb “third month … Sivan” (May-June). , see 1.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-oneest-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The edict was written with the king's authority and sealed with his ring, and sent out by couriers."
+    },
+    {
+      "block_id": "oxford-oneest-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He ordered the Jews in every city to observe their own laws, to defend themselves, and to act as they wished against their opponents and enemies"
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-7",
+      "type": "commentary",
+      "text": "11 : This explicit permission for the (see 3.8n.; 13.4–5), which is a distinctly religious concern, is lacking in the Heb.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-oneest-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "on a certain day, the thirteenth of the twelfth month, which is Adar, throughout all the kingdom of Artaxerxes. ADDITION E"
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-1",
+      "type": "commentary",
+      "text": "8.1–12: The king shows favor to Esther, Mordecai, and the Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-8",
+      "type": "commentary",
+      "text": "12 : The date of the intended extermination (3.7,13) becomes a day of triumph and validates the Purim festival (see 9.21). , February-March.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-oneest-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“Let copies of the decree be posted conspicuously in all the kingdom, and let all the Jews be ready on that day to fight against their enemies.”"
+    },
+    {
+      "block_id": "oxford-oneest-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So the messengers on horseback set out with all speed to perform what the king had commanded; and the decree was published also in Susa."
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-10",
+      "type": "commentary",
+      "text": "14 : See 3.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-oneest-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Mordecai went out dressed in the royal robe and wearing a gold crown and a turban of purple linen. The people in Susa rejoiced on seeing him."
+    },
+    {
+      "block_id": "oxford-oneest-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And the Jews had light and gladness"
+    },
+    {
+      "block_id": "oxford-oneest-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "in every city and province wherever the decree was published; wherever the proclamation was made, the Jews had joy and gladness, a banquet and a holiday. And many of the Gentiles were circumcised and became Jews out of fear of the Jews."
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-9",
+      "type": "commentary",
+      "text": "8.13–17: Dispatch of the king's decree.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 13,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-oneest-8-h1kj-11",
+      "type": "commentary",
+      "text": "17 : , the Gk here interprets literally the ambiguous wording of the Heb.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

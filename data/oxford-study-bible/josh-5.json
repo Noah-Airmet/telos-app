@@ -1,0 +1,314 @@
+{
+  "document_id": "josh-5",
+  "title": "Joshua 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-josh-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When all the kings of the Amorites beyond the Jordan to the west, and all the kings of the Canaanites by the sea, heard that the Lord had dried up the waters of the Jordan for the Israelites until they had crossed over, their hearts melted, and there was no longer any spirit in them, because of the Israelites."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-3",
+      "type": "commentary",
+      "text": "3.1–5.1: The crossing of the Jordan. The crossing of the Jordan is narrated in five units (3.1–17; 4.1–10; 4.11–14; 4.15–18; 4.19–5.1) that backtrack and overlap so that some events are recounted more than once. The use of anticipatory statements and resumptive repetitions provides a means of linking the units together (e.g., the anticipatory statement in 3.12 is tied to the resumptive repetition in 4.2). In this way a redactor has attempted to meld together different sources.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-4",
+      "type": "commentary",
+      "text": "4.19–5.1: The final unit emphasizes the instructional value of the memorial through comparison with the Red Sea crossing and contributes to the typology: Joshua parallels Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-5",
+      "type": "commentary",
+      "text": "5.1 : Resuming 2.9–11 and anticipating 9.1; 10.1; 11.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-josh-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "At that time the Lord said to Joshua, “Make flint knives and circumcise the Israelites a second time.”"
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-8",
+      "type": "commentary",
+      "text": "2 : Circumcision was a fairly common practice among some peoples of the ancient Near East (e.g., Egypt); it became a sign of Israel’s covenant with God (Gen 17.13). , probably a later addition to mitigate the failure (see v. 5) to observe the obligation of Gen 17.9–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-josh-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "So Joshua made flint knives, and circumcised the Israelites at Gibeath‐haaraloth."
+    },
+    {
+      "block_id": "oxford-josh-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "This is the reason why Joshua circumcised them: all the males of the people who came out of Egypt, all the warriors, had died during the journey through the wilderness after they had come out of Egypt."
+    },
+    {
+      "block_id": "oxford-josh-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Although all the people who came out had been circumcised, yet all the people born on the journey through the wilderness after they had come out of Egypt had not been circumcised."
+    },
+    {
+      "block_id": "oxford-josh-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For the Israelites traveled forty years in the wilderness, until all the nation, the warriors who came out of Egypt, perished, not having listened to the voice of the Lord. To them the Lord swore that he would not let them see the land that he had sworn to their ancestors to give us, a land flowing with milk and honey."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-9",
+      "type": "commentary",
+      "text": "6 : To , an unusual authorial inclusion. The formula (see Ex 3.8; Deut 6.3; etc.) anticipates the consumption of the land’s produce (vv. 10–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-josh-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So it was their children, whom he raised up in their place, that Joshua circumcised; for they were uncircumcised, because they had not been circumcised on the way."
+    },
+    {
+      "block_id": "oxford-josh-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When the circumcising of all the nation was done, they remained in their places in the camp until they were healed."
+    },
+    {
+      "block_id": "oxford-josh-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord said to Joshua, “Today I have rolled away from you the disgrace of Egypt.” And so that place is called Gilgal to this day."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-7",
+      "type": "commentary",
+      "text": "2–9 : The disobedience of the older generation (those of the first circumcision who came out of Egypt and died in the wilderness) is contrasted to the obedience of the new generation (those participating in this circumcision). Circumcision was required of all males who were to celebrate the passover (Ex 12.48).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-10",
+      "type": "commentary",
+      "text": "9 : This is a folk‐etymology of , “the circle” (see textual note ; 4.19n.). The precise nature of the is unclear; it may refer to Deut 9.28, demonstrating that the crossing and the circumcision are God’s graciousness toward Israel despite Israel’s lack of faithfulness in the wilderness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-josh-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "While the Israelites were camped in Gilgal they kept the passover in the evening on the fourteenth day of the month in the plains of Jericho."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-11",
+      "type": "commentary",
+      "text": "10 : The celebration of the passover reinforces the portrayal of Joshua as parallel to Moses (cf. Ex 12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "On the day after the passover, on that very day, they ate the produce of the land, unleavened cakes and parched grain."
+    },
+    {
+      "block_id": "oxford-josh-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The manna ceased on the day they ate the produce of the land, and the Israelites no longer had manna; they ate the crops of the land of Canaan that year."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–5.12 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-6",
+      "type": "commentary",
+      "text": "5.2–12: Final preparatory events at Gilgal. Three connected rituals are recounted: circumcision (vv. 2–9), passover (v. 10), and the first consumption of the produce of the land at Gilgal (vv. 11–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-12",
+      "type": "commentary",
+      "text": "11–12 : Land claims are usually presented as a matter of conquests (chs 6–12) and geographic lists (chs 13–21), but here they are set forth in terms of ritual events and diet. The change from manna to the produce of the land signifies Israel’s relocation from wilderness to land. and roasted are used in rituals connected to passover and first fruits (Lev 23.9–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-josh-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Once when Joshua was by Jericho, he looked up and saw a man standing before him with a drawn sword in his hand. Joshua went to him and said to him, “Are you one of us, or one of our adversaries?”"
+    },
+    {
+      "block_id": "oxford-josh-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He replied, “Neither; but as commander of the army of the Lord I have now come.” And Joshua fell on his face to the earth and worshiped, and he said to him, “What do you command your servant, my lord?”"
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-17",
+      "type": "commentary",
+      "text": "14 : The commander is not part of a human army, but rather the commander of the heavenly forces (see Deut 33.2; Judg 5.20; Zech 9.14); like most of God’s messengers (angels), he is unnamed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-josh-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The commander of the army of the Lord said to Joshua, “Remove the sandals from your feet, for the place where you stand is holy.” And Joshua did so."
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–12.24: The conquest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-13",
+      "type": "commentary",
+      "text": "5.13–12.24: Conquest of the land. The conquest of the land is recounted as three major campaigns: central (5.13–8.35), southern (9.1–10.43), and northern (11.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-14",
+      "type": "commentary",
+      "text": "5.13–8.35: Central campaign. The central campaign, which is described in the greatest detail, has three sections: 5.13–6.27; 7.1–8.29; and 8.30–35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-15",
+      "type": "commentary",
+      "text": "5.13–6.27: Jericho: first application of “ḥerem” (see Introduction). Jericho’s capture is important because it is the first implementation of the “ḥerem” by the Israelites in the conquest. The interpretation of the archaeological evidence from Tell es‐Sultan (ancient Jericho) is disputed, but in the thirteenth century there was at best a small unfortified village on the site. Like Moses (see Ex 3.1–4.17), Joshua receives a theophany followed by detailed instructions; 6.2–5 thus continues the scene of 5.13–15, with 6.1 being a parenthetical aside.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-16",
+      "type": "commentary",
+      "text": "5.13–15 : The appearance of the is probably a fragment of a fuller tradition; cf. Ex 23.27–28. He is not mentioned in the rest of the book.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-josh-5-h1kj-18",
+      "type": "commentary",
+      "text": "15 : A direct quotation from Ex 3.5, again showing Joshua parallel to Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    }
+  ]
+}

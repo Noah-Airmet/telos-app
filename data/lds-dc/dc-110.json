@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-110",
+  "title": "Section 110: Appearance of the Lord",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-110-heading",
+      "type": "heading",
+      "text": "Appearance of the Lord"
+    },
+    {
+      "block_id": "dc-110-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 110 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 110,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

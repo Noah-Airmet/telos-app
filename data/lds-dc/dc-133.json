@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-133",
+  "title": "Section 133: The Lord's coming",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-133-heading",
+      "type": "heading",
+      "text": "The Lord's coming"
+    },
+    {
+      "block_id": "dc-133-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 133 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 133,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

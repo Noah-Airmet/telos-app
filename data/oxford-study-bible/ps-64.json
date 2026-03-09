@@ -1,0 +1,97 @@
+{
+  "document_id": "ps-64",
+  "title": "Psalms 64",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-64-heading-psalm-65",
+      "type": "heading",
+      "text": "Psalm 65"
+    },
+    {
+      "block_id": "oxford-ps-64-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear my voice, O God, in my complaint; preserve my life from the dread enemy."
+    },
+    {
+      "block_id": "oxford-ps-64-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 64: Protection from enemies’ plots. A carefully constructed individual petition. Notable is its outrage at the secrecy of the evil and its insistence that conspiracies be unmasked so that’s God’s justice can be seen to be operating. The second part (vv. 6–10), the statement of hope and trust, reverses the key words of the first part (vv. 1–5): “arrows/arrow” in vv. 3b and 7a; “tongues/tongue” in vv. 3a and 8a; “suddenly” in vv. 4b and 7b; “shoot” in vv. 4a, 4b, and 7a; “fear” in vv. 4b and 9a; and “see” in vv. 5c and 8b. God will shoot arrows at those who have shot arrows at the righteous; those who use their tongues to attack the righteous and assert God’s impotence will be ruined because of their tongue, that is, their words. Bringing back on evildoers the very evil they intended to inflict on others is a sure sign of divine justice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 64
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-64-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hide me from the secret plots of the wicked, from the scheming of evildoers,"
+    },
+    {
+      "block_id": "oxford-ps-64-3",
+      "type": "verse",
+      "number": 3,
+      "text": "who whet their tongues like swords, who aim bitter words like arrows,"
+    },
+    {
+      "block_id": "oxford-ps-64-4",
+      "type": "verse",
+      "number": 4,
+      "text": "shooting from ambush at the blameless; they shoot suddenly and without fear."
+    },
+    {
+      "block_id": "oxford-ps-64-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They hold fast to their evil purpose; they talk of laying snares secretly, thinking, “Who can see us?"
+    },
+    {
+      "block_id": "oxford-ps-64-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Who can search out our crimes? We have thought out a cunningly conceived plot.” For the human heart and mind are deep."
+    },
+    {
+      "block_id": "oxford-ps-64-7",
+      "type": "verse",
+      "number": 7,
+      "text": "But God will shoot his arrow at them; they will be wounded suddenly."
+    },
+    {
+      "block_id": "oxford-ps-64-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Because of their tongue he will bring them to ruin; all who see them will shake with horror."
+    },
+    {
+      "block_id": "oxford-ps-64-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then everyone will fear; they will tell what God has brought about, and ponder what he has done."
+    },
+    {
+      "block_id": "oxford-ps-64-h1kj-2",
+      "type": "commentary",
+      "text": "9 : Like many individual petitions, the conclusion moves from the single person to the community, here stating that people will be in awe as they recognize God’s just action.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 64
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-64-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Let the righteous rejoice in the Lord and take refuge in him. Let all the upright in heart glory."
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "document_id": "1-sam-9",
+  "title": "1 Samuel 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-sam-9-1",
+      "type": "verse",
+      "number": 1,
+      "text": "There was a man of Benjamin whose name was Kish son of Abiel son of Zeror son of Becorath son of Aphiah, a Benjaminite, a man of wealth."
+    },
+    {
+      "block_id": "oxford-1-sam-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He had a son whose name was Saul, a handsome young man. There was not a man among the people of Israel more handsome than he; he stood head and shoulders above everyone else."
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-3",
+      "type": "commentary",
+      "text": "9.2 : (lit., “good”), a description often attributed to leaders, like Joseph (Gen 39.6), Moses (Ex 2.2), and David (1 Sam 16.12). Saul’s height is also an important theme in 1 Samuel, especially for its contrast with David.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-1-sam-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Now the donkeys of Kish, Saul’s father, had strayed. So Kish said to his son Saul, “Take one of the boys with you; go and look for the donkeys.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-4",
+      "type": "commentary",
+      "text": "3 : (better “servants”) need not have been young.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-1-sam-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He passed through the hill country of Ephraim and passed through the land of Shalishah, but they did not find them. And they passed through the land of Shaalim, but they were not there. Then he passed through the land of Benjamin, but they did not find them."
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-5",
+      "type": "commentary",
+      "text": "4 : and may both be puns on Saul’s name, “Shaʾul.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-sam-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When they came to the land of Zuph, Saul said to the boy who was with him, “Let us turn back, or my father will stop worrying about the donkeys and worry about us.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But he said to him, “There is a man of God in this town; he is a man held in honor. Whatever he says always comes true. Let us go there now; perhaps he will tell us about the journey on which we have set out.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then Saul replied to the boy, “But if we go, what can we bring the man? For the bread in our sacks is gone, and there is no present to bring to the man of God. What have we?”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-6",
+      "type": "commentary",
+      "text": "6–7 : , a single word in Hebrew, spelled exactly like the word “prophet.” The , a title for a prophet, turns out to be Samuel (v. 14). But the identification is secondary, since Saul and his servant do not initially know who Samuel is. In the original older tale, Saul’s encounter was with an anonymous seer. The , probably Ramah, Samuel’s home. The was a payment to the man of God for divining the whereabouts of the donkeys.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-1-sam-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The boy answered Saul again, “Here, I have with me a quarter shekel of silver; I will give it to the man of God, to tell us our way.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-7",
+      "type": "commentary",
+      "text": "8 : A weighed ca..10 oz (3 gm).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-1-sam-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "(Formerly in Israel, anyone who went to inquire of God would say, “Come, let us go to the seer”; for the one who is now called a prophet was formerly called a seer.)"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-8",
+      "type": "commentary",
+      "text": "9 : A note by an editor defining the word for his audience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-1-sam-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Saul said to the boy, “Good; come, let us go.” So they went to the town where the man of God was."
+    },
+    {
+      "block_id": "oxford-1-sam-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "As they went up the hill to the town, they met some girls coming out to draw water, and said to them, “Is the seer here?”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-9",
+      "type": "commentary",
+      "text": "11 : ing was done by women, usually in the morning or evening when it was cooler. Hence, it was around sundown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-1-sam-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "They answered, “Yes, there he is just ahead of you. Hurry; he has come just now to the town, because the people have a sacrifice today at the shrine."
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-10",
+      "type": "commentary",
+      "text": "12 : The (often translated “high place”) was a cultic installation or complex where worship, especially sacrifices, took place. Deuteronomistic literature condemns the “high places” once the Jerusalem Temple is built.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-1-sam-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "As soon as you enter the town, you will find him, before he goes up to the shrine to eat. For the people will not eat until he comes, since he must bless the sacrifice; afterward those eat who are invited. Now go up, for you will meet him immediately.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-11",
+      "type": "commentary",
+      "text": "13 : Sacrifices provided occasions for feasting after the portions of the animal designated for God were burned.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-1-sam-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So they went up to the town. As they were entering the town, they saw Samuel coming out toward them on his way up to the shrine."
+    },
+    {
+      "block_id": "oxford-1-sam-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Now the day before Saul came, the Lord had revealed to Samuel:"
+    },
+    {
+      "block_id": "oxford-1-sam-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“Tomorrow about this time I will send to you a man from the land of Benjamin, and you shall anoint him to be ruler over my people Israel. He shall save my people from the hand of the Philistines; for I have seen the suffering of my people, because their outcry has come to me.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-12",
+      "type": "commentary",
+      "text": "16 : , a technical term meaning “king designate.” , cf. Ex 3.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-1-sam-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When Samuel saw Saul, the Lord told him, “Here is the man of whom I spoke to you. He it is who shall rule over my people.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then Saul approached Samuel inside the gate, and said, “Tell me, please, where is the house of the seer?”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-13",
+      "type": "commentary",
+      "text": "18 : , a fortified entryway into a walled city, the site of commerce and judicial proceedings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-1-sam-9-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Samuel answered Saul, “I am the seer; go up before me to the shrine, for today you shall eat with me, and in the morning I will let you go and will tell you all that is on your mind."
+    },
+    {
+      "block_id": "oxford-1-sam-9-20",
+      "type": "verse",
+      "number": 20,
+      "text": "As for your donkeys that were lost three days ago, give no further thought to them, for they have been found. And on whom is all Israel’s desire fixed, if not on you and on all your ancestral house?”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-14",
+      "type": "commentary",
+      "text": "19–20 : In the original older tale, the seer consulted God overnight in order to address Saul’s need (v. 19). But in the present, edited version, Samuel has been told to expect Saul (vv. 15–17) and now goes ahead and tells him his , assuring him that the donkeys have been found (v. 20). The next morning is reserved for Saul’s anointing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-1-sam-9-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Saul answered, “I am only a Benjaminite, from the least of the tribes of Israel, and my family is the humblest of all the families of the tribe of Benjamin. Why then have you spoken to me in this way?”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-15",
+      "type": "commentary",
+      "text": "21 : Like others called by God (Moses: Ex 3–4; Gideon, Judg 6.15; Jeremiah: Jer 1.6), Saul objects that he is unworthy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-1-sam-9-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then Samuel took Saul and his servantboy and brought them into the hall, and gave them a place at the head of those who had been invited, of whom there were about thirty."
+    },
+    {
+      "block_id": "oxford-1-sam-9-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And Samuel said to the cook, “Bring the portion I gave you, the one I asked you to put aside.”"
+    },
+    {
+      "block_id": "oxford-1-sam-9-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The cook took up the thigh and what went with it and set them before Saul. Samuel said, “See, what was kept is set before you. Eat; for it is set before you at the appointed time, so that you might eat with the guests.” So Saul ate with Samuel that day."
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-16",
+      "type": "commentary",
+      "text": "22–24 : Saul is the honored guest. is usually reserved for the deity or priests. These verses are likely editorial, since they presuppose Samuel’s foreknowledge of Saul’s arrival.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 22,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-1-sam-9-25",
+      "type": "verse",
+      "number": 25,
+      "text": "When they came down from the shrine into the town, a bed was spread for Saul on the roof, and he lay down to sleep."
+    },
+    {
+      "block_id": "oxford-1-sam-9-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Then at the break of dawn Samuel called to Saul upon the roof, “Get up, so that I may send you on your way.” Saul got up, and both he and Samuel went out into the street."
+    },
+    {
+      "block_id": "oxford-1-sam-9-27",
+      "type": "verse",
+      "number": 27,
+      "text": "As they were going down to the outskirts of the town, Samuel said to Saul, “Tell the boy to go on before us, and when he has passed on, stop here yourself for a while, that I may make known to you the word of God.” 10"
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-1",
+      "type": "commentary",
+      "text": "Chs 8–12: The beginning of kingship in Israel. These chapters include five distinct episodes: the people’s request for a king and Samuel’s response (ch 8); Saul’s search for his father’s asses and his anointing (9.1–10.16); the designation of Saul by lot (10.17–27a); Saul’s victory over the Ammonites (10.27b–11.15); and Samuel’s farewell address (ch 12). The stories in 9.1–10.16 and 10.27b–11.15 are generally recognized as older and neutral or positive in their attitude toward monarchy, while the other three episodes, widely recognized as Deuteronomistic, view kingship with suspicion and depict the people’s request as a sin. In the end, God allows a king but also warns the people against letting their king lead them astray.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-1-sam-9-h1kj-2",
+      "type": "commentary",
+      "text": "9.1–10.16: Saul’s anointing. This is an old story that has been edited by the Deuteronomist. Samuel appears not as a judge but as a “man of God.” Both Saul and kingship are depicted positively. The lengthy genealogy for Saul is probably intended to demonstrate his pedigree.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-67",
+  "title": "Section 67: The testimony of the Twelve",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-67-heading",
+      "type": "heading",
+      "text": "The testimony of the Twelve"
+    },
+    {
+      "block_id": "dc-67-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 67 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 67,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

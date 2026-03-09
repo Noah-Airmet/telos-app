@@ -1,0 +1,284 @@
+{
+  "document_id": "job-3",
+  "title": "Job 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-3-1",
+      "type": "verse",
+      "number": 1,
+      "text": "After this Job opened his mouth and cursed the day of his birth."
+    },
+    {
+      "block_id": "oxford-job-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Job said:"
+    },
+    {
+      "block_id": "oxford-job-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“Let the day perish in which I was born, and the night that said, ‘A man‐child is conceived.’"
+    },
+    {
+      "block_id": "oxford-job-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let that day be darkness! May God above not seek it, or light shine on it."
+    },
+    {
+      "block_id": "oxford-job-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Let gloom and deep darkness claim it. Let clouds settle upon it; let the blackness of the day terrify it."
+    },
+    {
+      "block_id": "oxford-job-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "That night—let thick darkness seize it! let it not rejoice among the days of the year; let it not come into the number of the months."
+    },
+    {
+      "block_id": "oxford-job-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Yes, let that night be barren; let no joyful cry be heard in it."
+    },
+    {
+      "block_id": "oxford-job-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Let those curse it who curse the Sea, those who are skilled to rouse up Leviathan."
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-5",
+      "type": "commentary",
+      "text": "8 : Some ancient magicians obviously believed they could , the sea‐monster (cf. Ps 104.26; Isa 27.1) and dragon of chaos (see 7.12; Ps 74.13–14), who would perhaps swallow up the sun, so causing the darkness of eclipse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-job-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let the stars of its dawn be dark; let it hope for light, but have none; may it not see the eyelids of the morning—"
+    },
+    {
+      "block_id": "oxford-job-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "because it did not shut the doors of my mother’s womb, and hide trouble from my eyes."
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-4",
+      "type": "commentary",
+      "text": "3–10 : A curse naturally concerns the future, and a curse on the day of his birth (cf. Jer 20.14–18) is a futile curse, for the past cannot be changed. Job wishes that the day of his birth and conception (viewed poetically as one event) could have been blacked out (vv. 4–6a) so that it would not have entered into the calendar of the year (vv. 6b,c); he wishes that the sorcerers who put a curse on days could have made it one of the unlucky days, in which it would have been impossible for his parents to have conceived him or for his mother to have given birth to him (vv. 8a,10a).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-job-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“Why did I not die at birth, come forth from the womb and expire?"
+    },
+    {
+      "block_id": "oxford-job-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Why were there knees to receive me, or breasts for me to suck?"
+    },
+    {
+      "block_id": "oxford-job-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Now I would be lying down and quiet; I would be asleep; then I would be at rest"
+    },
+    {
+      "block_id": "oxford-job-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "with kings and counselors of the earth who rebuild ruins for themselves,"
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-7",
+      "type": "commentary",
+      "text": "14 . Near Eastern kings frequently boasted that they had rebuilt famous ruined cities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-job-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "or with princes who have gold, who fill their houses with silver."
+    },
+    {
+      "block_id": "oxford-job-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Or why was I not buried like a stillborn child, like an infant that never sees the light?"
+    },
+    {
+      "block_id": "oxford-job-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "There the wicked cease from troubling, and there the weary are at rest."
+    },
+    {
+      "block_id": "oxford-job-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "There the prisoners are at ease together; they do not hear the voice of the taskmaster."
+    },
+    {
+      "block_id": "oxford-job-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The small and the great are there, and the slaves are free from their masters."
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-6",
+      "type": "commentary",
+      "text": "11–19 : If he had to be born, why could he not have died at birth (v. 11a) or, at least, have been stillborn (v. 16)? Death has for him now become sweeter than life, and he compares the quiet peacefulness of the underworld (Sheol; cf. Eccl 6.3–5; Sir 30.3) to his present troubled and anxious lot (vv. 13–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-job-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "“Why is light given to one in misery, and life to the bitter in soul,"
+    },
+    {
+      "block_id": "oxford-job-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "who long for death, but it does not come, and dig for it more than for hidden treasures;"
+    },
+    {
+      "block_id": "oxford-job-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "who rejoice exceedingly, and are glad when they find the grave?"
+    },
+    {
+      "block_id": "oxford-job-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Why is light given to one who cannot see the way, whom God has fenced in?"
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-9",
+      "type": "commentary",
+      "text": "23 : Previously, God’s hedge of protection about his life (cf. 1.10) had ensured his well‐being; but now that he wants to die, God’s preservation of his life seems an artificial prolongation of his misery, and the hedge has become a prison wall rather than a wall of defense.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-job-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For my sighing comes like my bread, and my groanings are poured out like water."
+    },
+    {
+      "block_id": "oxford-job-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Truly the thing that I fear comes upon me, and what I dread befalls me."
+    },
+    {
+      "block_id": "oxford-job-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I am not at ease, nor am I quiet; I have no rest; but trouble comes.”"
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–11.20: First cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-3",
+      "type": "commentary",
+      "text": "3.1–26: Job’s first speech. After the grandeur and deliberateness of the prologue (chs 1–2), the reader is suddenly plunged into the dramatic turmoil of the poem (3.1–42.6); the external description of suffering gives way to Job’s inner experience. Its three strophes express a wish he had never been born (vv. 3–10); failing that, a wish he had died at birth (vv. 11–19); failing that, a wish that he, and people suffering as he does, could simply die when they are ready (vv. 20–26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-8",
+      "type": "commentary",
+      "text": "20–26 : Now Job not only asks why he himself has to go on living, but why people in general cannot simply die when they want to (vv. 20–23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 20,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-job-3-h1kj-10",
+      "type": "commentary",
+      "text": "26 : Unlike the restfulness of the underworld, which is what he desires, his life has no , but only .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 3
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    }
+  ]
+}

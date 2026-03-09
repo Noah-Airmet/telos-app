@@ -1,0 +1,451 @@
+{
+  "document_id": "matt-23",
+  "title": "Matthew 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-matt-23-heading-24",
+      "type": "heading",
+      "text": "24"
+    },
+    {
+      "block_id": "oxford-matt-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“The scribes and the Pharisees sit on Moses’ seat;"
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , either a stone seat for synagogue leaders or a receptacle for the Torah scroll.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-matt-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "therefore, do whatever they teach you and follow it; but do not do as they do, for they do not practice what they teach."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , a surprising directive from Matthew's Jesus. It may mean, “Follow their guidelines if you must, but by no means follow their example.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-matt-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They tie up heavy burdens, hard to bear, and lay them on the shoulders of others; but they themselves are unwilling to lift a finger to move them."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , contrast 11.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-matt-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They do all their deeds to be seen by others; for they make their phylacteries broad and their fringes long."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , small cases (“tefillin”), often made of leather, containing scriptural passages such as Deut 6.4–9. They were strapped to the left arm and forehead during prayer (Deut 6.8). , tassels (“tsitsit”) attached to the corners of an outer garment or prayer shawl (Num 15.38).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-matt-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "They love to have the place of honor at banquets and the best seats in the synagogues,"
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , normally, the place nearest the host.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-matt-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and to be greeted with respect in the marketplaces, and to have people call them rabbi."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , a designation of respect; lit., “my great one” or “my teacher.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-matt-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But you are not to be called rabbi, for you have one teacher, and you are all students."
+    },
+    {
+      "block_id": "oxford-matt-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And call no one your father on earth, for you have one Father—the one in heaven."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , do not use “father” as an honorific title.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-matt-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Nor are you to be called instructors, for you have one instructor, the Messiah."
+    },
+    {
+      "block_id": "oxford-matt-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The greatest among you will be your servant."
+    },
+    {
+      "block_id": "oxford-matt-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "All who exalt themselves will be humbled, and all who humble themselves will be exalted."
+    },
+    {
+      "block_id": "oxford-matt-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“But woe to you, scribes and Pharisees, hypocrites! For you lock people out of the kingdom of heaven. For you do not go in yourselves, and when others are going in, you stop them."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-9",
+      "type": "commentary",
+      "text": "13 : , lit., “Alas!” The seven woes given here can be contrasted with the beatitudes at 5.3–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-matt-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Woe to you, scribes and Pharisees, hypocrites! For you cross sea and land to make a single convert, and you make the new convert twice as much a child of hell as yourselves."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-10",
+      "type": "commentary",
+      "text": "15 : , 6.2n. , “you do everything possible.” , a proselyte (Gentile convert) to Judaism.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-matt-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "“Woe to you, blind guides, who say, ‘Whoever swears by the sanctuary is bound by nothing, but whoever swears by the gold of the sanctuary is bound by the oath.’"
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-11",
+      "type": "commentary",
+      "text": "16 : , 15.14. , perhaps the Temple treasury, which was also used as a bank.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-matt-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "You blind fools! For which is greater, the gold or the sanctuary that has made the gold sacred?"
+    },
+    {
+      "block_id": "oxford-matt-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And you say, ‘Whoever swears by the altar is bound by nothing, but whoever swears by the gift that is on the altar is bound by the oath.’"
+    },
+    {
+      "block_id": "oxford-matt-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "How blind you are! For which is greater, the gift or the altar that makes the gift sacred?"
+    },
+    {
+      "block_id": "oxford-matt-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "So whoever swears by the altar, swears by it and by everything on it;"
+    },
+    {
+      "block_id": "oxford-matt-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "and whoever swears by the sanctuary, swears by it and by the one who dwells in it;"
+    },
+    {
+      "block_id": "oxford-matt-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and whoever swears by heaven, swears by the throne of God and by the one who is seated upon it."
+    },
+    {
+      "block_id": "oxford-matt-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cummin, and have neglected the weightier matters of the law: justice and mercy and faith. It is these you ought to have practiced without neglecting the others."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-12",
+      "type": "commentary",
+      "text": "23 : , see Lev 27.30; Deut 14.22–23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-matt-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You blind guides! You strain out a gnat but swallow a camel!"
+    },
+    {
+      "block_id": "oxford-matt-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "“Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the plate, but inside they are full of greed and self-indulgence."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-13",
+      "type": "commentary",
+      "text": "25 : may symbolize the Pharisees themselves.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-matt-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "You blind Pharisee! First clean the inside of the cup, so that the outside also may become clean."
+    },
+    {
+      "block_id": "oxford-matt-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "“Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs, which on the outside look beautiful, but inside they are full of the bones of the dead and of all kinds of filth."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-14",
+      "type": "commentary",
+      "text": "27 : Tombs were during festivals to prevent pilgrims from touching them and ritually polluting themselves by contact with the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-matt-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "So you also on the outside look righteous to others, but inside you are full of hypocrisy and lawlessness."
+    },
+    {
+      "block_id": "oxford-matt-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "“Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and decorate the graves of the righteous,"
+    },
+    {
+      "block_id": "oxford-matt-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "and you say, ‘If we had lived in the days of our ancestors, we would not have taken part with them in shedding the blood of the prophets.’"
+    },
+    {
+      "block_id": "oxford-matt-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Thus you testify against yourselves that you are descendants of those who murdered the prophets."
+    },
+    {
+      "block_id": "oxford-matt-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Fill up, then, the measure of your ancestors."
+    },
+    {
+      "block_id": "oxford-matt-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "You snakes, you brood of vipers! How can you escape being sentenced to hell?"
+    },
+    {
+      "block_id": "oxford-matt-23-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Therefore I send you prophets, sages, and scribes, some of whom you will kill and crucify, and some you will flog in your synagogues and pursue from town to town,"
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-15",
+      "type": "commentary",
+      "text": "34 : , Christian missionaries. , see 9.35n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-matt-23-35",
+      "type": "verse",
+      "number": 35,
+      "text": "so that upon you may come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you murdered between the sanctuary and the altar."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-16",
+      "type": "commentary",
+      "text": "35 : , Gen 4.8–11. The allusion to likely conflates Zechariah the martyr (son of Jehoiada, 2 Chr 24.20–22) with Zechariah the prophet (son of Berechiah, Zech 1.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-matt-23-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Truly I tell you, all this will come upon this generation."
+    },
+    {
+      "block_id": "oxford-matt-23-37",
+      "type": "verse",
+      "number": 37,
+      "text": "“Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!"
+    },
+    {
+      "block_id": "oxford-matt-23-38",
+      "type": "verse",
+      "number": 38,
+      "text": "See, your house is left to you, desolate."
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-17",
+      "type": "commentary",
+      "text": "38 : ; with the destruction of the Temple, Jerusalem will be abandoned by God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-matt-23-39",
+      "type": "verse",
+      "number": 39,
+      "text": "For I tell you, you will not see me again until you say, ‘Blessed is the one who comes in the name of the Lord.’”"
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-1",
+      "type": "commentary",
+      "text": "23.1–39: The denunciation of the scribes and Pharisees (Mk 12.38–40; Lk 11.37–52; 13.34–35; 20.45–47). This chapter contains the harshest and most sustained criticism of the scribes and Pharisees in the Gospels; cf. the Introduction. Some scholars regard ch 23 as part of Matthew's fifth discourse (chs 24–25), but Matthew shifts the latter to a new setting (see 24.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-matt-23-h1kj-18",
+      "type": "commentary",
+      "text": "39 : Ps 118.26; cf. Mt 21.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 23
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    }
+  ]
+}

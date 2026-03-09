@@ -1,0 +1,55 @@
+{
+  "document_id": "ps-133",
+  "title": "Psalms 133",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-133-heading-psalm-134",
+      "type": "heading",
+      "text": "Psalm 134"
+    },
+    {
+      "block_id": "oxford-ps-133-1",
+      "type": "verse",
+      "number": 1,
+      "text": "How very good and pleasant it is when kindred live together in unity!"
+    },
+    {
+      "block_id": "oxford-ps-133-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 133: The divine gift of unity. A song of Zion like several Songs of Ascents (Pss 122; 125; 128; 129; 132; see Ps 120n.). Like them, it has step‐parallelism: “running down” three times in vv. 2–3 (NRSV “falls on” in v. 3). Like Ps 122, it celebrates Jerusalem as the place where the tribes of Israel happily gather on holy days. The famous first line of Ps 133 recalls Ps 122.4. The references to Aaron and Zion, although somewhat obscure, connect it to the previous psalm.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 133
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-133-h1kj-2",
+      "type": "commentary",
+      "text": "1 : was used for washing in antiquity, and in the ordination rite of priests (Lev 8.12) and thus stirs thoughts of joyous Temple celebrations that bring the community together. The abundance of oil in the ceremonies evokes the plentiful dew of Mount Herman in the north that was so important in the agricultural life of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 133
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-133-2",
+      "type": "verse",
+      "number": 2,
+      "text": "It is like the precious oil on the head, running down upon the beard, on the beard of Aaron, running down over the collar of his robes."
+    },
+    {
+      "block_id": "oxford-ps-133-3",
+      "type": "verse",
+      "number": 3,
+      "text": "It is like the dew of Hermon, which falls on the mountains of Zion. For there the Lord ordained his blessing, life forevermore."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "document_id": "ric-82",
+  "title": "Section 82",
+  "type": "commentary",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "ric-82-p-0",
+      "type": "paragraph",
+      "text": "[Revelations in Context Section 82 — Import from PDF using Marker and ingest-ric-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 82,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

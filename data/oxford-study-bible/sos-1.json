@@ -1,0 +1,325 @@
+{
+  "document_id": "sos-1",
+  "title": "sos 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-sos-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The sand of the sea, the drops of rain, and the days of eternity—who can count them?"
+    },
+    {
+      "block_id": "oxford-sos-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The height of heaven, the breadth of the earth, the abyss, and wisdom—who can search them out?"
+    },
+    {
+      "block_id": "oxford-sos-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Wisdom was created before all other things, and prudent understanding from eternity."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , cf. 24.1–7; Prov 8.22–26; Wis 7.24–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-sos-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The root of wisdom—to whom has it been revealed? Her subtleties—who knows them?"
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-2",
+      "type": "commentary",
+      "text": "2–6 : The rhetorical questions assume a negative answer, i.e., no human can know creation's secrets (cf. Job 38–39).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "There is but one who is wise, greatly to be feared, seated upon his throne—the Lord."
+    },
+    {
+      "block_id": "oxford-sos-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "It is he who created her; he saw her and took her measure; he poured her out upon all his works,"
+    },
+    {
+      "block_id": "oxford-sos-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "upon all the living according to his gift; he lavished her upon those who love him."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–10: Praise of Wisdom. God created Wisdom (Gk “sophia,” a feminine noun), which is probably meant to be a feminine figure, and gave her as a gift to all creation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-4",
+      "type": "commentary",
+      "text": "9–10 : Wisdom is a double gift, given to , as well as specifically to (cf. Job 28.23–28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The fear of the Lord is glory and exultation, and gladness and a crown of rejoicing."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-6",
+      "type": "commentary",
+      "text": "11 : , the proper response to God's gift is awe and proper conduct (cf. Prov 1.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The fear of the Lord delights the heart, and gives gladness and joy and long life."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-7",
+      "type": "commentary",
+      "text": "12 : God rewards those who with , (v. 17), and (v. 18); cf. v. 20; Prov 3.16; 22.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Those who fear the Lord will have a happy end; on the day of their death they will be blessed."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-8",
+      "type": "commentary",
+      "text": "13 : , immortality for Ben Sira consists primarily in leaving behind righteous children, along with a good name and reputation (40.19; 41.11–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "To fear the Lord is the beginning of wisdom; she is created with the faithful in the womb."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-9",
+      "type": "commentary",
+      "text": "14 : , Prov 1.7; 9.10; Ps 111.10. , a prophetic motif (49.7; Jer 1.5; Isa 44.2,24; 49.1,5; cf. Ps 139.13; Gal 1.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "She made among human beings an eternal foundation, and among their descendants she will abide faithfully."
+    },
+    {
+      "block_id": "oxford-sos-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "To fear the Lord is fullness of wisdom; she inebriates mortals with her fruits;"
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-10",
+      "type": "commentary",
+      "text": "16 : Wisdom is apportioned to all humans (cf. v. 19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-sos-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "she fills their whole house with desirable goods, and theirg storehouses with her produce."
+    },
+    {
+      "block_id": "oxford-sos-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The fear of the Lord is the crown of wisdom, making peace and perfect health to flourish."
+    },
+    {
+      "block_id": "oxford-sos-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "She rained down knowledge and discerning comprehension, and she heightened the glory of those who held her fast."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-11",
+      "type": "commentary",
+      "text": "19 : , see 24.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-sos-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "To fear the Lord is the root of wisdom, and her branches are long life."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-12",
+      "type": "commentary",
+      "text": "20 : Wisdom is often pictured with imagery of plants, especially as a tree of life; see 24.13–17 (cf. Gen 3.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Unjust anger cannot be justified, for anger tips the scale to one's ruin."
+    },
+    {
+      "block_id": "oxford-sos-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Those who are patient stay calm until the right moment, and then cheerfulness comes back to them."
+    },
+    {
+      "block_id": "oxford-sos-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "They hold back their words until the right moment; then the lips of many tell of their good sense."
+    },
+    {
+      "block_id": "oxford-sos-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "In the treasuries of wisdom are wise sayings, but godliness is an abomination to a sinner."
+    },
+    {
+      "block_id": "oxford-sos-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "If you desire wisdom, keep the commandments, and the Lord will lavish her upon you."
+    },
+    {
+      "block_id": "oxford-sos-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For the fear of the Lord is wisdom and discipline, fidelity and humility are his delight."
+    },
+    {
+      "block_id": "oxford-sos-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Do not disobey the fear of the Lord; do not approach him with a divided mind."
+    },
+    {
+      "block_id": "oxford-sos-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Do not be a hypocrite before others, and keep watch over your lips."
+    },
+    {
+      "block_id": "oxford-sos-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Do not exalt yourself, or you may fall and bring dishonor upon yourself. The Lord will reveal your secrets and overthrow you before the whole congregation, because you did not come in the fear of the Lord, and your heart was full of deceit."
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-5",
+      "type": "commentary",
+      "text": "1.11–30: Fear of the Lord is wisdom. Ben Sira establishes his three main theological themes in this poem: wisdom, fear of the Lord, and keeping the commandments, which are found in the Torah (24.23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-sos-1-h1kj-13",
+      "type": "commentary",
+      "text": "30 : emphasizes Ben Sira's concern for honor and shame.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 1
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-23",
+  "title": "Psalms 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-23-heading-psalm-24",
+      "type": "heading",
+      "text": "Psalm 24"
+    },
+    {
+      "block_id": "oxford-ps-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is my shepherd, I shall not want."
+    },
+    {
+      "block_id": "oxford-ps-23-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 23: The Lord as shepherd and host. The most beloved of the psalms, a song of trust. Though seemingly idyllic, evil lurks at the margin (vv. 4a,5b), and nature is sometimes dangerous (v. 4). In an agrarian society like ancient Israel, herding would be familiar to everyone. There could also be a subtle allusion to the Exodus traditions of the divine shepherd guiding Israel (e.g., Ps 78.43–55; Isa 40.11). The psalm combines two distinct images of God: shepherd (vv. 1–4) and host of a banquet (v. 5); and two grammatical persons used of God: in vv. 1–3, in vv. 4–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-23-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , a favorite title of ancient Near Eastern kings, connoting compassionate care (Pss 80.1; 95.7; 100.3; Isa 40.11; Jer 10.21; Ezek 34.11–16). Verse 1 can be paraphrased: Because the is my shepherd I lack nothing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He makes me lie down in green pastures; he leads me beside still waters;"
+    },
+    {
+      "block_id": "oxford-ps-23-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , not swiftly running, so the sheep can keep their footing as they drink from the pool.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "he restores my soul. He leads me in right paths for his name’s sake."
+    },
+    {
+      "block_id": "oxford-ps-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Even though I walk through the darkest valley, I fear no evil; for you are with me; your rod and your staff— they comfort me."
+    },
+    {
+      "block_id": "oxford-ps-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows."
+    },
+    {
+      "block_id": "oxford-ps-23-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , the image of shepherd changes to that of host of a meal; cf. Ps 78.19. , the ’s invitation to dine vindicates the psalmist as just, whereas the enemies are excluded.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord my whole life long."
+    },
+    {
+      "block_id": "oxford-ps-23-h1kj-5",
+      "type": "commentary",
+      "text": "6 : (lit., “pursue”) , replacing the enemies’ pursuit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 23
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "document_id": "ezek-27",
+  "title": "Ezekiel 27",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezek-27-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord came to me:"
+    },
+    {
+      "block_id": "oxford-ezek-27-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Now you, mortal, raise a lamentation over Tyre,"
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , better, a funerary “dirge,” in which present downfall is contrasted with past glory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ezek-27-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and say to Tyre, which sits at the entrance to the sea, merchant of the peoples on many coastlands, Thus says the Lord God: O Tyre, you have said, “I am perfect in beauty.”"
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-6",
+      "type": "commentary",
+      "text": "3 : is supposed to be Jerusalem's epithet (16.14; Lam 2.15), not Tyre's.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezek-27-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Your borders are in the heart of the seas; your builders made perfect your beauty."
+    },
+    {
+      "block_id": "oxford-ezek-27-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They made all your planks of fir trees from Senir; they took a cedar from Lebanon to make a mast for you."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-8",
+      "type": "commentary",
+      "text": "5 : is Mount Hermon, located in southern Syria (Deut 3.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ezek-27-6",
+      "type": "verse",
+      "number": 6,
+      "text": "From oaks of Bashan they made your oars; they made your deck of pines from the coasts of Cyprus, inlaid with ivory."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-9",
+      "type": "commentary",
+      "text": "6 : is east of the Sea of Galilee, known for its oak forests.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezek-27-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Of fine embroidered linen from Egypt was your sail, serving as your ensign; blue and purple from the coasts of Elishah was your awning."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-10",
+      "type": "commentary",
+      "text": "7 : is probably Cyprus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ezek-27-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The inhabitants of Sidon and Arvad were your rowers; skilled men of Zemer were within you, they were your pilots."
+    },
+    {
+      "block_id": "oxford-ezek-27-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The elders of Gebal and its artisans were within you, caulking your seams; all the ships of the sea with their mariners were within you, to barter for your wares."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-7",
+      "type": "commentary",
+      "text": "5–9 : The good ship Tyre was constructed of the best materials.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 5,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-11",
+      "type": "commentary",
+      "text": "8–9 : The ship's crew was from (textual note ), and (Byblos), Phoenician island and port cities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ezek-27-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Paras and Lud and Put were in your army, your mighty warriors; they hung shield and helmet in you; they gave you splendor."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-12",
+      "type": "commentary",
+      "text": "10 : The ship's warriors included those from Persia (textual note ), (Lydia in western Asia Minor), and (Libya).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ezek-27-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Men of Arvad and Helech were on your walls all around; men of Gamad were at your towers. They hung their quivers all around your walls; they made perfect your beauty."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-13",
+      "type": "commentary",
+      "text": "11 : Literal reality (Tyre as a city) momentarily intrudes into Ezekiel's ship metaphor. , see v. 8. , possibly Cilicia, in southeastern Asia Minor. The are perhaps the Cimmerians or Cappadocians in eastern Asia Minor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ezek-27-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Tarshish did business with you out of the abundance of your great wealth; silver, iron, tin, and lead they exchanged for your wares."
+    },
+    {
+      "block_id": "oxford-ezek-27-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Javan, Tubal, and Meshech traded with you; they exchanged human beings and vessels of bronze for your merchandise."
+    },
+    {
+      "block_id": "oxford-ezek-27-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Beth-togarmah exchanged for your wares horses, war horses, and mules."
+    },
+    {
+      "block_id": "oxford-ezek-27-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The Rhodians traded with you; many coastlands were your own special markets; they brought you in payment ivory tusks and ebony."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-15",
+      "type": "commentary",
+      "text": "12–15 : Tyre's commercial empire is described first in horizontal fashion from west to east: , perhaps Tarsus in southern Asia Minor, or Tartessus in southern Spain, or Sardinia; , Ionians, i.e., the Greeks of the Aegean; and , Assyrian “Tabal” and “Mushki,” peoples settled in Asia Minor; , Assyrian “Tilgarimmu,” in eastern Asia Minor (Armenia), east of the southernmost Halys River, east of Tubal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 12,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ezek-27-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Edom did business with you because of your abundant goods; they exchanged for your wares turquoise, purple, embroidered work, fine linen, coral, and rubies."
+    },
+    {
+      "block_id": "oxford-ezek-27-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Judah and the land of Israel traded with you; they exchanged for your merchandise wheat from Minnith, millet, honey, oil, and balm."
+    },
+    {
+      "block_id": "oxford-ezek-27-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Damascus traded with you for your abundant goods—because of your great wealth of every kind—wine of Helbon, and white wool."
+    },
+    {
+      "block_id": "oxford-ezek-27-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Vedan and Javan from Uzalg entered into trade for your wares; wrought iron, cassia, and sweet cane were bartered for your merchandise."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-16",
+      "type": "commentary",
+      "text": "16–19 : The description then moves vertically from south to northeast: and , an Ammonite city (Judg 11.33); , a famed wine center 13 mi (21 km) northwest of Damascus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 16,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ezek-27-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Dedan traded with you in saddlecloths for riding."
+    },
+    {
+      "block_id": "oxford-ezek-27-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Arabia and all the princes of Kedar were your favored dealers in lambs, rams, and goats; in these they did business with you."
+    },
+    {
+      "block_id": "oxford-ezek-27-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The merchants of Sheba and Raamah traded with you; they exchanged for your wares the best of all kinds of spices, and all precious stones, and gold."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-17",
+      "type": "commentary",
+      "text": "20–22 : The Arabian region is treated next: , in northwest Arabia (see also textual note , on the previous page); , a tribal group of northern Arabia; and , in southwest Arabia. Several Mesopotamian cities conclude the list (v. 23): , in northwest Mesopotamia; , a town near Haran; , the Aramaean state of Bit-Adini, south of Haran; , south of Nineveh; , unidentified.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 20,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ezek-27-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Haran, Canneh, Eden, the merchants of Sheba, Asshur, and Chilmad traded with you."
+    },
+    {
+      "block_id": "oxford-ezek-27-24",
+      "type": "verse",
+      "number": 24,
+      "text": "These traded with you in choice garments, in clothes of blue and embroidered work, and in carpets of colored material, bound with cords and made secure; in these they traded with you."
+    },
+    {
+      "block_id": "oxford-ezek-27-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The ships of Tarshish traveled for you in your trade. So you were filled and heavily laden in the heart of the seas."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-4",
+      "type": "commentary",
+      "text": "1–25 : Tyre's glory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-14",
+      "type": "commentary",
+      "text": "12–25 : A (mostly prose) description of the gallant ship's cargo of rich wares from many nations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 12,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-18",
+      "type": "commentary",
+      "text": "25 : , see vv. 12–15n.; 1 Kings 10.22; 22.48; Ps 48.7; Isa 23.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ezek-27-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Your rowers have brought you into the high seas. The east wind has wrecked you in the heart of the seas."
+    },
+    {
+      "block_id": "oxford-ezek-27-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Your riches, your wares, your merchandise, your mariners and your pilots, your caulkers, your dealers in merchandise, and all your warriors within you, with all the company that is with you, sink into the heart of the seas on the day of your ruin."
+    },
+    {
+      "block_id": "oxford-ezek-27-28",
+      "type": "verse",
+      "number": 28,
+      "text": "At the sound of the cry of your pilots the countryside shakes,"
+    },
+    {
+      "block_id": "oxford-ezek-27-29",
+      "type": "verse",
+      "number": 29,
+      "text": "and down from their ships come all that handle the oar. The mariners and all the pilots of the sea stand on the shore"
+    },
+    {
+      "block_id": "oxford-ezek-27-30",
+      "type": "verse",
+      "number": 30,
+      "text": "and wail aloud over you, and cry bitterly. They throw dust on their heads and wallow in ashes;"
+    },
+    {
+      "block_id": "oxford-ezek-27-31",
+      "type": "verse",
+      "number": 31,
+      "text": "they make themselves bald for you, and put on sackcloth, and they weep over you in bitterness of soul, with bitter mourning."
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-20",
+      "type": "commentary",
+      "text": "31 : 7.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ezek-27-32",
+      "type": "verse",
+      "number": 32,
+      "text": "In their wailing they raise a lamentation for you, and lament over you: “Who was ever destroyed like Tyre in the midst of the sea?"
+    },
+    {
+      "block_id": "oxford-ezek-27-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When your wares came from the seas, you satisfied many peoples; with your abundant wealth and merchandise you enriched the kings of the earth."
+    },
+    {
+      "block_id": "oxford-ezek-27-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Now you are wrecked by the seas, in the depths of the waters; your merchandise and all your crew have sunk with you."
+    },
+    {
+      "block_id": "oxford-ezek-27-35",
+      "type": "verse",
+      "number": 35,
+      "text": "All the inhabitants of the coastlands are appalled at you; and their kings are horribly afraid, their faces are convulsed."
+    },
+    {
+      "block_id": "oxford-ezek-27-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The merchants among the peoples hiss at you; you have come to a dreadful end and shall be no more forever.”"
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-1",
+      "type": "commentary",
+      "text": "25.1–32.32: Oracles against the nations. This part of Ezekiel is an effective bridge between the book's message of doom and its message of hope. Here, doom for Israel's antagonists spells hope for Israel itself. Seven nations (Ammon, Moab, Edom, Philistia, Tyre, Sidon, and Egypt) will be punished before Israel is restored (36.5–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-2",
+      "type": "commentary",
+      "text": "26.1–28.19: Oracles against Tyre.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-3",
+      "type": "commentary",
+      "text": "27.1–36: Dirge over the ship Tyre. Metaphorical language serves Ezekiel's need to push beyond the ordinarily observable and speak of ultimate realities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-ezek-27-h1kj-19",
+      "type": "commentary",
+      "text": "26–36 : Tyre's past glory contrasts sharply with its sudden end. As in 19.12, the (sirocco) is an agent of destruction (cf. Ps 48.7). The sudden end of the great commercial city brings astonishment, fear, and grief to seafarers, merchants, and inhabitants of the coastlands.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 27
+      },
+      "verse_start": 26,
+      "verse_end": 36
+    }
+  ]
+}

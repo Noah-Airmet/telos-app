@@ -1,0 +1,464 @@
+{
+  "document_id": "ex-22",
+  "title": "Exodus 22",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-22-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When someone steals an ox or a sheep, and slaughters it or sells it, the thief shall pay five oxen for an ox, and four sheep for a sheep. The thief shall make restitution, but if unable to do so, shall be sold for the theft. 4When the animal, whether ox or donkey or sheep, is found alive in the thief’s possession, the thief shall pay double."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-6",
+      "type": "commentary",
+      "text": "22.1–4 : Theft of property (cf. 22.16n.). , debt‐servitude to secure funds for the fine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ex-22-2",
+      "type": "verse",
+      "number": 2,
+      "text": "If a thief is found breaking in, and is beaten to death, no bloodguilt is incurred;"
+    },
+    {
+      "block_id": "oxford-ex-22-3",
+      "type": "verse",
+      "number": 3,
+      "text": "but if it happens after sunrise, bloodguilt is incurred."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-7",
+      "type": "commentary",
+      "text": "2–3 : Nighttime theft is more serious, presumably because the intruder’s intent is less clear.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-22-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When someone causes a field or vineyard to be grazed over, or lets livestock loose to graze in someone else’s field, restitution shall be made from the best in the owner’s field or vineyard."
+    },
+    {
+      "block_id": "oxford-ex-22-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, the one who started the fire shall make full restitution."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-8",
+      "type": "commentary",
+      "text": "5–6 : Restitution for agricultural damages caused by negligence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ex-22-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When someone delivers to a neighbor money or goods for safekeeping, and they are stolen from the neighbor’s house, then the thief, if caught, shall pay double."
+    },
+    {
+      "block_id": "oxford-ex-22-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If the thief is not caught, the owner of the house shall be brought before God, to determine whether or not the owner had laid hands on the neighbor’s goods."
+    },
+    {
+      "block_id": "oxford-ex-22-9",
+      "type": "verse",
+      "number": 9,
+      "text": "In any case of disputed ownership involving ox, donkey, sheep, clothing, or any other loss, of which one party says, “This is mine,” the case of both parties shall come before God;a the one whom God condemns shall pay double to the other."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-11",
+      "type": "commentary",
+      "text": "9 : , an oath tantamount to a self‐curse, causing divine punishment if the person is lying.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-22-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When someone delivers to another a donkey, ox, sheep, or any other animal for safekeeping, and it dies or is injured or is carried off, without anyone seeing it,"
+    },
+    {
+      "block_id": "oxford-ex-22-11",
+      "type": "verse",
+      "number": 11,
+      "text": "an oath before the Lord shall decide between the two of them that the one has not laid hands on the property of the other; the owner shall accept the oath, and no restitution shall be made."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-10",
+      "type": "commentary",
+      "text": "9–11 : Two cases of judicial impasse. Disputes lacking evidence or witnesses are decided, as elsewhere in the ancient Near East, using unspecified ritual mechanisms to elicit divine judgment; cf. Num 5.11–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ex-22-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But if it was stolen, restitution shall be made to its owner."
+    },
+    {
+      "block_id": "oxford-ex-22-13",
+      "type": "verse",
+      "number": 13,
+      "text": "If it was mangled by beasts, let it be brought as evidence; restitution shall not be made for the mangled remains."
+    },
+    {
+      "block_id": "oxford-ex-22-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When someone borrows an animal from another and it is injured or dies, the owner not being present, full restitution shall be made."
+    },
+    {
+      "block_id": "oxford-ex-22-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If the owner was present, there shall be no restitution; if it was hired, only the hiring fee is due."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-5",
+      "type": "commentary",
+      "text": "21.33–22.15: Property and restitution, more case rulings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-9",
+      "type": "commentary",
+      "text": "7–15 : Restitution for loss of property in another’s care.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 7,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ex-22-16",
+      "type": "verse",
+      "number": 16,
+      "text": "When a man seduces a virgin who is not engaged to be married, and lies with her, he shall give the bride‐price for her and make her his wife."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , not coerces, implying her consent.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ex-22-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But if her father refuses to give her to him, he shall pay an amount equal to the bride‐price for virgins."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-13",
+      "type": "commentary",
+      "text": "16–17 : Consensual premarital sex obligates the man to marry the woman or compensate her father for the decrease, because of her lost virginity, in the (better “marital gift” or “bridewealth,” because the payment did not mean a man was buying a wife) a future husband might pay.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ex-22-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall not permit a female sorcerer to live."
+    },
+    {
+      "block_id": "oxford-ex-22-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Whoever lies with an animal shall be put to death."
+    },
+    {
+      "block_id": "oxford-ex-22-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-4",
+      "type": "commentary",
+      "text": "21.1–22.20: Ordinances (rulings) and statutes (rules). In form and content, this section resembles other ancient Near Eastern legal collections. It comprises four sections: two groups of rulings ( , v. 1), beginning with or , on specific cases (21.1–11; 21.18–22.17), and stringent rules (statutes) beginning with or (21.12–17; 22.18–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-12",
+      "type": "commentary",
+      "text": "22.16–20: Social and religious stipulations, including one case ruling (22.16–17) and three rules (22.18–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 16,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-15",
+      "type": "commentary",
+      "text": "18–20 : Like 21.12–17, this second group of absolute rules—prohibiting sorcery (cf. Deut 18.10–11), bestiality (cf. Lev 18.23; 20.15–16; Deut 27.21), and apostasy—are unequivocal and involve capital punishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 18,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-16",
+      "type": "commentary",
+      "text": "20 : (execution) elsewhere entails eradicating the offender’s family and confiscating their property (Lev 27.28–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ex-22-21",
+      "type": "verse",
+      "number": 21,
+      "text": "You shall not wrong or oppress a resident alien, for you were aliens in the land of Egypt."
+    },
+    {
+      "block_id": "oxford-ex-22-22",
+      "type": "verse",
+      "number": 22,
+      "text": "You shall not abuse any widow or orphan."
+    },
+    {
+      "block_id": "oxford-ex-22-23",
+      "type": "verse",
+      "number": 23,
+      "text": "If you do abuse them, when they cry out to me, I will surely heed their cry;"
+    },
+    {
+      "block_id": "oxford-ex-22-24",
+      "type": "verse",
+      "number": 24,
+      "text": "my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children orphans."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-19",
+      "type": "commentary",
+      "text": "22–24 : The concept of measure for measure, or “one reaps what one sows” (cf. Judg 1.7; Obad 15), appears in the warning that God will punish with death those who abuse and ; the wives of such people will be widowed and their children fatherless.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 22,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ex-22-25",
+      "type": "verse",
+      "number": 25,
+      "text": "If you lend money to my people, to the poor among you, you shall not deal with them as a creditor; you shall not exact interest from them."
+    },
+    {
+      "block_id": "oxford-ex-22-26",
+      "type": "verse",
+      "number": 26,
+      "text": "If you take your neighbor’s cloak in pawn, you shall restore it before the sun goes down;"
+    },
+    {
+      "block_id": "oxford-ex-22-27",
+      "type": "verse",
+      "number": 27,
+      "text": "for it may be your neighbor’s only clothing to use as cover; in what else shall that person sleep? And if your neighbor cries out to me, I will listen, for I am compassionate."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-18",
+      "type": "commentary",
+      "text": "22.21–27 : Concern for the disadvantaged appears repeatedly in the Pentateuch (e.g., 23.6,9–12; Lev 19.33–34; 23.22; Deut 1.16; 10.18–19; 24.17–22) but not in other ancient Near Eastern law collections.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 21,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-ex-22-28",
+      "type": "verse",
+      "number": 28,
+      "text": "You shall not revile God, or curse a leader of your people."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-21",
+      "type": "commentary",
+      "text": "28 : A human , like God, is unassailable. Cf. Lev 24.15–16; 1 Kings 21.10,13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ex-22-29",
+      "type": "verse",
+      "number": 29,
+      "text": "You shall not delay to make offerings from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me."
+    },
+    {
+      "block_id": "oxford-ex-22-30",
+      "type": "verse",
+      "number": 30,
+      "text": "You shall do the same with your oxen and with your sheep: seven days it shall remain with its mother; on the eighth day you shall give it to me."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-22",
+      "type": "commentary",
+      "text": "29–30 : Appears to require child sacrifice, like animal sacrifice, or perhaps the dedication of the firstborn to service at a sanctuary; but see 13.2.n.; 34.19–20; Num 18.27; no provision for redemptions is given.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 29,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ex-22-31",
+      "type": "verse",
+      "number": 31,
+      "text": "You shall be people consecrated to me; therefore you shall not eat any meat that is mangled by beasts in the field; you shall throw it to the dogs."
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-1",
+      "type": "commentary",
+      "text": "15.22–24.18. Sinai and covenant. Facing recurrent difficulties, the Israelites cross the wilderness to Sinai (15.22–18.27) where they experience a theophany (ch 19) and enter into the covenant (chs 20–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-2",
+      "type": "commentary",
+      "text": "20.1–24.18: Covenant. The stipulations of the covenant—Decalogue (20.1–17) and covenant rules (20.22–23.19)—are interspersed with additional Sinai narratives (20.18–21; 23.20–24.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-3",
+      "type": "commentary",
+      "text": "20.22–23.33: Community regulations. This collection of legal materials, called “book of the covenant” [Heb “sefer ha‐berit”] (24.7) or “Covenant Code” or “Covenant Collection,” has affinities of form and content with other ancient law legal traditions. A discrete scribal collection, with laws—especially agricultural ones and those mentioning houses—inapplicable to a wilderness setting, it was likely incorporated into the Sinai narrative to afford it divine authority. The oldest of the legal materials in the Pentateuch, many of its stipulations probably arose in premonarchic village settings. Introductory instructions (20.22–26) and a concluding narrative (23.20–33) frame a two‐part enumeration of legal materials. The first part (21.1–22.17) consists mainly of casuistic materials (case laws with attached punishments). The second part (22.18–23.19) comprises ethical or religious norms and exhortations typically expressed in apodictic or absolute form. These two parts may reflect the merging of ancient customary regulations with covenant‐oriented materials.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-17",
+      "type": "commentary",
+      "text": "22.21–23.19. Ethical and religious exhortations and norms. The stipulations of the second part of the community regulations (see 20.22–23.33.) are mostly unconditional. Some concern social relationships and justice (22.21–27; 23.1–12) and others involve obligations to God (22.28–31; 23.13–19), thus linking humanitarian and religious matters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 21,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-20",
+      "type": "commentary",
+      "text": "28–31 : Several religious matters: prohibitions (vv. 28,31) and prescriptions (vv. 29–30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 28,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ex-22-h1kj-23",
+      "type": "commentary",
+      "text": "31 : (lit., “holy”), see 19.6n. Elsewhere, to be edible animals must be drained of their blood (Lev 7.24; 17.13–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 22
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    }
+  ]
+}

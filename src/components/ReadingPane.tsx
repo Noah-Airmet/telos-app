@@ -36,6 +36,7 @@ interface ReadingPaneProps {
   profile: string;
   book: BookEntry | null;
   chapter: number;
+  documentId?: string | null;
   onPrev: () => void;
   onNext: () => void;
   hasPrev: boolean;
@@ -44,7 +45,7 @@ interface ReadingPaneProps {
   // Breadcrumb nav
   onChangeProfile?: (profile: string) => void;
   onSelectBook?: (book: BookEntry) => void;
-  onSelectChapter?: (chapter: number) => void;
+  onSelectChapter?: (chapter: number, documentId?: string) => void;
   // Pane management
   onAddPane?: () => void;  // opens a new pane to the right
   isLinkedPane?: boolean;
@@ -78,6 +79,7 @@ export function ReadingPane({
   profile,
   book,
   chapter,
+  documentId,
   onPrev,
   onNext,
   hasPrev,
@@ -130,6 +132,11 @@ export function ReadingPane({
   } | null>(null);
 
   const currentTranslation = manifests?.find((m) => m.profile === profile) ?? null;
+  const isStudyBibleLayout = Boolean(
+    doc?.type === "study-bible" &&
+    currentTranslation?.source_type === "studyBible" &&
+    currentTranslation?.preferred_base_profile === profile
+  );
   const comparisonIndex = useMemo(() => buildCompareUnitIndex(comparisonDoc), [comparisonDoc]);
   const canShowComparisonDiffs = Boolean(
     showComparisonDiffs && comparisonDoc && haveComparableOverlap(doc, comparisonDoc)
@@ -164,7 +171,9 @@ export function ReadingPane({
 
   useEffect(() => {
     if (!book) return;
-    const entry = book.chapters.find((c) => c.chapter === chapter);
+    const entry = documentId
+      ? book.chapters.find((c) => c.document_id === documentId)
+      : book.chapters.find((c) => c.chapter === chapter);
     if (!entry) return;
     setLoading(true);
     loadDocument(profile, entry.document_id).then((d) => {
@@ -172,7 +181,7 @@ export function ReadingPane({
       setLoading(false);
       scrollRef.current?.scrollTo(0, 0);
     });
-  }, [profile, book, chapter]);
+  }, [profile, book, chapter, documentId]);
 
   useEffect(() => {
     if (!showComparisonDiffs || !comparisonProfile || !comparisonBook) {
@@ -316,7 +325,7 @@ export function ReadingPane({
   // ── Shared header props ───────────────────────────────────────────────────────
 
   const headerProps: PaneHeaderProps = {
-    profile, book, chapter, currentTranslation, manifests,
+    profile, book, chapter, documentId, currentTranslation, manifests,
     onPrev, onNext, hasPrev, hasNext,
     onChangeProfile, onSelectBook, onSelectChapter,
     onAddPane, isLinkedPane, canRelinkPane, onToggleLinked, onClose,
@@ -413,13 +422,57 @@ export function ReadingPane({
       <PaneHeader {...headerProps} />
 
       <div ref={scrollRef} className={`min-h-0 flex-1 overflow-y-auto px-6 py-8 lg:px-10 relative transition-opacity ${isActivePane ? "opacity-100" : "opacity-60"}`}>
-        <div className="mx-auto w-full max-w-[42rem] space-y-4 text-content relative">
+        <div className={`mx-auto w-full relative ${isStudyBibleLayout ? "max-w-6xl grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8" : "max-w-[42rem] space-y-4"}`}>
           {showComparisonDiffs && comparisonDoc && !canShowComparisonDiffs && (
-            <p className="rounded-md border border-[var(--border-color)] bg-[var(--surface-overlay)] px-3 py-2 text-sm text-[var(--text-secondary)]">
+            <p className={`rounded-md border border-[var(--border-color)] bg-[var(--surface-overlay)] px-3 py-2 text-sm text-[var(--text-secondary)] ${isStudyBibleLayout ? "col-span-full" : ""}`}>
               Diffs are unavailable for this chapter pairing because the editions do not share enough verse-aligned coverage.
             </p>
           )}
-          {doc.blocks.map((block) => (
+          {isStudyBibleLayout ? (
+            <>
+              <div className="space-y-4 text-content">
+                {doc.blocks
+                  .filter((b) => b.type === "verse" || b.type === "heading")
+                  .map((block) => (
+                    <VerseBlock
+                      key={block.block_id}
+                      block={block}
+                      highlights={highlights.filter((h) => h.block_id === block.block_id)}
+                      noteCount={notesByBlockId.get(block.block_id)?.length ?? 0}
+                      comparisonText={getComparisonTextForBlock(block)}
+                      showComparisonDiff={canShowComparisonDiffs}
+                      onHighlightClick={handleHighlightClick}
+                      onOpenNotes={() => {
+                        const blockNotes = notesByBlockId.get(block.block_id) ?? [];
+                        if (!blockNotes.length) return;
+                        onOpenNotesForBlock?.(block.block_id, blockNotes.map((n) => n.id));
+                      }}
+                    />
+                  ))}
+              </div>
+              <div className="space-y-3 text-content lg:border-l lg:border-[var(--border-color)] lg:pl-6 lg:sticky lg:top-0 lg:self-start">
+                <div className="shell-kicker text-[var(--text-meta)] mb-2">Notes</div>
+                {doc.blocks
+                  .filter((b) => b.type === "commentary")
+                  .map((block) => (
+                    <div
+                      key={block.block_id}
+                      className="text-sm leading-relaxed text-[var(--text-secondary)]"
+                    >
+                      {(block.verse_start != null || block.verse_end != null) && (
+                        <span className="font-semibold text-[var(--text-primary)] mr-1.5">
+                          {block.verse_start === block.verse_end
+                            ? block.verse_start
+                            : `${block.verse_start}–${block.verse_end}`}:
+                        </span>
+                      )}
+                      {block.text}
+                    </div>
+                  ))}
+              </div>
+            </>
+          ) : (
+          doc.blocks.map((block) => (
             <VerseBlock
               key={block.block_id}
               block={block}
@@ -437,7 +490,8 @@ export function ReadingPane({
                 );
               }}
             />
-          ))}
+          ))
+          )}
         </div>
 
         {/* Selection toolbar */}
@@ -612,6 +666,7 @@ interface PaneHeaderProps {
   profile: string;
   book: BookEntry | null;
   chapter: number;
+  documentId?: string | null;
   currentTranslation: TranslationManifest | null;
   manifests?: TranslationManifest[];
   onPrev: () => void;
@@ -620,7 +675,7 @@ interface PaneHeaderProps {
   hasNext: boolean;
   onChangeProfile?: (profile: string) => void;
   onSelectBook?: (book: BookEntry) => void;
-  onSelectChapter?: (chapter: number) => void;
+  onSelectChapter?: (chapter: number, documentId?: string) => void;
   onAddPane?: () => void;
   isLinkedPane?: boolean;
   canRelinkPane?: boolean;
@@ -637,6 +692,7 @@ function PaneHeader({
   profile,
   book,
   chapter,
+  documentId,
   currentTranslation,
   manifests,
   onPrev,
@@ -718,22 +774,26 @@ function PaneHeader({
                 ))}
 
               {pickerOpen === "chapter" && book && (
-                <div className="grid grid-cols-7 gap-1 p-2">
-                  {book.chapters.map((c) => (
-                    c.chapter !== null && (
+                <div className={`grid gap-1 p-2 ${book.book_id === "oxford-essays" ? "grid-cols-1 max-h-64 overflow-y-auto" : "grid-cols-7"}`}>
+                  {book.chapters.map((c) => {
+                    const isEssay = c.chapter === 0 && c.document_id;
+                    const isActive = isEssay ? c.document_id === documentId : c.chapter === chapter;
+                    return (
                       <button
-                        key={c.chapter}
-                        onClick={() => { onSelectChapter?.(c.chapter as number); closePicker(); }}
-                        className={`w-8 h-8 text-[11px] transition-colors ${
-                          c.chapter === chapter
+                        key={c.document_id ?? c.chapter}
+                        onClick={() => { onSelectChapter?.(c.chapter ?? 0, c.document_id); closePicker(); }}
+                        className={`text-[11px] transition-colors text-left ${
+                          book.book_id === "oxford-essays" ? "w-full px-2 py-1.5 truncate" : "w-8 h-8"
+                        } ${
+                          isActive
                             ? "bg-white text-black font-semibold"
                             : "text-[var(--text-secondary)] hover:bg-white/6 hover:text-[var(--text-primary)]"
                         }`}
                       >
-                        {c.chapter}
+                        {isEssay ? (c.title || c.document_id) : c.chapter}
                       </button>
-                    )
-                  ))}
+                    );
+                  })}
                 </div>
               )}
             </div>
@@ -791,9 +851,11 @@ function PaneHeader({
                 <button
                   ref={chapterBtnRef}
                   onClick={() => openPicker("chapter", chapterBtnRef)}
-                  className="px-1 shell-kicker hover:text-[var(--text-primary)] whitespace-nowrap"
+                  className="px-1 shell-kicker hover:text-[var(--text-primary)] whitespace-nowrap max-w-[12rem] truncate"
                 >
-                  Ch. {chapter}
+                  {documentId && book
+                    ? (book.chapters.find((c) => c.document_id === documentId)?.title ?? documentId)
+                    : `Ch. ${chapter}`}
                 </button>
                 <button
                   onClick={onNext}

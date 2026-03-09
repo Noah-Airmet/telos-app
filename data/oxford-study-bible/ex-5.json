@@ -1,0 +1,290 @@
+{
+  "document_id": "ex-5",
+  "title": "Exodus 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Afterward Moses and Aaron went to Pharaoh and said, “Thus says the Lord, the God of Israel, ‘Let my people go, so that they may celebrate a festival to me in the wilderness.’”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-4",
+      "type": "commentary",
+      "text": "1 : , cf. 3.18n. The imperative appears for the first time and adumbrates its sevenfold use in the account of nine divine marvels; see 7.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ex-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "But Pharaoh said, “Who is the Lord, that I should heed him and let Israel go? I do not know the Lord, and I will not let Israel go.”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , which entails acknowledging the ’s authority, is a recurrent theme in Exodus; God’s mighty deeds will convince the Egyptians of God’s reality and power (14.4,18) and cause the Israelites to affirm their belief (16.12; 29.46). Knowing God is a response to witnessing God’s powerful deeds (1 Kings 20.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ex-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then they said, “The God of the Hebrews has revealed himself to us; let us go a three days’ journey into the wilderness to sacrifice to the Lord our God, or he will fall upon us with pestilence or sword.”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–3 : They request only a three‐day leave, not permanent freedom, but Pharaoh refuses as anticipated in 3.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , see 3.18n. indicates that failure to carry out religious obligations would have dire consequences.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ex-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But the king of Egypt said to them, “Moses and Aaron, why are you taking the people away from their work? Get to your labors!”"
+    },
+    {
+      "block_id": "oxford-ex-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Pharaoh continued, “Now they are more numerous than the people of the land and yet you want them to stop working!”"
+    },
+    {
+      "block_id": "oxford-ex-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "That same day Pharaoh commanded the taskmasters of the people, as well as their supervisors,"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , Israelite officers (perhaps a subgroup of the elders; see 3.16n.) working under the Egyptian s in charge of corvée labor (see 1.11n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ex-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“You shall no longer give the people straw to make bricks, as before; let them go and gather straw for themselves."
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-9",
+      "type": "commentary",
+      "text": "7 : , an essential component in brick‐making, binds the particles of Nile mud.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ex-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But you shall require of them the same quantity of bricks as they have made previously; do not diminish it, for they are lazy; that is why they cry, ‘Let us go and offer sacrifice to our God.’"
+    },
+    {
+      "block_id": "oxford-ex-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let heavier work be laid on them; then they will labor at it and pay no attention to deceptive words.”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-10",
+      "type": "commentary",
+      "text": "9 : refers to Moses’s promise of liberation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ex-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "So the taskmasters and the supervisors of the people went out and said to the people, “Thus says Pharaoh, ‘I will not give you straw."
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-11",
+      "type": "commentary",
+      "text": "10 : Introducing Pharaoh’s words with sets him in opposition to the , whose words are similarly announced (see 4.22n).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ex-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Go and get straw yourselves, wherever you can find it; but your work will not be lessened in the least.’”"
+    },
+    {
+      "block_id": "oxford-ex-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "So the people scattered throughout the land of Egypt, to gather stubble for straw."
+    },
+    {
+      "block_id": "oxford-ex-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The taskmasters were urgent, saying, “Complete your work, the same daily assignment as when you were given straw.”"
+    },
+    {
+      "block_id": "oxford-ex-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And the supervisors of the Israelites, whom Pharaoh’s taskmasters had set over them, were beaten, and were asked, “Why did you not finish the required quantity of bricks yesterday and today, as you did before?”"
+    },
+    {
+      "block_id": "oxford-ex-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then the Israelite supervisors came to Pharaoh and cried, “Why do you treat your servants like this?"
+    },
+    {
+      "block_id": "oxford-ex-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "No straw is given to your servants, yet they say to us, ‘Make bricks!’ Look how your servants are beaten! You are unjust to your own people.”"
+    },
+    {
+      "block_id": "oxford-ex-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He said, “You are lazy, lazy; that is why you say, ‘Let us go and sacrifice to the Lord.’"
+    },
+    {
+      "block_id": "oxford-ex-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Go now, and work; for no straw shall be given you, but you shall still deliver the same number of bricks.”"
+    },
+    {
+      "block_id": "oxford-ex-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The Israelite supervisors saw that they were in trouble when they were told, “You shall not lessen your daily number of bricks.”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-7",
+      "type": "commentary",
+      "text": "4–19 : Pharaoh again employs strategies, now also punitive, to deal with the burgeoning Israelite population.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ex-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "As they left Pharaoh, they came upon Moses and Aaron who were waiting to meet them."
+    },
+    {
+      "block_id": "oxford-ex-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "They said to them, “The Lord look upon you and judge! You have brought us into bad odor with Pharaoh and his officials, and have put a sword in their hand to kill us.”"
+    },
+    {
+      "block_id": "oxford-ex-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then Moses turned again to the Lord and said, “O Lord, why have you mistreated this people? Why did you ever send me?"
+    },
+    {
+      "block_id": "oxford-ex-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Since I first came to Pharaoh to speak in your name, he has mistreated this people, and you have done nothing at all to deliver your people.”"
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–15.21: Israel in and out of Egypt. The Israelites are oppressed in Egypt; but they escape through the intervention of their God, whose identity is revealed to their heroic leader Moses, who then carries out God’s directives to secure their release.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–6.1: Moses and Aaron have their first encounter with Pharaoh.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ex-5-h1kj-12",
+      "type": "commentary",
+      "text": "5.20–6.1 : The Israelite supervisors are disheartened, and Moses complains to God who promises to take action.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 5
+      },
+      "verse_start": 20,
+      "verse_end": 23
+    }
+  ]
+}

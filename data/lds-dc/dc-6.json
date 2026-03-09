@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-6",
+  "title": "Section 6: Oliver Cowdery's gift",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-6-heading",
+      "type": "heading",
+      "text": "Oliver Cowdery's gift"
+    },
+    {
+      "block_id": "dc-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 6 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 6,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

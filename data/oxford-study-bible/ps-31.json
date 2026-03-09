@@ -1,0 +1,253 @@
+{
+  "document_id": "ps-31",
+  "title": "Psalms 31",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-31-heading-psalm-32",
+      "type": "heading",
+      "text": "Psalm 32"
+    },
+    {
+      "block_id": "oxford-ps-31-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In you, O Lord, I seek refuge; do not let me ever be put to shame; in your righteousness deliver me."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 31: Prayer for deliverance, and thanksgiving. An individual petition that combines features of a petition (vv. 1–4,9–18) and a thanksgiving (vv. 5–8,19–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-31-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Incline your ear to me; rescue me speedily. Be a rock of refuge for me, a strong fortress to save me."
+    },
+    {
+      "block_id": "oxford-ps-31-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You are indeed my rock and my fortress; for your name’s sake lead me and guide me,"
+    },
+    {
+      "block_id": "oxford-ps-31-4",
+      "type": "verse",
+      "number": 4,
+      "text": "take me out of the net that is hidden for me, for you are my refuge."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-2",
+      "type": "commentary",
+      "text": "2–4 : The metaphors for refuge are spatial: (lit., “safe house”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-31-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Into your hand I commit my spirit; you have redeemed me, O Lord, faithful God."
+    },
+    {
+      "block_id": "oxford-ps-31-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You hate those who pay regard to worthless idols, but I trust in the Lord."
+    },
+    {
+      "block_id": "oxford-ps-31-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I will exult and rejoice in your steadfast love, because you have seen my affliction; you have taken heed of my adversities,"
+    },
+    {
+      "block_id": "oxford-ps-31-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and have not delivered me into the hand of the enemy; you have set my feet in a broad place."
+    },
+    {
+      "block_id": "oxford-ps-31-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Be gracious to me, O Lord, for I am in distress; my eye wastes away from grief, my soul and body also."
+    },
+    {
+      "block_id": "oxford-ps-31-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For my life is spent with sorrow, and my years with sighing; my strength fails because of my misery, and my bones waste away."
+    },
+    {
+      "block_id": "oxford-ps-31-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I am the scorn of all my adversaries, a horror to my neighbors, an object of dread to my acquaintances; those who see me in the street flee from me."
+    },
+    {
+      "block_id": "oxford-ps-31-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I have passed out of mind like one who is dead; I have become like a broken vessel."
+    },
+    {
+      "block_id": "oxford-ps-31-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For I hear the whispering of many— terror all around!— as they scheme together against me, as they plot to take my life."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-3",
+      "type": "commentary",
+      "text": "9–13 : The psalm returns to direct petition. Sickness, or perhaps old age, has cut off the sufferer from family and friends.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 9,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ps-31-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But I trust in you, O Lord; I say, “You are my God.”"
+    },
+    {
+      "block_id": "oxford-ps-31-15",
+      "type": "verse",
+      "number": 15,
+      "text": "My times are in your hand; deliver me from the hand of my enemies and persecutors."
+    },
+    {
+      "block_id": "oxford-ps-31-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Let your face shine upon your servant; save me in your steadfast love."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-4",
+      "type": "commentary",
+      "text": "16 : , a likely reference to the priestly blessing (Num 6.25), meaning to adopt an open countenance that looks directly and beneficently at the other person (see also Pss 4.6; 80.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ps-31-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Do not let me be put to shame, O Lord, for I call on you; let the wicked be put to shame; let them go dumbfounded to Sheol."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-5",
+      "type": "commentary",
+      "text": "17 : , the underworld, the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ps-31-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Let the lying lips be stilled that speak insolently against the righteous with pride and contempt."
+    },
+    {
+      "block_id": "oxford-ps-31-19",
+      "type": "verse",
+      "number": 19,
+      "text": "O how abundant is your goodness that you have laid up for those who fear you, and accomplished for those who take refuge in you, in the sight of everyone!"
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-6",
+      "type": "commentary",
+      "text": "19 : A major change in mood: leaving behind complaints, the psalmist expresses thanks. The quest for a “safe house” in v. 2 has been answered by God’s granting admission to the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ps-31-20",
+      "type": "verse",
+      "number": 20,
+      "text": "In the shelter of your presence you hide them from human plots; you hold them safe under your shelter from contentious tongues."
+    },
+    {
+      "block_id": "oxford-ps-31-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Blessed be the Lord, for he has wondrously shown his steadfast love to me when I was beset as a city under siege."
+    },
+    {
+      "block_id": "oxford-ps-31-22",
+      "type": "verse",
+      "number": 22,
+      "text": "I had said in my alarm, “I am driven far from your sight.” But you heard my supplications when I cried out to you for help."
+    },
+    {
+      "block_id": "oxford-ps-31-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Love the Lord, all you his saints. The Lord preserves the faithful, but abundantly repays the one who acts haughtily."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-8",
+      "type": "commentary",
+      "text": "23 : , better “faithful” or “loyal” ones.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-ps-31-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Be strong, and let your heart take courage, all you who wait for the Lord."
+    },
+    {
+      "block_id": "oxford-ps-31-h1kj-7",
+      "type": "commentary",
+      "text": "23–24 : As often in the Psalms, at the end the petitioner mentions the broader community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 31
+      },
+      "verse_start": 23,
+      "verse_end": 24
+    }
+  ]
+}

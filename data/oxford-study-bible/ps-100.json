@@ -1,0 +1,67 @@
+{
+  "document_id": "ps-100",
+  "title": "Psalms 100",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-100-heading-psalm-101",
+      "type": "heading",
+      "text": "Psalm 101"
+    },
+    {
+      "block_id": "oxford-ps-100-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Make a joyful noise to the Lord, all the earth."
+    },
+    {
+      "block_id": "oxford-ps-100-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 100: A call to the nations to worship the Lord. A hymn echoing the call to the nations in the enthronement psalms (Pss 93; 95–99). There are seven invitations to worship: , , , , , , and . The motives for giving praise are introduced by in v. 3a and in v. 5a. Verses 1–3 and 4–5 are parallel sections, expressing a similar sentiment in different words. The pilgrimage of the nations to Mount Zion is also found in Pss 22.27; 76.11–12; Isa 2.1–4; 60–62; 66.18–23. The Psalter lays great stress on worshiping God with joy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 100
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-100-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Worship the Lord with gladness; come into his presence with singing."
+    },
+    {
+      "block_id": "oxford-ps-100-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Know that the Lord is God. It is he that made us, and we are his; we are his people, and the sheep of his pasture."
+    },
+    {
+      "block_id": "oxford-ps-100-h1kj-2",
+      "type": "commentary",
+      "text": "3 : , sheep that the personally pastures, not delegating it to anyone else, similar to Pss 74.1; 79.13; 95.7; Jer 23.1; Ezek 34.31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 100
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-100-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Enter his gates with thanksgiving, and his courts with praise. Give thanks to him, bless his name."
+    },
+    {
+      "block_id": "oxford-ps-100-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations."
+    }
+  ]
+}

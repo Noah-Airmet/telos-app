@@ -1,0 +1,236 @@
+{
+  "document_id": "josh-12",
+  "title": "Joshua 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-josh-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now these are the kings of the land, whom the Israelites defeated, whose land they occupied beyond the Jordan toward the east, from the Wadi Arnon to Mount Hermon, with all the Arabah eastward:"
+    },
+    {
+      "block_id": "oxford-josh-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "King Sihon of the Amorites who lived at Heshbon, and ruled from Aroer, which is on the edge of the Wadi Arnon, and from the middle of the valley as far as the river Jabbok, the boundary of the Ammonites, that is, half of Gilead,"
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-5",
+      "type": "commentary",
+      "text": "2 : The story of is narrated in Num 21.21–31 and Deut 2.26–37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-josh-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and the Arabah to the Sea of Chinneroth eastward, and in the direction of Beth‐jeshimoth, to the sea of the Arabah, the Dead Sea, southward to the foot of the slopes of Pisgah;"
+    },
+    {
+      "block_id": "oxford-josh-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and King Og of Bashan, one of the last of the Rephaim, who lived at Ashtaroth and at Edrei"
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-6",
+      "type": "commentary",
+      "text": "4 : The defeat of is narrated in Num 21.33–35 and Deut 3.1–17. , northern Transjordan. , here, another term for pre‐Israelite inhabitants of Canaan; elsewhere sometimes used for inhabitants of the underworld.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-josh-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and ruled over Mount Hermon and Salecah and all Bashan to the boundary of the Geshurites and the Maacathites, and over half of Gilead to the boundary of King Sihon of Heshbon."
+    },
+    {
+      "block_id": "oxford-josh-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Moses, the servant of the Lord, and the Israelites defeated them; and Moses the servant of the Lord gave their land for a possession to the Reubenites and the Gadites and the half‐tribe of Manasseh."
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-4",
+      "type": "commentary",
+      "text": "1–6 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-josh-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The following are the kings of the land whom Joshua and the Israelites defeated on the west side of the Jordan, from Baal‐gad in the valley of Lebanon to Mount Halak, that rises toward Seir (and Joshua gave their land to the tribes of Israel as a possession according to their allotments,"
+    },
+    {
+      "block_id": "oxford-josh-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "in the hill country, in the lowland, in the Arabah, in the slopes, in the wilderness, and in the Negeb, the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):"
+    },
+    {
+      "block_id": "oxford-josh-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "the king of Jericho one the king of Ai, which is next to Bethel one"
+    },
+    {
+      "block_id": "oxford-josh-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "the king of Jerusalem one the king of Hebron one"
+    },
+    {
+      "block_id": "oxford-josh-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "the king of Jarmuth one the king of Lachish one"
+    },
+    {
+      "block_id": "oxford-josh-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "the king of Eglon one the king of Gezer one"
+    },
+    {
+      "block_id": "oxford-josh-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "the king of Debir one the king of Geder one"
+    },
+    {
+      "block_id": "oxford-josh-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "the king of Hormah one the king of Arad one"
+    },
+    {
+      "block_id": "oxford-josh-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "the king of Libnah one the king of Adullam one"
+    },
+    {
+      "block_id": "oxford-josh-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the king of Makkedah one the king of Bethel one"
+    },
+    {
+      "block_id": "oxford-josh-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the king of Tappuah one the king of Hepher one"
+    },
+    {
+      "block_id": "oxford-josh-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "the king of Aphek one the king of Lasharon one"
+    },
+    {
+      "block_id": "oxford-josh-12-19",
+      "type": "verse",
+      "number": 19,
+      "text": "the king of Madon one the king of Hazor one"
+    },
+    {
+      "block_id": "oxford-josh-12-20",
+      "type": "verse",
+      "number": 20,
+      "text": "the king of Shimron‐meron one the king of Achshaph one"
+    },
+    {
+      "block_id": "oxford-josh-12-21",
+      "type": "verse",
+      "number": 21,
+      "text": "the king of Taanach one the king of Megiddo one"
+    },
+    {
+      "block_id": "oxford-josh-12-22",
+      "type": "verse",
+      "number": 22,
+      "text": "the king of Kedesh one the king of Jokneam in Carmel one"
+    },
+    {
+      "block_id": "oxford-josh-12-23",
+      "type": "verse",
+      "number": 23,
+      "text": "the king of Dor in Naphath‐dor one the king of Goiim in Galilee, one"
+    },
+    {
+      "block_id": "oxford-josh-12-24",
+      "type": "verse",
+      "number": 24,
+      "text": "the king of Tirzah one thirty‐one kings in all."
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–12.24: The conquest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-2",
+      "type": "commentary",
+      "text": "5.13–12.24: Conquest of the land. The conquest of the land is recounted as three major campaigns: central (5.13–8.35), southern (9.1–10.43), and northern (11.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-3",
+      "type": "commentary",
+      "text": "12.1–24: A selective list of defeated cities’ kings. An additional conclusion to the first section of the book.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-josh-12-h1kj-7",
+      "type": "commentary",
+      "text": "12.7–24: Joshua’s victories west of the Jordan. Previous narratives mention fewer than half of these cities. Vv. 9–13a follow the order of chs 6–10, but after that no clear pattern is evident. This section thus seems to be adapted from a different source than the previous chapters. Moreover, the length of this list shows that previous narratives are selective, highlighting particular stories for ideological and theological purposes. For the location of the places, see map 4 at the end of this volume.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 24
+    }
+  ]
+}

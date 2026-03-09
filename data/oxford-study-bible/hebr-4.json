@@ -1,0 +1,259 @@
+{
+  "document_id": "hebr-4",
+  "title": "hebr 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hebr-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-hebr-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For indeed the good news came to us just as to them; but the message they heard did not benefit them, because they were not united by faith with those who listened."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , Joshua and Caleb, who believed God's promises and urged the people to act upon them (Num 13.30; 14.6–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hebr-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For we who have believed enter that rest, just as God has said, “As in my anger I swore, ‘They shall not enter my rest,’” though his works were finished at the foundation of the world."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-6",
+      "type": "commentary",
+      "text": "3 : Ps 95:11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hebr-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For in one place it speaks about the seventh day as follows, “And God rested on the seventh day from all his works.”"
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-7",
+      "type": "commentary",
+      "text": "4 : Gen 2.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hebr-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And again in this place it says, “They shall not enter my rest.”"
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-8",
+      "type": "commentary",
+      "text": "5 : Ps 95.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hebr-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Since therefore it remains open for some to enter it, and those who formerly received the good news failed to enter because of disobedience,"
+    },
+    {
+      "block_id": "oxford-hebr-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "again he sets a certain day—“today”—saying through David much later, in the words already quoted, “Today, if you hear his voice, do not harden your hearts.”"
+    },
+    {
+      "block_id": "oxford-hebr-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For if Joshua had given them rest, Godb would not speak later about another day."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-9",
+      "type": "commentary",
+      "text": "8 : That is, by leading the Hebrews in the conquest of Canaan. The author argues that, since David (the traditional author of the Psalms) speaks of entering God's rest two hundred years after Joshua's conquest of Canaan, the latter cannot be the ultimate land of promise (see also 11.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hebr-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "So then, a sabbath rest still remains for the people of God;"
+    },
+    {
+      "block_id": "oxford-hebr-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "for those who enter God's rest also cease from their labors as God did from his."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , lit., “the one who entered his [God's] rest has also himself rested from his works just as God did from his own.” This could be a statement about people in general or a specific, if elliptical, statement about Jesus, who has entered God's presence (where God “rests”) as a forerunner for the many (6.19–20), and has completed his labors on behalf of his followers (10.11–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-hebr-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Let us therefore make every effort to enter that rest, so that no one may fall through such disobedience as theirs."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-2",
+      "type": "commentary",
+      "text": "3.7–4.11: A homiletical application of the Num 14.1–35 episode to the situation of the addressees, who stand similarly at the threshold of “entering God's rest” and are urged not to imitate those who failed to trust their divine patron and died in the wilderness under God's servant, Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-3",
+      "type": "commentary",
+      "text": "4.11 ) and",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hebr-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Indeed, the word of God is living and active, sharper than any two-edged sword, piercing until it divides soul from spirit, joints from marrow; it is able to judge the thoughts and intentions of the heart."
+    },
+    {
+      "block_id": "oxford-hebr-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And before him no creature is hidden, but all are naked and laid bare to the eyes of the one to whom we must render an account."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–4.13: Summons to honor God's word through trust and perseverance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-11",
+      "type": "commentary",
+      "text": "12–13 : , or, “with their throats exposed.” The author crafts a truly fearsome image here of human vulnerability before the divine pronouncement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Since, then, we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast to our confession."
+    },
+    {
+      "block_id": "oxford-hebr-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who in every respect has been tested as we are, yet without sin."
+    },
+    {
+      "block_id": "oxford-hebr-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Let us therefore approach the throne of grace with boldness, so that we may receive mercy and find grace to help in time of need."
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-12",
+      "type": "commentary",
+      "text": "4.14–10.18: The “long and difficult word” about Jesus's priestly work.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-13",
+      "type": "commentary",
+      "text": "4.14–5.10: Exhortation and initial exposition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hebr-4-h1kj-14",
+      "type": "commentary",
+      "text": "14–16 : Continuing to witness to the acts of God in Christ and to draw near to God, by persevering in drawing near to one another in worship, represents the author's principal exhortation to the addressees. See also 10.19–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 4
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    }
+  ]
+}

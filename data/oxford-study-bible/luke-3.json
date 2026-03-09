@@ -1,0 +1,523 @@
+{
+  "document_id": "luke-3",
+  "title": "Luke 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-luke-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-luke-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-4",
+      "type": "commentary",
+      "text": "2 : was high priest 6–15 when the Romans deposed him. He was succeeded by relatives; initially by his son, Eleazar; then by his son-in-law (18–36 ), followed by four more sons. Even when out of office, Annas's authority was recognized by the population.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-luke-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins,"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-5",
+      "type": "commentary",
+      "text": "3 : A summary of John's ministry. Proclamation led to , a symbolic act of cleansing to indicate realignment with the will of God in forgiveness of the one baptized.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-luke-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "as it is written in the book of the words of the prophet Isaiah, “The voice of one crying out in the wilderness: ‘Prepare the way of the Lord, make his paths straight."
+    },
+    {
+      "block_id": "oxford-luke-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Every valley shall be filled, and every mountain and hill shall be made low, and the crooked shall be made straight, and the rough ways made smooth;"
+    },
+    {
+      "block_id": "oxford-luke-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and all flesh shall see the salvation of God.’”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–6: The appearance of John the Baptist (Mt 3.1–6; Mk 1.2–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-6",
+      "type": "commentary",
+      "text": "4–6 : Isa 40.3–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-7",
+      "type": "commentary",
+      "text": "6 : refers to all humanity and emphasizes that God's salvation was universal; see 2.30–32n.; Acts 2.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-luke-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "John said to the crowds that came out to be baptized by him, “You brood of vipers! Who warned you to flee from the wrath to come?"
+    },
+    {
+      "block_id": "oxford-luke-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Bear fruits worthy of repentance. Do not begin to say to yourselves, ‘We have Abraham as our ancestor’; for I tell you, God is able from these stones to raise up children to Abraham."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-9",
+      "type": "commentary",
+      "text": "8 : The assertion to have was a claim to privileged standing with God through birth (see Jn 8.33,39; Rom 2.28–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-luke-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Even now the ax is lying at the root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into the fire.”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-8",
+      "type": "commentary",
+      "text": "3.7–9: John's call to repentance (Mt 3.7–10). Along with vv. 16–17 these verses recall language of wrath and threat, all indications of the apocalyptic nature of John's proclamation (see Joel 2.1–17; Am 2.4–5; Mic 1.1–7; Zeph 1.14–18; Mal 4.1–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , a symbol of judgment (see 3.16; 16.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-luke-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And the crowds asked him, “What then should we do?”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-12",
+      "type": "commentary",
+      "text": "10 : The cry “ ” will be repeated in Acts 2.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-luke-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "In reply he said to them, “Whoever has two coats must share with anyone who has none; and whoever has food must do likewise.”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , lit., “two tunics,” usually undergarments. Sharing possessions is a theme of Luke-Acts; see 4.18; 6.30; 10.7,25–37; Acts 2.42–47; 4.32–37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-luke-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Even tax collectors came to be baptized, and they asked him, “Teacher, what should we do?”"
+    },
+    {
+      "block_id": "oxford-luke-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He said to them, “Collect no more than the amount prescribed for you.”"
+    },
+    {
+      "block_id": "oxford-luke-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Soldiers also asked him, “And we, what should we do?” He said to them, “Do not extort money from anyone by threats or false accusation, and be satisfied with your wages.”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-11",
+      "type": "commentary",
+      "text": "3.10–14: John's directions to the crowd.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-luke-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "As the people were filled with expectation, and all were questioning in their hearts concerning John, whether he might be the Messiah,"
+    },
+    {
+      "block_id": "oxford-luke-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "John answered all of them by saying, “I baptize you with water; but one who is more powerful than I is coming; I am not worthy to untie the thong of his sandals. He will baptize you with the Holy Spirit and fire."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-15",
+      "type": "commentary",
+      "text": "16 : , a prophecy fulfilled at Pentecost (Acts 2.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-luke-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his granary; but the chaff he will burn with unquenchable fire.”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-16",
+      "type": "commentary",
+      "text": "17 : , a tool used in threshing grain.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-luke-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "So, with many other exhortations, he proclaimed the good news to the people."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-14",
+      "type": "commentary",
+      "text": "3.15–18: John's heralding of the messiah (Mt 3.11–12; Mk 1.7–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-17",
+      "type": "commentary",
+      "text": "18 : John's judgmental message about the coming of the Messiah is : 4.17–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-luke-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But Herod the ruler, who had been rebuked by him because of Herodias, his brother's wife, and because of all the evil things that Herod had done,"
+    },
+    {
+      "block_id": "oxford-luke-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "added to them all by shutting up John in prison."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-18",
+      "type": "commentary",
+      "text": "3.19–20: John's imprisonment by Herod. Herod Antipas had divorced the daughter of the Nabatean king to marry his niece, Herodias, who was married to Antipas's brother, Herod Philip. Luke mentions John's imprisonment before Jesus's baptism; cf. Mt 14.3–4; Mk 6.17–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-luke-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heaven was opened,"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-20",
+      "type": "commentary",
+      "text": "21 : Prayer is a prominent theme in Luke's portrait of Jesus (5.16; 6.12; 9.18,28; 11.1; 22.32,41–46).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-luke-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and the Holy Spirit descended upon him in bodily form like a dove. And a voice came from heaven, “You are my Son, the Beloved; with you I am well pleased.”"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-19",
+      "type": "commentary",
+      "text": "3.21–22: The baptism of Jesus (Mt 3.13–17; Mk 1.9–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-21",
+      "type": "commentary",
+      "text": "22 : See Ps 2.7; Isa 42.1. The from heaven returns at the Transfiguration (9.35). Here the addresses Jesus, alone, since is singular in form. The descent of the Holy Spirit like a dove anticipates the more dramatic coming of the Spirit “like the rush of a violent wind” and “tongues, as of fire” at Pentecost (Acts 2.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-luke-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Jesus was about thirty years old when he began his work. He was the son (as was thought) of Joseph son of Heli,"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-25",
+      "type": "commentary",
+      "text": "23 : , a round figure. Many scholars put Jesus's birth at 6 and his death at ca. 30 . If these dates are correct, Jesus began his ministry at about thirty-six years of age.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-luke-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,"
+    },
+    {
+      "block_id": "oxford-luke-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,"
+    },
+    {
+      "block_id": "oxford-luke-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "son of Maath, son of Mattathias, son of Semein, son of Josech, son of Joda,"
+    },
+    {
+      "block_id": "oxford-luke-3-27",
+      "type": "verse",
+      "number": 27,
+      "text": "son of Joanan, son of Rhesa, son of Zerubbabel, son of Shealtiel, son of Neri,"
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-24",
+      "type": "commentary",
+      "text": "23–27 : The persons from to are otherwise unknown. For the rest of the genealogy cf. Gen 5.3–32; 11.10–26; Ruth 4.18–22; 1 Chr 1.1–4,24–28; 2.1–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-luke-3-28",
+      "type": "verse",
+      "number": 28,
+      "text": "son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,"
+    },
+    {
+      "block_id": "oxford-luke-3-29",
+      "type": "verse",
+      "number": 29,
+      "text": "son of Joshua, son of Eliezer, son of Jorim, son of Matthat, son of Levi,"
+    },
+    {
+      "block_id": "oxford-luke-3-30",
+      "type": "verse",
+      "number": 30,
+      "text": "son of Simeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim,"
+    },
+    {
+      "block_id": "oxford-luke-3-31",
+      "type": "verse",
+      "number": 31,
+      "text": "son of Melea, son of Menna, son of Mattatha, son of Nathan, son of David,"
+    },
+    {
+      "block_id": "oxford-luke-3-32",
+      "type": "verse",
+      "number": 32,
+      "text": "son of Jesse, son of Obed, son of Boaz, son of Sala, son of Nahshon,"
+    },
+    {
+      "block_id": "oxford-luke-3-33",
+      "type": "verse",
+      "number": 33,
+      "text": "son of Amminadab, son of Admin, son of Arni, son of Hezron, son of Perez, son of Judah,"
+    },
+    {
+      "block_id": "oxford-luke-3-34",
+      "type": "verse",
+      "number": 34,
+      "text": "son of Jacob, son of Isaac, son of Abraham, son of Terah, son of Nahor,"
+    },
+    {
+      "block_id": "oxford-luke-3-35",
+      "type": "verse",
+      "number": 35,
+      "text": "son of Serug, son of Reu, son of Peleg, son of Eber, son of Shelah,"
+    },
+    {
+      "block_id": "oxford-luke-3-36",
+      "type": "verse",
+      "number": 36,
+      "text": "son of Cainan, son of Arphaxad, son of Shem, son of Noah, son of Lamech,"
+    },
+    {
+      "block_id": "oxford-luke-3-37",
+      "type": "verse",
+      "number": 37,
+      "text": "son of Methuselah, son of Enoch, son of Jared, son of Mahalaleel, son of Cainan,"
+    },
+    {
+      "block_id": "oxford-luke-3-38",
+      "type": "verse",
+      "number": 38,
+      "text": "son of Enos, son of Seth, son of Adam, son of God."
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–4.13: Jesus's preparation for ministry (Mt 3.1–4.11; Mk 1.2–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-22",
+      "type": "commentary",
+      "text": "3.23–38: The genealogy of Jesus (Mt 1.1–17). Luke traces Jesus's lineage back to Adam (Gen 5.1); linking Jesus's line with God's original creation shows Jesus's humanity and establishes his credentials as the universal savior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-luke-3-h1kj-23",
+      "type": "commentary",
+      "text": "23–38 : The genealogy traced through the line of Joseph includes David (v. 31) and Abraham (v. 34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "luke",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 38
+    }
+  ]
+}

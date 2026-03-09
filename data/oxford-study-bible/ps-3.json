@@ -1,0 +1,145 @@
+{
+  "document_id": "ps-3",
+  "title": "Psalms 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-3-heading-psalm-4",
+      "type": "heading",
+      "text": "Psalm 4"
+    },
+    {
+      "block_id": "oxford-ps-3-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O Lord, how many are my foes! Many are rising against me;"
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 3: Threatened by many but trusting still. An individual petition. Threatened by “many enemies” (v. 1) who deny that the can provide “help” and “deliverance” (vv. 2,8), the psalmist calmly affirms God’s presence. Each of the three sections (vv. 1–3; 4–6; 7–8) begins with a prayer and ends with a statement of confidence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-2",
+      "type": "commentary",
+      "text": "1 : The psalmist responds to the enemies by addressing God as “you” (v. 3) and using divine titles expressing power to save.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "many are saying to me, “There is no help for you in God.” Selah"
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-3",
+      "type": "commentary",
+      "text": "2 : (also vv. 4,8) is a musical notation, used a total of 78 times, only in Psalms and Hab 3. Its exact meaning is uncertain, but it often marks a section of a psalm.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But you, O Lord, are a shield around me, my glory, and the one who lifts up my head."
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , one who restores my glory or dignity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I cry aloud to the Lord, and he answers me from his holy hill. Selah"
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , Mount Zion, where some psalmists believed God was most present (but contrast, e.g., Ps 2.4, “He who sits in the heavens”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I lie down and sleep; I wake again, for the Lord sustains me."
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , calmly sleeping while enemies lurk is an act of trust.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I am not afraid of ten thousands of people who have set themselves against me all around."
+    },
+    {
+      "block_id": "oxford-ps-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Rise up, O Lord! Deliver me, O my God! For you strike all my enemies on the cheek; you break the teeth of the wicked."
+    },
+    {
+      "block_id": "oxford-ps-3-h1kj-7",
+      "type": "commentary",
+      "text": "7 : God striking the enemies on the mouth for their words is poetic justice, punishment fitting the crime. The psalmist, however, leaves the actual punishment to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Deliverance belongs to the Lord; may your blessing be on your people! Selah"
+    }
+  ]
+}

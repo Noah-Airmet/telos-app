@@ -1,0 +1,512 @@
+{
+  "document_id": "lev-23",
+  "title": "Leviticus 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the people of Israel and say to them: These are the appointed festivals of the Lord that you shall proclaim as holy convocations, my appointed festivals."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , better, “occasions.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lev-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Six days shall work be done; but the seventh day is a sabbath of complete rest, a holy convocation; you shall do no work: it is a sabbath to the Lord throughout your settlements."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-4",
+      "type": "commentary",
+      "text": "2b–3 : An interpolation that elevates the sabbath to the level of the other sacred festivals. Note the nearly identical formulation of v. 2b and v. 4, which originally followed v. 2a. The equation of sabbath and sacred festivals may have led to the prohibition of work on the festivals, which is not attested in the non‐Priestly calendars. , referring to the prohibition of all work (cf. v. 28; Num 29.7; Lev 16.31n.). On other holy occasions, regular occupational work is prohibited but not light work such as food preparation (cf. Ex 12.16; Lev 23.7–8,21,25,35–36; Num 28.18,25–26; 29.1,12,35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "These are the appointed festivals of the Lord, the holy convocations, which you shall celebrate at the time appointed for them."
+    },
+    {
+      "block_id": "oxford-lev-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "In the first month, on the fourteenth day of the month, at twilight, there shall be a passover offering to the Lord,"
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , MarchApril.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-lev-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and on the fifteenth day of the same month is the festival of unleavened bread to the Lord; seven days you shall eat unleavened bread."
+    },
+    {
+      "block_id": "oxford-lev-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "On the first day you shall have a holy convocation; you shall not work at your occupations."
+    },
+    {
+      "block_id": "oxford-lev-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For seven days you shall present the Lord’s offerings by fire; on the seventh day there shall be a holy convocation: you shall not work at your occupations."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-5",
+      "type": "commentary",
+      "text": "5–8 : The combined observance of Passover and the immediately following pilgrimage festival of unleavened bread—two separate, sequential festivals— is the first sacred occasion of the year. It coincides with the barley harvest. For further Priestly prescriptions concerning Passover and the festival of unleavened bread, see Ex 12.1–20,43–49; Num 9.1–14; 28.16–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lev-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord spoke to Moses:"
+    },
+    {
+      "block_id": "oxford-lev-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Speak to the people of Israel and say to them: When you enter the land that I am giving you and you reap its harvest, you shall bring the sheaf of the first fruits of your harvest to the priest."
+    },
+    {
+      "block_id": "oxford-lev-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He shall raise the sheaf before the Lord, that you may find acceptance; on the day after the sabbath the priest shall raise it."
+    },
+    {
+      "block_id": "oxford-lev-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "On the day when you raise the sheaf, you shall offer a lamb a year old, without blemish, as a burnt offering to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And the grain offering with it shall be two‐tenths of an ephah of choice flour mixed with oil, an offering by fire of pleasing odor to the Lord; and the drink offering with it shall be of wine, one‐fourth of a hin."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-8",
+      "type": "commentary",
+      "text": "13 : , see 19.35–36n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lev-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You shall eat no bread or parched grain or fresh ears until that very day, until you have brought the offering of your God: it is a statute forever throughout your generations in all your settlements."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-7",
+      "type": "commentary",
+      "text": "9–14 : The first‐fruits offering from the barley harvest; cf. 19.23–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-9",
+      "type": "commentary",
+      "text": "14 : , hallmark H language (cf. vv. 21,31,41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lev-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And from the day after the sabbath, from the day on which you bring the sheaf of the elevation offering, you shall count off seven weeks; they shall be complete."
+    },
+    {
+      "block_id": "oxford-lev-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "You shall count until the day after the seventh sabbath, fifty days; then you shall present an offering of new grain to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "You shall bring from your settlements two loaves of bread as an elevation offering, each made of two‐tenths of an ephah; they shall be of choice flour, baked with leaven, as first fruits to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "You shall present with the bread seven lambs a year old without blemish, one young bull, and two rams; they shall be a burnt offering to the Lord, along with their grain offering and their drink offerings, an offering by fire of pleasing odor to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You shall also offer one male goat for a sin offering, and two male lambs a year old as a sacrifice of well‐being."
+    },
+    {
+      "block_id": "oxford-lev-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The priest shall raise them with the bread of the first fruits as an elevation offering before the Lord, together with the two lambs; they shall be holy to the Lord for the priest."
+    },
+    {
+      "block_id": "oxford-lev-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "On that same day you shall make proclamation; you shall hold a holy convocation; you shall not work at your occupations. This is a statute forever in all your settlements throughout your generations."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-10",
+      "type": "commentary",
+      "text": "15–21 : Though this observance coincides with the pilgrimage “festival of weeks” elsewhere (Ex 34.22; Deut 16.10,16; cf. Ex 23.16), H leaves it unnamed and does not require any pilgrimage for it, perhaps because the community was occupied with the wheat harvest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 15,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-lev-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When you reap the harvest of your land, you shall not reap to the very edges of your field, or gather the gleanings of your harvest; you shall leave them for the poor and for the alien: I am the Lord your God."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-11",
+      "type": "commentary",
+      "text": "22 : See 19.9–10n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lev-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Speak to the people of Israel, saying: In the seventh month, on the first day of the month, you shall observe a day of complete rest, a holy convocation commemorated with trumpet blasts."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-13",
+      "type": "commentary",
+      "text": "24 : The (or, alternatively, “shouts”) are intended to remind God of his people (cf. Num 10.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-lev-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "You shall not work at your occupations; and you shall present the Lord’s offering by fire."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-12",
+      "type": "commentary",
+      "text": "23–25 : The end of the agricultural calendar (cf. Ex 23.16). In later Jewish tradition, the agricultural calendar became preeminent, and the seventh month was taken as the beginning of the new year (Rosh Hashanah).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-lev-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-15",
+      "type": "commentary",
+      "text": "26 : , better “day of purgations”; see 16.1–34n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-lev-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Now, the tenth day of this seventh month is the day of atonement; it shall be a holy convocation for you: you shall deny yourselves and present the Lord’s offering by fire;"
+    },
+    {
+      "block_id": "oxford-lev-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "and you shall do no work during that entire day; for it is a day of atonement, to make atonement on your behalf before the Lord your God."
+    },
+    {
+      "block_id": "oxford-lev-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For anyone who does not practice self‐denial during that entire day shall be cut off from the people."
+    },
+    {
+      "block_id": "oxford-lev-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "And anyone who does any work during that entire day, such a one I will destroy from the midst of the people."
+    },
+    {
+      "block_id": "oxford-lev-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "You shall do no work: it is a statute forever throughout your generations in all your settlements."
+    },
+    {
+      "block_id": "oxford-lev-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "It shall be to you a sabbath of complete rest, and you shall deny yourselves;a on the ninth day of the month at evening, from evening to evening you shall keep your sabbath."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-14",
+      "type": "commentary",
+      "text": "26–32 : Cf. ch 16. These verses correspond especially with 16.29–34a (H).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 26,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-lev-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-lev-23-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Speak to the people of Israel, saying: On the fifteenth day of this seventh month, and lasting seven days, there shall be the festival of booths to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The first day shall be a holy convocation; you shall not work at your occupations."
+    },
+    {
+      "block_id": "oxford-lev-23-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Seven days you shall present the Lord’s offerings by fire; on the eighth day you shall observe a holy convocation and present the Lord’s offerings by fire; it is a solemn assembly; you shall not work at your occupations."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-16",
+      "type": "commentary",
+      "text": "33–36 : The , celebrating the fruit harvest (cf. Ex 23.16; 34.22; Deut 16.13; 1 Kings 8.65).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 33,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-lev-23-37",
+      "type": "verse",
+      "number": 37,
+      "text": "These are the appointed festivals of the Lord, which you shall celebrate as times of holy convocation, for presenting to the Lord offerings by fire—burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day—"
+    },
+    {
+      "block_id": "oxford-lev-23-38",
+      "type": "verse",
+      "number": 38,
+      "text": "apart from the sabbaths of the Lord, and apart from your gifts, and apart from all your votive offerings, and apart from all your freewill offerings, which you give to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-17",
+      "type": "commentary",
+      "text": "37–38 : An earlier conclusion to the chapter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 37,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-lev-23-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Now, the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall keep the festival of the Lord, lasting seven days; a complete rest on the first day, and a complete rest on the eighth day."
+    },
+    {
+      "block_id": "oxford-lev-23-40",
+      "type": "verse",
+      "number": 40,
+      "text": "On the first day you shall take the fruit of majestic trees, branches of palm trees, boughs of leafy trees, and willows of the brook; and you shall rejoice before the Lord your God for seven days."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-19",
+      "type": "commentary",
+      "text": "40 : In Neh 8.14–17, these branches are used to construct booths.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-lev-23-41",
+      "type": "verse",
+      "number": 41,
+      "text": "You shall keep it as a festival to the Lord seven days in the year; you shall keep it in the seventh month as a statute forever throughout your generations."
+    },
+    {
+      "block_id": "oxford-lev-23-42",
+      "type": "verse",
+      "number": 42,
+      "text": "You shall live in booths for seven days; all that are citizens in Israel shall live in booths,"
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-18",
+      "type": "commentary",
+      "text": "39–42 : Further instructions for the festival of booths.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 39,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-lev-23-43",
+      "type": "verse",
+      "number": 43,
+      "text": "so that your generations may know that I made the people of Israel live in booths when I brought them out of the land of Egypt: I am the Lord your God."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-20",
+      "type": "commentary",
+      "text": "43 : Only here is the festival of booths historicized. There is no mention of the Israelites living in booths in the stories of the Exodus and wilderness period. This claim may originate by analogy to the deity’s wilderness tent sanctuary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-lev-23-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Thus Moses declared to the people of Israel the appointed festivals of the Lord."
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-1",
+      "type": "commentary",
+      "text": "17.1–26.46: The Holiness Collection. Most scholars agree that chs 17–26 (H) comprise a compositional stratum in the book of Leviticus separate from chs 1–16 (P). Chs 17–26 are especially concerned with holiness and extend the potential for holiness beyond the priests to the Israelite laity. For this reason, chs 17–26 are titled the Holiness Collection, abbreviated as H (see Introduction). Many scholars call this unit the Holiness Code, but like other ancient Near Eastern law collections, it is not a code: it has redundancies and contradictions (e.g., doubled laws in chs 18 and 20), is not organized for use by judges, and is not complete. Though previously believed to be older than chs 1–16, it is now clear that chs 17–26, as well as ch 27, are later additions to the preceding chapters meant to revise and supplement them. It is likely that H supplements P in part by borrowing and revising non‐Priestly laws from the books of Exodus and Deuteronomy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-lev-23-h1kj-2",
+      "type": "commentary",
+      "text": "23.1–44: Calendar of sacred occasions. Alongside Num 28–29, which focus on the offerings required for each sacred occasion, this chapter outlines the Priestly calendar of religious holidays. For non‐Priestly calendars, see Ex 23.10–17; 34.18–24; Deut 16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 44
+    }
+  ]
+}

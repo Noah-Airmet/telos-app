@@ -1,0 +1,439 @@
+{
+  "document_id": "lam-2",
+  "title": "Lamentations 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lam-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-lam-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord has destroyed without mercy all the dwellings of Jacob; in his wrath he has broken down the strongholds of daughter Judah; he has brought down to the ground in dishonor the kingdom and its rulers."
+    },
+    {
+      "block_id": "oxford-lam-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He has cut down in fierce anger all the might of Israel; he has withdrawn his right hand from them in the face of the enemy; he has burned like a flaming fire in Jacob, consuming all around."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , God's fighting arm and the symbol of his power and protection is intentionally withheld from Judah (Ex 15.6,12; Isa 41.10; Pss 48.10; 89.13; 98.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lam-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He has bent his bow like an enemy, with his right hand set like a foe; he has killed all in whom we took pride in the tent of daughter Zion; he has poured out his fury like fire."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , an archaic way of referring to the homes in Judah (cf. Jer 30.18) and to the Temple in Jerusalem (cf. Ps 15.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-lam-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord has become like an enemy; he has destroyed Israel. He has destroyed all its palaces, laid in ruins its strongholds, and multiplied in daughter Judah mourning and lamentation."
+    },
+    {
+      "block_id": "oxford-lam-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He has broken down his booth like a garden, he has destroyed his tabernacle; the Lord has abolished in Zion festival and sabbath, and in his fierce indignation has spurned king and priest."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , a temporary shelter (Job 27.18; Jon 4.5) and also the Temple (Pss 27.5; 76.2). : The Temple was destroyed easily, as if it were a booth or hut in a garden. , the “tent of meeting” (cf. Ex 25.1–31.18) constructed during the Exodus from Egypt, used as a metaphor for the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-lam-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord has scorned his altar, disowned his sanctuary; he has delivered into the hand of the enemy the walls of her palaces; a clamor was raised in the house of the Lord as on a day of festival."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , the exultant crowing of the invading and plundering enemy has replaced the joyful sounds of the crowds coming to the Temple on festivals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lam-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord determined to lay in ruins the wall of daughter Zion; he stretched the line; he did not withhold his hand from destroying; he caused rampart and wall to lament; they languish together."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-9",
+      "type": "commentary",
+      "text": "8 : Like an architect, God made a plan for unbuilding the city (cf. 2 Kings 21.13; Isa 34.11; Jer 31.39; Zech 1.16; Job 38.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lam-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Her gates have sunk into the ground; he has ruined and broken her bars; her king and princes are among the nations; guidance is no more, and her prophets obtain no vision from the Lord."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , Heb “torah.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-lam-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The elders of daughter Zion sit on the ground in silence; they have thrown dust on their heads and put on sackcloth; the young girls of Jerusalem have bowed their heads to the ground."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-2",
+      "type": "commentary",
+      "text": "2.1–10: God in his anger battles against Jerusalem destroying the city and the country of Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-8",
+      "type": "commentary",
+      "text": "8–10 : We see the towers, walls, and gates disintegrate. The movement is from top to bottom, ending with the inhabitants sitting on the ground in mourning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-11",
+      "type": "commentary",
+      "text": "10 : and , common rituals of mourning (cf. Gen 37.34; Job 16.15; Neh 9.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lam-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "My eyes are spent with weeping; my stomach churns; my bile is poured out on the ground because of the destruction of my people, because infants and babes faint in the streets of the city."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-13",
+      "type": "commentary",
+      "text": "11 : The narrator's words echo those of Jerusalem in 1.20. , see 1.20n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-lam-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "They cry to their mothers, “Where is bread and wine?” as they faint like the wounded in the streets of the city, as their life is poured out on their mothers’ bosom."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-14",
+      "type": "commentary",
+      "text": "11–12 : , better “squares,” i.e., broad places near the gates. The babies are starving in public.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-15",
+      "type": "commentary",
+      "text": "12 : That is, the stored-up food supplies, the staples. There is no food left anywhere. , lit., “grain.” , or “lap.” The mothers are holding their children where they should find comfort and nourishment as they starve to death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lam-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "What can I say for you, to what compare you, O daughter Jerusalem? To what can I liken you, that I may comfort you, O virgin daughter Zion? For vast as the sea is your ruin; who can heal you?"
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-16",
+      "type": "commentary",
+      "text": "13 : , see 1.6n., 1.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lam-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Your prophets have seen for you false and deceptive visions; they have not exposed your iniquity to restore your fortunes, but have seen oracles for you that are false and misleading."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-17",
+      "type": "commentary",
+      "text": "14 : , prophecies of deliverance from the Babylonian threat that were unfounded (see Jer 28.1–17; 29.8–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-lam-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "All who pass along the way clap their hands at you; they hiss and wag their heads at daughter Jerusalem; “Is this the city that was called the perfection of beauty, the joy of all the earth?”"
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-18",
+      "type": "commentary",
+      "text": "15 : , gestures of surprise and derision. The trope of the passerby witnessing the shame of the victims and reacting with shock is common and provides an additional perspective to that of Zion and the narrator. , see Ezek 16.14; 27.3; Ps 50.2; , see Jer 51.41; Ps 48.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-lam-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "All your enemies open their mouths against you; they hiss, they gnash their teeth, they cry: “We have devoured her! Ah, this is the day we longed for; at last we have seen it!”"
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-19",
+      "type": "commentary",
+      "text": "16 : The enemies mock and taunt the victims, taking credit for Judah's destruction, which v. 17 ascribes to God. The Babylonians never appear in the book; only Edom is named (4.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-lam-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The Lord has done what he purposed, he has carried out his threat; as he ordained long ago, he has demolished without pity; he has made the enemy rejoice over you, and exalted the might of your foes."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-20",
+      "type": "commentary",
+      "text": "17 : , the decree that if Judah sinned, the Temple would be destroyed and the people exiled from their land (1 Kings 9.6–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lam-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Cry aloud to the Lord! O wall of daughter Zion! Let tears stream down like a torrent day and night! Give yourself no rest, your eyes no respite!"
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-21",
+      "type": "commentary",
+      "text": "18 : , the physical city should cry out to God on behalf of its people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-lam-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Arise, cry out in the night, at the beginning of the watches! Pour out your heart like water before the presence of the Lord! Lift your hands to him for the lives of your children, who faint for hunger at the head of every street."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-12",
+      "type": "commentary",
+      "text": "2.11–19: The narrator's reaction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-22",
+      "type": "commentary",
+      "text": "19 : , the night was divided into three watches (see Ex 14.24; 1 Sam 11.11; Song 3.1–3; 5.7). Nighttime is when suffering seems hardest to bear and when many prayers are offered, with the expectation that God will respond in the morning (cf. Ps 30.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-lam-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Look, O Lord, and consider! To whom have you done this? Should women eat their offspring, the children they have borne? Should priest and prophet be killed in the sanctuary of the Lord?"
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-24",
+      "type": "commentary",
+      "text": "20 : Cannibalism was a result of the famine during a siege (4.10; 2 Kings 6.28) and a punishment for violating the covenant (Deut 28.53–57); this is a common trope in describing a siege. It is the reversal of the norm, in which women feed their children.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lam-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The young and the old are lying on the ground in the streets; my young women and my young men have fallen by the sword; in the day of your anger you have killed them, slaughtering without mercy."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-25",
+      "type": "commentary",
+      "text": "21 : , as if preparing meat for food or sacrifice. The idea continues in the next verse, where God invites the enemies when they would participate in a sacrificial meal in the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-lam-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "You invited my enemies from all around as if for a day of festival; and on the day of the anger of the Lord no one escaped or survived; those whom I bore and reared my enemy has destroyed."
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–22: The Lord has become like an enemy. The tone changes from the despair of ch 1 to anger, and the focus shifts from the victim to God, the perpetrator. Many verbs of strong military action portray God as a destroying enemy: e.g., “thrown down,” “destroyed,” “cut down,” “burned,” “bent his bow,” “killed.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-23",
+      "type": "commentary",
+      "text": "2.20–22: Jerusalem's address to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-2-h1kj-26",
+      "type": "commentary",
+      "text": "22 : , the time of punishment, like “the day of the ,” when God will punish those who deserve it (cf. 1.12; 2.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 2
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    }
+  ]
+}

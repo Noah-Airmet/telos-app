@@ -1,0 +1,92 @@
+{
+  "document_id": "ezek-15",
+  "title": "Ezekiel 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezek-15-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord came to me:"
+    },
+    {
+      "block_id": "oxford-ezek-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "O mortal, how does the wood of the vine surpass all other wood— the vine branch that is among the trees of the forest?"
+    },
+    {
+      "block_id": "oxford-ezek-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Is wood taken from it to make anything? Does one take a peg from it on which to hang any object?"
+    },
+    {
+      "block_id": "oxford-ezek-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "It is put in the fire for fuel; when the fire has consumed both ends of it and the middle of it is charred, is it useful for anything?"
+    },
+    {
+      "block_id": "oxford-ezek-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When it was whole it was used for nothing; how much less—when the fire has consumed it, and it is charred— can it ever be used for anything!"
+    },
+    {
+      "block_id": "oxford-ezek-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Therefore thus says the Lord God: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the inhabitants of Jerusalem."
+    },
+    {
+      "block_id": "oxford-ezek-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I will set my face against them; although they escape from the fire, the fire shall still consume them; and you shall know that I am the Lord, when I set my face against them."
+    },
+    {
+      "block_id": "oxford-ezek-15-h1kj-3",
+      "type": "commentary",
+      "text": "7 : d from total devastation in 597 , when the Babylonians first attacked Jerusalem. They see fiery destruction in 586 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 15
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ezek-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And I will make the land desolate, because they have acted faithlessly, says the Lord God."
+    },
+    {
+      "block_id": "oxford-ezek-15-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–24.27: Prophecies of doom against Judah and Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ezek-15-h1kj-2",
+      "type": "commentary",
+      "text": "15.1–8: Analogy of the useless vine. A wild vine of the forest is practically useless—its fruit may be poisonous (2 Kings 4.39–40), and it is unusable for woodworking. This metaphor for Jerusalem shows it has no intrinsic worthiness apart from God's mysterious election.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezek",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    }
+  ]
+}

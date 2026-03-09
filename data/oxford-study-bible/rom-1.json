@@ -1,0 +1,451 @@
+{
+  "document_id": "rom-1",
+  "title": "Romans 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-rom-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-rom-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "which he promised beforehand through his prophets in the holy scriptures,"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , God's prophets declared the good news in advance (Gal 3.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-rom-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "the gospel concerning his Son, who was descended from David according to the flesh"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-5",
+      "type": "commentary",
+      "text": "3 : The good news concerns God's . Kings of Israel, Israel itself, Roman emperors, and significant philosophers were designated “sons of God.” Jesus Christ is God's Son physically ( ) descended from , as in Mt 1.1–17,20; Lk 3.23–31.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-rom-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and was declared to be Son of God with power according to the spirit of holiness by resurrection from the dead, Jesus Christ our Lord,"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-3",
+      "type": "commentary",
+      "text": "2–4 : A confession of faith shared by both Paul and the Roman believers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , a phrase not found elsewhere in the NT, probably meaning the Holy Spirit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-rom-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "through whom we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for the sake of his name,"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-7",
+      "type": "commentary",
+      "text": "5 : (Rom 16.26) is a construction which equates obedience and faith. , Gk “ethnē” (lit., “nations”), a term used by Jews for all non-Jews. Paul was called by God to be the apostle to the Gentiles (see also 1.13; 15.16; Gal 1.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-rom-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "including yourselves who are called to belong to Jesus Christ,"
+    },
+    {
+      "block_id": "oxford-rom-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "To all God's beloved in Rome, who are called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–7: Salutation. Like other ancient Greco-Roman writers, Paul begins his letter to Rome by identifying himself and the letter's recipients. Unlike other undisputed letters Paul does not name a co-sender, even though Timothy is with him (16.21). This is an exceptionally lengthy self-identification in which Paul identifies himself by describing “the gospel.” It closes with a formula that draws God the Father and the Lord Jesus into the simpler “grace to you and peace” of other letters (1 Thess 1.1; for the longer form, Gal 1.3; Phil 1.2; 1 Cor 1.3; 2 Cor 1.2; Philem 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , lit., “holy ones,” the NT term for all believers in Jesus Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-rom-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed throughout the world."
+    },
+    {
+      "block_id": "oxford-rom-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For God, whom I serve with my spirit by announcing the gospel of his Son, is my witness that without ceasing I remember you always in my prayers,"
+    },
+    {
+      "block_id": "oxford-rom-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "asking that by God's will I may somehow at last succeed in coming to you."
+    },
+    {
+      "block_id": "oxford-rom-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For I am longing to see you so that I may share with you some spiritual gift to strengthen you—"
+    },
+    {
+      "block_id": "oxford-rom-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "or rather so that we may be mutually encouraged by each other's faith, both yours and mine."
+    },
+    {
+      "block_id": "oxford-rom-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I want you to know, brothers and sisters, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as I have among the rest of the Gentiles."
+    },
+    {
+      "block_id": "oxford-rom-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I am a debtor both to Greeks and to barbarians, both to the wise and to the foolish"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-10",
+      "type": "commentary",
+      "text": "14 : A standard way of classifying humanity. Paul insists that his life is in service to all non-Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-rom-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "—hence my eagerness to proclaim the gospel to you also who are in Rome."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-9",
+      "type": "commentary",
+      "text": "1.8–15: Thanksgiving. Ancient letters followed the salutation with an expression giving thanks for or praying for the well-being of recipients. Paul follows this practice except in Gal and in 2 Cor. This thanksgiving is unusual in its length and in focusing more on Paul than on the recipients.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-rom-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For I am not ashamed of the gospel; it is the power of God for salvation to everyone who has faith, to the Jew first and also to the Greek."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-12",
+      "type": "commentary",
+      "text": "16 : , a rhetorical trope to express the positive opposite of the negative statement. is , not a set of doctrines. The purpose of the gospel is and may benefit from its saving power. Paul reminds his hearers, who are primarily non-Jews (see 11.17–24), that the gospel first came to",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-rom-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For in it the righteousness of God is revealed through faith for faith; as it is written, “The one who is righteous will live by faith.”"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-11",
+      "type": "commentary",
+      "text": "1.16–17: The theme of the letter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-13",
+      "type": "commentary",
+      "text": "17 : , a central theme in Romans (see also 3.21–26). God's righteousness is God's character which desires justice (the Gk word for “righteousness” also means “justice”) for all God's creation. It is God, not Paul, who is revealing righteousness (10.3). may refer to the faithfulness of God or perhaps of Jesus, while is human trust in God. God gives God's own righteousness to those who have faith, and the result is life. Paul quotes Hab 2.4 in order to summarize the connection between the revelation of God's righteousness, and the reception of that righteousness by faith, and life; see the alternate translation of Hab 2.4 in textual note .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-rom-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For the wrath of God is revealed from heaven against all ungodliness and wickedness of those who by their wickedness suppress the truth."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-15",
+      "type": "commentary",
+      "text": "18 : reflects the human situation without the grace of God (3.22–23). Here God's wrath is passive; God responds to human unrighteousness by handing humanity over (1.24,26,28). (lit., “unrighteousness”), which is the opposite of God's righteous character, result from humans being willing to",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-rom-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For what can be known about God is plain to them, because God has shown it to them."
+    },
+    {
+      "block_id": "oxford-rom-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Ever since the creation of the world his eternal power and divine nature, invisible though they are, have been understood and seen through the things he has made. So they are without excuse;"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-16",
+      "type": "commentary",
+      "text": "20 : This is why",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-rom-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "for though they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their senseless minds were darkened."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-17",
+      "type": "commentary",
+      "text": "21 : Humans but made the fateful error of not honoring or thanking God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-rom-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Claiming to be wise, they became fools;"
+    },
+    {
+      "block_id": "oxford-rom-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "and they exchanged the glory of the immortal God for images resembling a mortal human being or birds or four-footed animals or reptiles."
+    },
+    {
+      "block_id": "oxford-rom-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Therefore God gave them up in the lusts of their hearts to impurity, to the degrading of their bodies among themselves,"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-18",
+      "type": "commentary",
+      "text": "24 : , lit., “God handed them over”; also vv. 26,28. This expression evokes the image of handing over to an enemy. Later it will be clear that Paul thinks that as a consequence of humanity's choice, humanity is under sin's power (3.9n.; 6.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-rom-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-19",
+      "type": "commentary",
+      "text": "25 : Humanity knew the truth about God, but it. Note the repetition of the idea of “exchange,” vv. 23,25,26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-20",
+      "type": "commentary",
+      "text": "25 : An example, among others, that Paul gives of the consequences of not honoring and thanking God is that women , just as men did. Whether Paul is talking about heterosexual people engaging in homosexual acts (that is, acts that are “unnatural” for heterosexuals) is unclear. It is uncertain whether Paul or his Jewish contemporaries ever considered the possibility of same-gender sexual orientation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-rom-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "For this reason God gave them up to degrading passions. Their women exchanged natural intercourse for unnatural,"
+    },
+    {
+      "block_id": "oxford-rom-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "and in the same way also the men, giving up natural intercourse with women, were consumed with passion for one another. Men committed shameless acts with men and received in their own persons the due penalty for their error."
+    },
+    {
+      "block_id": "oxford-rom-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And since they did not see fit to acknowledge God, God gave them up to a debased mind and to things that should not be done."
+    },
+    {
+      "block_id": "oxford-rom-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "They were filled with every kind of wickedness, evil, covetousness, malice. Full of envy, murder, strife, deceit, craftiness, they are gossips,"
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-21",
+      "type": "commentary",
+      "text": "29 : The consequence of not acknowledging God is that humanity is , which Paul goes on to itemize; for similar lists, see Gal 5.19–21; 1 Tim 1.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-rom-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "slanderers, God-haters, insolent, haughty, boastful, inventors of evil, rebellious toward parents,"
+    },
+    {
+      "block_id": "oxford-rom-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "foolish, faithless, heartless, ruthless."
+    },
+    {
+      "block_id": "oxford-rom-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "They know God's decree, that those who practice such things deserve to die—yet they not only do them but even applaud others who practice them."
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-14",
+      "type": "commentary",
+      "text": "1.18–32: Revelation of God's wrath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-rom-1-h1kj-22",
+      "type": "commentary",
+      "text": "32 : The evidence of humanity's self-inflicted predicament is that we choose to do things that we know mean that we",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "rom",
+        "chapter": 1
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    }
+  ]
+}

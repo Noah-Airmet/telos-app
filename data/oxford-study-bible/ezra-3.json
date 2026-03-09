@@ -1,0 +1,278 @@
+{
+  "document_id": "ezra-3",
+  "title": "Ezra 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezra-3-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When the seventh month came, and the Israelites were in the towns, the people gathered together in Jerusalem."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-3",
+      "type": "commentary",
+      "text": "1 : , Tishri, (September‐October), marked by holy convocations in Lev 23.23–43 and Num 29.1–38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ezra-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then Jeshua son of Jozadak, with his fellow priests, and Zerubbabel son of Shealtiel with his kin set out to build the altar of the God of Israel, to offer burnt offerings on it, as prescribed in the law of Moses the man of God."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , Ezra‐Nehemiah assumes a pattern of dual leadership by a priest and a secular leader. (Heb “torah”) , most likely some form of the Pentateuch (see notes to Neh 8). Ezra‐Nehemiah describes conformity to the “torah,” or teaching, of Moses (hence to God’s teachings), as the guiding principle in reconstruction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ezra-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They set up the altar on its foundation, because they were in dread of the neighboring peoples, and they offered burnt offerings upon it to the Lord, morning and evening."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , tension with local inhabitants and neighboring peoples is a major theme in Ezra‐Nehemiah. Some scholars see in this tension a debate between returning Judeans and those Judeans who remained in the land over who represents postexilic “Israel”; others suggest that surrounding cultures saw Jewish renewal as a threat, as Ezra 4 indicates.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezra-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And they kept the festival of booths, as prescribed, and offered the daily burnt offerings by number according to the ordinance, as required for each day,"
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-7",
+      "type": "commentary",
+      "text": "4 : , see Lev 23.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ezra-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and after that the regular burnt offerings, the offerings at the new moon and at all the sacred festivals of the Lord, and the offerings of everyone who made a freewill offering to the Lord."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , see Num 29.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ezra-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "From the first day of the seventh month they began to offer burnt offerings to the Lord. But the foundation of the temple of the Lord was not yet laid."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-5",
+      "type": "commentary",
+      "text": "3–6 : The detailed catalogue of sacrifices confirms the resumption of worship according to authoritative traditions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezra-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So they gave money to the masons and the carpenters, and food, drink, and oil to the Sidonians and the Tyrians to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from King Cyrus of Persia."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–7: First step: rebuilding the altar. The restoration of the altar and a functioning priesthood indicates the resumption of sacrificial worship, a central means of religious expression in the ancient world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-9",
+      "type": "commentary",
+      "text": "7 : Sidon and Tyre helped build Solomon’s Temple (1 Kings 5–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ezra-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "In the second year after their arrival at the house of God at Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak made a beginning, together with the rest of their people, the priests and the Levites and all who had come to Jerusalem from the captivity. They appointed the Levites, from twenty years old and upward, to have the oversight of the work on the house of the Lord."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-11",
+      "type": "commentary",
+      "text": "8 : , implicitly 537 or 536. Hag 2.18 dates the founding differently, to 520 . Ezra 5.16 credits Sheshbazzar, not Zerubbabel and Jeshua, with laying the foundations. Ezra‐Nehemiah thus compresses various events in its thematic presentation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ezra-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And Jeshua with his sons and his kin, and Kadmiel and his sons, Binnui and Hodaviah along with the sons of Henadad, the Levites, their sons and kin, together took charge of the workers in the house of God."
+    },
+    {
+      "block_id": "oxford-ezra-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When the builders laid the foundation of the temple of the Lord, the priests in their vestments were stationed to praise the Lord with trumpets, and the Levites, the sons of Asaph, with cymbals, according to the directions of King David of Israel;"
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-13",
+      "type": "commentary",
+      "text": "10 : ’s crowning achievement for Ezra‐Nehemiah (as for Chronicles) is the development of liturgy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ezra-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and they sang responsively, praising and giving thanks to the Lord, “For he is good, for his steadfast love endures forever toward Israel.” And all the people responded with a great shout when they praised the Lord, because the foundation of the house of the Lord was laid."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-14",
+      "type": "commentary",
+      "text": "11 : The quoted words are a frequently occurring refrain in late Psalms (e.g., 106.1; 107.1; 118.1; 136.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ezra-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But many of the priests and Levites and heads of families, old people who had seen the first house on its foundations, wept with a loud voice when they saw this house, though many shouted aloud for joy,"
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-15",
+      "type": "commentary",
+      "text": "12 : , Solomon’s Temple, destroyed in 586 . , postexilic sources contrast the splendor of Solomon’s Temple with the smaller, less glorious, postexilic Second Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ezra-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "so that the people could not distinguish the sound of the joyful shout from the sound of the people’s weeping, for the people shouted so loudly that the sound was heard far away."
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–6.22: Stage One of reconstruction: building the Temple. Ezra 3 emphasizes the determination of the returnees to rebuild the Temple as soon as possible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-10",
+      "type": "commentary",
+      "text": "3.8–13: Second step: founding the Second Temple. – reports that laying the foundation of the Temple provoked opposition from the people in the land and caused a delay in building the Temple itself. According to Ezra‐Nehemiah, this explains why the Temple was rebuilt only in the time of King Darius. The historical reality was likely more complex; the books of Haggai and Zechariah indicate that the people themselves lost interest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-12",
+      "type": "commentary",
+      "text": "10–13 : Celebration of temple‐foundings is a common ancient Near Eastern practice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ezra-3-h1kj-16",
+      "type": "commentary",
+      "text": "13 : , the rejoicing alerts the neighbors and triggers the opposition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    }
+  ]
+}

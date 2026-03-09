@@ -1,0 +1,277 @@
+{
+  "document_id": "jam-4",
+  "title": "jam 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jam-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-jam-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You want something and do not have it; so you commit murder. And you covet something and cannot obtain it; so you engage in disputes and conflicts. You do not have, because you do not ask."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , probably hyperbole, although the charge is leveled three times in the letter (see 2.11; 5.6n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jam-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You ask and do not receive, because you ask wrongly, in order to spend what you get on your pleasures."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , here the problem is the purpose of the request ( ) rather than “doubt” (see 1.6–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-jam-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Adulterers! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world becomes an enemy of God."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , Greek is feminine (“Adulteresses!”), recalling prophetic tradition of casting Israel as God's unfaithful wife (Jer 3.6–10; Ezek 16.8–52; Hos 1–3; cf. Mk 8.38). , contrast 2.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jam-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Or do you suppose that it is for nothing that the scripture says, “God yearns jealously for the spirit that he has made to dwell in us”?"
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , either a general statement setting up the citation in the next verse or a quotation from an unknown source.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jam-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But he gives all the more grace; therefore it says, “God opposes the proud, but gives grace to the humble.”"
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-7",
+      "type": "commentary",
+      "text": "6 : Quotation from Prov 3.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-jam-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+    },
+    {
+      "block_id": "oxford-jam-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-8",
+      "type": "commentary",
+      "text": "8 : , the seat of will and intellect (Mt 13.15; Jn 13.2), and so a correction to that results from nearness with God (cf. 1.7–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jam-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Lament and mourn and weep. Let your laughter be turned into mourning and your joy into dejection."
+    },
+    {
+      "block_id": "oxford-jam-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Humble yourselves before the Lord, and he will exalt you."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-9",
+      "type": "commentary",
+      "text": "9–10 : Repentance in anticipation of the great reversal at the last day (see 1.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jam-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Do not speak evil against one another, brothers and sisters. Whoever speaks evil against another or judges another, speaks evil against the law and judges the law; but if you judge the law, you are not a doer of the law but a judge."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , the law properly rules over the readers (2.8; cf. 1.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jam-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "There is one lawgiver and judge who is able to save and to destroy. So who, then, are you to judge your neighbor?"
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–12: Relations with God and others.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-11",
+      "type": "commentary",
+      "text": "12 : God is by changing one's will (1.18, 21) or to by being left to one's “desire … sin … [and] death” (1.14–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jam-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Come now, you who say, “Today or tomorrow we will go to such and such a town and spend a year there, doing business and making money.”"
+    },
+    {
+      "block_id": "oxford-jam-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Yet you do not even know what tomorrow will bring. What is your life? For you are a mist that appears for a little while and then vanishes."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-13",
+      "type": "commentary",
+      "text": "4.14 : , Christ's return “is near” (5.8–9), but the precise time is unknown (Mk 13.32). , the impermanence of this age and its ways of life (1.11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-jam-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Instead you ought to say, “If the Lord wishes, we will live and do this or that.”"
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-14",
+      "type": "commentary",
+      "text": "15 : , actions are properly determined by God's will and word (1.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jam-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "As it is, you boast in your arrogance; all such boasting is evil."
+    },
+    {
+      "block_id": "oxford-jam-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Anyone, then, who knows the right thing to do and fails to do it, commits sin."
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-12",
+      "type": "commentary",
+      "text": "4.13–5.9: Coming judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-jam-4-h1kj-15",
+      "type": "commentary",
+      "text": "17 : Theologically termed “sins of omission” arising from failing to do what one knows God desires (2.16n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jam",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

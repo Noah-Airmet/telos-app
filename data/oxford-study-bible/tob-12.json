@@ -1,0 +1,271 @@
+{
+  "document_id": "tob-12",
+  "title": "Tobit 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-tob-12-heading-13",
+      "type": "heading",
+      "text": "13"
+    },
+    {
+      "block_id": "oxford-tob-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He replied, “Father, how much shall I pay him? It would do no harm to give him half of the possessions brought back with me."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-2",
+      "type": "commentary",
+      "text": "2 : The fee had been determined (5.15–16). , one-quarter of Raguel's estate plus half the loan. The generosity is consistent with Tobit's insistence on almsgiving (4.7–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-tob-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For he has led me back to you safely, he cured my wife, he brought the money back with me, and he healed you. How much extra shall I give him as a bonus?”"
+    },
+    {
+      "block_id": "oxford-tob-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Tobit said, “He deserves, my child, to receive half of all that he brought back.”"
+    },
+    {
+      "block_id": "oxford-tob-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So Tobias called him and said, “Take for your wages half of all that you brought back, and farewell.”"
+    },
+    {
+      "block_id": "oxford-tob-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then Raphaelb called the two of them privately and said to them, “Bless God and acknowledge him in the presence of all the living for the good things he has done for you. Bless and sing praise to his name. With fitting honor declare to all people the deeds of God. Do not be slow to acknowledge him."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-3",
+      "type": "commentary",
+      "text": "6 : expresses a universalistic impulse (13.3–4,11; 14.6–7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-tob-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "It is good to conceal the secret of a king, but to acknowledge and reveal the works of God, and with fitting honor to acknowledge him. Do good and evil will not overtake you."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-4",
+      "type": "commentary",
+      "text": "7 : anticipates Raphael's revelation in v. 11 and recalls Tobit's position at court (1.13–14); indeed, Tobit reveals no court secrets. , as Tobit had done in 11.17 and as Raphael will do in v. 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-tob-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Prayer with fasting is good, but better than both is almsgiving with righteousness. A little with righteousness is better than wealth with wrongdoing. It is better to give alms than to lay up gold."
+    },
+    {
+      "block_id": "oxford-tob-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For almsgiving saves from death and purges away every sin. Those who give alms will enjoy a full life,"
+    },
+    {
+      "block_id": "oxford-tob-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "but those who commit sin and do wrong are their own worst enemies."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-5",
+      "type": "commentary",
+      "text": "7b–10 : Proverbial sayings continue the emphasis on charitable deeds (4.6–11); for , which becomes increasingly important in the postexilic period, see also 1 Macc 3.47; Esth 4.3,16; Mt 6.16–18; , see 4.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-tob-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“I will now declare the whole truth to you and will conceal nothing from you. Already I have declared it to you when I said, ‘It is good to conceal the secret of a king, but to reveal with due honor the works of God.’"
+    },
+    {
+      "block_id": "oxford-tob-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "So now when you and Sarah prayed, it was I who brought and read the record of your prayer before the glory of the Lord, and likewise whenever you would bury the dead."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-6",
+      "type": "commentary",
+      "text": "12 : , on guardian angels, see Ps 91.11; Mt 18.10; Heb 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-tob-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And that time when you did not hesitate to get up and leave your dinner to go and bury the dead,"
+    },
+    {
+      "block_id": "oxford-tob-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I was sent to you to test you. And at the same time God sent me to heal you and Sarah your daughter-in-law."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-7",
+      "type": "commentary",
+      "text": "14 : indicates that Tobit's blindness and his subsequent trials resulted from God's active effort (Gen 22.1; Job 1–2); unmentioned is whether Sarah's trials were also tests. Jerome's Vulgate here compares Tobit to Job.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-tob-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I am Raphael, one of the seven angels who stand ready and enter before the glory of the Lord.”"
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-8",
+      "type": "commentary",
+      "text": "15 : , see 3.16n.; Rev. 8.2; Daniel mentions Gabriel (Dan 8.16; 9.21; cf. Lk 1.19,26) and Michael (Dan 10.13,21; 12.1; cf. Jude 9; Rev 12.7). , see 3.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-tob-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The two of them were shaken; they fell face down, for they were afraid."
+    },
+    {
+      "block_id": "oxford-tob-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But he said to them, “Do not be afraid; peace be with you. Bless God forevermore."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-9",
+      "type": "commentary",
+      "text": "16-17 : , fear and prostration are standard reactions to epiphanies (Dan 10.9,12), as is the response, .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-tob-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "As for me, when I was with you, I was not acting on my own will, but by the will of God. Bless him each and every day; sing his praises."
+    },
+    {
+      "block_id": "oxford-tob-12-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Although you were watching me, I really did not eat or drink anything—but what you saw was a vision."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-10",
+      "type": "commentary",
+      "text": "19 : See 6.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-tob-12-20",
+      "type": "verse",
+      "number": 20,
+      "text": "So now get up from the ground, and acknowledge God. See, I am ascending to him who sent me. Write down all these things that have happened to you.” And he ascended."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-11",
+      "type": "commentary",
+      "text": "20 : Jesus's ascension in Acts 1.9 shares several motifs with this scene.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-tob-12-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then they stood up, and could see him no more."
+    },
+    {
+      "block_id": "oxford-tob-12-22",
+      "type": "verse",
+      "number": 22,
+      "text": "They kept blessing God and singing his praises, and they acknowledged God for these marvelous deeds of his, when an angel of God had appeared to them."
+    },
+    {
+      "block_id": "oxford-tob-12-h1kj-1",
+      "type": "commentary",
+      "text": "12.1–22: Raphael's revelations. Raphael exhorts Tobit and his son to good deeds and piety and explains his role in testing Tobit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "tob",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    }
+  ]
+}

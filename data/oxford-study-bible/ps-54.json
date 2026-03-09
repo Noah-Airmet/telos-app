@@ -1,0 +1,115 @@
+{
+  "document_id": "ps-54",
+  "title": "Psalms 54",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-54-heading-psalm-55",
+      "type": "heading",
+      "text": "Psalm 55"
+    },
+    {
+      "block_id": "oxford-ps-54-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Save me, O God, by your name, and vindicate me by your might."
+    },
+    {
+      "block_id": "oxford-ps-54-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 54: God’s saving power. An individual petition that focuses on the power of God’s name (vv. 1,6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 54
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-54-h1kj-2",
+      "type": "commentary",
+      "text": "1 :To invoke God’s is a way of expressing one’s loyalty and sets up the expectation that God will come to the rescue.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 54
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-54-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear my prayer, O God; give ear to the words of my mouth."
+    },
+    {
+      "block_id": "oxford-ps-54-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For the insolent have risen against me, the ruthless seek my life; they do not set God before them. Selah"
+    },
+    {
+      "block_id": "oxford-ps-54-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 54
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-54-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But surely, God is my helper; the Lord is the upholder of my life."
+    },
+    {
+      "block_id": "oxford-ps-54-h1kj-4",
+      "type": "commentary",
+      "text": "4 : A strong statement of trust in God as and who will punish the enemies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 54
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-54-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He will repay my enemies for their evil. In your faithfulness, put an end to them."
+    },
+    {
+      "block_id": "oxford-ps-54-6",
+      "type": "verse",
+      "number": 6,
+      "text": "With a freewill offering I will sacrifice to you; I will give thanks to your name, O Lord, for it is good."
+    },
+    {
+      "block_id": "oxford-ps-54-h1kj-5",
+      "type": "commentary",
+      "text": "6 : The psalmist offers God two motivations to help: a promise of a , and to thank God publicly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 54
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-54-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For he has delivered me from every trouble, and my eye has looked in triumph on my enemies."
+    }
+  ]
+}

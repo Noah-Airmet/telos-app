@@ -1,0 +1,162 @@
+{
+  "document_id": "oxford-essay-gospels",
+  "title": "Introduction to the Gospels",
+  "type": "essay",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-essay-gospels-heading-0",
+      "type": "heading",
+      "text": "The Literary Genre of the Gospels"
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-1",
+      "type": "paragraph",
+      "text": "The English word “gospel” originally meant “good news,” and it is an exact translation of the Gk word euangelion (from which the English word “evangelist” is derived). The opening of Mark's Gospel, “The beginning of the good news [or “gospel”] of Jesus Christ, the Son of God” (1.1), uses the word “gospel” for the message about salvation through Jesus. In the New Testament the Gk word refers either to the act of preaching (1 Thess 1.5, NRSV: “our message of the gospel”) or its content (Acts 15.7, NRSV: “message of the good news”; 20.24, NRSV: “good news”). Outside the New Testament and other early Christian writings, the term is used for celebratory announcements, such as a military victory, the birth of a son, or a wedding. An inscription from 9 bce uses the noun (in the plural) to refer to the past event of the birth of the Roman emperor Augustus: “the birthday of the god was for the world the beginning of ‘joyful messages’ which have gone forth because of him.” The idea that an emperor's birth, coming of age, and ascent to the throne was “good news” for the world would have come to mind when Christian missionaries came preaching “good news.” Not until the mid-second century ce was the word for “gospel” used of a literary genre (Justin Martyr, Dialogue with Trypho 10.2; Irenaeus, Adv. Haer. 50.26.6).",
+      "compare_unit_ids": [
+        "mark-1-1",
+        "1-thess-1-5",
+        "acts-15-7",
+        "acts-20-24"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-2",
+      "type": "paragraph",
+      "text": "The use of the word “gospel” in Mark's introduction presumably led to its being adopted as the designation for written accounts of the ministry, teaching, death, and resurrection of Jesus. Short formulas in Paul's letters show that the “good news” of early preaching focused on the death, resurrection, and exaltation of Jesus (1 Thess 1.9–10; Rom 1.2–4; 1 Cor 15.3–5). Mark expanded this usage to include Jesus's own preaching of the kingdom of God (Mk 1.14–15). So far as we know, Mark was the first to create a distinctive literary form that combined early Christian preaching about Jesus with a narrative account of Jesus's life and ministry. Writings that some scholars date earlier than Mark are collections of sayings with little or no narrative framework.",
+      "compare_unit_ids": [
+        "1-thess-1-9",
+        "1-thess-1-10",
+        "rom-1-2",
+        "rom-1-4",
+        "1-cor-15-3",
+        "1-cor-15-5",
+        "mark-1-14",
+        "mark-1-15"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-3",
+      "type": "paragraph",
+      "text": "By presenting a narrative about Jesus as the basis of Christian preaching (see Lk 1.1–4), the Gospel writers (the “evangelists”) assume that the life of Jesus provides evidence to support Christian beliefs about him. By providing an account of Jesus from the time of his emergence on the public stage through his trial and death, Mark created a “life” (Gk bios) of his subject. The ancient bios should not be confused with a modern biography, which explicates the subject's origins, family, cultural influences, and character development, and tends to emphasize uniqueness and individuality. Ancient writers often characterized persons as types, and the narratives of their lives reflected a view that individuals had fixed characters from birth rather than personalities that developed through life.",
+      "compare_unit_ids": [
+        "luke-1-1",
+        "luke-1-4"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-4",
+      "type": "paragraph",
+      "text": "Still, scholars disagree over the extent to which the Gospels follow conventions of ancient biography. Because the story of Jesus concerns a figure with a crucial place in the history of God's relationship with Israel, it is closer to Jewish accounts of Moses or a prophet like Elijah than to typical Greek and Roman biographies of rulers or philosophers (e.g., Xenophon, Agesilaus; Isocrates, Evagoras; Tacitus, Agricola; Lucian, Demonax), which had a wider scope, including an account of the preliminary education of the subject of the biography. Greco-Roman biographies were addressed to a social and literary elite, which may explain why the Gospels, addressed to a much broader audience, do not match them very closely. Philo's Life of Moses adopts a Hellenistic-style laudatory biography for a Jewish subject. Echoes of the life of Moses as related in the book of Exodus and other Jewish sources appear in Matthew's version of the birth and infancy of Jesus (Mt 1–2).",
+      "compare_unit_ids": [
+        "matt-1-1",
+        "matt-2-1"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-5",
+      "type": "paragraph",
+      "text": "Since the genre “biography” emerged from Greek historical writing, the question of whether the Gospels belong to this genre often involves a prior judgment concerning their historical plausibility. Scholars who reject biography as a description of the Gospels often overemphasize the ideological or legendary elements found in the narratives. They prefer to read the Gospels as etiological legends explaining the emergence of a new religion or as ideological representations of the Christology of particular early Christian communities. Such writings do not intend to provide historical information about their subject. Rather, they operate like myths and symbols to support Christian beliefs and practices."
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-6",
+      "type": "paragraph",
+      "text": "Second-century ce authors, on the other hand, both adherents of Christianity like Justin Martyr and opponents like Celsus, presumed that the evangelists intended to provide information. Justin Martyr's designation of the Gospels as “memoirs” (Gk hypomnemata; 1 Apology 1.67.3) suggests something less than a full literary biography, something more like a gathering of notes about the subject and his teaching. This perception may have been enhanced by the fact that early Christians disseminated their writings using a codex (similar to a bound book) rather than a scroll. Though some modern readers think of the codex as a technological advance over the scroll, the ancients did not. Serious literary works were copied onto scrolls. Notes, preliminary drafts, and all sorts of records were kept in codices. Thus their physical appearance would suggest to an ancient reader that the Gospels were more educational handbooks than examples of high literary art. Papias's comment that Mark is “not in order” (Eusebius, Hist. eccl. 3.39.5) shows that even some Christian readers considered it an unfinished composition. Papias also noted that Matthew was a more polished work (Eusebius, Hist. eccl. 3.39.16). Luke's prologue states that he intends to correct the deficiencies in earlier accounts (1.1–4). Such comments indicate that Mark's earliest readers treated the Gospel as a rough life of Jesus. A “biography” of this type naturally invited expansions in content and revisions of style like those that Matthew and Luke subsequently undertook.",
+      "compare_unit_ids": [
+        "luke-1-1",
+        "luke-1-4"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-heading-7",
+      "type": "heading",
+      "text": "The Sources of the Gospels"
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-8",
+      "type": "paragraph",
+      "text": "A historical genre does not necessarily guarantee historical accuracy or reliability, and neither the evangelists nor their first readers engaged in historical analysis. Their aim was to confirm Christian faith (Lk 1.4; Jn 20.31). Scholars generally agree that the Gospels were written forty to sixty years after the death of Jesus. They are not eyewitness or contemporary accounts of Jesus's life and teaching. Even the language has changed. Though Greek had become the common language used by groups whose primary languages were different in the eastern Roman Empire, and inscriptions and fragments of Greek translations of the Hebrew Bible show that Greek was used among Jews within Judea, Jesus, his disciples, and the crowds would have used Aramaic, a Semitic language closely related to Hebrew, which it had replaced as the principal spoken language of Palestine. Despite scholarly efforts to detect an underlying Aramaic original for Mark or Matthew, it is probable that all the evangelists wrote in the common (koinē) Greek of their day. Further, the vast majority of Hebrew Bible citations in the New Testament are taken from the Greek translation of the Hebrew Bible (the Septuagint).",
+      "compare_unit_ids": [
+        "luke-1-4",
+        "john-20-31"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-9",
+      "type": "paragraph",
+      "text": "In the third century ce, Eusebius created a system of dividing the gospels into narrative units and creating lists indicating which sections appear in some form in all four, in various groupings of three and two, and finally which ones are unique to the gospel in question. Codices marked up with this system enabled readers to locate different versions of the same episode. Today students use special books laid out in parallel columns, a “gospel synopsis.” Large sections of Matthew, Mark, and Luke repeat stories about and sayings of Jesus in nearly identical words. Hence these three Gospels are referred to as the “Synoptic” Gospels (from Gk synoptikos, “viewed together”). On a linguistic level, both Luke and Matthew improve on Mark's style, smoothing out inelegant expressions and repetitions. Luke eliminates Mark's characteristic use of parataxis (one short phrase following another without indicating how they are related) by employing balancing particles and subordinate clauses. Matthew follows Mark's outline, though the insertion of considerable sections of discourse material may obscure that relationship for the casual reader. Luke knows most of Mark but has no parallels to Mk 6.45–8.26; whether Luke chose to omit this section or had a different version of Mark remains unclear. Detailed analysis of the traditions shared by Matthew, Mark, and Luke provides strong support for the view that Mark provided the template that Matthew and Luke revised, both correcting and smoothing out its language and expanding the Jesus material it contained.",
+      "compare_unit_ids": [
+        "mark-6-45",
+        "mark-8-26"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-10",
+      "type": "paragraph",
+      "text": "Further study of additional material shared by Matthew and Luke shows a number of close verbal parallels in passages such as the temptation of Jesus (Mt 4.2–11; Lk 4.2–13), the Beatitudes (Lk 6.20–23; Mt 5.3,6,4,11–12), the parable of the lost sheep (Lk 15.4–7; Mt 18.12–14), and the Lord's Prayer (Lk 11.2–4; Mt 6.9–13). These parallels include various types of sayings, controversy stories, and parables. Scholars hypothesized that a collection of such material must have been circulating in the early churches, and they have designated it with the symbol “Q,” from the German Quelle (“source”). In 1945, a library of religious treatises in Coptic was discovered near Nag Hammadi in Egypt. They included just such a “sayings book,” the Gospel of Thomas. Subsequently, sayings from a variant tradition of this Gospel in Greek were identified among Greek papyri. The Gospel of Thomas is not “Q”: Some of its sayings and parables appear to have been taken from the Synoptic Gospels rather than from earlier oral tradition. But its discovery provides evidence that such sayings collections existed. Some scholars remain skeptical of the Q hypothesis, proposing instead complex explanations of how each successive gospel writer adapted the work of his predecessors. Sayings in the Gospel of Thomas collection that reflect a specific Synoptic Gospel suggest that the entire collection derived from oral repetition of canonical gospel material.",
+      "compare_unit_ids": [
+        "matt-4-2",
+        "matt-4-11",
+        "luke-4-2",
+        "luke-4-13",
+        "luke-6-20",
+        "luke-6-23",
+        "matt-5-3",
+        "matt-5-6",
+        "matt-5-4",
+        "matt-5-11",
+        "matt-5-12",
+        "luke-15-4",
+        "luke-15-7",
+        "matt-18-12",
+        "matt-18-14",
+        "luke-11-2",
+        "luke-11-4",
+        "matt-6-9",
+        "matt-6-13"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-11",
+      "type": "paragraph",
+      "text": "Scholars generally presume that the Gospel writers had other such notebook-like collections of material such as parables and miracle stories. Presumably, additional items, such as genealogies, hymnic prayers, and legends in the infancy narratives of Matthew and Luke, were not created by the evangelists but come from earlier tradition. Similarly, some of the material found only in Matthew or in Luke is not likely to be the author's creation. The following diagram shows the understanding of a majority of scholars about the sources and literary relationships of the Synoptic Gospels."
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-12",
+      "type": "paragraph",
+      "text": "There may also have been an earlier narrative of the passion and death of Jesus; some scholars think that most of Mark's narrative came from such a source, while others maintain that there is no evidence for such an account. The origin of the story of Jesus's passion is unclear when measured against Jewish and Roman judicial practice, and some details may have been based on biblical descriptions of the suffering righteous one. It is important to recognize that in the scribal culture of the earliest centuries texts were not fixed by the initial author. Additional clarifications and even freely circulating material could be incorporated by later scribes. Modern editions sometimes mark these expansions (see Mk 16.9–20; Lk 22.43–44 textual note a; Jn 7.53–8.11).",
+      "compare_unit_ids": [
+        "mark-16-9",
+        "mark-16-20",
+        "luke-22-43",
+        "luke-22-44",
+        "john-7-53",
+        "john-8-11"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-13",
+      "type": "paragraph",
+      "text": "While the Synoptixc Gospels have a close literary relationship, the Fourth Gospel, the Gospel of John, presents a much greater puzzle. Its chronology of Jesus's ministry differs from that of the Synoptics. In John, Jesus spends three years preaching, during which he journeys between Galilee and Jerusalem; in the Synoptic Gospels, he visits Jerusalem only once, at the end of a ministry that apparently lasted less than a year. The episode denouncing the sellers in the Temple, which enrages the religious authorities and leads to his death in the Synoptics, occurs near the beginning of the three-year ministry in John (Jn 2.13–22). John claims that Jesus's popularity with Jerusalem crowds after he dramatically restored Lazarus to life awakened political fears for the safety of the nation (Jn 11.45–57; 12.9–11). John's account of the passion also differs markedly: there is no agony. Conscious of his unity with the Father and the cross as his exaltation and return to preexistent glory, Jesus controls all the events; he engages Pilate, the Roman governor, in an ironic discussion of kingship; and John includes a disciple-witness, a resident of Jerusalem, who does not flee with the others. Is this unnamed “disciple whom Jesus loved” (Jn 21.7,20; cf. 19.26; 20.2) a symbolic creation of the Evangelist? Some scholars think so; others suggest that he was a historical individual, responsible for the gospel's unique tradition and theology, as it alleges (19.35; 21.24). What led the author of the Gospel of John to compose this variant on the narrative of Jesus's life that still has a recognizable similarity to Mark (and in some instances to Luke)? Some scholars use the parallels as indications of a shorter sketch of Jesus's life known to both authors. Others think that the Gospel of Mark, and perhaps also Luke, were already circulating in the Evangelist's area. He assumed that readers knew other accounts of Jesus's life and teaching, and formulated a different version of Jesus and what he taught to show that Jesus of Nazareth was not just a miracle-worker, prophet, or charismatic teacher but the incarnate Son of God. That claim constitutes the flash point between Jesus and the Jewish authorities throughout the narrative.",
+      "compare_unit_ids": [
+        "john-2-13",
+        "john-2-22",
+        "john-11-45",
+        "john-11-57",
+        "john-12-9",
+        "john-12-11",
+        "john-21-7",
+        "john-21-20",
+        "john-19-26",
+        "john-20-2",
+        "john-19-35",
+        "john-21-24"
+      ]
+    },
+    {
+      "block_id": "oxford-essay-gospels-para-14",
+      "type": "paragraph",
+      "text": "The Evangelists did more than edit notebooks of Jesus traditions. Rather, each shaped the narrative to emphasize particular features of Jesus and his teaching. Readers may approach every Gospel in a similar way, asking what are the special characteristics of Jesus and of his followers in each Evangelist's presentation of Jesus and of those who follow Jesus."
+    }
+  ]
+}

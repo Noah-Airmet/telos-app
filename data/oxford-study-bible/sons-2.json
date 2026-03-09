@@ -1,0 +1,265 @@
+{
+  "document_id": "sons-2",
+  "title": "sons 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sons-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-sons-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As a lily among brambles, so is my love among maidens."
+    },
+    {
+      "block_id": "oxford-sons-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "As an apple tree among the trees of the wood, so is my beloved among young men. With great delight I sat in his shadow, and his fruit was sweet to my taste."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-2",
+      "type": "commentary",
+      "text": "1.15–2.3 : Mutual adoration. The man (v. 15) and the woman (vv. 16–17) praise each other in similar terms. She compares herself to flowers we cannot identify with certainty (2.1). He turns her self-description into a compliment (v. 2), which she returns in a way that echoes his words (v. 3). , either the coastal plain between Jaffa and Mount Carmel or simply “the plain.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sons-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He brought me to the banqueting house, and his intention toward me was love."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-3",
+      "type": "commentary",
+      "text": "2.4 : , lit., “house of wine,” where the lovers dwell in their mutual intoxication.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-sons-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Sustain me with raisins, refresh me with apples; for I am faint with love."
+    },
+    {
+      "block_id": "oxford-sons-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O that his left hand were under my head, and that his right hand embraced me!"
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-5",
+      "type": "commentary",
+      "text": "6 : Either a wish or a statement of fact; see 8.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sons-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I adjure you, O daughters of Jerusalem, by the gazelles or the wild does: do not stir up or awaken love until it is ready!"
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-1",
+      "type": "commentary",
+      "text": "1.2–2.7: A montage of short speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-4",
+      "type": "commentary",
+      "text": "5–7 : The woman addresses the women of Jerusalem. , lovesickness, for which the cause, love, is also the cure.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-6",
+      "type": "commentary",
+      "text": "7 : See 3.5; 8.4. This resembles a conventional way of swearing an oath but lacks the solemnity: the word for “gazelles” looks and sounds like the word for “hosts” in the name “Lord of Hosts,” and Hebrew “ʾaylot hassadeh” (“wild does”) recalls the divine name El Shaddai. is personified as something that has a will of its own.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sons-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The voice of my beloved! Look, he comes, leaping upon the mountains, bounding over the hills."
+    },
+    {
+      "block_id": "oxford-sons-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "My beloved is like a gazelle or a young stag. Look, there he stands behind our wall, gazing in at the windows, looking through the lattice."
+    },
+    {
+      "block_id": "oxford-sons-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "My beloved speaks and says to me: “Arise, my love, my fair one, and come away;"
+    },
+    {
+      "block_id": "oxford-sons-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "for now the winter is past, the rain is over and gone."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-9",
+      "type": "commentary",
+      "text": "11 : , the rainy season.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sons-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The flowers appear on the earth; the time of singing has come, and the voice of the turtledove is heard in our land."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-10",
+      "type": "commentary",
+      "text": "12 : may also be read as “time of pruning.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sons-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The fig tree puts forth its figs, and the vines are in blossom; they give forth fragrance. Arise, my love, my fair one, and come away."
+    },
+    {
+      "block_id": "oxford-sons-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "O my dove, in the clefts of the rock, in the covert of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your face is lovely."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-11",
+      "type": "commentary",
+      "text": "14 : She seems inaccessible, perhaps also shy and hesitant.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sons-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Catch us the foxes, the little foxes, that ruin the vineyards— for our vineyards are in blossom.”"
+    },
+    {
+      "block_id": "oxford-sons-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "My beloved is mine and I am his; he pastures his flock among the lilies."
+    },
+    {
+      "block_id": "oxford-sons-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Until the day breathes and the shadows flee, turn, my beloved, be like a gazelle or a young stag on the cleft mountains."
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-7",
+      "type": "commentary",
+      "text": "2.8–3.11: The woman's first long speech. The woman's primary mode of speaking about love is to tell stories in which she and her lover are characters. As stories, these parts of the Song, unlike the poem as a whole, have plots. Here she tells three.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-8",
+      "type": "commentary",
+      "text": "2.8–17 : The first describes the man's visit to her house and his invitation to her to join him outdoors to enjoy the springtime. , better, “Listen! My lover!” “Listen” and create the impression of immediacy. His movements are captured in process as he draws closer: and , then and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-12",
+      "type": "commentary",
+      "text": "15–17 : She answers his request to hear her voice. and , young men and young women. In v. 15 she speaks for women in general; in v. 16, about her relationship with her lover, which is exclusive and mutual.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sons-2-h1kj-13",
+      "type": "commentary",
+      "text": "17 : could refer to either evening or morning. Whereas she seems to be saying that the time has come for her lover to return, over the mountains, from which he came (v. 8), (or emend to “mountains of spices” as in 8.14) alludes to the woman herself and the various pleasures her body offers, perhaps her breasts (see 4.5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sons",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

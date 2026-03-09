@@ -1,0 +1,283 @@
+{
+  "document_id": "hos-13",
+  "title": "Hosea 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hos-13-heading-14",
+      "type": "heading",
+      "text": "14"
+    },
+    {
+      "block_id": "oxford-hos-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And now they keep on sinning and make a cast image for themselves, idols of silver made according to their understanding, all of them the work of artisans. “Sacrifice to these,” they say. People are kissing calves!"
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , see 8.5–6n.; 1 Kings 19.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hos-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Therefore they shall be like the morning mist or like the dew that goes away early, like chaff that swirls from the threshing floor or like smoke from a window."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , cf. 6.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hos-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Yet I have been the Lord your God ever since the land of Egypt; you know no God but me, and besides me there is no savior."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-7",
+      "type": "commentary",
+      "text": "4 : See 12.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hos-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "It was I who fed you in the wilderness, in the land of drought."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-8",
+      "type": "commentary",
+      "text": "5 : Cf. 11.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hos-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When I fed them, they were satisfied; they were satisfied, and their heart was proud; therefore they forgot me."
+    },
+    {
+      "block_id": "oxford-hos-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So I will become like a lion to them, like a leopard I will lurk beside the way."
+    },
+    {
+      "block_id": "oxford-hos-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I will fall upon them like a bear robbed of her cubs, and will tear open the covering of their heart; there I will devour them like a lion, as a wild animal would mangle them."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , a popular image for ferocity (2 Sam 17.8; Prov 17.12). , see 5.14; 11.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hos-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I will destroy you, O Israel; who can help you?"
+    },
+    {
+      "block_id": "oxford-hos-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Where now is your king, that he may save you? Where in all your cities are your rulers, of whom you said, “Give me a king and rulers”?"
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-11",
+      "type": "commentary",
+      "text": "10 : , read this in light of 13.4: the alone is Israel's savior. , Israel requested human leadership; see 1 Sam 8.6,19; 12.13,17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-hos-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I gave you a king in my anger, and I took him away in my wrath."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-10",
+      "type": "commentary",
+      "text": "9–11 : This may refer to the deposing of Hoshea by the Assyrians in 723 (2 Kings 17.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-12",
+      "type": "commentary",
+      "text": "11 : … , cf. 1 Sam 12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hos-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Ephraim's iniquity is bound up; his sin is kept in store."
+    },
+    {
+      "block_id": "oxford-hos-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The pangs of childbirth come for him, but he is an unwise son; for at the proper time he does not present himself at the mouth of the womb."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-13",
+      "type": "commentary",
+      "text": "13 : The pain of divine judgment is designed not to kill but to induce new life, yet Israel, , refuses to budge.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hos-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Shall I ransom them from the power of Sheol? Shall I redeem them from Death? O Death, where are your plagues? O Sheol, where isf your destruction? Compassion is hidden from my eyes."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-14",
+      "type": "commentary",
+      "text": "14 : , the abode of all the dead, both righteous and unrighteous. (Mot), the Canaanite deity of the underworld, is probably referred to here; cf. Job 18.13; Ps 49.14; Isa 28.15; Hab 2.5. In this judgment speech, , unlike 11.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hos-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Although he may flourish among rushes, the east wind shall come, a blast from the Lord, rising from the wilderness; and his fountain shall dry up, his spring shall be parched. It shall strip his treasury of every precious thing."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-15",
+      "type": "commentary",
+      "text": "15 : , alludes to political reliance on Egypt, which will be blown away by the “east wind,” Assyria. … , contrasts the east wind, which was the vehicle of the 's deliverance of Israel at the Reed Sea (Ex 14.21; 15.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hos-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Samaria shall bear her guilt, because she has rebelled against her God; they shall fall by the sword, their little ones shall be dashed in pieces, and their pregnant women ripped open."
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–14.9: The prophetic speeches of Hosea indict Israel for unfaithfulness and announce the divine judgment, while offering hope of eventual restoration. The boundaries between individual speech units in the remainder of the book are unclear. This may in part reflect the style of the prophet and may in part be due to later editorial rearrangement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-2",
+      "type": "commentary",
+      "text": "12.2–14.9: Rebellion and restoration. Another major division in the book (like 4.1–12.1), which begins with the announcement of an indictment and ends with an oracle of hope.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-3",
+      "type": "commentary",
+      "text": "12.2–13.16: A divine lawsuit against Israel, which mixes historical retrospection with contemporary critique. For a historical summary with a similar tone, see Ps 106.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-hos-13-h1kj-16",
+      "type": "commentary",
+      "text": "16 : The ravages of conquering armies; cf. 10.14; 2 Kings 8.12; Ps 137.9; Am 1.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hos",
+        "chapter": 13
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    }
+  ]
+}

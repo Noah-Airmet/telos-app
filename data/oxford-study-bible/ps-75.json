@@ -1,0 +1,145 @@
+{
+  "document_id": "ps-75",
+  "title": "Psalms 75",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-75-heading-psalm-76",
+      "type": "heading",
+      "text": "Psalm 76"
+    },
+    {
+      "block_id": "oxford-ps-75-1",
+      "type": "verse",
+      "number": 1,
+      "text": "We give thanks to you, O God; we give thanks; your name is near. People tell of your wondrous deeds."
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 75: The community thanks God for putting down the wicked. A thanksgiving praising God (v. 1) for doing just deeds, in this case, punishing the wicked (vv. 2–5,6–8). The actual punishment is announced in an oracle of judgment with God speaking (vv. 2–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-75-2",
+      "type": "verse",
+      "number": 2,
+      "text": "At the set time that I appoint I will judge with equity."
+    },
+    {
+      "block_id": "oxford-ps-75-3",
+      "type": "verse",
+      "number": 3,
+      "text": "When the earth totters, with all its inhabitants, it is I who keep its pillars steady. Selah"
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-2",
+      "type": "commentary",
+      "text": "3 : , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-75-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I say to the boastful, “Do not boast,” and to the wicked, “Do not lift up your horn;"
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-3",
+      "type": "commentary",
+      "text": "4 : ing a represents pride, arrogance, and victory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-75-5",
+      "type": "verse",
+      "number": 5,
+      "text": "do not lift up your horn on high, or speak with insolent neck.”"
+    },
+    {
+      "block_id": "oxford-ps-75-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For not from the east or from the west and not from the wilderness comes lifting up;"
+    },
+    {
+      "block_id": "oxford-ps-75-7",
+      "type": "verse",
+      "number": 7,
+      "text": "but it is God who executes judgment, putting down one and lifting up another."
+    },
+    {
+      "block_id": "oxford-ps-75-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For in the hand of the Lord there is a cup with foaming wine, well mixed; he will pour a draught from it, and all the wicked of the earth shall drain it down to the dregs."
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-4",
+      "type": "commentary",
+      "text": "6–8 : Expansion of the divine command, spoken perhaps by the king, the envoy of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-5",
+      "type": "commentary",
+      "text": "8 : The (of the ’s wrath in Isa 51.17; Jer 25.15) is a metaphor for punishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-75-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But I will rejoice forever; I will sing praises to the God of Jacob."
+    },
+    {
+      "block_id": "oxford-ps-75-10",
+      "type": "verse",
+      "number": 10,
+      "text": "All the horns of the wicked I will cut off, but the horns of the righteous shall be exalted."
+    },
+    {
+      "block_id": "oxford-ps-75-h1kj-6",
+      "type": "commentary",
+      "text": "9–10 : The speaker accepts with joy the divine task of implementing justice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 75
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    }
+  ]
+}

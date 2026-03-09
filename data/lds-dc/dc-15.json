@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-15",
+  "title": "Section 15: John Whitmer called",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-15-heading",
+      "type": "heading",
+      "text": "John Whitmer called"
+    },
+    {
+      "block_id": "dc-15-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 15 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 15,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

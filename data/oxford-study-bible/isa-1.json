@@ -1,0 +1,398 @@
+{
+  "document_id": "isa-1",
+  "title": "Isaiah 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The vision of Isaiah son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.1: Superscription. The prophetic books typically begin with a superscription that provides the reader with essential information concerning the prophet (cf. Jer 1.1–3; Ezek 1.1–3; Hos 1.1; Joel 1.1; Am 1.1; Ob 1; Mic 1.1; Nah 1.1; Hab 1.1; Zeph 1.1). This superscription introduces both the entire book and 1.2–31. Subsequent superscriptions in 2.1; 13.1; 14.28; 15.1; 17.1; 19.1; 21.1,11,13; 22.1; 23.1; and 30.6 introduce smaller subunits. Isaiah's (both visual and auditory communication from the ) reveals divine plans concerning Judah and Jerusalem during the reigns of the Judean monarchs, (783–742 ); (742–735 ); (735–715 ); and (715–687 ). Although the superscription identifies the setting of the book as the eighth century , the period of Assyrian invasions of the Northern Kingdom of Israel and the Southern Kingdom of Judah, the book as a whole takes up Jerusalem's experiences through the time of the Babylonian exile and the early Persian period restoration in the sixth–fifth centuries .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-isa-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear, O heavens, and listen, O earth; for the Lord has spoken: I reared children and brought them up, but they have rebelled against me."
+    },
+    {
+      "block_id": "oxford-isa-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The ox knows its owner, and the donkey its master's crib; but Israel does not know, my people do not understand."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-5",
+      "type": "commentary",
+      "text": "2–3 : Appeal to all creation, namely, heaven and earth, to witness the divine complaints against Israel (cf. Deut 32.1; Mic 6.1–8). The passage metaphorically portrays Israel as the 's rebellious children who do not even have the understanding of animals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-isa-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Ah, sinful nation, people laden with iniquity, offspring who do evil, children who deal corruptly, who have forsaken the Lord, who have despised the Holy One of Israel, who are utterly estranged!"
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-7",
+      "type": "commentary",
+      "text": "4 : , a divine title that occurs throughout the book.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-isa-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why do you seek further beatings? Why do you continue to rebel? The whole head is sick, and the whole heart faint."
+    },
+    {
+      "block_id": "oxford-isa-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "From the sole of the foot even to the head, there is no soundness in it, but bruises and sores and bleeding wounds; they have not been drained, or bound up, or softened with oil."
+    },
+    {
+      "block_id": "oxford-isa-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Your country lies desolate, your cities are burned with fire; in your very presence aliens devour your land; it is desolate, as overthrown by foreigners."
+    },
+    {
+      "block_id": "oxford-isa-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And daughter Zion is left like a booth in a vineyard, like a shelter in a cucumber field, like a besieged city."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-8",
+      "type": "commentary",
+      "text": "8 : Jerusalem is frequently personified as in Isaiah (10.32; 16.1; 37.22; 52.2; 62.11) and elsewhere (e.g., Zeph 3.14–20; Lam 1.6; 2; 4.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , flimsy temporary agricultural structures often built of leaves and branches (cf. Job 27.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-isa-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "If the Lord of hosts had not left us a few survivors, we would have been like Sodom, and become like Gomorrah."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-6",
+      "type": "commentary",
+      "text": "4–9 : Rhetorical questions motivate the listeners to return to God. The suffering of the people is presented as the result of their own wrongdoing rather than any lapse on the 's part. The imagery shifts from personal illness and injury to the suffering of the entire land during the Assyrian invasions, when Jerusalem was left standing alone surrounded by the forces of the Assyrian king Sennacherib in 701 (2 Kings 18–20; Isa 36–39).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-10",
+      "type": "commentary",
+      "text": "9 : and , the evil cities destroyed by the (Gen 18–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-isa-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Hear the word of the Lord, you rulers of Sodom! Listen to the teaching of our God, you people of Gomorrah!"
+    },
+    {
+      "block_id": "oxford-isa-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "What to me is the multitude of your sacrifices? says the Lord; I have had enough of burnt offerings of rams and the fat of fed beasts; I do not delight in the blood of bulls, or of lambs, or of goats."
+    },
+    {
+      "block_id": "oxford-isa-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When you come to appear before me, who asked this from your hand? Trample my courts no more;"
+    },
+    {
+      "block_id": "oxford-isa-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "bringing offerings is futile; incense is an abomination to me. New moon and sabbath and calling of convocation— I cannot endure solemn assemblies with iniquity."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-12",
+      "type": "commentary",
+      "text": "13 : Sacrifices were offered at (monthly) and (weekly) festivals (see Num 28.9–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-isa-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Your new moons and your appointed festivals my soul hates; they have become a burden to me, I am weary of bearing them."
+    },
+    {
+      "block_id": "oxford-isa-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "When you stretch out your hands, I will hide my eyes from you; even though you make many prayers, I will not listen; your hands are full of blood."
+    },
+    {
+      "block_id": "oxford-isa-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Wash yourselves; make yourselves clean; remove the evil of your doings from before my eyes; cease to do evil,"
+    },
+    {
+      "block_id": "oxford-isa-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "learn to do good; seek justice, rescue the oppressed, defend the orphan, plead for the widow."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-11",
+      "type": "commentary",
+      "text": "10–17 : The prophet continues to characterize the people as Sodom and Gomorrah in an effort to accuse them of insincere worship. Although many interpreters maintain that Isaiah opposes ritual and sacrificial worship in principle, the 's instructions call for moral action to accompany Temple worship (see 1 Sam 15.22; Ps 50.7–15). The threatens to ignore the people's prayers, a disturbing claim in the face of foreign invasion and a frequent concern of both Isaiah (e.g., 8.17; 54.8; 59.2; 64.6) and the Psalms (e.g., 10.11; 13.2; 22.25; 27.9; 51.11; 104.29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-13",
+      "type": "commentary",
+      "text": "17 : The and the are often mentioned as the focus of special concern because of their social and economic vulnerability (Ex 22.21–23; Deut 10.18; Ps 68.5; Job 29.12–13; etc.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Come now, let us argue it out, says the Lord: though your sins are like scarlet, they shall be like snow; though they are red like crimson, they shall become like wool."
+    },
+    {
+      "block_id": "oxford-isa-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "If you are willing and obedient, you shall eat the good of the land;"
+    },
+    {
+      "block_id": "oxford-isa-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "but if you refuse and rebel, you shall be devoured by the sword; for the mouth of the Lord has spoken."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.2–20: The speech of the accuser. The prophet employs the language of the courtroom. The charges Israel with wrongdoing, to explain Jerusalem's suffering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-isa-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "How the faithful city has become a whore! She that was full of justice, righteousness lodged in her— but now murderers!"
+    },
+    {
+      "block_id": "oxford-isa-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Your silver has become dross, your wine is mixed with water."
+    },
+    {
+      "block_id": "oxford-isa-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Your princes are rebels and companions of thieves. Everyone loves a bribe and runs after gifts. They do not defend the orphan, and the widow's cause does not come before them."
+    },
+    {
+      "block_id": "oxford-isa-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Therefore says the Sovereign, the Lord of hosts, the Mighty One of Israel: Ah, I will pour out my wrath on my enemies, and avenge myself on my foes!"
+    },
+    {
+      "block_id": "oxford-isa-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I will turn my hand against you; I will smelt away your dross as with lye and remove all your alloy."
+    },
+    {
+      "block_id": "oxford-isa-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And I will restore your judges as at the first, and your counselors as at the beginning. Afterward you shall be called the city of righteousness, the faithful city."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-15",
+      "type": "commentary",
+      "text": "21–26 : The prophet's announcement of Jerusalem's rehabilitation combines metaphorical charges that the city is a and that it must be purified much as metal is refined by the removal of impurities known as . The principal accusation is the breakdown of the judicial system (cf. 5.23; 33.15; Am 5.10,12; Mic 3.9,11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-isa-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Zion shall be redeemed by justice, and those in her who repent, by righteousness."
+    },
+    {
+      "block_id": "oxford-isa-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But rebels and sinners shall be destroyed together, and those who forsake the Lord shall be consumed."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-16",
+      "type": "commentary",
+      "text": "27–28 : The prophet distinguishes the fate of the righteous from the wicked (see chs 65–66).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For you shall be ashamed of the oaks in which you delighted; and you shall blush for the gardens that you have chosen."
+    },
+    {
+      "block_id": "oxford-isa-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "For you shall be like an oak whose leaf withers, and like a garden without water."
+    },
+    {
+      "block_id": "oxford-isa-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The strong shall become like tinder, and their work like a spark; they and their work shall burn together, with no one to quench them."
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–33.24: The Lord's plans to reveal worldwide sovereignty at Zion. The first half of the book focuses especially on the punishment of Zion and anticipation of its future restoration in an effort to demonstrate the 's plans to reveal sovereignty over Israel, the nations, and creation at large. The second half of the book (chs 34–66) presupposes that the time of the restoration and the 's revelation are at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–31: Prologue to the book: Introductory oracles concerning the Lord's plans to purify Jerusalem. The prologue in ch 1 is an introduction both to the entire book of Isaiah and to the first portion of the book in chs 1–33. It is designed to convince its audience that Jerusalem's suffering during the late eighth century and beyond was due to the 's plans to purify Jerusalem in preparation for its role as the seat of the s rule over all of creation. In keeping with his understanding of the David/Zion tradition, Isaiah presumes the 's sovereignty, righteousness, and power to defend the royal house of David and the city of Jerusalem forever. The prophet therefore contends that Jerusalem's suffering is due to human wrongdoing and that the city must be purged to enable it to serve as the 's capital for all of creation. Such a position is theologically problematic, presuming the guilt of those who suffer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-14",
+      "type": "commentary",
+      "text": "1.21–31: The speech of the judge. The courtroom metaphor continues as the now speaks as the judge who announces Zion's ultimate redemption and restoration. Jerusalem suffered greatly under the Assyrians and the Babylonians from the late eighth through the sixth centuries , but the book of Isaiah understands these events in relation to Jerusalem's restoration in the early Persian period.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-isa-1-h1kj-17",
+      "type": "commentary",
+      "text": "29–31 : The metaphor of the tree portrays the restoration of Zion. Trees and gardens were frequently associated with Canaanite fertility rites and goddesses. The prophet maintains that the dead branches must be trimmed and the tree burned. Later oracles will stress the new growth of the tree (6.12–13; 11.1–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 1
+      },
+      "verse_start": 29,
+      "verse_end": 31
+    }
+  ]
+}

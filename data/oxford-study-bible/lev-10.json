@@ -1,0 +1,272 @@
+{
+  "document_id": "lev-10",
+  "title": "Leviticus 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-10-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now Aaron’s sons, Nadab and Abihu, each took his censer, put fire in it, and laid incense on it; and they offered unholy fire before the Lord, such as he had not commanded them."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-4",
+      "type": "commentary",
+      "text": "1 : , lit., “strange fire,” referring to the unauthorized incense offering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-lev-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And fire came out from the presence of the Lord and consumed them, and they died before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , because God had not instructed the priests to present incense offerings, the fire that would consume the offerings instead consumed Nadab and Abihu. The Korah rebellion ends similarly with divine fire consuming the offerers of illicit incense (Num 16.35). For God viewed as a consuming fire in P, see Ex 24.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lev-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Moses said to Aaron, “This is what the Lord meant when he said, ‘Through those who are near me I will show myself holy, and before all the people I will be glorified.’” And Aaron was silent."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , perhaps referring to Ex 29.43–44, but more likely quoting a text that is now lost.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Moses summoned Mishael and Elzaphan, sons of Uzziel the uncle of Aaron, and said to them, “Come forward, and carry your kinsmen away from the front of the sanctuary to a place outside the camp.”"
+    },
+    {
+      "block_id": "oxford-lev-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They came forward and carried them by their tunics out of the camp, as Moses had ordered."
+    },
+    {
+      "block_id": "oxford-lev-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And Moses said to Aaron and to his sons Eleazar and Ithamar, “Do not dishevel your hair, and do not tear your vestments, or you will die and wrath will strike all the congregation; but your kindred, the whole house of Israel, may mourn the burning that the Lord has sent."
+    },
+    {
+      "block_id": "oxford-lev-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "You shall not go outside the entrance of the tent of meeting, or you will die; for the anointing oil of the Lord is on you.” And they did as Moses had ordered."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-7",
+      "type": "commentary",
+      "text": "4–7 : Because of their ritual holiness, the priests are not allowed to contact a corpse or to mourn for the dead (though cf. 21.1–6,10–12, which permit limited mourning).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lev-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And the Lord spoke to Aaron:"
+    },
+    {
+      "block_id": "oxford-lev-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Drink no wine or strong drink, neither you nor your sons, when you enter the tent of meeting, that you may not die; it is a statute forever throughout your generations."
+    },
+    {
+      "block_id": "oxford-lev-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You are to distinguish between the holy and the common, and between the unclean and the clean;"
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , the two fundamental binary distinctions in Priestly literature. All persons, objects, and places are characterized by one quality of each pair: holy and clean (e.g., the properly functioning sanctuary, including its priests); common and clean (the default status of lay Israelites not suffering from impurities such as found in chs 11–15 and Num 19); common and impure (e.g., lay Israelites suffering from impurity); and, less frequently, holy and impure (such as holy ritual items that become impure during the course of purification rituals, e.g., purification offering carcasses, cf. 6.27–28; 16.26–28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lev-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "and you are to teach the people of Israel all the statutes that the Lord has spoken to them through Moses."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-8",
+      "type": "commentary",
+      "text": "8–11 : These verses, the only instance in Leviticus of God speaking to Aaron alone, are likely an H insertion into P. The stated mourning restrictions motivate the introduction of further priestly responsibilities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 8,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , better, “to give rulings regarding all the statutes.” The priests do not actively instruct the people in the law (cf. Hag 2.11–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-lev-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Moses spoke to Aaron and to his remaining sons, Eleazar and Ithamar: Take the grain offering that is left from the Lord’s offerings by fire, and eat it unleavened beside the altar, for it is most holy;"
+    },
+    {
+      "block_id": "oxford-lev-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "you shall eat it in a holy place, because it is your due and your sons’ due, from the offerings by fire to the Lord; for so I am commanded."
+    },
+    {
+      "block_id": "oxford-lev-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the breast that is elevated and the thigh that is raised, you and your sons and daughters as well may eat in any clean place; for they have been assigned to you and your children from the sacrifices of the offerings of well‐being of the people of Israel."
+    },
+    {
+      "block_id": "oxford-lev-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The thigh that is raised and the breast that is elevated they shall bring, together with the offerings by fire of the fat, to raise for an elevation offering before the Lord; they are to be your due and that of your children forever, as the Lord has commanded."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-11",
+      "type": "commentary",
+      "text": "12–15 : Cf. 7.11–14,28–36. Aaron and his remaining sons must complete the rituals as prescribed, even after the deaths of Nadab and Abihu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-lev-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then Moses made inquiry about the goat of the sin offering, and—it had already been burned! He was angry with Eleazar and Ithamar, Aaron’s remaining sons, and said,"
+    },
+    {
+      "block_id": "oxford-lev-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "“Why did you not eat the sin offering in the sacred area? For it is most holy, and God has given it to you that you may remove the guilt of the congregation, to make atonement on their behalf before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Its blood was not brought into the inner part of the sanctuary. You should certainly have eaten it in the sanctuary, as I commanded.”"
+    },
+    {
+      "block_id": "oxford-lev-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And Aaron spoke to Moses, “See, today they offered their sin offering and their burnt offering before the Lord; and yet such things as these have befallen me! If I had eaten the sin offering today, would it have been agreeable to the Lord?”"
+    },
+    {
+      "block_id": "oxford-lev-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And when Moses heard that, he agreed."
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-1",
+      "type": "commentary",
+      "text": "8.1–10.20: The dedication of the tabernacle and priests and the transgression of Aaron’s sons. Chs 8–10 narrate the consecration of the tabernacle complex, the seven‐day ordination of the priests, the inaugural priestly service on the eighth day that culminates in the revelation of the divine presence through fire, and the subsequent illicit ritual of Aaron’s sons, Nadab and Abihu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-2",
+      "type": "commentary",
+      "text": "9.1–10.20: The inauguration of priestly service and the transgression of Nadab and Abihu. Chs 9–10 narrate the events of the eighth day, i.e., the day after the consecration of the priests is completed. The priests perform their first sacrifices, and the divine glory appears to the people with fire, confirming the deity’s presence and approval of the priests’ ritual activities. Immediately following this joyous occasion, however, Aaron’s sons, Nadab and Abihu, commit sacrilege by making an unauthorized incense offering, which prompts the divine fire to emerge once more to consume them. The deaths of Nadab and Abihu occasion further instructions for the priests.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-3",
+      "type": "commentary",
+      "text": "10.1–20: The transgression of Nadab and Abihu.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lev-10-h1kj-12",
+      "type": "commentary",
+      "text": "16–20 : A somewhat enigmatic section, in which Moses is upset that the priests did not consume the people’s purification offering, although he never explicitly commanded them to do so in ch 9. V. 17 suggests that the priestly consumption of the offering itself is expiatory (cf. 6.24–30, although these verses imply that eating the purification offering is a privilege, not a requirement). Aaron’s response is unclear, yet Moses accepts it, perhaps because of the unique circumstance of the eighth day.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 20
+    }
+  ]
+}

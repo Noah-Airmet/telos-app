@@ -1,0 +1,703 @@
+{
+  "document_id": "mark-15",
+  "title": "Mark 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-mark-15-heading-16",
+      "type": "heading",
+      "text": "16"
+    },
+    {
+      "block_id": "oxford-mark-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Pilate asked him, “Are you the King of the Jews?” He answered him, “You say so.”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-6",
+      "type": "commentary",
+      "text": "15.2 : , an ironic accusation that Jesus neither confirms nor denies. See 15.9,12,18,26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-mark-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then the chief priests accused him of many things."
+    },
+    {
+      "block_id": "oxford-mark-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Pilate asked him again, “Have you no answer? See how many charges they bring against you.”"
+    },
+    {
+      "block_id": "oxford-mark-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But Jesus made no further reply, so that Pilate was amazed."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-7",
+      "type": "commentary",
+      "text": "15.5 : , Jesus does not respond directly to Pilate's inquiry (cf. 14.61; 15.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-mark-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Now at the festival he used to release a prisoner for them, anyone for whom they asked."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-8",
+      "type": "commentary",
+      "text": "15.6 : The release of a prisoner during Passover is unattested elsewhere.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-mark-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Now a man called Barabbas was in prison with the rebels who had committed murder during the insurrection."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-9",
+      "type": "commentary",
+      "text": "15.7 : , identified with but not named outside the Gospels. Both the NT (Lk 13.1; Acts 5.36–37) and Josephus mention uprisings against the Roman occupation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-mark-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So the crowd came and began to ask Pilate to do for them according to his custom."
+    },
+    {
+      "block_id": "oxford-mark-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then he answered them, “Do you want me to release for you the King of the Jews?”"
+    },
+    {
+      "block_id": "oxford-mark-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For he realized that it was out of jealousy that the chief priests had handed him over."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-10",
+      "type": "commentary",
+      "text": "15.10 : In Mark's telling, Pilate sees Jesus as less menacing than Barabbas and concludes that accusations against him stem from . Cf. Mt 27.18–25; Lk 23.4–16; Jn 19.1–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mark-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But the chief priests stirred up the crowd to have him release Barabbas for them instead."
+    },
+    {
+      "block_id": "oxford-mark-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Pilate spoke to them again, “Then what do you wish me to do with the man you call the King of the Jews?”"
+    },
+    {
+      "block_id": "oxford-mark-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "They shouted back, “Crucify him!”"
+    },
+    {
+      "block_id": "oxford-mark-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Pilate asked them, “Why, what evil has he done?” But they shouted all the more, “Crucify him!”"
+    },
+    {
+      "block_id": "oxford-mark-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "So Pilate, wishing to satisfy the crowd, released Barabbas for them; and after flogging Jesus, he handed him over to be crucified."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-4",
+      "type": "commentary",
+      "text": "15.1–15: Jesus's interrogation by Roman authorities (Mt 27.1–2,11–23; Lk 23.1–5,13–25; Jn 18.28–40).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-11",
+      "type": "commentary",
+      "text": "15.13–15 : Ironically, the that had been enthralled with Jesus's teaching (11.18) now clamors for his execution. Like the Jewish leaders, Pilate aims to them. This depiction of Pilate as a crowd-pleaser does not fit with contemporary reports about his brutal tactics.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mark-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then the soldiers led him into the courtyard of the palace (that is, the governor's headquarters); and they called together the whole cohort."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-13",
+      "type": "commentary",
+      "text": "15.16 : , Mark notes both the Roman torture and its public setting, since a included several hundred soldiers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-mark-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And they clothed him in a purple cloak; and after twisting some thorns into a crown, they put it on him."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-14",
+      "type": "commentary",
+      "text": "15.17 : , mocking symbols of Jesus's reputedly royal status; see 10.34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-mark-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "And they began saluting him, “Hail, King of the Jews!”"
+    },
+    {
+      "block_id": "oxford-mark-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They struck his head with a reed, spat upon him, and knelt down in homage to him."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-15",
+      "type": "commentary",
+      "text": "15.19 : , details that echo Isa 50.6; cf. 10.34. , ironic physical posture of worship. Cf. 1.40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-mark-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "After mocking him, they stripped him of the purple cloak and put his own clothes on him. Then they led him out to crucify him."
+    },
+    {
+      "block_id": "oxford-mark-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "They compelled a passer-by, who was coming in from the country, to carry his cross; it was Simon of Cyrene, the father of Alexander and Rufus."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-16",
+      "type": "commentary",
+      "text": "15.21 : , the crossbar, not the entire cross; cf. 8.34. , a pilgrim from North Africa whose part in the story suggests the wide-reaching impact of Jesus's mission. , otherwise unknown figures who may have been familiar to Mark's audience.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-mark-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then they brought Jesus to the place called Golgotha (which means the place of a skull)."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-17",
+      "type": "commentary",
+      "text": "15.22 : , located outside the city. Mark again translates the Aramaic name for the Gospel's audience; see 3.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-mark-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And they offered him wine mixed with myrrh; but he did not take it."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-18",
+      "type": "commentary",
+      "text": "15.23 : , a pain-relieving tonic.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-mark-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And they crucified him, and divided his clothes among them, casting lots to decide what each should take."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-19",
+      "type": "commentary",
+      "text": "15.24 : , details found in Ps 22.18; see also 15.29n., 34n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-mark-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "It was nine o’clock in the morning when they crucified him."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-20",
+      "type": "commentary",
+      "text": "15.25 : , see 15.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-mark-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The inscription of the charge against him read, “The King of the Jews.”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-21",
+      "type": "commentary",
+      "text": "15.26 : scholars accept the historical likelihood of this detail, since Roman officials often made a deliberate example of those who posed a threat to Caesar. See also 15.2,9,18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-mark-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "And with him they crucified two bandits, one on his right and one on his left."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-3",
+      "type": "commentary",
+      "text": "14.1–15.27: Jesus's arrest, trial, and execution (Mt 26.1–27.66; Lk 22.1–23.56; Jn 13.1–19.42).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-22",
+      "type": "commentary",
+      "text": "15.27 : Cf. 14.48.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-mark-15-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Those who passed by derided him, shaking their heads and saying, “Aha! You who would destroy the temple and build it in three days,"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-23",
+      "type": "commentary",
+      "text": "15.29 : , see Ps 22.7. , see 14.58n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-mark-15-30",
+      "type": "verse",
+      "number": 30,
+      "text": "save yourself, and come down from the cross!”"
+    },
+    {
+      "block_id": "oxford-mark-15-31",
+      "type": "verse",
+      "number": 31,
+      "text": "In the same way the chief priests, along with the scribes, were also mocking him among themselves and saying, “He saved others; he cannot save himself."
+    },
+    {
+      "block_id": "oxford-mark-15-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe.” Those who were crucified with him also taunted him."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-24",
+      "type": "commentary",
+      "text": "15.30–32 : Since Jewish tradition associated the “Christ” with triumph, not defeat, both the crowd and religious authorities take Jesus's death as proof that he is not . , cf. 8.35; 11.9. For Mark, Jesus's refusal to save himself ironically saves others. , see 8.31n. , for Mark, authentic faith often precedes clear sight (see 8.11–12; cf. 16.17–18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 30,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-mark-15-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When it was noon, darkness came over the whole land until three in the afternoon."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-25",
+      "type": "commentary",
+      "text": "15.33 : , see 15.1n. , cosmic disturbance associated with the disruption of the earthly scheme. Cf. 13.24–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-mark-15-34",
+      "type": "verse",
+      "number": 34,
+      "text": "At three o’clock Jesus cried out with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-26",
+      "type": "commentary",
+      "text": "15.34 : , see 15.1n. Jesus's last words invoke Ps 22.1, both to express his sense of abandonment (see 14.32–42) and, more subtly, to anticipate the time when all nations will worship God (see Ps 22.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-mark-15-35",
+      "type": "verse",
+      "number": 35,
+      "text": "When some of the bystanders heard it, they said, “Listen, he is calling for Elijah.”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-27",
+      "type": "commentary",
+      "text": "15.35 : , see 1.6n.; 9.11–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-mark-15-36",
+      "type": "verse",
+      "number": 36,
+      "text": "And someone ran, filled a sponge with sour wine, put it on a stick, and gave it to him to drink, saying, “Wait, let us see whether Elijah will come to take him down.”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-28",
+      "type": "commentary",
+      "text": "15.36 : , see Ps 69.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-mark-15-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Then Jesus gave a loud cry and breathed his last."
+    },
+    {
+      "block_id": "oxford-mark-15-38",
+      "type": "verse",
+      "number": 38,
+      "text": "And the curtain of the temple was torn in two, from top to bottom."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-29",
+      "type": "commentary",
+      "text": "15.38 : In the Temple, a curtain set apart the Holy of Holies—the traditional site of God's presence (see Ex 26.31–37)— from the surrounding space. , see 1.10n. With Jesus's death, the chasm between heaven and earth has been bridged.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 38,
+      "verse_end": 38
+    },
+    {
+      "block_id": "oxford-mark-15-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Now when the centurion, who stood facing him, saw that in this way he breathed his last, he said, “Truly this man was God's Son!”"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-30",
+      "type": "commentary",
+      "text": "15.39 : , see 3.8; 5.20. In Mark, the first human to call Jesus is a Gentile Roman soldier (cf. 1.11n.; 9.7). , lit., “exhaled.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-mark-15-40",
+      "type": "verse",
+      "number": 40,
+      "text": "There were also women looking on from a distance; among them were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-31",
+      "type": "commentary",
+      "text": "15.40 : , see 14.54. , see v. 47; 16.1. , possibly Jesus's mother (6.3). , cf. Mt 27.56.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 40,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-mark-15-41",
+      "type": "verse",
+      "number": 41,
+      "text": "These used to follow him and provided for him when he was in Galilee; and there were many other women who had come up with him to Jerusalem."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-12",
+      "type": "commentary",
+      "text": "15.16–41: Jesus's torture and execution (Mt 27.27–56; Lk 23.26–49; Jn 19.16b–37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 16,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-32",
+      "type": "commentary",
+      "text": "15.41 : Mark notes that Jesus's band of followers included women (cf. Lk 8.1–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-mark-15-42",
+      "type": "verse",
+      "number": 42,
+      "text": "When evening had come, and since it was the day of Preparation, that is, the day before the sabbath,"
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-34",
+      "type": "commentary",
+      "text": "15.42 : , see 15.1n. According to Jewish law, burial had to be completed prior to sunset on the sabbath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 42,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-mark-15-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Joseph of Arimathea, a respected member of the council, who was also himself waiting expectantly for the kingdom of God, went boldly to Pilate and asked for the body of Jesus."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-35",
+      "type": "commentary",
+      "text": "15.43 : , a prominent whose request for Jesus's body entails both political and religious risk. It is unclear if Joseph thought that Jesus's death related to God's kingdom; on burial as an act of piety, see Tob 1.16–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 43,
+      "verse_end": 43
+    },
+    {
+      "block_id": "oxford-mark-15-44",
+      "type": "verse",
+      "number": 44,
+      "text": "Then Pilate wondered if he were already dead; and summoning the centurion, he asked him whether he had been dead for some time."
+    },
+    {
+      "block_id": "oxford-mark-15-45",
+      "type": "verse",
+      "number": 45,
+      "text": "When he learned from the centurion that he was dead, he granted the body to Joseph."
+    },
+    {
+      "block_id": "oxford-mark-15-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Then Joseph bought a linen cloth, and taking down the body, wrapped it in the linen cloth, and laid it in a tomb that had been hewn out of the rock. He then rolled a stone against the door of the tomb."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-36",
+      "type": "commentary",
+      "text": "15.46 : Tombs for wealthy families were sometimes cut out of small caves and sealed by a large stone.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-mark-15-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Mary Magdalene and Mary the mother of Joses saw where the bodyb was laid."
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-1",
+      "type": "commentary",
+      "text": "8.27–15.47: Jesus's messianic mission: sacrifice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-2",
+      "type": "commentary",
+      "text": "11.1–15.47: Jesus's destiny in Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-mark-15-h1kj-33",
+      "type": "commentary",
+      "text": "15.42–47: Jesus's burial in Joseph's tomb (Mt 27.57–61; Lk 23.50–56; Jn 19.38–42).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mark",
+        "chapter": 15
+      },
+      "verse_start": 42,
+      "verse_end": 47
+    }
+  ]
+}

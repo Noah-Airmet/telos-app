@@ -1,0 +1,92 @@
+{
+  "document_id": "job-25",
+  "title": "Job 25",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-25-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Bildad the Shuhite answered:"
+    },
+    {
+      "block_id": "oxford-job-25-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Dominion and fear are with God; he makes peace in his high heaven."
+    },
+    {
+      "block_id": "oxford-job-25-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Is there any number to his armies? Upon whom does his light not arise?"
+    },
+    {
+      "block_id": "oxford-job-25-h1kj-4",
+      "type": "commentary",
+      "text": "25.2–3 : , probably an allusion to God’s defeat at creation of the powers of chaos (cf. 9.13; 26.11–13; Isa 51.9). Peace through terror is God’s style, according to Bildad.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 25
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-job-25-4",
+      "type": "verse",
+      "number": 4,
+      "text": "How then can a mortal be righteous before God? How can one born of woman be pure?"
+    },
+    {
+      "block_id": "oxford-job-25-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If even the moon is not bright and the stars are not pure in his sight,"
+    },
+    {
+      "block_id": "oxford-job-25-6",
+      "type": "verse",
+      "number": 6,
+      "text": "how much less a mortal, who is a maggot, and a human being, who is a worm!”"
+    },
+    {
+      "block_id": "oxford-job-25-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-job-25-h1kj-2",
+      "type": "commentary",
+      "text": "21.1–27.23: Third cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-job-25-h1kj-3",
+      "type": "commentary",
+      "text": "25.1–26.14: Bildad’s third speech. As it stands, Bildad’s speech is uncommonly short (25.2–6) but although 26.1–14 is now assigned to Job, it was probably originally part of Bildad’s speech. Such a rearrangement would help remove the problem of having three speeches of Job in a row (26, – , 29–31) without any intervening words from the friends. The theme of Bildad’s speech would then be the power of God, in three spheres: in the heavens (25.2–6), in the underworld (26.5–6), and in creation (26.7–13). The speech is an address to Job (cf. 25.4,6; 26.14), belittling him (26.2–4), denying his claim to innocence (25.2–6), and putting him in his place by focusing exclusively on God’s untrammeled power (26.5–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 25
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    }
+  ]
+}

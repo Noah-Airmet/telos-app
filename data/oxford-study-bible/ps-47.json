@@ -1,0 +1,151 @@
+{
+  "document_id": "ps-47",
+  "title": "Psalms 47",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-47-heading-psalm-48",
+      "type": "heading",
+      "text": "Psalm 48"
+    },
+    {
+      "block_id": "oxford-ps-47-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Clap your hands, all you peoples; shout to God with loud songs of joy."
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 47: Acclaim the Lord the king of heaven and earth! An enthronement hymn, like Pss 93; 95–99, celebrating the reigning over heaven and earth. Some scholars have suggested that it was written for a New Year festival celebrating the ’s kingship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-47-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For the Lord, the Most High, is awesome, a great king over all the earth."
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , better “the Great King,” a title of suzerains in Mesopotamia, Egypt, and the Hittite kingdom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-47-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He subdued peoples under us, and nations under our feet."
+    },
+    {
+      "block_id": "oxford-ps-47-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He chose our heritage for us, the pride of Jacob whom he loves. Selah"
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-2",
+      "type": "commentary",
+      "text": "1–4 : Presupposed is the ’s universal victory that is also celebrated in Pss 2; 46; 48; 76; 93. Israel’s task is to offer a suitable welcome and receive the territory ( , v. 4) that the victorious assigns.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-47-5",
+      "type": "verse",
+      "number": 5,
+      "text": "God has gone up with a shout, the Lord with the sound of a trumpet."
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , ascended the throne as in 2 Sam 6.15; Isa 14.13. The and were part of the ritual proclaiming the new king (see 1 Kings 1.39–49).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-47-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Sing praises to God, sing praises; sing praises to our King, sing praises."
+    },
+    {
+      "block_id": "oxford-ps-47-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For God is the king of all the earth; sing praises with a psalm."
+    },
+    {
+      "block_id": "oxford-ps-47-8",
+      "type": "verse",
+      "number": 8,
+      "text": "God is king over the nations; God sits on his holy throne."
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , perhaps better translated as actions in a ceremony: “has become king … has taken his seat on the throne.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-47-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is highly exalted."
+    },
+    {
+      "block_id": "oxford-ps-47-h1kj-7",
+      "type": "commentary",
+      "text": "9 : , an emendation yields “The princes of the peoples gather the people of the God of Abraham.” , i.e., rulers (by metonymy).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 47
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    }
+  ]
+}

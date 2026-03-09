@@ -1,0 +1,409 @@
+{
+  "document_id": "gen-4",
+  "title": "Genesis 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now the man knew his wife Eve, and she conceived and bore Cain, saying, “I have produced a man with the help of the Lord.”"
+    },
+    {
+      "block_id": "oxford-gen-4-1-commentary-1",
+      "type": "commentary",
+      "text": "The verb in Heb resembles the word for Cain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-8",
+      "type": "commentary",
+      "text": "1 : This first verse emphasizes the wonder of creative power in the first birth of a child. The child’s name, “Cain,” derives from a Hebrew word for create, “qanah.” Ancient Israelites may have associated this Cain with the Kenite tribe (Num 24.21–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-gen-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Next she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a tiller of the ground."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-9",
+      "type": "commentary",
+      "text": "2 : The name “Abel” is the same word translated as “vanity” (or “emptiness”) in the book of Ecclesiastes. His name anticipates his destiny. The distinction in professions between Cain and Abel implies a further step toward culture.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "In the course of time Cain brought to the Lord an offering of the fruit of the ground,"
+    },
+    {
+      "block_id": "oxford-gen-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and Abel for his part brought of the firstlings of his flock, their fat portions. And the Lord had regard for Abel and his offering,"
+    },
+    {
+      "block_id": "oxford-gen-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "but for Cain and his offering he had no regard. So Cain was very angry, and his countenance fell."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-10",
+      "type": "commentary",
+      "text": "3–5 : The story does not explain why the but not It is possible the ancient Israelite audience would have assumed a divine preference for animal sacrifice over the kind of vegetable sacrifice that Cain could offer. The text, however, focuses on Cain’s reaction to this unexplained divine preference for his brother’s sacrifice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-gen-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The Lord said to Cain, “Why are you angry, and why has your countenance fallen?"
+    },
+    {
+      "block_id": "oxford-gen-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "If you do well, will you not be accepted? And if you do not do well, sin is lurking at the door; its desire is for you, but you must master it.”"
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-11",
+      "type": "commentary",
+      "text": "7 : This is the first mention of in the Bible. In this difficult verse, sin is somehow linked with the risk to Cain if he does “not do well” in dealing with his anger.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-gen-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Cain said to his brother Abel, “Let us go out to the field.” And when they were in the field, Cain rose up against his brother Abel, and killed him."
+    },
+    {
+      "block_id": "oxford-gen-4-8-commentary-2",
+      "type": "commentary",
+      "text": "Sam Gk Syr Compare Vg: MT lacks Let us go out to the field",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-gen-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then the Lord said to Cain, “Where is your brother Abel?” He said, “I do not know; am I my brother’s keeper?”"
+    },
+    {
+      "block_id": "oxford-gen-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And the Lord said, “What have you done? Listen; your brother’s blood is crying out to me from the ground!"
+    },
+    {
+      "block_id": "oxford-gen-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-12",
+      "type": "commentary",
+      "text": "10–11 : Blood is sacred, for it is the seat of life (9.4; Deut 12.23), and blood of unpunished murders pollutes the ground (Num 35.30–34).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-gen-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When you till the ground, it will no longer yield to you its strength; you will be a fugitive and a wanderer on the earth.”"
+    },
+    {
+      "block_id": "oxford-gen-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Cain said to the Lord, “My punishment is greater than I can bear!"
+    },
+    {
+      "block_id": "oxford-gen-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Today you have driven me away from the soil, and I shall be hidden from your face; I shall be a fugitive and a wanderer on the earth, and anyone who meets me may kill me.”"
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-13",
+      "type": "commentary",
+      "text": "13–14 : The importance of arable ground in these chapters can be seen in Cain’s conclusion that expulsion from the means being from the ’s",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-gen-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then the Lord said to him, “Not so! Whoever kills Cain will suffer a sevenfold vengeance.” And the Lord put a mark on Cain, so that no one who came upon him would kill him."
+    },
+    {
+      "block_id": "oxford-gen-4-15-commentary-3",
+      "type": "commentary",
+      "text": "Gk Syr Vg: Heb Therefore",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 15
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-gen-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then Cain went away from the presence of the Lord, and settled in the land of Nod, east of Eden."
+    },
+    {
+      "block_id": "oxford-gen-4-16-commentary-4",
+      "type": "commentary",
+      "text": "That is Wandering",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-7",
+      "type": "commentary",
+      "text": "4.1–16: Cain and Abel. While 2.4–3.24 featured relations between men and women, 4.1–16 turns to relations between brothers, paralleling 3.1–24 in many respects.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-14",
+      "type": "commentary",
+      "text": "16 : See 11.1–9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Cain knew his wife, and she conceived and bore Enoch; and he built a city, and named it Enoch after his son Enoch."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-16",
+      "type": "commentary",
+      "text": "17 : Cain’s marriage, along with his fear of others (4.14), presumes the presence of a broader population, indicating that the narratives about him were not originally connected with creation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-gen-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "To Enoch was born Irad; and Irad was the father of Mehujael, and Mehujael the father of Methushael, and Methushael the father of Lamech."
+    },
+    {
+      "block_id": "oxford-gen-4-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Lamech took two wives; the name of the one was Adah, and the name of the other Zillah."
+    },
+    {
+      "block_id": "oxford-gen-4-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Adah bore Jabal; he was the ancestor of those who live in tents and have livestock."
+    },
+    {
+      "block_id": "oxford-gen-4-21",
+      "type": "verse",
+      "number": 21,
+      "text": "His brother’s name was Jubal; he was the ancestor of all those who play the lyre and pipe."
+    },
+    {
+      "block_id": "oxford-gen-4-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Zillah bore Tubal‐cain, who made all kinds of bronze and iron tools. The sister of Tubal‐cain was Naamah."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-17",
+      "type": "commentary",
+      "text": "19–22 : The emphasis on civilization seen in 3.1–24 emerges again here in the depiction of the occupations of Lamech’s sons. This tradition does not anticipate a flood narrative.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 19,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-gen-4-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Lamech said to his wives: “Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me."
+    },
+    {
+      "block_id": "oxford-gen-4-24",
+      "type": "verse",
+      "number": 24,
+      "text": "If Cain is avenged sevenfold, truly Lamech seventy‐sevenfold.”"
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-18",
+      "type": "commentary",
+      "text": "23–24 : The first half of this song may once have been used to brag about the ability of Lamech and his family to avenge their honor. Placed where it is and including v. 24, it now functions to demonstrate a major consequence of the expansion of civilization: an expansion of the violence with which the family tree began (see 4.1–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 23,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-gen-4-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Adam knew his wife again, and she bore a son and named him Seth, for she said, “God has appointed for me another child instead of Abel, because Cain killed him.”"
+    },
+    {
+      "block_id": "oxford-gen-4-25-commentary-5",
+      "type": "commentary",
+      "text": "The verb in Heb resembles the word for Seth",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4,
+        "verse": 25
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-19",
+      "type": "commentary",
+      "text": "25 : A parallel to 4.1, introducing the new line of Seth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-4-26",
+      "type": "verse",
+      "number": 26,
+      "text": "To Seth also a son was born, and he named him Enosh. At that time people began to invoke the name of the Lord."
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-6",
+      "type": "commentary",
+      "text": "1.1–11.26: The primeval history: from creation to the birth of Abraham. This unit is composed of two principal layers, a Priestly source that also provides an editorial framework (1.1–2.3; 5.1–28,30–32; 6.9–22; 7.6,11,13–16a,18–21,24; 8.1–2a,3–5,14–19; 9.1–17; 10.10–27), and an earlier non‐Priestly primeval history that uses the divine name Yahweh (represented as in the translation) found in the rest of 2.4–11.9. As seen in the chart on correspondences spanning the primeval history (see p. ), the present combined text is an intricate narrative, with echoes of creation and un‐creation, struggles surrounding human god‐likeness, and other themes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-15",
+      "type": "commentary",
+      "text": "4.17–26: First overview of generations from creation to flood. Deriving from a different source than 5.1–32, most of the names here are variants of those found there, but not in the same order.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-gen-4-h1kj-20",
+      "type": "commentary",
+      "text": "26 : This Yahwistic tradition locates the beginning of use of the divine name “Yahweh” ( ) in the primeval period, in contrast to the Priestly tradition, in which the divine name is not used until the time of Moses (Ex 6.2–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 4
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "document_id": "judg-8",
+  "title": "Judges 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-judg-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then the Ephraimites said to him, “What have you done to us, not to call us when you went to fight against the Midianites?” And they upbraided him violently."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-6",
+      "type": "commentary",
+      "text": "8.1 : also objected when Jephthah did not include them in a battle, depriving them of plunder and honors (12.1–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-judg-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "So he said to them, “What have I done now in comparison with you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"
+    },
+    {
+      "block_id": "oxford-judg-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "God has given into your hands the captains of Midian, Oreb and Zeeb; what have I been able to do in comparison with you?” When he said this, their anger against him subsided."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-4",
+      "type": "commentary",
+      "text": "6.1–8.3: Gideon and the wine presses. The longest story about Gideon is bracketed by two wine presses. The first (6.11), where Gideon is hiding wheat from invaders, symbolizes Israel’s marginality; the second (7.25) is the site where the Midianite leaders are executed, symbolizing the reversal of fortunes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-5",
+      "type": "commentary",
+      "text": "7.24–8.3: The execution of enemy leaders. The Ephraimites are finally mustered to secure the fords and capture Midianites attempting to cross the Jordan. The Ephraimites are upset because they missed an opportunity to loot the Midianite camp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-7",
+      "type": "commentary",
+      "text": "2–3 : Gideon is able to avoid violence through the skillful use of language, just as his father had in Ophrah (6.31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-judg-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then Gideon came to the Jordan and crossed over, he and the three hundred who were with him, exhausted and famished."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-9",
+      "type": "commentary",
+      "text": "4 : , see 7.8,16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-judg-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So he said to the people of Succoth, “Please give some loaves of bread to my followers, for they are exhausted, and I am pursuing Zebah and Zalmunna, the kings of Midian.”"
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-10",
+      "type": "commentary",
+      "text": "5 : , probably Tell Deir Alla in the eastern Jordan valley. means “(Sacrificial) Victim”; means “No‐Shelter.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-judg-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "But the officials of Succoth said, “Do you already have in your possession the hands of Zebah and Zalmunna, that we should give bread to your army?”"
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-11",
+      "type": "commentary",
+      "text": "6 : , as battlefield trophies; for other body parts taken by warriors, see 1.6–7;1 Sam 18.27; 31.8–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-judg-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Gideon replied, “Well then, when the Lord has given Zebah and Zalmunna into my hand, I will trample your flesh on the thorns of the wilderness and on briers.”"
+    },
+    {
+      "block_id": "oxford-judg-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "From there he went up to Penuel, and made the same request of them; and the people of Penuel answered him as the people of Succoth had answered."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-12",
+      "type": "commentary",
+      "text": "8 : , east of Succoth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-judg-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "So he said to the people of Penuel, “When I come back victorious, I will break down this tower.”"
+    },
+    {
+      "block_id": "oxford-judg-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now Zebah and Zalmunna were in Karkor with their army, about fifteen thousand men, all who were left of all the army of the people of the east; for one hundred twenty thousand men bearing arms had fallen."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-13",
+      "type": "commentary",
+      "text": "10 : , location unknown. , see 1.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-judg-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "So Gideon went up by the caravan route east of Nobah and Jogbehah, and attacked the army; for the army was off its guard."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-14",
+      "type": "commentary",
+      "text": "10–11 : The numbers are exaggerated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-judg-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Zebah and Zalmunna fled; and he pursued them and took the two kings of Midian, Zebah and Zalmunna, and threw all the army into a panic."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-15",
+      "type": "commentary",
+      "text": "12 : , 4.15; 7.21–22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-judg-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "When Gideon son of Joash returned from the battle by the ascent of Heres,"
+    },
+    {
+      "block_id": "oxford-judg-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "he caught a young man, one of the people of Succoth, and questioned him; and he listed for him the officials and elders of Succoth, seventy‐seven people."
+    },
+    {
+      "block_id": "oxford-judg-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then he came to the people of Succoth, and said, “Here are Zebah and Zalmunna, about whom you taunted me, saying, ‘Do you already have in your possession the hands of Zebah and Zalmunna, that we should give bread to your troops who are exhausted?’”"
+    },
+    {
+      "block_id": "oxford-judg-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "So he took the elders of the city and he took thorns of the wilderness and briers and with them he trampled the people of Succoth."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-16",
+      "type": "commentary",
+      "text": "16 : , another reversal of fortune. The Midianite invasion forced Gideon to thresh wheat in a wine press (6.11), now he pays them back by threshing the elders of Succoth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-judg-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He also broke down the tower of Penuel, and killed the men of the city."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , the same Heb word translated “pull down” in 6.30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-judg-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then he said to Zebah and Zalmunna, “What about the men whom you killed at Tabor?” They answered, “As you are, so were they, every one of them; they resembled the sons of a king.”"
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-18",
+      "type": "commentary",
+      "text": "18 : , if this is the same as in 4.6, no battle with Midianites there is mentioned elsewhere.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-judg-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And he replied, “They were my brothers, the sons of my mother; as the Lord lives, if you had saved them alive, I would not kill you.”"
+    },
+    {
+      "block_id": "oxford-judg-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "So he said to Jether his firstborn, “Go kill them!” But the boy did not draw his sword, for he was afraid, because he was still a boy."
+    },
+    {
+      "block_id": "oxford-judg-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then Zebah and Zalmunna said, “You come and kill us; for as the man is, so is his strength.” So Gideon proceeded to kill Zebah and Zalmunna; and he took the crescents that were on the necks of their camels."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-8",
+      "type": "commentary",
+      "text": "8.4–21: Gideon and the three towns. Gideon fights on, crossing the Jordan to redeem his family honor by hunting down the men who had killed his blood‐brothers. Gideon acquires and settles new scores along the way with towns that refuse to feed his three hundred men.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-19",
+      "type": "commentary",
+      "text": "21 : 7.25n. were probably chains of amulets and bangles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-judg-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then the Israelites said to Gideon, “Rule over us, you and your son and your grandson also; for you have delivered us out of the hand of Midian.”"
+    },
+    {
+      "block_id": "oxford-judg-8-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Gideon said to them, “I will not rule over you, and my son will not rule over you; the Lord will rule over you.”"
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-21",
+      "type": "commentary",
+      "text": "23 : , cf. 1 Sam 8.7; 10.19; 12.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-judg-8-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Then Gideon said to them, “Let me make a request of you; each of you give me an earring he has taken as booty.” (For the enemy had golden earrings, because they were Ishmaelites.)"
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-23",
+      "type": "commentary",
+      "text": "24 : are also identified as Midianites in Gen 37.25–36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-judg-8-25",
+      "type": "verse",
+      "number": 25,
+      "text": "“We will willingly give them,” they answered. So they spread a garment, and each threw into it an earring he had taken as booty."
+    },
+    {
+      "block_id": "oxford-judg-8-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The weight of the golden earrings that he requested was one thousand seven hundred shekels of gold (apart from the crescents and the pendants and the purple garments worn by the kings of Midian, and the collars that were on the necks of their camels)."
+    },
+    {
+      "block_id": "oxford-judg-8-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Gideon made an ephod of it and put it in his town, in Ophrah; and all Israel prostituted themselves to it there, and it became a snare to Gideon and to his family."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-22",
+      "type": "commentary",
+      "text": "24–27 : Gideon, who often sought and relied on divinatory guidance (6.36–40; 7.9–15), makes an for his shrine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 24,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-24",
+      "type": "commentary",
+      "text": "27 : , elsewhere a gilded vest worn by priests containing divinatory objects (Ex 28.6–30; 39.2–7; 1 Sam 2.18), here functioning as a ritual object; for another in Judges, see 17.5. The narrator does not explain how this particular ephod became the object of inappropriate devotion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-judg-8-28",
+      "type": "verse",
+      "number": 28,
+      "text": "So Midian was subdued before the Israelites, and they lifted up their heads no more. So the land had rest forty years in the days of Gideon."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-2",
+      "type": "commentary",
+      "text": "3.7–8.28: The deliverers. The tales about judges, also called “deliverers” (2.18; 3.9,15,31; 6.14; 8.22) begin triumphantly with stories about Othniel (3.7–11), Ehud (3.12–30), Deborah/Barak (4.1–5.31), and Gideon (6.1–8.28), held together by a common formula (2.11–23n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-3",
+      "type": "commentary",
+      "text": "6.1–8.28: Gideon. Gideon and his warriors rescue Israel from seasonal attacks by Midianites and their allies. Gideon purifies Israel territory from the internal threat of assimilation to Canaanite religion before removing an external threat by driving out invaders from the east (6.1–8.3), and then leads a war party across the Jordan on a reprisal raid (8.4–21); traditions about two different heroes may be combined here (see 6.32n.). A final section about Gideon’s legacy (8.22–28) blurs his image: although he made an ephod that became an occasion for idolatry (8.27), he also delivered “rest” to the land (8.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-20",
+      "type": "commentary",
+      "text": "8.22–28: Gideon and the ephod. The Gideon narrative ends where it began in Ophrah (6.11), as Gideon refuses the offer of kingship and furnishes his family shrine with a divinatory device. The story of Gideon/Jerubbaal ends ambiguously: he delivered Israel from the Midianites and piously refused kingship, but his legacy is tainted by the stain of idolatry. His refusal of kingship hints ahead to the following episode, where his son Abimelech makes himself king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 22,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-25",
+      "type": "commentary",
+      "text": "28 : , for the final time in Judges.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-judg-8-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Jerubbaal son of Joash went to live in his own house."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-29",
+      "type": "commentary",
+      "text": "29 : , see 6.32n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-judg-8-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Now Gideon had seventy sons, his own offspring, for he had many wives."
+    },
+    {
+      "block_id": "oxford-judg-8-31",
+      "type": "verse",
+      "number": 31,
+      "text": "His concubine who was in Shechem also bore him a son, and he named him Abimelech."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-30",
+      "type": "commentary",
+      "text": "31 : , a secondary wife in a polygamous family. means “My (divine) father is king.” , a major town in Israelite history (Gen 34; Josh 24; 1 Kings 12.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-judg-8-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Then Gideon son of Joash died at a good old age, and was buried in the tomb of his father Joash at Ophrah of the Abiezrites."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-31",
+      "type": "commentary",
+      "text": "32 : , said also of Abraham (Gen 15.15; 25.8) and David (1 Chr 29.28). means “lord of the covenant”; his temple in Shechem (9.4,46) was a place where pacts were solemnized. Ironically, in this story every party will prove unfaithful to its alliances.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-judg-8-33",
+      "type": "verse",
+      "number": 33,
+      "text": "As soon as Gideon died, the Israelites relapsed and prostituted themselves with the Baals, making Baal‐berith their god."
+    },
+    {
+      "block_id": "oxford-judg-8-34",
+      "type": "verse",
+      "number": 34,
+      "text": "The Israelites did not remember the Lord their God, who had rescued them from the hand of all their enemies on every side;"
+    },
+    {
+      "block_id": "oxford-judg-8-35",
+      "type": "verse",
+      "number": 35,
+      "text": "and they did not exhibit loyalty to the house of Jerubbaal (that is, Gideon) in return for all the good that he had done to Israel."
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-1",
+      "type": "commentary",
+      "text": "2.6–16.31: The days of the judges. The core of the book is comprised of tales about the era’s leaders.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-26",
+      "type": "commentary",
+      "text": "8.29–16.31: The “empty men.” The accounts of several of the judges portray morally ambiguous (Gideon, Jephthah, Samson) or corrupt (Abimelech) protagonists. The term “empty men” is used in the narratives of Abimelech (NRSV “worthless fellows,” 9.4) and Jephthah (“outlaws,” 11.3) to describe bandits and gangsters alienated from their clans. The narrator in 2.19 had traced a descending moral trajectory for the period, and beginning with Gideon at the end of his life, the judges themselves are portrayed as successively worse. Though some elements of the formula (see 2.11–23n.) remain (8.33; 10.6–7,10; 11.33; 13.1) to editorially connect these characters with the heroes of chs 3–8 and the paradigm in 2.11–19, the land never again has rest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 29,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-27",
+      "type": "commentary",
+      "text": "8.29–9.57: Abimelech. Through militarism and marriage, Gideon had extended his power base from Ophrah to neighboring Shechem, the major town in the region. Gideon’s son Abimelech seeks the kingship his father refused by conspiring with his maternal kin in Shechem to kill his brothers and inherit his father’s regional chieftainship. Gaal, a warlord with ties to neither Shechem nor Ophrah, persuades the Shechemites to turn against Abimelech who is, finally, not one of them. In this power grab, Abimelech’s fratricide sets in motion a chain reaction of treachery among a host of the mutually faithless and ruthless. The justice‐making (“judging”) function in this story is triggered by Jotham’s curse that unleashes “an evil spirit” from God (9.23) which plays each side off against the other. The story begins and ends with events featuring two stones (see 9.5,53).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 29,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-28",
+      "type": "commentary",
+      "text": "8.29–35: Gideon’s death and its aftermath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 29,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-judg-8-h1kj-32",
+      "type": "commentary",
+      "text": "35 : , Heb “ḥesed,” faithfulness to covenants.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 8
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "ps-125",
+  "title": "Psalms 125",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-125-heading-psalm-126",
+      "type": "heading",
+      "text": "Psalm 126"
+    },
+    {
+      "block_id": "oxford-ps-125-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Those who trust in the Lord are like Mount Zion, which cannot be moved, but abides forever."
+    },
+    {
+      "block_id": "oxford-ps-125-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 125: Prayer for Zion’s purification from evildoers. A Zion song that, unlike most other such songs, prays that sinners be removed from its midst (vv. 4–5). Examples of such purifying judgments are Isa 1.21–28; 65; Zeph 3.11–13. Like other Songs of Ascents (Pss 122; 123; 124; 126; see Ps 120n.), Ps 125 has an opening statement (vv. 1–3) followed by a prayer (vv. 4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-125-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the mountains surround Jerusalem, so the Lord surrounds his people, from this time on and forevermore."
+    },
+    {
+      "block_id": "oxford-ps-125-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , the hills surrounding Jerusalem are an apt symbol of the powerful and ever‐present in Zion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-125-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For the scepter of wickedness shall not rest on the land allotted to the righteous, so that the righteous might not stretch out their hands to do wrong."
+    },
+    {
+      "block_id": "oxford-ps-125-h1kj-3",
+      "type": "commentary",
+      "text": "3 : A wielded by an unjust ruler cannot (figuratively) on the land given to the righteous lest they be led to do wrong.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-125-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Do good, O Lord, to those who are good, and to those who are upright in their hearts."
+    },
+    {
+      "block_id": "oxford-ps-125-h1kj-4",
+      "type": "commentary",
+      "text": "4 : Justice means upholding the righteous as well as punishing the wicked.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-125-5",
+      "type": "verse",
+      "number": 5,
+      "text": "But those who turn aside to their own crooked ways the Lord will lead away with evildoers. Peace be upon Israel!"
+    },
+    {
+      "block_id": "oxford-ps-125-h1kj-5",
+      "type": "commentary",
+      "text": "5 : is repeated later in this collection, in Ps 128.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 125
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    }
+  ]
+}

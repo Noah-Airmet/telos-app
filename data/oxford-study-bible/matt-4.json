@@ -1,0 +1,373 @@
+{
+  "document_id": "matt-4",
+  "title": "Matthew 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-matt-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-matt-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He fasted forty days and forty nights, and afterwards he was famished."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-3",
+      "type": "commentary",
+      "text": "2 : The recall the testing of Israel in the wilderness (Ex 34.28), and Elijah's forty-day journey into the Sinai wilderness (1 Kings 19.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-matt-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the most comprehensive Christological designation for Jesus in Matthew (3.17; 16.16; 17.5; 27.54; 28.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-matt-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But he answered, “It is written, ‘One does not live by bread alone, but by every word that comes from the mouth of God.’”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Deut 8.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-matt-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then the devil took him to the holy city and placed him on the pinnacle of the temple,"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , Jerusalem; cf. 27.53; , possibly the southeast corner of the Temple's terrace where there was a steep drop to the Kidron Valley below.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-matt-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "saying to him, “If you are the Son of God, throw yourself down; for it is written, ‘He will command his angels concerning you,’ and ‘On their hands they will bear you up, so that you will not dash your foot against a stone.’”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-7",
+      "type": "commentary",
+      "text": "6 : Ps 91.11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-matt-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Jesus said to him, “Again it is written, ‘Do not put the Lord your God to the test.’”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-8",
+      "type": "commentary",
+      "text": "7 : Deut 6.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-matt-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor;"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-9",
+      "type": "commentary",
+      "text": "8 : Mountains figure prominently in Matthew as places of revelation (5.1; 14.23; 15.29; 17.1; 24.3; 28.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-matt-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "and he said to him, “All these I will give you, if you will fall down and worship me.”"
+    },
+    {
+      "block_id": "oxford-matt-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Jesus said to him, “Away with you, Satan! for it is written, ‘Worship the Lord your God, and serve only him.’”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-10",
+      "type": "commentary",
+      "text": "10 : Deut 6.13. All of Jesus's responses to Satan are citations from Deuteronomy, which epitomized the Torah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-matt-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then the devil left him, and suddenly angels came and waited on him."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–11: The temptation of Jesus (Mk 1.12–13; Lk 4.1–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-11",
+      "type": "commentary",
+      "text": "11 : The feed Jesus as they had once fed Elijah (1 Kings 19.5–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-matt-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Now when Jesus heard that John had been arrested, he withdrew to Galilee."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-13",
+      "type": "commentary",
+      "text": "12 : was a region in northern Israel, one of the chief areas of Jesus's activity. It was separated from Judea (and Jerusalem) by Samaria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-matt-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He left Nazareth and made his home in Capernaum by the sea, in the territory of Zebulun and Naphtali,"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , a village on the northwest shore of the Sea of Galilee, is located in the traditional allotment of the Israelite tribe of Naphtali (Josh 19.34). Fishing was an important and lucrative economic activity in the region.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-matt-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "so that what had been spoken through the prophet Isaiah might be fulfilled:"
+    },
+    {
+      "block_id": "oxford-matt-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "“Land of Zebulun, land of Naphtali, on the road by the sea, across the Jordan, Galilee of the Gentiles—"
+    },
+    {
+      "block_id": "oxford-matt-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "the people who sat in darkness have seen a great light, and for those who sat in the region and shadow of death light has dawned.”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-15",
+      "type": "commentary",
+      "text": "15–16 : Fulfillment citation of Isa 9.1–2. The name “Galilee” is derived from the Hebrew phrase “circle ” (Isa 8.23 [MT]). The Gentiles were non-Jews. After the fall of the northern kingdom of Israel to Assyria (722 ), much of the area had been repopulated by Gentiles, although by Jesus's day it was again predominantly Jewish.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-matt-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "From that time Jesus began to proclaim, “Repent, for the kingdom of heaven has come near.”"
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-16",
+      "type": "commentary",
+      "text": "17 : Some scholars argue that the phrase marks the beginning of the second of three major divisions in the Gospel; cf. 16.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-matt-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "As he walked by the Sea of Galilee, he saw two brothers, Simon, who is called Peter, and Andrew his brother, casting a net into the sea—for they were fishermen."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-17",
+      "type": "commentary",
+      "text": "18 : , not a sea but a freshwater lake, also known as Gennesaret (Lk 5.1) and the Lake of Tiberias (Jn 21.1). Peter: Simon was the disciple's Hebrew name; Peter his Greek name; cf. 16.18n. Under the influence of Hellenism, Jews often had both.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-matt-4-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And he said to them, “Follow me, and I will make you fish for people.”"
+    },
+    {
+      "block_id": "oxford-matt-4-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Immediately they left their nets and followed him."
+    },
+    {
+      "block_id": "oxford-matt-4-21",
+      "type": "verse",
+      "number": 21,
+      "text": "As he went from there, he saw two other brothers, James son of Zebedee and his brother John, in the boat with their father Zebedee, mending their nets, and he called them."
+    },
+    {
+      "block_id": "oxford-matt-4-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Immediately they left the boat and their father, and followed him."
+    },
+    {
+      "block_id": "oxford-matt-4-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Jesus went throughout Galilee, teaching in their synagogues and proclaiming the good news of the kingdom and curing every disease and every sickness among the people."
+    },
+    {
+      "block_id": "oxford-matt-4-24",
+      "type": "verse",
+      "number": 24,
+      "text": "So his fame spread throughout all Syria, and they brought to him all the sick, those who were afflicted with various diseases and pains, demoniacs, epileptics, and paralytics, and he cured them."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-18",
+      "type": "commentary",
+      "text": "24 : is mentioned in no other Gospel; many scholars think that its capital, Antioch-on-the-Orontes, was the location of Matthew's church. , those thought to be possessed by demons or evil spirits.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-matt-4-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan."
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-12",
+      "type": "commentary",
+      "text": "4.12–25: The beginning of the Galilean ministry (Mk 1.14–20; Lk 4.14–15; 5.1–11; 6.17–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-matt-4-h1kj-19",
+      "type": "commentary",
+      "text": "25 : The typically represent the Jewish people as distinguished from their leaders. : A league of some ten cities with all but Scythopolis (earlier Beth-shan) situated east of the Jordan River. Their populations were largely Gentile, but with substantial Jewish minorities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 4
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    }
+  ]
+}

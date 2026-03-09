@@ -1,0 +1,727 @@
+{
+  "document_id": "onemac-2",
+  "title": "onemac 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onemac-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-onemac-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He had five sons, John surnamed Gaddi,"
+    },
+    {
+      "block_id": "oxford-onemac-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Simon called Thassi,"
+    },
+    {
+      "block_id": "oxford-onemac-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Judas called Maccabeus,"
+    },
+    {
+      "block_id": "oxford-onemac-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Eleazar called Avaran, and Jonathan called Apphus."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-3",
+      "type": "commentary",
+      "text": "2–5 : , see chs 13–16; , see 3.1–9.22. The nickname means “hammer”; the meanings of the nicknames of the other brothers are uncertain. , see 6.43. , see 9.28–13.30. Jonathan and Simon became high priests.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-onemac-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He saw the blasphemies being committed in Judah and Jerusalem,"
+    },
+    {
+      "block_id": "oxford-onemac-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and said, “Alas! Why was I born to see this, the ruin of my people, the ruin of the holy city, and to live there when it was given over to the enemy, the sanctuary given over to aliens?"
+    },
+    {
+      "block_id": "oxford-onemac-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Her temple has become like a person without honor;"
+    },
+    {
+      "block_id": "oxford-onemac-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "her glorious vessels have been carried into exile. Her infants have been killed in her streets, her youths by the sword of the foe."
+    },
+    {
+      "block_id": "oxford-onemac-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "What nation has not inherited her palaces and has not seized her spoils?"
+    },
+    {
+      "block_id": "oxford-onemac-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "All her adornment has been taken away; no longer free, she has become a slave."
+    },
+    {
+      "block_id": "oxford-onemac-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And see, our holy place, our beauty, and our glory have been laid waste; the Gentiles have profaned them."
+    },
+    {
+      "block_id": "oxford-onemac-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Why should we live any longer?”"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-4",
+      "type": "commentary",
+      "text": "7–13 : A poetic lament over Jerusalem personified as a captive woman, a comment on the events of 1.41–64; see Lam 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-onemac-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Then Mattathias and his sons tore their clothes, put on sackcloth, and mourned greatly."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–14: Mattathias and his sons.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-onemac-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The king's officers who were enforcing the apostasy came to the town of Modein to make them offer sacrifice."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-6",
+      "type": "commentary",
+      "text": "15 : , cf. “inspectors” (1.51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-onemac-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Many from Israel came to them; and Mattathias and his sons were assembled."
+    },
+    {
+      "block_id": "oxford-onemac-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Then the king's officers spoke to Mattathias as follows: “You are a leader, honored and great in this town, and supported by sons and brothers."
+    },
+    {
+      "block_id": "oxford-onemac-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Now be the first to come and do what the king commands, as all the Gentiles and the people of Judah and those that are left in Jerusalem have done. Then you and your sons will be numbered among the Friends of the king, and you and your sons will be honored with silver and gold and many gifts.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-7",
+      "type": "commentary",
+      "text": "18 : (i.e., make local sacrifice away from Jerusalem, against the Jewish Law). , advisers at court appointed by the king. Jonathan was later enrolled among the king's “chief Friends” (10.65; cf. 10.20; 11.27) or “King's Kinsmen” (10.89).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-onemac-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But Mattathias answered and said in a loud voice: “Even if all the nations that live under the rule of the king obey him, and have chosen to obey his commandments, every one of them abandoning the religion of their ancestors,"
+    },
+    {
+      "block_id": "oxford-onemac-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "I and my sons and my brothers will continue to live by the covenant of our ancestors."
+    },
+    {
+      "block_id": "oxford-onemac-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Far be it from us to desert the law and the ordinances."
+    },
+    {
+      "block_id": "oxford-onemac-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "We will not obey the king's words by turning aside from our religion to the right hand or to the left.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-8",
+      "type": "commentary",
+      "text": "22 : , Mattathias rejects the invitation, quoting Deut 5.32.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-onemac-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "When he had finished speaking these words, a Jew came forward in the sight of all to offer sacrifice on the altar in Modein, according to the king's command."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-9",
+      "type": "commentary",
+      "text": "23 : The Jew thus makes a direct challenge to Mattathias's leadership.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-onemac-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "When Mattathias saw it, he burned with zeal and his heart was stirred. He gave vent to righteous anger; he ran and killed him on the altar."
+    },
+    {
+      "block_id": "oxford-onemac-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "At the same time he killed the king's officer who was forcing them to sacrifice, and he tore down the altar."
+    },
+    {
+      "block_id": "oxford-onemac-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Thus he burned with zeal for the law, just as Phinehas did against Zimri son of Salu. Chs 2–16: Campaigns of the Maccabees and Hasmoneans. See map on page 1589 for sites in the Jerusalem vicinity. Chs 2–16: The Jerusalem vicinity."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-10",
+      "type": "commentary",
+      "text": "26 : Mattathias is directly compared with , grandson of the high priest Aaron, who had killed an Israelite. The Israelite had compromised Israelite exclusivism by having intercourse with a Midianite woman who worshiped Baal of Peor (Num 25.1–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-onemac-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Then Mattathias cried out in the town with a loud voice, saying: “Let every one who is zealous for the law and supports the covenant come out with me!”"
+    },
+    {
+      "block_id": "oxford-onemac-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Then he and his sons fled to the hills and left all that they had in the town."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-5",
+      "type": "commentary",
+      "text": "2.15–28: Confrontation at Modein.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-11",
+      "type": "commentary",
+      "text": "28 : , 2 Macc 5.27–6.2 dates this before Antiochus's religious persecution.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-onemac-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "At that time many who were seeking righteousness and justice went down to the wilderness to live there,"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-13",
+      "type": "commentary",
+      "text": "29 : Mattathias's violence for Law and covenant (2.27) is contrasted favorably with the passive reaction of another group .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-onemac-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "they, their sons, their wives, and their livestock, because troubles pressed heavily upon them."
+    },
+    {
+      "block_id": "oxford-onemac-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "And it was reported to the king's officers, and to the troops in Jerusalem the city of David, that those who had rejected the king's command had gone down to the hiding places in the wilderness."
+    },
+    {
+      "block_id": "oxford-onemac-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Many pursued them, and overtook them; they encamped opposite them and prepared for battle against them on the sabbath day."
+    },
+    {
+      "block_id": "oxford-onemac-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "They said to them, “Enough of this! Come out and do what the king commands, and you will live.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "But they said, “We will not come out, nor will we do what the king commands and so profane the sabbath day.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Then the enemy quickly attacked them."
+    },
+    {
+      "block_id": "oxford-onemac-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "But they did not answer them or hurl a stone at them or block up their hiding places,"
+    },
+    {
+      "block_id": "oxford-onemac-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "for they said, “Let us all die in our innocence; heaven and earth testify for us that you are killing us unjustly.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-38",
+      "type": "verse",
+      "number": 38,
+      "text": "So they attacked them on the sabbath, and they died, with their wives and children and livestock, to the number of a thousand persons."
+    },
+    {
+      "block_id": "oxford-onemac-2-39",
+      "type": "verse",
+      "number": 39,
+      "text": "When Mattathias and his friends learned of it, they mourned for them deeply."
+    },
+    {
+      "block_id": "oxford-onemac-2-40",
+      "type": "verse",
+      "number": 40,
+      "text": "And all said to their neighbors: “If we all do as our kindred have done and refuse to fight with the Gentiles for our lives and for our ordinances, they will quickly destroy us from the earth.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-41",
+      "type": "verse",
+      "number": 41,
+      "text": "So they made this decision that day: “Let us fight against anyone who comes to attack us on the sabbath day; let us not all die as our kindred died in their hiding places.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-12",
+      "type": "commentary",
+      "text": "2.29–41: Passive resistance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 29,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-onemac-2-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Then there united with them a company of Hasideans, mighty warriors of Israel, all who offered themselves willingly for the law."
+    },
+    {
+      "block_id": "oxford-onemac-2-43",
+      "type": "verse",
+      "number": 43,
+      "text": "And all who became fugitives to escape their troubles joined them and reinforced them."
+    },
+    {
+      "block_id": "oxford-onemac-2-44",
+      "type": "verse",
+      "number": 44,
+      "text": "They organized an army, and struck down sinners in their anger and renegades in their wrath; the survivors fled to the Gentiles for safety."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-15",
+      "type": "commentary",
+      "text": "44 : and , Jews who collaborated with the Gentiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-onemac-2-45",
+      "type": "verse",
+      "number": 45,
+      "text": "And Mattathias and his friends went around and tore down the altars;"
+    },
+    {
+      "block_id": "oxford-onemac-2-46",
+      "type": "verse",
+      "number": 46,
+      "text": "they forcibly circumcised all the uncircumcised boys that they found within the borders of Israel."
+    },
+    {
+      "block_id": "oxford-onemac-2-47",
+      "type": "verse",
+      "number": 47,
+      "text": "They hunted down the arrogant, and the work prospered in their hands."
+    },
+    {
+      "block_id": "oxford-onemac-2-48",
+      "type": "verse",
+      "number": 48,
+      "text": "They rescued the law out of the hands of the Gentiles and kings, and they never let the sinner gain the upper hand."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-14",
+      "type": "commentary",
+      "text": "2.42–48: The Hasideans and Mattathias. The (Heb “ḥasidim,” “the pious,” cf. Pss 79.2; 149.1) are another militaristic group, which with Mattathias's ; in 2 Macc 14.6 they are under Judas's leadership. 1 Macc 7.12 reports them as naively and fatally supporting a peace mission.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 42,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-onemac-2-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Now the days drew near for Mattathias to die, and he said to his sons: “Arrogance and scorn have now become strong; it is a time of ruin and furious anger."
+    },
+    {
+      "block_id": "oxford-onemac-2-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Now, my children, show zeal for the law, and give your lives for the covenant of our ancestors."
+    },
+    {
+      "block_id": "oxford-onemac-2-51",
+      "type": "verse",
+      "number": 51,
+      "text": "“Remember the deeds of the ancestors, which they did in their generations; and you will receive great honor and an everlasting name."
+    },
+    {
+      "block_id": "oxford-onemac-2-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?"
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-17",
+      "type": "commentary",
+      "text": "52 : , Gen 22.1–18; , Gen 15.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-onemac-2-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Joseph in the time of his distress kept the commandment, and became lord of Egypt."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-18",
+      "type": "commentary",
+      "text": "53 : , Gen 39–50.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 53,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-onemac-2-54",
+      "type": "verse",
+      "number": 54,
+      "text": "Phinehas our ancestor, because he was deeply zealous, received the covenant of everlasting priesthood."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-19",
+      "type": "commentary",
+      "text": "54 : , see v. 26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-onemac-2-55",
+      "type": "verse",
+      "number": 55,
+      "text": "Joshua, because he fulfilled the command, became a judge in Israel."
+    },
+    {
+      "block_id": "oxford-onemac-2-56",
+      "type": "verse",
+      "number": 56,
+      "text": "Caleb, because he testified in the assembly, received an inheritance in the land."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-20",
+      "type": "commentary",
+      "text": "55–56 : and appear together in Num 14.5–10 and Sir 46.1–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 55,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-onemac-2-57",
+      "type": "verse",
+      "number": 57,
+      "text": "David, because he was merciful, inherited the throne of the kingdom forever."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-21",
+      "type": "commentary",
+      "text": "57 : , perhaps “pious” or “loyal” is meant. , see 2 Sam 7.13,16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 57,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-onemac-2-58",
+      "type": "verse",
+      "number": 58,
+      "text": "Elijah, because of great zeal for the law, was taken up into heaven."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-22",
+      "type": "commentary",
+      "text": "58 : , cf. 1 Kings 21.17–29; , 2 Kings 2.9–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-onemac-2-59",
+      "type": "verse",
+      "number": 59,
+      "text": "Hananiah, Azariah, and Mishael believed and were saved from the flame."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-23",
+      "type": "commentary",
+      "text": "59 : , see Dan 1.6–7; 3.12–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-onemac-2-60",
+      "type": "verse",
+      "number": 60,
+      "text": "Daniel, because of his innocence, was delivered from the mouth of the lions."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-24",
+      "type": "commentary",
+      "text": "60 : , Dan 6.16–24. Mattathias commends these heroes especially for their loyalty to the Law and readiness to testify under trial.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 60,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-onemac-2-61",
+      "type": "verse",
+      "number": 61,
+      "text": "“And so observe, from generation to generation, that none of those who put their trust in him will lack strength."
+    },
+    {
+      "block_id": "oxford-onemac-2-62",
+      "type": "verse",
+      "number": 62,
+      "text": "Do not fear the words of sinners, for their splendor will turn into dung and worms."
+    },
+    {
+      "block_id": "oxford-onemac-2-63",
+      "type": "verse",
+      "number": 63,
+      "text": "Today they will be exalted, but tomorrow they will not be found, because they will have returned to the dust, and their plans will have perished."
+    },
+    {
+      "block_id": "oxford-onemac-2-64",
+      "type": "verse",
+      "number": 64,
+      "text": "My children, be courageous and grow strong in the law, for by it you will gain honor."
+    },
+    {
+      "block_id": "oxford-onemac-2-65",
+      "type": "verse",
+      "number": 65,
+      "text": "“Here is your brother Simeon who, I know, is wise in counsel; always listen to him; he shall be your father."
+    },
+    {
+      "block_id": "oxford-onemac-2-66",
+      "type": "verse",
+      "number": 66,
+      "text": "Judas Maccabeus has been a mighty warrior from his youth; he shall command the army for you and fight the battle against the peoples."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-25",
+      "type": "commentary",
+      "text": "65–66 : (Simon), , and , thus 1 Macc presents them in its narrative, but in reverse order.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 65,
+      "verse_end": 66
+    },
+    {
+      "block_id": "oxford-onemac-2-67",
+      "type": "verse",
+      "number": 67,
+      "text": "You shall rally around you all who observe the law, and avenge the wrong done to your people."
+    },
+    {
+      "block_id": "oxford-onemac-2-68",
+      "type": "verse",
+      "number": 68,
+      "text": "Pay back the Gentiles in full, and obey the commands of the law.”"
+    },
+    {
+      "block_id": "oxford-onemac-2-69",
+      "type": "verse",
+      "number": 69,
+      "text": "Then he blessed them, and was gathered to his ancestors."
+    },
+    {
+      "block_id": "oxford-onemac-2-70",
+      "type": "verse",
+      "number": 70,
+      "text": "He died in the one hundred forty-sixth year and was buried in the tomb of his ancestors at Modein. And all Israel mourned for him with great lamentation."
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-16",
+      "type": "commentary",
+      "text": "2.49–70: Mattathias's deathbed speech. Jacob (Gen 49), Moses (Deut 33), and Samuel (1 Sam 12) utter similar speeches; compare also the praises of famous men in Sir 44–50.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 49,
+      "verse_end": 70
+    },
+    {
+      "block_id": "oxford-onemac-2-h1kj-26",
+      "type": "commentary",
+      "text": "70 : , see 13.27–30.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onemac",
+        "chapter": 2
+      },
+      "verse_start": 70,
+      "verse_end": 70
+    }
+  ]
+}

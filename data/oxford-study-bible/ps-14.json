@@ -1,0 +1,115 @@
+{
+  "document_id": "ps-14",
+  "title": "Psalms 14",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-14-heading-psalm-15",
+      "type": "heading",
+      "text": "Psalm 15"
+    },
+    {
+      "block_id": "oxford-ps-14-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Fools say in their hearts, “There is no God.” They are corrupt, they do abominable deeds; there is no one who does good."
+    },
+    {
+      "block_id": "oxford-ps-14-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 14: Refusal to be silenced by those who deny God’s justice. A song of trust condemning those who deny that God is active in the world and declaring trust in God who cares for the poor (among whom the psalmist wants to be counted). Psalm 53 is a near duplicate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-14-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , denies God’s ability to govern, not necessarily God’s existence; see Ps 10.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord looks down from heaven on humankind to see if there are any who are wise, who seek after God."
+    },
+    {
+      "block_id": "oxford-ps-14-h1kj-3",
+      "type": "commentary",
+      "text": "2 : God’s scrutiny lays bare the deniers’ folly and malice. In the style of wisdom literature, the rebellious are contrasted with the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They have all gone astray, they are all alike perverse; there is no one who does good, no, not one."
+    },
+    {
+      "block_id": "oxford-ps-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Have they no knowledge, all the evildoers who eat up my people as they eat bread, and do not call upon the Lord?"
+    },
+    {
+      "block_id": "oxford-ps-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "There they shall be in great terror, for God is with the company of the righteous."
+    },
+    {
+      "block_id": "oxford-ps-14-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , perhaps a reference to Mount Zion as in Pss 48.6; 76.3, where the wicked will be punished and the poor upheld.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You would confound the plans of the poor, but the Lord is their refuge."
+    },
+    {
+      "block_id": "oxford-ps-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "O that deliverance for Israel would come from Zion! When the Lord restores the fortunes of his people, Jacob will rejoice; Israel will be glad."
+    },
+    {
+      "block_id": "oxford-ps-14-h1kj-5",
+      "type": "commentary",
+      "text": "7 : The psalm moves from the individual to the community, as Israel lives in the hope that salvation comes from . may refer to the hoped‐for restoration of Jerusalem after its destruction in 586 ; this verse may be a later addition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 14
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    }
+  ]
+}

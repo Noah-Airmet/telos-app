@@ -1,0 +1,980 @@
+{
+  "document_id": "deut-28",
+  "title": "Deuteronomy 28",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-28-1",
+      "type": "verse",
+      "number": 1,
+      "text": "If you will only obey the Lord your God, by diligently observing all his commandments that I am commanding you today, the Lord your God will set you high above all the nations of the earth;"
+    },
+    {
+      "block_id": "oxford-deut-28-2",
+      "type": "verse",
+      "number": 2,
+      "text": "all these blessings shall come upon you and overtake you, if you obey the Lord your God:"
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-3",
+      "type": "commentary",
+      "text": "1–2 : The proem emphasizes the conditionality of the exalted status of Israel, perhaps because of the Exile. (see also v. 13), a metaphor for the nation’s election, also applied to the Davidic dynasty (Ps 89.27). (Contrast 26.19, where this affirmation is unconditional, fulfilling God’s past promises.)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-deut-28-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Blessed shall you be in the city, and blessed shall you be in the field."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-5",
+      "type": "commentary",
+      "text": "3 : and , “everywhere,” urban and rural.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-deut-28-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Blessed shall be the fruit of your womb, the fruit of your ground, and the fruit of your livestock, both the increase of your cattle and the issue of your flock."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , fecundity for humans, crops, and livestock is contingent upon obedience to the covenant; see 7.12–14n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-deut-28-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Blessed shall be your basket and your kneading bowl."
+    },
+    {
+      "block_id": "oxford-deut-28-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Blessed shall you be when you come in, and blessed shall you be when you go out."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-4",
+      "type": "commentary",
+      "text": "3–6 : The six benedictions have their malediction counterpart at vv. 16–19. The two antonym pairs (vv. 3,6) provide a frame to the unit. The opposites form a merism to stress totality (like “night and day”); see 6.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 3,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-deut-28-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord will cause your enemies who rise against you to be defeated before you; they shall come out against you one way, and flee before you seven ways."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-7",
+      "type": "commentary",
+      "text": "7 : Military success is conditional upon covenantal obedience, rather than strength of arms (9.1–3; Josh 1.6–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-deut-28-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord will command the blessing upon you in your barns, and in all that you undertake; he will bless you in the land that the Lord your God is giving you."
+    },
+    {
+      "block_id": "oxford-deut-28-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord will establish you as his holy people, as he has sworn to you, if you keep the commandments of the Lord your God and walk in his ways."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , holiness is conditional upon obedience, a shift from other passages where Israel’s holiness is not future but present, and not conditional but unconditional (7.6; 14.2; cf. 26.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-28-10",
+      "type": "verse",
+      "number": 10,
+      "text": "All the peoples of the earth shall see that you are called by the name of the Lord, and they shall be afraid of you."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , relationship with God includes accountability and corresponding divine oversight. The formula can apply to either the nation (here; 2 Chr 7.14; Isa 63.19; Jer 14.9) or an individual (Ex 33.12; Jer 15.16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-28-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord will make you abound in prosperity, in the fruit of your womb, in the fruit of your livestock, and in the fruit of your ground in the land that the Lord swore to your ancestors to give you."
+    },
+    {
+      "block_id": "oxford-deut-28-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The Lord will open for you his rich storehouse, the heavens, to give the rain of your land in its season and to bless all your undertakings. You will lend to many nations, but you will not borrow."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , in Israelite and Near Eastern cosmology, primordial waters above the dome of the sky were released as rain (Gen 1.7; 7.11). , see 15.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-28-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The Lord will make you the head, and not the tail; you shall be only at the top, and not at the bottom—if you obey the commandments of the Lord your God, which I am commanding you today, by diligently observing them,"
+    },
+    {
+      "block_id": "oxford-deut-28-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and if you do not turn aside from any of the words that I am commanding you today, either to the right or to the left, following other gods to serve them."
+    },
+    {
+      "block_id": "oxford-deut-28-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But if you will not obey the Lord your God by diligently observing all his commandments and decrees, which I am commanding you today, then all these curses shall come upon you and overtake you:"
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-13",
+      "type": "commentary",
+      "text": "15",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-28-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Cursed shall you be in the city, and cursed shall you be in the field."
+    },
+    {
+      "block_id": "oxford-deut-28-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Cursed shall be your basket and your kneading bowl."
+    },
+    {
+      "block_id": "oxford-deut-28-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Cursed shall be the fruit of your womb, the fruit of your ground, the increase of your cattle and the issue of your flock."
+    },
+    {
+      "block_id": "oxford-deut-28-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Cursed shall you be when you come in, and cursed shall you be when you go out."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-14",
+      "type": "commentary",
+      "text": "16–19 : Negating vv. 3–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 16,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-deut-28-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The Lord will send upon you disaster, panic, and frustration in everything you attempt to do, until you are destroyed and perish quickly, on account of the evil of your deeds, because you have forsaken me."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-15",
+      "type": "commentary",
+      "text": "20 : Corresponding to the tripartite blessing for obedience (v. 8) stands the triple threat of (better, “curse”), The threats are spelled out in vv. 21–44. , the first‐person reference shifts from Moses to God, as at 7.4; 17.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-deut-28-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The Lord will make the pestilence cling to you until it has consumed you off the land that you are entering to possess."
+    },
+    {
+      "block_id": "oxford-deut-28-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The Lord will afflict you with consumption, fever, inflammation, with fiery heat and drought, and with blight and mildew; they shall pursue you until you perish."
+    },
+    {
+      "block_id": "oxford-deut-28-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The sky over your head shall be bronze, and the earth under you iron."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-17",
+      "type": "commentary",
+      "text": "23 : , see §§63–64: “May [the gods] make your ground like iron … Just as rain does not fall from a bronze sky …” (D. J. Wiseman, in , p. 5396.1",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-deut-28-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The Lord will change the rain of your land into powder, and only dust shall come down upon you from the sky until you are destroyed."
+    },
+    {
+      "block_id": "oxford-deut-28-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The Lord will cause you to be defeated before your enemies; you shall go out against them one way and flee before them seven ways. You shall become an object of horror to all the kingdoms of the earth."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-18",
+      "type": "commentary",
+      "text": "25 : Negates v. 7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-deut-28-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Your corpses shall be food for every bird of the air and animal of the earth, and there shall be no one to frighten them away."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-19",
+      "type": "commentary",
+      "text": "26 : Even executed criminals must be buried by sundown, lest the corpse become carrion (21.22–23); abrogation of that law underscores the punishment’s horror (Jer 7.33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-deut-28-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The Lord will afflict you with the boils of Egypt, with ulcers, scurvy, and itch, of which you cannot be healed."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-21",
+      "type": "commentary",
+      "text": "27 : , inversion of 7.15. See Ex 9.9–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-deut-28-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The Lord will afflict you with madness, blindness, and confusion of mind;"
+    },
+    {
+      "block_id": "oxford-deut-28-29",
+      "type": "verse",
+      "number": 29,
+      "text": "you shall grope about at noon as blind people grope in darkness, but you shall be unable to find your way; and you shall be continually abused and robbed, without anyone to help."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-22",
+      "type": "commentary",
+      "text": "28–29 : , Shamash, the god of justice, punishes disobedience by withholding light and vision; this punishment entails the breakdown of civil order and legal standards.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-28-30",
+      "type": "verse",
+      "number": 30,
+      "text": "You shall become engaged to a woman, but another man shall lie with her. You shall build a house, but not live in it. You shall plant a vineyard, but not enjoy its fruit."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-23",
+      "type": "commentary",
+      "text": "30 : , contrast 20.7, which provides the same conditions for exemption from conscription, in different order. Here, all hope of establishing households is dashed. Society will lack its essential structures for building family, community, and economy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-28-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Your ox shall be butchered before your eyes, but you shall not eat of it. Your donkey shall be stolen in front of you, and shall not be restored to you. Your sheep shall be given to your enemies, without anyone to help you."
+    },
+    {
+      "block_id": "oxford-deut-28-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Your sons and daughters shall be given to another people, while you look on; you will strain your eyes looking for them all day but be powerless to do anything."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-24",
+      "type": "commentary",
+      "text": "32 : The children will be taken captive by foreign conquerors.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-deut-28-33",
+      "type": "verse",
+      "number": 33,
+      "text": "A people whom you do not know shall eat up the fruit of your ground and of all your labors; you shall be continually abused and crushed,"
+    },
+    {
+      "block_id": "oxford-deut-28-34",
+      "type": "verse",
+      "number": 34,
+      "text": "and driven mad by the sight that your eyes shall see."
+    },
+    {
+      "block_id": "oxford-deut-28-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The Lord will strike you on the knees and on the legs with grievous boils of which you cannot be healed, from the sole of your foot to the crown of your head."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-20",
+      "type": "commentary",
+      "text": "27–35 : The apparently arbitrary sequence of punishments closely resembles §§39–43, where each curse is associated with a particular Neo‐Assyrian god: the moon god Sin with leprosy; the sun god Shamash, blindness; and Dilipat (the planet Venus), rape, dispossession, and pillage.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 27,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-deut-28-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The Lord will bring you, and the king whom you set over you, to a nation that neither you nor your ancestors have known, where you shall serve other gods, of wood and stone."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-25",
+      "type": "commentary",
+      "text": "36 : Both the Neo‐Assyrian army (2 Kings 17) and the Neo‐Babylonian invaders (2 Kings 24–25) practiced deportation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-deut-28-37",
+      "type": "verse",
+      "number": 37,
+      "text": "You shall become an object of horror, a proverb, and a byword among all the peoples where the Lord will lead you."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-26",
+      "type": "commentary",
+      "text": "37 : , the opposite idea was central to God’s covenant with Abraham, whose people were to become the paradigm of divine providence (Gen 12.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-deut-28-38",
+      "type": "verse",
+      "number": 38,
+      "text": "You shall carry much seed into the field but shall gather little in, for the locust shall consume it."
+    },
+    {
+      "block_id": "oxford-deut-28-39",
+      "type": "verse",
+      "number": 39,
+      "text": "You shall plant vineyards and dress them, but you shall neither drink the wine nor gather the grapes, for the worm shall eat them."
+    },
+    {
+      "block_id": "oxford-deut-28-40",
+      "type": "verse",
+      "number": 40,
+      "text": "You shall have olive trees throughout all your territory, but you shall not anoint yourself with the oil, for your olives shall drop off."
+    },
+    {
+      "block_id": "oxford-deut-28-41",
+      "type": "verse",
+      "number": 41,
+      "text": "You shall have sons and daughters, but they shall not remain yours, for they shall go into captivity."
+    },
+    {
+      "block_id": "oxford-deut-28-42",
+      "type": "verse",
+      "number": 42,
+      "text": "All your trees and the fruit of your ground the cicada shall take over."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-27",
+      "type": "commentary",
+      "text": "38–42 : Futility curses. The frustration of human labor through infertility of the harvest (caused by invasion from insects or other natural enemies) is punishment for infringement of the covenant (Lev 26.20; Am 4.7–12), reversing the blessings of vv. 7–15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 38,
+      "verse_end": 42
+    },
+    {
+      "block_id": "oxford-deut-28-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Aliens residing among you shall ascend above you higher and higher, while you shall descend lower and lower."
+    },
+    {
+      "block_id": "oxford-deut-28-44",
+      "type": "verse",
+      "number": 44,
+      "text": "They shall lend to you but you shall not lend to them; they shall be the head and you shall be the tail."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-16",
+      "type": "commentary",
+      "text": "21–44 : This section echoes treaties that the Neo‐Assyrian empire imposed on its vassal states, suggesting that the curse section of these state treaties, perhaps in Aramaic translation, provided a model for this chapter. Judah was a vassal to the Assyrian empire (2 Kings 18.13–18) and both Neo‐Assyrian and Judean officials spoke Aramaic, the international language of diplomacy (2 Kings 18.26–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 21,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-28",
+      "type": "commentary",
+      "text": "43–44 : Reversing vv. 12b–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 43,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-deut-28-45",
+      "type": "verse",
+      "number": 45,
+      "text": "All these curses shall come upon you, pursuing and overtaking you until you are destroyed, because you did not obey the Lord your God, by observing the commandments and the decrees that he commanded you."
+    },
+    {
+      "block_id": "oxford-deut-28-46",
+      "type": "verse",
+      "number": 46,
+      "text": "They shall be among you and your descendants as a sign and a portent forever."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-12",
+      "type": "commentary",
+      "text": "15–46 : A chiastic inclusio frames the section: the initial sequence AB ( , v. 15) is repeated in reverse at the end as B’A’ ( , v. 45).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 15,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-29",
+      "type": "commentary",
+      "text": "46 : , the normal phrase for miracles God performed on behalf of Israel at the time of the Exodus, “signs and wonders” (4.34; 6.22; 7.19; 29.3; 34.11; Ex 7.3; 8.23; 10.1–2; 11.9–10), in the singular here designates the divine punishment of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-deut-28-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Because you did not serve the Lord your God joyfully and with gladness of heart for the abundance of everything,"
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-31",
+      "type": "commentary",
+      "text": "47 : , the future curse is based upon wrongdoing in the past, in contrast to the conditional, future formulation of v. 15, which presents disobedience as a future possibility. , prosperity in the land will cause Israel to forget its source (see 6.11–12; 8.11–20; 33.15,18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-deut-28-48",
+      "type": "verse",
+      "number": 48,
+      "text": "therefore you shall serve your enemies whom the Lord will send against you, in hunger and thirst, in nakedness and lack of everything. He will put an iron yoke on your neck until he has destroyed you."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-32",
+      "type": "commentary",
+      "text": "48 : The punishment corresponds precisely to the offense: sacrificial worship of God (13.5), now means labor as a servant or slave (5.13; 13.12). , symbolizing vassal status, as in Jer 27–28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-deut-28-49",
+      "type": "verse",
+      "number": 49,
+      "text": "The Lord will bring a nation from far away, from the end of the earth, to swoop down on you like an eagle, a nation whose language you do not understand,"
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-35",
+      "type": "commentary",
+      "text": "49 : , cf. Ezek 17.3,7; Hab 1.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-deut-28-50",
+      "type": "verse",
+      "number": 50,
+      "text": "a grim‐faced nation showing no respect to the old or favor to the young."
+    },
+    {
+      "block_id": "oxford-deut-28-51",
+      "type": "verse",
+      "number": 51,
+      "text": "It shall consume the fruit of your livestock and the fruit of your ground until you are destroyed, leaving you neither grain, wine, and oil, nor the increase of your cattle and the issue of your flock, until it has made you perish."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-36",
+      "type": "commentary",
+      "text": "51 : Contrast the idealist war laws of 20.19–20, which prohibit occupiers from despoiling the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-deut-28-52",
+      "type": "verse",
+      "number": 52,
+      "text": "It shall besiege you in all your towns until your high and fortified walls, in which you trusted, come down throughout your land; it shall besiege you in all your towns throughout the land that the Lord your God has given you."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-34",
+      "type": "commentary",
+      "text": "49–52 : Closely parallels Jer 5.15–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 49,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-37",
+      "type": "commentary",
+      "text": "52 : , the Neo‐Assyrian (2 Kings 17.5) and Babylonian armies (2 Kings 24.3; 25.1–7) employed advanced engineering to mount a siege campaign involving ramparts, battering rams, and catapults.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-deut-28-53",
+      "type": "verse",
+      "number": 53,
+      "text": "In the desperate straits to which the enemy siege reduces you, you will eat the fruit of your womb, the flesh of your own sons and daughters whom the Lord your God has given you."
+    },
+    {
+      "block_id": "oxford-deut-28-54",
+      "type": "verse",
+      "number": 54,
+      "text": "Even the most refined and gentle of men among you will begrudge food to his own brother, to the wife whom he embraces, and to the last of his remaining children,"
+    },
+    {
+      "block_id": "oxford-deut-28-55",
+      "type": "verse",
+      "number": 55,
+      "text": "giving to none of them any of the flesh of his children whom he is eating, because nothing else remains to him, in the desperate straits to which the enemy siege will reduce you in all your towns."
+    },
+    {
+      "block_id": "oxford-deut-28-56",
+      "type": "verse",
+      "number": 56,
+      "text": "She who is the most refined and gentle among you, so gentle and refined that she does not venture to set the sole of her foot on the ground, will begrudge food to the husband whom she embraces, to her own son, and to her own daughter,"
+    },
+    {
+      "block_id": "oxford-deut-28-57",
+      "type": "verse",
+      "number": 57,
+      "text": "begrudging even the afterbirth that comes out from between her thighs, and the children that she bears, because she is eating them in secret for lack of anything else, in the desperate straits to which the enemy siege will reduce you in your towns."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-30",
+      "type": "commentary",
+      "text": "28.47–57: Scenario of foreign invasion. A later appendix, outside the frame provided by vv. 45–46.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 47,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-33",
+      "type": "commentary",
+      "text": "49–57 : Systematic presentation of foreign conquest, proceeding from invasion (vv. 48–50), to the invaders’ plunder and despoiling of the land (v. 51), to crippling siege (v. 52), and culminating in the horrors of starvation that arise from the siege (vv. 53–57). These descriptions of the invader and of the consequences of the siege are based upon the literary model of the",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 49,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-38",
+      "type": "commentary",
+      "text": "53–57 : The starvation resulting from the siege causes a complete breakdown of the normal social order, as parents become predators of their children and family members compete for food. Cannibalism under siege conditions is a common literary trope; see Lev 26.29; 2 Kings 6.28–32; Jer 19.9; Lam 4.10; Ezek 5.10; and §§47,69,71,75.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 53,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-deut-28-58",
+      "type": "verse",
+      "number": 58,
+      "text": "If you do not diligently observe all the words of this law that are written in this book, fearing this glorious and awesome name, the Lord your God,"
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-40",
+      "type": "commentary",
+      "text": "58 : , how the commandments have become transformed from oral proclamation to written text is unexplained, since it is not until 31.9,24 that Moses commands that his teaching be put into writing. Moreover, previously the required obedience was to the plural “commandments” (vv. 1,9,13,15,45). Here, for the first time in the chapter, Israel must obey a codified, single (Heb “torah” or “teaching”). , better, “Name,” standing directly for God (elsewhere in the Pentateuch only Lev 24.11; in later Judaism “the Name” (Heb “HaShem”) becomes an important circumlocution for Yahweh, God’s personal name).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-deut-28-59",
+      "type": "verse",
+      "number": 59,
+      "text": "then the Lord will overwhelm both you and your offspring with severe and lasting afflictions and grievous and lasting maladies."
+    },
+    {
+      "block_id": "oxford-deut-28-60",
+      "type": "verse",
+      "number": 60,
+      "text": "He will bring back upon you all the diseases of Egypt, of which you were in dread, and they shall cling to you."
+    },
+    {
+      "block_id": "oxford-deut-28-61",
+      "type": "verse",
+      "number": 61,
+      "text": "Every other malady and affliction, even though not recorded in the book of this law, the Lord will inflict on you until you are destroyed."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-42",
+      "type": "commentary",
+      "text": "59–61 : After the miracle of the Exodus, God had promised, if the people obeyed, “I will not bring upon you any of the diseases that I brought upon the Egyptians” (Ex 15.26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 59,
+      "verse_end": 61
+    },
+    {
+      "block_id": "oxford-deut-28-62",
+      "type": "verse",
+      "number": 62,
+      "text": "Although once you were as numerous as the stars in heaven, you shall be left few in number, because you did not obey the Lord your God."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-43",
+      "type": "commentary",
+      "text": "62 : , God will cancel the promise made to Abraham that his people shall be as numerous as the stars of heaven (Gen 15.5–6; cf. Deut 1.10; 10.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 62,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-deut-28-63",
+      "type": "verse",
+      "number": 63,
+      "text": "And just as the Lord took delight in making you prosperous and numerous, so the Lord will take delight in bringing you to ruin and destruction; you shall be plucked off the land that you are entering to possess."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-44",
+      "type": "commentary",
+      "text": "63 : Dispossession and exile (as in 4.26; Lev 26.33–39) rescind the covenantal promise of the land, contravening even the unconditional divine promises of Gen 12.7; 13.17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-deut-28-64",
+      "type": "verse",
+      "number": 64,
+      "text": "The Lord will scatter you among all peoples, from one end of the earth to the other; and there you shall serve other gods, of wood and stone, which neither you nor your ancestors have known."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-45",
+      "type": "commentary",
+      "text": "64 : The double loss of Israel’s identity: Dispersion of the population dissolves its political identity, and idol worship dissolves its religious identity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 64,
+      "verse_end": 64
+    },
+    {
+      "block_id": "oxford-deut-28-65",
+      "type": "verse",
+      "number": 65,
+      "text": "Among those nations you shall find no ease, no resting place for the sole of your foot. There the Lord will give you a trembling heart, failing eyes, and a languishing spirit."
+    },
+    {
+      "block_id": "oxford-deut-28-66",
+      "type": "verse",
+      "number": 66,
+      "text": "Your life shall hang in doubt before you; night and day you shall be in dread, with no assurance of your life."
+    },
+    {
+      "block_id": "oxford-deut-28-67",
+      "type": "verse",
+      "number": 67,
+      "text": "In the morning you shall say, “If only it were evening!” and at evening you shall say, “If only it were morning!”—because of the dread that your heart shall feel and the sights that your eyes shall see."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-46",
+      "type": "commentary",
+      "text": "65–67 : In the absence of the national destiny provided by the covenant, historical existence has no meaning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 65,
+      "verse_end": 67
+    },
+    {
+      "block_id": "oxford-deut-28-68",
+      "type": "verse",
+      "number": 68,
+      "text": "The Lord will bring you back in ships to Egypt, by a route that I promised you would never see again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer."
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-2",
+      "type": "commentary",
+      "text": "28.1–68: The consequences of obedience or disobedience: blessing or curse. The covenant specifies a series of blessings and curses that follow upon national obedience or disobedience to the law. These are modeled after ancient Near Eastern state treaties, which spell out, at their conclusion, the consequences of breaching the treaty. This chapter has several close parallels to the Neo‐Assyrian ( ), dating to 672 . The disproportion between the sections devoted to blessing (vv. 1–14) and to curse (vv. 15–68) may be a reaction to the Babylonian conquest, deportation, and exile of Judah (597 and 586 ), here recast as a prophetic warning. Two appendixes, vv. 47–57 and 58–68, each seek to make theological sense of that catastrophe. The two other legal collections of the Pentateuch (Ex 21–23 and Lev 17–26) similarly end with exhortations to obedience, accompanied by blessings and curses (Ex 23.20–33; Lev 26). Here an inclusio frames and defines the blessings section: (vv. 1,13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-11",
+      "type": "commentary",
+      "text": "28.15–68: Consequences of disobedience. A broad range of misfortunes, from infertility to military defeat (vv. 15–46), precede a second section (vv. 47–68) on foreign invasion, siege, national defeat, and exile, a reversal of the covenantal promises and of the nation’s history of salvation: By disobeying the covenant, the nation undoes its own history.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 15,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-39",
+      "type": "commentary",
+      "text": "28.58–68: Undoing the Exodus. This seems to represent a third layer to the chapter.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 58,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-41",
+      "type": "commentary",
+      "text": "59–68 : Consistent with the “book” perspective, the consequences for breach of the written teaching have a different focus: a systematic reversal of the national history, covenantal promises, and theology included in that teaching. The punishment amounts to an anti‐Torah that will dissolve the national identity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 59,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-deut-28-h1kj-47",
+      "type": "commentary",
+      "text": "68 : Forced return to Egypt, where the former taskmasters now spurn Israel’s desperate bid to sell itself back into slavery and thus to undo its own history. For selling oneself into slavery under financial hardship to pay off debts or gain support (“indenture”), see Lev 25.39. (cf. 17.16), reverses the unconditional promise at the time of the Exodus: “the Egyptians whom you see today you shall never see again” (Ex 14.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 28
+      },
+      "verse_start": 68,
+      "verse_end": 68
+    }
+  ]
+}

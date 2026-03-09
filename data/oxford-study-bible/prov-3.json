@@ -1,0 +1,493 @@
+{
+  "document_id": "prov-3",
+  "title": "Proverbs 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-prov-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "for length of days and years of life and abundant welfare they will give you."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , wisdom is associated with health and longevity (e.g., 3.18; 8.25; 9.11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-prov-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not let loyalty and faithfulness forsake you; bind them around your neck, write them on the tablet of your heart."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-5",
+      "type": "commentary",
+      "text": "3 : is God's toward the youth (cf., Gen 24.27; Ruth 2.20). On instruction as adornment, see 1.9n. , make the teachings indelibly part of oneself; see 2.2n.; Jer 31.33–34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So you will find favor and good repute in the sight of God and of people."
+    },
+    {
+      "block_id": "oxford-prov-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Trust in the Lord with all your heart, and do not rely on your own insight."
+    },
+    {
+      "block_id": "oxford-prov-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In all your ways acknowledge him, and he will make straight your paths."
+    },
+    {
+      "block_id": "oxford-prov-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Do not be wise in your own eyes; fear the Lord, and turn away from evil."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-6",
+      "type": "commentary",
+      "text": "7 : , overly confident about one's insight, self-deluded (cf. 26.5,16; 28.11,26; Isa 5.21; Jer 9.23–24). The wise are humble (e.g., 11.2; 15.33; 18.12; 22.4; Sir 3.17–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-prov-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It will be a healing for your flesh and a refreshment for your body."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , lit., “drink for your bones.” Moist bones signify vitality (e.g., Job 21.23–24; Isa 58.11); dry bones denote despair (17.22; Ezek 37.1–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-prov-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Honor the Lord with your substance and with the first fruits of all your produce;"
+    },
+    {
+      "block_id": "oxford-prov-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "then your barns will be filled with plenty, and your vats will be bursting with wine."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-8",
+      "type": "commentary",
+      "text": "9–10 : Israel dedicated the of harvest to God in thanksgiving (Ex 23.15–16,19; Lev 23.9–14; Deut 26.1–11). Mention of religious practices and festivals is rare in Proverbs but frequent in other ancient Near Eastern wisdom literature.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "My child, do not despise the Lord's discipline or be weary of his reproof,"
+    },
+    {
+      "block_id": "oxford-prov-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "for the Lord reproves the one he loves, as a father the son in whom he delights."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-3",
+      "type": "commentary",
+      "text": "1–12 : Trust and honor God, six two-verse commands.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Happy are those who find wisdom, and those who get understanding,"
+    },
+    {
+      "block_id": "oxford-prov-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "for her income is better than silver, and her revenue better than gold."
+    },
+    {
+      "block_id": "oxford-prov-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "She is more precious than jewels, and nothing you desire can compare with her."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-10",
+      "type": "commentary",
+      "text": "14–15 : , see 2.4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-prov-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Long life is in her right hand; in her left hand are riches and honor."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-11",
+      "type": "commentary",
+      "text": "16 : evokes Egyptian depictions of gods holding symbols of their blessings. Maat, goddess of truth and justice, holds in one hand a scepter that represents prosperity and honor and, in the other, the ankh or symbol of life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Her ways are ways of pleasantness, and all her paths are peace."
+    },
+    {
+      "block_id": "oxford-prov-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "She is a tree of life to those who lay hold of her; those who hold her fast are called happy."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-12",
+      "type": "commentary",
+      "text": "18 : , a mythological image in the ancient Near East. Typically, the tree is in bloom with animals or people gathered around it to revere, touch, or eat from it. In the Hebrew Bible, the tree of life appears only in Proverbs and in Genesis in the garden of Eden (Gen 2.9; 3.22–24). Proverbs identifies the tree with other sources of well-being, including righteous speech (11.30), a fulfilled desire (13.12), and a gentle tongue (15.4). Revelation 22.2 attributes healing properties to the tree of life in the city of God's new creation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-prov-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The Lord by wisdom founded the earth; by understanding he established the heavens;"
+    },
+    {
+      "block_id": "oxford-prov-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "by his knowledge the deeps broke open, and the clouds drop down the dew."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-9",
+      "type": "commentary",
+      "text": "3.13–20: Tribute to Wisdom framed by the word (Heb “ʾashre”), i.e., fortunate or blessed (vv. 13,18). Happy proverbs or beatitudes commend an attribute or experience by observing the well-being of its possessor (e.g., 8.32,34; 28.14; Job 5.17; Ps 1.1–3; Mt 5.3–11; Lk 6.20–23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-13",
+      "type": "commentary",
+      "text": "19–20 : Wisdom as the instrument or agent by which God created the world; see 8.22–31; Ps 104.24; Jer 10.12; 51.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "My child, do not let these escape from your sight: keep sound wisdom and prudence,"
+    },
+    {
+      "block_id": "oxford-prov-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and they will be life for your soul and adornment for your neck."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-16",
+      "type": "commentary",
+      "text": "22 : , see 1.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then you will walk on your way securely and your foot will not stumble."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-17",
+      "type": "commentary",
+      "text": "23 : , see 1.15n. Fools and the wicked stumble on their paths (e.g., 1.10–19; 4.19; 5.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "If you sit down, you will not be afraid; when you lie down, your sleep will be sweet."
+    },
+    {
+      "block_id": "oxford-prov-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Do not be afraid of sudden panic, or of the storm that strikes the wicked;"
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-18",
+      "type": "commentary",
+      "text": "25 : , see 1.26–27; Isa 47.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-prov-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "for the Lord will be your confidence and will keep your foot from being caught."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-15",
+      "type": "commentary",
+      "text": "21–26 : Wisdom's security (e.g., 1.33; 2.7–8; 4.11–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-prov-3-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Do not withhold good from those to whom it is due, when it is in your power to do it."
+    },
+    {
+      "block_id": "oxford-prov-3-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Do not say to your neighbor, “Go, and come again, tomorrow I will give it”—when you have it with you."
+    },
+    {
+      "block_id": "oxford-prov-3-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Do not plan harm against your neighbor who lives trustingly beside you."
+    },
+    {
+      "block_id": "oxford-prov-3-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Do not quarrel with anyone without cause, when no harm has been done to you."
+    },
+    {
+      "block_id": "oxford-prov-3-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Do not envy the violent and do not choose any of their ways;"
+    },
+    {
+      "block_id": "oxford-prov-3-32",
+      "type": "verse",
+      "number": 32,
+      "text": "for the perverse are an abomination to the Lord, but the upright are in his confidence."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-19",
+      "type": "commentary",
+      "text": "27–32 : Five prohibitions about how not to treat others.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 27,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-20",
+      "type": "commentary",
+      "text": "32 : , what God loathes, often wrongs that go unnoticed and for which reparations are difficult to obtain (e.g., false weights and measures [11.1; 20.10,23], lying [12.22)], scoffing [24.9], and corrupting justice [17.15]).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-prov-3-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The Lord's curse is on the house of the wicked, but he blesses the abode of the righteous."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-22",
+      "type": "commentary",
+      "text": "33 : , variously the structure, its inhabitants, all of a person's property, and descendants (e.g., Gen 7.1; 1 Sam 27.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-prov-3-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Toward the scorners he is scornful, but to the humble he shows favor."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-23",
+      "type": "commentary",
+      "text": "34 : , see 3.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-prov-3-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The wise will inherit honor, but stubborn fools, disgrace."
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–9.18: The proverbs of Solomon son of David, king of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–35: The sages’ worldview. The chapter highlights how the sages understand the world to work, namely, that by God's wisdom, God created the world, giving it shape, meaningful order, and coherence that God continues to uphold. The wise and righteous align themselves with God's wisdom and flourish as a result; the foolish and wicked suffer and are expelled eventually from the world. Should the wicked prosper from time to time, as they do, it is an exception and not the rule (e.g., 10:1–2n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-14",
+      "type": "commentary",
+      "text": "3.21–35: Wisdom's benefits, five prohibitions, and different fates.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-prov-3-h1kj-21",
+      "type": "commentary",
+      "text": "33–35 : Fates of the wicked and upright.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 3
+      },
+      "verse_start": 33,
+      "verse_end": 35
+    }
+  ]
+}

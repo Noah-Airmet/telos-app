@@ -1,0 +1,343 @@
+{
+  "document_id": "isa-9",
+  "title": "Isaiah 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-9-heading-10",
+      "type": "heading",
+      "text": "10"
+    },
+    {
+      "block_id": "oxford-isa-9-1",
+      "type": "verse",
+      "number": 1,
+      "text": "But there will be no gloom for those who were in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he will make glorious the way of the sea, the land beyond the Jordan, Galilee of the nations."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-6",
+      "type": "commentary",
+      "text": "9.1 : and refer to the Assyrian annexation of Israelite tribal territories in the Galilee following Tiglath-pileser's defeat of northern Israel in 732 . The Assyrian provinces of Dur (Dor, ), Gal’azu (Gilead, ), and Magidu (Megiddo, ), areas just south and west of Zebulun and Naphtali, were also carved out of Israel at this time.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-isa-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The people who walked in darkness have seen a great light; those who lived in a land of deep darkness— on them light has shined."
+    },
+    {
+      "block_id": "oxford-isa-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You have multiplied the nation, you have increased its joy; they rejoice before you as with joy at the harvest, as people exult when dividing plunder."
+    },
+    {
+      "block_id": "oxford-isa-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For the yoke of their burden, and the bar across their shoulders, the rod of their oppressor, you have broken as on the day of Midian."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-9",
+      "type": "commentary",
+      "text": "4 : refers to Gideon's defeat of Midian and deliverance of Israel in Judg 7.15–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-isa-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For all the boots of the tramping warriors and all the garments rolled in blood shall be burned as fuel for the fire."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-8",
+      "type": "commentary",
+      "text": "4–5 : Military oppression is symbolized by the (10.27; 14.25), the (10.24), the (10.24; 14.5; Gen 49.10), and the trampling .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-isa-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For a child has been born for us, a son given to us; authority rests upon his shoulders; and he is named Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+    },
+    {
+      "block_id": "oxford-isa-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "His authority shall grow continually, and there shall be endless peace for the throne of David and his kingdom. He will establish and uphold it with justice and with righteousness from this time onward and forevermore. The zeal of the Lord of hosts will do this."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-4",
+      "type": "commentary",
+      "text": "8.16–9.7: Prophetic instruction concerning the Lord's signs to Israel and the house of David. Isaiah now expresses frustration as he decides to wait for the to act. Isaiah maintains that the is hiding from the nation, a disturbing proposition that is meant to overcome suggestions of divine impotence or maliciousness in the face of crisis, but nevertheless points to the as an important cause of Judah's suffering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-5",
+      "type": "commentary",
+      "text": "8.18–9.7 : The prophet anticipates a period of gloom and darkness until a new Davidic monarch arises to replace Ahaz.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-7",
+      "type": "commentary",
+      "text": "2–7 : The royal song of thanks-giving answers the hopes of those who wait for the to act to restore righteous Davidic rule in Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 2,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-10",
+      "type": "commentary",
+      "text": "6–7 : , see 6.8n. The birth or coronation of a new king, perhaps Hezekiah, the son and successor of Ahaz, signals a new period of , and in which Davidic rule will be reestablished in Israel. See also Ps 2.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-isa-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord sent a word against Jacob, and it fell on Israel;"
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-13",
+      "type": "commentary",
+      "text": "8 : is the eponymous ancestor of Israel (Gen 32.22–32; 35.9–15) and is especially associated with northern Israelite locations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-isa-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "and all the people knew it— Ephraim and the inhabitants of Samaria— but in pride and arrogance of heart they said:"
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-14",
+      "type": "commentary",
+      "text": "9 : is the dominant tribe of northern Israel, and is the capital of the Northern Kingdom (1 Kings 16.24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-isa-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "“The bricks have fallen, but we will build with dressed stones; the sycamores have been cut down, but we will put cedars in their place.”"
+    },
+    {
+      "block_id": "oxford-isa-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "So the Lord raised adversaries against them, and stirred up their enemies,"
+    },
+    {
+      "block_id": "oxford-isa-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "the Arameans on the east and the Philistines on the west, and they devoured Israel with open mouth. For all this his anger has not turned away; his hand is stretched out still."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-12",
+      "type": "commentary",
+      "text": "9.8–12 : This oracle recalls Aram's (and Philistia's) aggression against Israel in the ninth century when King Ahab was killed in battle (1 Kings 22). Later Israelite kings and their Judean vassals were contained by the Aramean push into Philistia (2 Kings 10.32; 12.17–18; 13.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 8,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-isa-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "The people did not turn to him who struck them, or seek the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-isa-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So the Lord cut off from Israel head and tail, palm branch and reed in one day—"
+    },
+    {
+      "block_id": "oxford-isa-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "elders and dignitaries are the head, and prophets who teach lies are the tail;"
+    },
+    {
+      "block_id": "oxford-isa-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for those who led this people led them astray, and those who were led by them were left in confusion."
+    },
+    {
+      "block_id": "oxford-isa-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "That is why the Lord did not have pity on their young people, or compassion on their orphans and widows; for everyone was godless and an evildoer, and every mouth spoke folly. For all this his anger has not turned away; his hand is stretched out still."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-15",
+      "type": "commentary",
+      "text": "13–17 : Isaiah decries Israel's failure to recognize that the was the party responsible for striking against Israel's leaders. Although the Jehu dynasty eventually achieved security for Israel during the reigns of Jehoash (800–784 ) and Jeroboam II (788–747; 2 Kings 13.24–25; 14.23–29), ancient Near Eastern sources indicate that Jehu (842–814) and Jehoash did so by forming an alliance with Assyria to contain Aram. King Zechariah (747), the last king of the house of Jehu, was ultimately assassinated by pro-Aramean elements in Israel (2 Kings 8–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 13,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For wickedness burned like a fire, consuming briers and thorns; it kindled the thickets of the forest, and they swirled upward in a column of smoke."
+    },
+    {
+      "block_id": "oxford-isa-9-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Through the wrath of the Lord of hosts the land was burned, and the people became like fuel for the fire; no one spared another."
+    },
+    {
+      "block_id": "oxford-isa-9-20",
+      "type": "verse",
+      "number": 20,
+      "text": "They gorged on the right, but still were hungry, and they devoured on the left, but were not satisfied; they devoured the flesh of their own kindred;"
+    },
+    {
+      "block_id": "oxford-isa-9-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Manasseh devoured Ephraim, and Ephraim Manasseh, and together they were against Judah. For all this his anger has not turned away; his hand is stretched out still."
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–33.24: The Lord's plans to reveal worldwide sovereignty at Zion. The first half of the book focuses especially on the punishment of Zion and anticipation of its future restoration in an effort to demonstrate the 's plans to reveal sovereignty over Israel, the nations, and creation at large. The second half of the book (chs 34–66) presupposes that the time of the restoration and the 's revelation are at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–12.6: Prophetic instruction concerning Assyrian judgment against Israel and the restoration of the Davidic kingdom. Although chs 5–12 lack a superscription, the interest in both Israel and Judah is clear throughout the unit. The passage begins with an announcement of divine judgment against Israel and Judah in 5.1–30, and a lengthy elaboration concerning the significance of that judgment and the restoration to follow in 6.1–12.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-3",
+      "type": "commentary",
+      "text": "8.16–12.6: Announcement concerning the fall of Assyria and the restoration of the Davidic kingdom. Having laid out the scenario for Jerusalem's and Judah's judgment at the hands of Assyria in 7.1–8.15, the prophet's oracles then turn to a scenario of divine judgment against Assyria for its own arrogance (cf. 2.10–21) and the restoration of righteous Davidic rule over a reunited Israel and Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-11",
+      "type": "commentary",
+      "text": "9.8–10.4: Prophetic warning of judgment to Israel's leaders. The prophet returns to a focus on northern Israel. The oracles in this passage all conclude with the formulaic statement, “for all this, his (the 's) anger has not turned away; his hand is stretched out still” (9.12b, 17b, 21b; 10.4b). The occurrence of this formula in 5.25 indicates that 5.1–30 and 9.8–10.4 form a literary envelope around 6.1–9.7. The oracles presuppose Israel's experience in the Syro-Ephraimite alliance, and point to Israel's leadership as the cause of its problems.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 8,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-16",
+      "type": "commentary",
+      "text": "18–21 : The last years of the kingdom of Israel were marked by a series of royal assassinations as pro-Assyrian and pro-Aramean elements struggled for control of the nation. King Pekah (see 7.1–25n.), who joined Israel with Aram to form the Syro-Ephraimite alliance, gained his throne by assassinating Pekahiah, the son of the pro-Assyrian King Menahem (2 Kings 15.17– 26; cf. 2 Kings 15.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 18,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-9-h1kj-17",
+      "type": "commentary",
+      "text": "21 : and were the two largest tribes in the Northern Kingdom of Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 9
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    }
+  ]
+}

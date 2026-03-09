@@ -1,0 +1,829 @@
+{
+  "document_id": "twoesd-8",
+  "title": "twoesd 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-twoesd-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-twoesd-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "But I tell you a parable, Ezra. Just as, when you ask the earth, it will tell you that it provides a large amount of clay from which earthenware is made, but only a little dust from which gold comes, so is the course of the present world."
+    },
+    {
+      "block_id": "oxford-twoesd-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Many have been created, but only a few shall be saved.”"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-3",
+      "type": "commentary",
+      "text": "7.45–8.3: The second section of the third vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-4",
+      "type": "commentary",
+      "text": "7.116–8.3 : Further dispute between Ezra and the angel, returning to the issue of the seeming unfairness of the human condition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-5",
+      "type": "commentary",
+      "text": "8.1–3 : The angel repeats the arguments and parable used in .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-6",
+      "type": "commentary",
+      "text": "3 : Cf. Mt 22.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-twoesd-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I answered and said, “Then drink your fill of understanding, O my soul, and drink wisdom, O my heart."
+    },
+    {
+      "block_id": "oxford-twoesd-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For not of your own will did you come into the world, and against your will you depart, for you have been given only a short time to live."
+    },
+    {
+      "block_id": "oxford-twoesd-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "O Lord above us, grant to your servant that we may pray before you, and give us a seed for our heart and cultivation of our understanding so that fruit may be produced, by which every mortal who bears the likeness of a human being may be able to live."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-9",
+      "type": "commentary",
+      "text": "6 : Ezra seeks that will counteract the effect of the see 4.30n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-twoesd-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For you alone exist, and we are a work of your hands, as you have declared."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-10",
+      "type": "commentary",
+      "text": "7 : , a confession of God's sovereignty, see Deut 4.35; 6.4; Isa 44.6; 45.11; 60.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-twoesd-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And because you give life to the body that is now fashioned in the womb, and furnish it with members, what you have created is preserved amid fire and water, and for nine months the womb endures your creature that has been created in it."
+    },
+    {
+      "block_id": "oxford-twoesd-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But that which keeps and that which is kept shall both be kept by your keeping.c And when the womb gives up again what has been created in it,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "you have commanded that from the members themselves (that is, from the breasts) milk, the fruit of the breasts, should be supplied,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "so that what has been fashioned may be nourished for a time; and afterwards you will still guide it in your mercy."
+    },
+    {
+      "block_id": "oxford-twoesd-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You have nurtured it in your righteousness, and instructed it in your law, and reproved it in your wisdom."
+    },
+    {
+      "block_id": "oxford-twoesd-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You put it to death as your creation, and make it live as your work."
+    },
+    {
+      "block_id": "oxford-twoesd-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "If then you will suddenly and quickly destroy what with so great labor was fashioned by your command, to what purpose was it made?"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-11",
+      "type": "commentary",
+      "text": "8–14 : The enigma of God's creative activity and providential care followed by destruction recalls Job 10.8–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-twoesd-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "And now I will speak out: About all humankind you know best; but I will speak about your people, for whom I am grieved,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "and about your inheritance, for whom I lament, and about Israel, for whom I am sad, and about the seed of Jacob, for whom I am troubled."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-12",
+      "type": "commentary",
+      "text": "15–16 : The seer leaves the fate of in God's hands, and speaks particularly about Israel, God's (Ps 28.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-twoesd-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Therefore I will pray before you for myself and for them, for I see the failings of us who inhabit the earth;"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-13",
+      "type": "commentary",
+      "text": "17 : , in 8.19b–36.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-twoesd-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "and now also I have heard of the swiftness of the judgment that is to come."
+    },
+    {
+      "block_id": "oxford-twoesd-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Therefore hear my voice and understand my words, and I will speak before you.” The beginning of the words of Ezra's prayer, before he was taken up. He said:"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-8",
+      "type": "commentary",
+      "text": "8.4–19a: Monologue of Ezra : Why should God wonderfully fashion and sustain all humankind, only to destroy a great majority?",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-15",
+      "type": "commentary",
+      "text": "19b : The words point to the belief that Ezra, like Enoch and Elijah, was taken up to heaven without dying (see 6.26n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-twoesd-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "“O Lord, you who inhabit eternity, whose eyes are exalted and whose upper chambers are in the air,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-16",
+      "type": "commentary",
+      "text": "20 : , see Ps 104.3; Am 9.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-twoesd-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "whose throne is beyond measure and whose glory is beyond comprehension, before whom the hosts of angels stand trembling"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-17",
+      "type": "commentary",
+      "text": "21 : are a traditional element in the description of the heavenly throne room; see 1 Kings 22.19; Isa 6.2–3; Dan 7.9–10; Rev 5.11–12; 7.11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-twoesd-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and at whose command they are changed to wind and fire, whose word is sure and whose utterances are certain, whose command is strong and whose ordinance is terrible,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-18",
+      "type": "commentary",
+      "text": "22 : , Ps 104.4; Heb 1.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-twoesd-8-23",
+      "type": "verse",
+      "number": 23,
+      "text": "whose look dries up the depths and whose indignation makes the mountains melt away, and whose truth is established forever—"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-19",
+      "type": "commentary",
+      "text": "23 : , Isa 50.2; 51.10. , Mic 1.4; Sir 16.18–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-twoesd-8-24",
+      "type": "verse",
+      "number": 24,
+      "text": "hear, O Lord, the prayer of your servant, and give ear to the petition of your creature; attend to my words."
+    },
+    {
+      "block_id": "oxford-twoesd-8-25",
+      "type": "verse",
+      "number": 25,
+      "text": "For as long as I live I will speak, and as long as I have understanding I will answer."
+    },
+    {
+      "block_id": "oxford-twoesd-8-26",
+      "type": "verse",
+      "number": 26,
+      "text": "O do not look on the sins of your people, but on those who serve you in truth."
+    },
+    {
+      "block_id": "oxford-twoesd-8-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Do not take note of the endeavors of those who act wickedly, but of the endeavors of those who have kept your covenants amid afflictions."
+    },
+    {
+      "block_id": "oxford-twoesd-8-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Do not think of those who have lived wickedly in your sight, but remember those who have willingly acknowledged that you are to be feared."
+    },
+    {
+      "block_id": "oxford-twoesd-8-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Do not will the destruction of those who have the ways of cattle, but regard those who have gloriously taught your law."
+    },
+    {
+      "block_id": "oxford-twoesd-8-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Do not be angry with those who are deemed worse than wild animals, but love those who have always put their trust in your glory."
+    },
+    {
+      "block_id": "oxford-twoesd-8-31",
+      "type": "verse",
+      "number": 31,
+      "text": "For we and our ancestors have passed our lives in ways that bring death; but it is because of us sinners that you are called merciful."
+    },
+    {
+      "block_id": "oxford-twoesd-8-32",
+      "type": "verse",
+      "number": 32,
+      "text": "For if you have desired to have pity on us, who have no works of righteousness, then you will be called merciful."
+    },
+    {
+      "block_id": "oxford-twoesd-8-33",
+      "type": "verse",
+      "number": 33,
+      "text": "For the righteous, who have many works laid up with you, shall receive their reward in consequence of their own deeds."
+    },
+    {
+      "block_id": "oxford-twoesd-8-34",
+      "type": "verse",
+      "number": 34,
+      "text": "But what are mortals, that you are angry with them; or what is a corruptible race, that you are so bitter against it?"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-22",
+      "type": "commentary",
+      "text": "34 : Cf. Ps 8.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-twoesd-8-35",
+      "type": "verse",
+      "number": 35,
+      "text": "For in truth there is no one among those who have been born who has not acted wickedly; among those who have existed there is no one who has not done wrong."
+    },
+    {
+      "block_id": "oxford-twoesd-8-36",
+      "type": "verse",
+      "number": 36,
+      "text": "For in this, O Lord, your righteousness and goodness will be declared, when you are merciful to those who have no store of good works.”"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-14",
+      "type": "commentary",
+      "text": "8.19b–36: Ezra's prayer, a beautiful and liturgically structured piece (invocation to God, whose attributes are recalled, vv. 20–23; petitions, interspersed with confession and intercessions, vv. 24–35; concluding ascription of praise, v. 36). This prayer also occurs separately, with the title “Confessio Esdrae,” in the section of canticles and hymns contained in many manuscripts of the Latin Vulgate Bible. This circumstance probably accounts for the presence (in v. 19b) of a superscription in the third person.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 19,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-20",
+      "type": "commentary",
+      "text": "26–36 : A strikingly developed series of rhetorical contrasts between sinners and the righteous introduces an appeal to the mercy of God, the quality highlighted in the influential liturgical formula found in Ex 34.6–7. See also n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 26,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-21",
+      "type": "commentary",
+      "text": "33–36 : Ezra is concerned not for those who have with God (see ), but for those who have (v. 36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 33,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-twoesd-8-37",
+      "type": "verse",
+      "number": 37,
+      "text": "He answered me and said, “Some things you have spoken rightly, and it will turn out according to your words."
+    },
+    {
+      "block_id": "oxford-twoesd-8-38",
+      "type": "verse",
+      "number": 38,
+      "text": "For indeed I will not concern myself about the fashioning of those who have sinned, or about their death, their judgment, or their destruction;"
+    },
+    {
+      "block_id": "oxford-twoesd-8-39",
+      "type": "verse",
+      "number": 39,
+      "text": "but I will rejoice over the creation of the righteous, over their pilgrimage also, and their salvation, and their receiving their reward."
+    },
+    {
+      "block_id": "oxford-twoesd-8-40",
+      "type": "verse",
+      "number": 40,
+      "text": "As I have spoken, therefore, so it shall be."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-24",
+      "type": "commentary",
+      "text": "37–40 : God's reply to Ezra's prayer is characteristic (see ; ). As after , Ezra's plea for mercy goes unacknowledged. In stating that God will himself with sinners but will , the angel playfully admits that Ezra has ironically about , namely, in Ezra's plea (vv. 26–36) that God ignore the wicked and pay attention only to the righteous.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 37,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-twoesd-8-41",
+      "type": "verse",
+      "number": 41,
+      "text": "“For just as the farmer sows many seeds in the ground and plants a multitude of seedlings, and yet not all that have been sown will come up in due season, and not all that were planted will take root; so also those who have been sown in the world will not all be saved.”"
+    },
+    {
+      "block_id": "oxford-twoesd-8-42",
+      "type": "verse",
+      "number": 42,
+      "text": "I answered and said, “If I have found favor in your sight, let me speak."
+    },
+    {
+      "block_id": "oxford-twoesd-8-43",
+      "type": "verse",
+      "number": 43,
+      "text": "If the farmer's seed does not come up, because it has not received your rain in due season, or if it has been ruined by too much rain, it perishes."
+    },
+    {
+      "block_id": "oxford-twoesd-8-44",
+      "type": "verse",
+      "number": 44,
+      "text": "But people, who have been formed by your hands and are called your own image because they are made like you, and for whose sake you have formed all things—have you also made them like the farmer's seed?"
+    },
+    {
+      "block_id": "oxford-twoesd-8-45",
+      "type": "verse",
+      "number": 45,
+      "text": "Surely not, O Lord above! But spare your people and have mercy on your inheritance, for you have mercy on your own creation.”"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-25",
+      "type": "commentary",
+      "text": "41–45 : To God's analogy of (cf. Mt 13.3–9), Ezra protests that surely humans are more valuable than plants.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 41,
+      "verse_end": 45
+    },
+    {
+      "block_id": "oxford-twoesd-8-46",
+      "type": "verse",
+      "number": 46,
+      "text": "He answered me and said, “Things that are present are for those who live now, and things that are future are for those who will live hereafter."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-27",
+      "type": "commentary",
+      "text": "46 : 7.14–18,25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-twoesd-8-47",
+      "type": "verse",
+      "number": 47,
+      "text": "For you come far short of being able to love my creation more than I love it. But you have often compared yourself to the unrighteous. Never do so!"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-28",
+      "type": "commentary",
+      "text": "47 : See 5.33; n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 47,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-twoesd-8-48",
+      "type": "verse",
+      "number": 48,
+      "text": "But even in this respect you will be praiseworthy before the Most High,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-49",
+      "type": "verse",
+      "number": 49,
+      "text": "because you have humbled yourself, as is becoming for you, and have not considered yourself to be among the righteous. You will receive the greatest glory,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-50",
+      "type": "verse",
+      "number": 50,
+      "text": "for many miseries will affect those who inhabit the world in the last times, because they have walked in great pride."
+    },
+    {
+      "block_id": "oxford-twoesd-8-51",
+      "type": "verse",
+      "number": 51,
+      "text": "But think of your own case, and inquire concerning the glory of those who are like yourself,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-52",
+      "type": "verse",
+      "number": 52,
+      "text": "because it is for you that paradise is opened, the tree of life is planted, the age to come is prepared, plenty is provided, a city is built, rest is appointed, goodness is established and wisdom perfected beforehand."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-30",
+      "type": "commentary",
+      "text": "52 : , , Gen 2.9; Rev 2.7; 22.2. , the heavenly Jerusalem; see 7.26; 10.27,44,54.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 52,
+      "verse_end": 52
+    },
+    {
+      "block_id": "oxford-twoesd-8-53",
+      "type": "verse",
+      "number": 53,
+      "text": "The root of evil is sealed up from you, illness is banished from you, and death is hidden; Hades has fled and corruption has been forgotten;"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-31",
+      "type": "commentary",
+      "text": "53 : , the realm of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 53,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-twoesd-8-54",
+      "type": "verse",
+      "number": 54,
+      "text": "sorrows have passed away, and in the end the treasure of immortality is made manifest."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-29",
+      "type": "commentary",
+      "text": "48–54 : The angel praises Ezra's character and offers a list of delights awaiting him (see 14.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 48,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-twoesd-8-55",
+      "type": "verse",
+      "number": 55,
+      "text": "Therefore do not ask any more questions about the great number of those who perish."
+    },
+    {
+      "block_id": "oxford-twoesd-8-56",
+      "type": "verse",
+      "number": 56,
+      "text": "For when they had opportunity to choose, they despised the Most High, and were contemptuous of his law, and abandoned his ways."
+    },
+    {
+      "block_id": "oxford-twoesd-8-57",
+      "type": "verse",
+      "number": 57,
+      "text": "Moreover, they have even trampled on his righteous ones,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-58",
+      "type": "verse",
+      "number": 58,
+      "text": "and said in their hearts that there is no God—though they knew well that they must die."
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-32",
+      "type": "commentary",
+      "text": "58 : Cf. Pss 14.1; 53.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-twoesd-8-59",
+      "type": "verse",
+      "number": 59,
+      "text": "For just as the things that I have predicted await you, so the thirst and torment that are prepared await them. For the Most High did not intend that anyone should be destroyed;"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-33",
+      "type": "commentary",
+      "text": "59 : , .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-twoesd-8-60",
+      "type": "verse",
+      "number": 60,
+      "text": "but those who were created have themselves defiled the name of him who made them, and have been ungrateful to him who prepared life for them now."
+    },
+    {
+      "block_id": "oxford-twoesd-8-61",
+      "type": "verse",
+      "number": 61,
+      "text": "Therefore my judgment is now drawing near;"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-34",
+      "type": "commentary",
+      "text": "61 : , see 4.50; 5.55.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 61,
+      "verse_end": 61
+    },
+    {
+      "block_id": "oxford-twoesd-8-62",
+      "type": "verse",
+      "number": 62,
+      "text": "I have not shown this to all people, but only to you and a few like you.” Then I answered and said,"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-23",
+      "type": "commentary",
+      "text": "8.37–62a: Dispute between Ezra and the angel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 37,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-26",
+      "type": "commentary",
+      "text": "46–62a : The final divine reply: The seer is assured that his lot is with the blessed and is advised to think no more about sinners, who deserve their doom because they have (v. 56).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 46,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-35",
+      "type": "commentary",
+      "text": "62 : , see . , see 8.51; 14.9,46.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 62,
+      "verse_end": 62
+    },
+    {
+      "block_id": "oxford-twoesd-8-63",
+      "type": "verse",
+      "number": 63,
+      "text": "“O Lord, you have already shown me a great number of the signs that you will do in the last times, but you have not shown me when you will do them.”"
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-1",
+      "type": "commentary",
+      "text": "Chapters 3–14 comprise a separate literary composition also known as 4 Ezra (see Introduction).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-2",
+      "type": "commentary",
+      "text": "6.35–9.25: The third vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-7",
+      "type": "commentary",
+      "text": "8.4–9.25: The third section of the third vision.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-36",
+      "type": "commentary",
+      "text": "8.62b–9.22: Direct prediction of the future by the angel, now in response to Ezra's request, and again using the key word (v. 63) (cf. 5.1–13; 6.11–29; 7.26– ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 62,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-twoesd-8-h1kj-37",
+      "type": "commentary",
+      "text": "8.63 : , see 4.33; Mk 13.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "twoesd",
+        "chapter": 8
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    }
+  ]
+}

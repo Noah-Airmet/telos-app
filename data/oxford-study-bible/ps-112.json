@@ -1,0 +1,121 @@
+{
+  "document_id": "ps-112",
+  "title": "Psalms 112",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-112-heading-psalm-113",
+      "type": "heading",
+      "text": "Psalm 113"
+    },
+    {
+      "block_id": "oxford-ps-112-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! Happy are those who fear the Lord, who greatly delight in his commandments."
+    },
+    {
+      "block_id": "oxford-ps-112-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 112: Blessings on those who treasure God’s acts and give to the poor. An instruction in acrostic form (see (Pss 9–10n.) and a companion piece to Psalm 111, depicting the righteous person as one who ponders God’s works (cf. Ps 111.2) and puts into practice God’s precepts (cf. Ps 111.7). Just as Ps 111 praised the righteousness of the , so Ps 112 praises the righteousness of a person living in accord with divine righteousness. The virtue singled out is mercy shown in giving to the poor (vv. 4,5,9). Paradoxically, generous givers do not deprive their children of an inheritance (vv. 2–3) nor suffer the shame that comes with poverty (vv. 6,8,10), for the will recompense them. This psalm and Prov 19.17 influenced Jewish and Christian views of almsgiving (e.g., Dan 4.24; Matt 6.12). The refrains in v. 3b and 9b unify the poem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 112
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-112-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , see Ps 110.10n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 112
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-112-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Their descendants will be mighty in the land; the generation of the upright will be blessed."
+    },
+    {
+      "block_id": "oxford-ps-112-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Wealth and riches are in their houses, and their righteousness endures forever."
+    },
+    {
+      "block_id": "oxford-ps-112-h1kj-3",
+      "type": "commentary",
+      "text": "3 : helps to join this psalm to Ps 111; see 111.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 112
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-112-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They rise in the darkness as a light for the upright; they are gracious, merciful, and righteous."
+    },
+    {
+      "block_id": "oxford-ps-112-5",
+      "type": "verse",
+      "number": 5,
+      "text": "It is well with those who deal generously and lend, who conduct their affairs with justice."
+    },
+    {
+      "block_id": "oxford-ps-112-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For the righteous will never be moved; they will be remembered forever."
+    },
+    {
+      "block_id": "oxford-ps-112-7",
+      "type": "verse",
+      "number": 7,
+      "text": "They are not afraid of evil tidings; their hearts are firm, secure in the Lord."
+    },
+    {
+      "block_id": "oxford-ps-112-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Their hearts are steady, they will not be afraid; in the end they will look in triumph on their foes."
+    },
+    {
+      "block_id": "oxford-ps-112-9",
+      "type": "verse",
+      "number": 9,
+      "text": "They have distributed freely, they have given to the poor; their righteousness endures forever; their horn is exalted in honor."
+    },
+    {
+      "block_id": "oxford-ps-112-h1kj-4",
+      "type": "commentary",
+      "text": "9 : , a metaphor for strength.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 112
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-112-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The wicked see it and are angry; they gnash their teeth and melt away; the desire of the wicked comes to nothing."
+    }
+  ]
+}

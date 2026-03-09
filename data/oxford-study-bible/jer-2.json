@@ -1,0 +1,626 @@
+{
+  "document_id": "jer-2",
+  "title": "Jeremiah 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word of the Lord came to me, saying:"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-4",
+      "type": "commentary",
+      "text": "1 : The wilderness period immediately after the Exodus is recalled in idealized terms as a period of fidelity to God (cf. Hos 2.14–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-jer-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Go and proclaim in the hearing of Jerusalem, Thus says the Lord: I remember the devotion of your youth, your love as a bride, how you followed me in the wilderness, in a land not sown."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-5",
+      "type": "commentary",
+      "text": "2 : … , loyalty and commitment. there was no temptation to worship the fertility gods of Canaan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jer-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Israel was holy to the Lord, the first fruits of his harvest. All who ate of it were held guilty; disaster came upon them, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , like sacrifices that were “most holy” and therefore reserved strictly for priestly consumption (Lev 5.15–16; 6.25–29); the nations who have devoured Israel, God's own holy portion, are . , see Lev 23.9–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-jer-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Hear the word of the Lord, O house of Jacob, and all the families of the house of Israel."
+    },
+    {
+      "block_id": "oxford-jer-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Thus says the Lord: What wrong did your ancestors find in me that they went far from me, and went after worthless things, and became worthless themselves?"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , or “vaporous puffs of wind” (Heb “hevel”); cf. Eccl 1.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jer-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "They did not say, “Where is the Lord who brought us up from the land of Egypt, who led us in the wilderness, in a land of deserts and pits, in a land of drought and deep darkness, in a land that no one passes through, where no one lives?”"
+    },
+    {
+      "block_id": "oxford-jer-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I brought you into a plentiful land to eat its fruits and its good things. But when you entered you defiled my land, and made my heritage an abomination."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-9",
+      "type": "commentary",
+      "text": "6–7 : Inability to engage in lament indicates a loss of relationship.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-jer-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The priests did not say, “Where is the Lord?” Those who handle the law did not know me; the rulers transgressed against me; the prophets prophesied by Baal, and went after things that do not profit."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-7",
+      "type": "commentary",
+      "text": "2.4–8: Israel defiles the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-10",
+      "type": "commentary",
+      "text": "8 : failed to lead the community in such complaint as was their responsibility. , the priests who were to instruct the community in (Heb “torah”). , the Canaanite god; cf. Hos 2.8–17. (Heb “yaʿal”), a play on the name Baal (“baʿal”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Therefore once more I accuse you, says the Lord, and I accuse your children's children."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-12",
+      "type": "commentary",
+      "text": "9 : , language typical of the lawsuit oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-jer-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Cross to the coasts of Cyprus and look, send to Kedar and examine with care; see if there has ever been such a thing."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-13",
+      "type": "commentary",
+      "text": "10 : From , that is from west to east. “Cyprus” or “Kittim” (Heb “kittiyyim”; see Gen 10.4; Isa 23.1), the distant western lands in the Mediterranean (later Greece, 1 Macc 1.1, and Rome, Dan 11.30). , a collective term for nomadic tribes in northern Arabia (49.28–33; Gen 25.13; Ps 120.5; Song 1.5; Isa 60.7; Ezek 27.21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jer-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Has a nation changed its gods, even though they are no gods? But my people have changed their glory for something that does not profit."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-14",
+      "type": "commentary",
+      "text": "11 : , see v. 8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jer-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Be appalled, O heavens, at this, be shocked, be utterly desolate, says the Lord,"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-15",
+      "type": "commentary",
+      "text": "12 : In the lawsuit oracle the are witness to Israel's guilt (cf. Mic 6.1–2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jer-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "for my people have committed two evils: they have forsaken me, the fountain of living water, and dug out cisterns for themselves, cracked cisterns that can hold no water."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-3",
+      "type": "commentary",
+      "text": "1–13 : The unit opens with memories of Israel's devotion to God in the wilderness, which functions as a literary foil and the basis for a lawsuit against Israel (vv. 4–13; cf. Hos 4.1–4; Mic 6.1–5; and, by contrast, Jer 12.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-11",
+      "type": "commentary",
+      "text": "2.9–13: God's resulting legal accusation. Interrogation and accusation support evidence against Israel, including the claim that Israel has been unfaithful (v. 13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jer-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Is Israel a slave? Is he a homeborn servant? Why then has he become plunder?"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-17",
+      "type": "commentary",
+      "text": "14 : The rhetorical questions beg a negative response, but the present reality of subjugation suggests something fundamentally wrong.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-jer-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The lions have roared against him, they have roared loudly. They have made his land a waste; his cities are in ruins, without inhabitant."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-18",
+      "type": "commentary",
+      "text": "15 : , Israel's enemies; here, Assyria.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Moreover, the people of Memphis and Tahpanhes have broken the crown of your head."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-19",
+      "type": "commentary",
+      "text": "16 : , a city in northern Egypt on the west bank of the Nile; , an Egyptian border city also known as Baal-zaphon, where some Judeans flee after the death of Gedaliah (43.7–9; 44.1; 46.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-jer-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Have you not brought this upon yourself by forsaking the Lord your God, while he led you in the way?"
+    },
+    {
+      "block_id": "oxford-jer-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "What then do you gain by going to Egypt, to drink the waters of the Nile? Or what do you gain by going to Assyria, to drink the waters of the Euphrates?"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-20",
+      "type": "commentary",
+      "text": "18 : , the temptation was to make alliances with a stronger neighbor, to protect against other enemies (2 Kings 16.7; Isa 31.1). Such alliances showed a lack of faith in the , and could involve worshiping the gods of the major treaty power, resulting in religious apostasy. , contrast in v. 13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Your wickedness will punish you, and your apostasies will convict you. Know and see that it is evil and bitter for you to forsake the Lord your God; the fear of me is not in you, says the Lord God of hosts."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-16",
+      "type": "commentary",
+      "text": "2.14–19: Israel's apostasy is enacted in illicit alliances with Egypt and Assyria, thereby sacrificing its freedom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-jer-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "For long ago you broke your yoke and burst your bonds, and you said, “I will not serve!” On every high hill and under every green tree you sprawled and played the whore."
+    },
+    {
+      "block_id": "oxford-jer-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Yet I planted you as a choice vine, from the purest stock. How then did you turn degenerate and become a wild vine?"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-22",
+      "type": "commentary",
+      "text": "21 : God's from turned into something wild, lit., “foreign”; see Isa 5.2; cf. Hos 10.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Though you wash yourself with lye and use much soap, the stain of your guilt is still before me, says the Lord God."
+    },
+    {
+      "block_id": "oxford-jer-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "How can you say, “I am not defiled, I have not gone after the Baals”? Look at your way in the valley; know what you have done— a restive young camel interlacing her tracks,"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-23",
+      "type": "commentary",
+      "text": "23 : , local manifestations of the chief Canaanite god of fertility. Heb “baʿal” means “master, husband, owner,” and Israel's God might also be thought of as Israel's husband or “baʿal” (3.14; 31.31; Hos 2.16), thereby creating religious confusion. The Baal worship elaborates the metaphor of Israel as a promiscuous spouse (cf. Hos 1–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-jer-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "a wild ass at home in the wilderness, in her heat sniffing the windtt Who can restrain her lust None who seek her need weary themselves; in her month they will find her."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-24",
+      "type": "commentary",
+      "text": "23b–24 : The image of animals suggests the uncontrollable nature of Israel's apostasy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-jer-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Keep your feet from going unshod and your throat from thirst. But you said, “It is hopeless, for I have loved strangers, and after them I will go.”"
+    },
+    {
+      "block_id": "oxford-jer-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "As a thief is shamed when caught, so the house of Israel shall be shamed— they, their kings, their officials, their priests, and their prophets,"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-25",
+      "type": "commentary",
+      "text": "26 : , the word “shame” was often used in place of the name Baal (see 2 Sam 3.8, textual note ). …, Judah's national leadership.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-jer-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "who say to a tree, “You are my father,” and to a stone, “You gave me birth.” For they have turned their backs to me, and not their faces. But in the time of their trouble they say, “Come and save us!”"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-26",
+      "type": "commentary",
+      "text": "27 : The or wood pole (Heb “ʾasherah”) symbolized the goddess Asherah, and the standing symbolized the god Baal and they were associated with Canaanite practices (see Ex 23.24; Deut 12.3; 1 Kings 16.33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But where are your gods that you made for yourself? Let them come, if they can save you, in your time of trouble; for you have as many gods as you have towns, O Judah."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-21",
+      "type": "commentary",
+      "text": "2.20–28: Israel's wild promiscuity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-jer-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Why do you complain against me? You have all rebelled against me, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-28",
+      "type": "commentary",
+      "text": "29 : , formal lawsuit language. Israel's countercomplaint is without basis.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-jer-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "In vain I have struck down your children; they accepted no correction. Your own sword devoured your prophets like a ravening lion."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-29",
+      "type": "commentary",
+      "text": "30 : , that Israel neglected the prophets is a refrain of the Deuteronomistic editor of Jeremiah (7.25; 25.4; 25.15; 26.5; 29.19; 44.4); cf. 1 Kings 19.10; 2 Kings 21.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-jer-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "And you, O generation, behold the word of the Lord!a Have I been a wilderness to Israel, or a land of thick darkness? Why then do my people say, “We are free, we will come to you no more”?"
+    },
+    {
+      "block_id": "oxford-jer-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Can a girl forget her ornaments, or a bride her attire? Yet my people have forgotten me, days without number."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-30",
+      "type": "commentary",
+      "text": "32 : Cf. vv. 10–11. , contrasts Israel's early devotion (vv. 2–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-jer-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "How well you direct your course to seek lovers! So that even to wicked women you have taught your ways."
+    },
+    {
+      "block_id": "oxford-jer-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Also on your skirts is found the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all these things"
+    },
+    {
+      "block_id": "oxford-jer-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "you say, “I am innocent; surely his anger has turned from me.” Now I am bringing you to judgment for saying, “I have not sinned.”"
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-31",
+      "type": "commentary",
+      "text": "34–35 : If a thief was caught in the act, violence against the thief might be excusable (Ex 22.2–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-jer-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "How lightly you gad about, changing your ways! You shall be put to shame by Egypt as you were put to shame by Assyria."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-32",
+      "type": "commentary",
+      "text": "36 : Recalls the invasion of Judah and siege of Jerusalem by the Assyrians in 701 (2 Kings 18.13–19.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-jer-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "From there also you will come away with your hands on your head; for the Lord has rejected those in whom you trust, and you will not prosper through them."
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–4.4: Divine grief over Israel's infidelity. This unit uses intertextual links, shifts in (Israel's) gender identity, dissonant voices, and contrasting emotions, as well as dialogue, satire, exhortation, and legal precedent to imagine God as a spurned lover longing for reunion with God's loved one. The metaphor of rejected lover unifies the larger context (see also Hos 1–3; Isa 1.21; Ezek 16; 23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-2",
+      "type": "commentary",
+      "text": "2.1–37: Accusations of betrayal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-27",
+      "type": "commentary",
+      "text": "2.29–37: God's legal suit against Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 29,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-jer-2-h1kj-33",
+      "type": "commentary",
+      "text": "37 : , a sign of deep mourning (2 Sam 13.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 2
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "document_id": "reve-13",
+  "title": "reve 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-13-heading-14",
+      "type": "heading",
+      "text": "14"
+    },
+    {
+      "block_id": "oxford-reve-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "And I saw a beast rising out of the sea, having ten horns and seven heads; and on its horns were ten diadems, and on its heads were blasphemous names."
+    },
+    {
+      "block_id": "oxford-reve-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And the beast that I saw was like a leopard, its feet were like a bear's, and its mouth was like a lion's mouth. And the dragon gave it his power and his throne and great authority."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-3",
+      "type": "commentary",
+      "text": "1–2 : Based on Dan 7.1–7; see also 12.3n. , primeval chaos. , Roman emperors were deified, and worshiped as gods.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-reve-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "One of its heads seemed to have received a death-blow, but its mortal wound had been healed. In amazement the whole earth followed the beast."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , perhaps an allusion to the assassination of Julius Caesar in 44 , or a reference to the belief that the emperor Nero, who committed suicide in 68 , would be restored to life and rule (see 17.8n.). The (to the beast as a whole) did not destroy the empire. , as of one captivated by a remarkable victory or portent (Jdt 11.16; 2 Esd 12.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "They worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can fight against it?”"
+    },
+    {
+      "block_id": "oxford-reve-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-5",
+      "type": "commentary",
+      "text": "5 : The sovereignty of God, even amid the oppression of the faithful, is implied by the use of passive verbs here and in vv. 7,10,14,15 (cf. 6.4; see 17.17n.). , see 11.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven."
+    },
+    {
+      "block_id": "oxford-reve-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Also it was allowed to make war on the saints and to conquer them. It was given authority over every tribe and people and language and nation,"
+    },
+    {
+      "block_id": "oxford-reve-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and all the inhabitants of the earth will worship it, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb that was slaughtered."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , this phrase would most naturally qualify (see textual note ). A can be removed from (3.5n.); later, judgment seems to depend on one's conduct of life (20.12). The translation here is a harmonization with 17.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let anyone who has an ear listen:"
+    },
+    {
+      "block_id": "oxford-reve-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "If you are to be taken captive, into captivity you go; if you kill with the sword, with the sword you must be killed. Here is a call for the endurance and faith of the saints."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–10 : The from combines the powers of the four beasts of Dan 7 and represents the Roman Empire, incited by the (v. 2) to oppress (v. 7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-7",
+      "type": "commentary",
+      "text": "10 : Jer 15.2; 43.11; Mt 26.52.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then I saw another beast that rose out of the earth; it had two horns like a lamb and it spoke like a dragon."
+    },
+    {
+      "block_id": "oxford-reve-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "It exercises all the authority of the first beast on its behalf, and it makes the earth and its inhabitants worship the first beast, whose mortal wound had been healed."
+    },
+    {
+      "block_id": "oxford-reve-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "It performs great signs, even making fire come down from heaven to earth in the sight of all;"
+    },
+    {
+      "block_id": "oxford-reve-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and by the signs that it is allowed to perform on behalf of the beast, it deceives the inhabitants of earth, telling them to make an image for the beast that had been wounded by the sword and yet lived;"
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-9",
+      "type": "commentary",
+      "text": "14 : The , a statue of the deified emperor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-reve-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and it was allowed to give breath to the image of the beast so that the image of the beast could even speak and cause those who would not worship the image of the beast to be killed."
+    },
+    {
+      "block_id": "oxford-reve-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,"
+    },
+    {
+      "block_id": "oxford-reve-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "so that no one can buy or sell who does not have the mark, that is, the name of the beast or the number of its name."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-10",
+      "type": "commentary",
+      "text": "16–17 : in imitation of the sealing of God's servants (7.2–4). The of the beast (also 14.9,11; 16.2; 19.20; 20.4) is different from the seal of God with which the faithful are identified (7.3; 9.4). Those who do not bear the mark of the beast suffer economic oppression. , phylacteries or “tefillin” were worn on the left arm and forehead ( 159; Josephus, 4.213). Egyptian Jews were branded by Ptolemy IV (3 Macc 2.28–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-reve-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "This calls for wisdom: let anyone with understanding calculate the number of the beast, for it is the number of a person. Its number is six hundred sixtysix."
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-1",
+      "type": "commentary",
+      "text": "12.18–13.18: The two beasts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-8",
+      "type": "commentary",
+      "text": "11–18 : The from , associated with the false prophet (16.13; 19.20), enforces emperor worship (v. 12) and produces (v. 13) or portents to deceive the people (v. 14); cf. Mt 24.24; 2 Thess 2.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 11,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-reve-13-h1kj-11",
+      "type": "commentary",
+      "text": "18 : , Dan 12.10. can be understood either as a number that stands for a specific person, or as a number that can be calculated by human beings, not a hidden number known only to God (cf. 21.17). In the ancient practice of gematria, the numerical equivalents of the letters of the Hebrew or Greek alphabets were added together, and the resulting sum was seen as giving a clue to the nature of the name. Thus (666) is the sum of the separate letters of its name. Of countless explanations, the most probable is “Neron Caesar” (in Hebrew letters), i.e., Emperor Nero, which, if spelled without the final “n”, also accounts for the variant reading, 616 (see textual note ). +The number six represents what falls short of the number of completeness, seven.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 13
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    }
+  ]
+}

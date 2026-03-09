@@ -1,0 +1,349 @@
+{
+  "document_id": "onejohn-2",
+  "title": "onejohn 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onejohn-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-onejohn-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and he is the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-2",
+      "type": "commentary",
+      "text": "1–2 : A similar image of the risen Christ interceding for believers describes Christ as high priest in Heb 4.15–5.4. Here Christ is the , who defends the faithful in the divine court (for the Holy Spirit as see Jn 14.15–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-onejohn-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Now by this we may be sure that we know him, if we obey his commandments."
+    },
+    {
+      "block_id": "oxford-onejohn-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Whoever says, “I have come to know him,” but does not obey his commandments, is a liar, and in such a person the truth does not exist;"
+    },
+    {
+      "block_id": "oxford-onejohn-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "but whoever obeys his word, truly in this person the love of God has reached perfection. By this we may be sure that we are in him:"
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-3",
+      "type": "commentary",
+      "text": "3–5 : Knowledge of God requires obedience to God's commandments (cf. Ezek 36.26–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-onejohn-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "whoever says, “I abide in him,” ought to walk just as he walked."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–6: Christ our advocate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-4",
+      "type": "commentary",
+      "text": "6 : Jesus exemplifies the love which is God's commandment (Jn 13.1; 15.11–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-onejohn-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Beloved, I am writing you no new commandment, but an old commandment that you have had from the beginning; the old commandment is the word that you have heard."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-6",
+      "type": "commentary",
+      "text": "7 : repeats 2.1. Fidelity to Christ's to love one another (Jn 13.34) is freedom from sin.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-onejohn-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Yet I am writing you a new commandment that is true in him and in you, because the darkness is passing away and the true light is already shining."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-7",
+      "type": "commentary",
+      "text": "8 : The true echoes Jesus as light of the world in John's Gospel (Jn 8.12; 9.5; 12.35–36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-onejohn-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Whoever says, “I am in the light,” while hating a brother or sister, is still in the darkness."
+    },
+    {
+      "block_id": "oxford-onejohn-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Whoever loves a brother or sister lives in the light, and in such a person there is no cause for stumbling."
+    },
+    {
+      "block_id": "oxford-onejohn-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But whoever hates another believer is in the darkness, walks in the darkness, and does not know the way to go, because the darkness has brought on blindness."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-5",
+      "type": "commentary",
+      "text": "2.7–11: The love commandment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-onejohn-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I am writing to you, little children, because your sins are forgiven on account of his name."
+    },
+    {
+      "block_id": "oxford-onejohn-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I am writing to you, fathers, because you know him who is from the beginning. I am writing to you, young people, because you have conquered the evil one."
+    },
+    {
+      "block_id": "oxford-onejohn-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I write to you, children, because you know the Father. I write to you, fathers, because you know him who is from the beginning. I write to you, young people, because you are strong and the word of God abides in you, and you have overcome the evil one."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-9",
+      "type": "commentary",
+      "text": "12–14 : A rhythmic series of phrases reminds all from the youngest (or newest) members to the most senior ( ) that they share Christ's victory over the world and its ruling power, (see Jn 12.31; 16.11,33b).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-onejohn-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Do not love the world or the things in the world. The love of the Father is not in those who love the world;"
+    },
+    {
+      "block_id": "oxford-onejohn-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for all that is in the world—the desire of the flesh, the desire of the eyes, the pride in riches—comes not from the Father but from the world."
+    },
+    {
+      "block_id": "oxford-onejohn-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And the world and its desire are passing away, but those who do the will of God live forever."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-8",
+      "type": "commentary",
+      "text": "2.12–17: Victory over evil.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-10",
+      "type": "commentary",
+      "text": "15–17 : Jesus came to save the world (2.2; Jn 3.16), but the world also represents false values, love of wealth or honor, and passions that separate people from God and one another (3.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-onejohn-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Children, it is the last hour! As you have heard that antichrist is coming, so now many antichrists have come. From this we know that it is the last hour."
+    },
+    {
+      "block_id": "oxford-onejohn-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They went out from us, but they did not belong to us; for if they had belonged to us, they would have remained with us. But by going out they made it plain that none of them belongs to us."
+    },
+    {
+      "block_id": "oxford-onejohn-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But you have been anointed by the Holy One, and all of you have knowledge."
+    },
+    {
+      "block_id": "oxford-onejohn-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "I write to you, not because you do not know the truth, but because you know it, and you know that no lie comes from the truth."
+    },
+    {
+      "block_id": "oxford-onejohn-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Who is the liar but the one who denies that Jesus is the Christ? This is the antichrist, the one who denies the Father and the Son."
+    },
+    {
+      "block_id": "oxford-onejohn-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "No one who denies the Son has the Father; everyone who confesses the Son has the Father also."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-12",
+      "type": "commentary",
+      "text": "18–23 : refers to the secessionists as agents of the evil one, trying to deceive God's people (v. 18; 4.1–3). The appearance of such false prophets signals the in apocalyptic texts (Mt 24.4–5,24; CD 5.20; 7.4; Rev 20.10). The term “antichrist” occurs in the New Testament only in 1–2 John. It may be a variant of the “false messiah” (Gk “pseudochristos”) in the Synoptic apocalypse (Mk 13.22; Mt 24.24). The figure of an opponent of God who arises in the last days combines images of the mythical chaos monster defeated by God (Isa 27.1; 51.9; Ps 74.13; Job 26.12), the figure of Satan as an angelic adversary (Zech 3.1; . 1.20; 1 QS 1.18; 3.20–21), a human ruler who embodies evil (Dan 8.25; Ezek 38.1; 39.6; 2 Macc 9.12; 2 Esd 5.6–13), and false prophets (Deut 13.2–6; 18.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-onejohn-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Let what you heard from the beginning abide in you. If what you heard from the beginning abides in you, then you will abide in the Son and in the Father."
+    },
+    {
+      "block_id": "oxford-onejohn-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And this is what he has promised us, eternal life."
+    },
+    {
+      "block_id": "oxford-onejohn-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I write these things to you concerning those who would deceive you."
+    },
+    {
+      "block_id": "oxford-onejohn-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "As for you, the anointing that you received from him abides in you, and so you do not need anyone to teach you. But as his anointing teaches you about all things, and is true and is not a lie, and just as it has taught you, abide in him."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-13",
+      "type": "commentary",
+      "text": "24–27 : The Holy Spirit (“the Holy One,” v. 20) present within the community (“anointing that you received”) enables believers to distinguish true faith from lies about Jesus (Jn 14.26; 16.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 24,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-onejohn-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "And now, little children, abide in him, so that when he is revealed we may have confidence and not be put to shame before him at his coming."
+    },
+    {
+      "block_id": "oxford-onejohn-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "If you know that he is righteous, you may be sure that everyone who does right has been born of him."
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-11",
+      "type": "commentary",
+      "text": "2.18–29: Victory over false teaching.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-onejohn-2-h1kj-14",
+      "type": "commentary",
+      "text": "28–29 : refers to Christ coming in judgment. Those who remain true to the Johannine teaching have nothing to fear (cf. Jn 3.36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 2
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    }
+  ]
+}

@@ -33,7 +33,7 @@ const LIBRARY: Collection[] = [
     label: "Standard Works",
     works: [
       { id: "lds-bom",  label: "Book of Mormon",      meta: "2013 Edition · LDS",      profile: "lds-bom",   type: "scripture" },
-      { id: "lds-dc",   label: "Doctrine & Covenants", meta: "LDS Edition",                                   type: "scripture" },
+      { id: "lds-dc",   label: "Doctrine & Covenants", meta: "LDS Edition",             profile: "lds-dc",   type: "scripture" },
       { id: "lds-pogp", label: "Pearl of Great Price", meta: "LDS Edition",             profile: "lds-pogp",  type: "scripture" },
       { id: "lds-ot",   label: "Old Testament",        meta: "King James Version",                            type: "scripture" },
       { id: "lds-nt",   label: "New Testament",        meta: "King James Version",                            type: "scripture" },
@@ -53,6 +53,7 @@ const LIBRARY: Collection[] = [
       { id: "kjv",      label: "Holy Bible",           meta: "King James Version · 1611",    profile: "kjv",     type: "scripture" },
       { id: "nrsvue",   label: "Holy Bible",           meta: "NRSVue · 2021",                profile: "nrsvue",  type: "scripture" },
       { id: "jsb",      label: "Jewish Study Bible",   meta: "Oxford · 2nd Ed. · NJPS",      profile: "jsb",     type: "scripture" },
+      { id: "oxford-study-bible", label: "Oxford Annotated Study Bible", meta: "NRSVue · Full Bible + Apocrypha", profile: "oxford-study-bible", type: "scripture" },
       { id: "esv",      label: "Holy Bible",           meta: "English Standard Version",                          type: "scripture" },
       { id: "nets",     label: "Septuagint",           meta: "NETS Translation",                                  type: "scripture" },
       { id: "njps",     label: "Tanakh",               meta: "New Jewish Publication Society",                    type: "scripture" },
@@ -64,6 +65,7 @@ const LIBRARY: Collection[] = [
     works: [
       { id: "hardy-bom",    label: "A Commentary on the Book of Mormon", meta: "Hardy",                             profile: "hardy-bom",  type: "reference" },
       { id: "turley-dc",    label: "How We Got the Doctrine and Covenants", meta: "Turley",                       profile: "turley-dc",  type: "reference" },
+      { id: "revelations-in-context", label: "Revelations in Context", meta: "D&C Section-by-Section Commentary", profile: "revelations-in-context", type: "reference" },
       { id: "skousen",      label: "The Earliest Text",                  meta: "Skousen · Book of Mormon",                                type: "reference" },
       { id: "anchor-bible", label: "Anchor Yale Bible Commentary",       meta: "Vol. I–XLII",                                             type: "reference" },
       { id: "word-biblical",label: "Word Biblical Commentary",          meta: "Multi-volume",                                            type: "reference" },
@@ -120,6 +122,7 @@ interface SidebarProps {
   activeProfile: string;
   activeBookId: string | null;
   activeChapter: number;
+  activeDocumentId?: string | null;
   authStatus: "loading" | "anonymous" | "authenticated";
   authMode: "local" | "cloud";
   userName: string | null;
@@ -128,7 +131,7 @@ interface SidebarProps {
   onResetWorkspaceLayout: () => void;
   onSelectTranslation: (profile: string) => void;
   onSelectBook: (book: BookEntry) => void;
-  onSelectChapter: (chapter: number) => void;
+  onSelectChapter: (chapter: number, documentId?: string) => void;
 }
 
 // ─── Component ────────────────────────────────────────────────────────────────
@@ -147,6 +150,7 @@ export function Sidebar({
   onSelectTranslation,
   onSelectBook,
   onSelectChapter,
+  activeDocumentId = null,
 }: SidebarProps) {
   const [searchQuery, setSearchQuery]           = useState("");
   const [activeFilter, setActiveFilter]         = useState<FilterType>("all");
@@ -582,47 +586,57 @@ export function Sidebar({
                                       <div
                                         className="px-1 pb-2 pt-1"
                                         onKeyDown={(e) => {
-                                          // Arrow key navigation within the chapter grid
-                                          const chapters = book.chapters.map((c) => c.chapter).filter((c): c is number => c !== null);
-                                          const idx = chapters.indexOf(activeChapter);
-                                          if (e.key === "ArrowRight" && idx > -1 && idx < chapters.length - 1) {
+                                          const entries = book.chapters;
+                                          const idx = activeDocumentId
+                                            ? entries.findIndex((c) => c.document_id === activeDocumentId)
+                                            : entries.findIndex((c) => c.chapter === activeChapter);
+                                          if (e.key === "ArrowRight" && idx > -1 && idx < entries.length - 1) {
                                             e.preventDefault();
-                                            onSelectChapter(chapters[idx + 1]);
+                                            const next = entries[idx + 1];
+                                            onSelectChapter(next.chapter ?? 0, next.document_id);
                                           } else if (e.key === "ArrowLeft" && idx > 0) {
                                             e.preventDefault();
-                                            onSelectChapter(chapters[idx - 1]);
+                                            const prev = entries[idx - 1];
+                                            onSelectChapter(prev.chapter ?? 0, prev.document_id);
                                           } else if (e.key === "ArrowDown" && idx > -1) {
                                             e.preventDefault();
-                                            const nextIdx = Math.min(idx + 6, chapters.length - 1);
-                                            onSelectChapter(chapters[nextIdx]);
+                                            const nextIdx = Math.min(idx + 6, entries.length - 1);
+                                            const next = entries[nextIdx];
+                                            onSelectChapter(next.chapter ?? 0, next.document_id);
                                           } else if (e.key === "ArrowUp" && idx > -1) {
                                             e.preventDefault();
                                             const prevIdx = Math.max(idx - 6, 0);
-                                            onSelectChapter(chapters[prevIdx]);
+                                            const prev = entries[prevIdx];
+                                            onSelectChapter(prev.chapter ?? 0, prev.document_id);
                                           }
                                         }}
                                       >
-                                        <div className="grid grid-cols-6 gap-0.5">
+                                        <div className={`grid gap-0.5 ${book.book_id === "oxford-essays" ? "grid-cols-1" : "grid-cols-6"}`}>
                                           {book.chapters.map((c) => {
-                                            const isActiveChapter = isActiveBook && c.chapter === activeChapter;
-                                            if (c.chapter === null) return null;
+                                            const isEssay = c.chapter === 0 && c.document_id;
+                                            const isActiveChapter = isActiveBook && (
+                                              isEssay ? c.document_id === activeDocumentId : c.chapter === activeChapter
+                                            );
+                                            const key = c.document_id ?? String(c.chapter);
                                             return (
                                               <button
-                                                key={c.chapter}
+                                                key={key}
                                                 onClick={() => {
                                                   if (work.profile && work.profile !== activeProfile) {
                                                     onSelectTranslation(work.profile);
                                                   }
                                                   if (!isActiveBook) onSelectBook(book);
-                                                  onSelectChapter(c.chapter as number);
+                                                  onSelectChapter(c.chapter ?? 0, c.document_id);
                                                 }}
-                                                className={`h-6 text-[10px] transition-colors tabular-nums ${
+                                                className={`h-6 text-[10px] transition-colors ${
+                                                  isEssay ? "text-left px-1.5 truncate" : "tabular-nums"
+                                                } ${
                                                   isActiveChapter
                                                     ? "bg-white text-black font-semibold"
                                                     : "text-[var(--text-secondary)] hover:bg-white/6 hover:text-[var(--text-primary)]"
                                                 }`}
                                               >
-                                                {c.chapter}
+                                                {isEssay ? (c.title || c.document_id) : c.chapter}
                                               </button>
                                             );
                                           })}

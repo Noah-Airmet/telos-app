@@ -1,0 +1,103 @@
+{
+  "document_id": "ps-87",
+  "title": "Psalms 87",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-87-heading-psalm-88",
+      "type": "heading",
+      "text": "Psalm 88"
+    },
+    {
+      "block_id": "oxford-ps-87-1",
+      "type": "verse",
+      "number": 1,
+      "text": "On the holy mount stands the city he founded;"
+    },
+    {
+      "block_id": "oxford-ps-87-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 87: Zion, God’s chosen city. A song of Zion, probably from the sixth or fifth century , assuring exiled Israelites their true home is Zion (vv. 1–3), and welcoming returnees and the nations who bring them home (4–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 87
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-87-2",
+      "type": "verse",
+      "number": 2,
+      "text": "the Lord loves the gates of Zion more than all the dwellings of Jacob."
+    },
+    {
+      "block_id": "oxford-ps-87-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Glorious things are spoken of you, O city of God. Selah"
+    },
+    {
+      "block_id": "oxford-ps-87-h1kj-2",
+      "type": "commentary",
+      "text": "3 : , hymns sung in the city of God, as in Pss 48.1; 76.1. (also v. 6), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 87
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-87-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Among those who know me I mention Rahab and Babylon; Philistia too, and Tyre, with Ethiopia— “This one was born there,” they say."
+    },
+    {
+      "block_id": "oxford-ps-87-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , probably Egypt (see Isa 30.7). , on the southeastern Mediterranean coast. , an important coastal city north of Israel, standing for Phoenicia (modern Lebanon). , either Zion or the country where the exiles dwell. In the similar phrases in vv. 5 and 6, the referent is clearly Zion. Birth in a foreign country does not prevent one from calling Zion mother; cf. Isa 40–55 where Zion regains her husband and children.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 87
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-87-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And of Zion it shall be said, “This one and that one were born in it”; for the Most High himself will establish it."
+    },
+    {
+      "block_id": "oxford-ps-87-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The Lord records, as he registers the peoples, “This one was born there.” Selah"
+    },
+    {
+      "block_id": "oxford-ps-87-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Singers and dancers alike say, “All my springs are in you.”"
+    },
+    {
+      "block_id": "oxford-ps-87-h1kj-4",
+      "type": "commentary",
+      "text": "7 : , citation of a song celebrating Zion as a source of fertility as in Ps 46.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 87
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-122",
+  "title": "Psalms 122",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-122-heading-psalm-123",
+      "type": "heading",
+      "text": "Psalm 123"
+    },
+    {
+      "block_id": "oxford-ps-122-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I was glad when they said to me, “Let us go to the house of the Lord!”"
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 122: Longing to go to Zion and a prayer for its peace. A song of Zion celebrating the sacred city for its beautiful buildings (v. 3), worship in common (v. 4), and just legal decisions (v. 5). A pilgrim, awed by these features, concludes with a prayer for the welfare of the city (vv. 6–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , Passover, Weeks (Pentecost), and Tabernacles were pilgrimage festivals, requiring heads of households to travel to Jerusalem (Ex 23.17; 34.23; Deut 16.16). , the Temple (also v. 9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-122-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Our feet are standing within your gates, O Jerusalem."
+    },
+    {
+      "block_id": "oxford-ps-122-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Jerusalem—built as a city that is bound firmly together."
+    },
+    {
+      "block_id": "oxford-ps-122-4",
+      "type": "verse",
+      "number": 4,
+      "text": "To it the tribes go up, the tribes of the Lord, as was decreed for Israel, to give thanks to the name of the Lord."
+    },
+    {
+      "block_id": "oxford-ps-122-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For there the thrones for judgment were set up, the thrones of the house of David."
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-3",
+      "type": "commentary",
+      "text": "5 : , Jerusalem was the city of the Davidic king; can refer to legal decisions as well as to ordinary governance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-122-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Pray for the peace of Jerusalem: “May they prosper who love you."
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , alliterative in Hebrew (“shaʾalu shelom yerushalaim”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-122-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Peace be within your walls, and security within your towers.”"
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-4",
+      "type": "commentary",
+      "text": "6–7 : The other pilgrims are probably being addressed here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-122-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For the sake of my relatives and friends I will say, “Peace be within you.”"
+    },
+    {
+      "block_id": "oxford-ps-122-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For the sake of the house of the Lord our God, I will seek your good."
+    },
+    {
+      "block_id": "oxford-ps-122-h1kj-6",
+      "type": "commentary",
+      "text": "9 : The concluding reference to forms an inclusio with v. 1, emphasizing that it is the presence of God in the Temple that makes Jerusalem such a significant and holy city.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 122
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    }
+  ]
+}

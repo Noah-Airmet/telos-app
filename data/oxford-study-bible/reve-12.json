@@ -1,0 +1,319 @@
+{
+  "document_id": "reve-12",
+  "title": "reve 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-12-heading-13",
+      "type": "heading",
+      "text": "13"
+    },
+    {
+      "block_id": "oxford-reve-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "She was pregnant and was crying out in birth pangs, in the agony of giving birth."
+    },
+    {
+      "block_id": "oxford-reve-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then another portent appeared in heaven: a great red dragon, with seven heads and ten horns, and seven diadems on his heads."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-3",
+      "type": "commentary",
+      "text": "3 : The , identified in v. 9 as “the Devil” and “Satan,” is Leviathan, the great sea monster of Canaanite tradition and of the Hebrew Bible (Job 40.25; Isa 27.1), one name for the primeval watery chaos. , 13.1; 17.3; cf. Ps 74.13–14. These details are probably drawn from Dan 7.1–8, where they represent various empires and rulers; it is unclear what they symbolize here; cf. 17.9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "His tail swept down a third of the stars of heaven and threw them to the earth. Then the dragon stood before the woman who was about to bear a child, so that he might devour her child as soon as it was born."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , a proportion analogous to the destruction caused by the trumpet plagues (8.7–9.19; Dan 8.10). , Dan 8.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-reve-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And she gave birth to a son, a male child, who is to rule all the nations with a rod of iron. But her child was snatched away and taken to God and to his throne;"
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-5",
+      "type": "commentary",
+      "text": "5 : … , an allusion to Ps 2.9, originally concerning the king of Israel, and interpreted as referring to a future anointed ruler ( 17.23–24). The messianic child is : The resurrection and exaltation of Jesus denies the demonic dragon victory over its prey.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and the woman fled into the wilderness, where she has a place prepared by God, so that there she can be nourished for one thousand two hundred sixty days."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-6",
+      "type": "commentary",
+      "text": "6 : is a place where God provides refuge and sustenance amidst adversity (e.g., Gen 21.14–21; Deut 8.15–16; 29.5; 32.10; 1 Kings 17.1–2). , the equivalent of “a time, and times, and half a time” (v. 14), “forty-two months” (cf. 11.2; 13.5), amounts to three and a half years. This symbolic number suggests a period of time limited by divine design.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-reve-12-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And war broke out in heaven; Michael and his angels fought against the dragon. The dragon and his angels fought back,"
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , an archangel and the champion of Israel (Dan 10.13,21; 12.1; Jude 9) engages in combat against (Dan 10.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-reve-12-8",
+      "type": "verse",
+      "number": 8,
+      "text": "but they were defeated, and there was no longer any place for them in heaven."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , see 9.1–2. Both passages may allude to Isa 14.12–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-12-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The great dragon was thrown down, that ancient serpent, who is called the Devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-10",
+      "type": "commentary",
+      "text": "9 : Lk 10.18. , see Gen 3.1–7; Isa 27.1. means adversary, accuser (see Job 1.6–12; 2.1–7; Zech 3.1–2). , 20.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-reve-12-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Then I heard a loud voice in heaven, proclaiming, “Now have come the salvation and the power and the kingdom of our God and the authority of his Messiah, for the accuser of our comrades has been thrown down, who accuses them day and night before our God."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-11",
+      "type": "commentary",
+      "text": "10 : , as in Job 1.9–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-12-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But they have conquered him by the blood of the Lamb and by the word of their testimony, for they did not cling to life even in the face of death."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-12",
+      "type": "commentary",
+      "text": "11 : , the paradoxical victory of the crucified Jesus (see 5.6–9n.) and of the martyrs, who were faithful unto death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-reve-12-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Rejoice then, you heavens and those who dwell in them! But woe to the earth and the sea, for the devil has come down to you with great wrath, because he knows that his time is short!”"
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-7",
+      "type": "commentary",
+      "text": "7–12 : The in and its outcome offers, in symbolic language, the reason for the persecution and oppression of believers (v. 17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 7,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , Ps 96.11; Isa 49.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-reve-12-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child."
+    },
+    {
+      "block_id": "oxford-reve-12-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But the woman was given the two wings of the great eagle, so that she could fly from the serpent into the wilderness, to her place where she is nourished for a time, and times, and half a time."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-14",
+      "type": "commentary",
+      "text": "14 : , Ex 19.4; Deut 32.11. , see v. 6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-reve-12-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then from his mouth the serpent poured water like a river after the woman, to sweep her away with the flood."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-15",
+      "type": "commentary",
+      "text": "15 : , the chaos of the primeval sea monster (Isa 27.1; Ps 74.13; see 12.3n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-reve-12-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But the earth came to the help of the woman; it opened its mouth and swallowed the river that the dragon had poured from his mouth."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-16",
+      "type": "commentary",
+      "text": "16 : helps the woman, as in Ex 15.12 the earth swallows up the pursuing Egyptian armies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-reve-12-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Then the dragon was angry with the woman, and went off to make war on the rest of her children, those who keep the commandments of God and hold the testimony of Jesus."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-1",
+      "type": "commentary",
+      "text": "12.1–17: The vision of the woman, the child, and the dragon is rich in symbolism drawn from mythological traditions found in ancient Babylonia, Egypt, Greece, and Rome, as well as in the Hebrew Bible. One well-known version of the story tells of the goddess Leto, pregnant with Apollo, who is menaced by the dragon Python, who pursues her because he knows that Apollo is destined to kill him (Hyginus, 140). Here this material is reinterpreted in terms of Jewish traditions and expectations as the story of the birth of the messiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-17",
+      "type": "commentary",
+      "text": "17 : The frustrated redirects its anger toward the woman's , namely, those who (14.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-reve-12-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then the dragon took his stand on the sand of the seashore."
+    },
+    {
+      "block_id": "oxford-reve-12-h1kj-18",
+      "type": "commentary",
+      "text": "12.18–13.18: The two beasts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 12
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    }
+  ]
+}

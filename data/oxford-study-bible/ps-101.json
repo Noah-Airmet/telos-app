@@ -1,0 +1,85 @@
+{
+  "document_id": "ps-101",
+  "title": "Psalms 101",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-101-heading-psalm-102",
+      "type": "heading",
+      "text": "Psalm 102"
+    },
+    {
+      "block_id": "oxford-ps-101-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I will sing of loyalty and of justice; to you, O Lord, I will sing."
+    },
+    {
+      "block_id": "oxford-ps-101-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 101: Commitment to executing justice. Although not explicitly stated, the psalm was most likely recited by the king, who proclaimed a commitment to rule in a manner befitting his divine patron. Acknowledging the divine (v. 1) that brought him to his throne, the king prays for the strength to fulfill his duties (v. 2ab). He makes twelve promises, being loyal (vv. 2c–4–), forbidding abuses by members of the court (v. 5), appointing only God‐fearing administrators (v. 6), expelling the wicked (v. 7), and administering a fair judicial system (v. 8). Underlying the king’s vows is the desire to be a good servant and ruler, blessed by his divine patron.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 101
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-101-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I will study the way that is blameless. When shall I attain it? I will walk with integrity of heart within my house;"
+    },
+    {
+      "block_id": "oxford-ps-101-3",
+      "type": "verse",
+      "number": 3,
+      "text": "I will not set before my eyes anything that is base. I hate the work of those who fall away; it shall not cling to me."
+    },
+    {
+      "block_id": "oxford-ps-101-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Perverseness of heart shall be far from me; I will know nothing of evil."
+    },
+    {
+      "block_id": "oxford-ps-101-5",
+      "type": "verse",
+      "number": 5,
+      "text": "One who secretly slanders a neighbor I will destroy. A haughty look and an arrogant heart I will not tolerate."
+    },
+    {
+      "block_id": "oxford-ps-101-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I will look with favor on the faithful in the land, so that they may live with me; whoever walks in the way that is blameless shall minister to me."
+    },
+    {
+      "block_id": "oxford-ps-101-7",
+      "type": "verse",
+      "number": 7,
+      "text": "No one who practices deceit shall remain in my house; no one who utters lies shall continue in my presence."
+    },
+    {
+      "block_id": "oxford-ps-101-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Morning by morning I will destroy all the wicked in the land, cutting off all evildoers from the city of the Lord."
+    },
+    {
+      "block_id": "oxford-ps-101-h1kj-2",
+      "type": "commentary",
+      "text": "8 : (i.e., each morning). Sin was imagined as rampant during the night; justice comes with the morning sun as in Job 38.12–13. Ps 19 also associates the law with the all‐seeing sun. is Jerusalem, the royal city.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 101
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

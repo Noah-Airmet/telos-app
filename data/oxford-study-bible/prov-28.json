@@ -1,0 +1,475 @@
+{
+  "document_id": "prov-28",
+  "title": "Proverbs 28",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-28-heading-29",
+      "type": "heading",
+      "text": "29"
+    },
+    {
+      "block_id": "oxford-prov-28-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When a land rebels it has many rulers; but with an intelligent ruler there is lasting order.c"
+    },
+    {
+      "block_id": "oxford-prov-28-3",
+      "type": "verse",
+      "number": 3,
+      "text": "A ruler who oppresses the poor is a beating rain that leaves no food."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-4",
+      "type": "commentary",
+      "text": "3 : (so Hebrew; see textual note ) makes sense; the downtrodden can take advantage of one another.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-28-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Those who forsake the law praise the wicked, but those who keep the law struggle against them."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-5",
+      "type": "commentary",
+      "text": "4 : (Heb “torah”) in Proverbs refers to wisdom instruction (e.g., 3.1; 4.4; 6.20,23) and may evoke the law of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-28-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The evil do not understand justice, but those who seek the Lord understand it completely."
+    },
+    {
+      "block_id": "oxford-prov-28-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Better to be poor and walk in integrity than to be crooked in one's ways even though rich."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-6",
+      "type": "commentary",
+      "text": "6 : See 19.1n.; cf. 15.16; 16.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-prov-28-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Those who keep the law are wise children, but companions of gluttons shame their parents."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , see v. 4n. , see 23.19–21n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-prov-28-8",
+      "type": "verse",
+      "number": 8,
+      "text": "One who augments wealth by exorbitant interest gathers it for another who is kind to the poor."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-8",
+      "type": "commentary",
+      "text": "8 : Israelites were not to charge interest on loans to one another (Ex 22.25; Deut 23.19–20; Ezek 18.8,13; cf. Neh 5.1–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-prov-28-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When one will not listen to the law, even one's prayers are an abomination."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-9",
+      "type": "commentary",
+      "text": "9 : , see 3.32n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-28-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Those who mislead the upright into evil ways will fall into pits of their own making, but the blameless will have a goodly inheritance."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , see 1.10–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-prov-28-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The rich is wise in self-esteem, but an intelligent poor person sees through the pose."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , lit., “wise in his own eyes”; see 3.7n. , lit., “searches him out”; see 25.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-prov-28-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When the righteous triumph, there is great glory, but when the wicked prevail, people go into hiding."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-12",
+      "type": "commentary",
+      "text": "12 : Public well-being hinges on who has power; see v. 28; 29.2,16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-28-13",
+      "type": "verse",
+      "number": 13,
+      "text": "No one who conceals transgressions will prosper, but one who confesses and forsakes them will obtain mercy."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-13",
+      "type": "commentary",
+      "text": "13 : The only clear reference to repentance and mercy in the book; see Pss 32; 103.13; Isa 49.15; Jer 6.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-28-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Happy is the one who is never without fear, but one who is hard-hearted will fall into calamity."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-14",
+      "type": "commentary",
+      "text": "14 : Some fears promote well-being. , i.e., obstinate; see 29.1; cf. Ex 7.3; Ps 95.8; Ezek 3.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-prov-28-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Like a roaring lion or a charging bear is a wicked ruler over a poor people."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-16",
+      "type": "commentary",
+      "text": "15 : , 28.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-prov-28-16",
+      "type": "verse",
+      "number": 16,
+      "text": "A ruler who lacks understanding is a cruel oppressor; but one who hates unjust gain will enjoy a long life."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-15",
+      "type": "commentary",
+      "text": "15–16 : Two proverbs about unjust rulers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-17",
+      "type": "commentary",
+      "text": "16 : , see 10.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-28-17",
+      "type": "verse",
+      "number": 17,
+      "text": "If someone is burdened with the blood of another, let that killer be a fugitive until death; let no one offer assistance."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-18",
+      "type": "commentary",
+      "text": "17 : , lit., “flee to a pit,” likely an allusion to Sheol, see 1.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-28-18",
+      "type": "verse",
+      "number": 18,
+      "text": "One who walks in integrity will be safe, but whoever follows crooked ways will fall into the Pit."
+    },
+    {
+      "block_id": "oxford-prov-28-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Anyone who tills the land will have plenty of bread, but one who follows worthless pursuits will have plenty of poverty."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-19",
+      "type": "commentary",
+      "text": "19 : See 12.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-28-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The faithful will abound with blessings, but one who is in a hurry to be rich will not go unpunished."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-20",
+      "type": "commentary",
+      "text": "20 : , see 1.18–19n.; v. 22; cf. Sir 11.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-28-21",
+      "type": "verse",
+      "number": 21,
+      "text": "To show partiality is not good— yet for a piece of bread a person may do wrong."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-21",
+      "type": "commentary",
+      "text": "21 : , see 24.23–24n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-prov-28-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The miser is in a hurry to get rich and does not know that loss is sure to come."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-22",
+      "type": "commentary",
+      "text": "22 : , see 1.18–19n.; cf. v. 20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-28-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Whoever rebukes a person will afterward find more favor than one who flatters with the tongue."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-23",
+      "type": "commentary",
+      "text": "23 : , see 1.23n. , lit., “makes the tongue smooth,” see 2.16; 5.3; 7.5; 29.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-28-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Anyone who robs father or mother and says, “That is no crime,” is partner to a thug."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-24",
+      "type": "commentary",
+      "text": "24 : Crimes against are particularly egregious; see 19.26; 20.20; 30.11,17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-prov-28-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The greedy person stirs up strife, but whoever trusts in the Lord will be enriched."
+    },
+    {
+      "block_id": "oxford-prov-28-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Those who trust in their own wits are fools; but those who walk in wisdom come through safely."
+    },
+    {
+      "block_id": "oxford-prov-28-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Whoever gives to the poor will lack nothing, but one who turns a blind eye will get many a curse."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-25",
+      "type": "commentary",
+      "text": "27 : Generosity to , see 14.31n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-prov-28-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When the wicked prevail, people go into hiding; but when they perish, the righteous increase."
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-1",
+      "type": "commentary",
+      "text": "25.1–29.27: These are other proverbs of Solomon that the officials of King Hezekiah of Judah copied.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-2",
+      "type": "commentary",
+      "text": "28.1–29.27: Similar to 10.1–15.33, a series of largely antithetical proverbs that contrast the righteous and wicked. Persistent is concern about power and just government.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-28-h1kj-26",
+      "type": "commentary",
+      "text": "28 : See v. 12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 28
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    }
+  ]
+}

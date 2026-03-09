@@ -1,0 +1,368 @@
+{
+  "document_id": "gen-26",
+  "title": "Genesis 26",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-26-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now there was a famine in the land, besides the former famine that had occurred in the days of Abraham. And Isaac went to Gerar, to King Abimelech of the Philistines."
+    },
+    {
+      "block_id": "oxford-gen-26-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord appeared to Isaac and said, “Do not go down to Egypt; settle in the land that I shall show you."
+    },
+    {
+      "block_id": "oxford-gen-26-2-commentary-1",
+      "type": "commentary",
+      "text": "Heb him",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-26-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Reside in this land as an alien, and I will be with you, and will bless you; for to you and to your descendants I will give all these lands, and I will fulfill the oath that I swore to your father Abraham."
+    },
+    {
+      "block_id": "oxford-gen-26-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I will make your offspring as numerous as the stars of heaven, and will give to your offspring all these lands; and all the nations of the earth shall gain blessing for themselves through your offspring,"
+    },
+    {
+      "block_id": "oxford-gen-26-5",
+      "type": "verse",
+      "number": 5,
+      "text": "because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.”"
+    },
+    {
+      "block_id": "oxford-gen-26-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So Isaac settled in Gerar."
+    },
+    {
+      "block_id": "oxford-gen-26-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When the men of the place asked him about his wife, he said, “She is my sister”; for he was afraid to say, “My wife,” thinking, “or else the men of the place might kill me for the sake of Rebekah, because she is attractive in appearance.”"
+    },
+    {
+      "block_id": "oxford-gen-26-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When Isaac had been there a long time, King Abimelech of the Philistines looked out of a window and saw him fondling his wife Rebekah."
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , Heb “metsaḥeq,” another reference to Isaac’s name; see 18.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-gen-26-9",
+      "type": "verse",
+      "number": 9,
+      "text": "So Abimelech called for Isaac, and said, “So she is your wife! Why then did you say, ‘She is my sister’?” Isaac said to him, “Because I thought I might die because of her.”"
+    },
+    {
+      "block_id": "oxford-gen-26-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us.”"
+    },
+    {
+      "block_id": "oxford-gen-26-11",
+      "type": "verse",
+      "number": 11,
+      "text": "So Abimelech warned all the people, saying, “Whoever touches this man or his wife shall be put to death.”"
+    },
+    {
+      "block_id": "oxford-gen-26-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Isaac sowed seed in that land, and in the same year reaped a hundredfold. The Lord blessed him,"
+    },
+    {
+      "block_id": "oxford-gen-26-13",
+      "type": "verse",
+      "number": 13,
+      "text": "and the man became rich; he prospered more and more until he became very wealthy."
+    },
+    {
+      "block_id": "oxford-gen-26-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He had possessions of flocks and herds, and a great household, so that the Philistines envied him."
+    },
+    {
+      "block_id": "oxford-gen-26-15",
+      "type": "verse",
+      "number": 15,
+      "text": "(Now the Philistines had stopped up and filled with earth all the wells that his father’s servants had dug in the days of his father Abraham.)"
+    },
+    {
+      "block_id": "oxford-gen-26-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And Abimelech said to Isaac, “Go away from us; you have become too powerful for us.”"
+    },
+    {
+      "block_id": "oxford-gen-26-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So Isaac departed from there and camped in the valley of Gerar and settled there."
+    },
+    {
+      "block_id": "oxford-gen-26-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Isaac dug again the wells of water that had been dug in the days of his father Abraham; for the Philistines had stopped them up after the death of Abraham; and he gave them the names that his father had given them."
+    },
+    {
+      "block_id": "oxford-gen-26-19",
+      "type": "verse",
+      "number": 19,
+      "text": "But when Isaac’s servants dug in the valley and found there a well of spring water,"
+    },
+    {
+      "block_id": "oxford-gen-26-20",
+      "type": "verse",
+      "number": 20,
+      "text": "the herders of Gerar quarreled with Isaac’s herders, saying, “The water is ours.” So he called the well Esek, because they contended with him."
+    },
+    {
+      "block_id": "oxford-gen-26-20-commentary-2",
+      "type": "commentary",
+      "text": "That is Contention",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 20
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-26-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then they dug another well, and they quarreled over that one also; so he called it Sitnah."
+    },
+    {
+      "block_id": "oxford-gen-26-21-commentary-3",
+      "type": "commentary",
+      "text": "That is Enmity",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 21
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-gen-26-22",
+      "type": "verse",
+      "number": 22,
+      "text": "He moved from there and dug another well, and they did not quarrel over it; so he called it Rehoboth, saying, “Now the Lord has made room for us, and we shall be fruitful in the land.”"
+    },
+    {
+      "block_id": "oxford-gen-26-22-commentary-4",
+      "type": "commentary",
+      "text": "That is Broad places or Room",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 22
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-gen-26-23",
+      "type": "verse",
+      "number": 23,
+      "text": "From there he went up to Beer‐sheba."
+    },
+    {
+      "block_id": "oxford-gen-26-24",
+      "type": "verse",
+      "number": 24,
+      "text": "And that very night the Lord appeared to him and said, “I am the God of your father Abraham; do not be afraid, for I am with you and will bless you and make your offspring numerous for my servant Abraham’s sake.”"
+    },
+    {
+      "block_id": "oxford-gen-26-25",
+      "type": "verse",
+      "number": 25,
+      "text": "So he built an altar there, called on the name of the Lord, and pitched his tent there. And there Isaac’s servants dug a well."
+    },
+    {
+      "block_id": "oxford-gen-26-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Then Abimelech went to him from Gerar, with Ahuzzath his adviser and Phicol the commander of his army."
+    },
+    {
+      "block_id": "oxford-gen-26-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Isaac said to them, “Why have you come to me, seeing that you hate me and have sent me away from you?”"
+    },
+    {
+      "block_id": "oxford-gen-26-28",
+      "type": "verse",
+      "number": 28,
+      "text": "They said, “We see plainly that the Lord has been with you; so we say, let there be an oath between you and us, and let us make a covenant with you"
+    },
+    {
+      "block_id": "oxford-gen-26-29",
+      "type": "verse",
+      "number": 29,
+      "text": "so that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. You are now the blessed of the Lord.”"
+    },
+    {
+      "block_id": "oxford-gen-26-30",
+      "type": "verse",
+      "number": 30,
+      "text": "So he made them a feast, and they ate and drank."
+    },
+    {
+      "block_id": "oxford-gen-26-31",
+      "type": "verse",
+      "number": 31,
+      "text": "In the morning they rose early and exchanged oaths; and Isaac set them on their way, and they departed from him in peace."
+    },
+    {
+      "block_id": "oxford-gen-26-32",
+      "type": "verse",
+      "number": 32,
+      "text": "That same day Isaac’s servants came and told him about the well that they had dug, and said to him, “We have found water!”"
+    },
+    {
+      "block_id": "oxford-gen-26-33",
+      "type": "verse",
+      "number": 33,
+      "text": "He called it Shibah; therefore the name of the city is Beer‐sheba to this day."
+    },
+    {
+      "block_id": "oxford-gen-26-33-commentary-5",
+      "type": "commentary",
+      "text": "A word resembling the word for oath",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-26-33-commentary-6",
+      "type": "commentary",
+      "text": "That is Well of the oath or Well of seven",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-8",
+      "type": "commentary",
+      "text": "26.1–33: Interlude on Isaac. Whereas the surrounding sections focus primarily on Isaac’s descendants, this chapter focuses on Isaac apart from his children. Although relatively little is told about Isaac, each element makes him parallel to his father Abraham: the initial note linking his trip to Gerar with Abraham’s initial journey to Egypt (v. 1; cf. 12.10), the travel command and promise (vv. 2–5; see 12.1–3n.; 22.18n.), the story of endangerment of the matriarch (vv. 6–11; cf. 12.10–13.1 and 20.1–18), the manifestation of blessing on Isaac (vv. 12–14; cf. 12.16; 20.14), the recognition of that blessing by Abimelech (v. 28; cf. 21.22), and the well stories (vv. 17–33; see 21.22–34n.). The narratives of Abraham and Isaac have clearly influenced one another. By the end of the chapter it is clear that Isaac has successfully inherited Abraham’s blessing and is thus prepared to pass it on to one of his sons (see ch 27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-10",
+      "type": "commentary",
+      "text": "33 : Another explanation of the name “Beer‐sheba”; see 21.22–34n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-26-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and Basemath daughter of Elon the Hittite;"
+    },
+    {
+      "block_id": "oxford-gen-26-35",
+      "type": "verse",
+      "number": 35,
+      "text": "and they made life bitter for Isaac and Rebekah."
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-7",
+      "type": "commentary",
+      "text": "25.19–35.29: The story of Jacob and his family. The bulk of this section of Genesis goes back to early traditions about Jacob/Israel, the father of the Israelite tribes. Though many originated as ancient Israelite oral traditions, this written version of the Jacob story shows multiple connections to places that were important in the Northern Kingdom of Israel (see 28.10–11n., 20–22n., 31.13n., 32.1–2n., 32.30–31n., and 33.18n.), and thus likely originated there. This story has been enriched through additions that balance the early northern focus on Jacob with an emphasis on Judah, King David’s putative ancestor (see 30.21n.; 34.1–31n. and 49.8–12n.). Later, still other texts were added, such as the gift of the Abrahamic promise to Jacob at Bethel (28.13–16), and fragments of Priestly material (25.19–20; 26.34–35; 27.46–28.9; 31.17–18; 35.9–15,22b–29). The story of Jacob’s father, Isaac (26.1–33), links this large block to the previous Abraham material.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-11",
+      "type": "commentary",
+      "text": "26.34–28.4: The transfer of blessing to Jacob and not Esau.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-gen-26-h1kj-12",
+      "type": "commentary",
+      "text": "26.34–35 (cf. 28.8–9 and 36.2–3): This Priestly note on Esau’s difficult marriages was originally connected with 27.46–28.9 (P). Its current placement helps legitimate the following story about how he was tricked out of his father’s blessing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 26
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    }
+  ]
+}

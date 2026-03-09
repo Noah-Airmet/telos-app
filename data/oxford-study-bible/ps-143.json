@@ -1,0 +1,157 @@
+{
+  "document_id": "ps-143",
+  "title": "Psalms 143",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-143-heading-psalm-144",
+      "type": "heading",
+      "text": "Psalm 144"
+    },
+    {
+      "block_id": "oxford-ps-143-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear my prayer, O Lord; give ear to my supplications in your faithfulness; answer me in your righteousness."
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 143: A plea that God would act out of fidelity to a loyal servant. An individual petition that requests divine attention and deliverance from enemies, insisting that no person is righteous before God. Though old material has been recycled, Ps 143 establishes the idea that dealings with God must be based on divine faithfulness and righteousness (vv. 1–2,10c–12), rather than on human actions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-143-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Do not enter into judgment with your servant, for no one living is righteous before you."
+    },
+    {
+      "block_id": "oxford-ps-143-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For the enemy has pursued me, crushing my life to the ground, making me sit in darkness like those long dead."
+    },
+    {
+      "block_id": "oxford-ps-143-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Therefore my spirit faints within me; my heart within me is appalled."
+    },
+    {
+      "block_id": "oxford-ps-143-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I remember the days of old, I think about all your deeds, I meditate on the works of your hands."
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-2",
+      "type": "commentary",
+      "text": "5 : refer to God’s great actions in creation and history; see Ps 77.11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-143-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I stretch out my hands to you; my soul thirsts for you like a parched land. Selah"
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-3",
+      "type": "commentary",
+      "text": "6 : , see Pss 42.1; 63.1. , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-143-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Answer me quickly, O Lord; my spirit fails. Do not hide your face from me, or I shall be like those who go down to the Pit."
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-4",
+      "type": "commentary",
+      "text": "7 : refers to the idea that God on occasion, for no reason, ignores innocent supplicants. , a synonym for Sheol, the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-143-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Let me hear of your steadfast love in the morning, for in you I put my trust. Teach me the way I should go, for to you I lift up my soul."
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-5",
+      "type": "commentary",
+      "text": "8 : was an especially propitious time for a good judgment (see Ps 90.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-143-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Save me, O Lord, from my enemies; I have fled to you for refuge."
+    },
+    {
+      "block_id": "oxford-ps-143-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Teach me to do your will, for you are my God. Let your good spirit lead me on a level path."
+    },
+    {
+      "block_id": "oxford-ps-143-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For your name’s sake, O Lord, preserve my life. In your righteousness bring me out of trouble."
+    },
+    {
+      "block_id": "oxford-ps-143-h1kj-6",
+      "type": "commentary",
+      "text": "11 : Since the psalmist is assuming a relationship with God that depends on divine mercy rather than fair judgment of human actions, he evokes God’s name (reputation), as in some prophetic literature (e.g., Ezek 20.9) and some psalms (e.g., 23.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 143
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-143-12",
+      "type": "verse",
+      "number": 12,
+      "text": "In your steadfast love cut off my enemies, and destroy all my adversaries, for I am your servant."
+    }
+  ]
+}

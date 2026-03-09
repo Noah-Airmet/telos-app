@@ -1,0 +1,223 @@
+{
+  "document_id": "ps-49",
+  "title": "Psalms 49",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-49-heading-psalm-50",
+      "type": "heading",
+      "text": "Psalm 50"
+    },
+    {
+      "block_id": "oxford-ps-49-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear this, all you peoples; give ear, all inhabitants of the world,"
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 49: An instruction on the limits of wealth. A wisdom psalm or instruction about the folly of relying on wealth rather than God. A refrain structures the poem and highlights its theme (vv. 12,20). The text is often obscure, as the textual notes attest.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-49-2",
+      "type": "verse",
+      "number": 2,
+      "text": "both low and high, rich and poor together."
+    },
+    {
+      "block_id": "oxford-ps-49-3",
+      "type": "verse",
+      "number": 3,
+      "text": "My mouth shall speak wisdom; the meditation of my heart shall be understanding."
+    },
+    {
+      "block_id": "oxford-ps-49-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I will incline my ear to a proverb; I will solve my riddle to the music of the harp."
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-2",
+      "type": "commentary",
+      "text": "1–4 : A formal call for attention like Deut 32.1–3 and Ps 78.1–4. The psalmist assumes the role of a wisdom teacher.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-49-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why should I fear in times of trouble, when the iniquity of my persecutors surrounds me,"
+    },
+    {
+      "block_id": "oxford-ps-49-6",
+      "type": "verse",
+      "number": 6,
+      "text": "those who trust in their wealth and boast of the abundance of their riches?"
+    },
+    {
+      "block_id": "oxford-ps-49-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Truly, no ransom avails for one’s life, there is no price one can give to God for it."
+    },
+    {
+      "block_id": "oxford-ps-49-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For the ransom of life is costly, and can never suffice, that one should live on forever and never see the grave."
+    },
+    {
+      "block_id": "oxford-ps-49-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When we look at the wise, they die; fool and dolt perish together and leave their wealth to others."
+    },
+    {
+      "block_id": "oxford-ps-49-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Their graves are their homes forever, their dwelling places to all generations, though they named lands their own."
+    },
+    {
+      "block_id": "oxford-ps-49-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Mortals cannot abide in their pomp; they are like the animals that perish."
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-3",
+      "type": "commentary",
+      "text": "5–12 : Instead of calling on God for rescue from the arrogant wealthy, the psalmist reflects on the folly of relying on wealth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 5,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-4",
+      "type": "commentary",
+      "text": "12 : The psalmist’s conclusion: wealth cannot stave off death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ps-49-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Such is the fate of the foolhardy, the end of those who are pleased with their lot. Selah"
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-6",
+      "type": "commentary",
+      "text": "13 : (also v. 15), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ps-49-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Like sheep they are appointed for Sheol; Death shall be their shepherd; straight to the grave they descend, and their form shall waste away; Sheol shall be their home."
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-7",
+      "type": "commentary",
+      "text": "14 : , the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-49-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But God will ransom my soul from the power of Sheol, for he will receive me. Selah"
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-8",
+      "type": "commentary",
+      "text": "15 : Though the wealthy seem to triumph, God will and “take” (NRSV ) the psalmist from the clutches of the underworld. The Heb word for “take” elsewhere describes God’s lifting loyal servants to the safety of heaven (see Ps 73.24; Gen 5.24; 2 Kings 2.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ps-49-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do not be afraid when some become rich, when the wealth of their houses increases."
+    },
+    {
+      "block_id": "oxford-ps-49-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For when they die they will carry nothing away; their wealth will not go down after them."
+    },
+    {
+      "block_id": "oxford-ps-49-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Though in their lifetime they count themselves happy —for you are praised when you do well for yourself—"
+    },
+    {
+      "block_id": "oxford-ps-49-19",
+      "type": "verse",
+      "number": 19,
+      "text": "they will go to the company of their ancestors, who will never again see the light."
+    },
+    {
+      "block_id": "oxford-ps-49-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Mortals cannot abide in their pomp; they are like the animals that perish."
+    },
+    {
+      "block_id": "oxford-ps-49-h1kj-5",
+      "type": "commentary",
+      "text": "13–20 : As the poem progresses, the tone grows bolder.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 49
+      },
+      "verse_start": 13,
+      "verse_end": 20
+    }
+  ]
+}

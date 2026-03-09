@@ -1,0 +1,265 @@
+{
+  "document_id": "sos-13",
+  "title": "sos 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-13-heading-14",
+      "type": "heading",
+      "text": "14"
+    },
+    {
+      "block_id": "oxford-sos-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Do not lift a weight too heavy for you, or associate with one mightier and richer than you. How can the clay pot associate with the iron kettle? The pot will strike against it and be smashed."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-2",
+      "type": "commentary",
+      "text": "2 : illustrate the difference in social status and the vulnerability of the sage; see vv. 15–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "A rich person does wrong, and even adds insults; a poor person suffers wrong, and must add apologies."
+    },
+    {
+      "block_id": "oxford-sos-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A rich person will exploit you if you can be of use to him, but if you are in need he will abandon you."
+    },
+    {
+      "block_id": "oxford-sos-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If you own something, he will live with you; he will drain your resources without a qualm."
+    },
+    {
+      "block_id": "oxford-sos-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "When he needs you he will deceive you, and will smile at you and encourage you; he will speak to you kindly and say, “What do you need?”"
+    },
+    {
+      "block_id": "oxford-sos-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He will embarrass you with his delicacies, until he has drained you two or three times, and finally he will laugh at you. Should he see you afterwards, he will pass you by and shake his head at you."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-3",
+      "type": "commentary",
+      "text": "7 : See 12.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Take care not to be led astray and humiliated when you are enjoying yourself."
+    },
+    {
+      "block_id": "oxford-sos-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When an influential person invites you, be reserved, and he will invite you more insistently."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-4",
+      "type": "commentary",
+      "text": "8–9 : See 31.12–18; Prov 23.1–3; 23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Do not be forward, or you may be rebuffed; do not stand aloof, or you will be forgotten."
+    },
+    {
+      "block_id": "oxford-sos-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Do not try to treat him as an equal, or trust his lengthy conversations; for he will test you by prolonged talk, and while he smiles he will be examining you."
+    },
+    {
+      "block_id": "oxford-sos-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Cruel are those who do not keep your secrets; they will not spare you harm or imprisonment."
+    },
+    {
+      "block_id": "oxford-sos-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Be on your guard and very careful, for you are walking about with your own downfall."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-5",
+      "type": "commentary",
+      "text": "13 : Caution is the watchword, since any misstep can result in one's .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Every creature loves its like, and every person the neighbor."
+    },
+    {
+      "block_id": "oxford-sos-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "All living beings associate with their own kind, and people stick close to those like themselves."
+    },
+    {
+      "block_id": "oxford-sos-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "What does a wolf have in common with a lamb? No more has a sinner with the devout."
+    },
+    {
+      "block_id": "oxford-sos-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "What peace is there between a hyena and a dog? And what peace between the rich and the poor?"
+    },
+    {
+      "block_id": "oxford-sos-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Wild asses in the wilderness are the prey of lions; likewise the poor are feeding grounds for the rich."
+    },
+    {
+      "block_id": "oxford-sos-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Humility is an abomination to the proud; likewise the poor are an abomination to the rich."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-6",
+      "type": "commentary",
+      "text": "15–20 : Both the and the are like predators, the and like prey, but see v. 24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "When the rich person totters, he is supported by friends, but when the humble falls, he is pushed away even by friends."
+    },
+    {
+      "block_id": "oxford-sos-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If the rich person slips, many come to the rescue; he speaks unseemly words, but they justify him. If the humble person slips, they even criticize him; he talks sense, but is not given a hearing."
+    },
+    {
+      "block_id": "oxford-sos-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The rich person speaks and all are silent; they extol to the clouds what he says. The poor person speaks and they say, “Who is this fellow?” And should he stumble, they even push him down."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-7",
+      "type": "commentary",
+      "text": "21–23 : The rich often receive preferential treatment. Cf. Prov 14.20; 19.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 21,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-sos-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Riches are good if they are free from sin; poverty is evil only in the opinion of the ungodly."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-1",
+      "type": "commentary",
+      "text": "13.1–24: Association with the rich. The sage must associate with the rich, and Ben Sira uses their treatment of the poor as a warning to his students about potential dangers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-sos-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The heart changes the countenance, either for good or for evil."
+    },
+    {
+      "block_id": "oxford-sos-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The sign of a happy heart is a cheerful face, but to devise proverbs requires painful thinking."
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-8",
+      "type": "commentary",
+      "text": "13.25–14.2: Happiness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 25,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-13-h1kj-9",
+      "type": "commentary",
+      "text": "26 : A reflects the inner condition of the , the seat of emotion and thought in ancient understanding.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 13
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    }
+  ]
+}

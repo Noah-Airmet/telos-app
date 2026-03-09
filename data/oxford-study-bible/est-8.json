@@ -1,0 +1,290 @@
+{
+  "document_id": "est-8",
+  "title": "est 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-est-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "On that day King Ahasuerus gave to Queen Esther the house of Haman, the enemy of the Jews; and Mordecai came before the king, for Esther had told what he was to her."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-3",
+      "type": "commentary",
+      "text": "1 : In 83.9, Haman offered the king much silver; now the king gives Haman’s wealth to Esther.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-est-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. So Esther set Mordecai over the house of Haman."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-1",
+      "type": "commentary",
+      "text": "7.2 : , see 5.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-4",
+      "type": "commentary",
+      "text": "2 : Haman’s elevated rank becomes Mordecai’s with the transfer of the king’s signet ring (see v. 8; 3.10n).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-est-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Esther spoke again to the king; she fell at his feet, weeping and pleading with him to avert the evil design of Haman the Agagite and the plot that he had devised against the Jews."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-5",
+      "type": "commentary",
+      "text": "3 : The edict against the Jews still stands.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-est-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The king held out the golden scepter to Esther,"
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , see 4.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-est-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "and Esther rose and stood before the king. She said, “If it pleases the king, and if I have won his favor, and if the thing seems right before the king, and I have his approval, let an order be written to revoke the letters devised by Haman son of Hammedatha the Agagite, which he wrote giving orders to destroy the Jews who are in all the provinces of the king."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , Esther diplomatically dissociates the king from the royal edict.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-est-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For how can I bear to see the calamity that is coming on my people? Or how can I bear to see the destruction of my kindred?”"
+    },
+    {
+      "block_id": "oxford-est-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then King Ahasuerus said to Queen Esther and to the Jew Mordecai, “See, I have given Esther the house of Haman, and they have hanged him on the gallows, because he plotted to lay hands on the Jews."
+    },
+    {
+      "block_id": "oxford-est-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You may write as you please with regard to the Jews, in the name of the king, and seal it with the king’s ring; for an edict written in the name of the king and sealed with the king’s ring cannot be revoked.”"
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-8",
+      "type": "commentary",
+      "text": "8 : The king’s earlier edict (see 1.19n.), but a new edict can neutralize the former’s intent.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-est-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The king’s secretaries were summoned at that time, in the third month, which is the month of Sivan, on the twenty‐third day; and an edict was written, according to all that Mordecai commanded, to the Jews and to the satraps and the governors and the officials of the provinces from India to Ethiopia, one hundred twenty‐seven provinces, to every province in its own script and to every people in its own language, and also to the Jews in their script and their language."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-9",
+      "type": "commentary",
+      "text": "9 : The verse follows the same general structure as 3.12–13 (see 1.19–22) while reversing the effect. , May‐June. , see 1.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-est-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He wrote letters in the name of King Ahasuerus, sealed them with the king’s ring, and sent them by mounted couriers riding on fast steeds bred from the royal herd."
+    },
+    {
+      "block_id": "oxford-est-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "By these letters the king allowed the Jews who were in every city to assemble and defend their lives, to destroy, to kill, and to annihilate any armed force of any people or province that might attack them, with their children and women, and to plunder their goods"
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-10",
+      "type": "commentary",
+      "text": "11 : , not commanded. , the same wording appears in 3.13. The story’s hyperbolic style and pattern of reversals and retribution, rather than any actual historical event, account for the excess of bloodshed to come (9.5–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-est-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "on a single day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-11",
+      "type": "commentary",
+      "text": "12 : The date of the intended extermination (3.7,13) becomes a day of triumph and validates the Purim festival (see 9.21). , February‐March.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-est-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "A copy of the writ was to be issued as a decree in every province and published to all peoples, and the Jews were to be ready on that day to take revenge on their enemies."
+    },
+    {
+      "block_id": "oxford-est-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So the couriers, mounted on their swift royal steeds, hurried out, urged by the king’s command. The decree was issued in the citadel of Susa."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-12",
+      "type": "commentary",
+      "text": "14 : See 1.22n. , see 1.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-est-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then Mordecai went out from the presence of the king, wearing royal robes of blue and white, with a great golden crown and a mantle of fine linen and purple, while the city of Susa shouted and rejoiced."
+    },
+    {
+      "block_id": "oxford-est-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For the Jews there was light and gladness, joy and honor."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-14",
+      "type": "commentary",
+      "text": "16 : contrast with 4.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-est-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "In every province and in every city, wherever the king’s command and his edict came, there was gladness and joy among the Jews, a festival and a holiday. Furthermore, many of the peoples of the country professed to be Jews, because the fear of the Jews had fallen upon them."
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-2",
+      "type": "commentary",
+      "text": "8.1–17: Mordecai rises to power and counteracts the anti‐Jewish edict. Reversals abound in this chapter (see 1 Sam 2.1–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-13",
+      "type": "commentary",
+      "text": "15–17 : Mordecai’s attire contrasts with 4.1, as the Jews’ mourning in 4.1–4 turns to joy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-est-8-h1kj-15",
+      "type": "commentary",
+      "text": "17 : , this translation is possible, but the Heb may simply mean that gentiles joined the Jews in their resistance (see 9.3), not that they converted to Judaism. An earlier version of the book may have ended here with no mention of the festival.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "est",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    }
+  ]
+}

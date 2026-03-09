@@ -1,0 +1,433 @@
+{
+  "document_id": "prov-11",
+  "title": "Proverbs 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-11-heading-12",
+      "type": "heading",
+      "text": "12"
+    },
+    {
+      "block_id": "oxford-prov-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When pride comes, then comes disgrace; but wisdom is with the humble."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-3",
+      "type": "commentary",
+      "text": "2 : precedes a fall, cf. 16.18; 18.3,12. , see 3.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-prov-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The integrity of the upright guides them, but the crookedness of the treacherous destroys them."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , see 2.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Riches do not profit in the day of wrath, but righteousness delivers from death."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-6",
+      "type": "commentary",
+      "text": "4 : See 10.2. , when God judges all nations and exacts punishment on a cosmic scale (Job 21.30; Zeph 1.15,18; Ezek 7.19; cf. Ps 49.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The righteousness of the blameless keeps their ways straight, but the wicked fall by their own wickedness."
+    },
+    {
+      "block_id": "oxford-prov-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The righteousness of the upright saves them, but the treacherous are taken captive by their schemes."
+    },
+    {
+      "block_id": "oxford-prov-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When the wicked die, their hope perishes, and the expectation of the godless comes to nothing."
+    },
+    {
+      "block_id": "oxford-prov-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The righteous are delivered from trouble, and the wicked get into it instead."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-4",
+      "type": "commentary",
+      "text": "3–8 : Fates of and ; see 10.2–3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 3,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-prov-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "With their mouths the godless would destroy their neighbors, but by knowledge the righteous are delivered."
+    },
+    {
+      "block_id": "oxford-prov-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When it goes well with the righteous, the city rejoices; and when the wicked perish, there is jubilation."
+    },
+    {
+      "block_id": "oxford-prov-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "By the blessing of the upright a city is exalted, but it is overthrown by the mouth of the wicked."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-7",
+      "type": "commentary",
+      "text": "9–11 : Effects of the righteous and wicked on others, cf. 28.12; 29.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-prov-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Whoever belittles another lacks sense, but an intelligent person remains silent."
+    },
+    {
+      "block_id": "oxford-prov-11-13",
+      "type": "verse",
+      "number": 13,
+      "text": "A gossip goes about telling secrets, but one who is trustworthy in spirit keeps a confidence."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-8",
+      "type": "commentary",
+      "text": "12–13 : Silence as smart, in contrast to belittling and gossiping about others (e.g., 25.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-9",
+      "type": "commentary",
+      "text": "13 : , see 16.28n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-prov-11-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Where there is no guidance, a nation falls, but in an abundance of counselors there is safety."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-10",
+      "type": "commentary",
+      "text": "14 : Wise, strategic advice can be a matter of survival, see 15.22; 20.18; 24.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-prov-11-15",
+      "type": "verse",
+      "number": 15,
+      "text": "To guarantee loans for a stranger brings trouble, but there is safety in refusing to do so."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-11",
+      "type": "commentary",
+      "text": "15 : See 6.1–5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-prov-11-16",
+      "type": "verse",
+      "number": 16,
+      "text": "A gracious woman gets honor, but she who hates virtue is covered with shame. The timid become destitute, but the aggressive gain riches."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-12",
+      "type": "commentary",
+      "text": "16 : MT juxtaposes lines a and d for the comparison of with men; NRSV follows the Septuagint, which adds lines b and c.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-prov-11-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Those who are kind reward themselves, but the cruel do themselves harm."
+    },
+    {
+      "block_id": "oxford-prov-11-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The wicked earn no real gain, but those who sow righteousness get a true reward."
+    },
+    {
+      "block_id": "oxford-prov-11-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Whoever is steadfast in righteousness will live, but whoever pursues evil will die."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-13",
+      "type": "commentary",
+      "text": "18–19",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-11-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Crooked minds are an abomination to the Lord, but those of blameless ways are his delight."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-15",
+      "type": "commentary",
+      "text": "20 : , see 3.32n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-11-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Be assured, the wicked will not go unpunished, but those who are righteous will escape."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-14",
+      "type": "commentary",
+      "text": "21 : See 10.2–3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-prov-11-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Like a gold ring in a pig's snout is a beautiful woman without good sense."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-16",
+      "type": "commentary",
+      "text": "22 : , considered an unclean animal (see Deut 14.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-11-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The desire of the righteous ends only in good; the expectation of the wicked in wrath."
+    },
+    {
+      "block_id": "oxford-prov-11-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Some give freely, yet grow all the richer; others withhold what is due, and only suffer want."
+    },
+    {
+      "block_id": "oxford-prov-11-25",
+      "type": "verse",
+      "number": 25,
+      "text": "A generous person will be enriched, and one who gives water will get water."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-17",
+      "type": "commentary",
+      "text": "24–25 : A paradox of generosity, cf. Eccl 11.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-prov-11-26",
+      "type": "verse",
+      "number": 26,
+      "text": "The people curse those who hold back grain, but a blessing is on the head of those who sell it."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-18",
+      "type": "commentary",
+      "text": "26 : , wealthy landholders or officials who regulate food distribution and hold back for more profit (e.g., Gen 42.6; Deut 2.28; Am 8.5–6). , see 10.6n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-prov-11-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Whoever diligently seeks good seeks favor, but evil comes to the one who searches for it."
+    },
+    {
+      "block_id": "oxford-prov-11-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Those who trust in their riches will wither, but the righteous will flourish like green leaves."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-19",
+      "type": "commentary",
+      "text": "28 : On the righteous as flourishing trees, see v. 30; Pss 1.3; 92.12–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-prov-11-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Those who trouble their households will inherit wind, and the fool will be servant to the wise."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-20",
+      "type": "commentary",
+      "text": "29 : , see 3.33n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-prov-11-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The fruit of the righteous is a tree of life, but violence takes lives away."
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-21",
+      "type": "commentary",
+      "text": "30 : , see 3.18n.; cf. v. 28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-prov-11-31",
+      "type": "verse",
+      "number": 31,
+      "text": "If the righteous are repaid on earth, how much more the wicked and the sinner!"
+    },
+    {
+      "block_id": "oxford-prov-11-h1kj-1",
+      "type": "commentary",
+      "text": "10.1–22.16: The proverbs of Solomon. Comprised predominantly of two-line proverbs, the oldest section of Proverbs can be divided into 10.1–15.33, which features antithetical proverbs, and 16.1–22.16, which includes a mix of proverbial forms.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-72",
+  "title": "Section 72: Bishops and their duties",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-72-heading",
+      "type": "heading",
+      "text": "Bishops and their duties"
+    },
+    {
+      "block_id": "dc-72-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 72 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 72,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

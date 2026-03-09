@@ -1,0 +1,524 @@
+{
+  "document_id": "ezra-10",
+  "title": "Ezra 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezra-10-1",
+      "type": "verse",
+      "number": 1,
+      "text": "While Ezra prayed and made confession, weeping and throwing himself down before the house of God, a very great assembly of men, women, and children gathered to him out of Israel; the people also wept bitterly."
+    },
+    {
+      "block_id": "oxford-ezra-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Shecaniah son of Jehiel, of the descendants of Elam, addressed Ezra, saying, “We have broken faith with our God and have married foreign women from the peoples of the land, but even now there is hope for Israel in spite of this."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , (lit., “have settled”), i.e., established on the land. Inheritance of land is a concern (see Ezra 9.12; Deut 7). The proposal to exclude foreign wives comes from Shecaniah, a community member (his father’s name, Jehiel, appears in 10.26 among the transgressors). The resolution will emerge by consensus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ezra-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "So now let us make a covenant with our God to send away all these wives and their children, according to the counsel of my lord and of those who tremble at the commandment of our God; and let it be done according to the law."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-5",
+      "type": "commentary",
+      "text": "3 : The children of such marriages are to be sent away as well, thereby not separated from their mothers. , the Pentateuch does not include a law that demands dissolving mixed marriages; this implies a reinterpretation, applying a prohibition against such marriages to new circumstances.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ezra-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Take action, for it is your duty, and we are with you; be strong, and do it.”"
+    },
+    {
+      "block_id": "oxford-ezra-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then Ezra stood up and made the leading priests, the Levites, and all Israel swear that they would do as had been said. So they swore. Judah and its neighbors in Ezra‐Nehemiah."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-6",
+      "type": "commentary",
+      "text": "4–5 : The people authorize Ezra to act. Although authorized by the Persian king, Ezra undertakes leadership roles only when the community invites him to do so.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ezra-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then Ezra withdrew from before the house of God, and went to the chamber of Jehohanan son of Eliashib, where he spent the night. He did not eat bread or drink water, for he was mourning over the faithlessness of the exiles."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-3",
+      "type": "commentary",
+      "text": "10.1–6: The impact of Ezra’s prayer. Ezra’s prayer attracts a crowd and inspires remorse and repentance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , an office within the Temple complex that as a priest, Ezra may use. appears in the priestly lists (Neh 12.23), although both names are common in the postexilic period.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezra-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "They made a proclamation throughout Judah and Jerusalem to all the returned exiles that they should assemble at Jerusalem,"
+    },
+    {
+      "block_id": "oxford-ezra-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and that if any did not come within three days, by order of the officials and the elders all their property should be forfeited, and they themselves banned from the congregation of the exiles."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-8",
+      "type": "commentary",
+      "text": "10.7–8: Steps toward resolution. An assembly for the purpose of communal decision is convened, with a threat in case of noncompliance. Although Artaxerxes’s letter authorizes Ezra to issue decrees, Ezra resorts to a communal process instead (see 10.5,16). Threats of confiscation apply to those who refuse to participate in the assembly, not those who offer a different opinion as to what should be done.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ezra-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then all the people of Judah and Benjamin assembled at Jerusalem within the three days; it was the ninth month, on the twentieth day of the month. All the people sat in the open square before the house of God, trembling because of this matter and because of the heavy rain."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-10",
+      "type": "commentary",
+      "text": "9 : s are typical of the cold ninth month, Chislev (November‐December).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ezra-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Then Ezra the priest stood up and said to them, “You have trespassed and married foreign women, and so increased the guilt of Israel."
+    },
+    {
+      "block_id": "oxford-ezra-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Now make confession to the Lord the God of your ancestors, and do his will; separate yourselves from the peoples of the land and from the foreign wives.”"
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-11",
+      "type": "commentary",
+      "text": "10–11 : , see 10.2n. This is Ezra’s first directive; he commands only at the invitation of the community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ezra-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then all the assembly answered with a loud voice, “It is so; we must do as you have said."
+    },
+    {
+      "block_id": "oxford-ezra-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But the people are many, and it is a time of heavy rain; we cannot stand in the open. Nor is this a task for one day or for two, for many of us have transgressed in this matter."
+    },
+    {
+      "block_id": "oxford-ezra-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Let our officials represent the whole assembly, and let all in our towns who have taken foreign wives come at appointed times, and with them the elders and judges of every town, until the fierce wrath of our God on this account is averted from us.”"
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-12",
+      "type": "commentary",
+      "text": "12–14 : The community assents but offers an alternative mechanism for resolution.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-13",
+      "type": "commentary",
+      "text": "14 : (lit., “have settled”); see 10.2n. Again, the community is responsible for action, devising a representative form (“our officials”) of government.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ezra-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this, and Meshullam and Shabbethai the Levites supported them."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-9",
+      "type": "commentary",
+      "text": "10.9–15: A communal process for resolution. The report focuses on the process in which the entire community participates in deciding and enforcing criteria for membership.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-14",
+      "type": "commentary",
+      "text": "15 : A minority opinion is registered, establishing that majority decision carries even without unanimity. could be Ezra’s companion in 8.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ezra-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then the returned exiles did so. Ezra the priest selected men, heads of families, according to their families, each of them designated by name. On the first day of the tenth month they sat down to examine the matter."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-16",
+      "type": "commentary",
+      "text": "16 : on the basis of a democratic process. … , the Heb text states that the community selects the committee, with Ezra serving as a member. This is consistent with the rest of Ezra‐Nehemiah where the broader community plays a crucial role.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ezra-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "By the first day of the first month they had come to the end of all the men who had married foreign women."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , the commission’s deliberations began in December 458 (v. 16) and concluded three months later in March 457 , about one year after Ezra’s caravan first set out for Jerusalem (7.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ezra-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "There were found of the descendants of the priests who had married foreign women, of the descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-18",
+      "type": "commentary",
+      "text": "18 : (lit., “had settled”); see 10.2n. , the high priest in the early return. See 2.1–2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-ezra-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They pledged themselves to send away their wives, and their guilt offering was a ram of the flock for their guilt."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-19",
+      "type": "commentary",
+      "text": "18–19 : The high priest’s family fully complies with the communal decision; this affirms the ultimate status of the Torah, as the priests, who have the most power, submit to its teachings: Lev 21.10–15 forbids high priests to intermarry. This reflects a primary concern with the sanctity of the sanctuary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ezra-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Of the descendants of Immer: Hanani and Zebadiah."
+    },
+    {
+      "block_id": "oxford-ezra-10-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Of the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah."
+    },
+    {
+      "block_id": "oxford-ezra-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Of the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah."
+    },
+    {
+      "block_id": "oxford-ezra-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Of the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer."
+    },
+    {
+      "block_id": "oxford-ezra-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Of the singers: Eliashib. Of the gatekeepers: Shallum, Telem, and Uri."
+    },
+    {
+      "block_id": "oxford-ezra-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And of Israel: of the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Hashabiah, and Benaiah."
+    },
+    {
+      "block_id": "oxford-ezra-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Of the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah."
+    },
+    {
+      "block_id": "oxford-ezra-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Of the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza."
+    },
+    {
+      "block_id": "oxford-ezra-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Of the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai."
+    },
+    {
+      "block_id": "oxford-ezra-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Of the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth."
+    },
+    {
+      "block_id": "oxford-ezra-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Of the descendants of Pahath‐moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh."
+    },
+    {
+      "block_id": "oxford-ezra-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Of the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,"
+    },
+    {
+      "block_id": "oxford-ezra-10-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Benjamin, Malluch, and Shemariah."
+    },
+    {
+      "block_id": "oxford-ezra-10-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Of the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei."
+    },
+    {
+      "block_id": "oxford-ezra-10-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Of the descendants of Bani: Maadai, Amram, Uel,"
+    },
+    {
+      "block_id": "oxford-ezra-10-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Benaiah, Bedeiah, Cheluhi,"
+    },
+    {
+      "block_id": "oxford-ezra-10-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Vaniah, Meremoth, Eliashib,"
+    },
+    {
+      "block_id": "oxford-ezra-10-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Mattaniah, Mattenai, and Jaasu."
+    },
+    {
+      "block_id": "oxford-ezra-10-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Of the descendants of Binnui: Shimei,"
+    },
+    {
+      "block_id": "oxford-ezra-10-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Shelemiah, Nathan, Adaiah,"
+    },
+    {
+      "block_id": "oxford-ezra-10-40",
+      "type": "verse",
+      "number": 40,
+      "text": "Machnadebai, Shashai, Sharai,"
+    },
+    {
+      "block_id": "oxford-ezra-10-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Azarel, Shelemiah, Shemariah,"
+    },
+    {
+      "block_id": "oxford-ezra-10-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Shallum, Amariah, and Joseph."
+    },
+    {
+      "block_id": "oxford-ezra-10-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Of the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah."
+    },
+    {
+      "block_id": "oxford-ezra-10-44",
+      "type": "verse",
+      "number": 44,
+      "text": "All these had married foreign women, and they sent them away with their children."
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-1",
+      "type": "commentary",
+      "text": "7.1–10.44: Stage Two of reconstruction: Ezra and the reformation of the community according to the Torah. Ezra’s mission focuses on the processes by which the community restructures itself to conform to an interpretation of the law that requires a separation from the people of the land. Ezra‐Nehemiah implicitly dates this event in 458 , during the reign of Artaxerxes I, though some scholars date it to 398 , during the reign of Artaxerxes II.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-2",
+      "type": "commentary",
+      "text": "10.1–44: Resolution of crisis. The crisis is resolved through communal consensus to reinterpret earlier laws and apply them to present circumstances, and therefore to oppose mixed marriages within the covenant community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-15",
+      "type": "commentary",
+      "text": "10.16–44: Results: compliance with communal decision. The issue of mixed marriages constitutes the first test of the new, legal status of the Torah, illustrating how an ancient book may shape the present and future through communal interpretive process facilitated by Ezra the scribe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 16,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-20",
+      "type": "commentary",
+      "text": "20–44 : List of other offenders. There are about 113 offenders (the names are not always distinct), including members of the high priest’s family (v. 18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 20,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-ezra-10-h1kj-21",
+      "type": "commentary",
+      "text": "44 : , this sentence does not appear in Ezra 10, but comes from the later 1 Esdras. The Heb in Ezra 10.44 states: “Some had wives with whom they had sons.” Ezra 10.44 thus does not report that the women and children of nonpriestly families were expelled. The conclusion of Stage Two (Ezra 7–10) focuses, rather, on establishing boundaries based on the Torah without resorting to military force (emotional casualties are not reported).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 10
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    }
+  ]
+}

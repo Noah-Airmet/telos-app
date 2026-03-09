@@ -1,0 +1,308 @@
+{
+  "document_id": "num-23",
+  "title": "Numbers 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-num-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Balaam said to Balak, “Build me seven altars here, and prepare seven bulls and seven rams for me.”"
+    },
+    {
+      "block_id": "oxford-num-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Balak did as Balaam had said; and Balak and Balaam offered a bull and a ram on each altar."
+    },
+    {
+      "block_id": "oxford-num-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Balaam said to Balak, “Stay here beside your burnt offerings while I go aside. Perhaps the Lord will come to meet me. Whatever he shows me I will tell you.” And he went to a bare height."
+    },
+    {
+      "block_id": "oxford-num-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then God met Balaam; and Balaam said to him, “I have arranged the seven altars, and have offered a bull and a ram on each altar.”"
+    },
+    {
+      "block_id": "oxford-num-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord put a word in Balaam’s mouth, and said, “Return to Balak, and this is what you must say.”"
+    },
+    {
+      "block_id": "oxford-num-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So he returned to Balak, who was standing beside his burnt offerings with all the officials of Moab."
+    },
+    {
+      "block_id": "oxford-num-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then Balaam uttered his oracle, saying: “Balak has brought me from Aram, the king of Moab from the eastern mountains: ‘Come, curse Jacob for me; Come, denounce Israel!’"
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-4",
+      "type": "commentary",
+      "text": "23.7 : , Syria; , Heb “mashal,” in general a saying, such as a “parable” or “allegory” (Ezek 17.2), “proverb” (Prov 1.1), or even “taunt” (Isa 14.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-num-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "How can I curse whom God has not cursed? How can I denounce those whom the Lord has not denounced?"
+    },
+    {
+      "block_id": "oxford-num-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For from the top of the crags I see him, from the hills I behold him. Here is a people living alone, and not reckoning itself among the nations!"
+    },
+    {
+      "block_id": "oxford-num-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Who can count the dust of Jacob, or number the dust‐cloud of Israel? Let me die the death of the upright, and let my end be like his!”"
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-5",
+      "type": "commentary",
+      "text": "7–10 : The oracle consists of three stanzas: vv. 7–8: the inability of Balaam to curse if it is not God’s will; v. 9: the distinctive character of Israel; v. 10: reference to the Israelites’ fertility.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 7,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-num-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but now you have done nothing but bless them.”"
+    },
+    {
+      "block_id": "oxford-num-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "He answered, “Must I not take care to say what the Lord puts into my mouth?”"
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-3",
+      "type": "commentary",
+      "text": "22.36–23.12: First oracle. The presentation of the first oracle has three parts: setting in Moab (22.36–23.6); the oracle (23.7–10); and a concluding exchange between Balaam and Balak (23.11–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-num-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So Balak said to him, “Come with me to another place from which you may see them; you shall see only part of them, and shall not see them all; then curse them for me from there.”"
+    },
+    {
+      "block_id": "oxford-num-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "So he took him to the field of Zophim, to the top of Pisgah. He built seven altars, and offered a bull and a ram on each altar."
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-7",
+      "type": "commentary",
+      "text": "14",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-num-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Balaam said to Balak, “Stand here beside your burnt offerings, while I meet the Lord over there.”"
+    },
+    {
+      "block_id": "oxford-num-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The Lord met Balaam, put a word into his mouth, and said, “Return to Balak, and this is what you shall say.”"
+    },
+    {
+      "block_id": "oxford-num-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "When he came to him, he was standing beside his burnt offerings with the officials of Moab. Balak said to him, “What has the Lord said?”"
+    },
+    {
+      "block_id": "oxford-num-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then Balaam uttered his oracle, saying: “Rise, Balak, and hear; listen to me, O son of Zippor:"
+    },
+    {
+      "block_id": "oxford-num-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "God is not a human being, that he should lie, or a mortal, that he should change his mind. Has he promised, and will he not do it? Has he spoken, and will he not fulfill it?"
+    },
+    {
+      "block_id": "oxford-num-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "See, I received a command to bless; he has blessed, and I cannot revoke it."
+    },
+    {
+      "block_id": "oxford-num-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "He has not beheld misfortune in Jacob; nor has he seen trouble in Israel. The Lord their God is with them, acclaimed as a king among them."
+    },
+    {
+      "block_id": "oxford-num-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "God, who brings them out of Egypt, is like the horns of a wild ox for them."
+    },
+    {
+      "block_id": "oxford-num-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Surely there is no enchantment against Jacob, no divination against Israel; now it shall be said of Jacob and Israel, ‘See what God has done!’"
+    },
+    {
+      "block_id": "oxford-num-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Look, a people rising up like a lioness, and rousing itself like a lion! It does not lie down until it has eaten the prey and drunk the blood of the slain.”"
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-8",
+      "type": "commentary",
+      "text": "18–24 : In contrast to the autobiographical focus of the first oracle, Balaam instructs Balak about God and Israel in the second. The oracle has three stanzas: vv. 18–19: the contrast between Balak and God underscores that the human attempt to manipulate the future is useless since God fulfills all divine promises; vv. 20–22: Israel’s history of deliverance as an outgrowth of divine blessings; vv. 23–24: shift from the past to the present by comparing Israel to a lion that eats its prey.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 18,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-num-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Then Balak said to Balaam, “Do not curse them at all, and do not bless them at all.”"
+    },
+    {
+      "block_id": "oxford-num-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "But Balaam answered Balak, “Did I not tell you, ‘Whatever the Lord says, that is what I must do’?”"
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-6",
+      "type": "commentary",
+      "text": "23.13–26: Second oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-num-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "So Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.”"
+    },
+    {
+      "block_id": "oxford-num-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "So Balak took Balaam to the top of Peor, which overlooks the wasteland."
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-10",
+      "type": "commentary",
+      "text": "23.28 : , see 25.3; 31.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-num-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Balaam said to Balak, “Build me seven altars here, and prepare seven bulls and seven rams for me.”"
+    },
+    {
+      "block_id": "oxford-num-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "So Balak did as Balaam had said, and offered a bull and a ram on each altar."
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-1",
+      "type": "commentary",
+      "text": "22.1–36.13: Preparing for entry into Canaan. The theme of preparation for entering Canaan is signaled by a change of setting from the wilderness to the plains of Moab. Conflicts with other nations in Transjordan continue (chs 22–24; 31), sometimes involving apostasy (ch 25). The section concludes with laws that prepare for Israel’s future life in the land (chs 26–36), including a new census of the second generation (ch 26), inheritance laws (chs 27; 32; 36), and guidelines for worship (chs 28–30). Reference to the location of Israel on the plains of Moab near the Jordan River across from the city of Jericho frames the section (22.1; 36.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-2",
+      "type": "commentary",
+      "text": "22.1–24.25: Balak and Balaam. The initial threat to Israel on the plains of Moab is from Balak, king of Moab, who fears the strength of Israel and requests the seer Balaam to curse them. The story of Balak and Balaam (chs 22–24) includes poetic oracles by Balaam (23.7–10; 23.18–24; 24.3–9; 24.15–24; see Introduction) and a folktale about Balaam, his donkey, and a confrontation with the angel of the (22.22–35); these are organized within a larger narrative in which Balak twice seeks to hire Balaam, who rejects the initial offer (22.1–14) but accepts the second (22.15–24.35). Israel plays no active role in the drama and thus remains unaware of the threat. The , on the other hand, is an active character, proclaiming his protection of Israel in a series of revelations to Balaam.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-num-23-h1kj-9",
+      "type": "commentary",
+      "text": "23.27–24.13: Third oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 23
+      },
+      "verse_start": 27,
+      "verse_end": 30
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "document_id": "prov-15",
+  "title": "Proverbs 15",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-prov-15-heading-16",
+      "type": "heading",
+      "text": "16"
+    },
+    {
+      "block_id": "oxford-prov-15-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The tongue of the wise dispenses knowledge, but the mouths of fools pour out folly."
+    },
+    {
+      "block_id": "oxford-prov-15-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The eyes of the Lord are in every place, keeping watch on the evil and the good."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , see 5.21n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-prov-15-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A gentle tongue is a tree of life, but perverseness in it breaks the spirit."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-2",
+      "type": "commentary",
+      "text": "15.1,4: Gentle speech, see 25.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , see 3.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-prov-15-5",
+      "type": "verse",
+      "number": 5,
+      "text": "A fool despises a parent's instruction, but the one who heeds admonition is prudent."
+    },
+    {
+      "block_id": "oxford-prov-15-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In the house of the righteous there is much treasure, but trouble befalls the income of the wicked."
+    },
+    {
+      "block_id": "oxford-prov-15-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The lips of the wise spread knowledge; not so the minds of fools."
+    },
+    {
+      "block_id": "oxford-prov-15-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The sacrifice of the wicked is an abomination to the Lord, but the prayer of the upright is his delight."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-6",
+      "type": "commentary",
+      "text": "8 : Proverbs refers rarely to worship and rituals; see v. 29; 3.9–10; 7.14; 15.29; 21.3,27; 28.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-prov-15-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The way of the wicked is an abomination to the Lord, but he loves the one who pursues righteousness."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-5",
+      "type": "commentary",
+      "text": "8–9 : , see 3.32n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-prov-15-10",
+      "type": "verse",
+      "number": 10,
+      "text": "There is severe discipline for one who forsakes the way, but one who hates a rebuke will die."
+    },
+    {
+      "block_id": "oxford-prov-15-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Sheol and Abaddon lie open before the Lord, how much more human hearts!"
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-7",
+      "type": "commentary",
+      "text": "11 : , see 1.12n. , see 2.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-prov-15-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Scoffers do not like to be rebuked; they will not go to the wise."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-8",
+      "type": "commentary",
+      "text": "12 : , see 1.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-prov-15-13",
+      "type": "verse",
+      "number": 13,
+      "text": "A glad heart makes a cheerful countenance, but by sorrow of heart the spirit is broken."
+    },
+    {
+      "block_id": "oxford-prov-15-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The mind of one who has understanding seeks knowledge, but the mouths of fools feed on folly."
+    },
+    {
+      "block_id": "oxford-prov-15-15",
+      "type": "verse",
+      "number": 15,
+      "text": "All the days of the poor are hard, but a cheerful heart has a continual feast."
+    },
+    {
+      "block_id": "oxford-prov-15-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Better is a little with the fear of the Lord than great treasure and trouble with it."
+    },
+    {
+      "block_id": "oxford-prov-15-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Better is a dinner of vegetables where love is than a fatted ox and hatred with it."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-9",
+      "type": "commentary",
+      "text": "16–17 : , see 12.9n. , see 1.7n. Meat was a rare delicacy; see 9.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-prov-15-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Those who are hot-tempered stir up strife, but those who are slow to anger calm contention."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-10",
+      "type": "commentary",
+      "text": "18 : , see 12.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-prov-15-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The way of the lazy is overgrown with thorns, but the path of the upright is a level highway."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-11",
+      "type": "commentary",
+      "text": "19 : , see 1.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-prov-15-20",
+      "type": "verse",
+      "number": 20,
+      "text": "A wise child makes a glad father, but the foolish despise their mothers."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-12",
+      "type": "commentary",
+      "text": "20 : See 10.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-prov-15-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Folly is a joy to one who has no sense, but a person of understanding walks straight ahead."
+    },
+    {
+      "block_id": "oxford-prov-15-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Without counsel, plans go wrong, but with many advisers they succeed."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-13",
+      "type": "commentary",
+      "text": "22 : See 11.14n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-prov-15-23",
+      "type": "verse",
+      "number": 23,
+      "text": "To make an apt answer is a joy to anyone, and a word in season, how good it is!"
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-14",
+      "type": "commentary",
+      "text": "23 : (i.e., fitting for the time); see 25.11–12n.; cf. Eccl 3.1–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-prov-15-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For the wise the path of life leads upward, in order to avoid Sheol below."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-15",
+      "type": "commentary",
+      "text": "24 : , see 1.12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-prov-15-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The Lord tears down the house of the proud, but maintains the widow's boundaries."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-16",
+      "type": "commentary",
+      "text": "25 : Moving boundary stones that marked the ownership of land was illegal; see 22.28; 23.10–11; 25.25; Deut 19.14; 27.17; Isa 5.8; Hos 5.10. On divine protection of widows, among the most vulnerable members of society, see Pss 68.5; 146.9. , see 15.30n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-prov-15-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Evil plans are an abomination to the Lord, but gracious words are pure."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-17",
+      "type": "commentary",
+      "text": "26 : , see 3.32n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-prov-15-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Those who are greedy for unjust gain make trouble for their households, but those who hate bribes will live."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-18",
+      "type": "commentary",
+      "text": "27 : , see 1.18–19n. , see 17.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-prov-15-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The mind of the righteous ponders how to answer, but the mouth of the wicked pours out evil."
+    },
+    {
+      "block_id": "oxford-prov-15-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The Lord is far from the wicked, but he hears the prayer of the righteous."
+    },
+    {
+      "block_id": "oxford-prov-15-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The light of the eyes rejoices the heart, and good news refreshes the body."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-19",
+      "type": "commentary",
+      "text": "30 : , lit., “fattens the bones,” see 3.8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-prov-15-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The ear that heeds wholesome admonition will lodge among the wise."
+    },
+    {
+      "block_id": "oxford-prov-15-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Those who ignore instruction despise themselves, but those who heed admonition gain understanding."
+    },
+    {
+      "block_id": "oxford-prov-15-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The fear of the Lord is instruction in wisdom, and humility goes before honor."
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-1",
+      "type": "commentary",
+      "text": "10.1–22.16: The proverbs of Solomon. Comprised predominantly of two-line proverbs, the oldest section of Proverbs can be divided into 10.1–15.33, which features antithetical proverbs, and 16.1–22.16, which includes a mix of proverbial forms.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-prov-15-h1kj-20",
+      "type": "commentary",
+      "text": "33 : , see 1.7n. is a prerequisite for honor; see 3.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "prov",
+        "chapter": 15
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    }
+  ]
+}

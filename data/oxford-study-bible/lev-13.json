@@ -1,0 +1,494 @@
+{
+  "document_id": "lev-13",
+  "title": "Leviticus 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses and Aaron, saying:"
+    },
+    {
+      "block_id": "oxford-lev-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into a leprous disease on the skin of his body, he shall be brought to Aaron the priest or to one of his sons the priests."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , perhaps “It shall be reported.” In either case, others in the community have an interest in diagnosing surface affliction not because the disease is contagious but because the impurity it produces contaminates the sanctuary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lev-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The priest shall examine the disease on the skin of his body, and if the hair in the diseased area has turned white and the disease appears to be deeper than the skin of his body, it is a leprousa disease; after the priest has examined him he shall pronounce him ceremonially unclean."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , without touching the affected skin, for the impurity of surface affliction is communicable. , or her body: the law applies to both men and women (cf. vv. 2,29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But if the spot is white in the skin of his body, and appears no deeper than the skin, and the hair in it has not turned white, the priest shall confine the diseased person for seven days."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , in order to determine whether the skin disease produces impurity and to limit exposure to impurity in the event that it is surface affliction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-lev-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The priest shall examine him on the seventh day, and if he sees that the disease is checked and the disease has not spread in the skin, then the priest shall confine him seven days more."
+    },
+    {
+      "block_id": "oxford-lev-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The priest shall examine him again on the seventh day, and if the disease has abated and the disease has not spread in the skin, the priest shall pronounce him clean; it is only an eruption; and he shall wash his clothes, and be clean."
+    },
+    {
+      "block_id": "oxford-lev-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "But if the eruption spreads in the skin after he has shown himself to the priest for his cleansing, he shall appear again before the priest."
+    },
+    {
+      "block_id": "oxford-lev-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The priest shall make an examination, and if the eruption has spread in the skin, the priest shall pronounce him unclean; it is a leprousa disease."
+    },
+    {
+      "block_id": "oxford-lev-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When a person contracts a leprousa disease, he shall be brought to the priest."
+    },
+    {
+      "block_id": "oxford-lev-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The priest shall make an examination, and if there is a white swelling in the skin that has turned the hair white, and there is quick raw flesh in the swelling,"
+    },
+    {
+      "block_id": "oxford-lev-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "it is a chronic leprousa disease in the skin of his body. The priest shall pronounce him unclean; he shall not confine him, for he is unclean."
+    },
+    {
+      "block_id": "oxford-lev-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "But if the disease breaks out in the skin, so that it covers all the skin of the diseased person from head to foot, so far as the priest can see,"
+    },
+    {
+      "block_id": "oxford-lev-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "then the priest shall make an examination, and if the disease has covered all his body, he shall pronounce him clean of the disease; since it has all turned white, he is clean."
+    },
+    {
+      "block_id": "oxford-lev-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But if raw flesh ever appears on him, he shall be unclean;"
+    },
+    {
+      "block_id": "oxford-lev-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "the priest shall examine the raw flesh and pronounce him unclean. Raw flesh is unclean, for it is a leprous disease."
+    },
+    {
+      "block_id": "oxford-lev-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But if the raw flesh again turns white, he shall come to the priest;"
+    },
+    {
+      "block_id": "oxford-lev-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the priest shall examine him, and if the disease has turned white, the priest shall pronounce the diseased person clean. He is clean."
+    },
+    {
+      "block_id": "oxford-lev-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "When there is on the skin of one’s body a boil that has healed,"
+    },
+    {
+      "block_id": "oxford-lev-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and in the place of the boil there appears a white swelling or a reddish‐white spot, it shall be shown to the priest."
+    },
+    {
+      "block_id": "oxford-lev-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The priest shall make an examination, and if it appears deeper than the skin and its hair has turned white, the priest shall pronounce him unclean; this is a leprousa disease, broken out in the boil."
+    },
+    {
+      "block_id": "oxford-lev-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But if the priest examines it and the hair on it is not white, nor is it deeper than the skin but has abated, the priest shall confine him seven days."
+    },
+    {
+      "block_id": "oxford-lev-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "If it spreads in the skin, the priest shall pronounce him unclean; it is diseased."
+    },
+    {
+      "block_id": "oxford-lev-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But if the spot remains in one place and does not spread, it is the scar of the boil; the priest shall pronounce him clean."
+    },
+    {
+      "block_id": "oxford-lev-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Or, when the body has a burn on the skin and the raw flesh of the burn becomes a spot, reddish‐white or white,"
+    },
+    {
+      "block_id": "oxford-lev-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "the priest shall examine it. If the hair in the spot has turned white and it appears deeper than the skin, it is a leprousa disease; it has broken out in the burn, and the priest shall pronounce him unclean. This is a leprousa disease."
+    },
+    {
+      "block_id": "oxford-lev-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "But if the priest examines it and the hair in the spot is not white, and it is no deeper than the skin but has abated, the priest shall confine him seven days."
+    },
+    {
+      "block_id": "oxford-lev-13-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The priest shall examine him the seventh day; if it is spreading in the skin, the priest shall pronounce him unclean. This is a leprousa disease."
+    },
+    {
+      "block_id": "oxford-lev-13-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But if the spot remains in one place and does not spread in the skin but has abated, it is a swelling from the burn, and the priest shall pronounce him clean; for it is the scar of the burn."
+    },
+    {
+      "block_id": "oxford-lev-13-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When a man or woman has a disease on the head or in the beard,"
+    },
+    {
+      "block_id": "oxford-lev-13-30",
+      "type": "verse",
+      "number": 30,
+      "text": "the priest shall examine the disease. If it appears deeper than the skin and the hair in it is yellow and thin, the priest shall pronounce him unclean; it is an itch, a leprousa disease of the head or the beard."
+    },
+    {
+      "block_id": "oxford-lev-13-31",
+      "type": "verse",
+      "number": 31,
+      "text": "If the priest examines the itching disease, and it appears no deeper than the skin and there is no black hair in it, the priest shall confine the person with the itching disease for seven days."
+    },
+    {
+      "block_id": "oxford-lev-13-32",
+      "type": "verse",
+      "number": 32,
+      "text": "On the seventh day the priest shall examine the itch; if the itch has not spread, and there is no yellow hair in it, and the itch appears to be no deeper than the skin,"
+    },
+    {
+      "block_id": "oxford-lev-13-33",
+      "type": "verse",
+      "number": 33,
+      "text": "he shall shave, but the itch he shall not shave. The priest shall confine the person with the itch for seven days more."
+    },
+    {
+      "block_id": "oxford-lev-13-34",
+      "type": "verse",
+      "number": 34,
+      "text": "On the seventh day the priest shall examine the itch; if the itch has not spread in the skin and it appears to be no deeper than the skin, the priest shall pronounce him clean. He shall wash his clothes and be clean."
+    },
+    {
+      "block_id": "oxford-lev-13-35",
+      "type": "verse",
+      "number": 35,
+      "text": "But if the itch spreads in the skin after he was pronounced clean,"
+    },
+    {
+      "block_id": "oxford-lev-13-36",
+      "type": "verse",
+      "number": 36,
+      "text": "the priest shall examine him. If the itch has spread in the skin, the priest need not seek for the yellow hair; he is unclean."
+    },
+    {
+      "block_id": "oxford-lev-13-37",
+      "type": "verse",
+      "number": 37,
+      "text": "But if in his eyes the itch is checked, and black hair has grown in it, the itch is healed, he is clean; and the priest shall pronounce him clean."
+    },
+    {
+      "block_id": "oxford-lev-13-38",
+      "type": "verse",
+      "number": 38,
+      "text": "When a man or a woman has spots on the skin of the body, white spots,"
+    },
+    {
+      "block_id": "oxford-lev-13-39",
+      "type": "verse",
+      "number": 39,
+      "text": "the priest shall make an examination, and if the spots on the skin of the body are of a dull white, it is a rash that has broken out on the skin; he is clean."
+    },
+    {
+      "block_id": "oxford-lev-13-40",
+      "type": "verse",
+      "number": 40,
+      "text": "If anyone loses the hair from his head, he is bald but he is clean."
+    },
+    {
+      "block_id": "oxford-lev-13-41",
+      "type": "verse",
+      "number": 41,
+      "text": "If he loses the hair from his forehead and temples, he has baldness of the forehead but he is clean."
+    },
+    {
+      "block_id": "oxford-lev-13-42",
+      "type": "verse",
+      "number": 42,
+      "text": "But if there is on the bald head or the bald forehead a reddish‐white diseased spot, it is a leprousa disease breaking out on his bald head or his bald forehead."
+    },
+    {
+      "block_id": "oxford-lev-13-43",
+      "type": "verse",
+      "number": 43,
+      "text": "The priest shall examine him; if the diseased swelling is reddish‐white on his bald head or on his bald forehead, which resembles a leprousa disease in the skin of the body,"
+    },
+    {
+      "block_id": "oxford-lev-13-44",
+      "type": "verse",
+      "number": 44,
+      "text": "he is leprous,a he is unclean. The priest shall pronounce him unclean; the disease is on his head."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-7",
+      "type": "commentary",
+      "text": "38–44 : These verses consider difficult cases and supplement vv. 2–37 by focusing upon skin conditions that do not cause impurity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 38,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-lev-13-45",
+      "type": "verse",
+      "number": 45,
+      "text": "The person who has the leprous disease shall wear torn clothes and let the hair of his head be disheveled; and he shall cover his upper lip and cry out, “Unclean, unclean.”"
+    },
+    {
+      "block_id": "oxford-lev-13-46",
+      "type": "verse",
+      "number": 46,
+      "text": "He shall remain unclean as long as he has the disease; he is unclean. He shall live alone; his dwelling shall be outside the camp."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-3",
+      "type": "commentary",
+      "text": "13.1–46: Surface affliction on humans. Various symptoms are enumerated for determining whether a condition is surface affliction. In each case, the priest must give a ruling regarding the skin disease, differentiating between clean and unclean (cf. 10.10). The skin conditions most consistent with the various symptoms described include eczema, psoriasis, and vitiligo.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-8",
+      "type": "commentary",
+      "text": "45–46 : The afflicted person dresses as a mourner (cf. 10.6; Ezek 24.17,22) because of the association between surface affliction and death. , cf. 2 Kings 7.3–8; 15.5; 2 Chr 26.21; Lk 17.12. Separation from the camp limits the spread of impurity, but impurity still contaminates the sanctuary (cf. 14.1–32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 45,
+      "verse_end": 46
+    },
+    {
+      "block_id": "oxford-lev-13-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Concerning clothing: when a leprousa disease appears in it, in woolen or linen cloth,"
+    },
+    {
+      "block_id": "oxford-lev-13-48",
+      "type": "verse",
+      "number": 48,
+      "text": "in warp or woof of linen or wool, or in a skin or in anything made of skin,"
+    },
+    {
+      "block_id": "oxford-lev-13-49",
+      "type": "verse",
+      "number": 49,
+      "text": "if the disease shows greenish or reddish in the garment, whether in warp or woof or in skin or in anything made of skin, it is a leprousa disease and shall be shown to the priest."
+    },
+    {
+      "block_id": "oxford-lev-13-50",
+      "type": "verse",
+      "number": 50,
+      "text": "The priest shall examine the disease, and put the diseased article aside for seven days."
+    },
+    {
+      "block_id": "oxford-lev-13-51",
+      "type": "verse",
+      "number": 51,
+      "text": "He shall examine the disease on the seventh day. If the disease has spread in the cloth, in warp or woof, or in the skin, whatever be the use of the skin, this is a spreading leprousa disease; it is unclean."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-10",
+      "type": "commentary",
+      "text": "51 : Unlike a person with surface affliction, an afflicted fabric, like the twice‐afflicted house (14.45), cannot be cleansed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-lev-13-52",
+      "type": "verse",
+      "number": 52,
+      "text": "He shall burn the clothing, whether diseased in warp or woof, woolen or linen, or anything of skin, for it is a spreading leprousa disease; it shall be burned in fire."
+    },
+    {
+      "block_id": "oxford-lev-13-53",
+      "type": "verse",
+      "number": 53,
+      "text": "If the priest makes an examination, and the disease has not spread in the clothing, in warp or woof or in anything of skin,"
+    },
+    {
+      "block_id": "oxford-lev-13-54",
+      "type": "verse",
+      "number": 54,
+      "text": "the priest shall command them to wash the article in which the disease appears, and he shall put it aside seven days more."
+    },
+    {
+      "block_id": "oxford-lev-13-55",
+      "type": "verse",
+      "number": 55,
+      "text": "The priest shall examine the diseased article after it has been washed. If the diseased spot has not changed color, though the disease has not spread, it is unclean; you shall burn it in fire, whether the leprousa spot is on the inside or on the outside."
+    },
+    {
+      "block_id": "oxford-lev-13-56",
+      "type": "verse",
+      "number": 56,
+      "text": "If the priest makes an examination, and the disease has abated after it is washed, he shall tear the spot out of the cloth, in warp or woof, or out of skin."
+    },
+    {
+      "block_id": "oxford-lev-13-57",
+      "type": "verse",
+      "number": 57,
+      "text": "If it appears again in the garment, in warp or woof, or in anything of skin, it is spreading; you shall burn with fire that in which the disease appears."
+    },
+    {
+      "block_id": "oxford-lev-13-58",
+      "type": "verse",
+      "number": 58,
+      "text": "But the cloth, warp or woof, or anything of skin from which the disease disappears when you have washed it, shall then be washed a second time, and it shall be clean."
+    },
+    {
+      "block_id": "oxford-lev-13-59",
+      "type": "verse",
+      "number": 59,
+      "text": "This is the ritual for a leprousa disease in a cloth of wool or linen, either in warp or woof, or in anything of skin, to decide whether it is clean or unclean."
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–16.34: Ritual impurity and purification. Chs 11–16 narrate divine instructions concerning impurity and various processes for purification. In Priestly literature, impurity is a real, though invisible, film that adheres to persons and objects and is attracted to the tabernacle as some metals are attracted to a magnet. However, impurity is fundamentally different from sin: impurity is contracted in the course of normal, daily activities and carries no moral stigma (see further 10.10n.). Yet because impurity is contagious and vexes the deity in the sanctuary, the Israelites must carefully dispose of it. Therefore failure to purify is sinful and carries dire consequences (cf. 15.31). The sources of impurity are human and animal corpses (ch 11; Num 19), normal and abnormal genital discharges (chs 12; 15), and a disease, “surface affliction,” often mistranslated as “leprosy” (chs 13–14). The common denominator among these sources of impurity may be their association with death or loss of life force. In cases of minor impurity, purification is accomplished through some combination of bathing, laundering, and the passage of time. In addition to these rites, major impurities also require presentation of a purification offering to cleanse the sanctuary, for major impurities penetrate into the tabernacle complex. Because of their regular contact with the sanctuary and the threat of its contamination, priests are required to avoid virtually all impurity (cf. 21.1–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–14.57: Surface afflictions. Though consolidated under a single term (Heb “tsara˓at”) traditionally translated “leprosy,” the surface afflictions described in these chapters are not modern leprosy (Hansen’s disease), which was likely unknown in the ancient Near East when these texts were written. The inclusion of conditions affecting fabrics and houses alongside human disease also rules out modern leprosy, as do the symptoms of the human diseases described. The Priestly authors do not view disease in general as causing impurity; surface affliction likely causes impurity because it is associated with death (cf. Num 12.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-9",
+      "type": "commentary",
+      "text": "13.47–59: Surface affliction on cloth. Illustrating the systematization of Priestly thought, the instructions for fabrics are similar in structure and detail to the preceding instructions for skin diseases. The surface affliction includes various forms of mold, fungus, and mildew.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 47,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-lev-13-h1kj-11",
+      "type": "commentary",
+      "text": "59 : Summary postscript for vv. 47–59, which interrupts 13.1–46 and 14.1–32. , see 6.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 13
+      },
+      "verse_start": 59,
+      "verse_end": 59
+    }
+  ]
+}

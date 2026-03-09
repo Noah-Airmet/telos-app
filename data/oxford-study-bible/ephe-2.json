@@ -1,0 +1,391 @@
+{
+  "document_id": "ephe-2",
+  "title": "ephe 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ephe-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-ephe-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "in which you once lived, following the course of this world, following the ruler of the power of the air, the spirit that is now at work among those who are disobedient."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , literally “age,” a reference to the present as a period in which human life is pervaded and perverted by a malevolent spiritual force ( ; 6.10–17; see also Rom 6.12–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ephe-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "All of us once lived among them in the passions of our flesh, following the desires of flesh and senses, and we were by nature children of wrath, like everyone else."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , those to be punished at the future judgment (1 Thess 5.4–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ephe-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "But God, who is rich in mercy, out of the great love with which he loved us"
+    },
+    {
+      "block_id": "oxford-ephe-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved—"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-2",
+      "type": "commentary",
+      "text": "1–5 : Formerly both Gentile ( ) and Jew ( ) habitually sinned and lacked God's protection and blessings ( ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-5",
+      "type": "commentary",
+      "text": "5",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ephe-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-7",
+      "type": "commentary",
+      "text": "5–6 : , the new life is one of exaltation like Christ himself (1.19–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ephe-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "so that in the ages to come he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus."
+    },
+    {
+      "block_id": "oxford-ephe-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For by grace you have been saved through faith, and this is not your own doing; it is the gift of God—"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , deliverance to a new life is due solely to God's mercy and benevolence (1.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ephe-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "not the result of works, so that no one may boast."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , individual achievement, not “works of the law” as in Gal 2.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ephe-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For we are what he has made us, created in Christ Jesus for good works, which God prepared beforehand to be our way of life."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–10: The old life contrasted with the new (cf. Col 1.21–23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , the ethical envisioned in God's plan (1.4; 4.1; 1 Tim 6.18; Titus 2.14; 3.8). , see 1.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ephe-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "So then, remember that at one time you Gentiles by birth, called “the uncircumcision” by those who are called “the circumcision”—a physical circumcision made in the flesh by human hands—"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , a derogatory term for Gentiles. , generally Jews, but often used for those who required all followers of Jesus to obey the law of Moses (Acts 10.45; Gal 2.12; Col 4.11; cf. Phil 3.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ephe-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "remember that you were at that time without Christ, being aliens from the commonwealth of Israel, and strangers to the covenants of promise, having no hope and without God in the world."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , God promised Abraham (Gen 15.18; 17.2–8), Israel/Jacob (Gen 28.13–15), and David (2 Sam 7; Ps 89) his presence and protection (see Ps 105).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ephe-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-12",
+      "type": "commentary",
+      "text": "12–13 : , another temporal contrast (2.1–5), focused on the Gentiles’ plight as and from Israel and God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , a spatial contrast symbolizing alienation and reconciliation (v. 17; cf. Isa 57.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ephe-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For he is our peace; in his flesh he has made both groups into one and has broken down the dividing wall, that is, the hostility between us."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-15",
+      "type": "commentary",
+      "text": "14 : , Jews and Gentiles united in a new community (2.16). , the Jewish law; the image perhaps derives from the balustrade in the Jerusalem Temple, beyond which Gentiles were forbidden.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ephe-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He has abolished the law with its commandments and ordinances, that he might create in himself one new humanity in place of the two, thus making peace,"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-16",
+      "type": "commentary",
+      "text": "15 : , in its promotion of (Acts 10.28) but not in its moral insight (cf. 6.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-ephe-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "and might reconcile both groups to God in one body through the cross, thus putting to death that hostility through it."
+    },
+    {
+      "block_id": "oxford-ephe-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So he came and proclaimed peace to you who were far off and peace to those who were near;"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , see Isa 52.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ephe-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "for through him both of us have access in one Spirit to the Father."
+    },
+    {
+      "block_id": "oxford-ephe-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "So then you are no longer strangers and aliens, but you are citizens with the saints and also members of the household of God,"
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-18",
+      "type": "commentary",
+      "text": "19 : , a civic metaphor for Gentiles’ full inclusion among God's people (1.5,11–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ephe-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-20",
+      "type": "commentary",
+      "text": "20 : , early Christian prophets (3.5; 4.11; 1 Cor 14). , either the foundation (Isa 28.16) or the capstone ( . 22.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ephe-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "In him the whole structure is joined together and grows into a holy temple in the Lord;"
+    },
+    {
+      "block_id": "oxford-ephe-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "in whom you also are built together spiritually into a dwelling place for God."
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-10",
+      "type": "commentary",
+      "text": "2.11–22: The unity of Jews and Gentiles in the church.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-19",
+      "type": "commentary",
+      "text": "20–22 : An extended architectural metaphor to describe the dependence of God's people on each other and on the Lord Jesus (4.15–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ephe-2-h1kj-21",
+      "type": "commentary",
+      "text": "21–22 : , the community embodies the presence of God; the Essenes held a similar view of themselves in contrast to the Jerusalem Temple (1QS 8.4–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    }
+  ]
+}

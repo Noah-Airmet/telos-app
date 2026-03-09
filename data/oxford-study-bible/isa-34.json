@@ -1,0 +1,229 @@
+{
+  "document_id": "isa-34",
+  "title": "Isaiah 34",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-34-heading-35",
+      "type": "heading",
+      "text": "35"
+    },
+    {
+      "block_id": "oxford-isa-34-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For the Lord is enraged against all the nations, and furious against all their hordes; he has doomed them, has given them over for slaughter."
+    },
+    {
+      "block_id": "oxford-isa-34-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Their slain shall be cast out, and the stench of their corpses shall rise; the mountains shall flow with their blood."
+    },
+    {
+      "block_id": "oxford-isa-34-4",
+      "type": "verse",
+      "number": 4,
+      "text": "All the host of heaven shall rot away, and the skies roll up like a scroll. All their host shall wither like a leaf withering on a vine, or fruit withering on a fig tree."
+    },
+    {
+      "block_id": "oxford-isa-34-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When my sword has drunk its fill in the heavens, lo, it will descend upon Edom, upon the people I have doomed to judgment."
+    },
+    {
+      "block_id": "oxford-isa-34-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The Lord has a sword; it is sated with blood, it is gorged with fat, with the blood of lambs and goats, with the fat of the kidneys of rams. For the Lord has a sacrifice in Bozrah, a great slaughter in the land of Edom."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-5",
+      "type": "commentary",
+      "text": "6 : : a major city in Edom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-isa-34-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Wild oxen shall fall with them, and young steers with the mighty bulls. Their land shall be soaked with blood, and their soil made rich with fat."
+    },
+    {
+      "block_id": "oxford-isa-34-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For the Lord has a day of vengeance, a year of vindication by Zion's cause."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-6",
+      "type": "commentary",
+      "text": "8 : The passage takes up the “day of the ” theme (cf. 2.10–21; 13.6–16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-isa-34-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And the streams of Edom shall be turned into pitch, and her soil into sulfur; her land shall become burning pitch."
+    },
+    {
+      "block_id": "oxford-isa-34-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Night and day it shall not be quenched; its smoke shall go up forever. From generation to generation it shall lie waste; no one shall pass through it forever and ever."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-7",
+      "type": "commentary",
+      "text": "9–10 : The fate of Edom will resemble that of Sodom and Gomorrah (Gen 19.24–28), located at the southern end of the Dead Sea by Edom.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-isa-34-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But the hawk and the hedgehoga shall possess it; the owla and the raven shall live in it. He shall stretch the line of confusion over it, and the plummet of chaos over its nobles."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-8",
+      "type": "commentary",
+      "text": "11 : Confusion (Heb “tohu”) and chaos (Heb “bohu”) are terms employed to describe primeval chaos prior to creation (Gen 1.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-isa-34-12",
+      "type": "verse",
+      "number": 12,
+      "text": "They shall name it No Kingdom There, and all its princes shall be nothing."
+    },
+    {
+      "block_id": "oxford-isa-34-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Thorns shall grow over its strongholds, nettles and thistles in its fortresses. It shall be the haunt of jackals, an abode for ostriches."
+    },
+    {
+      "block_id": "oxford-isa-34-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Wildcats shall meet with hyenas, goat-demons shall call to each other; there too Lilith shall repose, and find a place to rest."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-9",
+      "type": "commentary",
+      "text": "14 : is a hostile goddess associated with the night in Sumerian mythology. In later Jewish folklore, she is known as Adam's first wife who gives birth to demons.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-isa-34-15",
+      "type": "verse",
+      "number": 15,
+      "text": "There shall the owl nest and lay and hatch and brood in its shadow; there too the buzzards shall gather, each one with its mate."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-4",
+      "type": "commentary",
+      "text": "1–15 : The address to the nations calls their attention to Edom's punishment. The portrayal of destruction employs the images of sacrifice.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-isa-34-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Seek and read from the book of the Lord: Not one of these shall be missing; none shall be without its mate. For the mouth of the Lord has commanded, and his spirit has gathered them."
+    },
+    {
+      "block_id": "oxford-isa-34-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He has cast the lot for them, his hand has portioned it out to them with the line; they shall possess it forever, from generation to generation they shall live in it."
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-1",
+      "type": "commentary",
+      "text": "34.1–66.24: Concerning the realization of the Lord's plans for revealing worldwide sovereignty from Zion. Whereas chs 1–33 anticipate the revelation of the 's worldwide sovereignty at Zion, the second half of the book in chs 34–66 presupposes that the time is at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-2",
+      "type": "commentary",
+      "text": "34.1–35.10: Prophetic instruction concerning the Lord's power to return the redeemed exiles to Zion. Chs 34–35 introduce the second half of the book of Zion with an emphasis on the judgment of the nations, represented by Edom, and the return of the exiles to Zion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-3",
+      "type": "commentary",
+      "text": "34.1–17: Prophetic instruction concerning the Lord's power over the nations. Chapter 34 emphasizes the ’s power over the nations by focusing especially on the fate of Edom, Israel's neighbor to the southeast (cf. 63.1–6). Edom, which is condemned in biblical literature for its role in the destruction of Jerusalem (Jer 49.7–22; Ezek 25.12–17; Ob; Ps 137.7; Lam 4.21–22), began to decline in the sixth century as Arab tribes began to encroach upon Edomite territory. This decline provides a counterpart for the judgment leveled against Israel and Jerusalem in ch 1. Links between chs 34 and 1 include parallel calls to attention (34.1; 1.2); the 's vengeance (34.8; 1.24); unquenchable burning (34.10; 1.24); the mouth of the that has spoken (34.16; 1.20); the sword of punishment (34.5,6; 1.20); the sacrificial blood and fat of cattle (34.6–7; 1.11–15); Sodom and Gomorrah (34.9–10; 1.7–9,10); and wilting leaves (34.4; 1.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-isa-34-h1kj-10",
+      "type": "commentary",
+      "text": "16–17 : , perhaps the book of Isaiah as it then existed. The second address asks the reader to search the book for confirmation of the 's purpose concerning the nations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 34
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    }
+  ]
+}

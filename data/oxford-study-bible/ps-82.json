@@ -1,0 +1,145 @@
+{
+  "document_id": "ps-82",
+  "title": "Psalms 82",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-82-heading-psalm-83",
+      "type": "heading",
+      "text": "Psalm 83"
+    },
+    {
+      "block_id": "oxford-ps-82-1",
+      "type": "verse",
+      "number": 1,
+      "text": "God has taken his place in the divine council; in the midst of the gods he holds judgment:"
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 82: Petition for divine justice. As in Ps 29 (cf. Pss 58 and 75), the setting is the assembly of the heavenly beings, who were thought to rule the nations of the earth under God’s supervision (cf. Deut 32.8–9). This psalm tells how these beings lost their authority by ruling unjustly, and how God took over their rule. A variant of this judgment scene is Ps 58.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , in 1 Kings 22.19–22; Isa 6; 40.1–9, the assembly is thoroughly obedient to God. In Ps 82, however, some of the gods are summoned to trial, found guilty of misrule, and punished with mortality (i.e., loss of divine status).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-82-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“How long will you judge unjustly and show partiality to the wicked? Selah"
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-82-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Give justice to the weak and the orphan; maintain the right of the lowly and the destitute."
+    },
+    {
+      "block_id": "oxford-ps-82-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Rescue the weak and the needy; deliver them from the hand of the wicked.”"
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-3",
+      "type": "commentary",
+      "text": "2–4 : Acting both as prosecuting attorney and judge, God accuses them of not giving , i.e., not aiding them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-82-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They have neither knowledge nor understanding, they walk around in darkness; all the foundations of the earth are shaken."
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-5",
+      "type": "commentary",
+      "text": "5 : Either a comment of the psalmist or the heavenly prosecutor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-82-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I say, “You are gods, children of the Most High, all of you;"
+    },
+    {
+      "block_id": "oxford-ps-82-7",
+      "type": "verse",
+      "number": 7,
+      "text": "nevertheless, you shall die like mortals, and fall like any prince.”"
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-6",
+      "type": "commentary",
+      "text": "6–7 : The verdict.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-82-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Rise up, O God, judge the earth; for all the nations belong to you!"
+    },
+    {
+      "block_id": "oxford-ps-82-h1kj-7",
+      "type": "commentary",
+      "text": "8 : The implication of what precedes: a call for , now acting alone, to fairly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 82
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

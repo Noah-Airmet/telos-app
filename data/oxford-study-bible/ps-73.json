@@ -1,0 +1,241 @@
+{
+  "document_id": "ps-73",
+  "title": "Psalms 73",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-73-heading-psalm-74",
+      "type": "heading",
+      "text": "Psalm 74"
+    },
+    {
+      "block_id": "oxford-ps-73-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Truly God is good to the upright, to those who are pure in heart."
+    },
+    {
+      "block_id": "oxford-ps-73-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 73: Declaration of trust. Though sometimes classed as a wisdom psalm because it explores the problem of evil, the psalm actually records the psalmist’s passage from despair at the apparent triumph of the wicked (vv. 3–12), through various stratagems to solve the problem (vv. 13–17), to a final appreciation of God’s justice, nearness, and care (vv. 18–28). The psalm concludes that the wicked may triumph, but only temporarily. It opens a collection of psalms attributed to Asaph (73–83; see Ps 50n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-73-2",
+      "type": "verse",
+      "number": 2,
+      "text": "But as for me, my feet had almost stumbled; my steps had nearly slipped."
+    },
+    {
+      "block_id": "oxford-ps-73-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For I was envious of the arrogant; I saw the prosperity of the wicked."
+    },
+    {
+      "block_id": "oxford-ps-73-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For they have no pain; their bodies are sound and sleek."
+    },
+    {
+      "block_id": "oxford-ps-73-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They are not in trouble as others are; they are not plagued like other people."
+    },
+    {
+      "block_id": "oxford-ps-73-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Therefore pride is their necklace; violence covers them like a garment."
+    },
+    {
+      "block_id": "oxford-ps-73-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Their eyes swell out with fatness; their hearts overflow with follies."
+    },
+    {
+      "block_id": "oxford-ps-73-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They scoff and speak with malice; loftily they threaten oppression."
+    },
+    {
+      "block_id": "oxford-ps-73-9",
+      "type": "verse",
+      "number": 9,
+      "text": "They set their mouths against heaven, and their tongues range over the earth."
+    },
+    {
+      "block_id": "oxford-ps-73-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Therefore the people turn and praise them, and find no fault in them."
+    },
+    {
+      "block_id": "oxford-ps-73-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And they say, “How can God know? Is there knowledge in the Most High?”"
+    },
+    {
+      "block_id": "oxford-ps-73-h1kj-2",
+      "type": "commentary",
+      "text": "3–11 : Verses 3–7 tell what the psalmist (evildoers’ well‐fed bodies) and vv. 8–11 tell what the psalmist (their arrogant words).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73
+      },
+      "verse_start": 3,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-73-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Such are the wicked; always at ease, they increase in riches."
+    },
+    {
+      "block_id": "oxford-ps-73-13",
+      "type": "verse",
+      "number": 13,
+      "text": "All in vain I have kept my heart clean and washed my hands in innocence."
+    },
+    {
+      "block_id": "oxford-ps-73-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For all day long I have been plagued, and am punished every morning."
+    },
+    {
+      "block_id": "oxford-ps-73-15",
+      "type": "verse",
+      "number": 15,
+      "text": "If I had said, “I will talk on in this way,” I would have been untrue to the circle of your children."
+    },
+    {
+      "block_id": "oxford-ps-73-16",
+      "type": "verse",
+      "number": 16,
+      "text": "But when I thought how to understand this, it seemed to me a wearisome task,"
+    },
+    {
+      "block_id": "oxford-ps-73-17",
+      "type": "verse",
+      "number": 17,
+      "text": "until I went into the sanctuary of God; then I perceived their end."
+    },
+    {
+      "block_id": "oxford-ps-73-h1kj-3",
+      "type": "commentary",
+      "text": "17 : Rejecting such strategies as criticizing God’s injustice like Job (v. 15) or trying to reason about it (v. 16), the psalmist resolves to confront God in , where God is especially present, and there comes to understand the of the wicked: they will be swept away suddenly (vv. 18–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-ps-73-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Truly you set them in slippery places; you make them fall to ruin."
+    },
+    {
+      "block_id": "oxford-ps-73-19",
+      "type": "verse",
+      "number": 19,
+      "text": "How they are destroyed in a moment, swept away utterly by terrors!"
+    },
+    {
+      "block_id": "oxford-ps-73-20",
+      "type": "verse",
+      "number": 20,
+      "text": "They are like a dream when one awakes; on awaking you despise their phantoms."
+    },
+    {
+      "block_id": "oxford-ps-73-21",
+      "type": "verse",
+      "number": 21,
+      "text": "When my soul was embittered, when I was pricked in heart,"
+    },
+    {
+      "block_id": "oxford-ps-73-22",
+      "type": "verse",
+      "number": 22,
+      "text": "I was stupid and ignorant; I was like a brute beast toward you."
+    },
+    {
+      "block_id": "oxford-ps-73-h1kj-4",
+      "type": "commentary",
+      "text": "21–22 : An admission of guilt, encouraging others not to entertain such and ish thoughts.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73
+      },
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ps-73-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Nevertheless I am continually with you; you hold my right hand."
+    },
+    {
+      "block_id": "oxford-ps-73-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You guide me with your counsel, and afterward you will receive me with honor."
+    },
+    {
+      "block_id": "oxford-ps-73-h1kj-5",
+      "type": "commentary",
+      "text": "24 : , elevate to the security of God’s domain, a metaphor derived from the elevation of Enoch (Gen 5.24), Elijah (2 Kings 2.11–12), and the psalmist in Ps 49.15.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 73
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ps-73-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Whom have I in heaven but you? And there is nothing on earth that I desire other than you."
+    },
+    {
+      "block_id": "oxford-ps-73-26",
+      "type": "verse",
+      "number": 26,
+      "text": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
+    },
+    {
+      "block_id": "oxford-ps-73-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Indeed, those who are far from you will perish; you put an end to those who are false to you."
+    },
+    {
+      "block_id": "oxford-ps-73-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But for me it is good to be near God; I have made the Lord God my refuge, to tell of all your works."
+    }
+  ]
+}

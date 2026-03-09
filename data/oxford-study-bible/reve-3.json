@@ -1,0 +1,379 @@
+{
+  "document_id": "reve-3",
+  "title": "reve 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-reve-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-reve-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Wake up, and strengthen what remains and is on the point of death, for I have not found your works perfect in the sight of my God."
+    },
+    {
+      "block_id": "oxford-reve-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Remember then what you received and heard; obey it, and repent. If you do not wake up, I will come like a thief, and you will not know at what hour I will come to you."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the gospel. , just when unexpected (16.15; Mt 24.42–44; 1 Thess 5.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-reve-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Yet you have still a few persons in Sardis who have not soiled their clothes; they will walk with me, dressed in white, for they are worthy."
+    },
+    {
+      "block_id": "oxford-reve-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If you conquer, you will be clothed like them in white robes, and I will not blot your name out of the book of life; I will confess your name before my Father and before his angels."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-5",
+      "type": "commentary",
+      "text": "4–5 : , not impurity/purity, but surrender/conquest (see 2.17n.). are a frequent image; see 3.18; 4.4; 6.11; 7.9; 19.14; cf. Zech 3.3–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , the heavenly register containing the names of the redeemed (13.8; 17.8; 20.12,15; Ex 32.32; Ps 69.28; Dan 12.1; Mal 3.16; Lk 10.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-reve-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let anyone who has an ear listen to what the Spirit is saying to the churches."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–6: The fifth message is addressed to Sardis, a prosperous city located ca. 55 mi (85 km) northeast of Ephesus that had been the capital of the kingdom of Lydia.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-reve-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "“And to the angel of the church in Philadelphia write: These are the words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens:"
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , a symbol of authority (Isa 22.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-reve-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "“I know your works. Look, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , of opportunity (1 Cor 16.9; 2 Cor 2.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-reve-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I will make those of the synagogue of Satan who say that they are Jews and are not, but are lying—I will make them come and bow down before your feet, and they will learn that I have loved you."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , see 2.9n. On tension between followers of Jesus and Jews in Philadelphia, see Ignatius, 6.1. , Isa 43.4; 60.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-reve-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Because you have kept my word of patient endurance, I will keep you from the hour of trial that is coming on the whole world to test the inhabitants of the earth."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-11",
+      "type": "commentary",
+      "text": "10 : Despite its weakness (v. 8), the Philadelphian church will be safeguarded during the eschatological tribulation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-reve-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I am coming soon; hold fast to what you have, so that no one may seize your crown."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-12",
+      "type": "commentary",
+      "text": "11 : , 22.7,12,20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-reve-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "If you conquer, I will make you a pillar in the temple of my God; you will never go out of it. I will write on you the name of my God, and the name of the city of my God, the new Jerusalem that comes down from my God out of heaven, and my own new name."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , steadfast and permanent (Gal 2.9). , 21.2. , marking the one inscribed as God's possession and as specially dedicated to God. , signifying citizenship in the new Jerusalem; see 21.2,10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-reve-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Let anyone who has an ear listen to what the Spirit is saying to the churches."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-7",
+      "type": "commentary",
+      "text": "3.7–13: The sixth message is addressed to the church in Philadelphia, a small town 80 mi (50 km) southeast of Sardis.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-reve-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "“And to the angel of the church in Laodicea write: The words of the Amen, the faithful and true witness, the origin of God's creation:"
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-15",
+      "type": "commentary",
+      "text": "14 : is Jesus Christ (2 Cor 1.20). , 1.5. This list of titles may derive from a Gk translation of Isa 65.16. , Jesus Christ is the principle and source of all creation (Jn 1.3; Col 1.15,18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-reve-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "“I know your works; you are neither cold nor hot. I wish that you were either cold or hot."
+    },
+    {
+      "block_id": "oxford-reve-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "So, because you are lukewarm, and neither cold nor hot, I am about to spit you out of my mouth."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-16",
+      "type": "commentary",
+      "text": "15–16 : Their lukewarm commitment is nauseating: .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-reve-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For you say, ‘I am rich, I have prospered, and I need nothing.’ You do not realize that you are wretched, pitiable, poor, blind, and naked."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-17",
+      "type": "commentary",
+      "text": "17 : Complacent and self-satisfied, they are spiritually poverty-stricken (Hos 12.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-reve-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Therefore I counsel you to buy from me gold refined by fire so that you may be rich; and white robes to clothe you and to keep the shame of your nakedness from being seen; and salve to anoint your eyes so that you may see."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-18",
+      "type": "commentary",
+      "text": "18 : , an idiom for removing sin from one's life (Job 23.10; Prov 27.21). A commercial transaction is used here as a metaphor for accepting salvation. , Laodicea was noted for its manufacture of a medication for ophthalmic diseases.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-reve-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "I reprove and discipline those whom I love. Be earnest, therefore, and repent."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-19",
+      "type": "commentary",
+      "text": "19 : God's chastening has beneficent motives (Prov 3.12; Heb 12.5–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-reve-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Listen! I am standing at the door, knocking; if you hear my voice and open the door, I will come in to you and eat with you, and you with me."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-20",
+      "type": "commentary",
+      "text": "20 : An invitation to participate in the messianic banquet in the coming age (cf. Mt 26.29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-reve-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "To the one who conquers I will give a place with me on my throne, just as I myself conquered and sat down with my Father on his throne."
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-21",
+      "type": "commentary",
+      "text": "21 : , a promise of reigning with Jesus in glory (22.5; Lk 22.30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-reve-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Let anyone who has an ear listen to what the Spirit is saying to the churches.”"
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-1",
+      "type": "commentary",
+      "text": "2.1–3.22: The messages to the seven churches, each containing an address, a descriptive phrase referring to the risen Christ, a commendation or condemnation of the church addressed, an admonition, and a concluding promise and exhortation to the faithful. For the location of the seven churches, see .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-reve-3-h1kj-14",
+      "type": "commentary",
+      "text": "3.14–22: The seventh message is directed to the church in Laodicea, a wealthy city located near Colossae (Col 2.1; 4.13–16), 95 mi (155 km) east of Ephesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "reve",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 22
+    }
+  ]
+}

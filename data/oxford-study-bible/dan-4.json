@@ -1,0 +1,602 @@
+{
+  "document_id": "dan-4",
+  "title": "Daniel 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-dan-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "King Nebuchadnezzar to all peoples, nations, and languages that live throughout the earth: May you have abundant prosperity!"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , Nebuchadnezzar is presented as monarch of a universal, multiethnic empire (see 2.38; 3.4,7,29; 6.25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-dan-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The signs and wonders that the Most High God has worked for me I am pleased to recount."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , a phrase used also to describe God's actions with Pharaoh in the Exodus (see Ex 7.3; Deut 6.22; 7.19; 26.8; 29.2–3; 34.11; Pss 105.27; 135.9). , see 3.26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-dan-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "How great are his signs, how mighty his wonders! His kingdom is an everlasting kingdom, and his sovereignty is from generation to generation."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–3: Nebuchadnezzar's praise. See also 2.20–23; 4.34–35; 6.26–27. The doxologies were inserted to connect the tales. Because 3.29 mentioned a decree addressed to “any people, nation, or language,” some interpreters took 4.1–3 to be the text of that decree and understood it to be the conclusion of that narrative. The chapter and verse numbering in the Tanakh reflects this interpretation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , similar to Daniel's statement in 2.44 (cf. 7.27; see also Ps 145.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-dan-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I, Nebuchadnezzar, was living at ease in my home and prospering in my palace."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-6",
+      "type": "commentary",
+      "text": "4 : The king narrates the dream report. The narration changes to third-person in vv. 19–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-dan-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "I saw a dream that frightened me; my fantasies in bed and the visions of my head terrified me."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-7",
+      "type": "commentary",
+      "text": "5 : Disturbing dreams were bad portents of the future (see 2.1n.; 2.3; 7.1,15; 8.27) and are a recurring motif in court tales (cf. Gen 40.6; 41.8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-dan-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So I made a decree that all the wise men of Babylon should be brought before me, in order that they might tell me the interpretation of the dream."
+    },
+    {
+      "block_id": "oxford-dan-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then the magicians, the enchanters, the Chaldeans, and the diviners came in, and I told them the dream, but they could not tell me its interpretation."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , see 1.20n.; 2.2n. The failure of the non-Jewish courtiers recalls 2.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-dan-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "At last Daniel came in before me—he who was named Belteshazzar after the name of my god, and who is endowed with a spirit of the holy gods— and I told him the dream:"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , see 1.7n., 2.26n. The name's etymology is inaccurate; it does not refer to the god Bel (i.e., Marduk). , can also be translated “spirit of the holy God” (see Gen 41.38; Josh 24.19). refers to Daniel's divinely given abilities (see 2.47).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-dan-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“O Belteshazzar, chief of the magicians, I know that you are endowed with a spirit of the holy godsb and that no mystery is too difficult for you. Hear the dream that I saw; tell me its interpretation."
+    },
+    {
+      "block_id": "oxford-dan-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Upon my bed this is what I saw; there was a tree at the center of the earth, and its height was great."
+    },
+    {
+      "block_id": "oxford-dan-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The tree grew great and strong, its top reached to heaven, and it was visible to the ends of the whole earth."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , evokes pridefulness (Gen 11.4; see Dan 1.2n.) although the tree is also the source of nurture for the animals (see Ezek 31.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-dan-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Its foliage was beautiful, its fruit abundant, and it provided food for all. The animals of the field found shade under it, the birds of the air nested in its branches, and from it all living beings were fed."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-10",
+      "type": "commentary",
+      "text": "10–12 : , a widespread image in the ancient Near East; here it refers to the king's role in maintaining the divine order of the world (see Ezek 17; 31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-dan-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“I continued looking, in the visions of my head as I lay in bed, and there was a holy watcher, coming down from heaven."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-12",
+      "type": "commentary",
+      "text": "13 : , an angel (4.17,23; 8.13; a common term for angels in , and ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-dan-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He cried aloud and said: ‘Cut down the tree and chop off its branches, strip off its foliage and scatter its fruit. Let the animals flee from beneath it and the birds from its branches."
+    },
+    {
+      "block_id": "oxford-dan-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But leave its stump and roots in the ground, with a band of iron and bronze, in the tender grass of the field. Let him be bathed with the dew of heaven, and let his lot be with the animals of the field in the grass of the earth."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-13",
+      "type": "commentary",
+      "text": "15 : , may symbolize a shackle for the king. , the imagery shifts from the king as the tree to the king as a wild beast.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-dan-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Let his mind be changed from that of a human, and let the mind of an animal be given to him. And let seven times pass over him."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-14",
+      "type": "commentary",
+      "text": "16 : The king is demoted from his elevated status to being the basest of animals. , seven years.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-dan-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "The sentence is rendered by decree of the watchers, the decision is given by order of the holy ones, in order that all who live may know that the Most High is sovereign over the kingdom of mortals; he gives it to whom he will and sets over it the lowliest of human beings.’"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-15",
+      "type": "commentary",
+      "text": "17 : , see Jer 27.5–6. , synonymous with watchers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-dan-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "“This is the dream that I, King Nebuchadnezzar, saw. Now you, Belteshazzar, declare the interpretation, since all the wise men of my kingdom are unable to tell me the interpretation. You are able, however, for you are endowed with a spirit of the holy gods.”"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-5",
+      "type": "commentary",
+      "text": "4.4–18: Nebuchadnezzar's dream of the tree. This story, like aspects of chs 2 and 3, originated with remembrances of Nabonidus, which were transferred to Nebuchadnezzar (see 2.1–12n.; 3.1–7n.; 5.2n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-dan-4-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then Daniel, who was called Belteshazzar, was severely distressed for a while. His thoughts terrified him. The king said, “Belteshazzar, do not let the dream or the interpretation terrify you.” Belteshazzar answered, “My lord, may the dream be for those who hate you, and its interpretation for your enemies!"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-17",
+      "type": "commentary",
+      "text": "19 : Daniel's distress shows sympathy for the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-dan-4-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The tree that you saw, which grew great and strong, so that its top reached to heaven and was visible to the end of the whole earth,"
+    },
+    {
+      "block_id": "oxford-dan-4-21",
+      "type": "verse",
+      "number": 21,
+      "text": "whose foliage was beautiful and its fruit abundant, and which provided food for all, under which animals of the field lived, and in whose branches the birds of the air had nests—"
+    },
+    {
+      "block_id": "oxford-dan-4-22",
+      "type": "verse",
+      "number": 22,
+      "text": "it is you, O king! You have grown great and strong. Your greatness has increased and reaches to heaven, and your sovereignty to the ends of the earth."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-18",
+      "type": "commentary",
+      "text": "22 : The king's power is all-encompassing, much as in 2.37–38.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-dan-4-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And whereas the king saw a holy watcher coming down from heaven and saying, ‘Cut down the tree and destroy it, but leave its stump and roots in the ground, with a band of iron and bronze, in the grass of the field; and let him be bathed with the dew of heaven, and let his lot be with the animals of the field, until seven times pass over him’—"
+    },
+    {
+      "block_id": "oxford-dan-4-24",
+      "type": "verse",
+      "number": 24,
+      "text": "this is the interpretation, O king, and it is a decree of the Most High that has come upon my lord the king:"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-19",
+      "type": "commentary",
+      "text": "24 : , see 3.26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-dan-4-25",
+      "type": "verse",
+      "number": 25,
+      "text": "You shall be driven away from human society, and your dwelling shall be with the wild animals. You shall be made to eat grass like oxen, you shall be bathed with the dew of heaven, and seven times shall pass over you, until you have learned that the Most High has sovereignty over the kingdom of mortals, and gives it to whom he will."
+    },
+    {
+      "block_id": "oxford-dan-4-26",
+      "type": "verse",
+      "number": 26,
+      "text": "As it was commanded to leave the stump and roots of the tree, your kingdom shall be re-established for you from the time that you learn that Heaven is sovereign."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-20",
+      "type": "commentary",
+      "text": "26 : , a circumlocution for God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-dan-4-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Therefore, O king, may my counsel be acceptable to you: atone for your sins with righteousness, and your iniquities with mercy to the oppressed, so that your prosperity may be prolonged.”"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-16",
+      "type": "commentary",
+      "text": "4.19–27: Daniel's interpretation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 19,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-21",
+      "type": "commentary",
+      "text": "27 : The judgment is irrevocable, but the king's righteousness (lit., “almsgiving”) will delay the sentence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-dan-4-28",
+      "type": "verse",
+      "number": 28,
+      "text": "All this came upon King Nebuchadnezzar."
+    },
+    {
+      "block_id": "oxford-dan-4-29",
+      "type": "verse",
+      "number": 29,
+      "text": "At the end of twelve months he was walking on the roof of the royal palace of Babylon,"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-23",
+      "type": "commentary",
+      "text": "29 : may suggest royal arrogance (see 2 Sam 11.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-dan-4-30",
+      "type": "verse",
+      "number": 30,
+      "text": "and the king said, “Is this not magnificent Babylon, which I have built as a royal capital by my mighty power and for my glorious majesty?”"
+    },
+    {
+      "block_id": "oxford-dan-4-31",
+      "type": "verse",
+      "number": 31,
+      "text": "While the words were still in the king's mouth, a voice came from heaven: “O King Nebuchadnezzar, to you it is declared: The kingdom has departed from you!"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-24",
+      "type": "commentary",
+      "text": "31 : , see v. 13. A heavenly voice becomes an increasingly common motif in Second Temple Jewish and early Christian writings (Mt 3.17; Mk 1.11; Lk 3.22; many instances in rabbinic texts).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-dan-4-32",
+      "type": "verse",
+      "number": 32,
+      "text": "You shall be driven away from human society, and your dwelling shall be with the animals of the field. You shall be made to eat grass like oxen, and seven times shall pass over you, until you have learned that the Most High has sovereignty over the kingdom of mortals and gives it to whom he will.”"
+    },
+    {
+      "block_id": "oxford-dan-4-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Immediately the sentence was fulfilled against Nebuchadnezzar. He was driven away from human society, ate grass like oxen, and his body was bathed with the dew of heaven, until his hair grew as long as eagles’ feathers and his nails became like birds’ claws."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-22",
+      "type": "commentary",
+      "text": "4.28–33: Nebuchadnezzar's transformation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 28,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-25",
+      "type": "commentary",
+      "text": "32–33 : The king's affliction and banishment may reflect Nabonidus's experiences. In (4Q242) from Qumran, the king was afflicted by God for seven years and healed by an unnamed Jewish exorcist. In reality, Nabonidus departed Babylon and spent ten years in the remote town of Tema in northern Arabia.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 32,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-26",
+      "type": "commentary",
+      "text": "33 : anticipates the description of the first beast in 7.4 and its transformation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-dan-4-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When that period was over, I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me. I blessed the Most High, and praised and honored the one who lives forever. For his sovereignty is an everlasting sovereignty, and his kingdom endures from generation to generation."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-28",
+      "type": "commentary",
+      "text": "34 : The king is restored only after the period of punishment has been fulfilled. With the restoration of Nebuchadnezzar's sanity, the first-person narration resumes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-dan-4-35",
+      "type": "verse",
+      "number": 35,
+      "text": "All the inhabitants of the earth are accounted as nothing, and he does what he wills with the host of heaven and the inhabitants of the earth. There is no one who can stay his hand or say to him, “What are you doing?”"
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-29",
+      "type": "commentary",
+      "text": "34–35 : The language echoes and expands the opening doxology (v. 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 34,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-dan-4-36",
+      "type": "verse",
+      "number": 36,
+      "text": "At that time my reason returned to me; and my majesty and splendor were restored to me for the glory of my kingdom. My counselors and my lords sought me out, I was re-established over my kingdom, and still more greatness was added to me."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-30",
+      "type": "commentary",
+      "text": "36 : The king's power is connected to his knowledge of God's sovereignty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 36,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-dan-4-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven, for all his works are truth, and his ways are justice; and he is able to bring low those who walk in pride."
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-27",
+      "type": "commentary",
+      "text": "4.34–37: Restoration of the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 34,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-dan-4-h1kj-31",
+      "type": "commentary",
+      "text": "37 : Nebuchadnezzar's final words form the climax to the cycle of stories about him. , a term found only in the Bible (see 5.23), unlike (v. 34) which was used by Jews and gentiles alike.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 4
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    }
+  ]
+}

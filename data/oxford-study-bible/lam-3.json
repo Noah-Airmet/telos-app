@@ -1,0 +1,799 @@
+{
+  "document_id": "lam-3",
+  "title": "Lamentations 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lam-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-lam-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "he has driven and brought me into darkness without any light;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , like a flock (cf. Isa 40.11; Ps 78.52–53).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lam-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "against me alone he turns his hand, again and again, all day long."
+    },
+    {
+      "block_id": "oxford-lam-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He has made my flesh and my skin waste away, and broken my bones;"
+    },
+    {
+      "block_id": "oxford-lam-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "he has besieged and enveloped me with bitterness and tribulation;"
+    },
+    {
+      "block_id": "oxford-lam-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "he has made me sit in darkness like the dead of long ago."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-5",
+      "type": "commentary",
+      "text": "6 : : Exile is often compared to darkness, prison, and death. In exile the Judeans were cut off from access to God's Temple, like a dead person. , better, “like the eternally dead,” who have no hope of life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-lam-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He has walled me about so that I cannot escape; he has put heavy chains on me;"
+    },
+    {
+      "block_id": "oxford-lam-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "though I call and cry for help, he shuts out my prayer;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-6",
+      "type": "commentary",
+      "text": "8 : , see 3.44n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lam-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "he has blocked my ways with hewn stones, he has made my paths crooked."
+    },
+    {
+      "block_id": "oxford-lam-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "He is a bear lying in wait for me, a lion in hiding;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-7",
+      "type": "commentary",
+      "text": "10 : , from being a bad shepherd God changes into the dangerous wild animals from whom the shepherd should protect his flock (cf. 1 Sam 17.34–37).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lam-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "he led me off my way and tore me to pieces; he has made me desolate;"
+    },
+    {
+      "block_id": "oxford-lam-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "he bent his bow and set me as a mark for his arrow."
+    },
+    {
+      "block_id": "oxford-lam-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He shot into my vitals the arrows of his quiver;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-8",
+      "type": "commentary",
+      "text": "12–13 : Instead of shooting at the wild animals, God shoots at the speaker. God is elsewhere a divine archer who shoots disaster from his bow; cf. Deut 32.23–24; Ps 38.2; Job 16.12–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-lam-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I have become the laughingstock of all my people, the object of their taunt-songs all day long."
+    },
+    {
+      "block_id": "oxford-lam-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He has filled me with bitterness, he has sated me with wormwood."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-9",
+      "type": "commentary",
+      "text": "15 : . , a common symbol of suffering, see 3.19; 4.21; Jer 9.14; Job 9.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-lam-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He has made my teeth grind on gravel, and made me cower in ashes;"
+    },
+    {
+      "block_id": "oxford-lam-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "my soul is bereft of peace; I have forgotten what happiness is;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-10",
+      "type": "commentary",
+      "text": "17 : , my being or self.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lam-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "so I say, “Gone is my glory, and all that I had hoped for from the Lord.”"
+    },
+    {
+      "block_id": "oxford-lam-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The thought of my affliction and my homelessness is wormwood and gall!"
+    },
+    {
+      "block_id": "oxford-lam-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "My soul continually thinks of it and is bowed down within me."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–20: The lament of the male persona, who speaks in the voice of a survivor in exile, or perhaps in the collective voice of the people. Verses 1–13 imagine God as a bad shepherd who leads his flock into dark and dangerous places (exile), in stark contrast to the image of God as a good shepherd (as in Ps 23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lam-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But this I call to mind, and therefore I have hope:"
+    },
+    {
+      "block_id": "oxford-lam-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The steadfast love of the Lord never ceases, his mercies never come to an end;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-12",
+      "type": "commentary",
+      "text": "22 : , attributes of God representing covenant loyalty (Ex 34.6–7; see also 2 Sam 7.15; Ps 89.1–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-3-23",
+      "type": "verse",
+      "number": 23,
+      "text": "they are new every morning; great is your faithfulness."
+    },
+    {
+      "block_id": "oxford-lam-3-24",
+      "type": "verse",
+      "number": 24,
+      "text": "“The Lord is my portion,” says my soul, “therefore I will hope in him.”"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-11",
+      "type": "commentary",
+      "text": "3.21–24: Despair turns to hope in these transitional verses framed by .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 21,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-13",
+      "type": "commentary",
+      "text": "24 : , Pss 119.57; 142.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-lam-3-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The Lord is good to those who wait for him, to the soul that seeks him."
+    },
+    {
+      "block_id": "oxford-lam-3-26",
+      "type": "verse",
+      "number": 26,
+      "text": "It is good that one should wait quietly for the salvation of the Lord."
+    },
+    {
+      "block_id": "oxford-lam-3-27",
+      "type": "verse",
+      "number": 27,
+      "text": "It is good for one to bear the yoke in youth,"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-15",
+      "type": "commentary",
+      "text": "25–27 : begins each verse, applied to God and to human patience. Humans must wait for God's merciful help, and in the meantime accept the burden of their suffering ( ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 25,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-lam-3-28",
+      "type": "verse",
+      "number": 28,
+      "text": "to sit alone in silence when the Lord has imposed it,"
+    },
+    {
+      "block_id": "oxford-lam-3-29",
+      "type": "verse",
+      "number": 29,
+      "text": "to put one's mouth to the dust (there may yet be hope),"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-16",
+      "type": "commentary",
+      "text": "29 : , accept God's discipline submissively (cf. Mic 7.17; Ps 72.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-lam-3-30",
+      "type": "verse",
+      "number": 30,
+      "text": "to give one's cheek to the smiter, and be filled with insults."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-17",
+      "type": "commentary",
+      "text": "30 : Isa 50.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-lam-3-31",
+      "type": "verse",
+      "number": 31,
+      "text": "For the Lord will not reject forever."
+    },
+    {
+      "block_id": "oxford-lam-3-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Although he causes grief, he will have compassion according to the abundance of his steadfast love;"
+    },
+    {
+      "block_id": "oxford-lam-3-33",
+      "type": "verse",
+      "number": 33,
+      "text": "for he does not willingly afflict or grieve anyone."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-18",
+      "type": "commentary",
+      "text": "33 : , better “deliberately” (lit., “from his heart”). God does not mete out punishment capriciously.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-lam-3-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When all the prisoners of the land are crushed under foot,"
+    },
+    {
+      "block_id": "oxford-lam-3-35",
+      "type": "verse",
+      "number": 35,
+      "text": "when human rights are perverted in the presence of the Most High,"
+    },
+    {
+      "block_id": "oxford-lam-3-36",
+      "type": "verse",
+      "number": 36,
+      "text": "when one's case is subverted —does the Lord not see it?"
+    },
+    {
+      "block_id": "oxford-lam-3-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Who can command and have it done, if the Lord has not ordained it?"
+    },
+    {
+      "block_id": "oxford-lam-3-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Is it not from the mouth of the Most High that good and bad come?"
+    },
+    {
+      "block_id": "oxford-lam-3-39",
+      "type": "verse",
+      "number": 39,
+      "text": "Why should any who draw breath complain about the punishment of their sins?"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-14",
+      "type": "commentary",
+      "text": "3.25–39: Drawing on wisdom thought, the poem finds reasons for hope in the face of suffering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 25,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-19",
+      "type": "commentary",
+      "text": "34–39 : Standard biblical theology: all is ordained by God, who is the source of both good and evil (cf. Job 2.10; Isa 45.7); punishment received is punishment deserved.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 34,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-lam-3-40",
+      "type": "verse",
+      "number": 40,
+      "text": "Let us test and examine our ways, and return to the Lord."
+    },
+    {
+      "block_id": "oxford-lam-3-41",
+      "type": "verse",
+      "number": 41,
+      "text": "Let us lift up our hearts as well as our hands to God in heaven."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-21",
+      "type": "commentary",
+      "text": "40–41 : As if persuaded by 3.25–29, the speakers call for self-examination, repentance, and contrition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 40,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-22",
+      "type": "commentary",
+      "text": "41 : , a call for sincerity in repentance, not merely going through the motions of prayer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 41,
+      "verse_end": 41
+    },
+    {
+      "block_id": "oxford-lam-3-42",
+      "type": "verse",
+      "number": 42,
+      "text": "We have transgressed and rebelled, and you have not forgiven."
+    },
+    {
+      "block_id": "oxford-lam-3-43",
+      "type": "verse",
+      "number": 43,
+      "text": "You have wrapped yourself with anger and pursued us, killing without pity;"
+    },
+    {
+      "block_id": "oxford-lam-3-44",
+      "type": "verse",
+      "number": 44,
+      "text": "you have wrapped yourself with a cloud so that no prayer can pass through."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-23",
+      "type": "commentary",
+      "text": "42–44 : A devastating turning point: confession of sin does not bring forgiveness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 42,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-24",
+      "type": "commentary",
+      "text": "44 : , the cloud through which God revealed himself at Sinai (Ex 19.16), and which protects the people from fatal direct contact with the divine, is here perceived as a barrier that God erected to prevent prayer from reaching him; cf. 3.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-lam-3-45",
+      "type": "verse",
+      "number": 45,
+      "text": "You have made us filth and rubbish among the peoples."
+    },
+    {
+      "block_id": "oxford-lam-3-46",
+      "type": "verse",
+      "number": 46,
+      "text": "All our enemies have opened their mouths against us;"
+    },
+    {
+      "block_id": "oxford-lam-3-47",
+      "type": "verse",
+      "number": 47,
+      "text": "panic and pitfall have come upon us, devastation and destruction."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-20",
+      "type": "commentary",
+      "text": "3.40–47: Communal lament. The discourse shifts back to lament, although now in the first-person plural with direct address to God. At the beginning the tone is conciliatory, but then becomes accusatory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 40,
+      "verse_end": 47
+    },
+    {
+      "block_id": "oxford-lam-3-48",
+      "type": "verse",
+      "number": 48,
+      "text": "My eyes flow with rivers of tears because of the destruction of my people."
+    },
+    {
+      "block_id": "oxford-lam-3-49",
+      "type": "verse",
+      "number": 49,
+      "text": "My eyes will flow without ceasing, without respite,"
+    },
+    {
+      "block_id": "oxford-lam-3-50",
+      "type": "verse",
+      "number": 50,
+      "text": "until the Lord from heaven looks down and sees."
+    },
+    {
+      "block_id": "oxford-lam-3-51",
+      "type": "verse",
+      "number": 51,
+      "text": "My eyes cause me grief at the fate of all the young women in my city."
+    },
+    {
+      "block_id": "oxford-lam-3-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Those who were my enemies without cause have hunted me like a bird;"
+    },
+    {
+      "block_id": "oxford-lam-3-53",
+      "type": "verse",
+      "number": 53,
+      "text": "they flung me alive into a pit and hurled stones on me;"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-26",
+      "type": "commentary",
+      "text": "53 : , a cistern for holding water or for imprisoning people (cf. Jer 38.6), and also the grave or the nether-world (Sheol; cf. Isa 14.15; Pss 30.3; 88.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 53,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-lam-3-54",
+      "type": "verse",
+      "number": 54,
+      "text": "water closed over my head; I said, “I am lost.”"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-27",
+      "type": "commentary",
+      "text": "54 : , the water in the cistern, but also a metaphor for desperation (see Jon 2.6–7; 2 Sam 22.5–6 = Ps 18.4–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 54,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-lam-3-55",
+      "type": "verse",
+      "number": 55,
+      "text": "I called on your name, O Lord, from the depths of the pit;"
+    },
+    {
+      "block_id": "oxford-lam-3-56",
+      "type": "verse",
+      "number": 56,
+      "text": "you heard my plea, “Do not close your ear to my cry for help, but give me relief!”"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-28",
+      "type": "commentary",
+      "text": "55–56 : Ps 130.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 55,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-29",
+      "type": "commentary",
+      "text": "56 : The verbs in the past tense here and in the following verses probably express a wish for the future.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 56,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-lam-3-57",
+      "type": "verse",
+      "number": 57,
+      "text": "You came near when I called on you; you said, “Do not fear!”"
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-30",
+      "type": "commentary",
+      "text": "57 : , the words of an oracle of assurance; see Gen 15.1; Isa 41.14; 43.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 57,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-lam-3-58",
+      "type": "verse",
+      "number": 58,
+      "text": "You have taken up my cause, O Lord, you have redeemed my life."
+    },
+    {
+      "block_id": "oxford-lam-3-59",
+      "type": "verse",
+      "number": 59,
+      "text": "You have seen the wrong done to me, O Lord; judge my cause."
+    },
+    {
+      "block_id": "oxford-lam-3-60",
+      "type": "verse",
+      "number": 60,
+      "text": "You have seen all their malice, all their plots against me."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-31",
+      "type": "commentary",
+      "text": "58–60 : Legal language. The poet casts himself as a plaintiff in court where God will judge him innocent and the enemy guilty (cf. 3.34–36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 58,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-lam-3-61",
+      "type": "verse",
+      "number": 61,
+      "text": "You have heard their taunts, O Lord, all their plots against me."
+    },
+    {
+      "block_id": "oxford-lam-3-62",
+      "type": "verse",
+      "number": 62,
+      "text": "The whispers and murmurs of my assailants are against me all day long."
+    },
+    {
+      "block_id": "oxford-lam-3-63",
+      "type": "verse",
+      "number": 63,
+      "text": "Whether they sit or rise—see, I am the object of their taunt-songs."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-32",
+      "type": "commentary",
+      "text": "63 : , whatever they do, at all times.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 63,
+      "verse_end": 63
+    },
+    {
+      "block_id": "oxford-lam-3-64",
+      "type": "verse",
+      "number": 64,
+      "text": "Pay them back for their deeds, O Lord, according to the work of their hands!"
+    },
+    {
+      "block_id": "oxford-lam-3-65",
+      "type": "verse",
+      "number": 65,
+      "text": "Give them anguish of heart; your curse be on them!"
+    },
+    {
+      "block_id": "oxford-lam-3-66",
+      "type": "verse",
+      "number": 66,
+      "text": "Pursue them in anger and destroy them from under the Lord's heavens."
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–66: The complaint of a male speaker who describes the deportation into exile. The longest and most complex poem of the book, arranged as a triple acrostic: each stanza has three short verses assigned to each successive letter of the alphabet. The logical subdivisions according to content do not correspond to the alphabetic structure, with the result that the reader is pulled along from one thought to the next and interrupted by a new stanza in midthought. The chapter uses the language of lament and of wisdom or theological reflection on God's punishment and mercy. The mood alternates between despair and hope. The identity of the male speaker has long been debated. Some think he was a historical individual (Jeremiah, Jehoiachin, or Zedekiah have been suggested), but it is preferable to take him as a literary persona, the counterpart of the female city speaking in 1.12–22. He is a Job-like figure, using some phraseology similar to Job's (especially in vv. 1–19; cf. Job 16:7–15), crying out to God from his suffering, trying to make sense of the terrible event, and to provoke God's response. But unlike Job, this speaker is not successful, for God never answers him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 66
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-25",
+      "type": "commentary",
+      "text": "3.48–66: Individual lament. The first-person singular “I” returns, emphasizing the personal dimension of the suffering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 48,
+      "verse_end": 66
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-33",
+      "type": "commentary",
+      "text": "64–66 : A call for retribution; see 1.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 64,
+      "verse_end": 66
+    },
+    {
+      "block_id": "oxford-lam-3-h1kj-34",
+      "type": "commentary",
+      "text": "66 : , there is no place in God's world for the wicked.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 3
+      },
+      "verse_start": 66,
+      "verse_end": 66
+    }
+  ]
+}

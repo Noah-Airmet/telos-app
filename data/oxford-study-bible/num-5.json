@@ -1,0 +1,410 @@
+{
+  "document_id": "num-5",
+  "title": "Numbers 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-num-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-num-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Command the Israelites to put out of the camp everyone who is leprous, or has a discharge, and everyone who is unclean through contact with a corpse;"
+    },
+    {
+      "block_id": "oxford-num-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "you shall put out both male and female, putting them outside the camp; they must not defile their camp, where I dwell among them."
+    },
+    {
+      "block_id": "oxford-num-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Israelites did so, putting them outside the camp; as the Lord had spoken to Moses, so the Israelites did."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-5",
+      "type": "commentary",
+      "text": "1–4 : Three types of impurity threaten the camp: skin disease (Heb “tsara˓at”), sometimes incorrectly translated as “leprosy” (see Lev 13.1–14.57); genital discharges (see Lev 12; 15); and contact with a corpse (see ch 19). The laws protect holiness from defilement and thus safeguard the presence of God in the camp. Any male or female with these conditions threatens the purity of the camp and must be expelled temporarily.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-num-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-num-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Speak to the Israelites: When a man or a woman wrongs another, breaking faith with the Lord, that person incurs guilt"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-7",
+      "type": "commentary",
+      "text": "6 : (or “against”) indicates some form of sacrilege. The sacred character of the law is further reinforced when the offender is described as “incurring guilt.” Guilt (Heb “ʾasham”) is a legal term describing a situation that results from illegal action. The removal of the condition of guilt requires confession, ritual purification, and restitution, lest the guilty person infect the camp with pollution.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-num-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and shall confess the sin that has been committed. The person shall make full restitution for the wrong, adding one‐fifth to it, and giving it to the one who was wronged."
+    },
+    {
+      "block_id": "oxford-num-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If the injured party has no next of kin to whom restitution may be made for the wrong, the restitution for wrong shall go to the Lord for the priest, in addition to the ram of atonement with which atonement is made for the guilty party."
+    },
+    {
+      "block_id": "oxford-num-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Among all the sacred donations of the Israelites, every gift that they bring to the priest shall be his."
+    },
+    {
+      "block_id": "oxford-num-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The sacred donations of all are their own; whatever anyone gives to the priest shall be his."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-4",
+      "type": "commentary",
+      "text": "5.1–10: Purity laws for the camp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-6",
+      "type": "commentary",
+      "text": "5–10 : These instructions for the guilt offering clarify restitution to a neighbor for a wrongful action (see Lev 5.14–6.7). The focus of the law is not secular crime, but the violation of the sacred; the breakdown of community relationships creates impurity that threatens holiness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-num-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord spoke to Moses, saying:"
+    },
+    {
+      "block_id": "oxford-num-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Speak to the Israelites and say to them: If any man’s wife goes astray and is unfaithful to him,"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-9",
+      "type": "commentary",
+      "text": "12 : , i.e., commits adultery. The rationale for the ritual, and the reason it is placed here, is that adultery “breaks faith with” the husband (see 5.6n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-num-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "if a man has had intercourse with her but it is hidden from her husband, so that she is undetected though she has defiled herself, and there is no witness against her since she was not caught in the act;"
+    },
+    {
+      "block_id": "oxford-num-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "if a spirit of jealousy comes on him, and he is jealous of his wife who has defiled herself; or if a spirit of jealousy comes on him, and he is jealous of his wife, though she has not defiled herself;"
+    },
+    {
+      "block_id": "oxford-num-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "then the man shall bring his wife to the priest. And he shall bring the offering required for her, one‐tenth of an ephah of barley flour. He shall pour no oil on it and put no frankincense on it, for it is a grain offering of jealousy, a grain offering of remembrance, bringing iniquity to remembrance."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-11",
+      "type": "commentary",
+      "text": "15 : , ca. 2 qts (2.3 L). , an aromatic resin used in perfumes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-num-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then the priest shall bring her near, and set her before the Lord;"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-12",
+      "type": "commentary",
+      "text": "16 : The priest performs the ritual in the sanctuary.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-num-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the priest shall take holy water in an earthen vessel, and take some of the dust that is on the floor of the tabernacle and put it into the water."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-13",
+      "type": "commentary",
+      "text": "17 : occurs only in this ritual in the Hebrew Bible, but may be related to running water, such as water from a spring (19.17). , considered holy because of its location.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-num-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The priest shall set the woman before the Lord, dishevel the woman’s hair, and place in her hands the grain offering of remembrance, which is the grain offering of jealousy. In his own hand the priest shall have the water of bitterness that brings the curse."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-14",
+      "type": "commentary",
+      "text": "18 : , perhaps a sign of mourning (Lev 10.6) or ritual impurity (Lev 13.45). (Heb “mrr,” “to be bitter”) is the central potion in the ordeal, other possible translations are “water of rebellion” (“mry,” “to rebel”) and “water of instruction” (“yrh,” “to teach”).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-num-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then the priest shall make her take an oath, saying, “If no man has lain with you, if you have not turned aside to uncleanness while under your husband’s authority, be immune to this water of bitterness that brings the curse."
+    },
+    {
+      "block_id": "oxford-num-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But if you have gone astray while under your husband’s authority, if you have defiled yourself and some man other than your husband has had intercourse with you,”"
+    },
+    {
+      "block_id": "oxford-num-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "—let the priest make the woman take the oath of the curse and say to the woman—”the Lord make you an execration and an oath among your people, when the Lord makes your uterus drop, your womb discharge;"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-15",
+      "type": "commentary",
+      "text": "19–21 : is taken by the women to determine guilt or innocence. Parallels to an ordeal; to determine guilt or innocence include 132, where a person accused of sorcery must undergo a river ordeal; and Ex 32.20, where the Israelites must drink water mixed with powder from the golden calf to determine guilt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-16",
+      "type": "commentary",
+      "text": "21 : The priest states the content of the curse, which is repeated with ritual instructions (vv. 23–28); , may signify miscarriage if the woman is pregnant or perhaps the inability to have children if not pregnant. , to become a curse (see Jer 42.18; 44.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-num-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "now may this water that brings the curse enter your bowels and make your womb discharge, your uterus drop!” And the woman shall say, “Amen. Amen.”"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-17",
+      "type": "commentary",
+      "text": "22 : is a double affirmation attached to oaths (Deut 27.15–26; Neh 5.22; 8.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-num-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Then the priest shall put these curses in writing, and wash them off into the water of bitterness."
+    },
+    {
+      "block_id": "oxford-num-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "He shall make the woman drink the water of bitterness that brings the curse, and the water that brings the curse shall enter her and cause bitter pain."
+    },
+    {
+      "block_id": "oxford-num-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The priest shall take the grain offering of jealousy out of the woman’s hand, and shall elevate the grain offering before the Lord and bring it to the altar;"
+    },
+    {
+      "block_id": "oxford-num-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "and the priest shall take a handful of the grain offering, as its memorial portion, and turn it into smoke on the altar, and afterward shall make the woman drink the water."
+    },
+    {
+      "block_id": "oxford-num-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "When he has made her drink the water, then, if she has defiled herself and has been unfaithful to her husband, the water that brings the curse shall enter into her and cause bitter pain, and her womb shall discharge, her uterus drop, and the woman shall become an execration among her people."
+    },
+    {
+      "block_id": "oxford-num-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "But if the woman has not defiled herself and is clean, then she shall be immune and be able to conceive children."
+    },
+    {
+      "block_id": "oxford-num-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "This is the law in cases of jealousy, when a wife, while under her husband’s authority, goes astray and defiles herself,"
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-18",
+      "type": "commentary",
+      "text": "29 : often concludes Priestly legislation (Lev 15.32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-num-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "or when a spirit of jealousy comes on a man and he is jealous of his wife; then he shall set the woman before the Lord, and the priest shall apply this entire law to her."
+    },
+    {
+      "block_id": "oxford-num-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The man shall be free from iniquity, but the woman shall bear her iniquity."
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–10.10: The wilderness camp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–6.27: The community and the camp. The layout of the camp around the tabernacle introduces degrees of holiness depending on proximity to the sanctuary at the center: the closer to God, the holier. The arrangement of the camp, the order for marching, and the role of the Levites clarifies the important role of holiness in the life of the community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–6.27: Laws to protect the camp. The divinely given laws are arranged in relationship to the sanctuary, moving from the edge of the camp to its center. The section begins with social laws that are directed to practices outside of the camp (5.1–4) before moving to actions within the camp (5.5–6.21), and concludes with the priestly blessing (6.22–27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-8",
+      "type": "commentary",
+      "text": "5.11–31: Law regulating a woman accused of adultery. The law is written from the husband’s point of view; its purpose is to test the fidelity of the wife through a ritual ordeal when the husband lacks a witness to confirm adultery. Adultery confirmed by a witness resulted in death (Lev 20.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-num-5-h1kj-10",
+      "type": "commentary",
+      "text": "15–31 : The ritual consists of the woman drinking potions whose effects will determine her guilt or innocence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "num",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 31
+    }
+  ]
+}

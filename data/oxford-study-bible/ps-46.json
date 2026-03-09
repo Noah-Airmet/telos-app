@@ -1,0 +1,151 @@
+{
+  "document_id": "ps-46",
+  "title": "Psalms 46",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-46-heading-psalm-47",
+      "type": "heading",
+      "text": "Psalm 47"
+    },
+    {
+      "block_id": "oxford-ps-46-1",
+      "type": "verse",
+      "number": 1,
+      "text": "God is our refuge and strength, a very present help in trouble."
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 46: The glory of Mount Zion, residence of the Lord. A song of Zion, like Pss 48; 76; 84; and 122. The first of a cluster of three psalms about the reigning in Jerusalem. A refrain (vv. 7,11) structures the poem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-46-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Therefore we will not fear, though the earth should change, though the mountains shake in the heart of the sea;"
+    },
+    {
+      "block_id": "oxford-ps-46-3",
+      "type": "verse",
+      "number": 3,
+      "text": "though its waters roar and foam, though the mountains tremble with its tumult. Selah"
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-2",
+      "type": "commentary",
+      "text": "1–3 : The psalmist trusts in Zion, the center of the world and residence of the , which remains unshaken though the surrounding earth “totters” (NRSV ) and plunges into pre‐creation chaos.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-3",
+      "type": "commentary",
+      "text": "3 : (also vv. 7,11), see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-46-4",
+      "type": "verse",
+      "number": 4,
+      "text": "There is a river whose streams make glad the city of God, the holy habitation of the Most High."
+    },
+    {
+      "block_id": "oxford-ps-46-5",
+      "type": "verse",
+      "number": 5,
+      "text": "God is in the midst of the city; it shall not be moved; God will help it when the morning dawns."
+    },
+    {
+      "block_id": "oxford-ps-46-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The nations are in an uproar, the kingdoms totter; he utters his voice, the earth melts."
+    },
+    {
+      "block_id": "oxford-ps-46-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah"
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-4",
+      "type": "commentary",
+      "text": "4–7 : In contrast to the tumultuous and dangerous waters in vv. 2–3, the calm river of v. 4 is controlled by God to provide water and fertility for the holy city (see Ps 36.5–9n.). The attacks of the rebellious nations in v. 6 function as a historical complement to the cosmic disaster in vv. 2–3. Yet God’s , thunder, defeats them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 4,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-46-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Come, behold the works of the Lord; see what desolations he has brought on the earth."
+    },
+    {
+      "block_id": "oxford-ps-46-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He makes wars cease to the end of the earth; he breaks the bow, and shatters the spear; he burns the shields with fire."
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-5",
+      "type": "commentary",
+      "text": "9 : Rather than just defeating the enemies, as in most psalms, God ends war on .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-46-10",
+      "type": "verse",
+      "number": 10,
+      "text": "“Be still, and know that I am God! I am exalted among the nations, I am exalted in the earth.”"
+    },
+    {
+      "block_id": "oxford-ps-46-h1kj-6",
+      "type": "commentary",
+      "text": "10 : Stop what you are doing and embrace the peace the has achieved. Zion is the place where God’s victory is most visible and most appropriately praised.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 46
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ps-46-11",
+      "type": "verse",
+      "number": 11,
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge.f Selah"
+    }
+  ]
+}

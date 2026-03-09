@@ -1,0 +1,29 @@
+{
+  "document_id": "dc-55",
+  "title": "Section 55: William W. Phelps's mission",
+  "type": "scripture",
+  "translation": "LDS",
+  "work_id": "dc",
+  "canonical_book_id": "dc",
+  "blocks": [
+    {
+      "block_id": "dc-55-heading",
+      "type": "heading",
+      "text": "William W. Phelps's mission"
+    },
+    {
+      "block_id": "dc-55-1",
+      "type": "verse",
+      "number": 1,
+      "text": "[Section 55 — Import full text from doctrine-and-covenants.pdf using Marker and ingest-dc-from-markdown.ts]",
+      "canonical_ref": {
+        "work": "dc",
+        "book": "dc",
+        "chapter": 55,
+        "verse": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    }
+  ]
+}

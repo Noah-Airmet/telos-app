@@ -1,0 +1,661 @@
+{
+  "document_id": "ps-78",
+  "title": "Psalms 78",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-78-heading-psalm-79",
+      "type": "heading",
+      "text": "Psalm 79"
+    },
+    {
+      "block_id": "oxford-ps-78-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Give ear, O my people, to my teaching; incline your ears to the words of my mouth."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 78: A lesson from history. Ps 78 juxtaposes two series of events in Israel’s history (vv. 12–39,40–72) to demonstrate that the people’s sin triggered divine punishment, but, even more important, to show that an offer of a new beginning comes after punishment. The first series of events is limited to those that took place “in the wilderness … in the desert” (v. 40; cf. Ex 14–Num 11); the second set is broader, including the conquest of Canaan, the founding of the national shrine at Shiloh, its rejection, culminating in the choice of Zion and of David. The psalmist’s mention of the choice of Judah and David over the Northern Kingdom of Israel (“Ephraim” v. 62) suggests a time of composition when the Northern and Southern Kingdoms were separated (late tenth to late eighth centuries ). The psalm makes clear that history is not recalled for its own sake, but for didactic reasons (see vv. 6–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-78-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I will open my mouth in a parable; I will utter dark sayings from of old,"
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , better, “lesson.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-78-3",
+      "type": "verse",
+      "number": 3,
+      "text": "things that we have heard and known, that our ancestors have told us."
+    },
+    {
+      "block_id": "oxford-ps-78-4",
+      "type": "verse",
+      "number": 4,
+      "text": "We will not hide them from their children; we will tell to the coming generation the glorious deeds of the Lord, and his might, and the wonders that he has done."
+    },
+    {
+      "block_id": "oxford-ps-78-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He established a decree in Jacob, and appointed a law in Israel, which he commanded our ancestors to teach to their children;"
+    },
+    {
+      "block_id": "oxford-ps-78-6",
+      "type": "verse",
+      "number": 6,
+      "text": "that the next generation might know them, the children yet unborn, and rise up and tell them to their children,"
+    },
+    {
+      "block_id": "oxford-ps-78-7",
+      "type": "verse",
+      "number": 7,
+      "text": "so that they should set their hope in God, and not forget the works of God, but keep his commandments;"
+    },
+    {
+      "block_id": "oxford-ps-78-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and that they should not be like their ancestors, a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God."
+    },
+    {
+      "block_id": "oxford-ps-78-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Ephraimites, armed with the bow, turned back on the day of battle."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-4",
+      "type": "commentary",
+      "text": "9 : The is not specifically identified.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-78-10",
+      "type": "verse",
+      "number": 10,
+      "text": "They did not keep God’s covenant, but refused to walk according to his law."
+    },
+    {
+      "block_id": "oxford-ps-78-11",
+      "type": "verse",
+      "number": 11,
+      "text": "They forgot what he had done, and the miracles that he had shown them."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-2",
+      "type": "commentary",
+      "text": "1–11 : Like Moses in Deut 5 and 18.18–19, the psalmist promises to interpret the national tradition so that the hearers might respond properly to God’s new gracious act: choosing David as king and Zion as the national shrine.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-78-12",
+      "type": "verse",
+      "number": 12,
+      "text": "In the sight of their ancestors he worked marvels in the land of Egypt, in the fields of Zoan."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-6",
+      "type": "commentary",
+      "text": "12 : , a city in northern Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ps-78-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He divided the sea and let them pass through it, and made the waters stand like a heap."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-7",
+      "type": "commentary",
+      "text": "13 : Ex 14.21,29; 15.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ps-78-14",
+      "type": "verse",
+      "number": 14,
+      "text": "In the daytime he led them with a cloud, and all night long with a fiery light."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-8",
+      "type": "commentary",
+      "text": "14 : Ex 13.21–22; 14.19–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ps-78-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He split rocks open in the wilderness, and gave them drink abundantly as from the deep."
+    },
+    {
+      "block_id": "oxford-ps-78-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He made streams come out of the rock, and caused waters to flow down like rivers."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-9",
+      "type": "commentary",
+      "text": "15–16 : Ex 17.6; Num 20.11; Isa 48.21. , the chaotic waters vanquished by God, which served Israel’s need for water; cf. Ps 104.5–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 15,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-ps-78-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Yet they sinned still more against him, rebelling against the Most High in the desert."
+    },
+    {
+      "block_id": "oxford-ps-78-18",
+      "type": "verse",
+      "number": 18,
+      "text": "They tested God in their heart by demanding the food they craved."
+    },
+    {
+      "block_id": "oxford-ps-78-19",
+      "type": "verse",
+      "number": 19,
+      "text": "They spoke against God, saying, “Can God spread a table in the wilderness?"
+    },
+    {
+      "block_id": "oxford-ps-78-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Even though he struck the rock so that water gushed out and torrents overflowed, can he also give bread, or provide meat for his people?”"
+    },
+    {
+      "block_id": "oxford-ps-78-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Therefore, when the Lord heard, he was full of rage; a fire was kindled against Jacob, his anger mounted against Israel,"
+    },
+    {
+      "block_id": "oxford-ps-78-22",
+      "type": "verse",
+      "number": 22,
+      "text": "because they had no faith in God, and did not trust his saving power."
+    },
+    {
+      "block_id": "oxford-ps-78-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Yet he commanded the skies above, and opened the doors of heaven;"
+    },
+    {
+      "block_id": "oxford-ps-78-24",
+      "type": "verse",
+      "number": 24,
+      "text": "he rained down on them manna to eat, and gave them the grain of heaven."
+    },
+    {
+      "block_id": "oxford-ps-78-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Mortals ate of the bread of angels; he sent them food in abundance."
+    },
+    {
+      "block_id": "oxford-ps-78-26",
+      "type": "verse",
+      "number": 26,
+      "text": "He caused the east wind to blow in the heavens, and by his power he led out the south wind;"
+    },
+    {
+      "block_id": "oxford-ps-78-27",
+      "type": "verse",
+      "number": 27,
+      "text": "he rained flesh upon them like dust, winged birds like the sand of the seas;"
+    },
+    {
+      "block_id": "oxford-ps-78-28",
+      "type": "verse",
+      "number": 28,
+      "text": "he let them fall within their camp, all around their dwellings."
+    },
+    {
+      "block_id": "oxford-ps-78-29",
+      "type": "verse",
+      "number": 29,
+      "text": "And they ate and were well filled, for he gave them what they craved."
+    },
+    {
+      "block_id": "oxford-ps-78-30",
+      "type": "verse",
+      "number": 30,
+      "text": "But before they had satisfied their craving, while the food was still in their mouths,"
+    },
+    {
+      "block_id": "oxford-ps-78-31",
+      "type": "verse",
+      "number": 31,
+      "text": "the anger of God rose against them and he killed the strongest of them, and laid low the flower of Israel."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-10",
+      "type": "commentary",
+      "text": "18–31 : On the provisioning of the people with food after the Exodus, see Ex 16; Num 11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 18,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-ps-78-32",
+      "type": "verse",
+      "number": 32,
+      "text": "In spite of all this they still sinned; they did not believe in his wonders."
+    },
+    {
+      "block_id": "oxford-ps-78-33",
+      "type": "verse",
+      "number": 33,
+      "text": "So he made their days vanish like a breath, and their years in terror."
+    },
+    {
+      "block_id": "oxford-ps-78-34",
+      "type": "verse",
+      "number": 34,
+      "text": "When he killed them, they sought for him; they repented and sought God earnestly."
+    },
+    {
+      "block_id": "oxford-ps-78-35",
+      "type": "verse",
+      "number": 35,
+      "text": "They remembered that God was their rock, the Most High God their redeemer."
+    },
+    {
+      "block_id": "oxford-ps-78-36",
+      "type": "verse",
+      "number": 36,
+      "text": "But they flattered him with their mouths; they lied to him with their tongues."
+    },
+    {
+      "block_id": "oxford-ps-78-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Their heart was not steadfast toward him; they were not true to his covenant."
+    },
+    {
+      "block_id": "oxford-ps-78-38",
+      "type": "verse",
+      "number": 38,
+      "text": "Yet he, being compassionate, forgave their iniquity, and did not destroy them; often he restrained his anger, and did not stir up all his wrath."
+    },
+    {
+      "block_id": "oxford-ps-78-39",
+      "type": "verse",
+      "number": 39,
+      "text": "He remembered that they were but flesh, a wind that passes and does not come again."
+    },
+    {
+      "block_id": "oxford-ps-78-40",
+      "type": "verse",
+      "number": 40,
+      "text": "How often they rebelled against him in the wilderness and grieved him in the desert!"
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-5",
+      "type": "commentary",
+      "text": "12–40 : Casting the wilderness traditions in a different order from the Pentateuch, the psalm mentions gracious act (vv. 12–16), rebellion (vv. 17–20), divine anger and punishment (vv. 21–31), and then, surprisingly, God’s forgiveness (vv. 32–39).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 12,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-ps-78-41",
+      "type": "verse",
+      "number": 41,
+      "text": "They tested God again and again, and provoked the Holy One of Israel."
+    },
+    {
+      "block_id": "oxford-ps-78-42",
+      "type": "verse",
+      "number": 42,
+      "text": "They did not keep in mind his power, or the day when he redeemed them from the foe;"
+    },
+    {
+      "block_id": "oxford-ps-78-43",
+      "type": "verse",
+      "number": 43,
+      "text": "when he displayed his signs in Egypt, and his miracles in the fields of Zoan."
+    },
+    {
+      "block_id": "oxford-ps-78-44",
+      "type": "verse",
+      "number": 44,
+      "text": "He turned their rivers to blood, so that they could not drink of their streams."
+    },
+    {
+      "block_id": "oxford-ps-78-45",
+      "type": "verse",
+      "number": 45,
+      "text": "He sent among them swarms of flies, which devoured them, and frogs, which destroyed them."
+    },
+    {
+      "block_id": "oxford-ps-78-46",
+      "type": "verse",
+      "number": 46,
+      "text": "He gave their crops to the caterpillar, and the fruit of their labor to the locust."
+    },
+    {
+      "block_id": "oxford-ps-78-47",
+      "type": "verse",
+      "number": 47,
+      "text": "He destroyed their vines with hail, and their sycamores with frost."
+    },
+    {
+      "block_id": "oxford-ps-78-48",
+      "type": "verse",
+      "number": 48,
+      "text": "He gave over their cattle to the hail, and their flocks to thunderbolts."
+    },
+    {
+      "block_id": "oxford-ps-78-49",
+      "type": "verse",
+      "number": 49,
+      "text": "He let loose on them his fierce anger, wrath, indignation, and distress, a company of destroying angels."
+    },
+    {
+      "block_id": "oxford-ps-78-50",
+      "type": "verse",
+      "number": 50,
+      "text": "He made a path for his anger; he did not spare them from death, but gave their lives over to the plague."
+    },
+    {
+      "block_id": "oxford-ps-78-51",
+      "type": "verse",
+      "number": 51,
+      "text": "He struck all the firstborn in Egypt, the first issue of their strength in the tents of Ham."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-12",
+      "type": "commentary",
+      "text": "43–51 : The plagues (Ex 7–11; Ps 105.26–36).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 43,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-13",
+      "type": "commentary",
+      "text": "51 : , Egypt; see Gen 10.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 51,
+      "verse_end": 51
+    },
+    {
+      "block_id": "oxford-ps-78-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Then he led out his people like sheep, and guided them in the wilderness like a flock."
+    },
+    {
+      "block_id": "oxford-ps-78-53",
+      "type": "verse",
+      "number": 53,
+      "text": "He led them in safety, so that they were not afraid; but the sea overwhelmed their enemies."
+    },
+    {
+      "block_id": "oxford-ps-78-54",
+      "type": "verse",
+      "number": 54,
+      "text": "And he brought them to his holy hill, to the mountain that his right hand had won."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-11",
+      "type": "commentary",
+      "text": "40–54 : Traditions different from the first recital in vv. 12–39, but the same sequence: gracious act (vv. 40–55), rebellion (vv. 56–58), divine anger and punishment (vv. 59–64), forgiveness (vv. 65–72). Here too the traditions are not identical to what is preserved in the books of Exodus and Numbers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 40,
+      "verse_end": 54
+    },
+    {
+      "block_id": "oxford-ps-78-55",
+      "type": "verse",
+      "number": 55,
+      "text": "He drove out nations before them; he apportioned them for a possession and settled the tribes of Israel in their tents."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-14",
+      "type": "commentary",
+      "text": "52–55 : Cf. Ex 15.13; Ps 77.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 52,
+      "verse_end": 55
+    },
+    {
+      "block_id": "oxford-ps-78-56",
+      "type": "verse",
+      "number": 56,
+      "text": "Yet they tested the Most High God, and rebelled against him. They did not observe his decrees,"
+    },
+    {
+      "block_id": "oxford-ps-78-57",
+      "type": "verse",
+      "number": 57,
+      "text": "but turned away and were faithless like their ancestors; they twisted like a treacherous bow."
+    },
+    {
+      "block_id": "oxford-ps-78-58",
+      "type": "verse",
+      "number": 58,
+      "text": "For they provoked him to anger with their high places; they moved him to jealousy with their idols."
+    },
+    {
+      "block_id": "oxford-ps-78-59",
+      "type": "verse",
+      "number": 59,
+      "text": "When God heard, he was full of wrath, and he utterly rejected Israel."
+    },
+    {
+      "block_id": "oxford-ps-78-60",
+      "type": "verse",
+      "number": 60,
+      "text": "He abandoned his dwelling at Shiloh, the tent where he dwelt among mortals,"
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-15",
+      "type": "commentary",
+      "text": "60 : The ark of the covenant was in Shiloh according to 1 Sam 3–4 before it was brought to Jerusalem. Shiloh was likely destroyed by the Philistines; see also Jer 7.14; 26.6,9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 60,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-ps-78-61",
+      "type": "verse",
+      "number": 61,
+      "text": "and delivered his power to captivity, his glory to the hand of the foe."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-16",
+      "type": "commentary",
+      "text": "61 : , referring to the ark, captured by the Philistines (1 Sam 4–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 61,
+      "verse_end": 61
+    },
+    {
+      "block_id": "oxford-ps-78-62",
+      "type": "verse",
+      "number": 62,
+      "text": "He gave his people to the sword, and vented his wrath on his heritage."
+    },
+    {
+      "block_id": "oxford-ps-78-63",
+      "type": "verse",
+      "number": 63,
+      "text": "Fire devoured their young men, and their girls had no marriage song."
+    },
+    {
+      "block_id": "oxford-ps-78-64",
+      "type": "verse",
+      "number": 64,
+      "text": "Their priests fell by the sword, and their widows made no lamentation."
+    },
+    {
+      "block_id": "oxford-ps-78-65",
+      "type": "verse",
+      "number": 65,
+      "text": "Then the Lord awoke as from sleep, like a warrior shouting because of wine."
+    },
+    {
+      "block_id": "oxford-ps-78-66",
+      "type": "verse",
+      "number": 66,
+      "text": "He put his adversaries to rout; he put them to everlasting disgrace."
+    },
+    {
+      "block_id": "oxford-ps-78-67",
+      "type": "verse",
+      "number": 67,
+      "text": "He rejected the tent of Joseph, he did not choose the tribe of Ephraim;"
+    },
+    {
+      "block_id": "oxford-ps-78-68",
+      "type": "verse",
+      "number": 68,
+      "text": "but he chose the tribe of Judah, Mount Zion, which he loves."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-17",
+      "type": "commentary",
+      "text": "67–68 : God rejected the Northern Kingdom of Israel ( ) in favor of the Southern Kingdom of .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 67,
+      "verse_end": 68
+    },
+    {
+      "block_id": "oxford-ps-78-69",
+      "type": "verse",
+      "number": 69,
+      "text": "He built his sanctuary like the high heavens, like the earth, which he has founded forever."
+    },
+    {
+      "block_id": "oxford-ps-78-70",
+      "type": "verse",
+      "number": 70,
+      "text": "He chose his servant David, and took him from the sheepfolds;"
+    },
+    {
+      "block_id": "oxford-ps-78-71",
+      "type": "verse",
+      "number": 71,
+      "text": "from tending the nursing ewes he brought him to be the shepherd of his people Jacob, of Israel, his inheritance."
+    },
+    {
+      "block_id": "oxford-ps-78-72",
+      "type": "verse",
+      "number": 72,
+      "text": "With upright heart he tended them, and guided them with skillful hand."
+    },
+    {
+      "block_id": "oxford-ps-78-h1kj-18",
+      "type": "commentary",
+      "text": "71–72 : The image of the king as of the people is common in the ancient Near East. The choice of David is presented as the climax of the psalm, but unlike the account in Samuel through Kings, he is chosen after the Temple is constructed: in the case of the psalm, chosen by God, not by Solomon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 78
+      },
+      "verse_start": 71,
+      "verse_end": 72
+    }
+  ]
+}

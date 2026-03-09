@@ -1,0 +1,311 @@
+{
+  "document_id": "gen-6",
+  "title": "Genesis 6",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "When people began to multiply on the face of the ground, and daughters were born to them,"
+    },
+    {
+      "block_id": "oxford-gen-6-2",
+      "type": "verse",
+      "number": 2,
+      "text": "the sons of God saw that they were fair; and they took wives for themselves of all that they chose."
+    },
+    {
+      "block_id": "oxford-gen-6-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then the Lord said, “My spirit shall not abide in mortals forever, for they are flesh; their days shall be one hundred twenty years.”"
+    },
+    {
+      "block_id": "oxford-gen-6-3-commentary-1",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 3
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-gen-6-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Nephilim were on the earth in those days—and also afterward—when the sons of God went in to the daughters of humans, who bore children to them. These were the heroes that were of old, warriors of renown."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-5",
+      "type": "commentary",
+      "text": "6.1–4: Divine‐human reproduction illustrates the breaching of the divine‐human boundary that the God feared in 3.22. There the God drove humans away from the tree of life. Here, in an abbreviated narrative often attributed to the Yahwistic primeval history, the limits their life span to years, the life span of Moses (Deut 34.7). Nothing appears to happen to the (see the “heavenly court” in 1.26n.) who instigated it all, though this becomes a matter of great speculation in postbiblical literature.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-6",
+      "type": "commentary",
+      "text": "4 : The products of divine‐human intercourse are legendary They are distinguished here from the , a race of giants said to exist both prior to and after those times (cf. Num 13.33; Deut 2.10–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-gen-6-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Lord saw that the wickedness of humankind was great in the earth, and that every inclination of the thoughts of their hearts was only evil continually."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-9",
+      "type": "commentary",
+      "text": "5 : Though the biblical account is quite close in many respects to Mesopotamian flood stories found in Atrahasis and Gilgamesh tablet 11, one significant difference is that this text attributes the flood to God’s judgment on rather than divine frustration with human overpopulation and noise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-gen-6-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And the Lord was sorry that he had made humankind on the earth, and it grieved him to his heart."
+    },
+    {
+      "block_id": "oxford-gen-6-7",
+      "type": "verse",
+      "number": 7,
+      "text": "So the Lord said, “I will blot out from the earth the human beings I have created— people together with animals and creeping things and birds of the air, for I am sorry that I have made them.”"
+    },
+    {
+      "block_id": "oxford-gen-6-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But Noah found favor in the sight of the Lord."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-8",
+      "type": "commentary",
+      "text": "6.5–8 : This introduction links with the non‐Priestly material, particularly 2.7 (compare 6.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-gen-6-9",
+      "type": "verse",
+      "number": 9,
+      "text": "These are the descendants of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God."
+    },
+    {
+      "block_id": "oxford-gen-6-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And Noah had three sons, Shem, Ham, and Japheth."
+    },
+    {
+      "block_id": "oxford-gen-6-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Now the earth was corrupt in God’s sight, and the earth was filled with violence."
+    },
+    {
+      "block_id": "oxford-gen-6-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And God saw that the earth was corrupt; for all flesh had corrupted its ways upon the earth."
+    },
+    {
+      "block_id": "oxford-gen-6-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And God said to Noah, “I have determined to make an end of all flesh, for the earth is filled with violence because of them; now I am going to destroy them along with the earth."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-11",
+      "type": "commentary",
+      "text": "11–13 : Here the Priestly writers attribute the flood to corruption of the earth and filling it (see 4.8,10,23–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-gen-6-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Make yourself an ark of cypress wood; make rooms in the ark, and cover it inside and out with pitch."
+    },
+    {
+      "block_id": "oxford-gen-6-14-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-gen-6-15",
+      "type": "verse",
+      "number": 15,
+      "text": "This is how you are to make it: the length of the ark three hundred cubits, its width fifty cubits, and its height thirty cubits."
+    },
+    {
+      "block_id": "oxford-gen-6-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Make a roof for the ark, and finish it to a cubit above; and put the door of the ark in its side; make it with lower, second, and third decks."
+    },
+    {
+      "block_id": "oxford-gen-6-16-commentary-3",
+      "type": "commentary",
+      "text": "Or window",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6,
+        "verse": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-12",
+      "type": "commentary",
+      "text": "14–16 : In the Babylonian epic of Gilgamesh, the hero, named Utnapishtim, is told to build a similar houseboat, sealing it with pitch. The description of a three‐leveled ark may be based on an ancient idea that the ark reflects the three‐part structure of both universe and temple. It is about 437 × 73 × 44 ft (133 × 22 × 13 m).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-6-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For my part, I am going to bring a flood of waters on the earth, to destroy from under heaven all flesh in which is the breath of life; everything that is on the earth shall die."
+    },
+    {
+      "block_id": "oxford-gen-6-18",
+      "type": "verse",
+      "number": 18,
+      "text": "But I will establish my covenant with you; and you shall come into the ark, you, your sons, your wife, and your sons’ wives with you."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-13",
+      "type": "commentary",
+      "text": "18 : , see 9.8–17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-gen-6-19",
+      "type": "verse",
+      "number": 19,
+      "text": "And of every living thing, of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female."
+    },
+    {
+      "block_id": "oxford-gen-6-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Of the birds according to their kinds, and of the animals according to their kinds, of every creeping thing of the ground according to its kind, two of every kind shall come in to you, to keep them alive."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-14",
+      "type": "commentary",
+      "text": "19–20 : See 7.2–3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-6-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Also take with you every kind of food that is eaten, and store it up; and it shall serve as food for you and for them.”"
+    },
+    {
+      "block_id": "oxford-gen-6-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Noah did this; he did all that God commanded him."
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-4",
+      "type": "commentary",
+      "text": "1.1–11.26: The primeval history: from creation to the birth of Abraham. This unit is composed of two principal layers, a Priestly source that also provides an editorial framework (1.1–2.3; 5.1–28,30–32; 6.9–22; 7.6,11,13–16a,18–21,24; 8.1–2a,3–5,14–19; 9.1–17; 10.10–27), and an earlier non‐Priestly primeval history that uses the divine name Yahweh (represented as in the translation) found in the rest of 2.4–11.9. As seen in the chart on correspondences spanning the primeval history (see p. ), the present combined text is an intricate narrative, with echoes of creation and un‐creation, struggles surrounding human god‐likeness, and other themes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-7",
+      "type": "commentary",
+      "text": "6.5–8.19: The great flood. This story describes God’s un‐creation and re‐creation of the world. The version preserved here is an interweaving of parallel accounts, one of which links with the Priestly traditions of 1.1–2.3 and 5.1–32, and the other of which links with the Yahwistic primeval history in 2.4b–4.26. This type of intertwining of traditions is less usual than placing one tradition as a block after the other, but is necessary here to avoid describing two consecutive floods.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 5,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-gen-6-h1kj-10",
+      "type": "commentary",
+      "text": "9–22 : This section begins the Priestly account of the flood.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 6
+      },
+      "verse_start": 9,
+      "verse_end": 22
+    }
+  ]
+}

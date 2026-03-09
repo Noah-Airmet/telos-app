@@ -1,0 +1,343 @@
+{
+  "document_id": "sos-10",
+  "title": "sos 10",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-10-heading-11",
+      "type": "heading",
+      "text": "11"
+    },
+    {
+      "block_id": "oxford-sos-10-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As the people's judge is, so are his officials; as the ruler of the city is, so are all its inhabitants."
+    },
+    {
+      "block_id": "oxford-sos-10-3",
+      "type": "verse",
+      "number": 3,
+      "text": "An undisciplined king ruins his people, but a city becomes fit to live in through the understanding of its rulers."
+    },
+    {
+      "block_id": "oxford-sos-10-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The government of the earth is in the hand of the Lord, and over it he will raise up the right leader for the time."
+    },
+    {
+      "block_id": "oxford-sos-10-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Human success is in the hand of the Lord, and it is he who confers honor upon the lawgiver."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-1",
+      "type": "commentary",
+      "text": "9.17–10.5: Wise rulers. A common topic in wisdom literature (Prov 25.4–5; 28.3,16; 29.4,12,14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-2",
+      "type": "commentary",
+      "text": "10.4–5 : Cf. Dan 2.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-sos-10-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Do not get angry with your neighbor for every injury, and do not resort to acts of insolence."
+    },
+    {
+      "block_id": "oxford-sos-10-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Arrogance is hateful to the Lord and to mortals, and injustice is outrageous to both."
+    },
+    {
+      "block_id": "oxford-sos-10-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Sovereignty passes from nation to nation on account of injustice and insolence and wealth."
+    },
+    {
+      "block_id": "oxford-sos-10-9",
+      "type": "verse",
+      "number": 9,
+      "text": "How can dust and ashes be proud? Even in life the human body decays."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-6",
+      "type": "commentary",
+      "text": "9 : , Gen 18.27; Job 30.19; 42.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-sos-10-10",
+      "type": "verse",
+      "number": 10,
+      "text": "A long illness baffles the physician; the king of today will die tomorrow."
+    },
+    {
+      "block_id": "oxford-sos-10-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For when one is dead he inherits maggots and vermin and worms."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-4",
+      "type": "commentary",
+      "text": "6–11 : is foolish in the face of human mortality.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-5",
+      "type": "commentary",
+      "text": "9–11 : Ben Sira's emphasis on rulers and nations may reflect the political conditions of his time, particularly the competition between the Ptolemaic and the Seleucid kings (see also vv. 14–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 9,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-10-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The beginning of human pride is to forsake the Lord; the heart has withdrawn from its Maker."
+    },
+    {
+      "block_id": "oxford-sos-10-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For the beginning of pride is sin, and the one who clings to it pours out abominations. Therefore the Lord brings upon them unheard-of calamities, and destroys them completely."
+    },
+    {
+      "block_id": "oxford-sos-10-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The Lord overthrows the thrones of rulers, and enthrones the lowly in their place."
+    },
+    {
+      "block_id": "oxford-sos-10-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The Lord plucks up the roots of the nations, and plants the humble in their place."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-8",
+      "type": "commentary",
+      "text": "14–15 : The verbs , , , and are reminiscent of Jer 1.10; see also Lk 1.52.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-sos-10-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The Lord lays waste the lands of the nations, and destroys them to the foundations of the earth."
+    },
+    {
+      "block_id": "oxford-sos-10-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He removes some of them and destroys them, and erases the memory of them from the earth."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-9",
+      "type": "commentary",
+      "text": "17 : ; cf. Job 12.23; , cf. Eccl 1.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-10-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Pride was not created for human beings, or violent anger for those born of women."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-3",
+      "type": "commentary",
+      "text": "10.6–18: Avoid arrogance and pride.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 6,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-7",
+      "type": "commentary",
+      "text": "12–18 : and go hand in hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 12,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-10-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Whose offspring are worthy of honor? Human offspring. Whose offspring are worthy of honor? Those who fear the Lord. Whose offspring are unworthy of honor? Human offspring. Whose offspring are unworthy of honor? Those who break the commandments."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-11",
+      "type": "commentary",
+      "text": "19 : , the riddle gives the same answer to opposite questions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-sos-10-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Among family members their leader is worthy of honor, but those who fear the Lord are worthy of honor in his eyes."
+    },
+    {
+      "block_id": "oxford-sos-10-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The rich, and the eminent, and the poor— their glory is the fear of the Lord."
+    },
+    {
+      "block_id": "oxford-sos-10-23",
+      "type": "verse",
+      "number": 23,
+      "text": "It is not right to despise one who is intelligent but poor, and it is not proper to honor one who is sinful."
+    },
+    {
+      "block_id": "oxford-sos-10-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The prince and the judge and the ruler are honored, but none of them is greater than the one who fears the Lord."
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-12",
+      "type": "commentary",
+      "text": "24 : Fear of the Lord trumps social status.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-sos-10-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Free citizens will serve a wise servant, and an intelligent person will not complain."
+    },
+    {
+      "block_id": "oxford-sos-10-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Do not make a display of your wisdom when you do your work, and do not boast when you are in need."
+    },
+    {
+      "block_id": "oxford-sos-10-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Better is the worker who has goods in plenty than the boaster who lacks bread."
+    },
+    {
+      "block_id": "oxford-sos-10-28",
+      "type": "verse",
+      "number": 28,
+      "text": "My child, honor yourself with humility, and give yourself the esteem you deserve."
+    },
+    {
+      "block_id": "oxford-sos-10-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Who will acquit those who condemn themselves? And who will honor those who dishonor themselves?"
+    },
+    {
+      "block_id": "oxford-sos-10-30",
+      "type": "verse",
+      "number": 30,
+      "text": "The poor are honored for their knowledge, while the rich are honored for their wealth."
+    },
+    {
+      "block_id": "oxford-sos-10-31",
+      "type": "verse",
+      "number": 31,
+      "text": "One who is honored in poverty, how much more in wealth! And one dishonored in wealth, how much more in poverty!"
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-10",
+      "type": "commentary",
+      "text": "10.19–11.6: Honor and humility. True honor accrues to those who (cf. Prov 1.7n) and keep the commandments.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 19,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-sos-10-h1kj-13",
+      "type": "commentary",
+      "text": "26–31 : Although Ben Sira does not condemn , the correlation of and reduces the social disparity between and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 10
+      },
+      "verse_start": 26,
+      "verse_end": 31
+    }
+  ]
+}

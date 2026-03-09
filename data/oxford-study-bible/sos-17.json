@@ -1,0 +1,367 @@
+{
+  "document_id": "sos-17",
+  "title": "sos 17",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-17-heading-18",
+      "type": "heading",
+      "text": "18"
+    },
+    {
+      "block_id": "oxford-sos-17-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He gave them a fixed number of days, but granted them authority over everything on the earth."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , v. 4; Gen 1.28; 9.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-17-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He endowed them with strength like his own, and made them in his own image."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-5",
+      "type": "commentary",
+      "text": "3 . , Gen 1.26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sos-17-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He put the fear of them in all living beings, and gave them dominion over beasts and birds."
+    },
+    {
+      "block_id": "oxford-sos-17-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Discretion and tongue and eyes, ears and a mind for thinking he gave them."
+    },
+    {
+      "block_id": "oxford-sos-17-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He filled them with knowledge and understanding, and showed them good and evil."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-2",
+      "type": "commentary",
+      "text": "16.26–17.7 : An interpretation of Gen 1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-6",
+      "type": "commentary",
+      "text": "6–7 : , in Genesis these things come to humans as a result of disobedience (Gen 2.4–3.24). Ben Sira ignores that part of the story.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-sos-17-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He put the fear of him into their hearts to show them the majesty of his works."
+    },
+    {
+      "block_id": "oxford-sos-17-9",
+      "type": "verse",
+      "number": 9,
+      "text": "to proclaim the grandeur of his works."
+    },
+    {
+      "block_id": "oxford-sos-17-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And they will praise his holy name,"
+    },
+    {
+      "block_id": "oxford-sos-17-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He bestowed knowledge upon them, and allotted to them the law of life."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-8",
+      "type": "commentary",
+      "text": "11 : , the Torah; see 45.5; Deut 30.15–20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-sos-17-12",
+      "type": "verse",
+      "number": 12,
+      "text": "He established with them an eternal covenant, and revealed to them his decrees."
+    },
+    {
+      "block_id": "oxford-sos-17-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Their eyes saw his glorious majesty, and their ears heard the glory of his voice."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-9",
+      "type": "commentary",
+      "text": "12–13 : , a reference to the Sinai theophany and (Ex 19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-17-14",
+      "type": "verse",
+      "number": 14,
+      "text": "He said to them, “Beware of all evil.” And he gave commandment to each of them concerning the neighbor."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-7",
+      "type": "commentary",
+      "text": "11–14 : A shift to Israel and the giving of the Torah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 11,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-10",
+      "type": "commentary",
+      "text": "14 : , Lev 19.18 (cf. Ex 20.13–17; Deut 5.17–21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-17-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Their ways are always known to him; they will not be hid from his eyes."
+    },
+    {
+      "block_id": "oxford-sos-17-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He appointed a ruler for every nation, but Israel is the Lord's own portion."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-12",
+      "type": "commentary",
+      "text": "17 . , Deut 32.8–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-17-19",
+      "type": "verse",
+      "number": 19,
+      "text": "All their works are as clear as the sun before him, and his eyes are ever upon their ways."
+    },
+    {
+      "block_id": "oxford-sos-17-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Their iniquities are not hidden from him, and all their sins are before the Lord."
+    },
+    {
+      "block_id": "oxford-sos-17-22",
+      "type": "verse",
+      "number": 22,
+      "text": "One's almsgiving is like a signet ring with the Lord, and he will keep a person's kindness like the apple of his eye."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-13",
+      "type": "commentary",
+      "text": "22 : (Jer 22.24; Hag 2.23) and (Deut 32.10) suggest a special relationship with God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-sos-17-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Afterward he will rise up and repay them, and he will bring their recompense on their heads."
+    },
+    {
+      "block_id": "oxford-sos-17-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Yet to those who repent he grants a return, and he encourages those who are losing hope."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-1",
+      "type": "commentary",
+      "text": "16.24–17.24: Creation and repentance. A meditation on creation that moves from creation to the giving of the law to Israel, and individuals and repentance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 1,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-11",
+      "type": "commentary",
+      "text": "15–24 : God sees human sin (cf. 15.19) and judges, but and repentance allow .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 15,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-sos-17-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Turn back to the Lord and forsake your sins; pray in his presence and lessen your offense."
+    },
+    {
+      "block_id": "oxford-sos-17-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Return to the Most High and turn away from iniquity, and hate intensely what he abhors."
+    },
+    {
+      "block_id": "oxford-sos-17-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Who will sing praises to the Most High in Hades in place of the living who give thanks?"
+    },
+    {
+      "block_id": "oxford-sos-17-28",
+      "type": "verse",
+      "number": 28,
+      "text": "From the dead, as from one who does not exist, thanksgiving has ceased; those who are alive and well sing the Lord's praises."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-15",
+      "type": "commentary",
+      "text": "27–28 : The dead in (see 14.12n) cannot praise God (cf., e.g., Pss 6.5; 30.9; 88.10–12; Bar 2.17), which should be humanity's response to God (39.12–35; 43.11,27–33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-sos-17-29",
+      "type": "verse",
+      "number": 29,
+      "text": "How great is the mercy of the Lord, and his forgiveness for those who return to him!"
+    },
+    {
+      "block_id": "oxford-sos-17-30",
+      "type": "verse",
+      "number": 30,
+      "text": "For not everything is within human capability, since human beings are not immortal."
+    },
+    {
+      "block_id": "oxford-sos-17-31",
+      "type": "verse",
+      "number": 31,
+      "text": "What is brighter than the sun? Yet it can be eclipsed. So flesh and blood devise evil."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-16",
+      "type": "commentary",
+      "text": "30–31 : If the sun's light can fail, how much more can .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 30,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-sos-17-32",
+      "type": "verse",
+      "number": 32,
+      "text": "He marshals the host of the height of heaven; but all human beings are dust and ashes."
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-14",
+      "type": "commentary",
+      "text": "17.25–32: Mercy and repentance. God's mercy allows repentance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 25,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-sos-17-h1kj-17",
+      "type": "commentary",
+      "text": "32 : , see 10.9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 17
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    }
+  ]
+}

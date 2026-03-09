@@ -1,0 +1,355 @@
+{
+  "document_id": "lam-1",
+  "title": "Lamentations 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lam-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-lam-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "She weeps bitterly in the night, with tears on her cheeks; among all her lovers she has no one to comfort her; all her friends have dealt treacherously with her, they have become her enemies."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , Judah's political allies who failed to support her. The term also hints that by taking lovers, Jerusalem was unfaithful to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lam-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Judah has gone into exile with suffering and hard servitude; she lives now among the nations, and finds no resting place; her pursuers have all overtaken her in the midst of her distress."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-5",
+      "type": "commentary",
+      "text": "3 : is reminiscent of the Egyptian bondage (Ex 1.14; 2.23; 3.7,17; 4.31; 5.11; 6.6), to which the Babylonian exile is likened.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lam-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The roads to Zion mourn, for no one comes to the festivals; all her gates are desolate, her priests groan; her young girls grieve, and her lot is bitter."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , the eastern hill (also called Ophel) in Jerusalem that was the site of the original Jebusite city (2 Sam 5:6–9), often used as a synonym for Jerusalem (this is a synecdoche, or using a part of something to stand for the whole thing).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-lam-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Her foes have become the masters, her enemies prosper, because the Lord has made her suffer for the multitude of her transgressions; her children have gone away, captives before the foe."
+    },
+    {
+      "block_id": "oxford-lam-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "From daughter Zion has departed all her majesty. Her princes have become like stags that find no pasture; they fled without strength before the pursuer."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , or “Mistress Zion,” a common epithet (e.g., 1.15; 2.1; 4.22), meaning “dear little Zion.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-lam-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Jerusalem remembers, in the days of her affliction and wandering, all the precious things that were hers in days of old. When her people fell into the hand of the foe, and there was no one to help her, the foe looked on mocking over her downfall."
+    },
+    {
+      "block_id": "oxford-lam-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Jerusalem sinned grievously, so she has become a mockery; all who honored her despise her, for they have seen her nakedness; she herself groans, and turns her face away."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-8",
+      "type": "commentary",
+      "text": "8 : , or “banished.” , shame, especially sexual shame (cf. Isa 47.5; Jer 13.22; Ezek 16.37; Nah 3.5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-lam-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Her uncleanness was in her skirts; she took no thought of her future; her downfall was appalling, with none to comfort her. “O Lord, look at my affliction, for the enemy has triumphed!”"
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-9",
+      "type": "commentary",
+      "text": "9 : , probably not from menstruation but from sexual impropriety; see Num 5.19. Jerusalem's sin was unfaithfulness to God, the taking of other “lovers.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-lam-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Enemies have stretched out their hands over all her precious things; she has even seen the nations invade her sanctuary, those whom you forbade to enter your congregation."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , the Temple treasures looted by the victors (cf. 2 Chr 36.10). The Babylonian invasion is conveyed in sexual terms, as a rape of Jerusalem by someone who had no right of access to her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-lam-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "All her people groan as they search for bread; they trade their treasures for food to revive their strength. Look, O Lord, and see how worthless I have become."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–11: The poet laments Jerusalem. Jerusalem, personified as a woman, is widowed, abandoned, and shamed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-11",
+      "type": "commentary",
+      "text": "11 : Jerusalem speaks in the final line, and continues speaking in vv. 12–16 and 18–22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-lam-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the Lord inflicted on the day of his fierce anger."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , the Heb word is much stronger and actually conveys violence (cf. 1 Sam 31.4; Jer 38.19; Judg 19.25). , like “the day of the ,” when God comes in judgment against Judah itself (e.g., Am 5.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-lam-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "From on high he sent fire; it went deep into my bones; he spread a net for my feet; he turned me back; he has left me stunned, faint all day long."
+    },
+    {
+      "block_id": "oxford-lam-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "My transgressions were bounda into a yoke; by his hand they were fastened together; they weigh on my neck, sapping my strength; the Lord handed me over to those whom I cannot withstand."
+    },
+    {
+      "block_id": "oxford-lam-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The Lord has rejected all my warriors in the midst of me; he proclaimed a time against me to crush my young men; the Lord has trodden as in a wine press the virgin daughter Judah."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-14",
+      "type": "commentary",
+      "text": "15 : , crushed so the blood runs out (see Deut 32.14; Isa 63.1–2). , part of the epithet (compare “daughter Zion and see 1.6n.), Heb “betulah” means a girl of marriageable age.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-lam-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "For these things I weep; my eyes flow with tears; for a comforter is far from me, one to revive my courage; my children are desolate, for the enemy has prevailed."
+    },
+    {
+      "block_id": "oxford-lam-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Zion stretches out her hands, but there is no one to comfort her; the Lord has commanded against Jacob that his neighbors should become his foes; Jerusalem has become a filthy thing among them."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-15",
+      "type": "commentary",
+      "text": "17 : , a common postexilic term for Judah. , a menstruant, who is ritually impure, not fit to come into contact with holy things and off-limits for sexual relations (see Lev 18.19). Jerusalem's “lovers” (vv. 2,19) distance themselves from her. The narrator interrupts Jerusalem's speech, just as she did his (v. 9c).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lam-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The Lord is in the right, for I have rebelled against his word; but hear, all you peoples, and behold my suffering; my young women and young men have gone into captivity."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-16",
+      "type": "commentary",
+      "text": "18 : An admission of sin, but the emphasis is on the suffering.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-lam-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "I called to my lovers but they deceived me; my priests and elders perished in the city while seeking food to revive their strength."
+    },
+    {
+      "block_id": "oxford-lam-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "See, O Lord, how distressed I am; my stomach churns, my heart is wrung within me, because I have been very rebellious. In the street the sword bereaves; in the house it is like death."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-17",
+      "type": "commentary",
+      "text": "20 : , better “inner organs,” the seat of emotions. , better “outside,” that is, outside the city walls where the fighting took place. Inside the besieged city the inhabitants were ravaged by famine and disease (see Ezek 7.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-lam-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "They heard how I was groaning, with no one to comfort me. All my enemies heard of my trouble; they are glad that you have done it. Bring on the day you have announced, and let them be as I am."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-18",
+      "type": "commentary",
+      "text": "21 : , a day of God's judgment against the enemies of Jerusalem (cf. v. 12n.; Ob 15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-lam-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Let all their evil doing come before you; and deal with them as you have dealt with me because of all my transgressions; for my groans are many and my heart is faint."
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–22. Lament over the destroyed Jerusalem. The chapter has two parts, vv. 1–11, the lament of the narrator, and vv. 12–22, the lament of the city. Shame, mourning, and suffering are the main themes. The phrase “no one to comfort her/me” occurs four times (vv. 2,9,17,21; cf. vv. 7,16) and emphasizes unceasing mourning.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-12",
+      "type": "commentary",
+      "text": "1.12–22. Jerusalem's lament.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-lam-1-h1kj-19",
+      "type": "commentary",
+      "text": "22 : Not simply vindictive revenge, this is a plea to restore the world order in which Israel is safe under God's protection and its enemies are banished; chs 3 and 4 end similarly. The trope of the destruction of the enemy is common in psalms of lament.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lam",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "document_id": "hag-2",
+  "title": "Haggai 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hag-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "in the seventh month, on the twenty- first day of the month, the word of the Lord came by the prophet Haggai, saying:"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-2",
+      "type": "commentary",
+      "text": "1.15b–2.1 : , Tishri (September-October); , when the community would have been celebrating the feast of booths (Lev 23.33–36,39–42).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-hag-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak now to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and to the remnant of the people, and say,"
+    },
+    {
+      "block_id": "oxford-hag-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Who is left among you that saw this house in its former glory? How does it look to you now? Is it not in your sight as nothing?"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-3",
+      "type": "commentary",
+      "text": "2.3 : As in v. 4, Haggai poses questions, the last two of which are rhetorical. The first question indicates that at least some of those present had seen the First Temple before it was destroyed in 586 (cf. Ezra 3.12–13). They would have been more than seventy years old to remember the First Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hag-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Yet now take courage, O Zerubbabel, says the Lord; take courage, O Joshua, son of Jehozadak, the high priest; take courage, all you people of the land, says the Lord; work, for I am with you, says the Lord of hosts,"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , cf. Zech 8.9,13,22–23, where the same Hebrew word occurs. In 1 Chr 28.10,20, David delivers a similar exhortation to Solomon, builder of the First Temple. probably refers to the same group known earlier as , although some scholars have suggested that the former phrase refers to a rural population that did not go into exile. , see 1.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hag-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "according to the promise that I made you when you came out of Egypt. My spirit abides among you; do not fear."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-5",
+      "type": "commentary",
+      "text": "5 : The Hebrew is difficult, reading literally, “The matter that I covenanted with you when you came out of Egypt.” Haggai is clearly alluding to the Exodus and Sinai experiences, and claiming that God's covenant is still in force. The notion of God's residing among the people is unusual. However, God could not be present as before, since the Temple had not yet been rebuilt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hag-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For thus says the Lord of hosts: Once again, in a little while, I will shake the heavens and the earth and the sea and the dry land;"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-7",
+      "type": "commentary",
+      "text": "6 : God will now act on behalf of the Temple. is difficult in Hebrew, literally, “yet one, and it is only a little one.” References to such shaking of the cosmos often occur in eschatological literature (e.g., v. 21; Isa 13.13; Joel 3.16; Heb 12.26). Here the very fabric of the universe quakes, not just mountains. This description of the universe— echoes that in Gen 1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hag-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "and I will shake all the nations, so that the treasure of all nations shall come, and I will fill this house with splendor, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-8",
+      "type": "commentary",
+      "text": "7 : refers to precious objects (see Hos 13.15; 2 Chr 32.27), which means that Haggai anticipates new ritual vessels will be provided for the Temple, the old ones having been plundered by the Neo-Babylonians (cf. 2 Kings 24.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-hag-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The silver is mine, and the gold is mine, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-9",
+      "type": "commentary",
+      "text": "8 : On silver and gold, cf. Zech 6.9–15, where they are products of fund-raising.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-hag-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The latter splendor of this house shall be greater than the former, says the Lord of hosts; and in this place I will give prosperity, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-1",
+      "type": "commentary",
+      "text": "1.15b–2.9: The Temple will be filled with splendor. Contrary to current experience, the promises that this Temple will be even more glorious than the earlier one.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-6",
+      "type": "commentary",
+      "text": "2.6–9: An oracle announcing theophanic splendor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , Heb “shalom.” The rebuilt Temple will engender well-being in Yehud, reversing the conditions described in 1.6,9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hag-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came by the prophet Haggai, saying:"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-12",
+      "type": "commentary",
+      "text": "10 : December 18, 520 , two months since the oracle promising . comes literally “to” Haggai, not “by” as was the case in 1.3 and 2.1; i.e., this is a private oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-hag-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Thus says the Lord of hosts: Ask the priests for a ruling:"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-13",
+      "type": "commentary",
+      "text": "11 : , Heb “torah.” Priests were responsible for determining whether something or someone was holy or common, clean or unclean (Lev 10.10–11; Deut 33.10). Unlike the priests indicted in Ezek 22.26, those whom Haggai consults give proper responses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hag-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "If one carries consecrated meat in the fold of one's garment, and with the fold touches bread, or stew, or wine, or oil, or any kind of food, does it become holy? The priests answered, “No.”"
+    },
+    {
+      "block_id": "oxford-hag-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then Haggai said, “If one who is unclean by contact with a dead body touches any of these, does it become unclean?” The priests answered, “Yes, it becomes unclean.”"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-14",
+      "type": "commentary",
+      "text": "12–13 : Two cases, one involving something holy, another involving something unclean, demonstrate the supremely contagious quality of the latter. Corpse uncleanness is especially difficult to remove (Num 19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hag-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Haggai then said, So is it with this people, and with this nation before me, says the Lord; and so with every work of their hands; and what they offer there is unclean."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-11",
+      "type": "commentary",
+      "text": "2.10–14: The community is unclean.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-15",
+      "type": "commentary",
+      "text": "14 : Haggai focuses on as Sacrifices presented at the altar and the Temple, which was under construction, are unclean, presumably because the Temple itself has not yet been rededicated. The unclean Temple is analogous to a corpse in its ability to defile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hag-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But now, consider what will come to pass from this day on. Before a stone was placed upon a stone in the Lord's temple,"
+    },
+    {
+      "block_id": "oxford-hag-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "how did you fare? When one came to a heap of twenty measures, there were but ten; when one came to the wine vat to draw fifty measures, there were but twenty."
+    },
+    {
+      "block_id": "oxford-hag-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "I struck you and all the products of your toil with blight and mildew and hail; yet you did not return to me, says the Lord."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-17",
+      "type": "commentary",
+      "text": "15–17 : The repetition of in this oracle mirrors the twofold use in 1.5,7. Haggai appeals to past agricultural disaster, comparable to that depicted in 1.6,10–11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-hag-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Consider from this day on, from the twenty-fourth day of the ninth month. Since the day that the foundation of the Lord's temple was laid, consider:"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-18",
+      "type": "commentary",
+      "text": "18 : almost certainly refers to the day on which the Temple's foundation stone was relaid (cf. Zech 4.9; Ezra 3.10–11). Even though the Temple will not be completed and rededicated until 515 , the Temple has now been purified.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-hag-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Is there any seed left in the barn? Do the vine, the fig tree, the pomegranate, and the olive tree still yield nothing? From this day on I will bless you."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-16",
+      "type": "commentary",
+      "text": "2.15–19: The Temple is rededicated. Since 2:20 refers to a second on the twenty-fourth day, 2.15–19 are part of the first word, which begins at 2.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-19",
+      "type": "commentary",
+      "text": "19 : Haggai's questions (cf. 1.4; 2.3,16) affirm that seeds will be planted and that vines and trees will yield fruit. Prior agricultural disaster will give way to fertility. The final words are literally “I will bless,” the implication being that the “shalom” foreseen in 2.9 will include both the people and the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-hag-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The word of the Lord came a second time to Haggai on the twenty-fourth day of the month:"
+    },
+    {
+      "block_id": "oxford-hag-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth,"
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-21",
+      "type": "commentary",
+      "text": "21 : The diction of “shaking” the nations resumes that in 2.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-hag-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "and to overthrow the throne of kingdoms; I am about to destroy the strength of the kingdoms of the nations, and overthrow the chariots and their riders; and the horses and their riders shall fall, every one by the sword of a comrade."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-22",
+      "type": "commentary",
+      "text": "22 : God will destroy unnamed nations. The language is allusive, e.g., echoes Jer 51.21, Gen 19.25, Judg 7.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-hag-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "On that day, says the Lord of hosts, I will take you, O Zerubbabel my servant, son of Shealtiel, says the Lord, and make you like a signet ring; for I have chosen you, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-20",
+      "type": "commentary",
+      "text": "2.20–23: Zerubbabel, my servant and signet ring. On that same , a second oracle focuses on Zerubbabel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-hag-2-h1kj-23",
+      "type": "commentary",
+      "text": "23 : , a phrase routinely used to depict the eschatological “day of the .” means that Zerubbabel stands in the Davidic line, the grandson of Jehoiachin, Judah's last reigning king. The diction of (God “chose” David, Ps 78.70), (the Davidic king can be so labeled, 2 Sam 7.5), and (Jer 22.24 likens a king to a signet ring) all suggest that Haggai thinks Zerubbabel will achieve royal status. Zerubbabel's actual fate, however, is unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hag",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    }
+  ]
+}

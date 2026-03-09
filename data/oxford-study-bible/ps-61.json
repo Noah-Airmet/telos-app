@@ -1,0 +1,121 @@
+{
+  "document_id": "ps-61",
+  "title": "Psalms 61",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-61-heading-psalm-62",
+      "type": "heading",
+      "text": "Psalm 62"
+    },
+    {
+      "block_id": "oxford-ps-61-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear my cry, O God; listen to my prayer."
+    },
+    {
+      "block_id": "oxford-ps-61-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 61: Plea to be in God’s Temple. An individual, far away from the Temple, prays to be led there and enjoy its protection and nourishment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-61-2",
+      "type": "verse",
+      "number": 2,
+      "text": "From the end of the earth I call to you, when my heart is faint. Lead me to the rock that is higher than I;"
+    },
+    {
+      "block_id": "oxford-ps-61-3",
+      "type": "verse",
+      "number": 3,
+      "text": "for you are my refuge, a strong tower against the enemy."
+    },
+    {
+      "block_id": "oxford-ps-61-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let me abide in your tent forever, find refuge under the shelter of your wings. Selah"
+    },
+    {
+      "block_id": "oxford-ps-61-h1kj-2",
+      "type": "commentary",
+      "text": "2–4 : , a remote place, far from the center in Jerusalem. , all can refer to the Temple and its precincts; see also Ps 57.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-61-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-61-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For you, O God, have heard my vows; you have given me the heritage of those who fear your name."
+    },
+    {
+      "block_id": "oxford-ps-61-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , best understood as an expression of confidence that God will hear his vows.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-61-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Prolong the life of the king; may his years endure to all generations!"
+    },
+    {
+      "block_id": "oxford-ps-61-h1kj-5",
+      "type": "commentary",
+      "text": "6 : The king, as God’s anointed, was closely associated with the Temple; he also represented the people and so the psalmist’s request is to join the people in their worship as in Pss 42–43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 61
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-61-7",
+      "type": "verse",
+      "number": 7,
+      "text": "May he be enthroned forever before God; appoint steadfast love and faithfulness to watch over him!"
+    },
+    {
+      "block_id": "oxford-ps-61-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So I will always sing praises to your name, as I pay my vows day after day."
+    }
+  ]
+}

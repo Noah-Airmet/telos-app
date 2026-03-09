@@ -1,0 +1,386 @@
+{
+  "document_id": "jer-13",
+  "title": "Jeremiah 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Thus said the Lord to me, “Go and buy yourself a linen loincloth, and put it on your loins, but do not dip it in water.”"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-5",
+      "type": "commentary",
+      "text": "1 : , an undergarment, perhaps a sign of priestly purity (see Lev 8.1–9; Ezek 44.17–18; Zech 3.1–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-jer-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "So I bought a loincloth according to the word of the Lord, and put it on my loins."
+    },
+    {
+      "block_id": "oxford-jer-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And the word of the Lord came to me a second time, saying,"
+    },
+    {
+      "block_id": "oxford-jer-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "“Take the loincloth that you bought and are wearing, and go now to the Euphrates, and hide it there in a cleft of the rock.”"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-6",
+      "type": "commentary",
+      "text": "4 : (Heb “perat”) may be an error for the town of Parah (textual note ), mentioned in Josh 18.23, or the sign may be a literary device; cf. the prophetic sign associated with the Euphrates in 51.60–64.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jer-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "So I went, and hid it by the Euphrates, as the Lord commanded me."
+    },
+    {
+      "block_id": "oxford-jer-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And after many days the Lord said to me, “Go now to the Euphrates, and take from there the loincloth that I commanded you to hide there.”"
+    },
+    {
+      "block_id": "oxford-jer-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Then I went to the Euphrates,b and dug, and I took the loincloth from the place where I had hidden it. But now the loincloth was ruined; it was good for nothing."
+    },
+    {
+      "block_id": "oxford-jer-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Then the word of the Lord came to me:"
+    },
+    {
+      "block_id": "oxford-jer-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Thus says the Lord: Just so I will ruin the pride of Judah and the great pride of Jerusalem."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-8",
+      "type": "commentary",
+      "text": "9 : is often judged negatively, whether that of Israel and Jerusalem (Hos 5.5; Am 6.8) or other nations (48.29; Isa 13.11,19; Ezek 16.49).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-jer-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "This evil people, who refuse to hear my words, who stubbornly follow their own will and have gone after other gods to serve them and worship them, shall be like this loincloth, which is good for nothing."
+    },
+    {
+      "block_id": "oxford-jer-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For as the loincloth clings to one's loins, so I made the whole house of Israel and the whole house of Judah cling to me, says the Lord, in order that they might be for me a people, a name, a praise, and a glory. But they would not listen."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-4",
+      "type": "commentary",
+      "text": "1–11 : Sign-acts are a common feature of prophetic behavior (cf. chs 16; 18; 19; 32; Ezek 4.1–5.17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-7",
+      "type": "commentary",
+      "text": "8–11 : Two different interpretations of the action are given: the ruined linen undergarment represents the ruin of Judah and Jerusalem; and the people of Israel and Judah should have clung to God the way a linen undergarment clings to the body.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 8,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jer-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "You shall speak to them this word: Thus says the Lord, the God of Israel: Every wine-jar should be filled with wine. And they will say to you, “Do you think we do not know that every wine-jar should be filled with wine?”"
+    },
+    {
+      "block_id": "oxford-jer-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then you shall say to them: Thus says the Lord: I am about to fill all the inhabitants of this land—the kings who sit on David's throne, the priests, the prophets, and all the inhabitants of Jerusalem—with drunkenness."
+    },
+    {
+      "block_id": "oxford-jer-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And I will dash them one against another, parents and children together, says the Lord. I will not pity or spare or have compassion when I destroy them."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-9",
+      "type": "commentary",
+      "text": "12–14 : Being often means drunkenness or even being poisoned (25.15–16; 51.7; Ezek 23.33). , cf. 51.20–23; Pss 2.9; 137.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 12,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-jer-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Hear and give ear; do not be haughty, for the Lord has spoken."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-10",
+      "type": "commentary",
+      "text": "15 : , cf. 9n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Give glory to the Lord your God before he brings darkness, and before your feet stumble on the mountains at twilight; while you look for light, he turns it into gloom and makes it deep darkness."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-11",
+      "type": "commentary",
+      "text": "16 : , an invitation to provide a judgment doxology, as in 10.1–8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-jer-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But if you will not listen, my soul will weep in secret for your pride; my eyes will weep bitterly and run down with tears, because the Lord's flock has been taken captive."
+    },
+    {
+      "block_id": "oxford-jer-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Say to the king and the queen mother: “Take a lowly seat, for your beautiful crown has come down from your head.”"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-12",
+      "type": "commentary",
+      "text": "18 : , either Jehoiakim, who reigned through most of the first Babylonian siege until 597 , or his son Jehoiachin, who reigned briefly before being taken into exile in the same year. Those at the top of the socio-political hierarchy are brought down to a (see chs 21–24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The towns of the Negeb are shut up with no one to open them; all Judah is taken into exile, wholly taken into exile."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-13",
+      "type": "commentary",
+      "text": "19 : , the southernmost region of Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-jer-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Lift up your eyes and see those who come from the north. Where is the flock that was given you, your beautiful flock?"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-14",
+      "type": "commentary",
+      "text": "20 : , the invading Babylonian army; see 1.14n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-jer-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "What will you say when they set as head over you those whom you have trained to be your allies? Will not pangs take hold of you, like those of a woman in labor?"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-15",
+      "type": "commentary",
+      "text": "21 : The pains of childbirth symbolize agony and despair; cf. Isa 13.8; Mic 4.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And if you say in your heart, “Why have these things come upon me?” it is for the greatness of your iniquity that your skirts are lifted up, and you are violated."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-16",
+      "type": "commentary",
+      "text": "22 : Exposure and sexual violence violation was a form of punishment; cf. v. 26; Nah 3.5; Ezek 16.35–43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-jer-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Can Ethiopians change their skin or leopards their spots? Then also you can do good who are accustomed to do evil."
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-17",
+      "type": "commentary",
+      "text": "23 : , the inhabitants of Cush, the land south of Egypt.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-jer-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "I will scatter you like chaff driven by the wind from the desert."
+    },
+    {
+      "block_id": "oxford-jer-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "This is your lot, the portion I have measured out to you, says the Lord, because you have forgotten me and trusted in lies."
+    },
+    {
+      "block_id": "oxford-jer-13-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I myself will lift up your skirts over your face, and your shame will be seen."
+    },
+    {
+      "block_id": "oxford-jer-13-27",
+      "type": "verse",
+      "number": 27,
+      "text": "I have seen your abominations, your adulteries and neighings, your shameless prostitutions on the hills of the countryside. Woe to you, O Jerusalem! How long will it be before you are made clean?"
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-1",
+      "type": "commentary",
+      "text": "11.1–17.27: Accusation and lament. The unit has three parts: 11.1–12.17; 13.1–15.21; and 16.1–17.27. Each begins with a prose sermon or prose account that highlights divine judgment, followed by one or more laments (11.18–12.13; 15.15–21; 17.14–18). This juxtaposition creates a degree of narrative coherence. At God's command, Jeremiah challenges aspects of Israel's cherished beliefs, traditions, and institutions; the people retaliate, determined to silence God's voice; and Jeremiah cries out to God for justice, declaring his innocence and his adversaries’ culpability.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–15.21: Signs of destruction. The story of the loincloth (13.1–11), a prophetic symbolic action, introduces this composite unit, followed by a judgment statement based on a conventional proverb (13.12–14) and a series of poems (13.15–17,18–19,20–27). All accuse Judah of sins that will lead to its collapse. Such accusations and warnings elicit intense expressions of grief by the community (14.1–9 and 14.19–22)—to which God responds (14.10–12 and 15.1–4,5–9)—and by Jeremiah (14.13; 15.10,15–18) to which God also responds (14.14–18; 15.11–14,19–21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-3",
+      "type": "commentary",
+      "text": "13.1–27: The sign of the loincloth. A series of oracles held together by word associations. The series is introduced with the symbolic story of Jeremiah's loincloth, representing God's intimacy with Israel and Israel's “clinging” to God (v. 11); it also represents the “ruined” nature of the relationship that was now “good for nothing” (v. 10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-13-h1kj-18",
+      "type": "commentary",
+      "text": "27 : , the lust of horses was a strong symbol of sexual depravity symbolizing Israel's foreign dalliances and resulting religious apostasextRef (5.8; Ezek 23.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 13
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    }
+  ]
+}

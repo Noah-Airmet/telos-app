@@ -1,0 +1,109 @@
+{
+  "document_id": "ps-129",
+  "title": "Psalms 129",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-129-heading-psalm-130",
+      "type": "heading",
+      "text": "Psalm 130"
+    },
+    {
+      "block_id": "oxford-ps-129-1",
+      "type": "verse",
+      "number": 1,
+      "text": "“Often have they attacked me from my youth” —let Israel now say—"
+    },
+    {
+      "block_id": "oxford-ps-129-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 129: Prayer against Zion’s enemies. A community petition that the punish those who have persecuted Israel. As often in Songs of Ascents (see Ps 120n.), step‐parallelism highlights key phrases, and The complaint is not so much of present suffering but of relentless, unending sufferings (vv. 1,2), perhaps referring to Egyptian bondage (cf. Hos 2.15; Jer 2.2; Ezek 23.3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 129
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-129-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“often have they attacked me from my youth, yet they have not prevailed against me."
+    },
+    {
+      "block_id": "oxford-ps-129-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The plowers plowed on my back; they made their furrows long.”"
+    },
+    {
+      "block_id": "oxford-ps-129-h1kj-2",
+      "type": "commentary",
+      "text": "3 : , perhaps echoing Isa 51.23, which quotes Israel’s tormentors in the exile. Thus the psalmist complains about the sufferings of being the ’s people in the world, selecting two typical instances of suffering, one from the Exodus (vv. 1,2) and the other from the sixth‐century exile (v. 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 129
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-129-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Lord is righteous; he has cut the cords of the wicked."
+    },
+    {
+      "block_id": "oxford-ps-129-5",
+      "type": "verse",
+      "number": 5,
+      "text": "May all who hate Zion be put to shame and turned backward."
+    },
+    {
+      "block_id": "oxford-ps-129-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let them be like the grass on the housetops that withers before it grows up,"
+    },
+    {
+      "block_id": "oxford-ps-129-h1kj-3",
+      "type": "commentary",
+      "text": "6 : , weeds growing on mud‐plastered roofs; cf. 2 Kings 19.26; Isa 37.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 129
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-129-7",
+      "type": "verse",
+      "number": 7,
+      "text": "with which reapers do not fill their hands or binders of sheaves their arms,"
+    },
+    {
+      "block_id": "oxford-ps-129-8",
+      "type": "verse",
+      "number": 8,
+      "text": "while those who pass by do not say, “The blessing of the Lord be upon you! We bless you in the name of the Lord!”"
+    },
+    {
+      "block_id": "oxford-ps-129-h1kj-4",
+      "type": "commentary",
+      "text": "8 : Likely a standard blessing formula used in the postexilic period.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 129
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

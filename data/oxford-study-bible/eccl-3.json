@@ -1,0 +1,266 @@
+{
+  "document_id": "eccl-3",
+  "title": "Ecclesiastes 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-eccl-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "a time to be born, and a time to die; a time to plant, and a time to pluck up what is planted;"
+    },
+    {
+      "block_id": "oxford-eccl-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "a time to kill, and a time to heal; a time to break down, and a time to build up;"
+    },
+    {
+      "block_id": "oxford-eccl-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+    },
+    {
+      "block_id": "oxford-eccl-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "a time to throw away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+    },
+    {
+      "block_id": "oxford-eccl-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "a time to seek, and a time to lose; a time to keep, and a time to throw away;"
+    },
+    {
+      "block_id": "oxford-eccl-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;"
+    },
+    {
+      "block_id": "oxford-eccl-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "a time to love, and a time to hate; a time for war, and a time for peace."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-2",
+      "type": "commentary",
+      "text": "1–8 : A poem asserting there is “a time” for twenty-eight activities, presented in fourteen antithetical pairs. Although some pairs are closely associated (e.g., those in v. 4), there is no clear structure other than a recurring contrast between life and death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-eccl-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "What gain have the workers from their toil?"
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-4",
+      "type": "commentary",
+      "text": "9 : See 1.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-eccl-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "I have seen the business that God has given to everyone to be busy with."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-6",
+      "type": "commentary",
+      "text": "10 : , see 1.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-eccl-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "He has made everything suitable for its time; moreover he has put a sense of past and future into their minds, yet they cannot find out what God has done from the beginning to the end."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-7",
+      "type": "commentary",
+      "text": "11 : , lit., “beautiful.” , an expansionistic translation of one Heb word (“ʿolam”), usually translated “eternity.” Humans may sense that their lives participate in a divine drama that they cannot fully grasp, but this is no mere limitation; it is rather a necessary consequence of their God-given condition. This condition prevents full knowledge, yet keeps humans busy (v. 10), and relates in some way to their capacities and (vv. 12–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-eccl-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I know that there is nothing better for them than to be happy and enjoy themselves as long as they live;"
+    },
+    {
+      "block_id": "oxford-eccl-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "moreover, it is God's gift that all should eat and drink and take pleasure in all their toil."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-8",
+      "type": "commentary",
+      "text": "13 : See 2.24n.,26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-eccl-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "I know that whatever God does endures forever; nothing can be added to it, nor anything taken from it; God has done this, so that all should stand in awe before him."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-9",
+      "type": "commentary",
+      "text": "14 : , another expansionistic translation of Heb “ʿolam” (see v. 11n.); lit., “everything God does is for eternity.” God created this unalterable condition so that humans will feel fear before God. Qohelet thus correlates the human fear of God, the desire to know what cannot be known, and the state of being perpetually occupied (v. 10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-eccl-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "That which is, already has been; that which is to be, already is; and God seeks out what has gone by."
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–15: The cause of human desire.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-5",
+      "type": "commentary",
+      "text": "10–15 : A commentary on 3.1–8. People generally have a sense that suitable times exist for particular events, but the unpredictability of future conditions prevents anyone from being certain about which moment is right for which event.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-10",
+      "type": "commentary",
+      "text": "15b : A terse summary of Qohelet's commentary on the poem in 3.1–8; lit., “God seeks what is pursued.” Qohelet may mean that God designed the entire cosmos, including humans, to be in constant motion, with no clear goal (cf. 1.3–11); thus, God aims to produce the ceaseless act of pursuit. In relation to 3.10–15, God has created humans as perpetually desirous beings, driven to pursue life passionately, and capable of enjoying the pursuit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-eccl-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Moreover I saw under the sun that in the place of justice, wickedness was there, and in the place of righteousness, wickedness was there as well."
+    },
+    {
+      "block_id": "oxford-eccl-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "I said in my heart, God will judge the righteous and the wicked, for he has appointed a time for every matter, and for every work."
+    },
+    {
+      "block_id": "oxford-eccl-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "I said in my heart with regard to human beings that God is testing them to show that they are but animals."
+    },
+    {
+      "block_id": "oxford-eccl-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For the fate of humans and the fate of animals is the same; as one dies, so dies the other. They all have the same breath, and humans have no advantage over the animals; for all is vanity."
+    },
+    {
+      "block_id": "oxford-eccl-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "All go to one place; all are from the dust, and all turn to dust again."
+    },
+    {
+      "block_id": "oxford-eccl-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Who knows whether the human spirit goes upward and the spirit of animals goes downward to the earth?"
+    },
+    {
+      "block_id": "oxford-eccl-3-22",
+      "type": "verse",
+      "number": 22,
+      "text": "So I saw that there is nothing better than that all should enjoy their work, for that is their lot; who can bring them to see what will be after them?"
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-11",
+      "type": "commentary",
+      "text": "3.16–22: One fate for all. Qohelet asserts that there must be a final judgment of the righteous and wicked, but concludes that no one can know anything about it. People do know, however, that humans and animals alike (v. 19) “go to one place”— “the dust” (v. 20). Sheol is the traditional Hebrew name for the dusty underworld into which all people were assumed to descend at death. Some may believe in a beatific afterlife for humans (v. 21), but Qohelet refuses to speculate.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-eccl-3-h1kj-12",
+      "type": "commentary",
+      "text": "22 : As in 2.24–26, even though the future remains unknowable and no one can beyond their death, humans remain capable of enjoying their labor while living.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 3
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    }
+  ]
+}

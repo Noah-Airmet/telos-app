@@ -1,0 +1,487 @@
+{
+  "document_id": "matt-8",
+  "title": "Matthew 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-matt-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-matt-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and there was a leper who came to him and knelt before him, saying, “Lord, if you choose, you can make me clean.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , the skin condition of persons with leprosy rendered them ritually unclean (Lev ch 13; Num 5.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-matt-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He stretched out his hand and touched him, saying, “I do choose. Be made clean!” Immediately his leprosyb was cleansed."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-4",
+      "type": "commentary",
+      "text": "3 : was a serious skin disease, including what we describe as leprosy today (Hansen's disease), as well as many other disorders such as psoriasis, lupus, ringworm, and favus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-matt-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then Jesus said to him, “See that you say nothing to anyone; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-2",
+      "type": "commentary",
+      "text": "8.1–4: The cleansing of a man with leprosy (Mk 1.40–45; Lk 5.12–16). Matthew emphasizes Jesus's divine calm by eliminating Mark's reference to Jesus's emotions (Mk 1.41,43).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , offerings for the cleansing of a person with leprosy (Lev. ch 14). This man heeds Jesus's command to tell no one (contrast Mk 1.40–5).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-matt-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "When he entered Capernaum, a centurion came to him, appealing to him"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , a Roman officer commanding about a hundred men.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-matt-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and saying, “Lord, my servant is lying at home paralyzed, in terrible distress.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , or “child.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-matt-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "And he said to him, “I will come and cure him.”"
+    },
+    {
+      "block_id": "oxford-matt-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The centurion answered, “Lord, I am not worthy to have you come under my roof; but only speak the word, and my servant will be healed."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , contact with Gentiles could make Jews ritually unclean (Acts 10.28; )",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-matt-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For I also am a man under authority, with soldiers under me; and I say to one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my slave, ‘Do this,’ and the slave does it.”"
+    },
+    {
+      "block_id": "oxford-matt-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "When Jesus heard him, he was amazed and said to those who followed him, “Truly I tell you, in no one in Israel have I found such faith."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-10",
+      "type": "commentary",
+      "text": "10 : , in Matthew the two figures commended by Jesus for their faith are Gentiles (cf. 15.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-matt-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I tell you, many will come from east and west and will eat with Abraham and Isaac and Jacob in the kingdom of heaven,"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-11",
+      "type": "commentary",
+      "text": "11 : , the messianic banquet (22.1–10; Isa 2.2–4; 25.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-matt-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "while the heirs of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing of teeth.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-12",
+      "type": "commentary",
+      "text": "12 : 10.4–6; 62.11. , an indication of sharp pain or vexation. This phrase, which occurs six times in Matthew, expresses the dire consequences of exclusion from the kingdom (13.42,50; 22.13; 24.51; 25.30; cf. Lk 12.47; 13.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-matt-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And to the centurion Jesus said, “Go; let it be done for you according to your faith.” And the servant was healed in that hour."
+    },
+    {
+      "block_id": "oxford-matt-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When Jesus entered Peter's house, he saw his mother-in-law lying in bed with a fever;"
+    },
+    {
+      "block_id": "oxford-matt-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "he touched her hand, and the fever left her, and she got up and began to serve him."
+    },
+    {
+      "block_id": "oxford-matt-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "That evening they brought to him many who were possessed with demons; and he cast out the spirits with a word, and cured all who were sick."
+    },
+    {
+      "block_id": "oxford-matt-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "This was to fulfill what had been spoken through the prophet Isaiah, “He took our infirmities and bore our diseases.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-6",
+      "type": "commentary",
+      "text": "8.5–17: Many healings (Lk 7.1–10; Jn 4.43–54; Mk 1.29–34; Lk 4.38–41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 5,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-13",
+      "type": "commentary",
+      "text": "17 : A fulfillment citation of Isa 53.4. Matthew's form of the citation emphasizes physical rather than spiritual healing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-matt-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Now when Jesus saw great crowds around him, he gave orders to go over to the other side."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-15",
+      "type": "commentary",
+      "text": "18 : , the eastern shore of the Sea of Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-matt-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "A scribe then approached and said, “Teacher, I will follow you wherever you go.”"
+    },
+    {
+      "block_id": "oxford-matt-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And Jesus said to him, “Foxes have holes, and birds of the air have nests; but the Son of Man has nowhere to lay his head.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-16",
+      "type": "commentary",
+      "text": "20 : , an enigmatic self-designation used by Jesus that has at least three senses in Matthew: Jesus as a human being; Jesus as a figure who must suffer and die; Jesus as divine judge at the end of days (cf. Dan 7.13–14). The first sense is in view here.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-matt-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Another of his disciples said to him, “Lord, first let me go and bury my father.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-17",
+      "type": "commentary",
+      "text": "21 : , although the burial of kinsmen was among the most pressing of sacred duties for Jews (Tob 1.18–19; 18a), it is entirely eclipsed by the call to follow Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-matt-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But Jesus said to him, “Follow me, and let the dead bury their own dead.”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-14",
+      "type": "commentary",
+      "text": "8.18–22: Would-be followers of Jesus (Lk 9.57–62).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 18,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-matt-8-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And when he got into the boat, his disciples followed him."
+    },
+    {
+      "block_id": "oxford-matt-8-24",
+      "type": "verse",
+      "number": 24,
+      "text": "A windstorm arose on the sea, so great that the boat was being swamped by the waves; but he was asleep."
+    },
+    {
+      "block_id": "oxford-matt-8-25",
+      "type": "verse",
+      "number": 25,
+      "text": "And they went and woke him up, saying, “Lord, save us! We are perishing!”"
+    },
+    {
+      "block_id": "oxford-matt-8-26",
+      "type": "verse",
+      "number": 26,
+      "text": "And he said to them, “Why are you afraid, you of little faith?” Then he got up and rebuked the winds and the sea; and there was a dead calm."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-19",
+      "type": "commentary",
+      "text": "26 : This nature miracle is Jesus's only nonhealing miracle in the first half of the Gospel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-matt-8-27",
+      "type": "verse",
+      "number": 27,
+      "text": "They were amazed, saying, “What sort of man is this, that even the winds and the sea obey him?”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-20",
+      "type": "commentary",
+      "text": "27 : Jesus's authority over the parallels that of God; Pss 65.7; 89.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-matt-8-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When he came to the other side, to the country of the Gadarenes, two demoniacs coming out of the tombs met him. They were so fierce that no one could pass that way."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-21",
+      "type": "commentary",
+      "text": "28 : , Matthew situates the healing in Gadara, instead of Gerasa (Mk 5.1), which was located ca. 35 mi (56 km) from the sea. Gadara's territory was far closer to the Sea of Galilee.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-matt-8-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Suddenly they shouted, “What have you to do with us, Son of God? Have you come here to torment us before the time?”"
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-22",
+      "type": "commentary",
+      "text": "29 : , the day of judgment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 29,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-matt-8-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Now a large herd of swine was feeding at some distance from them."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-23",
+      "type": "commentary",
+      "text": "30 : The presence of nonkosher suggests a Gentile region (7.6n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-matt-8-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The demons begged him, “If you cast us out, send us into the herd of swine.”"
+    },
+    {
+      "block_id": "oxford-matt-8-32",
+      "type": "verse",
+      "number": 32,
+      "text": "And he said to them, “Go!” So they came out and entered the swine; and suddenly, the whole herd rushed down the steep bank into the sea and perished in the water."
+    },
+    {
+      "block_id": "oxford-matt-8-33",
+      "type": "verse",
+      "number": 33,
+      "text": "The swineherds ran off, and on going into the town, they told the whole story about what had happened to the demoniacs."
+    },
+    {
+      "block_id": "oxford-matt-8-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Then the whole town came out to meet Jesus; and when they saw him, they begged him to leave their neighborhood."
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-1",
+      "type": "commentary",
+      "text": "8.1–9.38: The deeds of the Messiah. Matthew follows his epitome of Jesus's teaching with a collection of Jesus's miracles: the “Messiah of word” is succeeded by the “Messiah of deed.” While Matthew conforms to the order of Mark in a general way, he has made considerable use of Q and his own traditions (two of which are doublets; see 9.27–31 and 9.32–34). To create the “Messiah of deed” sequence, Matthew has introduced five miracle stories so that chs 8–9 form a composite of ten miracle accounts interleaved with two discipleship narratives (8.18–22; 9.9–17). The first three miracle stories focus on the healing of marginal figures in Jewish society – a person with leprosy, a Gentile, and a woman.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-matt-8-h1kj-18",
+      "type": "commentary",
+      "text": "8.23–34: The calming of a storm and the healing of two persons possessed by demons (Mk 4.35–5.20; Lk 8.22–39).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "matt",
+        "chapter": 8
+      },
+      "verse_start": 23,
+      "verse_end": 34
+    }
+  ]
+}

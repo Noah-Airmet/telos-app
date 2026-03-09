@@ -1,0 +1,338 @@
+{
+  "document_id": "deut-9",
+  "title": "Deuteronomy 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-9-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Hear, O Israel! You are about to cross the Jordan today, to go in and dispossess nations larger and mightier than you, great cities, fortified to the heavens,"
+    },
+    {
+      "block_id": "oxford-deut-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "a strong and tall people, the offspring of the Anakim, whom you know. You have heard it said of them, “Who can stand up to the Anakim?”"
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-5",
+      "type": "commentary",
+      "text": "9.2 : See 1.28n.; 2.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-deut-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Know then today that the Lord your God is the one who crosses over before you as a devouring fire; he will defeat them and subdue them before you, so that you may dispossess and destroy them quickly, as the Lord has promised you."
+    },
+    {
+      "block_id": "oxford-deut-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "When the Lord your God thrusts them out before you, do not say to yourself, “It is because of my righteousness that the Lord has brought me in to occupy this land”; it is rather because of the wickedness of these nations that the Lord is dispossessing them before you."
+    },
+    {
+      "block_id": "oxford-deut-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "It is not because of your righteousness or the uprightness of your heart that you are going in to occupy their land; but because of the wickedness of these nations the Lord your God is dispossessing them before you, in order to fulfill the promise that the Lord made on oath to your ancestors, to Abraham, to Isaac, and to Jacob."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-6",
+      "type": "commentary",
+      "text": "4–5 : Victory will be given in the holy war because Canaan has been irrevocably corrupted by the actions of its present occupants and because of God’s enduring commitment to the promises made to Israel’s ancestors.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-deut-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Know, then, that the Lord your God is not giving you this good land to occupy because of your righteousness; for you are a stubborn people."
+    },
+    {
+      "block_id": "oxford-deut-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remember and do not forget how you provoked the Lord your God to wrath in the wilderness; you have been rebellious against the Lord from the day you came out of the land of Egypt until you came to this place."
+    },
+    {
+      "block_id": "oxford-deut-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Even at Horeb you provoked the Lord to wrath, and the Lord was so angry with you that he was ready to destroy you."
+    },
+    {
+      "block_id": "oxford-deut-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When I went up the mountain to receive the stone tablets, the tablets of the covenant that the Lord made with you, I remained on the mountain forty days and forty nights; I neither ate bread nor drank water."
+    },
+    {
+      "block_id": "oxford-deut-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And the Lord gave me the two stone tablets written with the finger of God; on them were all the words that the Lord had spoken to you at the mountain out of the fire on the day of the assembly."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-8",
+      "type": "commentary",
+      "text": "8–10 : Ex 24.12–18; 31.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-deut-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "At the end of forty days and forty nights the Lord gave me the two stone tablets, the tablets of the covenant."
+    },
+    {
+      "block_id": "oxford-deut-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then the Lord said to me, “Get up, go down quickly from here, for your people whom you have brought from Egypt have acted corruptly. They have been quick to turn from the way that I commanded them; they have cast an image for themselves.”"
+    },
+    {
+      "block_id": "oxford-deut-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Furthermore the Lord said to me, “I have seen that this people is indeed a stubborn people."
+    },
+    {
+      "block_id": "oxford-deut-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Let me alone that I may destroy them and blot out their name from under heaven; and I will make of you a nation mightier and more numerous than they.”"
+    },
+    {
+      "block_id": "oxford-deut-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "So I turned and went down from the mountain, while the mountain was ablaze; the two tablets of the covenant were in my two hands."
+    },
+    {
+      "block_id": "oxford-deut-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then I saw that you had indeed sinned against the Lord your God, by casting for yourselves an image of a calf; you had been quick to turn from the way that the Lord had commanded you."
+    },
+    {
+      "block_id": "oxford-deut-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So I took hold of the two tablets and flung them from my two hands, smashing them before your eyes."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-10",
+      "type": "commentary",
+      "text": "17 : , not in simple anger but reflecting a legal ceremony to confirm breach of treaty (Ex 32.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-deut-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then I lay prostrate before the Lord as before, forty days and forty nights; I neither ate bread nor drank water, because of all the sin you had committed, provoking the Lord by doing what was evil in his sight."
+    },
+    {
+      "block_id": "oxford-deut-9-19",
+      "type": "verse",
+      "number": 19,
+      "text": "For I was afraid that the anger that the Lord bore against you was so fierce that he would destroy you. But the Lord listened to me that time also."
+    },
+    {
+      "block_id": "oxford-deut-9-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The Lord was so angry with Aaron that he was ready to destroy him, but I interceded also on behalf of Aaron at that same time."
+    },
+    {
+      "block_id": "oxford-deut-9-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then I took the sinful thing you had made, the calf, and burned it with fire and crushed it, grinding it thoroughly, until it was reduced to dust; and I threw the dust of it into the stream that runs down the mountain."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-9",
+      "type": "commentary",
+      "text": "11–21 : Ex 32, revised.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 11,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-deut-9-22",
+      "type": "verse",
+      "number": 22,
+      "text": "At Taberah also, and at Massah, and at Kibroth‐hattaavah, you provoked the Lord to wrath."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-11",
+      "type": "commentary",
+      "text": "22 : Num 11.1–3; Ex 17.1–7; Num 11.31–34.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-deut-9-23",
+      "type": "verse",
+      "number": 23,
+      "text": "And when the Lord sent you from Kadesh‐barnea, saying, “Go up and occupy the land that I have given you,” you rebelled against the command of the Lord your God, neither trusting him nor obeying him."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-12",
+      "type": "commentary",
+      "text": "23 : Num 13–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-deut-9-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You have been rebellious against the Lord as long as he has known you."
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-7",
+      "type": "commentary",
+      "text": "6–24 : Historical traditions show that Israel has been rebellious since the Exodus (Ezek 20.5–8; contrast Hos 2.14–20; Jer 2.2–3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 6,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-deut-9-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Throughout the forty days and forty nights that I lay prostrate before the Lord when the Lord intended to destroy you,"
+    },
+    {
+      "block_id": "oxford-deut-9-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I prayed to the Lord and said, “Lord God, do not destroy the people who are your very own possession, whom you redeemed in your greatness, whom you brought out of Egypt with a mighty hand."
+    },
+    {
+      "block_id": "oxford-deut-9-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Remember your servants, Abraham, Isaac, and Jacob; pay no attention to the stubbornness of this people, their wickedness and their sin,"
+    },
+    {
+      "block_id": "oxford-deut-9-28",
+      "type": "verse",
+      "number": 28,
+      "text": "otherwise the land from which you have brought us might say, ‘Because the Lord was not able to bring them into the land that he promised them, and because he hated them, he has brought them out to let them die in the wilderness.’"
+    },
+    {
+      "block_id": "oxford-deut-9-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For they are the people of your very own possession, whom you brought out by your great power and by your outstretched arm.”"
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-1",
+      "type": "commentary",
+      "text": "4.44–28.68: The second discourse of Moses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-2",
+      "type": "commentary",
+      "text": "6.1–11.32: Preamble to the laws: the requirement of loyalty to God. A sermonic preamble to the laws of chs 12–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-3",
+      "type": "commentary",
+      "text": "7.1–10.11: Risks to covenantal fidelity upon entry to the land. The first risk is that Israel enters an already inhabited land, whose greater population and different religious practices it must confront (ch 7). Thereafter, successful habitation carries its own risks of complacency and loss of historical memory (ch 8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-4",
+      "type": "commentary",
+      "text": "9.1–10.11: The already broken and renewed covenant. God does not give the land to the people as a reward for righteousness, for in the wilderness they acted rebelliously.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-deut-9-h1kj-13",
+      "type": "commentary",
+      "text": "25–29 : A paraphrase of Ex 32.11–14. Deuteronomy portrays Moses as the ideal prophet (34.10–12); he intercedes for the people and suffers because of them (1.37n.; cf. Isa 53).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 9
+      },
+      "verse_start": 25,
+      "verse_end": 29
+    }
+  ]
+}

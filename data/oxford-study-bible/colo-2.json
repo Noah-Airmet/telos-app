@@ -1,0 +1,397 @@
+{
+  "document_id": "colo-2",
+  "title": "colo 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-colo-2-heading-3",
+      "type": "heading",
+      "text": "3"
+    },
+    {
+      "block_id": "oxford-colo-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I want their hearts to be encouraged and united in love, so that they may have all the riches of assured understanding and have the knowledge of God's mystery, that is, Christ himself,"
+    },
+    {
+      "block_id": "oxford-colo-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "in whom are hidden all the treasures of wisdom and knowledge."
+    },
+    {
+      "block_id": "oxford-colo-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I am saying this so that no one may deceive you with plausible arguments."
+    },
+    {
+      "block_id": "oxford-colo-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For though I am absent in body, yet I am with you in spirit, and I rejoice to see your morale and the firmness of your faith in Christ."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-1",
+      "type": "commentary",
+      "text": "1.24–2.5: Paul's mission and pastoral commitment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-3",
+      "type": "commentary",
+      "text": "5 : , , terminology evoking military discipline.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "As you therefore have received Christ Jesus the Lord, continue to live your lives in him,"
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , a technical term for the reception of oral tradition (1 Cor 15.1,3); here, that Jesus is Lord (Rom 10.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-6",
+      "type": "commentary",
+      "text": "6–7 : Thematic statement of the letter (see Introduction; 1.21–23; 3.1–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-colo-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "See to it that no one takes you captive through philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-8",
+      "type": "commentary",
+      "text": "8 : includes ethical and religious teachings. , in contrast to God's revelation through Paul. , cosmic forces perhaps based on the four primal elements of Greek thought; associated with the Jewish law in Gal 4.1–5,9–10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-colo-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For in him the whole fullness of deity dwells bodily,"
+    },
+    {
+      "block_id": "oxford-colo-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and you have come to fullness in him, who is the head of every ruler and authority."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-9",
+      "type": "commentary",
+      "text": "9–10 : See 1.19n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-colo-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "In him also you were circumcised with a spiritual circumcision, by putting off the body of the flesh in the circumcision of Christ;"
+    },
+    {
+      "block_id": "oxford-colo-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "when you were buried with him in baptism, you were also raised with him through faith in the power of God, who raised him from the dead."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-10",
+      "type": "commentary",
+      "text": "11–12 : , a ritual, bodily mark of membership in the people of Israel (Gen 17.9–14). The significance of circumcision is here transferred to Christian baptism where the previous life ( is shed in solidarity with Christ's death and the baptized are given new life ( ) as was Christ.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-colo-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And when you were dead in trespasses and the uncircumcision of your flesh, God made you alive together with him, when he forgave us all our trespasses,"
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-11",
+      "type": "commentary",
+      "text": "13 : , the Colossians were Gentiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-colo-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "erasing the record that stood against us with its legal demands. He set this aside, nailing it to the cross."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-12",
+      "type": "commentary",
+      "text": "14 : , a document detailing transgressions, perhaps similar to that in Dan 7.10 and Rev 20.12. , ridding it of its power to condemn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-colo-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "He disarmed the rulers and authorities and made a public example of them, triumphing over them in it."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-5",
+      "type": "commentary",
+      "text": "2.6–15: Christ and the cross.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-13",
+      "type": "commentary",
+      "text": "15 : , see 1.16n. , language evoking a Roman ritual (the “triumph”) where the state's vanquished enemies were publically displayed in an elaborate parade.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-colo-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Therefore do not let anyone condemn you in matters of food and drink or of observing festivals, new moons, or sabbaths."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-15",
+      "type": "commentary",
+      "text": "16 : , observance of Jewish dietary laws. , a summary of the Jewish religious calendar (e.g., 2 Chr 8.13; Neh 10.33).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-colo-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "These are only a shadow of what is to come, but the substance belongs to Christ."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-16",
+      "type": "commentary",
+      "text": "17 : , Platonic language contrasting the temporal/inferior with the eternal/perfect (see Heb 8.5n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-colo-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Do not let anyone disqualify you, insisting on self-abasement and worship of angels, dwelling on visions, puffed up without cause by a human way of thinking,"
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-17",
+      "type": "commentary",
+      "text": "18 : Ascetic practices ( ) used to achieve a mystical ascent to heaven ( ); may refer to ecstatic participation in worship of God alongside angels or the showing of reverence to angels.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-colo-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and not holding fast to the head, from whom the whole body, nourished and held together by its ligaments and sinews, grows with a growth that is from God."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-18",
+      "type": "commentary",
+      "text": "19 : , see 1.18n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-colo-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "If with Christ you died to the elemental spirits of the universe, why do you live as if you still belonged to the world? Why do you submit to regulations,"
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-19",
+      "type": "commentary",
+      "text": "20 : , no longer under the authority of (vv. 8–15). , see 2.11; 3.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-colo-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "“Do not handle, Do not taste, Do not touch”?"
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-20",
+      "type": "commentary",
+      "text": "21 : Jewish purity regulations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-colo-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "All these regulations refer to things that perish with use; they are simply human commands and teachings."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-21",
+      "type": "commentary",
+      "text": "22 : See Mk 7.7,19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-colo-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "These have indeed an appearance of wisdom in promoting self-imposed piety, humility, and severe treatment of the body, but they are of no value in checking selfindulgence."
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-4",
+      "type": "commentary",
+      "text": "2.6–23: Theological Argument.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-14",
+      "type": "commentary",
+      "text": "2.16–23: Warnings against ascetic practices.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 16,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-colo-2-h1kj-22",
+      "type": "commentary",
+      "text": "23 : The criticism is either that such practices do not address the author's moral concerns (3.5,8) or that they inappropriately focus attention on the body (see note ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    }
+  ]
+}

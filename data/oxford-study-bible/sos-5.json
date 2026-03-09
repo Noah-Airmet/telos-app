@@ -1,0 +1,181 @@
+{
+  "document_id": "sos-5",
+  "title": "sos 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-5-heading-6",
+      "type": "heading",
+      "text": "6"
+    },
+    {
+      "block_id": "oxford-sos-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Do not follow your inclination and strength in pursuing the desires of your heart."
+    },
+    {
+      "block_id": "oxford-sos-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not say, “Who can have power over me?” for the Lord will surely punish you."
+    },
+    {
+      "block_id": "oxford-sos-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Do not say, “I sinned, yet what has happened to me?” for the Lord is slow to anger."
+    },
+    {
+      "block_id": "oxford-sos-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Do not be so confident of forgiveness that you add sin to sin."
+    },
+    {
+      "block_id": "oxford-sos-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Do not say, “His mercy is great, he will forgive the multitude of my sins,” for both mercy and wrath are with him, and his anger will rest on sinners."
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-3",
+      "type": "commentary",
+      "text": "4–6 : See the liturgical formula in Ex 34.6–7 (and its later adaptations, e.g., Num 14.18; Pss 86.15; 103.8; 145.8) where God is and shows . Here, though, rather than as part of a promise, Ben Sira warns that God also brings on the guilty. Cf. Sir 16.11–14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Do not delay to turn back to the Lord, and do not postpone it from day to day; for suddenly the wrath of the Lord will come upon you, and at the time of punishment you will perish."
+    },
+    {
+      "block_id": "oxford-sos-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Do not depend on dishonest wealth, for it will not benefit you on the day of calamity."
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-1",
+      "type": "commentary",
+      "text": "5.1–8: Avoid presumption. Do not presume that God will overlook sins.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-4",
+      "type": "commentary",
+      "text": "7–8 : For the sudden onset of as , see Prov 6.15; 24.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-sos-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Do not winnow in every wind, or follow every path."
+    },
+    {
+      "block_id": "oxford-sos-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Stand firm for what you know, and let your speech be consistent."
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-6",
+      "type": "commentary",
+      "text": "10 : See 4.23–26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Be quick to hear, but deliberate in answering."
+    },
+    {
+      "block_id": "oxford-sos-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "If you know what to say, answer your neighbor; but if not, put your hand over your mouth."
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-7",
+      "type": "commentary",
+      "text": "12 : , a gesture of silence, humility, and submission (Job 29.9; 40.4; Prov 30.32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Honor and dishonor come from speaking, and the tongue of mortals may be their downfall."
+    },
+    {
+      "block_id": "oxford-sos-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Do not be called double-tongued and do not lay traps with your tongue; for shame comes to the thief, and severe condemnation to the double-tongued."
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-8",
+      "type": "commentary",
+      "text": "14 : , duplicitous or slandering (6.1; 28.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "In great and small matters cause no harm,"
+    },
+    {
+      "block_id": "oxford-sos-5-h1kj-5",
+      "type": "commentary",
+      "text": "5.9–6.4: Speech, shame, and passion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 5
+      },
+      "verse_start": 9,
+      "verse_end": 15
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "document_id": "ps-124",
+  "title": "Psalms 124",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-124-heading-psalm-125",
+      "type": "heading",
+      "text": "Psalm 125"
+    },
+    {
+      "block_id": "oxford-ps-124-1",
+      "type": "verse",
+      "number": 1,
+      "text": "If it had not been the Lord who was on our side —let Israel now say—"
+    },
+    {
+      "block_id": "oxford-ps-124-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 124: Giving thanks after a narrow escape. A community thanksgiving notable for its simple theme: give thanks for we would have died if the had not rescued us. The simple theme is mirrored by a simple structure: the first two verses begin “If it had not been the who was on our side” and the next three begin with “then” followed by a complex step‐parallelism. Such step‐parallelism, common in the Songs of Ascents (see Ps 120n.), adds drama and movement.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 124
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-124-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , the singer provides the community with the proper words to express their intense relief and gratitude.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 124
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-124-2",
+      "type": "verse",
+      "number": 2,
+      "text": "if it had not been the Lord who was on our side, when our enemies attacked us,"
+    },
+    {
+      "block_id": "oxford-ps-124-3",
+      "type": "verse",
+      "number": 3,
+      "text": "then they would have swallowed us up alive, when their anger was kindled against us;"
+    },
+    {
+      "block_id": "oxford-ps-124-4",
+      "type": "verse",
+      "number": 4,
+      "text": "then the flood would have swept us away, the torrent would have gone over us;"
+    },
+    {
+      "block_id": "oxford-ps-124-5",
+      "type": "verse",
+      "number": 5,
+      "text": "then over us would have gone the raging waters."
+    },
+    {
+      "block_id": "oxford-ps-124-h1kj-3",
+      "type": "commentary",
+      "text": "3–5 : The metaphors of devouring beasts and waters flooding the earth are used for the enemies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 124
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-124-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Blessed be the Lord, who has not given us as prey to their teeth."
+    },
+    {
+      "block_id": "oxford-ps-124-7",
+      "type": "verse",
+      "number": 7,
+      "text": "We have escaped like a bird from the snare of the fowlers; the snare is broken, and we have escaped."
+    },
+    {
+      "block_id": "oxford-ps-124-h1kj-4",
+      "type": "commentary",
+      "text": "7 : A totally different metaphor for the rescued nation: a flying upward to freedom from a broken trap, a perfect symbol of miraculous deliverance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 124
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-124-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Our help is in the name of the Lord, who made heaven and earth."
+    },
+    {
+      "block_id": "oxford-ps-124-h1kj-5",
+      "type": "commentary",
+      "text": "8 : , a frequent postexilic epithet for God (see also Pss 115.15; 121.2; 146.6); here it emphasizes that God the powerful creator can still help Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 124
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    }
+  ]
+}

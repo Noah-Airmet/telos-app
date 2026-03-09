@@ -1,0 +1,224 @@
+{
+  "document_id": "gen-23",
+  "title": "Genesis 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Sarah lived one hundred twenty‐seven years; this was the length of Sarah’s life."
+    },
+    {
+      "block_id": "oxford-gen-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And Sarah died at Kiriath‐arba (that is, Hebron) in the land of Canaan; and Abraham went in to mourn for Sarah and to weep for her."
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , the older name of Hebron (Josh 14.15; 15.13; Judg 1.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-gen-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Abraham rose up from beside his dead, and said to the Hittites,"
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-4",
+      "type": "commentary",
+      "text": "3 : The are considered at this point to be among the Canaanite peoples (see v. 7 and 10.15; 15.9) and should not be confused with the ancient Hittites, who resided in Asia Minor (Turkey).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-gen-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "“I am a stranger and an alien residing among you; give me property among you for a burying place, so that I may bury my dead out of my sight.”"
+    },
+    {
+      "block_id": "oxford-gen-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The Hittites answered Abraham,"
+    },
+    {
+      "block_id": "oxford-gen-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "“Hear us, my lord; you are a mighty prince among us. Bury your dead in the choicest of our burial places; none of us will with‐hold from you any burial ground for burying your dead.”"
+    },
+    {
+      "block_id": "oxford-gen-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Abraham rose and bowed to the Hittites, the people of the land."
+    },
+    {
+      "block_id": "oxford-gen-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "He said to them, “If you are willing that I should bury my dead out of my sight, hear me, and entreat for me Ephron son of Zohar,"
+    },
+    {
+      "block_id": "oxford-gen-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "so that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as a possession for a burying place.”"
+    },
+    {
+      "block_id": "oxford-gen-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now Ephron was sitting among the Hittites; and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who went in at the gate of his city,"
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-6",
+      "type": "commentary",
+      "text": "10 : Legal transactions often took place at the city gate; see 34.20; Deut 20.19; 25.7; Ruth 4.1–11; 2 Sam 15.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-gen-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "“No, my lord, hear me; I give you the field, and I give you the cave that is in it; in the presence of my people I give it to you; bury your dead.”"
+    },
+    {
+      "block_id": "oxford-gen-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then Abraham bowed down before the people of the land."
+    },
+    {
+      "block_id": "oxford-gen-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He said to Ephron in the hearing of the people of the land, “If you only will listen to me! I will give the price of the field; accept it from me, so that I may bury my dead there.”"
+    },
+    {
+      "block_id": "oxford-gen-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Ephron answered Abraham,"
+    },
+    {
+      "block_id": "oxford-gen-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "“My lord, listen to me; a piece of land worth four hundred shekels of silver— what is that between you and me? Bury your dead.”"
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-7",
+      "type": "commentary",
+      "text": "15 : , about 10 lb (4.5 kg); see 24.22n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-gen-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Abraham agreed with Ephron; and Abraham weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants."
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-5",
+      "type": "commentary",
+      "text": "4–16 : The narrative stresses the legitimacy of the Israelites’ claim to this burial plot.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 4,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-gen-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, passed"
+    },
+    {
+      "block_id": "oxford-gen-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "to Abraham as a possession in the presence of the Hittites, in the presence of all who went in at the gate of his city."
+    },
+    {
+      "block_id": "oxford-gen-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "After this, Abraham buried Sarah his wife in the cave of the field of Machpelah facing Mamre (that is, Hebron) in the land of Canaan."
+    },
+    {
+      "block_id": "oxford-gen-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The field and the cave that is in it passed from the Hittites into Abraham’s possession as a burying place."
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-1",
+      "type": "commentary",
+      "text": "11.27–25.11: The story of Abraham and his family. The bulk of this section is a non‐Priestly narrative about Abraham. It builds on a blend of oral traditions about him, including the stories standing behind the present narratives about his descent into Egypt (12.10–20), the Abraham and Lot cycle (13.2–13; 18.1–16; 19.1–28,30–37), a pair of Hagar and Ishmael narratives (16.1–14 and 21.8–20), and the tradition about Abraham’s stay in Philistine Gerar (20.1–18; 21.22–34; cf. 26.6–33). Some scholars think that the Abraham stories incorporate two separate written J and E sources, with remnants of J (the Yahwistic source) found primarily in chs 12–19 (along with ch 24) and E (Elohistic source) fragments in chs 20–22. Others suggest that they were composed as a single whole, though building on a range of separate traditions (see the Introduction and 20.1–18n.). Scholars generally agree, however, that the story of conquest and covenant in 14.1–15.21 and Priestly materials found in 17.1–27 and elsewhere (see 11.27–32n.; 12.4b–5n. 16.3n. 17.1–27n. 21.3–5n. 25.7–11n) were added later. For patterns uniting this complex whole, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-2",
+      "type": "commentary",
+      "text": "23.1–20: Abraham’s purchase of a family burial place. A late Priestly tradition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-gen-23-h1kj-8",
+      "type": "commentary",
+      "text": "17–20 : As in many ancient cultures, the Israelites believed that burial of ancestors in a plot of land gave their heirs a sacred claim to it. The Priestly notices of the Genesis story indicate that descendants of Abraham who did not inherit the promise ended up outside Canaan (e.g., Ishmael in 25.12–18 and Esau in 36.1–43; cf. 25.1–6), while Israel’s early patriarchs and matriarchs were buried in the land (25.9–10; 35.27–29; 49.29–32; 50.12–13; etc.; cf. non‐Priestly traditions in 35.19–20; 50.5,25).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 23
+      },
+      "verse_start": 17,
+      "verse_end": 20
+    }
+  ]
+}

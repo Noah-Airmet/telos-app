@@ -1,0 +1,415 @@
+{
+  "document_id": "ps-104",
+  "title": "Psalms 104",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-104-heading-psalm-105",
+      "type": "heading",
+      "text": "Psalm 105"
+    },
+    {
+      "block_id": "oxford-ps-104-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Bless the Lord, O my soul. O Lord my God, you are very great. You are clothed with honor and majesty,"
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 104: Praise to the Lord who made the universe beautiful and life‐giving. The hymn praises divine wisdom through a series of vignettes (vv. 1–9,10–12,13–18,19–23,24–26), a reflection (vv. 27–30), and a prayer (vv. 31–35). God, luminous and triumphant (vv. 1–4), organizes the primordial waters (vv. 5–18,24–26) and darkness (vv. 19–23) into a harmonious whole that supports life (vv. 27–35). The depiction owes much to the mythology of neighboring cultures: the storm god who vanquishes Sea (vv. 1–18), and the Egyptian sun disk Aten whose rays illuminate the world (vv. 19–30); it also shares language and themes with Job 38–39. Psalms 103 and 104 begin and end similarly, but are very different in theme and tone.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-2",
+      "type": "commentary",
+      "text": "1 : are royal qualities. God is depicted in the psalm as a king who has constructed the superlative building project: the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-104-2",
+      "type": "verse",
+      "number": 2,
+      "text": "wrapped in light as with a garment. You stretch out the heavens like a tent,"
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , cf. Job 9.8; Isa 40.22; 42.5; Zech 12.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-104-3",
+      "type": "verse",
+      "number": 3,
+      "text": "you set the beams of your chambers on the waters, you make the clouds youra chariot, you ride on the wings of the wind,"
+    },
+    {
+      "block_id": "oxford-ps-104-4",
+      "type": "verse",
+      "number": 4,
+      "text": "you make the winds youra messengers, fire and flame youra ministers."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-4",
+      "type": "commentary",
+      "text": "4 : Cf. Ps 148.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-104-5",
+      "type": "verse",
+      "number": 5,
+      "text": "You set the earth on its foundations, so that it shall never be shaken."
+    },
+    {
+      "block_id": "oxford-ps-104-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You cover it with the deep as with a garment; the waters stood above the mountains."
+    },
+    {
+      "block_id": "oxford-ps-104-7",
+      "type": "verse",
+      "number": 7,
+      "text": "At your rebuke they flee; at the sound of your thunder they take to flight."
+    },
+    {
+      "block_id": "oxford-ps-104-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They rose up to the mountains, ran down to the valleys to the place that you appointed for them."
+    },
+    {
+      "block_id": "oxford-ps-104-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You set a boundary that they may not pass, so that they might not again cover the earth."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-5",
+      "type": "commentary",
+      "text": "6–9 : The chaotic waters covered even the tops of mountains. God’s “rebuke” (v. 7), that is, thunder, threw them into a panic (cf. Job 26.11; Pss 18.15; 76.6). Like panic‐stricken soldiers, they retreated in disarray up mountains and down valleys until they arrived at the seashore, their new boundary. Never again will they cover the earth, which, freed of encompassing water, can support life.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 6,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-6",
+      "type": "commentary",
+      "text": "9 : Cf. Job 38.8–11; Prov 8.29; Jer 5.22.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-104-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You make springs gush forth in the valleys; they flow between the hills,"
+    },
+    {
+      "block_id": "oxford-ps-104-11",
+      "type": "verse",
+      "number": 11,
+      "text": "giving drink to every wild animal; the wild asses quench their thirst."
+    },
+    {
+      "block_id": "oxford-ps-104-12",
+      "type": "verse",
+      "number": 12,
+      "text": "By the streams the birds of the air have their habitation; they sing among the branches."
+    },
+    {
+      "block_id": "oxford-ps-104-13",
+      "type": "verse",
+      "number": 13,
+      "text": "From your lofty abode you water the mountains; the earth is satisfied with the fruit of your work."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-7",
+      "type": "commentary",
+      "text": "13 : See Pss 36.8n.; 65.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ps-104-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You cause the grass to grow for the cattle, and plants for people to use, to bring forth food from the earth,"
+    },
+    {
+      "block_id": "oxford-ps-104-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and wine to gladden the human heart, oil to make the face shine, and bread to strengthen the human heart."
+    },
+    {
+      "block_id": "oxford-ps-104-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The trees of the Lord are watered abundantly, the cedars of Lebanon that he planted."
+    },
+    {
+      "block_id": "oxford-ps-104-17",
+      "type": "verse",
+      "number": 17,
+      "text": "In them the birds build their nests; the stork has its home in the fir trees."
+    },
+    {
+      "block_id": "oxford-ps-104-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The high mountains are for the wild goats; the rocks are a refuge for the coneys."
+    },
+    {
+      "block_id": "oxford-ps-104-19",
+      "type": "verse",
+      "number": 19,
+      "text": "You have made the moon to mark the seasons; the sun knows its time for setting."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-8",
+      "type": "commentary",
+      "text": "19 : See Gen 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ps-104-20",
+      "type": "verse",
+      "number": 20,
+      "text": "You make darkness, and it is night, when all the animals of the forest come creeping out."
+    },
+    {
+      "block_id": "oxford-ps-104-21",
+      "type": "verse",
+      "number": 21,
+      "text": "The young lions roar for their prey, seeking their food from God."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-9",
+      "type": "commentary",
+      "text": "21 : See Job 38.39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ps-104-22",
+      "type": "verse",
+      "number": 22,
+      "text": "When the sun rises, they withdraw and lie down in their dens."
+    },
+    {
+      "block_id": "oxford-ps-104-23",
+      "type": "verse",
+      "number": 23,
+      "text": "People go out to their work and to their labor until the evening."
+    },
+    {
+      "block_id": "oxford-ps-104-24",
+      "type": "verse",
+      "number": 24,
+      "text": "O Lord, how manifold are your works! In wisdom you have made them all; the earth is full of your creatures."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-10",
+      "type": "commentary",
+      "text": "24 : The psalm’s key verse, summarizing the wonder of the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ps-104-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Yonder is the sea, great and wide, creeping things innumerable are there, living things both small and great."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-11",
+      "type": "commentary",
+      "text": "25 : Presumably the Mediterranean Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ps-104-26",
+      "type": "verse",
+      "number": 26,
+      "text": "There go the ships, and Leviathan that you formed to sport in it."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-12",
+      "type": "commentary",
+      "text": "26 : , see Ps 74.14n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ps-104-27",
+      "type": "verse",
+      "number": 27,
+      "text": "These all look to you to give them their food in due season;"
+    },
+    {
+      "block_id": "oxford-ps-104-28",
+      "type": "verse",
+      "number": 28,
+      "text": "when you give to them, they gather it up; when you open your hand, they are filled with good things."
+    },
+    {
+      "block_id": "oxford-ps-104-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When you hide your face, they are dismayed; when you take away their breath, they die and return to their dust."
+    },
+    {
+      "block_id": "oxford-ps-104-30",
+      "type": "verse",
+      "number": 30,
+      "text": "When you send forth your spirit, they are created; and you renew the face of the ground."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-13",
+      "type": "commentary",
+      "text": "27–30 : The world continues to depend on God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 27,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-14",
+      "type": "commentary",
+      "text": "29–30 : Cf. Gen 1.30; 2.7; 3.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 29,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-ps-104-31",
+      "type": "verse",
+      "number": 31,
+      "text": "May the glory of the Lord endure forever; may the Lord rejoice in his works—"
+    },
+    {
+      "block_id": "oxford-ps-104-32",
+      "type": "verse",
+      "number": 32,
+      "text": "who looks on the earth and it trembles, who touches the mountains and they smoke."
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-15",
+      "type": "commentary",
+      "text": "31–32 : A prayer that God will continue to act beneficently. , see Ps 144.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 31,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-ps-104-33",
+      "type": "verse",
+      "number": 33,
+      "text": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being."
+    },
+    {
+      "block_id": "oxford-ps-104-34",
+      "type": "verse",
+      "number": 34,
+      "text": "May my meditation be pleasing to him, for I rejoice in the Lord."
+    },
+    {
+      "block_id": "oxford-ps-104-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Let sinners be consumed from the earth, and let the wicked be no more. Bless the Lord, O my soul. Praise the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-104-h1kj-16",
+      "type": "commentary",
+      "text": "35 : and destroy the harmony of the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 104
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    }
+  ]
+}

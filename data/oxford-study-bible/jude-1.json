@@ -1,0 +1,314 @@
+{
+  "document_id": "jude-1",
+  "title": "Jude 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jude-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Jude, a servant of Jesus Christ and brother of James, To those who are called, who are beloved in God the Father and kept safe ford Jesus Christ:"
+    },
+    {
+      "block_id": "oxford-jude-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "May mercy, peace, and love be yours in abundance."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-1",
+      "type": "commentary",
+      "text": "1–2: Salutation. The sender of the letter is (= Judas), probably the man mentioned in Mk 6.3. The addressees are described as , etc.; this could apply to any followers of Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jude-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Beloved, while eagerly preparing to write to you about the salvation we share, I find it necessary to write and appeal to you to contend for the faith that was once for all entrusted to the saints."
+    },
+    {
+      "block_id": "oxford-jude-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For certain intruders have stolen in among you, people who long ago were designated for this condemnation as ungodly, who pervert the grace of our God into licentiousness and deny our only Master and Lord, Jesus Christ."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-2",
+      "type": "commentary",
+      "text": "3–4: Occasion of letter. the addressees. These intruders are obviously followers of Jesus, but ones whose faith and life the author considers deficient. , lit., “holy ones.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-3",
+      "type": "commentary",
+      "text": "4 : The author anticipates the main themes of his argument against the intruders: their appearance and condemnation were predicted, and they by behaving immorally.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jude-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Now I desire to remind you, though you are fully informed, that the Lord, who once for all saved a people out of the land of Egypt, afterward destroyed those who did not believe."
+    },
+    {
+      "block_id": "oxford-jude-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And the angels who did not keep their own position, but left their proper dwelling, he has kept in eternal chains in deepest darkness for the judgment of the great day."
+    },
+    {
+      "block_id": "oxford-jude-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Likewise, Sodom and Gomorrah and the surrounding cities, which, in the same manner as they, indulged in sexual immorality and pursued unnatural lust, serve as an example by undergoing a punishment of eternal fire."
+    },
+    {
+      "block_id": "oxford-jude-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Yet in the same way these dreamers also defile the flesh, reject authority, and slander the glorious ones."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-4",
+      "type": "commentary",
+      "text": "5–8: Three biblical precedents. God punished the wilderness generation of the Israelites (v. 5; see Num 14.1–24), the angels who left their proper dwelling (v. 6; see Gen 6.1–4; 6–12), and the cities of Sodom and Gomorrah (v.7; see Gen 18–19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-5",
+      "type": "commentary",
+      "text": "8 : who behave the same way (i.e., the intruders) can also expect to be punished.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jude-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "But when the archangel Michael contended with the devil and disputed about the body of Moses, he did not dare to bring a condemnation of slander against him, but said, “The Lord rebuke you!”"
+    },
+    {
+      "block_id": "oxford-jude-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But these people slander whatever they do not understand, and they are destroyed by those things that, like irrational animals, they know by instinct."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-6",
+      "type": "commentary",
+      "text": "9–10: Dispute about the body of Moses. The intruders , unlike who did not slander the devil but instead quoted Zech 3.2 to rebuke him. The story of a dispute between Michael and the devil about is not found in the Bible and may come from an apocryphal document called .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-jude-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Woe to them! For they go the way of Cain, and abandon themselves to Balaam's error for the sake of gain, and perish in Korah's rebellion."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-8",
+      "type": "commentary",
+      "text": "11 : The intruders’ bad behavior, later described in a series of vivid images (vv. 12–13), is similar to that of who murdered his brother Abel (see Gen 4.8), who prophesied for gain (see Num 22–24), and who rebelled against Moses (see Num 16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-jude-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "These are blemishes on your love-feasts, while they feast with you without fear, feeding themselves. They are waterless clouds carried along by the winds; autumn trees without fruit, twice dead, uprooted;"
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-9",
+      "type": "commentary",
+      "text": "12 : , lit., “loves.” This is the earliest instance in which the word “love” (Gk “agapē”) is used to designate the Christian fellowship meal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-jude-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the deepest darkness has been reserved forever."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-7",
+      "type": "commentary",
+      "text": "11–13: Three more biblical precedents.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jude-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "It was also about these that Enoch, in the seventh generation from Adam, prophesied, saying, “See, the Lord is coming with ten thousands of his holy ones,"
+    },
+    {
+      "block_id": "oxford-jude-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "to execute judgment on all, and to convict everyone of all the deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.”"
+    },
+    {
+      "block_id": "oxford-jude-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "These are grumblers and malcontents; they indulge their own lusts; they are bombastic in speech, flattering people to their own advantage."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-10",
+      "type": "commentary",
+      "text": "14–16: Prophecy of Enoch. The author cites 1.9 as a prophecy that will be fulfilled by the judgment of the intruders.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-jude-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But you, beloved, must remember the predictions of the apostles of our Lord Jesus Christ;"
+    },
+    {
+      "block_id": "oxford-jude-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "for they said to you, “In the last time there will be scoffers, indulging their own ungodly lusts.”"
+    },
+    {
+      "block_id": "oxford-jude-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "It is these worldly people, devoid of the Spirit, who are causing divisions."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-11",
+      "type": "commentary",
+      "text": "17–19: Predictions of the apostles. The author quotes a prediction of the apostles that is fulfilled by the presence of the intruders in the addressees’ midst. The source of this quotation is unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-jude-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "But you, beloved, build yourselves up on your most holy faith; pray in the Holy Spirit;"
+    },
+    {
+      "block_id": "oxford-jude-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "keep yourselves in the love of God; look forward to the mercy of our Lord Jesus Christ that leads to eternal life."
+    },
+    {
+      "block_id": "oxford-jude-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "And have mercy on some who are wavering;"
+    },
+    {
+      "block_id": "oxford-jude-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "save others by snatching them out of the fire; and have mercy on still others with fear, hating even the tunic defiled by their bodies."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-12",
+      "type": "commentary",
+      "text": "20–23: Appeal. The author concludes by appealing to the addressees to avoid the intruders and their defective form of Christianity.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-jude-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Now to him who is able to keep you from falling, and to make you stand without blemish in the presence of his glory with rejoicing,"
+    },
+    {
+      "block_id": "oxford-jude-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, power, and authority, before all time and now and forever. Amen."
+    },
+    {
+      "block_id": "oxford-jude-1-h1kj-13",
+      "type": "commentary",
+      "text": "25–25: Doxology. The letter ends with one of the most elaborate prayers praising God found in the New Testament.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jude",
+        "chapter": 1
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    }
+  ]
+}

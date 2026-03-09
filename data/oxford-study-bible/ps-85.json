@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-85",
+  "title": "Psalms 85",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-85-heading-psalm-86",
+      "type": "heading",
+      "text": "Psalm 86"
+    },
+    {
+      "block_id": "oxford-ps-85-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Lord, you were favorable to your land; you restored the fortunes of Jacob."
+    },
+    {
+      "block_id": "oxford-ps-85-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 85: A prayer for forgiveness. A community petition that God be merciful as in the past (vv. 1–3) and forgive this discouraged generation (vv. 4–13). The psalm may have been recited by those returning from exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-85-2",
+      "type": "verse",
+      "number": 2,
+      "text": "You forgave the iniquity of your people; you pardoned all their sin. Selah"
+    },
+    {
+      "block_id": "oxford-ps-85-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , lit., “covered.” , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-85-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You withdrew all your wrath; you turned from your hot anger."
+    },
+    {
+      "block_id": "oxford-ps-85-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Restore us again, O God of our salvation, and put away your indignation toward us."
+    },
+    {
+      "block_id": "oxford-ps-85-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Will you be angry with us forever? Will you prolong your anger to all generations?"
+    },
+    {
+      "block_id": "oxford-ps-85-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Will you not revive us again, so that your people may rejoice in you?"
+    },
+    {
+      "block_id": "oxford-ps-85-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Show us your steadfast love, O Lord, and grant us your salvation."
+    },
+    {
+      "block_id": "oxford-ps-85-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Let me hear what God the Lord will speak, for he will speak peace to his people, to his faithful, to those who turn to him in their hearts."
+    },
+    {
+      "block_id": "oxford-ps-85-h1kj-3",
+      "type": "commentary",
+      "text": "8 : Though the mode through which God spoke is unclear, worshipers expected to be able to discern the divine will, especially at the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-85-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Surely his salvation is at hand for those who fear him, that his glory may dwell in our land."
+    },
+    {
+      "block_id": "oxford-ps-85-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Steadfast love and faithfulness will meet; righteousness and peace will kiss each other."
+    },
+    {
+      "block_id": "oxford-ps-85-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Faithfulness will spring up from the ground, and righteousness will look down from the sky."
+    },
+    {
+      "block_id": "oxford-ps-85-12",
+      "type": "verse",
+      "number": 12,
+      "text": "The Lord will give what is good, and our land will yield its increase."
+    },
+    {
+      "block_id": "oxford-ps-85-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Righteousness will go before him, and will make a path for his steps."
+    },
+    {
+      "block_id": "oxford-ps-85-h1kj-4",
+      "type": "commentary",
+      "text": "10–13 : The effects of divine forgiveness on land and people are expressed in striking metaphors and personifications: courtiers greeting each other with exquisite courtesy (v. 10), the land itself growing righteousness like a plant (vv. 11–12), and messengers preparing for the ’s arrival (v. 13); cf. Ps 89.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 85
+      },
+      "verse_start": 10,
+      "verse_end": 13
+    }
+  ]
+}

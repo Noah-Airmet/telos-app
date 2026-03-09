@@ -1,0 +1,236 @@
+{
+  "document_id": "zech-4",
+  "title": "Zechariah 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-zech-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The angel who talked with me came again, and wakened me, as one is wakened from sleep."
+    },
+    {
+      "block_id": "oxford-zech-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "He said to me, “What do you see?” And I said, “I see a lampstand all of gold, with a bowl on the top of it; there are seven lamps on it, with seven lips on each of the lamps that are on the top of it."
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-4",
+      "type": "commentary",
+      "text": "2 : (Heb “menorah”) has a round at the top with seven indentations for wicks; see Ex 25.31–40.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-zech-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And by it there are two olive trees, one on the right of the bowl and the other on its left.”"
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-5",
+      "type": "commentary",
+      "text": "3 : provide the oil that fueled the lamp.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-zech-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I said to the angel who talked with me, “What are these, my lord?”"
+    },
+    {
+      "block_id": "oxford-zech-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then the angel who talked with me answered me, “Do you not know what these are?” I said, “No, my lord.”"
+    },
+    {
+      "block_id": "oxford-zech-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He said to me, “This is the word of the Lord to Zerubbabel: Not by might, nor by power, but by my spirit, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-3",
+      "type": "commentary",
+      "text": "1–6a : This vision builds on the previous one, since it alludes to Joshua.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-zech-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "What are you, O great mountain? Before Zerubbabel you shall become a plain; and he shall bring out the top stone amid shouts of ‘Grace, grace to it!’”"
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-7",
+      "type": "commentary",
+      "text": "6b–7 : An unnamed person is addressed as and compared to Zerubbabel, probably the recently purified Joshua. Zerubbabel will achieve high status as the one who lays the foundation stone— —of the Temple. The ritual of Temple rededication involved reusing a stone from the previous temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-zech-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Moreover the word of the Lord came to me, saying,"
+    },
+    {
+      "block_id": "oxford-zech-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "“The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that the Lord of hosts has sent me to you."
+    },
+    {
+      "block_id": "oxford-zech-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For whoever has despised the day of small things shall rejoice, and shall see the plummet in the hand of Zerubbabel. “These seven are the eyes of the Lord, which range through the whole earth.”"
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-6",
+      "type": "commentary",
+      "text": "6b–10a : A distinct oracle.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-8",
+      "type": "commentary",
+      "text": "8–10a : A second oracle, referring to the previous ritual, again highlights the role Zerubbabel will have in the reconstruction of the Temple. Kings were known as temple builders.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-9",
+      "type": "commentary",
+      "text": "10a : , cf. Ezra 3.11. emphasizes Zerubbabel's role as builder.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-11",
+      "type": "commentary",
+      "text": "10b : , cf. 2 Chr 16.9, where the eyes represent divine benevolence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-zech-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then I said to him, “What are these two olive trees on the right and the left of the lampstand?”"
+    },
+    {
+      "block_id": "oxford-zech-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And a second time I said to him, “What are these two branches of the olive trees, which pour out the oil through the two golden pipes?”"
+    },
+    {
+      "block_id": "oxford-zech-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "He said to me, “Do you not know what these are?” I said, “No, my lord.”"
+    },
+    {
+      "block_id": "oxford-zech-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Then he said, “These are the two anointed ones who stand by the Lord of the whole earth.”"
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–8.23: Oracles and visions attributed to Zechariah. This first major division of the book has three parts, each introduced by a date formula (1.1; 1.7; 7.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-2",
+      "type": "commentary",
+      "text": "4.1–14: The fifth vision: a lampstand and two olive trees.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-10",
+      "type": "commentary",
+      "text": "10b–14 : The vision and its interpretation resume.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-zech-4-h1kj-12",
+      "type": "commentary",
+      "text": "11–14 : The symbolize , lit., “the two sons of the oil.” The word “anoint” is not present in Hebrew, nor is the typical word for olive oil that is used in anointing. This was used both for food and for fueling such lamps. These two “sons” almost certainly refer to Joshua and Zerubbabel, who now stand in close relationship to the , symbolized by the lamp. Zechariah envisions a government in which power is shared between the high priest and the descendant of David.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "zech",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 14
+    }
+  ]
+}

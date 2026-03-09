@@ -1,0 +1,223 @@
+{
+  "document_id": "hebr-1",
+  "title": "hebr 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hebr-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-hebr-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "but in these last days he has spoken to us by a Son, whom he appointed heir of all things, through whom he also created the worlds."
+    },
+    {
+      "block_id": "oxford-hebr-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He is the reflection of God's glory and the exact imprint of God's very being, and he sustains all things by his powerful word. When he had made purification for sins, he sat down at the right hand of the Majesty on high,"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-4",
+      "type": "commentary",
+      "text": "2b–3 : The author uses Jewish reflection on the figure of Wisdom to speak of the Son's relationship to God and activity prior to the incarnation (see Prov 8.22–31; Wis 7.25–8.1; 9.1; cf. Col 1.15–20; Phil 2.6–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-hebr-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "having become as much superior to angels as the name he has inherited is more excellent than theirs."
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–4: The sermon's thesis statement. God's final and complete word has been spoken through the Son, who has greater honor even than the angels. This is all one single sentence in Greek. Verses 3–4 are not just independent theological statements about the Son, but serve purposefully to amplify the significance of the Son, such that the audience should prioritize responding to the word God spoke through him above all other considerations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-hebr-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For to which of the angels did God ever say, “You are my Son; today I have begotten you”? Or again, “I will be his Father, and he will be my Son”?"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-6",
+      "type": "commentary",
+      "text": "5 : Ps 2.7; 2 Sam 7.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hebr-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "And again, when he brings the firstborn into the world, he says, “Let all God's angels worship him.”"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , the divine realm of God and the angels, the unshakable “world.” The author thinks here of the Son's ascension following his incarnation and death (see 2.5). The quotation is from Deut 32.43 (LXX).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Of the angels he says, “He makes his angels winds, and his servants flames of fire.”"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-8",
+      "type": "commentary",
+      "text": "7 : Ps 104.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-hebr-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But of the Son he says, “Your throne, O God, is forever and ever, and the righteous scepter is the scepter of your kingdom."
+    },
+    {
+      "block_id": "oxford-hebr-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-9",
+      "type": "commentary",
+      "text": "8–9 : Ps 45.6–7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-hebr-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "And, “In the beginning, Lord, you founded the earth, and the heavens are the work of your hands;"
+    },
+    {
+      "block_id": "oxford-hebr-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "they will perish, but you remain; they will all wear out like clothing;"
+    },
+    {
+      "block_id": "oxford-hebr-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "like a cloak you will roll them up, and like clothing they will be changed. But you are the same, and your years will never end.”"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-10",
+      "type": "commentary",
+      "text": "10–12 : Ps 102.25–27. Essential to the argument is the author's cosmology and eschatology. The visible earth and heavens are created, material, and therefore temporary. The presently unseen divine realm (the place of God's rest, 4.1–11, and the heavenly homeland, 11.16) is immaterial and eternal. Jesus has passed through the former (4.14) to enter the latter (“heaven itself,” 9.24) as the forerunner for God's many children (2.10; 6.19–20). The author expects a day on which God will remove the created earth and heavens, allowing Jesus's faithful clients to enter the unshakable, eternal realm (12.25–28) and thus enjoy “eternal salvation” (5.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hebr-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "But to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-11",
+      "type": "commentary",
+      "text": "13 : Ps 110.1. Psalm 110 is a key text within this sermon (see 1.3; 5.6; 7.17,21; 8.1; 10.12; 12.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Are not all angels spirits in the divine service, sent to serve for the sake of those who are to inherit salvation?"
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–2.18: Summons to give the Son one's full attention and allegiance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-5",
+      "type": "commentary",
+      "text": "1.5–14: Arguments from scripture that Jesus is superior in status to angels, mediators of the Old Covenant. Establishing this point contributes to the force of the author's call to action in 2.1–4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hebr-1-h1kj-12",
+      "type": "commentary",
+      "text": "14 : , this author speaks of salvation consistently as a future deliverance at the return of Christ and dissolution of the material cosmos.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    }
+  ]
+}

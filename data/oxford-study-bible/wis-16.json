@@ -1,0 +1,349 @@
+{
+  "document_id": "wis-16",
+  "title": "Wisdom 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-wis-16-heading-17",
+      "type": "heading",
+      "text": "17"
+    },
+    {
+      "block_id": "oxford-wis-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Instead of this punishment you showed kindness to your people, and you prepared quails to eat, a delicacy to satisfy the desire of appetite;"
+    },
+    {
+      "block_id": "oxford-wis-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "in order that those people, when they desired food, might lose the least remnant of appetite because of the odious creatures sent to them, while your people,c after suffering want a short time, might partake of delicacies."
+    },
+    {
+      "block_id": "oxford-wis-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For it was necessary that upon those oppressors inescapable want should come, while to these others it was merely shown how their enemies were being tormented."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-2",
+      "type": "commentary",
+      "text": "11.15–16.1–4: Second contrast: plague of irrational creatures versus the gift of quails.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-3",
+      "type": "commentary",
+      "text": "16.1–4: Second contrast resumes from 11.15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-5",
+      "type": "commentary",
+      "text": "2–4 : … , the contrasting benefit to the righteous during the journey in the wilderness; cf. Num 11.31–34, where the Israelites’ demand for meat is criticized.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 2,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-wis-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For when the terrible rage of wild animals came upon your people and they were being destroyed by the bites of writhing serpents, your wrath did not continue to the end;"
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-7",
+      "type": "commentary",
+      "text": "5 : The third contrast uniquely begins with the suffering of the Israelites; see Num 21.5–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-wis-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "they were troubled for a little while as a warning, and received a symbol of deliverance to remind them of your law's command."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-8",
+      "type": "commentary",
+      "text": "6 : , the serpent of bronze Moses was asked to make, Num 21.7–9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-wis-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For the one who turned toward it was saved, not by the thing that was beheld, but by you, the Savior of all."
+    },
+    {
+      "block_id": "oxford-wis-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And by this also you convinced our enemies that it is you who deliver from every evil."
+    },
+    {
+      "block_id": "oxford-wis-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For they were killed by the bites of locusts and flies, and no healing was found for them, because they deserved to be punished by such things."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-9",
+      "type": "commentary",
+      "text": "9 : In Ex 8.12–28 and 10.12–20 the Egyptians do not die from the insects, but Josephus ( 2.14.3) includes this detail.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-wis-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "But your children were not conquered even by the fangs of venomous serpents, for your mercy came to their help and healed them."
+    },
+    {
+      "block_id": "oxford-wis-16-11",
+      "type": "verse",
+      "number": 11,
+      "text": "To remind them of your oracles they were bitten, and then were quickly delivered, so that they would not fall into deep forgetfulness and become unresponsive to your kindness."
+    },
+    {
+      "block_id": "oxford-wis-16-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For neither herb nor poultice cured them, but it was your word, O Lord, that heals all people."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , the bronze serpent is not an idol, since it is God who heals, not the bronze object, cf. 16.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-wis-16-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For you have power over life and death; you lead mortals down to the gates of Hades and back again."
+    },
+    {
+      "block_id": "oxford-wis-16-14",
+      "type": "verse",
+      "number": 14,
+      "text": "A person in wickedness kills another, but cannot bring back the departed spirit, or set free the imprisoned soul."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-6",
+      "type": "commentary",
+      "text": "16.5–14. Third contrast: insects that kill versus the saving brazen serpent.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 5,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-wis-16-15",
+      "type": "verse",
+      "number": 15,
+      "text": "To escape from your hand is impossible;"
+    },
+    {
+      "block_id": "oxford-wis-16-16",
+      "type": "verse",
+      "number": 16,
+      "text": "for the ungodly, refusing to know you, were flogged by the strength of your arm, pursued by unusual rains and hail and relentless storms, and utterly consumed by fire."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-12",
+      "type": "commentary",
+      "text": "16 : The seventh plague was destruction by , and , Ex 9.22–26.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-wis-16-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For—most incredible of all—in water, which quenches all things, the fire had still greater effect, for the universe defends the righteous."
+    },
+    {
+      "block_id": "oxford-wis-16-18",
+      "type": "verse",
+      "number": 18,
+      "text": "At one time the flame was restrained, so that it might not consume the creatures sent against the ungodly, but that seeing this they might know that they were being pursued by the judgment of God;"
+    },
+    {
+      "block_id": "oxford-wis-16-19",
+      "type": "verse",
+      "number": 19,
+      "text": "and at another time even in the midst of water it burned more intensely than fire, to destroy the crops of the unrighteous land."
+    },
+    {
+      "block_id": "oxford-wis-16-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Instead of these things you gave your people food of angels, and without their toil you supplied them from heaven with bread ready to eat, providing every pleasure and suited to every taste."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-13",
+      "type": "commentary",
+      "text": "20 : In contrast, the righteous received , the manna in the wilderness, see Ex 16.1–21; Num 11.6–9. The contrast emphasizes the forces of the universe which attack the ungodly but help the righteous, cf. 8.4–6; 16.17,24; 19.18–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-wis-16-21",
+      "type": "verse",
+      "number": 21,
+      "text": "For your sustenance manifested your sweetness toward your children; and the bread, ministering to the desire of the one who took it, was changed to suit everyone's liking."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-14",
+      "type": "commentary",
+      "text": "21 : , a tradition reflected in 75a; Mekilta on Ex 16.23.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-wis-16-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Snow and ice withstood fire without melting, so that they might know that the crops of their enemies were being destroyed by the fire that blazed in the hail and flashed in the showers of rain;"
+    },
+    {
+      "block_id": "oxford-wis-16-23",
+      "type": "verse",
+      "number": 23,
+      "text": "whereas the fire, in order that the righteous might be fed, even forgot its native power."
+    },
+    {
+      "block_id": "oxford-wis-16-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For creation, serving you who made it, exerts itself to punish the unrighteous, and in kindness relaxes on behalf of those who trust in you."
+    },
+    {
+      "block_id": "oxford-wis-16-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Therefore at that time also, changed into all forms, it served your all-nourishing bounty, according to the desire of those who had need,"
+    },
+    {
+      "block_id": "oxford-wis-16-26",
+      "type": "verse",
+      "number": 26,
+      "text": "so that your children, whom you loved, O Lord, might learn that it is not the production of crops that feeds humankind but that your word sustains those who trust in you."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-15",
+      "type": "commentary",
+      "text": "26 : , cf. Deut 8.2–5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-wis-16-27",
+      "type": "verse",
+      "number": 27,
+      "text": "For what was not destroyed by fire was melted when simply warmed by a fleeting ray of the sun,"
+    },
+    {
+      "block_id": "oxford-wis-16-28",
+      "type": "verse",
+      "number": 28,
+      "text": "to make it known that one must rise before the sun to give you thanks, and must pray to you at the dawning of the light;"
+    },
+    {
+      "block_id": "oxford-wis-16-29",
+      "type": "verse",
+      "number": 29,
+      "text": "for the hope of an ungrateful person will melt like wintry frost, and flow away like waste water."
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-1",
+      "type": "commentary",
+      "text": "11.2–19.22: The Exodus and divine providence. Wisdom recedes into the background, while God is the protagonist who rewards the righteous and thwarts the godless. The proposition from the first part of the book, that God will “arm creation to repel his enemies” (5.17–23) is confirmed throughout this section. The section also exhibits the principle that the sins of the godless contain the seeds of their own punishment. Reflections on divine mercy and the source of idolatry are prominent themes. The entire reflection is ultimately folded into direct praise to God for the providential care of the just (10.20–21; 11.17–26; 19.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-wis-16-h1kj-11",
+      "type": "commentary",
+      "text": "16.15–29: Fourth contrast: plague of storms versus the gift of manna.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "wis",
+        "chapter": 16
+      },
+      "verse_start": 15,
+      "verse_end": 29
+    }
+  ]
+}

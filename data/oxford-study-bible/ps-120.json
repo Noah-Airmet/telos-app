@@ -1,0 +1,91 @@
+{
+  "document_id": "ps-120",
+  "title": "Psalms 120",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-120-heading-psalm-121",
+      "type": "heading",
+      "text": "Psalm 121"
+    },
+    {
+      "block_id": "oxford-ps-120-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In my distress I cry to the Lord, that he may answer me:"
+    },
+    {
+      "block_id": "oxford-ps-120-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 120: Prayer for rescue from slanderers. This is the first of the collection of Songs of Ascents, (Pss 120–134. The meaning of this superscription is debated; it may refer to the steplike parallelism in many of the poems (e.g., Ps 127.1: “unless the builds the house … unless the guards the city”), or to songs sung while going up or ascending to Jerusalem for pilgrimage. This psalm is an individual petition with the expected petitions for the punishment of enemies (vv. 3–4) and complaints (vv. 2–3,5–7), though without a statement of hope. The two complaints—slanderous attacks (vv. 2–4) and unwilling exile in a hostile country far from Jerusalem (vv. 5–7)—tell the same story with two metaphor systems (tongues as weapons, being in a distant, hostile land). Reputation, a community, and a home—all these have been taken from the psalmist. Others’ words have become weapons (vv. 2–3,7) and the only rescue the psalmist can imagine is retaliation in military terms (vv. 3–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 120
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-120-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Deliver me, O Lord, from lying lips, from a deceitful tongue.”"
+    },
+    {
+      "block_id": "oxford-ps-120-3",
+      "type": "verse",
+      "number": 3,
+      "text": "What shall be given to you? And what more shall be done to you, you deceitful tongue?"
+    },
+    {
+      "block_id": "oxford-ps-120-4",
+      "type": "verse",
+      "number": 4,
+      "text": "A warrior’s sharp arrows, with glowing coals of the broom tree!"
+    },
+    {
+      "block_id": "oxford-ps-120-h1kj-2",
+      "type": "commentary",
+      "text": "4 : , a desert shrub.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 120
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-120-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Woe is me, that I am an alien in Meshech, that I must live among the tents of Kedar."
+    },
+    {
+      "block_id": "oxford-ps-120-h1kj-3",
+      "type": "commentary",
+      "text": "5 : , places far from Jerusalem in southern Asia Minor (see Ezek 38.2), and northern Arabia (Isa 21.13–17), symbolizing distance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 120
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-120-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Too long have I had my dwelling among those who hate peace."
+    },
+    {
+      "block_id": "oxford-ps-120-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I am for peace; but when I speak, they are for war."
+    }
+  ]
+}

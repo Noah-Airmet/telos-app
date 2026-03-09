@@ -1,0 +1,32 @@
+{
+  "document_id": "add-esth-13",
+  "title": "Additions to Esther 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-add-esth-13-1",
+      "type": "verse",
+      "number": 1,
+      "text": "–"
+    },
+    {
+      "block_id": "oxford-add-esth-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": ") • Addition C: The prayers of Mordecai ("
+    },
+    {
+      "block_id": "oxford-add-esth-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "–"
+    },
+    {
+      "block_id": "oxford-add-esth-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": ") and Esther ("
+    }
+  ]
+}

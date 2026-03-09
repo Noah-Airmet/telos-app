@@ -1,0 +1,440 @@
+{
+  "document_id": "ezra-7",
+  "title": "Ezra 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ezra-7-1",
+      "type": "verse",
+      "number": 1,
+      "text": "After this, in the reign of King Artaxerxes of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,"
+    },
+    {
+      "block_id": "oxford-ezra-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "son of Shallum, son of Zadok, son of Ahitub,"
+    },
+    {
+      "block_id": "oxford-ezra-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "son of Amariah, son of Azariah, son of Meraioth,"
+    },
+    {
+      "block_id": "oxford-ezra-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "son of Zerahiah, son of Uzzi, son of Bukki,"
+    },
+    {
+      "block_id": "oxford-ezra-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "son of Abishua, son of Phinehas, son of Eleazar, son of the chief priest Aaron—"
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-4",
+      "type": "commentary",
+      "text": "5 : , His lineage qualifies Ezra to serve as a chief or high priest, even though he never undertakes this role in Ezra‐Nehemiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ezra-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "this Ezra went up from Babylonia. He was a scribe skilled in the law of Moses that the Lord the God of Israel had given; and the king granted him all that he asked, for the hand of the Lord his God was upon him."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-3",
+      "type": "commentary",
+      "text": "1–6 : Ezra’s long pedigree establishes his impeccable credentials both as priest of the most distinguished line and as scribe—the two roles that will account for his stature and acceptance within the Jewish community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , a highly educated person, often in an important advisory position to kings. , knowledgeable about the Torah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ezra-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Some of the people of Israel, and some of the priests and Levites, the singers and gatekeepers, and the temple servants also went up to Jerusalem, in the seventh year of King Artaxerxes."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-6",
+      "type": "commentary",
+      "text": "7 : , Ezra’s caravan includes the same basic groups as Ezra 2. , 458 .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ezra-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They came to Jerusalem in the fifth month, which was in the seventh year of the king."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , Ab (July‐August).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ezra-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "On the first day of the first month the journey up from Babylon was begun, and on the first day of the fifth month he came to Jerusalem, for the gracious hand of his God was upon him."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-8",
+      "type": "commentary",
+      "text": "9 : , i.e., Nisan (March‐April), two weeks before Passover. The dates may be symbolic, reflecting the Exodus from Egypt in the first month (Ex 12.2; Num 33.3) and the destruction of the Temple in the fifth (2 Kings 25.8), although five months would be a reasonable time for a journey from Babylon to Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ezra-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For Ezra had set his heart to study the law of the Lord, and to do it, and to teach the statutes and ordinances in Israel."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-2",
+      "type": "commentary",
+      "text": "7.1–10: The narrator’s introduction of Ezra.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-9",
+      "type": "commentary",
+      "text": "10 : Ezra’s goals of studying, teaching, and practicing God’s law account for his subsequent actions and model Jewish aspirations. These strengthen his credentials as priest, and his qualifications as an authoritative teacher of God’s law.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ezra-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "This is a copy of the letter that King Artaxerxes gave to the priest Ezra, the scribe, a scholar of the text of the commandments of the Lord and his statutes for Israel:"
+    },
+    {
+      "block_id": "oxford-ezra-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "“Artaxerxes, king of kings, to the priest Ezra, the scribe of the law of the God of heaven: Peace. And now"
+    },
+    {
+      "block_id": "oxford-ezra-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I decree that any of the people of Israel or their priests or Levites in my kingdom who freely offers to go to Jerusalem may go with you."
+    },
+    {
+      "block_id": "oxford-ezra-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For you are sent by the king and his seven counselors to make inquiries about Judah and Jerusalem according to the law of your God, which is in your hand,"
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-11",
+      "type": "commentary",
+      "text": "14 : , Persian royal advisers (see Esth 1.14 and 3.84). , in Ezra‐Nehemiah the book of the Torah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ezra-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and also to convey the silver and gold that the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem,"
+    },
+    {
+      "block_id": "oxford-ezra-7-16",
+      "type": "verse",
+      "number": 16,
+      "text": "with all the silver and gold that you shall find in the whole province of Babylonia, and with the freewill offerings of the people and the priests, given willingly for the house of their God in Jerusalem."
+    },
+    {
+      "block_id": "oxford-ezra-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "With this money, then, you shall with all diligence buy bulls, rams, and lambs, and their grain offerings and their drink offerings, and you shall offer them on the altar of the house of your God in Jerusalem."
+    },
+    {
+      "block_id": "oxford-ezra-7-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Whatever seems good to you and your colleagues to do with the rest of the silver and gold, you may do, according to the will of your God."
+    },
+    {
+      "block_id": "oxford-ezra-7-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The vessels that have been given you for the service of the house of your God, you shall deliver before the God of Jerusalem."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-12",
+      "type": "commentary",
+      "text": "15–19 : The royal privileges include financial support for the Temple by the king himself, voluntary contributions from Babylonian Jews for the Temple, and a free hand to use the surplus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 15,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-ezra-7-20",
+      "type": "verse",
+      "number": 20,
+      "text": "And whatever else is required for the house of your God, which you are responsible for providing, you may provide out of the king’s treasury."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-13",
+      "type": "commentary",
+      "text": "20 : Artaxerxes gives Ezra virtually a blank check, showing great trust in him.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ezra-7-21",
+      "type": "verse",
+      "number": 21,
+      "text": "“I, King Artaxerxes, decree to all the treasurers in the province Beyond the River: Whatever the priest Ezra, the scribe of the law of the God of heaven, requires of you, let it be done with all diligence,"
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-15",
+      "type": "commentary",
+      "text": "21 : Additional support is to come from local officials.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ezra-7-22",
+      "type": "verse",
+      "number": 22,
+      "text": "up to one hundred talents of silver, one hundred cors of wheat, one hundred baths of wine, one hundred bathsb of oil, and unlimited salt."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-16",
+      "type": "commentary",
+      "text": "22 : A was 75 lb (34 kg); a 6.5 bushels (230 L); and a about 6 gal (23 L).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-ezra-7-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Whatever is commanded by the God of heaven, let it be done with zeal for the house of the God of heaven, or wrath will come upon the realm of the king and his heirs."
+    },
+    {
+      "block_id": "oxford-ezra-7-24",
+      "type": "verse",
+      "number": 24,
+      "text": "We also notify you that it shall not be lawful to impose tribute, custom, or toll on any of the priests, the Levites, the singers, the doorkeepers, the temple servants, or other servants of this house of God."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-14",
+      "type": "commentary",
+      "text": "21–24 : Artaxerxes assures a generous year’s supply of provisions for the Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 21,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-17",
+      "type": "commentary",
+      "text": "24 : Tax exemption for Temple personnel is unusual.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-ezra-7-25",
+      "type": "verse",
+      "number": 25,
+      "text": "“And you, Ezra, according to the Godgiven wisdom you possess, appoint magistrates and judges who may judge all the people in the province Beyond the River who know the laws of your God; and you shall teach those who do not know them."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-18",
+      "type": "commentary",
+      "text": "25 : probably means Jews in the province.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-ezra-7-26",
+      "type": "verse",
+      "number": 26,
+      "text": "All who will not obey the law of your God and the law of the king, let judgment be strictly executed on them, whether for death or for banishment or for confiscation of their goods or for imprisonment.”"
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-10",
+      "type": "commentary",
+      "text": "7.11–26: Royal introduction of Ezra and his mission. This Aramaic royal letter establishes Ezra’s credentials within the Persian bureaucracy. It reauthorizes immigration to Judah (v. 13) and royal subsidy for the Temple (vv. 14–24). It seems to place the Torah on equal footing with royal law (v. 26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 11,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-19",
+      "type": "commentary",
+      "text": "26 : The king affirms Ezra’s comprehensive authority, as well as the Torah’s. , this crucial phrase sets the Torah as legally authoritative for the Jewish community in Yehud. It implies something akin to autonomy and self‐rule in matters of religion and the Temple. Some scholars conclude that the Torah was compiled by Ezra as a result of Persian initiative, but this is neither stated nor likely.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ezra-7-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Blessed be the Lord, the God of our ancestors, who put such a thing as this into the heart of the king to glorify the house of the Lord in Jerusalem,"
+    },
+    {
+      "block_id": "oxford-ezra-7-28",
+      "type": "verse",
+      "number": 28,
+      "text": "and who extended to me steadfast love before the king and his counselors, and before all the king’s mighty officers. I took courage, for the hand of the Lord my God was upon me, and I gathered leaders from Israel to go up with me."
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-1",
+      "type": "commentary",
+      "text": "7.1–10.44: Stage Two of reconstruction: Ezra and the reformation of the community according to the Torah. Ezra’s mission focuses on the processes by which the community restructures itself to conform to an interpretation of the law that requires a separation from the people of the land. Ezra‐Nehemiah implicitly dates this event in 458 , during the reign of Artaxerxes I, though some scholars date it to 398 , during the reign of Artaxerxes II.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-20",
+      "type": "commentary",
+      "text": "7.27–9.15: Ezra’s memoirs. The text resumes in Hebrew, with Ezra as narrator. He will describe the journey and the crisis of mixed marriages.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-21",
+      "type": "commentary",
+      "text": "7.27–8.36: Ezra’s journey and arrival.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-ezra-7-h1kj-22",
+      "type": "commentary",
+      "text": "7.27–28 : Ezra expresses gratitude to God, rather than to the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ezra",
+        "chapter": 7
+      },
+      "verse_start": 27,
+      "verse_end": 28
+    }
+  ]
+}

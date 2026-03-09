@@ -1,0 +1,212 @@
+{
+  "document_id": "eccl-4",
+  "title": "Ecclesiastes 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-eccl-4-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Again I saw all the oppressions that are practiced under the sun. Look, the tears of the oppressed—with no one to comfort them! On the side of their oppressors there was power—with no one to comfort them."
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-2",
+      "type": "commentary",
+      "text": "1 : refers to the powerful seizing the wages and goods of the poor (Deut 24.14; 1 Sam 12.3–4; Jer 21.12; Hos 12.7; Am 4.1; Mic 2.2). , a refrain in Lam 1. Oppression damages the oppressor and the oppressed: both lack .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-eccl-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And I thought the dead, who have already died, more fortunate than the living, who are still alive;"
+    },
+    {
+      "block_id": "oxford-eccl-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "but better than both is the one who has not yet been, and has not seen the evil deeds that are done under the sun."
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-3",
+      "type": "commentary",
+      "text": "2–3 : Oppression, especially when unwitnessed, can be so severe as to make death preferable to life. A rare perspective in the Bible, but also found in Job (see Job 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-eccl-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then I saw that all toil and all skill in work come from one person's envy of another. This also is vanity and a chasing after wind."
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , 1.2n. , 1.14n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-eccl-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Fools fold their hands and consume their own flesh."
+    },
+    {
+      "block_id": "oxford-eccl-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Better is a handful with quiet than two handfuls with toil, and a chasing after wind.a"
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-4",
+      "type": "commentary",
+      "text": "4–6 : Envy can lead to highly productive labor, but is implicitly criticized by the two proverbs in vv. 5–6. On their own, the proverbs appear to contrast foolish laziness and frenetic toil with a state of lesser productivity that includes leisure. In this context, they teach that combines the worst of foolishness and mania: it leads those who are envious to turn against others and on themselves in self-consuming, cannibalistic violence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-6",
+      "type": "commentary",
+      "text": "6 : Many Heb proverbs are “better … than” sayings (see v. 13; Prov 12.9; 15.16–17; 16.18; etc.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-eccl-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Again, I saw vanity under the sun:"
+    },
+    {
+      "block_id": "oxford-eccl-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "the case of solitary individuals, without sons or brothers; yet there is no end to all their toil, and their eyes are never satisfied with riches. “For whom am I toiling,” they ask, “and depriving myself of pleasure?” This also is vanity and an unhappy business."
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-8",
+      "type": "commentary",
+      "text": "8 : , see 1.13n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-eccl-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Two are better than one, because they have a good reward for their toil."
+    },
+    {
+      "block_id": "oxford-eccl-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For if they fall, one will lift up the other; but woe to one who is alone and falls and does not have another to help."
+    },
+    {
+      "block_id": "oxford-eccl-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Again, if two lie together, they keep warm; but how can one keep warm alone?"
+    },
+    {
+      "block_id": "oxford-eccl-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And though one might prevail against another, two will withstand one. A threefold cord is not quickly broken."
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-7",
+      "type": "commentary",
+      "text": "7–12 : Joint commitments make possible a reward unavailable to isolated individuals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-eccl-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Better is a poor but wise youth than an old but foolish king, who will no longer take advice."
+    },
+    {
+      "block_id": "oxford-eccl-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "One can indeed come out of prison to reign, even though born poor in the kingdom."
+    },
+    {
+      "block_id": "oxford-eccl-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I saw all the living who, moving about under the sun, follow that youth who replaced the king;"
+    },
+    {
+      "block_id": "oxford-eccl-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "there was no end to all those people whom he led. Yet those who come later will not rejoice in him. Surely this also is vanity and a chasing after wind.a"
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–16: Labor and relationships. A series of comparisons highlighting relative advantages that do not yield lasting differences. This chapter's four main sections (vv. 1–3,4–6,7–12,13–16) all focus on the relationships among individuals, their labor, and other people.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-eccl-4-h1kj-9",
+      "type": "commentary",
+      "text": "13–16 : A somewhat obscure comparison that seems to say that even when advantages exist and surprising reversals occur, fleetingness and oblivion are unavoidable.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "eccl",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 16
+    }
+  ]
+}

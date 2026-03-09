@@ -1,0 +1,98 @@
+{
+  "document_id": "psalm-151",
+  "title": "psalm 151",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-psalm-151-1",
+      "type": "verse",
+      "number": 1,
+      "text": "I was small among my brothers, and the youngest in my father's house; I tended my father's sheep."
+    },
+    {
+      "block_id": "oxford-psalm-151-h1kj-1",
+      "type": "commentary",
+      "text": "1: , cf. 1 Sam 16.11; 17.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "psalm",
+        "chapter": 151
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-psalm-151-2",
+      "type": "verse",
+      "number": 2,
+      "text": "My hands made a harp; my fingers fashioned a lyre."
+    },
+    {
+      "block_id": "oxford-psalm-151-h1kj-2",
+      "type": "commentary",
+      "text": "2 : David's ability to play the allowed him to soothe Saul's “evil spirit” (1 Sam 16.14–23; 18:10). Such musical ability was closely associated with the gift of poetry in antiquity and likely contributed to David's reputation as the author of the psalms. The Qumran version (11Q5 28.5) amplifies this verse: “so I have given glory to the , I said to myself.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "psalm",
+        "chapter": 151
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-psalm-151-3",
+      "type": "verse",
+      "number": 3,
+      "text": "And who will tell my Lord? The Lord himself; it is he who hears."
+    },
+    {
+      "block_id": "oxford-psalm-151-4",
+      "type": "verse",
+      "number": 4,
+      "text": "It was he who sent his messenger and took me from my father's sheep, and anointed me with his anointing oil."
+    },
+    {
+      "block_id": "oxford-psalm-151-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , specified in 11Q5 28.8 as the prophet Samuel; see 1 Sam 16.1–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "psalm",
+        "chapter": 151
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-psalm-151-5",
+      "type": "verse",
+      "number": 5,
+      "text": "My brothers were handsome and tall, but the Lord was not pleased with them."
+    },
+    {
+      "block_id": "oxford-psalm-151-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I went out to meet the Philistine, and he cursed me by his idols."
+    },
+    {
+      "block_id": "oxford-psalm-151-7",
+      "type": "verse",
+      "number": 7,
+      "text": "But I drew his own sword; I beheaded him, and took away disgrace from the people of Israel."
+    },
+    {
+      "block_id": "oxford-psalm-151-h1kj-4",
+      "type": "commentary",
+      "text": "6–7 : The focus of the psalm shifts to David's feat of slaying Goliath (1 Sam 17). , see 1 Sam 17.43. On Israel's subjugation by Goliath as a , see Sir 47.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "psalm",
+        "chapter": 151
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    }
+  ]
+}

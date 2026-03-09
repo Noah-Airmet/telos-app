@@ -1,0 +1,151 @@
+{
+  "document_id": "ps-137",
+  "title": "Psalms 137",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-137-heading-psalm-138",
+      "type": "heading",
+      "text": "Psalm 138"
+    },
+    {
+      "block_id": "oxford-ps-137-1",
+      "type": "verse",
+      "number": 1,
+      "text": "By the rivers of Babylon— there we sat down and there we wept when we remembered Zion."
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 137: A lament over destroyed Jerusalem. A community petition that complains vigorously of the destruction of Jerusalem by the Babylonians in 586 . The first stanza (vv. 1–3) is framed by “Zion,” the second (vv. 4–6) by “Jerusalem,” and the third, a cry for justice against Edom and Babylon, the enemies responsible for the destruction. The last stanza, repugnant to modern readers and often omitted in modern uses of the psalm, is the cry of one singer who feels acutely the dishonor inflicted by an arrogant empire and its helpers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , irrigation canals.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-137-2",
+      "type": "verse",
+      "number": 2,
+      "text": "On the willows there we hung up our harps."
+    },
+    {
+      "block_id": "oxford-ps-137-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For there our captors asked us for songs, and our tormentors asked for mirth, saying, “Sing us one of the songs of Zion!”"
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , to be understood as “songs of joy,” abstract for concrete. Such songs (e.g., Pss 46; 48; 76; 84; 122) told of the grandeur of Zion where the defeated enemy kings and dwelled in the midst of Israel. It is humiliating to sing them now especially to people who laugh at them.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-137-4",
+      "type": "verse",
+      "number": 4,
+      "text": "How could we sing the Lord’s song in a foreign land?"
+    },
+    {
+      "block_id": "oxford-ps-137-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If I forget you, O Jerusalem, let my right hand wither!"
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-4",
+      "type": "commentary",
+      "text": "5 : Wordplay: the Heb word “shakaḥ” is a homonym for two different verbs in the verse: and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-137-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let my tongue cling to the roof of my mouth, if I do not remember you, if I do not set Jerusalem above my highest joy."
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-5",
+      "type": "commentary",
+      "text": "5–6 : and are the means of making music.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-137-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remember, O Lord, against the Edomites the day of Jerusalem’s fall, how they said, “Tear it down! Tear it down! Down to its foundations!”"
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-6",
+      "type": "commentary",
+      "text": "7 : , south of the Dead Sea, Edom was an ally in the Babylonian destruction of the city (Lam 4.21; Ezek 25.12–14; 36.5; (Ob 8–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-137-8",
+      "type": "verse",
+      "number": 8,
+      "text": "O daughter Babylon, you devastator! Happy shall they be who pay you back what you have done to us!"
+    },
+    {
+      "block_id": "oxford-ps-137-h1kj-7",
+      "type": "commentary",
+      "text": "8 : , by poetic justice, it will suffer what it forced others to suffer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 137
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-137-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Happy shall they be who take your little ones and dash them against the rock!"
+    }
+  ]
+}

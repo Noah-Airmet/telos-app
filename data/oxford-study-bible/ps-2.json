@@ -1,0 +1,169 @@
+{
+  "document_id": "ps-2",
+  "title": "Psalms 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-2-heading-psalm-3",
+      "type": "heading",
+      "text": "Psalm 3"
+    },
+    {
+      "block_id": "oxford-ps-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Why do the nations conspire, and the peoples plot in vain?"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 2: The Israelite king, instrument of God’s rule. In this royal psalm, a court poet asks incredulously why the nations dare to threaten the Davidic king (vv. 1–3) when the Most High has stated that the king is his son and representative, hence in principle the most high among earthly kings. Like Ps 1, Ps 2 is introductory, and there are links between the two psalms, which are considered a single unit in some traditions: Ps 2.11 ends with “happy,” echoing the first word in Ps 1; “the way [of the wicked] will perish” in 1.6 is echoed in 2.11, “you will perish in the way”; thematically, the divine instruction of the psalmist in Ps 1 protects from evil persons just as the divine promise in Ps 2 protects the Israelite king and people from evil kings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord and his anointed, saying,"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-3",
+      "type": "commentary",
+      "text": "2 : (Heb “mashiaḥ”) is always used in the Hebrew Bible of an actual ruler rather than of a future ideal king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“Let us burst their bonds asunder, and cast their cords from us.”"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-2",
+      "type": "commentary",
+      "text": "1–3 : In describing hostile nations, the speaker quotes their deluded speech as in Pss 48.4–8; 76; and Ezek 38–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He who sits in the heavens laughs; the Lord has them in derision."
+    },
+    {
+      "block_id": "oxford-ps-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then he will speak to them in his wrath, and terrify them in his fury, saying,"
+    },
+    {
+      "block_id": "oxford-ps-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "“I have set my king on Zion, my holy hill.”"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , Jerusalem, where the royal palace and the Temple were part of the same architectural complex.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "I will tell of the decree of the Lord: He said to me, “You are my son; today I have begotten you."
+    },
+    {
+      "block_id": "oxford-ps-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession."
+    },
+    {
+      "block_id": "oxford-ps-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You shall break them with a rod of iron, and dash them in pieces like a potter’s vessel.”"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-4",
+      "type": "commentary",
+      "text": "4–9 : Dismissing the vain posturing of the kings, the Davidic king cites God’s adoption formula (see 2 Sam 7.14; Ps 89.26–27) and promise of universal sovereignty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-ps-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now therefore, O kings, be wise; be warned, O rulers of the earth."
+    },
+    {
+      "block_id": "oxford-ps-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Serve the Lord with fear, with trembling"
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-6",
+      "type": "commentary",
+      "text": "10–11 : In the light of the divine promise, the poet warns the kings to end their rebellion and submit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "kiss his feet, or he will be angry, and you will perish in the way; for his wrath is quickly kindled. Happy are all who take refuge in him."
+    },
+    {
+      "block_id": "oxford-ps-2-h1kj-7",
+      "type": "commentary",
+      "text": "12 : The exact meaning of the words translated is debated, and was the subject of much Jewish‐Christian polemic in the Middle Ages, when it was sometimes rendered “Kiss the son.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    }
+  ]
+}

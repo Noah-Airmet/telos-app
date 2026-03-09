@@ -1,0 +1,253 @@
+{
+  "document_id": "fourmac-3",
+  "title": "fourmac 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-fourmac-3-heading-4",
+      "type": "heading",
+      "text": "4"
+    },
+    {
+      "block_id": "oxford-fourmac-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "No one of us can eradicate that kind of desire, but reason can provide a way for us not to be enslaved by desire."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-3",
+      "type": "commentary",
+      "text": "2.24–3.2 : See 1.5–6a n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-fourmac-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "No one of us can eradicate anger from the mind, but reason can help to deal with anger."
+    },
+    {
+      "block_id": "oxford-fourmac-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "No one of us can eradicate malice, but reason can fight at our side so that we are not overcome by malice."
+    },
+    {
+      "block_id": "oxford-fourmac-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "For reason does not uproot the emotions but is their antagonist."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-4",
+      "type": "commentary",
+      "text": "3.2–5 : See 1.6b n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-fourmac-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Now this can be explained more clearly by the story of King David's thirst."
+    },
+    {
+      "block_id": "oxford-fourmac-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "David had been attacking the Philistines all day long, and together with the soldiers of his nation had killed many of them."
+    },
+    {
+      "block_id": "oxford-fourmac-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Then when evening fell, he came, sweating and quite exhausted, to the royal tent, around which the whole army of our ancestors had encamped."
+    },
+    {
+      "block_id": "oxford-fourmac-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Now all the rest were at supper,"
+    },
+    {
+      "block_id": "oxford-fourmac-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "but the king was extremely thirsty, and though springs were plentiful there, he could not satisfy his thirst from them."
+    },
+    {
+      "block_id": "oxford-fourmac-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "But a certain irrational desire for the water in the enemy's territory tormented and inflamed him, undid and consumed him."
+    },
+    {
+      "block_id": "oxford-fourmac-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "When his guards complained bitterly because of the king's craving, two staunch young soldiers, respecting the king's desire, armed themselves fully, and taking a pitcher climbed over the enemy's ramparts."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-6",
+      "type": "commentary",
+      "text": "12 : , perhaps “ashamed of.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-fourmac-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Eluding the sentinels at the gates, they went searching throughout the enemy camp"
+    },
+    {
+      "block_id": "oxford-fourmac-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and found the spring, and from it boldly brought the king a drink."
+    },
+    {
+      "block_id": "oxford-fourmac-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "But David, though he was burning with thirst, considered it an altogether fearful danger to his soul to drink what was regarded as equivalent to blood."
+    },
+    {
+      "block_id": "oxford-fourmac-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Therefore, opposing reason to desire, he poured out the drink as an offering to God."
+    },
+    {
+      "block_id": "oxford-fourmac-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For the temperate mind can conquer the drives of the emotions and quench the flames of frenzied desires;"
+    },
+    {
+      "block_id": "oxford-fourmac-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "it can overthrow bodily agonies even when they are extreme, and by nobility of reason spurn all domination by the emotions."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-1",
+      "type": "commentary",
+      "text": "1.13–3.18: Development of the thesis. 1.13–30a: Definitions of terms.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-2",
+      "type": "commentary",
+      "text": "1.30b–3.18: Evidence from the scriptures.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-5",
+      "type": "commentary",
+      "text": "6–18 : The story of David's thirst (2 Sam 23.13–17; 1 Chr 11.15–19) provides a proof from example of the position taken in 3.2. David regards the water as (v. 15) because the soldiers risked their lives. Although he still experiences thirst at the close (hence he does not eliminate his craving), David does not allow it to lead him into an act of pride (hence he masters his craving). The author modifies the story to underscore the severity of David's thirst and the irrational element of his desire for water beyond his reach (3.10 has no parallel in the biblical narratives).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-fourmac-3-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The present occasion now invites us to a narrative demonstration of temperate reason."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-9",
+      "type": "commentary",
+      "text": "3.19 : The martyrdoms provide the primary proof from historical example for the author's thesis, a connection made explicit in 6.31–35; 13.1–5; 16.1–2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-fourmac-3-20",
+      "type": "verse",
+      "number": 20,
+      "text": "At a time when our ancestors were enjoying profound peace because of their observance of the law and were prospering, so that even Seleucus Nicanor, king of Asia, had both appropriated money to them for the temple service and recognized their commonwealth—"
+    },
+    {
+      "block_id": "oxford-fourmac-3-21",
+      "type": "verse",
+      "number": 21,
+      "text": "just at that time certain persons attempted a revolution against the public harmony and caused many and various disasters."
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-7",
+      "type": "commentary",
+      "text": "3.19–17.24: Narrative demonstration of the thesis.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-8",
+      "type": "commentary",
+      "text": "3.19–4.26: Historical background. A highly condensed version of 2 Macc 3.1–6.11.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-fourmac-3-h1kj-10",
+      "type": "commentary",
+      "text": "3.20–21 : , Seleucus IV Philopator (king of Syria, 187–175 ), not Seleucus I Nicator (305–281). Jerusalem is portrayed as the ideal Greek city-state, exhibiting , lawful , and through observing its native way of life; ironically, the Hellenization of the city will destroy this ideal.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "fourmac",
+        "chapter": 3
+      },
+      "verse_start": 20,
+      "verse_end": 21
+    }
+  ]
+}

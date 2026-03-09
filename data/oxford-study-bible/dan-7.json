@@ -1,0 +1,464 @@
+{
+  "document_id": "dan-7",
+  "title": "Daniel 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-dan-7-1",
+      "type": "verse",
+      "number": 1,
+      "text": "In the first year of King Belshazzar of Babylon, Daniel had a dream and visions of his head as he lay in bed. Then he wrote down the dream:"
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , 553 (see 5.1n.). similar to Nebuchadnezzar (2.28). , writing down the vision is part of the motif of secret and revealed knowledge that is characteristic of apocalyptic literature (see also 12.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-dan-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "I, Daniel, saw in my vision by night the four winds of heaven stirring up the great sea,"
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-3",
+      "type": "commentary",
+      "text": "2 : The narration switches to first person. , cosmic winds sent by the divine to act upon the waters (see Gen 1.2); the number four connotes totality. , chaotic waters and sea monsters that the divine warrior must vanquish (Isa 27.1; Pss 74.13–17; 89.9–10; 93.3–4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-dan-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and four great beasts came up out of the sea, different from one another."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the world kingdoms of Babylonia, Media, Persia, and Greece (see 2.36–45nn.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-dan-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The first was like a lion and had eagles’ wings. Then, as I watched, its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a human being; and a human mind was given to it."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , the Neo-Babylonian empire (2.38); , a reference to Nebuchadnezzar, who transforms into a beast and back into a human (see 4.33n.). , a symbol of military speed and power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-dan-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Another beast appeared, a second one, that looked like a bear. It was raised up on one side, had three tusks in its mouth among its teeth and was told, “Arise, devour many bodies!”"
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , Media was mistakenly thought by the authors of Daniel to be the empire that defeated Babylon (2.39; 5.31; 8.20; 11.1; cf. Jer 51.11). , standing on its hind legs. , this empire is predatory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-dan-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "After this, as I watched, another appeared, like a leopard. The beast had four wings of a bird on its back and four heads; and dominion was given to it."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , Persia (2.39b; 6.28; 8.20; 10.1,20). , Hos 13.7–8 refers to the ravaging power of leopard, bear, lion, and an unnamed wild animal. , a reference to the speed of Persia's wide-ranging military conquests (see 2.39).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-dan-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "After this I saw in the visions by night a fourth beast, terrifying and dreadful and exceedingly strong. It had great iron teeth and was devouring, breaking in pieces, and stamping what was left with its feet. It was different from all the beasts that preceded it, and it had ten horns."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , Alexander the Great's empire (2.40; 8.21). , the Seleucid dynasty, which ruled Syria and Judea after Alexander. Horns are symbols of power (8.20; Ezek 29.21; Zech 1.18; Ps 132.17). is a round number, not the actual number of monarchs.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-dan-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I was considering the horns, when another horn appeared, a little one coming up among them; to make room for it, three of the earlier horns were plucked up by the roots. There were eyes like human eyes in this horn, and a mouth speaking arrogantly."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-1",
+      "type": "commentary",
+      "text": "7.1–8: First apocalypse. Daniel, not the king, is the recipient of visions; now he is not the interpreter as in chs 2 and 4, but the one needing interpretation. This vision was likely written prior to Antiochus IV's reign (175–164 ) and updated just before he desecrated the Temple in 167.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-9",
+      "type": "commentary",
+      "text": "8 : , Antiochus IV Epiphanes (175–164 ), the Seleucid usurper of the throne (8.9; 1 Macc 1.41–50). up, Antiochus IV was fourth in the line of succession, after his brother, Seleucus IV, and his brother's sons, Antiochus and Demetrius. Seleucus was murdered by his prime minister, Heliodorus (see 2 Macc 3), and Demetrius was exiled to Rome. Antiochus IV was directly responsible only for the death of his nephew Antiochus, but the book of Daniel apparently holds him responsible for killing or displacing all three. Human , eyes and mouth are often associated with haughty and boastful behavior (Prov 6.17; 10.6; 21.4; Isa 2.11; 5.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-dan-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "As I watched, thrones were set in place, and an Ancient One took his throne, his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames, and its wheels were burning fire."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-11",
+      "type": "commentary",
+      "text": "9 : , lit., “an Ancient of Days”; see also Isa 40.28; Deut 33.27. , indicates righteousness (Isa 1.18) and also brightness, which sets the divine apart from humans (Mk 9.2–3; Rev 3.5). , see also Ezek 1.4,15–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-dan-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "A stream of fire issued and flowed out from his presence. A thousand thousands served him, and ten thousand times ten thousand stood attending him. The court sat in judgment, and the books were opened."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-12",
+      "type": "commentary",
+      "text": "10 : The deity is frequently associated with fire (Ex 3.2; 13.21–22; Ps 18.8). , the vast angelic host that serves God (Ps 68.17; Rev 5.11). , records of human deeds recorded by the divine court (Isa 65.6; Mal 3.16; 90.20; Rev 20.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-dan-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I watched then because of the noise of the arrogant words that the horn was speaking. And as I watched, the beast was put to death, and its body destroyed and given over to be burned with fire."
+    },
+    {
+      "block_id": "oxford-dan-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "As for the rest of the beasts, their dominion was taken away, but their lives were prolonged for a season and a time."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-13",
+      "type": "commentary",
+      "text": "11–12 : The fourth beast is singled out for destruction; the other beasts are simply stripped of power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-dan-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "As I watched in the night visions, I saw one like a human being coming with the clouds of heaven. And he came to the Ancient One and was presented before him."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , lit., “one like a son of man,” contrasts with the beasts. The humanlike one may be the archangel Michael (10.13,21; 12.1; Rev 12), or as a corporate symbol of faithful Israelites (see vv. 18,27). In traditional Christian interpretation it is understood Jesus Christ (e.g., Mt 24.30–31). See also 8.17n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-dan-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "To him was given dominion and glory and kingship, that all peoples, nations, and languages should serve him. His dominion is an everlasting dominion that shall not pass away, and his kingship is one that shall never be destroyed."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-10",
+      "type": "commentary",
+      "text": "7.9–14: The divine throne. The scene shifts from the beasts to the divine throne and the heavenly council acting as a legal court (see 1 Kings 22.19; Isa 6; 90.20; Rev 4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 9,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-15",
+      "type": "commentary",
+      "text": "14 : Unlike the previous kingdoms, the rule of the humanlike one will not end (see also v. 27; 2.44; 4.3,34; 6.26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-dan-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "As for me, Daniel, my spirit was troubled within me, and the visions of my head terrified me."
+    },
+    {
+      "block_id": "oxford-dan-7-16",
+      "type": "verse",
+      "number": 16,
+      "text": "I approached one of the attendants to ask him the truth concerning all this. So he said that he would disclose to me the interpretation of the matter:"
+    },
+    {
+      "block_id": "oxford-dan-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "“As for these four great beasts, four kings shall arise out of the earth."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-17",
+      "type": "commentary",
+      "text": "17 : The four kings are the kingdoms of Babylon, Media, Persia, and Greece (v. 3; see 2.36–45nn.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-dan-7-18",
+      "type": "verse",
+      "number": 18,
+      "text": "But the holy ones of the Most High shall receive the kingdom and possess the kingdom forever—forever and ever.”"
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-16",
+      "type": "commentary",
+      "text": "7.15–18: Interpretation. Daniel needs the help of an interpreting angel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 15,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-18",
+      "type": "commentary",
+      "text": "18 : , the divine council of angels (4.13,17,23; Ps 89.5; Job 5.1; 15.15; Zech 14.5; Deut 33.2; Prov 30.3; Sir 42.17; 45.2; 17.11; 12.2; 14.23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-dan-7-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then I desired to know the truth concerning the fourth beast, which was different from all the rest, exceedingly terrifying, with its teeth of iron and claws of bronze, and which devoured and broke in pieces, and stamped what was left with its feet;"
+    },
+    {
+      "block_id": "oxford-dan-7-20",
+      "type": "verse",
+      "number": 20,
+      "text": "and concerning the ten horns that were on its head, and concerning the other horn, which came up and to make room for which three of them fell out—the horn that had eyes and a mouth that spoke arrogantly, and that seemed greater than the others."
+    },
+    {
+      "block_id": "oxford-dan-7-21",
+      "type": "verse",
+      "number": 21,
+      "text": "As I looked, this horn made war with the holy ones and was prevailing over them,"
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-20",
+      "type": "commentary",
+      "text": "19–21 : The actions of Antiochus IV against the Jewish community before the Temple was desecrated. Events on earth reflect heavenly realities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 19,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-dan-7-22",
+      "type": "verse",
+      "number": 22,
+      "text": "until the Ancient Onec came; then judgment was given for the holy ones of the Most High, and the time arrived when the holy ones gained possession of the kingdom."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-21",
+      "type": "commentary",
+      "text": "22 : Anticipates the end of foreign rule and the exaltation of the faithful community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-dan-7-23",
+      "type": "verse",
+      "number": 23,
+      "text": "This is what he said: “As for the fourth beast, there shall be a fourth kingdom on earth that shall be different from all the other kingdoms; it shall devour the whole earth, and trample it down, and break it to pieces."
+    },
+    {
+      "block_id": "oxford-dan-7-24",
+      "type": "verse",
+      "number": 24,
+      "text": "As for the ten horns, out of this kingdom ten kings shall arise, and another shall arise after them. This one shall be different from the former ones, and shall put down three kings."
+    },
+    {
+      "block_id": "oxford-dan-7-25",
+      "type": "verse",
+      "number": 25,
+      "text": "He shall speak words against the Most High, shall wear out the holy ones of the Most High, and shall attempt to change the sacred seasons and the law; and they shall be given into his power for a time, two times, and half a time."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-22",
+      "type": "commentary",
+      "text": "23–25 : see 7.7–8n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 23,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-23",
+      "type": "commentary",
+      "text": "25 : , Antiochus's interference with Jewish religious life and Temple practices. , three and a half years (compare 4.26). Although this was approximately the duration of Antiochus's persecution, it is more likely used because it is half of seven, the number of completion and fulfillment.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-dan-7-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Then the court shall sit in judgment, and his dominion shall be taken away, to be consumed and totally destroyed."
+    },
+    {
+      "block_id": "oxford-dan-7-27",
+      "type": "verse",
+      "number": 27,
+      "text": "The kingship and dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the holy ones of the Most High; their kingdom shall be an everlasting kingdom, and all dominions shall serve and obey them.”"
+    },
+    {
+      "block_id": "oxford-dan-7-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Here the account ends. As for me, Daniel, my thoughts greatly terrified me, and my face turned pale; but I kept the matter in my mind."
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-19",
+      "type": "commentary",
+      "text": "7.19–28: The end of foreign power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 19,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-dan-7-h1kj-24",
+      "type": "commentary",
+      "text": "28 : Despite the interpretation, Daniel remains perplexed by the mysterious character of the dream.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "dan",
+        "chapter": 7
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    }
+  ]
+}

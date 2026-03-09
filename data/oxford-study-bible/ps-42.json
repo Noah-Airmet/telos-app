@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-42",
+  "title": "Psalms 42",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-42-heading-psalm-43",
+      "type": "heading",
+      "text": "Psalm 43"
+    },
+    {
+      "block_id": "oxford-ps-42-1",
+      "type": "verse",
+      "number": 1,
+      "text": "As a deer longs for flowing streams, so my soul longs for you, O God."
+    },
+    {
+      "block_id": "oxford-ps-42-2",
+      "type": "verse",
+      "number": 2,
+      "text": "My soul thirsts for God, for the living God. When shall I come and behold the face of God?"
+    },
+    {
+      "block_id": "oxford-ps-42-3",
+      "type": "verse",
+      "number": 3,
+      "text": "My tears have been my food day and night, while people say to me continually, “Where is your God?”"
+    },
+    {
+      "block_id": "oxford-ps-42-4",
+      "type": "verse",
+      "number": 4,
+      "text": "These things I remember, as I pour out my soul: how I went with the throng, and led them in procession to the house of God, with glad shouts and songs of thanksgiving, a multitude keeping festival."
+    },
+    {
+      "block_id": "oxford-ps-42-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise him, my help"
+    },
+    {
+      "block_id": "oxford-ps-42-h1kj-2",
+      "type": "commentary",
+      "text": "42.1–5 : The taunts of those who reject God depress the psalmist and awaken memories of past worship with believers. Verses 1–5 are unified by water imagery.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-42-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and my God. My soul is cast down within me; therefore I remember you from the land of Jordan and of Hermon, from Mount Mizar."
+    },
+    {
+      "block_id": "oxford-ps-42-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , northern sites, near the headwaters of the Jordan and far from Jerusalem. , precise location unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-42-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Deep calls to deep at the thunder of your cataracts; all your waves and your billows have gone over me."
+    },
+    {
+      "block_id": "oxford-ps-42-h1kj-5",
+      "type": "commentary",
+      "text": "7 : , the subterranean cosmic waters that symbolize chaos and death (cf. Jon 2.3–4; Ps 18.4–6). Being distant from the dwelling of the saving God is like being in the power of chaotic Sea.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-42-8",
+      "type": "verse",
+      "number": 8,
+      "text": "By day the Lord commands his steadfast love, and at night his song is with me, a prayer to the God of my life."
+    },
+    {
+      "block_id": "oxford-ps-42-9",
+      "type": "verse",
+      "number": 9,
+      "text": "I say to God, my rock, “Why have you forgotten me? Why must I walk about mournfully because the enemy oppresses me?”"
+    },
+    {
+      "block_id": "oxford-ps-42-10",
+      "type": "verse",
+      "number": 10,
+      "text": "As with a deadly wound in my body, my adversaries taunt me, while they say to me continually, “Where is your God?”"
+    },
+    {
+      "block_id": "oxford-ps-42-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise him, my help and my God."
+    },
+    {
+      "block_id": "oxford-ps-42-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 42–43: Longing to join the community in the Temple. This is the first psalm in the “Elohistic Psalter” (see Introduction). These two chapters form one poem as indicated by the identical refrain in 42.6,11 and 43.5, and petition to be in the Temple (like Pss 27; 63; 84). Here the sufferer, away from the Temple, complains of taunts by unbelievers (42.9–10) and pleads for a guide for the journey home. Distinctive is the psalmist’s alternation between discouragement and resolve, despair and hope.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-ps-42-h1kj-3",
+      "type": "commentary",
+      "text": "6–11 : Even in anger against God, the psalmist is able to hope (vv. 8,11) and pray (vv. 8,9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 42
+      },
+      "verse_start": 6,
+      "verse_end": 11
+    }
+  ]
+}

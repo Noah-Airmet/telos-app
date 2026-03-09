@@ -1,0 +1,619 @@
+{
+  "document_id": "john-8",
+  "title": "John 8",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-john-8-heading-9",
+      "type": "heading",
+      "text": "9"
+    },
+    {
+      "block_id": "oxford-john-8-1",
+      "type": "verse",
+      "number": 1,
+      "text": "while Jesus went to the Mount of Olives."
+    },
+    {
+      "block_id": "oxford-john-8-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Early in the morning he came again to the temple. All the people came to him and he sat down and began to teach them."
+    },
+    {
+      "block_id": "oxford-john-8-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The scribes and the Pharisees brought a woman who had been caught in adultery; and making her stand before all of them,"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-3",
+      "type": "commentary",
+      "text": "3 : , another group of Jewish religious authorities, are mentioned only here in John.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-john-8-4",
+      "type": "verse",
+      "number": 4,
+      "text": "they said to him, “Teacher, this woman was caught in the very act of committing adultery."
+    },
+    {
+      "block_id": "oxford-john-8-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Now in the law Moses commanded us to stone such women. Now what do you say?”"
+    },
+    {
+      "block_id": "oxford-john-8-6",
+      "type": "verse",
+      "number": 6,
+      "text": "They said this to test him, so that they might have some charge to bring against him. Jesus bent down and wrote with his finger on the ground."
+    },
+    {
+      "block_id": "oxford-john-8-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When they kept on questioning him, he straightened up and said to them, “Let anyone among you who is without sin be the first to throw a stone at her.”"
+    },
+    {
+      "block_id": "oxford-john-8-8",
+      "type": "verse",
+      "number": 8,
+      "text": "And once again he bent down and wrote on the ground."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-4",
+      "type": "commentary",
+      "text": "6–8 : The significant point may be not what Jesus was writing but that he was writing; literacy in the ancient world granted status. Writing may be an allusion to Ex 31.18; cf. 32.15–16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-john-8-9",
+      "type": "verse",
+      "number": 9,
+      "text": "When they heard it, they went away, one by one, beginning with the elders; and Jesus was left alone with the woman standing before him."
+    },
+    {
+      "block_id": "oxford-john-8-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Jesus straightened up and said to her, “Woman, where are they? Has no one condemned you?”"
+    },
+    {
+      "block_id": "oxford-john-8-11",
+      "type": "verse",
+      "number": 11,
+      "text": "She said, “No one, sir.” And Jesus said, “Neither do I condemn you. Go your way, and from now on do not sin again.”⟧"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-2",
+      "type": "commentary",
+      "text": "8.1–11: Jesus refuses to condemn. This story is not part of the major manuscript tradition for the Gospel, and is likely a later addition.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-john-8-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-6",
+      "type": "commentary",
+      "text": "12 : . See 1.9.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-john-8-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Then the Pharisees said to him, “You are testifying on your own behalf; your testimony is not valid.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-7",
+      "type": "commentary",
+      "text": "13 : The rest of the chapter employs linguistic patterns of juridical argument. The Pharisees challenge the legal validity of Jesus's defense.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-john-8-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Jesus answered, “Even if I testify on my own behalf, my testimony is valid because I know where I have come from and where I am going, but you do not know where I come from or where I am going."
+    },
+    {
+      "block_id": "oxford-john-8-15",
+      "type": "verse",
+      "number": 15,
+      "text": "You judge by human standards; I judge no one."
+    },
+    {
+      "block_id": "oxford-john-8-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Yet even if I do judge, my judgment is valid; for it is not I alone who judge, but I and the Father who sent me."
+    },
+    {
+      "block_id": "oxford-john-8-17",
+      "type": "verse",
+      "number": 17,
+      "text": "In your law it is written that the testimony of two witnesses is valid."
+    },
+    {
+      "block_id": "oxford-john-8-18",
+      "type": "verse",
+      "number": 18,
+      "text": "I testify on my own behalf, and the Father who sent me testifies on my behalf.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-8",
+      "type": "commentary",
+      "text": "17–18 : , Deut 19.15 requires two or three witnesses. Jesus names two: his Father and himself.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 17,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-john-8-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Then they said to him, “Where is your Father?” Jesus answered, “You know neither me nor my Father. If you knew me, you would know my Father also.”"
+    },
+    {
+      "block_id": "oxford-john-8-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He spoke these words while he was teaching in the treasury of the temple, but no one arrested him, because his hour had not yet come."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-5",
+      "type": "commentary",
+      "text": "8.12–20: Jesus's defense continues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 12,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-9",
+      "type": "commentary",
+      "text": "20 : Jesus's determines when he will lay down his life (see 10.18).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-john-8-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Again he said to them, “I am going away, and you will search for me, but you will die in your sin. Where I am going, you cannot come.”"
+    },
+    {
+      "block_id": "oxford-john-8-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Then the Jews said, “Is he going to kill himself? Is that what he means by saying, ‘Where I am going, you cannot come’?”"
+    },
+    {
+      "block_id": "oxford-john-8-23",
+      "type": "verse",
+      "number": 23,
+      "text": "He said to them, “You are from below, I am from above; you are of this world, I am not of this world."
+    },
+    {
+      "block_id": "oxford-john-8-24",
+      "type": "verse",
+      "number": 24,
+      "text": "I told you that you would die in your sins, for you will die in your sins unless you believe that I am he.”"
+    },
+    {
+      "block_id": "oxford-john-8-25",
+      "type": "verse",
+      "number": 25,
+      "text": "They said to him, “Who are you?” Jesus said to them, “Why do I speak to you at all?"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-11",
+      "type": "commentary",
+      "text": "22–25 : Typical pattern of misunderstanding. The question of Jesus's origins, destination and identity are key themes in the Gospel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-john-8-26",
+      "type": "verse",
+      "number": 26,
+      "text": "I have much to say about you and much to condemn; but the one who sent me is true, and I declare to the world what I have heard from him.”"
+    },
+    {
+      "block_id": "oxford-john-8-27",
+      "type": "verse",
+      "number": 27,
+      "text": "They did not understand that he was speaking to them about the Father."
+    },
+    {
+      "block_id": "oxford-john-8-28",
+      "type": "verse",
+      "number": 28,
+      "text": "So Jesus said, “When you have lifted up the Son of Man, then you will realize that I am he,e and that I do nothing on my own, but I speak these things as the Father instructed me."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-12",
+      "type": "commentary",
+      "text": "28 : , see 3.14n. , lit., “I am”; Jesus's death and glorification will reveal his divine identity (see 4.26n; 18.5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-john-8-29",
+      "type": "verse",
+      "number": 29,
+      "text": "And the one who sent me is with me; he has not left me alone, for I always do what is pleasing to him.”"
+    },
+    {
+      "block_id": "oxford-john-8-30",
+      "type": "verse",
+      "number": 30,
+      "text": "As he was saying these things, many believed in him."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-10",
+      "type": "commentary",
+      "text": "21–30: Jesus predicts his death.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 21,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-13",
+      "type": "commentary",
+      "text": "28–30 : Here the claim to speak only what the Father has taught him leads some of the Jews to believe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 28,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-john-8-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Then Jesus said to the Jews who had believed in him, “If you continue in my word, you are truly my disciples;"
+    },
+    {
+      "block_id": "oxford-john-8-32",
+      "type": "verse",
+      "number": 32,
+      "text": "and you will know the truth, and the truth will make you free.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-15",
+      "type": "commentary",
+      "text": "31–32 : In spite of the note that some believed, Jesus's conditional comment suggests that the hostility has not abated.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 31,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-john-8-33",
+      "type": "verse",
+      "number": 33,
+      "text": "They answered him, “We are descendants of Abraham and have never been slaves to anyone. What do you mean by saying, ‘You will be made free’?”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-16",
+      "type": "commentary",
+      "text": "33 : , cf. the frequent calls to remember the history of slavery in Egypt (Deut 6.20–21; 15.12–15; 16.12; 24.17–22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-john-8-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Jesus answered them, “Very truly, I tell you, everyone who commits sin is a slave to sin."
+    },
+    {
+      "block_id": "oxford-john-8-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The slave does not have a permanent place in the household; the son has a place there forever."
+    },
+    {
+      "block_id": "oxford-john-8-36",
+      "type": "verse",
+      "number": 36,
+      "text": "So if the Son makes you free, you will be free indeed."
+    },
+    {
+      "block_id": "oxford-john-8-37",
+      "type": "verse",
+      "number": 37,
+      "text": "I know that you are descendants of Abraham; yet you look for an opportunity to kill me, because there is no place in you for my word."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-17",
+      "type": "commentary",
+      "text": "37 : See 5.18; 7.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-john-8-38",
+      "type": "verse",
+      "number": 38,
+      "text": "I declare what I have seen in the Father's presence; as for you, you should do what you have heard from the Father.”"
+    },
+    {
+      "block_id": "oxford-john-8-39",
+      "type": "verse",
+      "number": 39,
+      "text": "They answered him, “Abraham is our father.” Jesus said to them, “If you were Abraham's children, you would be doing what Abraham did,"
+    },
+    {
+      "block_id": "oxford-john-8-40",
+      "type": "verse",
+      "number": 40,
+      "text": "but now you are trying to kill me, a man who has told you the truth that I heard from God. This is not what Abraham did."
+    },
+    {
+      "block_id": "oxford-john-8-41",
+      "type": "verse",
+      "number": 41,
+      "text": "You are indeed doing what your father does.” They said to him, “We are not illegitimate children; we have one father, God himself.”"
+    },
+    {
+      "block_id": "oxford-john-8-42",
+      "type": "verse",
+      "number": 42,
+      "text": "Jesus said to them, “If God were your Father, you would love me, for I came from God and now I am here. I did not come on my own, but he sent me."
+    },
+    {
+      "block_id": "oxford-john-8-43",
+      "type": "verse",
+      "number": 43,
+      "text": "Why do you not understand what I say? It is because you cannot accept my word."
+    },
+    {
+      "block_id": "oxford-john-8-44",
+      "type": "verse",
+      "number": 44,
+      "text": "You are from your father the devil, and you choose to do your father's desires. He was a murderer from the beginning and does not stand in the truth, because there is no truth in him. When he lies, he speaks according to his own nature, for he is a liar and the father of lies."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-18",
+      "type": "commentary",
+      "text": "44 : This harsh rhetoric probably reflects intra-Jewish conflict at the time the Gospel was written (see Introduction and cf. 1 Jn 3.8–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-john-8-45",
+      "type": "verse",
+      "number": 45,
+      "text": "But because I tell the truth, you do not believe me."
+    },
+    {
+      "block_id": "oxford-john-8-46",
+      "type": "verse",
+      "number": 46,
+      "text": "Which of you convicts me of sin? If I tell the truth, why do you not believe me?"
+    },
+    {
+      "block_id": "oxford-john-8-47",
+      "type": "verse",
+      "number": 47,
+      "text": "Whoever is from God hears the words of God. The reason you do not hear them is that you are not from God.”"
+    },
+    {
+      "block_id": "oxford-john-8-48",
+      "type": "verse",
+      "number": 48,
+      "text": "The Jews answered him, “Are we not right in saying that you are a Samaritan and have a demon?”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-19",
+      "type": "commentary",
+      "text": "48 : , probably meaning an outsider. , see 7.20n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 48,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-john-8-49",
+      "type": "verse",
+      "number": 49,
+      "text": "Jesus answered, “I do not have a demon; but I honor my Father, and you dishonor me."
+    },
+    {
+      "block_id": "oxford-john-8-50",
+      "type": "verse",
+      "number": 50,
+      "text": "Yet I do not seek my own glory; there is one who seeks it and he is the judge."
+    },
+    {
+      "block_id": "oxford-john-8-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Very truly, I tell you, whoever keeps my word will never see death.”"
+    },
+    {
+      "block_id": "oxford-john-8-52",
+      "type": "verse",
+      "number": 52,
+      "text": "The Jews said to him, “Now we know that you have a demon. Abraham died, and so did the prophets; yet you say, ‘Whoever keeps my word will never taste death.’"
+    },
+    {
+      "block_id": "oxford-john-8-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Are you greater than our father Abraham, who died? The prophets also died. Who do you claim to be?”"
+    },
+    {
+      "block_id": "oxford-john-8-54",
+      "type": "verse",
+      "number": 54,
+      "text": "Jesus answered, “If I glorify myself, my glory is nothing. It is my Father who glorifies me, he of whom you say, ‘He is our God,’"
+    },
+    {
+      "block_id": "oxford-john-8-55",
+      "type": "verse",
+      "number": 55,
+      "text": "though you do not know him. But I know him; if I would say that I do not know him, I would be a liar like you. But I do know him and I keep his word."
+    },
+    {
+      "block_id": "oxford-john-8-56",
+      "type": "verse",
+      "number": 56,
+      "text": "Your ancestor Abraham rejoiced that he would see my day; he saw it and was glad.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-20",
+      "type": "commentary",
+      "text": "56 : The claim is not grounded in a scriptural tradition from Genesis.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 56,
+      "verse_end": 56
+    },
+    {
+      "block_id": "oxford-john-8-57",
+      "type": "verse",
+      "number": 57,
+      "text": "Then the Jews said to him, “You are not yet fifty years old, and have you seen Abraham?”"
+    },
+    {
+      "block_id": "oxford-john-8-58",
+      "type": "verse",
+      "number": 58,
+      "text": "Jesus said to them, “Very truly, I tell you, before Abraham was, I am.”"
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-21",
+      "type": "commentary",
+      "text": "58 : , see 4.26n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 58,
+      "verse_end": 58
+    },
+    {
+      "block_id": "oxford-john-8-59",
+      "type": "verse",
+      "number": 59,
+      "text": "So they picked up stones to throw at him, but Jesus hid himself and went out of the temple."
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-1",
+      "type": "commentary",
+      "text": "1–12: Jesus in the world.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 1,
+      "verse_end": 59
+    },
+    {
+      "block_id": "oxford-john-8-h1kj-14",
+      "type": "commentary",
+      "text": "8.31–59: Contest over claims on ancient authority: Jesus and Abraham.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "john",
+        "chapter": 8
+      },
+      "verse_start": 31,
+      "verse_end": 59
+    }
+  ]
+}

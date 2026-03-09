@@ -1,0 +1,320 @@
+{
+  "document_id": "hebr-13",
+  "title": "hebr 13",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-hebr-13-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Do not neglect to show hospitality to strangers, for by doing that some have entertained angels without knowing it."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , Gen 18.1–8; 19.1; Tobit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-hebr-13-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Remember those who are in prison, as though you were in prison with them; those who are being tortured, as though you yourselves were being tortured."
+    },
+    {
+      "block_id": "oxford-hebr-13-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Let marriage be held in honor by all, and let the marriage bed be kept undefiled; for God will judge fornicators and adulterers."
+    },
+    {
+      "block_id": "oxford-hebr-13-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Keep your lives free from the love of money, and be content with what you have; for he has said, “I will never leave you or forsake you.”"
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-6",
+      "type": "commentary",
+      "text": "5 : Deut 31.6; Josh 1.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-hebr-13-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So we can say with confidence, “The Lord is my helper; I will not be afraid. What can anyone do to me?”"
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-5",
+      "type": "commentary",
+      "text": "5–6 : The author again reminds the hearers about their greatest asset, namely God's patronage and protection, jeopardized when they long for their lost status and property.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-7",
+      "type": "commentary",
+      "text": "6 : Ps 118.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-hebr-13-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Remember your leaders, those who spoke the word of God to you; consider the outcome of their way of life, and imitate their faith."
+    },
+    {
+      "block_id": "oxford-hebr-13-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Jesus Christ is the same yesterday and today and forever."
+    },
+    {
+      "block_id": "oxford-hebr-13-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Do not be carried away by all kinds of strange teachings; for it is well for the heart to be strengthened by grace, not by regulations about food, which have not benefited those who observe them."
+    },
+    {
+      "block_id": "oxford-hebr-13-10",
+      "type": "verse",
+      "number": 10,
+      "text": "We have an altar from which those who officiate in the tent have no right to eat."
+    },
+    {
+      "block_id": "oxford-hebr-13-11",
+      "type": "verse",
+      "number": 11,
+      "text": "For the bodies of those animals whose blood is brought into the sanctuary by the high priest as a sacrifice for sin are burned outside the camp."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-8",
+      "type": "commentary",
+      "text": "11 : Lev 16.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-hebr-13-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Therefore Jesus also suffered outside the city gate in order to sanctify the people by his own blood."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-9",
+      "type": "commentary",
+      "text": "12 : Mt 21.39; Jn 19.20.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-hebr-13-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Let us then go to him outside the camp and bear the abuse he endured."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-10",
+      "type": "commentary",
+      "text": "13 : , better “reproach.” The focus is on social shaming as the price of loyalty and obedience to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-hebr-13-14",
+      "type": "verse",
+      "number": 14,
+      "text": "For here we have no lasting city, but we are looking for the city that is to come."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-11",
+      "type": "commentary",
+      "text": "14 : , see 1.10–12n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-hebr-13-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Through him, then, let us continually offer a sacrifice of praise to God, that is, the fruit of lips that confess his name."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-12",
+      "type": "commentary",
+      "text": "15 : , see Ps 50.14,23; Hos 14.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-hebr-13-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God."
+    },
+    {
+      "block_id": "oxford-hebr-13-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Obey your leaders and submit to them, for they are keeping watch over your souls and will give an account. Let them do this with joy and not with sighing—for that would be harmful to you."
+    },
+    {
+      "block_id": "oxford-hebr-13-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Pray for us; we are sure that we have a clear conscience, desiring to act honorably in all things."
+    },
+    {
+      "block_id": "oxford-hebr-13-19",
+      "type": "verse",
+      "number": 19,
+      "text": "I urge you all the more to do this, so that I may be restored to you very soon."
+    },
+    {
+      "block_id": "oxford-hebr-13-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Now may the God of peace, who brought back from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant,"
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-13",
+      "type": "commentary",
+      "text": "20 : , see Ezek 34.22–24; Jn 10.11–18; 1 Pet 2.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-hebr-13-21",
+      "type": "verse",
+      "number": 21,
+      "text": "make you complete in everything good so that you may do his will, working among us that which is pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-2",
+      "type": "commentary",
+      "text": "13.1–21: Specific advice for embodying gratitude.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-hebr-13-22",
+      "type": "verse",
+      "number": 22,
+      "text": "I appeal to you, brothers and sisters, bear with my word of exhortation, for I have written to you briefly."
+    },
+    {
+      "block_id": "oxford-hebr-13-23",
+      "type": "verse",
+      "number": 23,
+      "text": "I want you to know that our brother Timothy has been set free; and if he comes in time, he will be with me when I see you."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-15",
+      "type": "commentary",
+      "text": "23 : is a prominent member of the Pauline team (see Acts 16.1–3; 17.14–15; 1 Cor 4.17; 2 Cor 1.1; Phil 1.1; 1 Thess 1.1; 3.2,6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-hebr-13-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Greet all your leaders and all the saints. Those from Italy send you greetings."
+    },
+    {
+      "block_id": "oxford-hebr-13-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Grace be with all of you."
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-1",
+      "type": "commentary",
+      "text": "10.19–13.25: Exhortation to persevere in gratitude for the benefactions granted through Jesus.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 1,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-hebr-13-h1kj-14",
+      "type": "commentary",
+      "text": "13.22–25: Epistolary postscript.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "hebr",
+        "chapter": 13
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    }
+  ]
+}

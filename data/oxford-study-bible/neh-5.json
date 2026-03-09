@@ -1,0 +1,338 @@
+{
+  "document_id": "neh-5",
+  "title": "Nehemiah 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-neh-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Now there was a great outcry of the people and of their wives against their Jewish kin."
+    },
+    {
+      "block_id": "oxford-neh-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "For there were those who said, “With our sons and our daughters, we are many; we must get grain, so that we may eat and stay alive.”"
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , better emended (though the addition of a single letter) to “we pledge” (see v. 3), suggesting that sons and daughters are pledged as security for loans and become slaves when loans are defaulted.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-neh-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "There were also those who said, “We are having to pledge our fields, our vineyards, and our houses in order to get grain during the famine.”"
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-5",
+      "type": "commentary",
+      "text": "3 : The problem is the default on loans during famine and the consequent loss of property and family.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-neh-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And there were those who said, “We are having to borrow money on our fields and vineyards to pay the king’s tax."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-6",
+      "type": "commentary",
+      "text": "4 : , the heavy levy from the provinces extracted by the Persian government.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-neh-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Now our flesh is the same as that of our kindred; our children are the same as their children; and yet we are forcing our sons and daughters to be slaves, and some of our daughters have been ravished; we are powerless, and our fields and vineyards now belong to others.”"
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-7",
+      "type": "commentary",
+      "text": "5 : Results: Farmers are reduced to indentured slavery and lose their land, home, and children (the basic necessities for economic survival) to wealthier compatriots. , daughters were particularly vulnerable at times of economic hardship. Moreover, unlike males, daughters (according to Ex 21.7–10) cannot be redeemed when they become sexually attached to the master’s household.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-neh-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I was very angry when I heard their outcry and these complaints."
+    },
+    {
+      "block_id": "oxford-neh-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "After thinking it over, I brought charges against the nobles and the officials; I said to them, “You are all taking interest from your own people.” And I called a great assembly to deal with them,"
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-9",
+      "type": "commentary",
+      "text": "7 : , upperclass members exploiting the economic instability. , more accurately, “taking pledges,” (i.e., keeping items used as pledges: family members, fields, and houses); this practice is prohibited in Ex 22.24–26 and Deut 24.10.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-neh-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "and said to them, “As far as we were able, we have bought back our Jewish kindred who had been sold to other nations; but now you are selling your own kin, who must then be bought back by us!” They were silent, and could not find a word to say."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-10",
+      "type": "commentary",
+      "text": "8 : , Lev 25.47–48 requires redeeming Israelite sold as slaves to foreigners.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-neh-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "So I said, “The thing that you are doing is not good. Should you not walk in the fear of our God, to prevent the taunts of the nations our enemies?"
+    },
+    {
+      "block_id": "oxford-neh-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Moreover I and my brothers and my servants are lending them money and grain. Let us stop this taking of interest."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-11",
+      "type": "commentary",
+      "text": "10 : Nehemiah shows some sympathy for the nobles by admitting to some culpability at an earlier stage, but urges that the time has come for reform and leads them by example.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-neh-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Restore to them, this very day, their fields, their vineyards, their olive orchards, and their houses, and the interest on money, grain, wine, and oil that you have been exacting from them.”"
+    },
+    {
+      "block_id": "oxford-neh-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then they said, “We will restore everything and demand nothing more from them. We will do as you say.” And I called the priests, and made them take an oath to do as they had promised."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-12",
+      "type": "commentary",
+      "text": "12 : Like Ezra (see Ezra 10), Nehemiah extracts a public oath from leaders. The priests administer a religiously binding oath to ensure the efficacy of the appended curses.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-neh-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I also shook out the fold of my garment and said, “So may God shake out everyone from house and from property who does not perform this promise. Thus may they be shaken out and emptied.” And all the assembly said, “Amen,” and praised the Lord. And the people did as they had promised."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-13",
+      "type": "commentary",
+      "text": "13 : Symbolic actions could accompany curses in the ancient Near East. , the equivalent of a pocket. The gesture connotes removing all excessive matter (including wealth).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-neh-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty‐second year of King Artaxerxes, twelve years, neither I nor my brothers ate the food allowance of the governor."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-15",
+      "type": "commentary",
+      "text": "14 : , this is the first we hear about Nehemiah’s official position as governor, a title for several different ranks of officials. , see 1.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-neh-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The former governors who were before me laid heavy burdens on the people, and took food and wine from them, besides forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-16",
+      "type": "commentary",
+      "text": "15 : The Bible does not preserve names of other governors after Zerubbabel, although some, possibly from the intervening period, have been found in archaeological discoveries. , ca. 1 lb (456 gr).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-neh-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Indeed, I devoted myself to the work on this wall, and acquired no land; and all my servants were gathered there for the work."
+    },
+    {
+      "block_id": "oxford-neh-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Moreover there were at my table one hundred fifty people, Jews and officials, besides those who came to us from the nations around us."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-17",
+      "type": "commentary",
+      "text": "17 : , the reference is to officials and guests from the rest of the empire.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-neh-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Now that which was prepared for one day was one ox and six choice sheep; also fowls were prepared for me, and every ten days skins of wine in abundance; yet with all this I did not demand the food allowance of the governor, because of the heavy burden of labor on the people."
+    },
+    {
+      "block_id": "oxford-neh-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Remember for my good, O my God, all that I have done for this people."
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–7.5: Stage Three of reconstruction: rebuilding Jerusalem under Nehemiah’s leadership. These chapters come from what scholars call “the Nehemiah Memoir,” a first‐person account in the form of Nehemiah’s autobiography (also found in chs 12–13). This section describes how Nehemiah, the king’s cupbearer, becomes the governor of Judah and rebuilds Jerusalem’s walls.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-2",
+      "type": "commentary",
+      "text": "4.1–6.14: Obstacles to reconstruction. Nehemiah’s memoir about Sanballat’s opposition (2.19), interrupted by the list of builders, now resumes. Nehemiah, like the earlier returnees (Ezra 3–6; 7–10), encounters problems that hamper progress. Three types of threats to building activities are mentioned: intimidation by outsiders (4.1–23), economic hardships (5.1–19), and plots against Nehemiah (6.1–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.1–19 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-8",
+      "type": "commentary",
+      "text": "5.6–19: Nehemiah’s response. Nehemiah combats economic hardships by reforming the practices of the wealthy and contributing personally to the economy from his own funds.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-14",
+      "type": "commentary",
+      "text": "14–19 : The Persian government expected local populations to support the governors. Nehemiah foregoes such privileges and subsidizes the office with his own personal funds, as model for the Jewish aristocracy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-neh-5-h1kj-18",
+      "type": "commentary",
+      "text": "19 : Such prayers are typical of Nehemiah (e.g., 4.4–5; 6.14; 13.14,22,31).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "neh",
+        "chapter": 5
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    }
+  ]
+}

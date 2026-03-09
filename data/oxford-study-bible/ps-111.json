@@ -1,0 +1,121 @@
+{
+  "document_id": "ps-111",
+  "title": "Psalms 111",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-111-heading-psalm-112",
+      "type": "heading",
+      "text": "Psalm 112"
+    },
+    {
+      "block_id": "oxford-ps-111-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation."
+    },
+    {
+      "block_id": "oxford-ps-111-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 111: Hymn to God’s great deeds. Like the immediately following Ps 112 with which it is paired, Ps 111 is a twenty‐two line poem in which each line begins with a successive letter of the Hebrew alphabet. Ps 111 praises the righteousness of the , and Ps 112, the righteousness of a person living in accord with divine righteousness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 111
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-111-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Great are the works of the Lord, studied by all who delight in them."
+    },
+    {
+      "block_id": "oxford-ps-111-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Full of honor and majesty is his work, and his righteousness endures forever."
+    },
+    {
+      "block_id": "oxford-ps-111-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He has gained renown by his wonderful deeds; the Lord is gracious and merciful."
+    },
+    {
+      "block_id": "oxford-ps-111-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He provides food for those who fear him; he is ever mindful of his covenant."
+    },
+    {
+      "block_id": "oxford-ps-111-h1kj-2",
+      "type": "commentary",
+      "text": "5 : may refer to the manna and quail that God provided in the wilderness (see Ex 16; Num 11; Ps 105.40).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 111
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ps-111-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He has shown his people the power of his works, in giving them the heritage of the nations."
+    },
+    {
+      "block_id": "oxford-ps-111-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The works of his hands are faithful and just; all his precepts are trustworthy."
+    },
+    {
+      "block_id": "oxford-ps-111-h1kj-3",
+      "type": "commentary",
+      "text": "7 : The verse is the transition from admiring the divine deeds (v. 2b) to imitating the God who did them (v. 10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 111
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-111-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They are established forever and ever, to be performed with faithfulness and uprightness."
+    },
+    {
+      "block_id": "oxford-ps-111-9",
+      "type": "verse",
+      "number": 9,
+      "text": "He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name."
+    },
+    {
+      "block_id": "oxford-ps-111-10",
+      "type": "verse",
+      "number": 10,
+      "text": "The fear of the Lord is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever."
+    },
+    {
+      "block_id": "oxford-ps-111-h1kj-4",
+      "type": "commentary",
+      "text": "10 : (best rendered “revering the ”): see Ps 19.9; Prov 1.7; 9.10; etc.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 111
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    }
+  ]
+}

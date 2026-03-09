@@ -1,0 +1,104 @@
+{
+  "document_id": "isa-12",
+  "title": "Isaiah 12",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-12-1",
+      "type": "verse",
+      "number": 1,
+      "text": "You will say in that day: I will give thanks to you, O Lord, for though you were angry with me, your anger turned away, and you comforted me."
+    },
+    {
+      "block_id": "oxford-isa-12-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Surely God is my salvation; I will trust, and will not be afraid, for the Lord God is my strength and my might; he has become my salvation."
+    },
+    {
+      "block_id": "oxford-isa-12-3",
+      "type": "verse",
+      "number": 3,
+      "text": "With joy you will draw water from the wells of salvation."
+    },
+    {
+      "block_id": "oxford-isa-12-4",
+      "type": "verse",
+      "number": 4,
+      "text": "And you will say in that day: Give thanks to the Lord, call on his name; make known his deeds among the nations; proclaim that his name is exalted. Places mentioned in the oracles against foreign nations (Isa 13–23)"
+    },
+    {
+      "block_id": "oxford-isa-12-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Sing praises to the Lord, for he has done gloriously; let this be known in all the earth."
+    },
+    {
+      "block_id": "oxford-isa-12-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Shout aloud and sing for joy, O royal Zion, for great in your midst is the Holy One of Israel."
+    },
+    {
+      "block_id": "oxford-isa-12-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–33.24: The Lord's plans to reveal worldwide sovereignty at Zion. The first half of the book focuses especially on the punishment of Zion and anticipation of its future restoration in an effort to demonstrate the 's plans to reveal sovereignty over Israel, the nations, and creation at large. The second half of the book (chs 34–66) presupposes that the time of the restoration and the 's revelation are at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-isa-12-h1kj-2",
+      "type": "commentary",
+      "text": "5.1–12.6: Prophetic instruction concerning Assyrian judgment against Israel and the restoration of the Davidic kingdom. Although chs 5–12 lack a superscription, the interest in both Israel and Judah is clear throughout the unit. The passage begins with an announcement of divine judgment against Israel and Judah in 5.1–30, and a lengthy elaboration concerning the significance of that judgment and the restoration to follow in 6.1–12.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-isa-12-h1kj-3",
+      "type": "commentary",
+      "text": "8.16–12.6: Announcement concerning the fall of Assyria and the restoration of the Davidic kingdom. Having laid out the scenario for Jerusalem's and Judah's judgment at the hands of Assyria in 7.1–8.15, the prophet's oracles then turn to a scenario of divine judgment against Assyria for its own arrogance (cf. 2.10–21) and the restoration of righteous Davidic rule over a reunited Israel and Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-isa-12-h1kj-4",
+      "type": "commentary",
+      "text": "10.5–12.6: Prophetic announcement of Assyrian downfall and Davidic restoration. The final oracular sequence in chs 5–12 takes up divine judgment against the Assyrian monarch for his arrogance and the coming restoration of righteous Davidic rule over a reunified Israel and Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-isa-12-h1kj-5",
+      "type": "commentary",
+      "text": "12.1–6 : The concluding song of thanksgiving quotes from the Song of the Sea in Ex 15 (see esp. Ex 15.1–3) and various Psalms (e.g., 105.1; 118.14,21). The drawing of water suggests a setting in the celebration of Sukkot (Tabernacles; Lev 23.33–44), when water libations were poured at the Temple to celebrate the end of the fruit harvest and the onset of the rainy season as well as Israel's journey through the wilderness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 12
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "document_id": "deut-2",
+  "title": "Deuteronomy 2",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-deut-2-1",
+      "type": "verse",
+      "number": 1,
+      "text": "we journeyed back into the wilderness, in the direction of the Red Sea,a as the Lord had told me and skirted Mount Seir for many days."
+    },
+    {
+      "block_id": "oxford-deut-2-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Then the Lord said to me:"
+    },
+    {
+      "block_id": "oxford-deut-2-3",
+      "type": "verse",
+      "number": 3,
+      "text": "“You have been skirting this hill country long enough. Head north,"
+    },
+    {
+      "block_id": "oxford-deut-2-4",
+      "type": "verse",
+      "number": 4,
+      "text": "and charge the people as follows: You are about to pass through the territory of your kindred, the descendants of Esau, who live in Seir. They will be afraid of you, so, be very careful"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , see Gen 36.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-deut-2-5",
+      "type": "verse",
+      "number": 5,
+      "text": "not to engage in battle with them, for I will not give you even so much as a foot’s length of their land, since I have given Mount Seir to Esau as a possession."
+    },
+    {
+      "block_id": "oxford-deut-2-6",
+      "type": "verse",
+      "number": 6,
+      "text": "You shall purchase food from them for money, so that you may eat; and you shall also buy water from them for money, so that you may drink."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , silver or gold that was weighed out.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-deut-2-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Surely the Lord your God has blessed you in all your undertakings; he knows your going through this great wilderness. These forty years the Lord your God has been with you; you have lacked nothing.”"
+    },
+    {
+      "block_id": "oxford-deut-2-8",
+      "type": "verse",
+      "number": 8,
+      "text": "So we passed by our kin, the descendants of Esau who live in Seir, leaving behind the route of the Arabah, and leaving behind Elath and Ezion‐geber. The circuit via Transjordan When we had headed out along the route of the wilderness of Moab,"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-6",
+      "type": "commentary",
+      "text": "8a : , see 1 Kings 9.26. , see Num 33.35.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-deut-2-9",
+      "type": "verse",
+      "number": 9,
+      "text": "the Lord said to me: “Do not harass Moab or engage them in battle, for I will not give you any of its land as a possession, since I have given Ar as a possession to the descendants of Lot.”"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-8",
+      "type": "commentary",
+      "text": "9 : Moab and Ammon (v. 19) were traditionally related through Lot (Gen 19.36–38).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-deut-2-10",
+      "type": "verse",
+      "number": 10,
+      "text": "(The Emim—a large and numerous people, as tall as the Anakim—had formerly inhabited it."
+    },
+    {
+      "block_id": "oxford-deut-2-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Like the Anakim, they are usually reckoned as Rephaim, though the Moabites call them Emim."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-10",
+      "type": "commentary",
+      "text": "10–11 : (cf. v. 20; 3.11–13), names reflecting the legendary view that the aboriginal inhabitants of the land were fearsome giants; cf. Num 13.32–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-deut-2-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Moreover, the Horim had formerly inhabited Seir, but the descendants of Esau dispossessed them, destroying them and settling in their place, as Israel has done in the land that the Lord gave them as a possession.)"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-9",
+      "type": "commentary",
+      "text": "10–12 : NRSV attempts to mitigate the anachronistic postconquest perspective by confining it to parentheses (see v. 12n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 10,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , see Gen 36.20–30n. , the conquest is represented anachronistically as already having been completed (see 1.1n.; 3.11n.).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-deut-2-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“Now then, proceed to cross over the Wadi Zered.” So we crossed over the Wadi Zered."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-12",
+      "type": "commentary",
+      "text": "13 : , a streambed that had water only in the rainy winter season.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-deut-2-14",
+      "type": "verse",
+      "number": 14,
+      "text": "And the length of time we had traveled from Kadesh‐barnea until we crossed the Wadi Zered was thirty‐eight years, until the entire generation of warriors had perished from the camp, as the Lord had sworn concerning them."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-13",
+      "type": "commentary",
+      "text": "14 : Fulfilling God’s angry oath (1.34–35; Num 14.28–30). Without the death of the generation of the Exodus, here marked as accomplished, there can be no entry into the promised land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-deut-2-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Indeed, the Lord’s own hand was against them, to root them out from the camp, until all had perished."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-14",
+      "type": "commentary",
+      "text": "15 : , they did not die of natural causes. The imagery reverses the standard idea of holy war: God had turned against Israel rather than fighting on its behalf (see 3.22; 7.1–5; 12.29–31; 20.1–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-deut-2-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Just as soon as all the warriors had died off from among the people,"
+    },
+    {
+      "block_id": "oxford-deut-2-17",
+      "type": "verse",
+      "number": 17,
+      "text": "the Lord spoke to me, saying,"
+    },
+    {
+      "block_id": "oxford-deut-2-18",
+      "type": "verse",
+      "number": 18,
+      "text": "“Today you are going to cross the boundary of Moab at Ar."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-15",
+      "type": "commentary",
+      "text": "18 : , location unknown.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-deut-2-19",
+      "type": "verse",
+      "number": 19,
+      "text": "When you approach the frontier of the Ammonites, do not harass them or engage them in battle, for I will not give the land of the Ammonites to you as a possession, because I have given it to the descendants of Lot.”"
+    },
+    {
+      "block_id": "oxford-deut-2-20",
+      "type": "verse",
+      "number": 20,
+      "text": "(It also is usually reckoned as a land of Rephaim. Rephaim formerly inhabited it, though the Ammonites call them Zamzummim,"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-16",
+      "type": "commentary",
+      "text": "20 : Cf. vv. 10–12n.; Gen 14.5.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-deut-2-21",
+      "type": "verse",
+      "number": 21,
+      "text": "a strong and numerous people, as tall as the Anakim. But the Lord destroyed them from before the Ammonites so that they could dispossess them and settle in their place."
+    },
+    {
+      "block_id": "oxford-deut-2-22",
+      "type": "verse",
+      "number": 22,
+      "text": "He did the same for the descendants of Esau, who live in Seir, by destroying the Horim before them so that they could dispossess them and settle in their place even to this day."
+    },
+    {
+      "block_id": "oxford-deut-2-23",
+      "type": "verse",
+      "number": 23,
+      "text": "As for the Avvim, who had lived in settlements in the vicinity of Gaza, the Caphtorim, who came from Caphtor, destroyed them and settled in their place.)"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-17",
+      "type": "commentary",
+      "text": "23 : , Crete, referring to the conquest of the coastal plain by “Sea Peoples” such as Philistines shortly after 1200 (see Gen 10.2–5,14; Am 9.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-deut-2-24",
+      "type": "verse",
+      "number": 24,
+      "text": "“Proceed on your journey and cross the Wadi Arnon. See, I have handed over to you King Sihon the Amorite of Heshbon, and his land. Begin to take possession by engaging him in battle."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-18",
+      "type": "commentary",
+      "text": "24 : , see Num 21.12–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-deut-2-25",
+      "type": "verse",
+      "number": 25,
+      "text": "This day I will begin to put the dread and fear of you upon the peoples everywhere under heaven; when they hear report of you, they will tremble and be in anguish because of you.”"
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-7",
+      "type": "commentary",
+      "text": "8b–25 : Num 21.4–20, significantly revised. Turning along the brook Zered (modern Wadi elHasa), which formed Edom’s northern boundary, Israel detoured through the wilderness of Moab toward the Amorite kingdom of Sihon.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 8,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-deut-2-26",
+      "type": "verse",
+      "number": 26,
+      "text": "So I sent messengers from the wilderness of Kedemoth to King Sihon of Heshbon with the following terms of peace:"
+    },
+    {
+      "block_id": "oxford-deut-2-27",
+      "type": "verse",
+      "number": 27,
+      "text": "“If you let me pass through your land, I will travel only along the road; I will turn aside neither to the right nor to the left."
+    },
+    {
+      "block_id": "oxford-deut-2-28",
+      "type": "verse",
+      "number": 28,
+      "text": "You shall sell me food for money, so that I may eat, and supply me water for money, so that I may drink. Only allow me to pass through on foot—"
+    },
+    {
+      "block_id": "oxford-deut-2-29",
+      "type": "verse",
+      "number": 29,
+      "text": "just as the descendants of Esau who live in Seir have done for me and likewise the Moabites who live in Ar—until I cross the Jordan into the land that the Lord our God is giving us.”"
+    },
+    {
+      "block_id": "oxford-deut-2-30",
+      "type": "verse",
+      "number": 30,
+      "text": "But King Sihon of Heshbon was not willing to let us pass through, for the Lord your God had hardened his spirit and made his heart defiant in order to hand him over to you, as he has now done."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-20",
+      "type": "commentary",
+      "text": "30 : See Ex 4.21n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-deut-2-31",
+      "type": "verse",
+      "number": 31,
+      "text": "The Lord said to me, “See, I have begun to give Sihon and his land over to you. Begin now to take possession of his land.”"
+    },
+    {
+      "block_id": "oxford-deut-2-32",
+      "type": "verse",
+      "number": 32,
+      "text": "So when Sihon came out against us, he and all his people for battle at Jahaz,"
+    },
+    {
+      "block_id": "oxford-deut-2-33",
+      "type": "verse",
+      "number": 33,
+      "text": "the Lord our God gave him over to us; and we struck him down, along with his offspring and all his people."
+    },
+    {
+      "block_id": "oxford-deut-2-34",
+      "type": "verse",
+      "number": 34,
+      "text": "At that time we captured all his towns, and in each town we utterly destroyed men, women, and children. We left not a single survivor."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-21",
+      "type": "commentary",
+      "text": "34 : , see 7.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-deut-2-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Only the livestock we kept as spoil for ourselves, as well as the plunder of the towns that we had captured."
+    },
+    {
+      "block_id": "oxford-deut-2-36",
+      "type": "verse",
+      "number": 36,
+      "text": "From Aroer on the edge of the Wadi Arnon (including the town that is in the wadi itself) as far as Gilead, there was no citadel too high for us. The Lord our God gave everything to us."
+    },
+    {
+      "block_id": "oxford-deut-2-37",
+      "type": "verse",
+      "number": 37,
+      "text": "You did not encroach, however, on the land of the Ammonites, avoiding the whole upper region of the Wadi Jabbok as well as the towns of the hill country, just as the Lord our God had charged."
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–4.43: The first discourse of Moses has two subsections: a historical retrospective (1.6–3.29) and a sermon on the importance of obeying the teaching of Moses (4.1–40). An editorial heading (1.1–5) and an appendix (4.41–43) frame the discourse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-2",
+      "type": "commentary",
+      "text": "1.6–3.29: Historical review. Moses rehearses the Exodus, the revelation at Horeb/Sinai, and the rebellion in the desert for the generation who arose after these events, so that they may understand what brought them to the present moment. At a number of points, this narrative diverges from that of Exodus‐Numbers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-3",
+      "type": "commentary",
+      "text": "2.1–3.29: The circuit via Transjordan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 1,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-19",
+      "type": "commentary",
+      "text": "26–37 : The victory over Sihon, whose capital was at Heshbon. The earlier source in Num 21.21–32 is here supplemented and revised.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 26,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-deut-2-h1kj-22",
+      "type": "commentary",
+      "text": "37 : The river makes a wide bend south and thus forms the western border of Ammon (3.16); see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "deut",
+        "chapter": 2
+      },
+      "verse_start": 37,
+      "verse_end": 37
+    }
+  ]
+}

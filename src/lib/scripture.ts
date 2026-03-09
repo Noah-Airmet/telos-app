@@ -25,6 +25,8 @@ export interface TranslationManifest {
   edition_family: string;
   compare_ready: boolean;
   books: BookEntry[];
+  source_type?: "scripture" | "studyBible" | "commentary";
+  preferred_base_profile?: string;
 }
 
 const docCache = new Map<string, TelosDocument>();

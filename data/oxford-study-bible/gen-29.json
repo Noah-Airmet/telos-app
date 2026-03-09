@@ -1,0 +1,417 @@
+{
+  "document_id": "gen-29",
+  "title": "Genesis 29",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-gen-29-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Jacob went on his journey, and came to the land of the people of the east."
+    },
+    {
+      "block_id": "oxford-gen-29-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As he looked, he saw a well in the field and three flocks of sheep lying there beside it; for out of that well the flocks were watered. The stone on the well’s mouth was large,"
+    },
+    {
+      "block_id": "oxford-gen-29-3",
+      "type": "verse",
+      "number": 3,
+      "text": "and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well, and water the sheep, and put the stone back in its place on the mouth of the well."
+    },
+    {
+      "block_id": "oxford-gen-29-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Jacob said to them, “My brothers, where do you come from?” They said, “We are from Haran.”"
+    },
+    {
+      "block_id": "oxford-gen-29-5",
+      "type": "verse",
+      "number": 5,
+      "text": "He said to them, “Do you know Laban son of Nahor?” They said, “We do.”"
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-11",
+      "type": "commentary",
+      "text": "4–5 : See 24.10n.; 26.43.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-gen-29-6",
+      "type": "verse",
+      "number": 6,
+      "text": "He said to them, “Is it well with him?” “Yes,” they replied, “and here is his daughter Rachel, coming with the sheep.”"
+    },
+    {
+      "block_id": "oxford-gen-29-7",
+      "type": "verse",
+      "number": 7,
+      "text": "He said, “Look, it is still broad daylight; it is not time for the animals to be gathered together. Water the sheep, and go, pasture them.”"
+    },
+    {
+      "block_id": "oxford-gen-29-8",
+      "type": "verse",
+      "number": 8,
+      "text": "But they said, “We cannot until all the flocks are gathered together, and the stone is rolled from the mouth of the well; then we water the sheep.”"
+    },
+    {
+      "block_id": "oxford-gen-29-9",
+      "type": "verse",
+      "number": 9,
+      "text": "While he was still speaking with them, Rachel came with her father’s sheep; for she kept them."
+    },
+    {
+      "block_id": "oxford-gen-29-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Now when Jacob saw Rachel, the daughter of his mother’s brother Laban, and the sheep of his mother’s brother Laban, Jacob went up and rolled the stone from the well’s mouth, and watered the flock of his mother’s brother Laban."
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-12",
+      "type": "commentary",
+      "text": "10 : Jacob, the folk hero, has superhuman strength (see v. 3).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-gen-29-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Then Jacob kissed Rachel, and wept aloud."
+    },
+    {
+      "block_id": "oxford-gen-29-12",
+      "type": "verse",
+      "number": 12,
+      "text": "And Jacob told Rachel that he was her father’s kinsman, and that he was Rebekah’s son; and she ran and told her father."
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-10",
+      "type": "commentary",
+      "text": "2–12 : See 24.10–27n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 2,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-gen-29-13",
+      "type": "verse",
+      "number": 13,
+      "text": "When Laban heard the news about his sister’s son Jacob, he ran to meet him; he embraced him and kissed him, and brought him to his house. Jacob told Laban all these things,"
+    },
+    {
+      "block_id": "oxford-gen-29-13-commentary-1",
+      "type": "commentary",
+      "text": "Heb He",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 13
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-gen-29-14",
+      "type": "verse",
+      "number": 14,
+      "text": "and Laban said to him, “Surely you are my bone and my flesh!” And he stayed with him a month."
+    },
+    {
+      "block_id": "oxford-gen-29-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Then Laban said to Jacob, “Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?”"
+    },
+    {
+      "block_id": "oxford-gen-29-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Now Laban had two daughters; the name of the elder was Leah, and the name of the younger was Rachel."
+    },
+    {
+      "block_id": "oxford-gen-29-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Leah’s eyes were lovely, and Rachel was graceful and beautiful."
+    },
+    {
+      "block_id": "oxford-gen-29-17-commentary-2",
+      "type": "commentary",
+      "text": "Meaning of Heb uncertain",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 17
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-gen-29-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Jacob loved Rachel; so he said, “I will serve you seven years for your younger daughter Rachel.”"
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-13",
+      "type": "commentary",
+      "text": "18 : Jacob asks for Rachel as a reward for service (cf. Josh 15.16–17; 1 Sam 17.25; 18.17) instead of paying the usual marriage price (34.12; Ex 22.16–17; Deut 22.29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-gen-29-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Laban said, “It is better that I give her to you than that I should give her to any other man; stay with me.”"
+    },
+    {
+      "block_id": "oxford-gen-29-20",
+      "type": "verse",
+      "number": 20,
+      "text": "So Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her."
+    },
+    {
+      "block_id": "oxford-gen-29-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Then Jacob said to Laban, “Give me my wife that I may go in to her, for my time is completed.”"
+    },
+    {
+      "block_id": "oxford-gen-29-22",
+      "type": "verse",
+      "number": 22,
+      "text": "So Laban gathered together all the people of the place, and made a feast."
+    },
+    {
+      "block_id": "oxford-gen-29-23",
+      "type": "verse",
+      "number": 23,
+      "text": "But in the evening he took his daughter Leah and brought her to Jacob; and he went in to her."
+    },
+    {
+      "block_id": "oxford-gen-29-24",
+      "type": "verse",
+      "number": 24,
+      "text": "(Laban gave his maid Zilpah to his daughter Leah to be her maid.)"
+    },
+    {
+      "block_id": "oxford-gen-29-25",
+      "type": "verse",
+      "number": 25,
+      "text": "When morning came, it was Leah! And Jacob said to Laban, “What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?”"
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-14",
+      "type": "commentary",
+      "text": "23–25 : Here Jacob the trickster (see 27.1–45n.) is tricked; this motif will continue throughout the Jacob story. The exchange could be made because the bride was brought veiled to the bridegroom (24.65).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 23,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-gen-29-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Laban said, “This is not done in our country—giving the younger before the firstborn."
+    },
+    {
+      "block_id": "oxford-gen-29-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Complete the week of this one, and we will give you the other also in return for serving me another seven years.”"
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-15",
+      "type": "commentary",
+      "text": "27 : refers to the week of marriage festivity (Judg 14.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-gen-29-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Jacob did so, and completed her week; then Laban gave him his daughter Rachel as a wife."
+    },
+    {
+      "block_id": "oxford-gen-29-29",
+      "type": "verse",
+      "number": 29,
+      "text": "(Laban gave his maid Bilhah to his daughter Rachel to be her maid.)"
+    },
+    {
+      "block_id": "oxford-gen-29-30",
+      "type": "verse",
+      "number": 30,
+      "text": "So Jacob went in to Rachel also, and he loved Rachel more than Leah. He served Laban for another seven years."
+    },
+    {
+      "block_id": "oxford-gen-29-30-commentary-3",
+      "type": "commentary",
+      "text": "Heb him",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 30
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-9",
+      "type": "commentary",
+      "text": "29.1–30: Jacob’s marriages to Laban’s daughters.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 1,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-gen-29-31",
+      "type": "verse",
+      "number": 31,
+      "text": "When the Lord saw that Leah was unloved, he opened her womb; but Rachel was barren."
+    },
+    {
+      "block_id": "oxford-gen-29-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Leah conceived and bore a son, and she named him Reuben; for she said, “Because the Lord has looked on my affliction; surely now my husband will love me.”"
+    },
+    {
+      "block_id": "oxford-gen-29-32-commentary-4",
+      "type": "commentary",
+      "text": "That is See, a son",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 32
+      },
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-gen-29-33",
+      "type": "verse",
+      "number": 33,
+      "text": "She conceived again and bore a son, and said, “Because the Lord has heard that I am hated, he has given me this son also”; and she named him Simeon."
+    },
+    {
+      "block_id": "oxford-gen-29-33-commentary-5",
+      "type": "commentary",
+      "text": "Heb shama",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 33
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-gen-29-34",
+      "type": "verse",
+      "number": 34,
+      "text": "Again she conceived and bore a son, and said, “Now this time my husband will be joined to me, because I have borne him three sons”; therefore he was named Levi."
+    },
+    {
+      "block_id": "oxford-gen-29-34-commentary-6",
+      "type": "commentary",
+      "text": "e Heb lawah",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 34
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-gen-29-35",
+      "type": "verse",
+      "number": 35,
+      "text": "She conceived again and bore a son, and said, “This time I will praise the Lord”; therefore she named him Judah; then she ceased bearing."
+    },
+    {
+      "block_id": "oxford-gen-29-35-commentary-7",
+      "type": "commentary",
+      "text": "Heb hodah",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29,
+        "verse": 35
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-8",
+      "type": "commentary",
+      "text": "25.19–35.29: The story of Jacob and his family. The bulk of this section of Genesis goes back to early traditions about Jacob/Israel, the father of the Israelite tribes. Though many originated as ancient Israelite oral traditions, this written version of the Jacob story shows multiple connections to places that were important in the Northern Kingdom of Israel (see 28.10–11n., 20–22n., 31.13n., 32.1–2n., 32.30–31n., and 33.18n.), and thus likely originated there. This story has been enriched through additions that balance the early northern focus on Jacob with an emphasis on Judah, King David’s putative ancestor (see 30.21n.; 34.1–31n. and 49.8–12n.). Later, still other texts were added, such as the gift of the Abrahamic promise to Jacob at Bethel (28.13–16), and fragments of Priestly material (25.19–20; 26.34–35; 27.46–28.9; 31.17–18; 35.9–15,22b–29). The story of Jacob’s father, Isaac (26.1–33), links this large block to the previous Abraham material.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-gen-29-h1kj-16",
+      "type": "commentary",
+      "text": "29.31–30.24: The birth of eleven of Jacob’s sons and Dinah (for Benjamin’s birth, see 35.16–18). This birth of children and the later birth of flocks (30.25–43) stand at the heart of the Jacob story. The pathos of the conflict between women is expressed through folk‐explanations of the names (see NRSV text notes).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "gen",
+        "chapter": 29
+      },
+      "verse_start": 31,
+      "verse_end": 35
+    }
+  ]
+}

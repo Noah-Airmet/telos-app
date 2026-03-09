@@ -1,0 +1,176 @@
+{
+  "document_id": "ex-11",
+  "title": "Exodus 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ex-11-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord said to Moses, “I will bring one more plague upon Pharaoh and upon Egypt; afterwards he will let you go from here; indeed, when he lets you go, he will drive you away."
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-4",
+      "type": "commentary",
+      "text": "1 : , better “affliction”; see 7.8–10.29. and 9.14n. echoes the prediction of 6.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ex-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Tell the people that every man is to ask his neighbor and every woman is to ask her neighbor for objects of silver and gold.”"
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-5",
+      "type": "commentary",
+      "text": "2 : In 3.22 women acquire jewelry and clothing; here men and women will obtain jewelry but not clothing (see also 12.35–36; 35.22,29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ex-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The Lord gave the people favor in the sight of the Egyptians. Moreover, Moses himself was a man of great importance in the land of Egypt, in the sight of Pharaoh’s officials and in the sight of the people."
+    },
+    {
+      "block_id": "oxford-ex-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Moses said, “Thus says the Lord: About midnight I will go out through Egypt."
+    },
+    {
+      "block_id": "oxford-ex-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne to the firstborn of the female slave who is behind the handmill, and all the firstborn of the livestock."
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , see 4.22n. , opposite ends of the socioeconomic spectrum form a merism indicating that all Egyptians will be affected .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ex-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then there will be a loud cry throughout the whole land of Egypt, such as has never been or will ever be again."
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-7",
+      "type": "commentary",
+      "text": "6 : The Egyptians’ unique surpasses the Israelites’ cry (see 2.2n.). Uniqueness also features in the seventh and eighth marvels (9.18,25; 10.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ex-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "But not a dog shall growl at any of the Israelites—not at people, not at animals—so that you may know that the Lord makes a distinction between Egypt and Israel."
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-8",
+      "type": "commentary",
+      "text": "7 : , again indicating the selective nature of what will happen (see 8.23n. and 9.4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ex-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Then all these officials of yours shall come down to me, and bow low to me, saying, ‘Leave us, you and all the people who follow you.’ After that I will leave.” And in hot anger he left Pharaoh."
+    },
+    {
+      "block_id": "oxford-ex-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The Lord said to Moses, “Pharaoh will not listen to you, in order that my wonders may be multiplied in the land of Egypt.”"
+    },
+    {
+      "block_id": "oxford-ex-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Moses and Aaron performed all these wonders before Pharaoh; but the Lord hardened Pharaoh’s heart, and he did not let the people of Israel go out of his land."
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–15.21: Israel in and out of Egypt. The Israelites are oppressed in Egypt; but they escape through the intervention of their God, whose identity is revealed to their heroic leader Moses, who then carries out God’s directives to secure their release.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-2",
+      "type": "commentary",
+      "text": "11.1–13.16: Plague, commemorative rituals, and departure. After the firstborn plague is announced, detailed commands for commemorative rituals are interspersed with accounts of Egyptian deaths and the Israelite Exodus. Although addressed to Israelites as they leave Egypt, the directives for various rituals also mandate future acts commemorating the radical change from servitude to freedom through divine intervention. The miraculous departure from Egypt becomes part of the collective memory of future generations, kept alive through religious practices that enable later generations to recall and relive the formative Exodus experiences. The rituals will contribute to Israelite communal identity. Present and future merge in this composite and somewhat redundant account drawing on Priestly and other sources.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-3",
+      "type": "commentary",
+      "text": "11.1–10: Announcement of the plague.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-ex-11-h1kj-9",
+      "type": "commentary",
+      "text": "10 : , see 4.21n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ex",
+        "chapter": 11
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    }
+  ]
+}

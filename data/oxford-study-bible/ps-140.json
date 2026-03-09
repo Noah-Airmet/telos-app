@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-140",
+  "title": "Psalms 140",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-140-heading-psalm-141",
+      "type": "heading",
+      "text": "Psalm 141"
+    },
+    {
+      "block_id": "oxford-ps-140-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Deliver me, O Lord, from evildoers; protect me from those who are violent,"
+    },
+    {
+      "block_id": "oxford-ps-140-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 140: Petition, complaint, and hope. An individual petition that helps the sufferer move from pain to peaceful hope. NRSV correctly marks the stanzas: vv. 1–3,4–5,6–8,9–11,12–13 on the basis of their syntax, content, and word count. Verses 1–3 and 4–5 are paired by their syntax, each beginning with similar petitions and descriptions of enemies, and each section ends with , which typically marks a disjunction (see Ps 3.2n.). Verses 6–8 are distinct by their initial verb “I say” and assertions of loyalty to the ; vv. 9–11 reverse the order of previous sections by beginning with a complaint (v. 9a) and ending with a petition (vv. 9b–11–). The final section, vv. 12–13, the statement of trust, is marked by its initial verb .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-140-2",
+      "type": "verse",
+      "number": 2,
+      "text": "who plan evil things in their minds and stir up wars continually."
+    },
+    {
+      "block_id": "oxford-ps-140-3",
+      "type": "verse",
+      "number": 3,
+      "text": "They make their tongue sharp as a snake’s, and under their lips is the venom of vipers. Selah"
+    },
+    {
+      "block_id": "oxford-ps-140-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Guard me, O Lord, from the hands of the wicked; protect me from the violent who have planned my downfall."
+    },
+    {
+      "block_id": "oxford-ps-140-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The arrogant have hidden a trap for me, and with cords they have spread a net, along the road they have set snares for me. Selah"
+    },
+    {
+      "block_id": "oxford-ps-140-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I say to the Lord, “You are my God; give ear, O Lord, to the voice of my supplications.”"
+    },
+    {
+      "block_id": "oxford-ps-140-h1kj-2",
+      "type": "commentary",
+      "text": "6 : , shifts from petition to confession that the has been loyal in the past.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-140-7",
+      "type": "verse",
+      "number": 7,
+      "text": "O Lord, my Lord, my strong deliverer, you have covered my head in the day of battle."
+    },
+    {
+      "block_id": "oxford-ps-140-h1kj-3",
+      "type": "commentary",
+      "text": "7 : , protected my head.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-140-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Do not grant, O Lord, the desires of the wicked; do not further their evil plot. Selah"
+    },
+    {
+      "block_id": "oxford-ps-140-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Those who surround me lift up their heads; let the mischief of their lips overwhelm them!"
+    },
+    {
+      "block_id": "oxford-ps-140-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Let burning coals fall on them! Let them be flung into pits, no more to rise!"
+    },
+    {
+      "block_id": "oxford-ps-140-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Do not let the slanderer be established in the land; let evil speedily hunt down the violent!"
+    },
+    {
+      "block_id": "oxford-ps-140-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I know that the Lord maintains the cause of the needy, and executes justice for the poor."
+    },
+    {
+      "block_id": "oxford-ps-140-h1kj-4",
+      "type": "commentary",
+      "text": "12 : , affirming God’s fidelity as in Jon 4.2; Pss 20.6; 56.9; 135.5. The psalmist wants to be counted among the and whom the always helps. emphasizes the psalmist’s triumphant hope that the righteous will be rescued.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 140
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-ps-140-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Surely the righteous shall give thanks to your name; the upright shall live in your presence."
+    }
+  ]
+}

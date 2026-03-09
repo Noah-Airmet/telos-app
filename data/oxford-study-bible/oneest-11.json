@@ -1,0 +1,199 @@
+{
+  "document_id": "oneest-11",
+  "title": "oneest 11",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-oneest-11-heading-12",
+      "type": "heading",
+      "text": "12"
+    },
+    {
+      "block_id": "oxford-oneest-11-2",
+      "type": "verse",
+      "number": 2,
+      "text": "In the second year of the reign of Artaxerxes the Great, on the first day of Nisan, Mordecai son of Jair son of Shimei son of Kish, of the tribe of Benjamin, had a dream."
+    },
+    {
+      "block_id": "oxford-oneest-11-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He was a Jew living in the city of Susa, a great man, serving in the court of the king."
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-3",
+      "type": "commentary",
+      "text": "3 : (Heb “yehudi”), originally meaning someone from the kingdom of Judah (2 Kings 16.6), is used here in its later sense of an adherent to Judaism. , westernmost of the three capital cities of the Persian empire in northwestern Iran. In contrast to Heb Esther, Mordecai is already an important royal official.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-oneest-11-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He was one of the captives whom King Nebuchadnezzar of Babylon had brought from Jerusalem with King Jeconiah of Judea. And this was his dream:"
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-4",
+      "type": "commentary",
+      "text": "4 : Mordecai would be well over one hundred years old by 485 if he, along with Judah's last king (Jehoiachin), had been exiled by in 597 (2 Kings 24.8–16). As in other historical romances, the author takes liberties with actual chronology.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-oneest-11-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Noises and confusion, thunders and earthquake, tumult on the earth!"
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-5",
+      "type": "commentary",
+      "text": "5 : , the language of cosmic chaos is typical of apocalyptic texts (see Isa 24.17–20; Dan 12.1,4).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-oneest-11-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Then two great dragons came forward, both ready to fight, and they roared terribly."
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-6",
+      "type": "commentary",
+      "text": "6 : , Mordecai and Haman (see Addition F 10.7). Based on earlier Canaanite models, God defeats the chaos dragon (a sea monster) at the time of creation (Pss 74.13; 89.10; Isa 27.1; 51.9–10; Job 26.12–13); imagery from this primordial battle frequently appears in apocalyptic literature (Dan 7; Rev 12.3; 13.2; 20.2). Two dragons (see 2 Esd 6.49–52) are unusual and may reflect Persian influence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-oneest-11-7",
+      "type": "verse",
+      "number": 7,
+      "text": "At their roaring every nation prepared for war, to fight against the righteous nation."
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , the Jews (see Dan 7.27). Unlike the Heb, Gk Esther perceives the entire Gentile (non-Jewish) world as a danger to the Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-oneest-11-8",
+      "type": "verse",
+      "number": 8,
+      "text": "It was a day of darkness and gloom, of tribulation and distress, affliction and great tumult on the earth!"
+    },
+    {
+      "block_id": "oxford-oneest-11-9",
+      "type": "verse",
+      "number": 9,
+      "text": "And the whole righteous nation was troubled; they feared the evils that threatened them, and were ready to perish."
+    },
+    {
+      "block_id": "oxford-oneest-11-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Then they cried out to God; and at their outcry, as though from a tiny spring, there came a great river, with abundant water;"
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-8",
+      "type": "commentary",
+      "text": "10 : (Ex 3.7; Jdt 4.9,12,15). and refer to Esther (10.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-oneest-11-11",
+      "type": "verse",
+      "number": 11,
+      "text": "light came, and the sun rose, and the lowly were exalted and devoured those held in honor."
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-2",
+      "type": "commentary",
+      "text": "11 : The odd chapter numbers derive from Jerome's Latin translation of Esther in which the “extra” Greek portions were grouped together following the chapters that corresponded to the Hebrew narrative. Thus Addition A became Esther 11.1, right after Esther 10.3 , a mistranslation of the Heb “Ahasuerus,” that is, Xerxes I (486–465 ); the would be 485. Month names in Esther are Babylonian; , March-April, is the first month of the new year. Thus, Mordecai's dream comes on New Year's Day. By beginning the story with Mordecai, Greek Esther reframes the narrative to give Mordecai greater prominence. Addition F, by the same author, brings Greek Esther to its close with the interpretation of the dream. 's name derives from the name of the Babylonian god Marduk, whose creation of the world was reenacted every new year in Babylon. Mordecai's genealogy connecting him with King Saul (1 Sam 9.1; 2 Sam 16.5–18) is repeated in 2.5 where it is located in Hebrew Esther.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-9",
+      "type": "commentary",
+      "text": "11 : and morning, symbolizing joy, salvation, and new life (Pss 30.5; 46.5; 112.4; Isa 33.2). , 1 Sam 2.4–9. One is Haman (12.6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-oneest-11-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Mordecai saw in this dream what God had determined to do, and after he awoke he had it on his mind, seeking all day to understand it in every detail."
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-1",
+      "type": "commentary",
+      "text": "11.2–12: Mordecai's prophetic dream of impending danger to the Jews.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 2,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-oneest-11-h1kj-10",
+      "type": "commentary",
+      "text": "12 : , in contrast to the Heb, all events in Gk Esther are foreordained by God, although Mordecai does not yet fully understand the dream's symbolism (10.4–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 11
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    }
+  ]
+}

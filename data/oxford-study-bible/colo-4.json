@@ -1,0 +1,314 @@
+{
+  "document_id": "colo-4",
+  "title": "colo 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-colo-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Devote yourselves to prayer, keeping alert in it with thanksgiving."
+    },
+    {
+      "block_id": "oxford-colo-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "At the same time pray for us as well that God will open to us a door for the word, that we may declare the mystery of Christ, for which I am in prison,"
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-5",
+      "type": "commentary",
+      "text": "3 : , an opportunity to preach. , see 1.26–27n. , see 1.24n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-colo-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "so that I may reveal it clearly, as I should."
+    },
+    {
+      "block_id": "oxford-colo-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Conduct yourselves wisely toward outsiders, making the most of the time."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , perhaps the motivation for advocating the conservative household ethic above. , recognizing the eschatological urgency.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-colo-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer everyone."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–4.6: Ethical implications. 3.1–4: Maintain a heavenly perspective.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-4",
+      "type": "commentary",
+      "text": "4.2–6: Final admonitions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , with graciousness or perhaps wit (cf. Mt 5.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-colo-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Tychicus will tell you all the news about me; he is a beloved brother, a faithful minister, and a fellow servant in the Lord."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-9",
+      "type": "commentary",
+      "text": "7 : , Paul's associate (Acts 20.4; 2 Tim 4.12), commended like Epaphras (cf. 1.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-colo-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "I have sent him to you for this very purpose, so that you may know how we are and that he may encourage your hearts;"
+    },
+    {
+      "block_id": "oxford-colo-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "he is coming with Onesimus, the faithful and beloved brother, who is one of you. They will tell you about everything here."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-10",
+      "type": "commentary",
+      "text": "9 : , see Philem 10–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-colo-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Aristarchus my fellow prisoner greets you, as does Mark the cousin of Barnabas, concerning whom you have received instructions—if he comes to you, welcome him."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-11",
+      "type": "commentary",
+      "text": "10 : , Acts 20.4; 27.2; Philem 24. , cf. Paul's conflict with Mark in Acts 13.13; 15.37–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-colo-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And Jesus who is called Justus greets you. These are the only ones of the circumcision among my co-workers for the kingdom of God, and they have been a comfort to me."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-12",
+      "type": "commentary",
+      "text": "11 : , a common Jewish name. , Jewish followers of the Christian movement, here without negative connotations (cf. Gal 2.12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    {
+      "block_id": "oxford-colo-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Epaphras, who is one of you, a servant of Christ Jesus, greets you. He is always wrestling in his prayers on your behalf, so that you may stand mature and fully assured in everything that God wills."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-13",
+      "type": "commentary",
+      "text": "12 : , see 1.7n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-colo-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "For I testify for him that he has worked hard for you and for those in Laodicea and in Hierapolis."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-14",
+      "type": "commentary",
+      "text": "13 : , , cities located 10 and 15 miles (16 and 24 km), respectively, northwest of Colossae.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-colo-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Luke, the beloved physician, and Demas greet you."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-15",
+      "type": "commentary",
+      "text": "14 : , 2 Tim 4.11; Philem 24. Traditionally identified as the author of the Gospel of Luke and Acts (see respective Introductions). , 2 Tim 4.10; Philem 24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-colo-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Give my greetings to the brothers and sisters in Laodicea, and to Nympha and the church in her house."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-16",
+      "type": "commentary",
+      "text": "15 : , see Eph 6.23n. , probably the leader of the church that met in her home (see Philem 1–2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-colo-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "And when this letter has been read among you, have it read also in the church of the Laodiceans; and see that you read also the letter from Laodicea."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-17",
+      "type": "commentary",
+      "text": "16 : , no letter is extant, although some scholars identify it with Ephesians. This verse attests to the churches’ practice of sharing Paul's letters prior to their distribution in a collection.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-colo-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "And say to Archippus, “See that you complete the task that you have received in the Lord.”"
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-18",
+      "type": "commentary",
+      "text": "17 : , Philem 2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-colo-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you."
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-8",
+      "type": "commentary",
+      "text": "4.7–18: Final greetings and instructions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-colo-4-h1kj-19",
+      "type": "commentary",
+      "text": "18 : A final word in the author's handwriting to authenticate the letter (cf. 1 Cor 16.21; Gal 6.11); the rest of the letter would have been dictated to a secretary (see Rom 16.22).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "colo",
+        "chapter": 4
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    }
+  ]
+}

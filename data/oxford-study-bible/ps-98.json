@@ -1,0 +1,127 @@
+{
+  "document_id": "ps-98",
+  "title": "Psalms 98",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-98-heading-psalm-99",
+      "type": "heading",
+      "text": "Psalm 99"
+    },
+    {
+      "block_id": "oxford-ps-98-1",
+      "type": "verse",
+      "number": 1,
+      "text": "O sing to the Lord a new song, for he has done marvelous things. His right hand and his holy arm have gotten him victory."
+    },
+    {
+      "block_id": "oxford-ps-98-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 98: Praise of the Lord, just and victorious ruler of the world. A hymn celebrating the victory of the over the forces of evil, a victory that brought peace and justice to the world; see Ps 93n. Verses 1–3 invite Israel to sing praise, vv. 4–6 invite the inhabitants of the earth to join in the song, and vv. 7–9 invite the natural elements of the world. The poem begins by announcing that the has won a great victory and ends by introducing the to his new subjects.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 98
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-98-h1kj-2",
+      "type": "commentary",
+      "text": "1 : On , see Ps 96.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 98
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-98-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord has made known his victory; he has revealed his vindication in the sight of the nations."
+    },
+    {
+      "block_id": "oxford-ps-98-3",
+      "type": "verse",
+      "number": 3,
+      "text": "He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the victory of our God."
+    },
+    {
+      "block_id": "oxford-ps-98-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Make a joyful noise to the Lord, all the earth; break forth into joyous song and sing praises."
+    },
+    {
+      "block_id": "oxford-ps-98-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Sing praises to the Lord with the lyre, with the lyre and the sound of melody."
+    },
+    {
+      "block_id": "oxford-ps-98-6",
+      "type": "verse",
+      "number": 6,
+      "text": "With trumpets and the sound of the horn make a joyful noise before the King, the Lord."
+    },
+    {
+      "block_id": "oxford-ps-98-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Let the sea roar, and all that fills it; the world and those who live in it."
+    },
+    {
+      "block_id": "oxford-ps-98-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Let the floods clap their hands; let the hills sing together for joy"
+    },
+    {
+      "block_id": "oxford-ps-98-h1kj-3",
+      "type": "commentary",
+      "text": "4–8 : The noisy acclamation of God as king is modeled on a human coronation ceremony.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 98
+      },
+      "verse_start": 4,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-98-h1kj-4",
+      "type": "commentary",
+      "text": "7–8 : For the participation of mountains and hills in the joy of Israel’s redemption, see, e.g., Isa 44.23; 49.11 and Ps 114.4,6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 98
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-98-9",
+      "type": "verse",
+      "number": 9,
+      "text": "at the presence of the Lord, for he is coming to judge the earth. He will judge the world with righteousness, and the peoples with equity."
+    },
+    {
+      "block_id": "oxford-ps-98-h1kj-5",
+      "type": "commentary",
+      "text": "9 : , not judgment at the end of time but judgment in the biblical sense of ruling justly now.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 98
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    }
+  ]
+}

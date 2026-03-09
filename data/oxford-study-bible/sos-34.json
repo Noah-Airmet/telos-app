@@ -1,0 +1,361 @@
+{
+  "document_id": "sos-34",
+  "title": "sos 34",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-34-heading-35",
+      "type": "heading",
+      "text": "35"
+    },
+    {
+      "block_id": "oxford-sos-34-2",
+      "type": "verse",
+      "number": 2,
+      "text": "As one who catches at a shadow and pursues the wind, so is anyone who believes in dreams."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-2",
+      "type": "commentary",
+      "text": "2 : , cf. Eccl 1.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-34-3",
+      "type": "verse",
+      "number": 3,
+      "text": "What is seen in dreams is but a reflection, the likeness of a face looking at itself."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-3",
+      "type": "commentary",
+      "text": "3 : are a projection of the dreamer, a view that seems very modern.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-sos-34-4",
+      "type": "verse",
+      "number": 4,
+      "text": "From an unclean thing what can be clean? And from something false what can be true?"
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-4",
+      "type": "commentary",
+      "text": "4 : , cf. Job 14.4.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-sos-34-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Divinations and omens and dreams are unreal, and like a woman in labor, the mind has fantasies."
+    },
+    {
+      "block_id": "oxford-sos-34-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Unless they are sent by intervention from the Most High, pay no attention to them."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-5",
+      "type": "commentary",
+      "text": "6 : , only divinely inspired dreams are acceptable (cf. Gen 28.10–16; 37.5–10; Judg 7.13–15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-sos-34-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For dreams have deceived many, and those who put their hope in them have perished."
+    },
+    {
+      "block_id": "oxford-sos-34-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Without such deceptions the law will be fulfilled, and wisdom is complete in the mouth of the faithful."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-1",
+      "type": "commentary",
+      "text": "34.1–8: Dreams. , , and do not provide reliable knowledge. Ben Sira sets these against the and (v. 8). He may be opposing the apocalyptic movement, which emphasized knowledge through dreams and visions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-sos-34-9",
+      "type": "verse",
+      "number": 9,
+      "text": "An educated person knows many things, and one with much experience knows what he is talking about."
+    },
+    {
+      "block_id": "oxford-sos-34-10",
+      "type": "verse",
+      "number": 10,
+      "text": "An inexperienced person knows few things,"
+    },
+    {
+      "block_id": "oxford-sos-34-11",
+      "type": "verse",
+      "number": 11,
+      "text": "but he that has traveled acquires much cleverness."
+    },
+    {
+      "block_id": "oxford-sos-34-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I have seen many things in my travels, and I understand more than I can express."
+    },
+    {
+      "block_id": "oxford-sos-34-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I have often been in danger of death, but have escaped because of these experiences."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-6",
+      "type": "commentary",
+      "text": "34.9–13: Experience through travel. See 39.4; 51.13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 9,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-sos-34-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The spirit of those who fear the Lord will live,"
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-8",
+      "type": "commentary",
+      "text": "14 : , in the sense of being energized, encouraged, not in a postmortem existence.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-34-15",
+      "type": "verse",
+      "number": 15,
+      "text": "for their hope is in him who saves them."
+    },
+    {
+      "block_id": "oxford-sos-34-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Those who fear the Lord will not be timid, or play the coward, for he is their hope."
+    },
+    {
+      "block_id": "oxford-sos-34-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Happy is the soul that fears the Lord!"
+    },
+    {
+      "block_id": "oxford-sos-34-18",
+      "type": "verse",
+      "number": 18,
+      "text": "To whom does he look? And who is his support?"
+    },
+    {
+      "block_id": "oxford-sos-34-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The eyes of the Lord are on those who love him, a mighty shield and strong support, a shelter from scorching wind and a shade from noonday sun, a guard against stumbling and a help against falling."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-9",
+      "type": "commentary",
+      "text": "19 : Common images in Israel's hymnic tradition (e.g., Pss 3.3; 7.10; 18.2,17,35; 61.3–4; 91.1–4; 121.3–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-sos-34-20",
+      "type": "verse",
+      "number": 20,
+      "text": "He lifts up the soul and makes the eyes sparkle; he gives health and life and blessing."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-7",
+      "type": "commentary",
+      "text": "34.14–20: Fear of the Lord. See 1.11–30; 2.1–18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 14,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-34-21",
+      "type": "verse",
+      "number": 21,
+      "text": "If one sacrifices ill-gotten goods, the offering is blemished;"
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-11",
+      "type": "commentary",
+      "text": "21 : , cf. Lev 22.18–25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-sos-34-22",
+      "type": "verse",
+      "number": 22,
+      "text": "the gifts of the lawless are not acceptable."
+    },
+    {
+      "block_id": "oxford-sos-34-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The Most High is not pleased with the offerings of the ungodly, nor for a multitude of sacrifices does he forgive sins."
+    },
+    {
+      "block_id": "oxford-sos-34-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Like one who kills a son before his father's eyes is the person who offers a sacrifice from the property of the poor."
+    },
+    {
+      "block_id": "oxford-sos-34-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The bread of the needy is the life of the poor; whoever deprives them of it is a murderer."
+    },
+    {
+      "block_id": "oxford-sos-34-26",
+      "type": "verse",
+      "number": 26,
+      "text": "To take away a neighbor's living is to commit murder;"
+    },
+    {
+      "block_id": "oxford-sos-34-27",
+      "type": "verse",
+      "number": 27,
+      "text": "to deprive an employee of wages is to shed blood."
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-12",
+      "type": "commentary",
+      "text": "24–27 : Ben Sira connects material resources with the ability to live (cf. 29.15; 31.4). Thus, taking what little the poor have constitutes .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 24,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-sos-34-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When one builds and another tears down, what do they gain but hard work?"
+    },
+    {
+      "block_id": "oxford-sos-34-29",
+      "type": "verse",
+      "number": 29,
+      "text": "When one prays and another curses, to whose voice will the Lord listen?"
+    },
+    {
+      "block_id": "oxford-sos-34-30",
+      "type": "verse",
+      "number": 30,
+      "text": "If one washes after touching a corpse, and touches it again, what has been gained by washing?"
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-13",
+      "type": "commentary",
+      "text": "30 : makes one ritually impure, which is alleviated through washing (Num 19.10–20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-sos-34-31",
+      "type": "verse",
+      "number": 31,
+      "text": "So if one fasts for his sins, and goes again and does the same things, who will listen to his prayer? And what has he gained by humbling himself?"
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-10",
+      "type": "commentary",
+      "text": "34.21–35.26. Sacrifice and true worship. Ben Sira supported the Temple and its priesthood (cf. 50.1–24) and advocated sacrificing according to the law. Social justice and ethical behavior must motivate and accompany sacrifice, however.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 21,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-sos-34-h1kj-14",
+      "type": "commentary",
+      "text": "31 : , perhaps a reference to the Day of Atonement (Lev 23.27–32).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 34
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    }
+  ]
+}

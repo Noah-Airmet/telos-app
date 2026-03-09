@@ -1,0 +1,524 @@
+{
+  "document_id": "judg-1",
+  "title": "Judges 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-judg-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "After the death of Joshua, the Israelites inquired of the Lord, “Who shall go up first for us against the Canaanites, to fight against them?”"
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-3",
+      "type": "commentary",
+      "text": "1 : : the initial phrase informs readers that this continues the story from the book of Joshua, Moses’s hand‐picked successor (Num 27.18; Deut 34.9); his death creates a leadership vacuum that the book details. through oracular means (18.5; Num 27.21; 1 Sam 10.22; 28.6). , draw first blood in warfare, with high risk and reward. , the pre‐Israelite inhabitants of the land.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-judg-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The Lord said, “Judah shall go up. I hereby give the land into his hand.”"
+    },
+    {
+      "block_id": "oxford-judg-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Judah said to his brother Simeon, “Come up with me into the territory allotted to me, that we may fight against the Canaanites; then I too will go with you into the territory allotted to you.” So Simeon went with him."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the patriarchs Judah and Simeon were both sons of Leah (Gen 29.33,35).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-judg-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then Judah went up and the Lord gave the Canaanites and the Perizzites into their hand; and they defeated ten thousand of them at Bezek."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , one of the traditional seven nations of Canaan (Deut 7.1). , the number could be exaggerated or reflect a use of the word for “thousand” (Heb “˒elep”) meaning “militia‐unit.” , probably Khirbet Izbiq, ca. 15 mi (24 km) northeast of Shechem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-judg-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "They came upon Adonibezek at Bezek, and fought against him, and defeated the Canaanites and the Perizzites."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , cf. Adoni‐zedek, a king of Jerusalem according to Josh 10.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-judg-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Adoni‐bezek fled; but they pursued him, and caught him, and cut off his thumbs and big toes."
+    },
+    {
+      "block_id": "oxford-judg-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Adoni‐bezek said, “Seventy kings with their thumbs and big toes cut off used to pick up scraps under my table; as I have done, so God has paid me back.” They brought him to Jerusalem, and he died there. Tribal conquest in ch 1. Cities marked by square bullets are locales where Canaanites continued to live."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-7",
+      "type": "commentary",
+      "text": "7 : , the number of his victims suggests a warlord as fierce as the primeval strongman Lamech (Gen 4.24) and anticipates other accounts of royal cruelty, by Abimelech (9.5) and Jehu (2 Kings 10.1–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-judg-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Then the people of Judah fought against Jerusalem and took it. They put it to the sword and set the city on fire."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-8",
+      "type": "commentary",
+      "text": "8 : , contradicted by v. 21 and 19.10–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-judg-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Afterward the people of Judah went down to fight against the Canaanites who lived in the hill country, in the Negeb, and in the lowland."
+    },
+    {
+      "block_id": "oxford-judg-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Judah went against the Canaanites who lived in Hebron (the name of Hebron was formerly Kiriath‐arba); and they defeated Sheshai and Ahiman and Talmai."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-9",
+      "type": "commentary",
+      "text": "10 : An individual, Caleb, not the tribe of , is credited with the attack on in v. 20 and Josh 15.34. , a trio of legendary giants among the people known as the Anakites/Anakim (“the sons of Anak”) mentioned in v. 20 (Num 13.22; Deut 2.10; Josh 15.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-judg-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "From there they went against the inhabitants of Debir (the name of Debir was formerly Kiriath‐sepher)."
+    },
+    {
+      "block_id": "oxford-judg-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then Caleb said, “Whoever attacks Kiriath‐sepher and takes it, I will give him my daughter Achsah as wife.”"
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-11",
+      "type": "commentary",
+      "text": "12 : , the hero of the Israelite spies from the days of Moses (Num 13.30; 14.24; 26.65; Deut 1.36). Saul also offers his daughters as a prize (1 Sam 17.25; 18.17,27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-judg-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "And Othniel son of Kenaz, Caleb’s younger brother, took it; and he gave him his daughter Achsah as wife."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-12",
+      "type": "commentary",
+      "text": "13 : is mentioned in Josh 15.17 and is the first of the judges (3.7–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-judg-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "When she came to him, she urged him to ask her father for a field. As she dismounted from her donkey, Caleb said to her, “What do you wish?”"
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-13",
+      "type": "commentary",
+      "text": "14 : , out of respect, before making a request (see Gen 24.64; 1 Sam 25.23).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-judg-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "She said to him, “Give me a present; since you have set me in the land of the Negeb, give me also Gullothmayim.” So Caleb gave her Upper Gulloth and Lower Gulloth."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-10",
+      "type": "commentary",
+      "text": "11–15 : This anecdote establishes the claim of villagers from Debir, probably Khirbet Rabud, 10 mi (16 km) south of Hebron, to springs actually closer to and coveted by Hebronites; cf. Josh 15.15–19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 11,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-judg-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The descendants of Hobab the Kenite, Moses’ father‐in‐law, went up with the people of Judah from the city of palms into the wilderness of Judah, which lies in the Negeb near Arad. Then they went and settled with the Amalekites."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , a local guide for the Israelites in the wilderness. Though named as here and in 4.11, he is identified as Moses’s brother‐in‐law in Num 10.29, which knows Moses’s father‐in‐law as Reuel (see also Ex 2.18); elsewhere in Exodus he is known as Jethro. , probably Jericho (3.13; Deut 34.3; 2 Chr 28.15). , ca. 22 mi (36 km) south of Hebron. were a nomadic people who conflicted with Israel after the Exodus (Ex 17.8–16; Deut 25.17–18) and who reappear in Jewish tradition as archetypal enemies (see Judg 6.3; 1 Sam 15.1–7). By contrast, (4.11,17; 5.24), though related to the Amalekites, were seen as friendly.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-judg-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Judah went with his brother Simeon, and they defeated the Canaanites who inhabited Zephath, and devoted it to destruction. So the city was called Hormah."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-15",
+      "type": "commentary",
+      "text": "17 : , the “ḥerem” (the “ban”), a practice of ancient warfare in which conquered peoples, livestock, and artifacts were annihilated and offered to the deity; see Deut 13.15–19; Josh 6.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-judg-1-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Judah took Gaza with its territory, Ashkelon with its territory, and Ekron with its territory."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-16",
+      "type": "commentary",
+      "text": "18 : , in 14.19; 16.21; 1 Sam 6.17, these cities are still under Philistine control, but here their conquest is attributed to Judah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-judg-1-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The Lord was with Judah, and he took possession of the hill country, but could not drive out the inhabitants of the plain, because they had chariots of iron."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-17",
+      "type": "commentary",
+      "text": "19 : had wooden frames with iron hardware and fittings; cf. Josh 17.16.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 19,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-judg-1-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Hebron was given to Caleb, as Moses had said; and he drove out from it the three sons of Anak."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–20: The success of the Judahites: Judah, accompanied by Simeon, enters Canaan near Jericho (1.16), ascends the southern highlands, and advances to the south.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-18",
+      "type": "commentary",
+      "text": "20 : , see v. 10n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-judg-1-21",
+      "type": "verse",
+      "number": 21,
+      "text": "But the Benjaminites did not drive out the Jebusites who lived in Jerusalem; so the Jebusites have lived in Jerusalem among the Benjaminites to this day."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-20",
+      "type": "commentary",
+      "text": "21 : In Josh 15.63 Judah, not Benjamin, failed to drive the Jebusites from Jerusalem.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-judg-1-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The house of Joseph also went up against Bethel; and the Lord was with them."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-21",
+      "type": "commentary",
+      "text": "22 : , the tribes of Ephraim and Manasseh (Gen 46.20).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-judg-1-23",
+      "type": "verse",
+      "number": 23,
+      "text": "The house of Joseph sent out spies to Bethel (the name of the city was formerly Luz)."
+    },
+    {
+      "block_id": "oxford-judg-1-24",
+      "type": "verse",
+      "number": 24,
+      "text": "When the spies saw a man coming out of the city, they said to him, “Show us the way into the city, and we will deal kindly with you.”"
+    },
+    {
+      "block_id": "oxford-judg-1-25",
+      "type": "verse",
+      "number": 25,
+      "text": "So he showed them the way into the city; and they put the city to the sword, but they let the man and all his family go."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-22",
+      "type": "commentary",
+      "text": "24–25 : Cf. Josh 2.12–14; 6.25.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-judg-1-26",
+      "type": "verse",
+      "number": 26,
+      "text": "So the man went to the land of the Hittites and built a city, and named it Luz; that is its name to this day."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-23",
+      "type": "commentary",
+      "text": "26 : , here meaning northern Syria (cf. Josh 1.4) rather than Anatolia, as in earlier periods.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-judg-1-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Manasseh did not drive out the inhabitants of Beth‐shean and its villages, or Taanach and its villages, or the inhabitants of Dor and its villages, or the inhabitants of Ibleam and its villages, or the inhabitants of Megiddo and its villages; but the Canaanites continued to live in that land."
+    },
+    {
+      "block_id": "oxford-judg-1-28",
+      "type": "verse",
+      "number": 28,
+      "text": "When Israel grew strong, they put the Canaanites to forced labor, but did not in fact drive them out."
+    },
+    {
+      "block_id": "oxford-judg-1-29",
+      "type": "verse",
+      "number": 29,
+      "text": "And Ephraim did not drive out the Canaanites who lived in Gezer; but the Canaanites lived among them in Gezer."
+    },
+    {
+      "block_id": "oxford-judg-1-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Zebulun did not drive out the inhabitants of Kitron, or the inhabitants of Nahalol; but the Canaanites lived among them, and became subject to forced labor."
+    },
+    {
+      "block_id": "oxford-judg-1-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Asher did not drive out the inhabitants of Acco, or the inhabitants of Sidon, or of Ahlab, or of Achzib, or of Helbah, or of Aphik, or of Rehob;"
+    },
+    {
+      "block_id": "oxford-judg-1-32",
+      "type": "verse",
+      "number": 32,
+      "text": "but the Asherites lived among the Canaanites, the inhabitants of the land; for they did not drive them out."
+    },
+    {
+      "block_id": "oxford-judg-1-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Naphtali did not drive out the inhabitants of Beth‐shemesh, or the inhabitants of Beth‐anath, but lived among the Canaanites, the inhabitants of the land; nevertheless the inhabitants of Beth‐shemesh and of Bethanath became subject to forced labor for them."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-24",
+      "type": "commentary",
+      "text": "27–33 : Cf. parallel passages in Joshua; for Manasseh (v. 27), Josh 17.1–13; for Ephraim (v. 29), Josh 16.10; for Zebulun (v. 30), Josh 19.10–16; for Asher (vv. 31–32), Josh 19.24–31; for Naphtali (v. 33), Josh 19.32–39.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 27,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-judg-1-34",
+      "type": "verse",
+      "number": 34,
+      "text": "The Amorites pressed the Danites back into the hill country; they did not allow them to come down to the plain."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-25",
+      "type": "commentary",
+      "text": "34 : , another term for the pre‐Israelite inhabitants of Canaan. , see chs 14–16; 18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 34,
+      "verse_end": 34
+    },
+    {
+      "block_id": "oxford-judg-1-35",
+      "type": "verse",
+      "number": 35,
+      "text": "The Amorites continued to live in Har‐heres, in Aijalon, and in Shaalbim, but the hand of the house of Joseph rested heavily on them, and they became subject to forced labor."
+    },
+    {
+      "block_id": "oxford-judg-1-36",
+      "type": "verse",
+      "number": 36,
+      "text": "The border of the Amorites ran from the ascent of Akrabbim, from Sela and upward."
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–2.5: The days after Joshua. The opening section sketches the uneven success of the Israelites, tribe by tribe, in securing the land to which Joshua brought them. The prominence and singular success of Judah (vv. 1–20) gestures toward David without mentioning him. The accounts here are often at odds with passages in Joshua.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 36
+    },
+    {
+      "block_id": "oxford-judg-1-h1kj-19",
+      "type": "commentary",
+      "text": "1.21–36: The failures of the northern tribes. The tribes that later comprised the northern kingdom of Israel fail to uproot the Canaanites in their areas, leading to religious syncretism for which an angel in 2.1–3 condemns them. For cities in the section that can be identified, see the on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "judg",
+        "chapter": 1
+      },
+      "verse_start": 21,
+      "verse_end": 36
+    }
+  ]
+}

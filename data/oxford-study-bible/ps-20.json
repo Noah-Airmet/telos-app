@@ -1,0 +1,121 @@
+{
+  "document_id": "ps-20",
+  "title": "Psalms 20",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-20-heading-psalm-21",
+      "type": "heading",
+      "text": "Psalm 21"
+    },
+    {
+      "block_id": "oxford-ps-20-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord answer you in the day of trouble! The name of the God of Jacob protect you!"
+    },
+    {
+      "block_id": "oxford-ps-20-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 20: Prayer for the king’s victory. A communal petition for the king’s victory. Ps 21 seems to be a thanksgiving for the victory prayed for in this psalm. The first part (vv. 1–5) prays that the king will be victorious in battle, and the second (vv. 6–9) gives an assurance that he will be successful.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-20-h1kj-2",
+      "type": "commentary",
+      "text": "1 : occurs as petition in v. 1, assurance in v. 6, and petition in v. 9. , a military crisis requiring the king to act as military commander.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-20-2",
+      "type": "verse",
+      "number": 2,
+      "text": "May he send you help from the sanctuary, and give you support from Zion."
+    },
+    {
+      "block_id": "oxford-ps-20-3",
+      "type": "verse",
+      "number": 3,
+      "text": "May he remember all your offerings, and regard with favor your burnt sacrifices. Selah"
+    },
+    {
+      "block_id": "oxford-ps-20-h1kj-3",
+      "type": "commentary",
+      "text": "3 : and here regarded as a plea for divine favor. , see Ps 3.2n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-ps-20-4",
+      "type": "verse",
+      "number": 4,
+      "text": "May he grant you your heart’s desire, and fulfill all your plans."
+    },
+    {
+      "block_id": "oxford-ps-20-5",
+      "type": "verse",
+      "number": 5,
+      "text": "May we shout for joy over your victory, and in the name of our God set up our banners. May the Lord fulfill all your petitions."
+    },
+    {
+      "block_id": "oxford-ps-20-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Now I know that the Lord will help his anointed; he will answer him from his holy heaven with mighty victories by his right hand."
+    },
+    {
+      "block_id": "oxford-ps-20-h1kj-4",
+      "type": "commentary",
+      "text": "6 : , the phrase elsewhere expresses great confidence (Job 19.25; Pss 41.11; 56.9); it may reflect a positive oracle that the king received.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ps-20-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Some take pride in chariots, and some in horses, but our pride is in the name of the Lord our God."
+    },
+    {
+      "block_id": "oxford-ps-20-h1kj-5",
+      "type": "commentary",
+      "text": "7 : Victory lies with God rather than superior military technology; cf. 2 Chr 20.15; 32.7–8; Isa 31.1; Ps 44.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 20
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-20-8",
+      "type": "verse",
+      "number": 8,
+      "text": "They will collapse and fall, but we shall rise and stand upright. Give victory to the king, O Lord; answer us when we call."
+    }
+  ]
+}

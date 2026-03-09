@@ -1,0 +1,674 @@
+{
+  "document_id": "onechr-6",
+  "title": "onechr 6",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onechr-6-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The sons of Levi: Gershom, Kohath, and Merari."
+    },
+    {
+      "block_id": "oxford-onechr-6-2",
+      "type": "verse",
+      "number": 2,
+      "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel."
+    },
+    {
+      "block_id": "oxford-onechr-6-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar."
+    },
+    {
+      "block_id": "oxford-onechr-6-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Eleazar became the father of Phinehas, Phinehas of Abishua,"
+    },
+    {
+      "block_id": "oxford-onechr-6-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Abishua of Bukki, Bukki of Uzzi,"
+    },
+    {
+      "block_id": "oxford-onechr-6-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Uzzi of Zerahiah, Zerahiah of Meraioth,"
+    },
+    {
+      "block_id": "oxford-onechr-6-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Meraioth of Amariah, Amariah of Ahitub,"
+    },
+    {
+      "block_id": "oxford-onechr-6-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Ahitub of Zadok, Zadok of Ahimaaz,"
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-3",
+      "type": "commentary",
+      "text": "8 : Scholars debate the origin of David’s main priest , with some suggesting that he was originally Canaanite; this genealogy in Chronicles is the first source to explicitly connect him to the line of Aaron and Levi. Twelve generations of priests precede Zadok and twelve generations of priests succeed him, hence the era of Zadok, which coincides with the construction of the Temple, marks the halfway point between the ancestral era and the exile.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-onechr-6-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Ahimaaz of Azariah, Azariah of Johanan,"
+    },
+    {
+      "block_id": "oxford-onechr-6-10",
+      "type": "verse",
+      "number": 10,
+      "text": "and Johanan of Azariah (it was he who served as priest in the house that Solomon built in Jerusalem)."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-4",
+      "type": "commentary",
+      "text": "10 : , cf. 1 Kings 4.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-onechr-6-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Azariah became the father of Amariah, Amariah of Ahitub,"
+    },
+    {
+      "block_id": "oxford-onechr-6-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Ahitub of Zadok, Zadok of Shallum,"
+    },
+    {
+      "block_id": "oxford-onechr-6-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Shallum of Hilkiah, Hilkiah of Azariah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Azariah of Seraiah, Seraiah of Jehozadak;"
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-5",
+      "type": "commentary",
+      "text": "14 : , see 2 Kings 25.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-onechr-6-15",
+      "type": "verse",
+      "number": 15,
+      "text": "and Jehozadak went into exile when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-2",
+      "type": "commentary",
+      "text": "1–15 : A priestly line is traced from Levi in the ancestral period (cf. Gen 46.11; Ex 6.16–25; Num 3.17–20) all the way to Jehozadak (v. 15), who was taken to Babylon in the exile of 586 (2 Kings 25.18–21; 1 Chr 5.41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-onechr-6-16",
+      "type": "verse",
+      "number": 16,
+      "text": "The sons of Levi: Gershom, Kohath, and Merari."
+    },
+    {
+      "block_id": "oxford-onechr-6-17",
+      "type": "verse",
+      "number": 17,
+      "text": "These are the names of the sons of Gershom: Libni and Shimei."
+    },
+    {
+      "block_id": "oxford-onechr-6-18",
+      "type": "verse",
+      "number": 18,
+      "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel."
+    },
+    {
+      "block_id": "oxford-onechr-6-19",
+      "type": "verse",
+      "number": 19,
+      "text": "The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their ancestry."
+    },
+    {
+      "block_id": "oxford-onechr-6-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Joah his son, Iddo his son, Zerah his son, Jeatherai his son."
+    },
+    {
+      "block_id": "oxford-onechr-6-22",
+      "type": "verse",
+      "number": 22,
+      "text": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Elkanah his son, Ebiasaph his son, Assir his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son."
+    },
+    {
+      "block_id": "oxford-onechr-6-25",
+      "type": "verse",
+      "number": 25,
+      "text": "The sons of Elkanah: Amasai and Ahimoth,"
+    },
+    {
+      "block_id": "oxford-onechr-6-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Elkanah his son, Zophai his son, Nahath his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Eliab his son, Jeroham his son, Elkanah his son."
+    },
+    {
+      "block_id": "oxford-onechr-6-28",
+      "type": "verse",
+      "number": 28,
+      "text": "The sons of Samuel: The Levitical towns according to 1 Chr 6:54–80. Cities of refuge are highlighted with a star. The tribal boundaries are shown by a dashed line. Joel his firstborn, the second Abijah."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-7",
+      "type": "commentary",
+      "text": "28 : , cf. 1 Sam 1.1; 8.2.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 28,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-onechr-6-29",
+      "type": "verse",
+      "number": 29,
+      "text": "The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Shimea his son, Haggiah his son, and Asaiah his son."
+    },
+    {
+      "block_id": "oxford-onechr-6-31",
+      "type": "verse",
+      "number": 31,
+      "text": "These are the men whom David put in charge of the service of song in the house of the Lord, after the ark came to rest there."
+    },
+    {
+      "block_id": "oxford-onechr-6-32",
+      "type": "verse",
+      "number": 32,
+      "text": "They ministered with song before the tabernacle of the tent of meeting, until Solomon had built the house of the Lord in Jerusalem; and they performed their service in due order."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-8",
+      "type": "commentary",
+      "text": "31–32 : Referring back to the three levitical clans, the writer summarizes the duties of the Gershonites, Kohathites, and Merarites adopted during the United Monarchy of David and Solomon, the time in which the Temple was built. Three specific descendants—Asaph from Gershon (vv. 39–43), Heman from Kohath (vv. 33–38), and Ethan from Merari (vv. 44–47)—took on official roles in the state religion.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 31,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-onechr-6-33",
+      "type": "verse",
+      "number": 33,
+      "text": "These are the men who served; and their sons were: Of the Kohathites: Heman, the singer, son of Joel, son of Samuel,"
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-9",
+      "type": "commentary",
+      "text": "33 : , “Asaph” (v. 39), and “Ethan” (v. 42) represent three classes or guilds of singers. Because David’s reign is definitive for the levitical singers, the patronyms Asaph, Heman, and Ethan serve as organizing principles for them (2 Chr 5.12; 29.14; 35.15). The same figures appear in Psalm superscriptions: Asaph (Pss 50; 73–83), Heman (Ps 88), Ethan (Ps 89)—and are thus associated with the hymnody of ancient Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-onechr-6-34",
+      "type": "verse",
+      "number": 34,
+      "text": "son of Elkanah, son of Jeroham, son of Eliel, son of Toah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-35",
+      "type": "verse",
+      "number": 35,
+      "text": "son of Zuph, son of Elkanah, son of Mahath, son of Amasai,"
+    },
+    {
+      "block_id": "oxford-onechr-6-36",
+      "type": "verse",
+      "number": 36,
+      "text": "son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-37",
+      "type": "verse",
+      "number": 37,
+      "text": "son of Tahath, son of Assir, son of Ebiasaph, son of Korah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-38",
+      "type": "verse",
+      "number": 38,
+      "text": "son of Izhar, son of Kohath, son of Levi, son of Israel;"
+    },
+    {
+      "block_id": "oxford-onechr-6-39",
+      "type": "verse",
+      "number": 39,
+      "text": "and his brother Asaph, who stood on his right, namely, Asaph son of Berechiah, son of Shimea,"
+    },
+    {
+      "block_id": "oxford-onechr-6-40",
+      "type": "verse",
+      "number": 40,
+      "text": "son of Michael, son of Baaseiah, son of Malchijah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-41",
+      "type": "verse",
+      "number": 41,
+      "text": "son of Ethni, son of Zerah, son of Adaiah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-42",
+      "type": "verse",
+      "number": 42,
+      "text": "son of Ethan, son of Zimmah, son of Shimei,"
+    },
+    {
+      "block_id": "oxford-onechr-6-43",
+      "type": "verse",
+      "number": 43,
+      "text": "son of Jahath, son of Gershom, son of Levi."
+    },
+    {
+      "block_id": "oxford-onechr-6-44",
+      "type": "verse",
+      "number": 44,
+      "text": "On the left were their kindred the sons of Merari: Ethan son of Kishi, son of Abdi, son of Malluch,"
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-10",
+      "type": "commentary",
+      "text": "44 : represents the Merarites (6.18,29; 15.17), but in many other instances Jeduthun serves this role (16.41; 25.1,3,6; 2 Chr 5.12; 29.14; 35.15).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 44,
+      "verse_end": 44
+    },
+    {
+      "block_id": "oxford-onechr-6-45",
+      "type": "verse",
+      "number": 45,
+      "text": "son of Hashabiah, son of Amaziah, son of Hilkiah,"
+    },
+    {
+      "block_id": "oxford-onechr-6-46",
+      "type": "verse",
+      "number": 46,
+      "text": "son of Amzi, son of Bani, son of Shemer,"
+    },
+    {
+      "block_id": "oxford-onechr-6-47",
+      "type": "verse",
+      "number": 47,
+      "text": "son of Mahli, son of Mushi, son of Merari, son of Levi;"
+    },
+    {
+      "block_id": "oxford-onechr-6-48",
+      "type": "verse",
+      "number": 48,
+      "text": "and their kindred the Levites were appointed for all the service of the tabernacle of the house of God."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-6",
+      "type": "commentary",
+      "text": "16–48 : Lineages for three major groups within the Levites—the Gershonites, the Kohathites, and the Merarites (vv. 16–30)—preface lineages of levitical singers from the same three groups (vv. 31–48). Levitical choirs are an intrinsic component of the Chronicler’s system of worship, appearing some thirty times in his history. The genealogies thus are not simply antiquarian, but justify the institutions of postexilic Judah. 22: , one of the descendants of Kohath (v. 16), is the eponymous ancestor of a guild of levitical musicians, the Korahites, who figure prominently in several Psalm superscriptions (Ps 42–49, 84–85, 87–88).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 16,
+      "verse_end": 48
+    },
+    {
+      "block_id": "oxford-onechr-6-49",
+      "type": "verse",
+      "number": 49,
+      "text": "But Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense, doing all the work of the most holy place, to make atonement for Israel, according to all that Moses the servant of God had commanded."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-12",
+      "type": "commentary",
+      "text": "49 : (lit., “holy of holies”) is the exclusive responsibility of the priests (Ex 26.33–34; Num 18.1–5; Ezek 44.15–16; 2 Chr 5.11; 29.7). Other members of the tribe of Levi may serve as Temple staff, but the priests alone officiate at the inner sanctuary. refers to the Day of Atonement ritual of Lev 16. This festival, mentioned only in Priestly sources in the Torah/Pentateuch, probably became especially significant during the time of the Chronicler.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 49,
+      "verse_end": 49
+    },
+    {
+      "block_id": "oxford-onechr-6-50",
+      "type": "verse",
+      "number": 50,
+      "text": "These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-51",
+      "type": "verse",
+      "number": 51,
+      "text": "Bukki his son, Uzzi his son, Zerahiah his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-52",
+      "type": "verse",
+      "number": 52,
+      "text": "Meraioth his son, Amariah his son, Ahitub his son,"
+    },
+    {
+      "block_id": "oxford-onechr-6-53",
+      "type": "verse",
+      "number": 53,
+      "text": "Zadok his son, Ahimaaz his son."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-11",
+      "type": "commentary",
+      "text": "49–53 : The Aaronic priests officiate within the sanctuary and make offerings (23.30–32; Ex 38–42; 30.1–10; Lev 8.1–9.24; 18.8–20; Ezek 44.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 49,
+      "verse_end": 53
+    },
+    {
+      "block_id": "oxford-onechr-6-54",
+      "type": "verse",
+      "number": 54,
+      "text": "These are their dwelling places according to their settlements within their borders: to the sons of Aaron of the families of Kohathites—for the lot fell to them first—"
+    },
+    {
+      "block_id": "oxford-onechr-6-55",
+      "type": "verse",
+      "number": 55,
+      "text": "to them they gave Hebron in the land of Judah and its surrounding pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-56",
+      "type": "verse",
+      "number": 56,
+      "text": "but the fields of the city and its villages they gave to Caleb son of Jephunneh."
+    },
+    {
+      "block_id": "oxford-onechr-6-57",
+      "type": "verse",
+      "number": 57,
+      "text": "To the sons of Aaron they gave the cities of refuge: Hebron, Libnah with its pasture lands, Jattir, Eshtemoa with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-15",
+      "type": "commentary",
+      "text": "57 : The creation of or asylum was demanded in Deuteronomic (Deut 4.41–43; 19.1–13) and Priestly law (Num 35.6–15,25–28,32). Most, if not all, of the towns designated for asylum (Josh 20.7–8) doubled as levitical settlements.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 57,
+      "verse_end": 57
+    },
+    {
+      "block_id": "oxford-onechr-6-58",
+      "type": "verse",
+      "number": 58,
+      "text": "Hilen with its pasture lands, Debir with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-59",
+      "type": "verse",
+      "number": 59,
+      "text": "Ashan with its pasture lands, and Beth‐shemesh with its pasture lands."
+    },
+    {
+      "block_id": "oxford-onechr-6-60",
+      "type": "verse",
+      "number": 60,
+      "text": "From the tribe of Benjamin, Geba with its pasture lands, Alemeth with its pasture lands, and Anathoth with its pasture lands. All their towns throughout their families were thirteen."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-14",
+      "type": "commentary",
+      "text": "55–60 : The location of Aaronide settlements is limited to the traditional domains of three tribes: Judah, Simeon, and Benjamin. On , see 5.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 55,
+      "verse_end": 60
+    },
+    {
+      "block_id": "oxford-onechr-6-61",
+      "type": "verse",
+      "number": 61,
+      "text": "To the rest of the Kohathites were given by lot out of the family of the tribe, out of the half‐tribe, the half of Manasseh, ten towns."
+    },
+    {
+      "block_id": "oxford-onechr-6-62",
+      "type": "verse",
+      "number": 62,
+      "text": "To the Gershomites according to their families were allotted thirteen towns out of the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan."
+    },
+    {
+      "block_id": "oxford-onechr-6-63",
+      "type": "verse",
+      "number": 63,
+      "text": "To the Merarites according to their families were allotted twelve towns out of the tribes of Reuben, Gad, and Zebulun."
+    },
+    {
+      "block_id": "oxford-onechr-6-64",
+      "type": "verse",
+      "number": 64,
+      "text": "So the people of Israel gave the Levites the towns with their pasture lands."
+    },
+    {
+      "block_id": "oxford-onechr-6-65",
+      "type": "verse",
+      "number": 65,
+      "text": "They also gave them by lot out of the tribes of Judah, Simeon, and Benjamin these towns that are mentioned by name."
+    },
+    {
+      "block_id": "oxford-onechr-6-66",
+      "type": "verse",
+      "number": 66,
+      "text": "And some of the families of the sons of Kohath had towns of their territory out of the tribe of Ephraim."
+    },
+    {
+      "block_id": "oxford-onechr-6-67",
+      "type": "verse",
+      "number": 67,
+      "text": "They were given the cities of refuge: Shechem with its pasture lands in the hill country of Ephraim, Gezer with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-68",
+      "type": "verse",
+      "number": 68,
+      "text": "Jokmeam with its pasture lands, Beth‐horon with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-69",
+      "type": "verse",
+      "number": 69,
+      "text": "Aijalon with its pasture lands, Gathrimmon with its pasture lands;"
+    },
+    {
+      "block_id": "oxford-onechr-6-70",
+      "type": "verse",
+      "number": 70,
+      "text": "and out of the half‐tribe of Manasseh, Aner with its pasture lands, and Bileam with its pasture lands, for the rest of the families of the Kohathites."
+    },
+    {
+      "block_id": "oxford-onechr-6-71",
+      "type": "verse",
+      "number": 71,
+      "text": "To the Gershomites: out of the halftribe of Manasseh: Golan in Bashan with its pasture lands and Ashtaroth with its pasture lands;"
+    },
+    {
+      "block_id": "oxford-onechr-6-72",
+      "type": "verse",
+      "number": 72,
+      "text": "and out of the tribe of Issachar: Kedesh with its pasture lands, Daberath with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-73",
+      "type": "verse",
+      "number": 73,
+      "text": "Ramoth with its pasture lands, and Anem with its pasture lands;"
+    },
+    {
+      "block_id": "oxford-onechr-6-74",
+      "type": "verse",
+      "number": 74,
+      "text": "out of the tribe of Asher: Mashal with its pasture lands, Abdon with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-75",
+      "type": "verse",
+      "number": 75,
+      "text": "Hukok with its pasture lands, and Rehob with its pasture lands;"
+    },
+    {
+      "block_id": "oxford-onechr-6-76",
+      "type": "verse",
+      "number": 76,
+      "text": "and out of the tribe of Naphtali: Kedesh in Galilee with its pasture lands, Hammon with its pasture lands, and Kiriathaim with its pasture lands."
+    },
+    {
+      "block_id": "oxford-onechr-6-77",
+      "type": "verse",
+      "number": 77,
+      "text": "To the rest of the Merarites out of the tribe of Zebulun: Rimmono with its pasture lands, Tabor with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-78",
+      "type": "verse",
+      "number": 78,
+      "text": "and across the Jordan from Jericho, on the east side of the Jordan, out of the tribe of Reuben: Bezer in the steppe with its pasture lands, Jahzah with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-79",
+      "type": "verse",
+      "number": 79,
+      "text": "Kedemoth with its pasture lands, and Mephaath with its pasture lands;"
+    },
+    {
+      "block_id": "oxford-onechr-6-80",
+      "type": "verse",
+      "number": 80,
+      "text": "and out of the tribe of Gad: Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,"
+    },
+    {
+      "block_id": "oxford-onechr-6-81",
+      "type": "verse",
+      "number": 81,
+      "text": "Heshbon with its pasture lands, and Jazer with its pasture lands."
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-1",
+      "type": "commentary",
+      "text": "6.1–81: The descendants of Levi take center stage in the genealogies of Chronicles. For the Chronicler, the Levites are second in importance only to the Judeans, so their genealogy is especially long and detailed. As with other tribes, attention is paid to issues of identity and location: who the Levites are (vv. 1–53) and where they live (vv. 54–81).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 1,
+      "verse_end": 81
+    },
+    {
+      "block_id": "oxford-onechr-6-h1kj-13",
+      "type": "commentary",
+      "text": "54–81 : The list of levitical towns is drawn from a shorter text than the current version of Josh 21.3–42,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onechr",
+        "chapter": 6
+      },
+      "verse_start": 54,
+      "verse_end": 81
+    }
+  ]
+}

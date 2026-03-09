@@ -1,0 +1,98 @@
+{
+  "document_id": "jer-45",
+  "title": "Jeremiah 45",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-45-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The word that the prophet Jeremiah spoke to Baruch son of Neriah, when he wrote these words in a scroll at the dictation of Jeremiah, in the fourth year of King Jehoiakim son of Josiah of Judah:"
+    },
+    {
+      "block_id": "oxford-jer-45-h1kj-4",
+      "type": "commentary",
+      "text": "1 :",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-jer-45-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Thus says the Lord, the God of Israel, to you, O Baruch:"
+    },
+    {
+      "block_id": "oxford-jer-45-3",
+      "type": "verse",
+      "number": 3,
+      "text": "You said, “Woe is me! The Lord has added sorrow to my pain; I am weary with my groaning, and I find no rest.”"
+    },
+    {
+      "block_id": "oxford-jer-45-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Thus you shall say to him, “Thus says the Lord: I am going to break down what I have built, and pluck up what I have planted—that is, the whole land."
+    },
+    {
+      "block_id": "oxford-jer-45-5",
+      "type": "verse",
+      "number": 5,
+      "text": "And you, do you seek great things for yourself? Do not seek them; for I am going to bring disaster upon all flesh, says the Lord; but I will give you your life as a prize of war in every place to which you may go.”"
+    },
+    {
+      "block_id": "oxford-jer-45-h1kj-1",
+      "type": "commentary",
+      "text": "26:1–52:34: Overtures of hope beyond shattered worlds. The second half of the book narrates the events of Judah's final years. At important intervals, however, it punctuates the literary performance with strategies for survival. Readers can discern these overtures of hope in Jeremiah's survival (ch 26), in his letter to the Judean exiles in Babylon (ch 29), and in the endurance of the prophetic scroll (ch 36). They are also evident in individuals who are receptive to Jeremiah's message and come to his aid (e.g., Ahikam, Ebed-melech, and Baruch). They emerge most visibly in the Book of Comfort (chs 30–31, 33) and in the oracles against the nations (chs 46–51), which conclude with a lengthy diatribe against Judah's archenemy Babylon (chs 50–51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jer-45-h1kj-2",
+      "type": "commentary",
+      "text": "36.1–45.5: The Baruch narrative. In these chapters Jeremiah's scribe Baruch plays a dominant role in the opening and closing chapters. It is debated whether Baruch actually penned the narrative or simply functions as a main character. The intention of the narrative is also disputed. Some suggest it reflects historical interests: to recount the final years of Judah, especially for the exilic community. Others propose that the narrative highlights Jeremiah's (innocent) suffering, especially as a way to justify the nation's downfall. Still others read the narrative as a story of the word of God, its rejection and eventual triumph. Although these chapters are more coherent than much of the book, they still resist singularity and give voice to competing and converging interests and ideologies.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jer-45-h1kj-3",
+      "type": "commentary",
+      "text": "45.1–5: Words of promise to Baruch.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jer-45-h1kj-5",
+      "type": "commentary",
+      "text": "5 : ,",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 45
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    }
+  ]
+}

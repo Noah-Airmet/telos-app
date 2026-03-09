@@ -1,0 +1,331 @@
+{
+  "document_id": "isa-43",
+  "title": "Isaiah 43",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-isa-43-heading-44",
+      "type": "heading",
+      "text": "44"
+    },
+    {
+      "block_id": "oxford-isa-43-2",
+      "type": "verse",
+      "number": 2,
+      "text": "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-5",
+      "type": "commentary",
+      "text": "2 : The passage evokes the Exodus and wilderness tradition as Israel passes through waters (see, e.g., Ex 14–15) as it returns from exile to its homeland. , cf. Ps 66.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-isa-43-3",
+      "type": "verse",
+      "number": 3,
+      "text": "For I am the Lord your God, the Holy One of Israel, your Savior. I give Egypt as your ransom, Ethiopia and Seba in exchange for you."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-6",
+      "type": "commentary",
+      "text": "3 : , and (or Sheba, a kingdom in southwestern Arabia), all of which Cyrus was expected to conquer, serve as a ransom for the redemption of Israel from its exile. The return of the exiles from throughout the world is a frequent theme in Isaiah (11.15–16; 27.12–13; 35.1–10; 49.22; 60.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-isa-43-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Because you are precious in my sight, and honored, and I love you, I give people in return for you, nations in exchange for your life."
+    },
+    {
+      "block_id": "oxford-isa-43-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Do not fear, for I am with you; I will bring your offspring from the east, and from the west I will gather you;"
+    },
+    {
+      "block_id": "oxford-isa-43-6",
+      "type": "verse",
+      "number": 6,
+      "text": "I will say to the north, “Give them up,” and to the south, “Do not withhold; bring my sons from far away and my daughters from the end of the earth—"
+    },
+    {
+      "block_id": "oxford-isa-43-7",
+      "type": "verse",
+      "number": 7,
+      "text": "everyone who is called by my name, whom I created for my glory, whom I formed and made.”"
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-4",
+      "type": "commentary",
+      "text": "43.1–7 : The reassurance formula (cf. 7.4; 37.6; 41.10,14) emphasizes that Israel's punishment is now over and redemption is at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 1,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-isa-43-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Bring forth the people who are blind, yet have eyes, who are deaf, yet have ears!"
+    },
+    {
+      "block_id": "oxford-isa-43-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Let all the nations gather together, and let the peoples assemble. Who among them declared this, and foretold to us the former things? Let them bring their witnesses to justify them, and let them hear and say, “It is true.”"
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-9",
+      "type": "commentary",
+      "text": "9 : , the statements of the 's plans found in the Isaian tradition. Only the can carry out Israel's redemption; no idols can possibly manifest such planning and power.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-isa-43-10",
+      "type": "verse",
+      "number": 10,
+      "text": "You are my witnesses, says the Lord, and my servant whom I have chosen, so that you may know and believe me and understand that I am he. Before me no god was formed, nor shall there be any after me."
+    },
+    {
+      "block_id": "oxford-isa-43-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I, I am the Lord, and besides me there is no savior."
+    },
+    {
+      "block_id": "oxford-isa-43-12",
+      "type": "verse",
+      "number": 12,
+      "text": "I declared and saved and proclaimed, when there was no strange god among you; and you are my witnesses, says the Lord."
+    },
+    {
+      "block_id": "oxford-isa-43-13",
+      "type": "verse",
+      "number": 13,
+      "text": "I am God, and also henceforth I am He; there is no one who can deliver from my hand; I work and who can hinder it?"
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-8",
+      "type": "commentary",
+      "text": "43.8–13 : The calls both blind and deaf Israel (6.9–10; 42.19–20; cf. 42.7) and the nations to witness to the 's claims.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 8,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-isa-43-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Thus says the Lord, your Redeemer, the Holy One of Israel: For your sake I will send to Babylon and break down all the bars, and the shouting of the Chaldeans will be turned to lamentation."
+    },
+    {
+      "block_id": "oxford-isa-43-15",
+      "type": "verse",
+      "number": 15,
+      "text": "I am the Lord, your Holy One, the Creator of Israel, your King."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-10",
+      "type": "commentary",
+      "text": "14–15 : and are frequent designations for the in this section of Isaiah (41.14; 47.4; 48.17;49.7; 54.5). , a term for the Neo-Babylonian Empire of Nebuchadnezzar.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-isa-43-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Thus says the Lord, who makes a way in the sea, a path in the mighty waters,"
+    },
+    {
+      "block_id": "oxford-isa-43-17",
+      "type": "verse",
+      "number": 17,
+      "text": "who brings out chariot and horse, army and warrior; they lie down, they cannot rise, they are extinguished, quenched like a wick:"
+    },
+    {
+      "block_id": "oxford-isa-43-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Do not remember the former things, or consider the things of old."
+    },
+    {
+      "block_id": "oxford-isa-43-19",
+      "type": "verse",
+      "number": 19,
+      "text": "I am about to do a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert."
+    },
+    {
+      "block_id": "oxford-isa-43-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The wild animals will honor me, the jackals and the ostriches; for I give water in the wilderness, rivers in the desert, to give drink to my chosen people,"
+    },
+    {
+      "block_id": "oxford-isa-43-21",
+      "type": "verse",
+      "number": 21,
+      "text": "the people whom I formed for myself so that they might declare my praise."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-11",
+      "type": "commentary",
+      "text": "16–21 : The is identified as the one who led Israel through the sea at the time of the Exodus (Ex 14–15); the of v. 18 provide the foundation for understanding the , i.e., the exodus from Babylon. Once again, the provides a highway in the wilderness for the people to return home (11.15–16; 27.12–13; 35.1–10; 40.3–5). recalls the wilderness tradition (Ex 15.22–27; 17.17; Num 20.2–13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 16,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-isa-43-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Yet you did not call upon me, O Jacob; but you have been weary of me, O Israel!"
+    },
+    {
+      "block_id": "oxford-isa-43-23",
+      "type": "verse",
+      "number": 23,
+      "text": "You have not brought me your sheep for burnt offerings, or honored me with your sacrifices. I have not burdened you with offerings, or wearied you with frankincense."
+    },
+    {
+      "block_id": "oxford-isa-43-24",
+      "type": "verse",
+      "number": 24,
+      "text": "You have not bought me sweet cane with money, or satisfied me with the fat of your sacrifices. But you have burdened me with your sins; you have wearied me with your iniquities."
+    },
+    {
+      "block_id": "oxford-isa-43-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I, I am He who blots out your transgressions for my own sake, and I will not remember your sins."
+    },
+    {
+      "block_id": "oxford-isa-43-26",
+      "type": "verse",
+      "number": 26,
+      "text": "Accuse me, let us go to trial; set forth your case, so that you may be proved right."
+    },
+    {
+      "block_id": "oxford-isa-43-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Your first ancestor sinned, and your interpreters transgressed against me."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-13",
+      "type": "commentary",
+      "text": "27 : , Jacob (cf. Hos 12.2–4). , translation and meaning are uncertain; perhaps it is a denunciation of optimistic prophets during the time of the monarchy who led the people astray.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-isa-43-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Therefore I profaned the princes of the sanctuary, I delivered Jacob to utter destruction, and Israel to reviling."
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-1",
+      "type": "commentary",
+      "text": "34.1–66.24: Concerning the realization of the Lord's plans for revealing worldwide sovereignty from Zion. Whereas chs 1–33 anticipate the revelation of the 's worldwide sovereignty at Zion, the second half of the book in chs 34–66 presupposes that the time is at hand.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-2",
+      "type": "commentary",
+      "text": "40.1–54.17: Prophetic instruction that the Lord reveals divine sovereignty at Zion. Chapter 40 begins the portion of the book (chs 40–55) attributed to an anonymous prophet of the latter years of the Babylonian exile when King Cyrus of Persia conquered Babylonia and decreed that Jews could return to their homeland (ca. 545–538 ). Although these chapters are clearly written long after the time of the eighth-century prophet Isaiah, they nevertheless share his basic theological perspective rooted in the Zion/Davidic tradition, i.e., that the protects Zion, although the Davidic covenant is now applied to the people rather than to the Davidic king (55.3). These chapters therefore function within the book to describe the realization of the 's plans to restore Zion as articulated throughout chs 1–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-3",
+      "type": "commentary",
+      "text": "42.14–44.23: The Lord is the redeemer of Israel. The third contention in the series is that the redeems Israel. Insofar as Israel had suffered punishment and exile at the hands of the Assyrians and the Babylonians, acting as agents of the , such a contention is designed to answer claims that the is an enemy to Israel or that the is powerless to redeem Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 1,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-7",
+      "type": "commentary",
+      "text": "43.8–44.23: The setting returns to the courtroom as the substantiates the claims to redeem Israel (see 41.1–5,21–29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 8,
+      "verse_end": 28
+    },
+    {
+      "block_id": "oxford-isa-43-h1kj-12",
+      "type": "commentary",
+      "text": "22–28 : The justifies past punishment of Israel, charging that the people did not honor the appropriately with sacrifices, but sinned instead. Nevertheless, the will not remember those sins now that the punishment is over.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "isa",
+        "chapter": 43
+      },
+      "verse_start": 22,
+      "verse_end": 28
+    }
+  ]
+}

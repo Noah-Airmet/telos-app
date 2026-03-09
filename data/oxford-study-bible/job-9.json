@@ -1,0 +1,374 @@
+{
+  "document_id": "job-9",
+  "title": "Job 9",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-job-9-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Then Job answered:"
+    },
+    {
+      "block_id": "oxford-job-9-2",
+      "type": "verse",
+      "number": 2,
+      "text": "“Indeed I know that this is so; but how can a mortal be just before God?"
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-4",
+      "type": "commentary",
+      "text": "9.2 : Job is not saying that no one can actually be in the sight of God, but complaining that because God has such power and wisdom he can defeat any human’s attempt to be declared righteous or “win his case” (REB) against God; God will not give humans the satisfaction of hearing their innocence affirmed.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-job-9-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If one wished to contend with him, one could not answer him once in a thousand."
+    },
+    {
+      "block_id": "oxford-job-9-4",
+      "type": "verse",
+      "number": 4,
+      "text": "He is wise in heart, and mighty in strength —who has resisted him, and succeeded?—"
+    },
+    {
+      "block_id": "oxford-job-9-5",
+      "type": "verse",
+      "number": 5,
+      "text": "he who removes mountains, and they do not know it, when he overturns them in his anger;"
+    },
+    {
+      "block_id": "oxford-job-9-6",
+      "type": "verse",
+      "number": 6,
+      "text": "who shakes the earth out of its place, and its pillars tremble;"
+    },
+    {
+      "block_id": "oxford-job-9-7",
+      "type": "verse",
+      "number": 7,
+      "text": "who commands the sun, and it does not rise; who seals up the stars;"
+    },
+    {
+      "block_id": "oxford-job-9-8",
+      "type": "verse",
+      "number": 8,
+      "text": "who alone stretched out the heavens and trampled the waves of the Sea;"
+    },
+    {
+      "block_id": "oxford-job-9-9",
+      "type": "verse",
+      "number": 9,
+      "text": "who made the Bear and Orion, the Pleiades and the chambers of the south;"
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-6",
+      "type": "commentary",
+      "text": "9 : , in the translation the familiar names of the star groups in Greek tradition are substituted for the Heb terms; cf. 38.31–33; Am 5.8.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-job-9-10",
+      "type": "verse",
+      "number": 10,
+      "text": "who does great things beyond understanding, and marvelous things without number."
+    },
+    {
+      "block_id": "oxford-job-9-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Look, he passes by me, and I do not see him; he moves on, but I do not perceive him."
+    },
+    {
+      "block_id": "oxford-job-9-12",
+      "type": "verse",
+      "number": 12,
+      "text": "He snatches away; who can stop him? Who will say to him, ‘What are you doing?’"
+    },
+    {
+      "block_id": "oxford-job-9-13",
+      "type": "verse",
+      "number": 13,
+      "text": "“God will not turn back his anger; the helpers of Rahab bowed beneath him."
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-5",
+      "type": "commentary",
+      "text": "5–13 : Job focuses upon the more negative aspects of God’s power (vv. 5–7) not in order to picture him as a God of chaos but to emphasize his freedom to act, whether for good or ill. His freedom makes him incomprehensible (v. 10), unaccountable (v. 12), and uncontrollable (v. 13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 5,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-7",
+      "type": "commentary",
+      "text": "13 : , the legendary sea‐monster of chaos, similar to or identical with Leviathan, with whom God did battle at creation (see also 26.12; Ps 89.10; Isa 51.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-job-9-14",
+      "type": "verse",
+      "number": 14,
+      "text": "How then can I answer him, choosing my words with him?"
+    },
+    {
+      "block_id": "oxford-job-9-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Though I am innocent, I cannot answer him; I must appeal for mercy to my accuser."
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-9",
+      "type": "commentary",
+      "text": "15 : Job is not going to for that might sound like an admission of guilt. What he wants is vindication, not relief from his sufferings.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-job-9-16",
+      "type": "verse",
+      "number": 16,
+      "text": "If I summoned him and he answered me, I do not believe that he would listen to my voice."
+    },
+    {
+      "block_id": "oxford-job-9-17",
+      "type": "verse",
+      "number": 17,
+      "text": "For he crushes me with a tempest, and multiplies my wounds without cause;"
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-10",
+      "type": "commentary",
+      "text": "17 : , better “storm.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-job-9-18",
+      "type": "verse",
+      "number": 18,
+      "text": "he will not let me get my breath, but fills me with bitterness."
+    },
+    {
+      "block_id": "oxford-job-9-19",
+      "type": "verse",
+      "number": 19,
+      "text": "If it is a contest of strength, he is the strong one! If it is a matter of justice, who can summon him?"
+    },
+    {
+      "block_id": "oxford-job-9-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Though I am innocent, my own mouth would condemn me; though I am blameless, he would prove me perverse."
+    },
+    {
+      "block_id": "oxford-job-9-21",
+      "type": "verse",
+      "number": 21,
+      "text": "I am blameless; I do not know myself; I loathe my life."
+    },
+    {
+      "block_id": "oxford-job-9-22",
+      "type": "verse",
+      "number": 22,
+      "text": "It is all one; therefore I say, he destroys both the blameless and the wicked."
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-11",
+      "type": "commentary",
+      "text": "22 : God because he is determined upon hostility to humans.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-job-9-23",
+      "type": "verse",
+      "number": 23,
+      "text": "When disaster brings sudden death, he mocks at the calamity of the innocent."
+    },
+    {
+      "block_id": "oxford-job-9-24",
+      "type": "verse",
+      "number": 24,
+      "text": "The earth is given into the hand of the wicked; he covers the eyes of its judges— if it is not he, who then is it?"
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-8",
+      "type": "commentary",
+      "text": "14–24 : Job believes that even if he could bring God to court he would not get vindication.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 14,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-job-9-25",
+      "type": "verse",
+      "number": 25,
+      "text": "“My days are swifter than a runner; they flee away, they see no good."
+    },
+    {
+      "block_id": "oxford-job-9-26",
+      "type": "verse",
+      "number": 26,
+      "text": "They go by like skiffs of reed, like an eagle swooping on the prey."
+    },
+    {
+      "block_id": "oxford-job-9-27",
+      "type": "verse",
+      "number": 27,
+      "text": "If I say, ‘I will forget my complaint; I will put off my sad countenance and be of good cheer,’"
+    },
+    {
+      "block_id": "oxford-job-9-28",
+      "type": "verse",
+      "number": 28,
+      "text": "I become afraid of all my suffering, for I know you will not hold me innocent."
+    },
+    {
+      "block_id": "oxford-job-9-29",
+      "type": "verse",
+      "number": 29,
+      "text": "I shall be condemned; why then do I labor in vain?"
+    },
+    {
+      "block_id": "oxford-job-9-30",
+      "type": "verse",
+      "number": 30,
+      "text": "If I wash myself with soap and cleanse my hands with lye,"
+    },
+    {
+      "block_id": "oxford-job-9-31",
+      "type": "verse",
+      "number": 31,
+      "text": "yet you will plunge me into filth, and my own clothes will abhor me."
+    },
+    {
+      "block_id": "oxford-job-9-32",
+      "type": "verse",
+      "number": 32,
+      "text": "For he is not a mortal, as I am, that I might answer him, that we should come to trial together."
+    },
+    {
+      "block_id": "oxford-job-9-33",
+      "type": "verse",
+      "number": 33,
+      "text": "There is no umpire between us, who might lay his hand on us both."
+    },
+    {
+      "block_id": "oxford-job-9-34",
+      "type": "verse",
+      "number": 34,
+      "text": "If he would take his rod away from me, and not let dread of him terrify me,"
+    },
+    {
+      "block_id": "oxford-job-9-35",
+      "type": "verse",
+      "number": 35,
+      "text": "then I would speak without fear of him, for I know I am not what I am thought to be."
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-1",
+      "type": "commentary",
+      "text": "3.1–42.6: The dialogues.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–11.20: First cycle of speeches.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-3",
+      "type": "commentary",
+      "text": "9.1–10.22: Job’s third speech. Here is Job’s strongest statement so far of his feeling of powerlessness (e.g. 9.3–4,14–20,30–31), his sense of being trapped (9.15,20,27–31), and his belief that God’s apparent concern for him throughout his life has not really been for his benefit, but in order to fasten guilt upon him (10.13–14). Novel in this speech is the question of how Job is to be vindicated, that is, shown publicly to be in the right after all. It is a hopeless task to make God declare him innocent (9.2), which eventually throws Job into despair (10.15–16). But it has become an ambition that will only grow in attraction for him as the book progresses (cf. 13.13–23; 16.18–21; 19.23–27; 23.2–14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 1,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-12",
+      "type": "commentary",
+      "text": "25–35 : The monologue has turned into an address to God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 25,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-job-9-h1kj-13",
+      "type": "commentary",
+      "text": "32–35 : A legal confrontation with God is doomed because the two parties cannot be on the same level (v. 32). Job needs an or arbitrator, one who would upon both parties as a gesture of reconciliation. Since there is no such umpire, Job will have to conduct his lawsuit himself.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "job",
+        "chapter": 9
+      },
+      "verse_start": 32,
+      "verse_end": 35
+    }
+  ]
+}

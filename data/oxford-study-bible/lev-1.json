@@ -1,0 +1,242 @@
+{
+  "document_id": "lev-1",
+  "title": "Leviticus 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-lev-1-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord summoned Moses and spoke to him from the tent of meeting, saying:"
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-5",
+      "type": "commentary",
+      "text": "1 : , see Ex 26; 29.42–46; 40.34–38. The tent of meeting is situated in the middle of the Israelite wilderness camp (Num 2.2) and is the divine dwelling place; it is the Priestly author’s precursor of the Jerusalem Temple.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-lev-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Speak to the people of Israel and say to them: When any of you bring an offering of livestock to the Lord, you shall bring your offering from the herd or from the flock."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-6",
+      "type": "commentary",
+      "text": "2 : This is a general introduction to the burnt offering here and the well‐being offering in ch 3. It clarifies that all animal food gift offerings must be from domesticated animals (cf. 17.1–16n.). Omission of birds here suggests that vv. 14–17 are a secondary addition. , lit., “he shall bring his offering.” Throughout this chapter, the offerer in Heb is masculine singular.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-lev-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "If the offering is a burnt offering from the herd, you shall offer a male without blemish; you shall bring it to the entrance of the tent of meeting, for acceptance in your behalf before the Lord."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-7",
+      "type": "commentary",
+      "text": "3 : , cf. 22.21–30; Mal 1.6–14. Burnt offerings are impromptu sacrifices of religious devotion (cf. 22.18–20). They are also regularly included in statutory religious observances (Ex 29.38–42; Num 28–29). Because of the prominence of burnt offerings in sacrificial worship, the main altar in the tabernacle courtyard is called the “altar of burnt offering” (Ex 38.1; 40.6). is the courtyard area between the altar of burnt offering and the tent (Ex 29.4; 30.17–21); see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-lev-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "You shall lay your hand on the head of the burnt offering, and it shall be acceptable in your behalf as atonement for you."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-8",
+      "type": "commentary",
+      "text": "4 : , one hand only, to designate ownership of the animal prior to sacrifice. , better, “and it will be accepted” (cf. 19.5–8). The language of acceptance in vv. 3–4 underscores the sacrifice as a gift eliciting divine favor (cf. Mal 1.6–14). , better, “as a ransom for him”; see 17.11n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-lev-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The bull shall be slaughtered before the Lord; and Aaron’s sons the priests shall offer the blood, dashing the blood against all sides of the altar that is at the entrance of the tent of meeting."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-9",
+      "type": "commentary",
+      "text": "5 : , lit., “he [the offerer] shall slaughter the bull” (contrast Ezek 44.11). Dashing blood on the altar may serve to ransom the life of the offerer who kills the animal (cf. 17.4,11; see 17.11n.); it is also found in the cases of the well‐being offering (3.2,8,13), the reparation offering (7.2), and the offering of firstborn animals (Num 18.17); cf. Ex 24.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-lev-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "The burnt offering shall be flayed and cut up into its parts."
+    },
+    {
+      "block_id": "oxford-lev-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The sons of the priest Aaron shall put fire on the altar and arrange wood on the fire."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-10",
+      "type": "commentary",
+      "text": "7 : , though referring immediately to the male children of Aaron; these include all subsequent priests from Aaron’s lineage (cf. v. 8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-lev-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Aaron’s sons the priests shall arrange the parts, with the head and the suet, on the wood that is on the fire on the altar;"
+    },
+    {
+      "block_id": "oxford-lev-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "but its entrails and its legs shall be washed with water. Then the priest shall turn the whole into smoke on the altar as a burnt offering, an offering by fire of pleasing odor to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-11",
+      "type": "commentary",
+      "text": "9 : , emphasizing that God enjoys the entire sacrifice and concretizing the image of the sacrifice’s (cf. Gen 8.21). Though the Priestly authors view the earthly tabernacle as God’s dwelling place, the imagery of smoke rising from the altar suggests that the deity is in the heavens. Burning sacrificial portions is a ritualized manner of effecting divine consumption.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-lev-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "If your gift for a burnt offering is from the flock, from the sheep or goats, your offering shall be a male without blemish."
+    },
+    {
+      "block_id": "oxford-lev-1-11",
+      "type": "verse",
+      "number": 11,
+      "text": "It shall be slaughtered on the north side of the altar before the Lord, and Aaron’s sons the priests shall dash its blood against all sides of the altar."
+    },
+    {
+      "block_id": "oxford-lev-1-12",
+      "type": "verse",
+      "number": 12,
+      "text": "It shall be cut up into its parts, with its head and its suet, and the priest shall arrange them on the wood that is on the fire on the altar;"
+    },
+    {
+      "block_id": "oxford-lev-1-13",
+      "type": "verse",
+      "number": 13,
+      "text": "but the entrails and the legs shall be washed with water. Then the priest shall offer the whole and turn it into smoke on the altar; it is a burnt offering, an offering by fire of pleasing odor to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-1-14",
+      "type": "verse",
+      "number": 14,
+      "text": "If your offering to the Lord is a burnt offering of birds, you shall choose your offering from turtledoves or pigeons."
+    },
+    {
+      "block_id": "oxford-lev-1-15",
+      "type": "verse",
+      "number": 15,
+      "text": "The priest shall bring it to the altar and wring off its head, and turn it into smoke on the altar; and its blood shall be drained out against the side of the altar."
+    },
+    {
+      "block_id": "oxford-lev-1-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He shall remove its crop with its contents and throw it at the east side of the altar, in the place for ashes."
+    },
+    {
+      "block_id": "oxford-lev-1-17",
+      "type": "verse",
+      "number": 17,
+      "text": "He shall tear it open by its wings without severing it. Then the priest shall turn it into smoke on the altar, on the wood that is on the fire; it is a burnt offering, an offering by fire of pleasing odor to the Lord."
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–7.38: Sacrificial prescriptions. This section comprises two parts: 1.1–6.7 and 6.8–7.38. In Priestly thought, sacrifice, a ritualized meal for the deity at times shared with its offerers, is the basic mode of interaction with God. To be accepted, sacrifices must be performed according to the divine instructions.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-2",
+      "type": "commentary",
+      "text": "1.1–6.7: Basic sacrificial instructions. These laws address basic procedures for presenting food gift offerings (1.1–3.17) and purification and reparation offerings (4.1–6.7). These sacrifices can also be categorized according to the quality of each offering’s sanctity. The grain, purification, and reparation offerings are each “most holy,” a designation that reserves their edible portions for the priests (cf. 6.17; Num 18.8–10). Well‐being offerings, portions of which are consumed by lay Israelites, are less holy sacrifices. Because burnt offerings are not eaten by humans, their holiness status is undesignated. The offerings in Leviticus are all based on a model of sacrifice common to the ancient Near East: they are enticements that rouse the deity’s good will or mitigate potential threats. Yet the Priestly authors generally avoid acknowledging that sacrifices might benefit their offerers. They instead present sacrifices simply as requirements for God’s habitation on earth that accord with the deity’s preferences and expectations.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-3",
+      "type": "commentary",
+      "text": "1.1–3.17: Instructions for gift offerings of food. The burnt offering, grain offering, and well‐being offerings (thanksgiving, votive, or freewill; cf. 7.11–18) presented by Israelite laypersons are impromptu sacrifices. Each is described as “an offering by fire” (e.g., 1.9; 2.2; 3.3), better translated “a gift offering (of food)” (cf. 3.11,16). Presentation of gift offerings provides laypersons a specific means of expressing devotion to the deity and of favorably disposing God toward the offerer. As gifts, sacrifices become personal possessions of the deity. Further, God is understood to consume the sacrificial portions burned on the altar (cf. 21.6,8), though this view is partially sublimated in Priestly theology.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-lev-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.1–17: The burnt offering. The burnt offering (Heb “˓olah”) is completely consumed in fire on the altar. Its name literally means “that which goes up” (in smoke from the altar; cf. 1.9). Three different types of animals for burnt offerings are listed (in descending order of value): a bull (vv. 3–9), a male sheep or goat (vv. 10–13), and turtledoves or pigeons (vv. 14–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "lev",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 17
+    }
+  ]
+}

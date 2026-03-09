@@ -1,0 +1,139 @@
+{
+  "document_id": "ps-28",
+  "title": "Psalms 28",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-28-heading-psalm-29",
+      "type": "heading",
+      "text": "Psalm 29"
+    },
+    {
+      "block_id": "oxford-ps-28-1",
+      "type": "verse",
+      "number": 1,
+      "text": "To you, O Lord, I call; my rock, do not refuse to hear me, for if you are silent to me, I shall be like those who go down to the Pit."
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 28: Plea for vindication by one falsely accused. An individual petition of an innocent person against false accusers (vv. 1–5), combined with a thanksgiving (vv. 6–7), and prayer for the people (vv. 8–9). The psalmist prays that God not be silent (v. 1) and allow false accusers to win the day.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-2",
+      "type": "commentary",
+      "text": "1 : , a synonym for Sheol, the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-28-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Hear the voice of my supplication, as I cry to you for help, as I lift up my hands toward your most holy sanctuary."
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-3",
+      "type": "commentary",
+      "text": "2 : was a posture of prayer.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ps-28-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not drag me away with the wicked, with those who are workers of evil, who speak peace with their neighbors, while mischief is in their hearts."
+    },
+    {
+      "block_id": "oxford-ps-28-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Repay them according to their work, and according to the evil of their deeds; repay them according to the work of their hands; render them their due reward."
+    },
+    {
+      "block_id": "oxford-ps-28-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Because they do not regard the works of the Lord, or the work of his hands, he will break them down and build them up no more."
+    },
+    {
+      "block_id": "oxford-ps-28-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Blessed be the Lord, for he has heard the sound of my pleadings."
+    },
+    {
+      "block_id": "oxford-ps-28-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The Lord is my strength and my shield; in him my heart trusts; so I am helped, and my heart exults, and with my song I give thanks to him."
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-5",
+      "type": "commentary",
+      "text": "7 : and complement “rock” (v. 1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-ps-28-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The Lord is the strength of his people; he is the saving refuge of his anointed."
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-4",
+      "type": "commentary",
+      "text": "6–8 : , the has spoken, perhaps through an oracle, and the psalmist responds with intense joy.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 6,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-ps-28-9",
+      "type": "verse",
+      "number": 9,
+      "text": "O save your people, and bless your heritage; be their shepherd, and carry them forever."
+    },
+    {
+      "block_id": "oxford-ps-28-h1kj-6",
+      "type": "commentary",
+      "text": "8–9 : As in other psalms (e.g., 14; 20; 25), the conclusion moves from the individual to the community, and to its leader, the king.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 28
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    }
+  ]
+}

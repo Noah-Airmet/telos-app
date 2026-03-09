@@ -1,0 +1,572 @@
+{
+  "document_id": "jer-23",
+  "title": "Jeremiah 23",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-jer-23-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Woe to the shepherds who destroy and scatter the sheep of my pasture! says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Therefore thus says the Lord, the God of Israel, concerning the shepherds who shepherd my people: It is you who have scattered my flock, and have driven them away, and you have not attended to them. So I will attend to you for your evil doings, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-3",
+      "type": "commentary",
+      "text": "2 : , an ambiguous term connoting both attentive care (Ex 3.16; 4.31) and especially scrutinizing punishment (Am 3.14; Zech 10.3); see also v. 4n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-jer-23-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then I myself will gather the remnant of my flock out of all the lands where I have driven them, and I will bring them back to their fold, and they shall be fruitful and multiply."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-4",
+      "type": "commentary",
+      "text": "3 : , the promise of progeny is an assurance of the survival of the decimated community (29.6; Gen 1.28).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 3,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-jer-23-4",
+      "type": "verse",
+      "number": 4,
+      "text": "I will raise up shepherds over them who will shepherd them, and they shall not fear any longer, or be dismayed, nor shall any be missing, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-5",
+      "type": "commentary",
+      "text": "4 : , a third meaning of the term “attend” (v. 2). The basic meaning of the word is to “muster” or “count off.” In counting and arranging in order some may be discovered to be missing.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-jer-23-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The days are surely coming, says the Lord, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-6",
+      "type": "commentary",
+      "text": "5 : , cf. 33.15; Isa 4.2; 11.1; Zech 3.8; 6.12; here the metaphor implies the survival of an endangered dynasty. The possession of wisdom and the execution of justice and righteousness were the hallmarks of the just king throughout the ancient Near East.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-jer-23-6",
+      "type": "verse",
+      "number": 6,
+      "text": "In his days Judah will be saved and Israel will live in safety. And this is the name by which he will be called: “The Lord is our righteousness.”"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-7",
+      "type": "commentary",
+      "text": "6 : , Heb “yhwh tsidqenu,”a play on the name of Zedekiah (“tsidqi-yahu”), the last king of Judah (597–586 ), appointed to the throne by Nebuchadnezzar (2 Kings 24.17). The reversal of the two elements of the name suggests that he will be the antithesis of Zedekiah.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-jer-23-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Therefore, the days are surely coming, says the Lord, when it shall no longer be said, “As the Lord lives who brought the people of Israel up out of the land of Egypt,”"
+    },
+    {
+      "block_id": "oxford-jer-23-8",
+      "type": "verse",
+      "number": 8,
+      "text": "but “As the Lord lives who brought out and led the offspring of the house of Israel out of the land of the north and out of all the lands where he had driven them.” Then they shall live in their own land."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-2",
+      "type": "commentary",
+      "text": "23.1–8: Conclusion. The chronological survey of Judah's kings concludes with a general oracle against those “shepherds” and a veiled reference to Zedekiah (vv. 5–6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-8",
+      "type": "commentary",
+      "text": "7–8 : , promising restoration. Like Isa 43.16–21; 51.9–11, Jeremiah imagines a new Exodus which makes the first obsolete.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-jer-23-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Concerning the prophets: My heart is crushed within me, all my bones shake; I have become like a drunkard, like one overcome by wine, because of the Lord and because of his holy words."
+    },
+    {
+      "block_id": "oxford-jer-23-10",
+      "type": "verse",
+      "number": 10,
+      "text": "For the land is full of adulterers; because of the curse the land mourns, and the pastures of the wilderness are dried up. Their course has been evil, and their might is not right."
+    },
+    {
+      "block_id": "oxford-jer-23-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Both prophet and priest are ungodly; even in my house I have found their wickedness, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Therefore their way shall be to them like slippery paths in the darkness, into which they shall be driven and fall; for I will bring disaster upon them in the year of their punishment, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-13",
+      "type": "verse",
+      "number": 13,
+      "text": "In the prophets of Samaria I saw a disgusting thing: they prophesied by Baal and led my people Israel astray."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-11",
+      "type": "commentary",
+      "text": "13 : , the capital of the Northern Kingdom of Israel. For of the Canaanite god there, see 1 Kings 18.20–24.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-jer-23-14",
+      "type": "verse",
+      "number": 14,
+      "text": "But in the prophets of Jerusalem I have seen a more shocking thing: they commit adultery and walk in lies; they strengthen the hands of evildoers, so that no one turns from wickedness; all of them have become like Sodom to me, and its inhabitants like Gomorrah."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-12",
+      "type": "commentary",
+      "text": "14 : Jerusalem outdoes Samaria with its offenses; cf. Ezek 16 46–55; 23.2–11. , see 20.16n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-jer-23-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Therefore thus says the Lord of hosts concerning the prophets: “I am going to make them eat wormwood, and give them poisoned water to drink; for from the prophets of Jerusalem ungodliness has spread throughout the land.”"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-10",
+      "type": "commentary",
+      "text": "13–15 : To associate with is a blanket condemnation of the prophetic enterprise.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 13,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-13",
+      "type": "commentary",
+      "text": "15 : , see 9.15n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-jer-23-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Thus says the Lord of hosts: Do not listen to the words of the prophets who prophesy to you; they are deluding you. They speak visions of their own minds, not from the mouth of the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-17",
+      "type": "verse",
+      "number": 17,
+      "text": "They keep saying to those who despise the word of the Lord, “It shall be well with you”; and to all who stubbornly follow their own stubborn hearts, they say, “No calamity shall come upon you.”"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-14",
+      "type": "commentary",
+      "text": "16–17 : For an example, see Hananiah in ch 28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 16,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-jer-23-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For who has stood in the council of the Lord so as to see and to hear his word? Who has given heed to his word so as to proclaim it?"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-15",
+      "type": "commentary",
+      "text": "18 : , God presided over a royal court with many divine beings (e.g., Pss 29.1; 82.1; 89.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-jer-23-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Look, the storm of the Lord! Wrath has gone forth, a whirling tempest; it will burst upon the head of the wicked."
+    },
+    {
+      "block_id": "oxford-jer-23-20",
+      "type": "verse",
+      "number": 20,
+      "text": "The anger of the Lord will not turn back until he has executed and accomplished the intents of his mind. In the latter days you will understand it clearly."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-16",
+      "type": "commentary",
+      "text": "19–20 : See 30.23–24. imagery is frequently used to represent the coming of the as a warrior.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-jer-23-21",
+      "type": "verse",
+      "number": 21,
+      "text": "I did not send the prophets, yet they ran; I did not speak to them, yet they prophesied."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-17",
+      "type": "commentary",
+      "text": "21 : , like a runner bringing a message (2 Sam 18.19–26; cf. Isa 52.7).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-jer-23-22",
+      "type": "verse",
+      "number": 22,
+      "text": "But if they had stood in my council, then they would have proclaimed my words to my people, and they would have turned them from their evil way, and from the evil of their doings."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-18",
+      "type": "commentary",
+      "text": "22 : , prophets sometimes described themselves as eyewitnesses and even participants in the deliberations of the heavenly court (1 Kings 22.19–23; Isa 6).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-jer-23-23",
+      "type": "verse",
+      "number": 23,
+      "text": "Am I a God near by, says the Lord, and not a God far off?"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-20",
+      "type": "commentary",
+      "text": "23 : a question supposing a negative response. God is not near by, but rather is far off; see 1 Kings 8.27.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-jer-23-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Who can hide in secret places so that I cannot see them? says the Lord. Do I not fill heaven and earth? says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-25",
+      "type": "verse",
+      "number": 25,
+      "text": "I have heard what the prophets have said who prophesy lies in my name, saying, “I have dreamed, I have dreamed!”"
+    },
+    {
+      "block_id": "oxford-jer-23-26",
+      "type": "verse",
+      "number": 26,
+      "text": "How long? Will the hearts of the prophets ever turn back—those who prophesy lies, and who prophesy the deceit of their own heart?"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-21",
+      "type": "commentary",
+      "text": "26 : (v. 26), a frequent question in laments (see Pss 6.3; 74.10; 80.4; Isa 6.11; Hab 1.2). or falsehood (see also 5.31; 6.13; 14.14).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-jer-23-27",
+      "type": "verse",
+      "number": 27,
+      "text": "They plan to make my people forget my name by their dreams that they tell one another, just as their ancestors forgot my name for Baal."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-22",
+      "type": "commentary",
+      "text": "27 : or scheme; cf., 11.9; 18.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    {
+      "block_id": "oxford-jer-23-28",
+      "type": "verse",
+      "number": 28,
+      "text": "Let the prophet who has a dream tell the dream, but let the one who has my word speak my word faithfully. What has straw in common with wheat? says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-29",
+      "type": "verse",
+      "number": 29,
+      "text": "Is not my word like fire, says the Lord, and like a hammer that breaks a rock in pieces?"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-23",
+      "type": "commentary",
+      "text": "28–29 : , a contrast between common wishful thinking and powerful visionary experience producing God's fiery word. Num 12.6 and Joel 2.28, however, suggest that both dreams and visionary experiences were legitimate means of receiving oracles from God, so this is not likely a disparaging of the one for the sake of the other ( is not in the MT). The divine word surpasses any medium of its conveyance and is powerful.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-jer-23-30",
+      "type": "verse",
+      "number": 30,
+      "text": "See, therefore, I am against the prophets, says the Lord, who steal my words from one another."
+    },
+    {
+      "block_id": "oxford-jer-23-31",
+      "type": "verse",
+      "number": 31,
+      "text": "See, I am against the prophets, says the Lord, who use their own tongues and say, “Says the Lord.”"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-25",
+      "type": "commentary",
+      "text": "31 : , these prophets are not prophesying in the name of Baal (vv. 13,27), but rather in the very name of God. They are, however, simply mimicking one another and plagiarizing each other's messages (v. 30).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 31,
+      "verse_end": 31
+    },
+    {
+      "block_id": "oxford-jer-23-32",
+      "type": "verse",
+      "number": 32,
+      "text": "See, I am against those who prophesy lying dreams, says the Lord, and who tell them, and who lead my people astray by their lies and their recklessness, when I did not send them or appoint them; so they do not profit this people at all, says the Lord."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-19",
+      "type": "commentary",
+      "text": "23–32 : God is not a domesticated local deity who can be manipulated but one who fills (v. 24).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 23,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-24",
+      "type": "commentary",
+      "text": "30–32 : Note the threefold, first-person divine condemnation: , concluding with .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 30,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-jer-23-33",
+      "type": "verse",
+      "number": 33,
+      "text": "When this people, or a prophet, or a priest asks you, “What is the burden of the Lord?” you shall say to them, “You are the burden, and I will cast you off, says the Lord.”"
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-26",
+      "type": "commentary",
+      "text": "33 : , a term also used for an “oracle” (see Nah 1.1; Zech 9.1; 12.1; Mal 1.1). A sarcastic play on words: the people seek an oracle from Jeremiah but they are declared to be a burden to God; cf. 17.21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 33,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-jer-23-34",
+      "type": "verse",
+      "number": 34,
+      "text": "And as for the prophet, priest, or the people who say, “The burden of the Lord,” I will punish them and their households."
+    },
+    {
+      "block_id": "oxford-jer-23-35",
+      "type": "verse",
+      "number": 35,
+      "text": "Thus shall you say to one another, among yourselves, “What has the Lord answered?” or “What has the Lord spoken?”"
+    },
+    {
+      "block_id": "oxford-jer-23-36",
+      "type": "verse",
+      "number": 36,
+      "text": "But “the burden of the Lord” you shall mention no more, for the burden is everyone's own word, and so you pervert the words of the living God, the Lord of hosts, our God."
+    },
+    {
+      "block_id": "oxford-jer-23-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Thus you shall ask the prophet, “What has the Lord answered you?” or “What has the Lord spoken?”"
+    },
+    {
+      "block_id": "oxford-jer-23-38",
+      "type": "verse",
+      "number": 38,
+      "text": "But if you say, “the burden of the Lord,” thus says the Lord: Because you have said these words, “the burden of the Lord,” when I sent to you, saying, You shall not say, “the burden of the Lord,”"
+    },
+    {
+      "block_id": "oxford-jer-23-39",
+      "type": "verse",
+      "number": 39,
+      "text": "therefore, I will surely lift you up and cast you away from my presence, you and the city that I gave to you and your ancestors."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-27",
+      "type": "commentary",
+      "text": "39 : , a further play on the term “burden” (Heb “massaʾ”), derived from the verb “nasaʾ,” “to carry or lift.”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 39,
+      "verse_end": 39
+    },
+    {
+      "block_id": "oxford-jer-23-40",
+      "type": "verse",
+      "number": 40,
+      "text": "And I will bring upon you everlasting disgrace and perpetual shame, which shall not be forgotten."
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-1",
+      "type": "commentary",
+      "text": "21.1–24.10: Oracles from the reign of Zedekiah. The final phase of the first cycle of oracles. Zedekiah was the last of Judah's kings who reigned from the first deportation in 597 until the fall of Jerusalem in 586 . These oracles focus upon the royal house and establishment. They problematize the unconditional promise of the Davidic dynasty (2 Sam 7.1–29), a pillar of Judean life. The section has four composite parts: a prose discourse addressed to King Zedekiah and his envoys affirming Jerusalem's fall (21.1–10), a series of judgment oracles accusing Judah's final kings of crimes against the nation (21.11–23.8), oracles against prophets (23.9–40), and a prose vision report (24.1–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 1,
+      "verse_end": 40
+    },
+    {
+      "block_id": "oxford-jer-23-h1kj-9",
+      "type": "commentary",
+      "text": "23.9–40: Oracles directed to the prophets as royal agents, who function alongside the priests in the Temple (v. 11) and who preach soothing words of well-being at a time of crisis. This composite prose and poetic diatribe is the longest discourse on prophecy in the Bible.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "jer",
+        "chapter": 23
+      },
+      "verse_start": 9,
+      "verse_end": 40
+    }
+  ]
+}

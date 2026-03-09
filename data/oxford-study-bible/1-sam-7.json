@@ -1,0 +1,278 @@
+{
+  "document_id": "1-sam-7",
+  "title": "1 Samuel 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-1-sam-7-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Come down and take it up to you.” 1And the people of Kiriath‐jearim came and took up the ark of the Lord, and brought it to the house of Abinadab on the hill. They consecrated his son, Eleazar, to have charge of the ark of the Lord."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-1",
+      "type": "commentary",
+      "text": "4.1b–7.1: The ark narrative. Many scholars think that 4.1–7.1 and possibly 2 Sam 6 are based on an old document called the “Ark Narrative” that described the capture and return of the ark. The ark is the focus of this section rather than Samuel, who is not mentioned.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-2",
+      "type": "commentary",
+      "text": "6.1–7.1: The return of the ark.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-3",
+      "type": "commentary",
+      "text": "7.1 : is the father of several important priests (2 Sam 6.3–4,6–8; 1 Chr 13.7,9–11).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-1-sam-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "From the day that the ark was lodged at Kiriath‐jearim, a long time passed, some twenty years, and all the house of Israel lamented after the Lord."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-5",
+      "type": "commentary",
+      "text": "2 : , half a generation. This notice fits Samuel into the structure of the book of Judges where a period of foreign oppression precedes Israel’s repentance.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-1-sam-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Then Samuel said to all the house of Israel, “If you are returning to the Lord with all your heart, then put away the foreign gods and the Astartes from among you. Direct your heart to the Lord, and serve him only, and he will deliver you out of the hand of the Philistines.”"
+    },
+    {
+      "block_id": "oxford-1-sam-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "So Israel put away the Baals and the Astartes, and they served the Lord only."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-6",
+      "type": "commentary",
+      "text": "3–4 : is Deuteronomistic language (cf. Deut 30.10; Josh 22.5; 23.14; 24.23; Judg 10.16; 1 Sam 12.20,24; 1 Kings 8.23,48; 14.8; 2 Kings 10.31; 23.25). and , the leading male and female gods of Canaan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-1-sam-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then Samuel said, “Gather all Israel at Mizpah, and I will pray to the Lord for you.”"
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-7",
+      "type": "commentary",
+      "text": "5 : , located ca. 8 mi (13 km) north of Jerusalem, became the administrative and religious capital of Judah after Jerusalem’s destruction in 586 (2 Kings 25.23). Hence, the setting of this story in Mizpah may indicate a date of composition after 586 (similarly Judg 19–21).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-1-sam-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "So they gathered at Mizpah, and drew water and poured it out before the Lord. They fasted that day, and said, “We have sinned against the Lord.” And Samuel judged the people of Israel at Mizpah."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-8",
+      "type": "commentary",
+      "text": "6 : The elements of this ritual—prayer, libation, fasting, and confession—do not occur together elsewhere in the Bible. Since fasting suggests contrition and pouring out water suggests cleansing, a community purification ritual may be envisioned, perhaps in preparation for war.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-1-sam-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "When the Philistines heard that the people of Israel had gathered at Mizpah, the lords of the Philistines went up against Israel. And when the people of Israel heard of it they were afraid of the Philistines."
+    },
+    {
+      "block_id": "oxford-1-sam-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The people of Israel said to Samuel, “Do not cease to cry out to the Lord our God for us, and pray that he may save us from the hand of the Philistines.”"
+    },
+    {
+      "block_id": "oxford-1-sam-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "So Samuel took a sucking lamb and offered it as a whole burnt offering to the Lord; Samuel cried out to the Lord for Israel, and the Lord answered him."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-9",
+      "type": "commentary",
+      "text": "8–9 : Samuel is an intercessor for the people, like Moses (e.g., Ex 32.11–14; Num 14.13–19) and Jeremiah (e.g., 37.3; 42.4; cf. 7.16; 11.14). , one that is entirely consumed (Ex 29.18; Lev 8.21; Deut 13.16; 33.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-1-sam-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "As Samuel was offering up the burnt offering, the Philistines drew near to attack Israel; but the Lord thundered with a mighty voice that day against the Philistines and threw them into confusion; and they were routed before Israel."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-10",
+      "type": "commentary",
+      "text": "10 : Thunder is considered the of God.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-1-sam-7-11",
+      "type": "verse",
+      "number": 11,
+      "text": "And the men of Israel went out of Mizpah and pursued the Philistines, and struck them down as far as beyond Beth‐car."
+    },
+    {
+      "block_id": "oxford-1-sam-7-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then Samuel took a stone and set it up between Mizpah and Jeshanah, and named it Ebenezer; for he said, “Thus far the Lord has helped us.”"
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-11",
+      "type": "commentary",
+      "text": "12 : An etiology for the name , which means “stone of the helper/warrior (God).”",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-1-sam-7-13",
+      "type": "verse",
+      "number": 13,
+      "text": "So the Philistines were subdued and did not again enter the territory of Israel; the hand of the Lord was against the Philistines all the days of Samuel."
+    },
+    {
+      "block_id": "oxford-1-sam-7-14",
+      "type": "verse",
+      "number": 14,
+      "text": "The towns that the Philistines had taken from Israel were restored to Israel, from Ekron to Gath; and Israel recovered their territory from the hand of the Philistines. There was peace also between Israel and the Amorites."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-12",
+      "type": "commentary",
+      "text": "13–14 : The statement that the Philistines is contradicted later in 1 Samuel. It may refer only to Samuel’s lifetime. It serves the author’s effort to cast Samuel as a judge; compare the Deuteronomistic formulas in Judg 3.30; 8.28; 11.33. , in Deuteronomy and Deuteronomistic literature the pre‐Israelite inhabitants of Canaan, called Canaanites in other sources. Contrast, e.g., Gen 14.7; 15.20, where “Amorites” refers to one pre‐Israelite group.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-1-sam-7-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Samuel judged Israel all the days of his life."
+    },
+    {
+      "block_id": "oxford-1-sam-7-16",
+      "type": "verse",
+      "number": 16,
+      "text": "He went on a circuit year by year to Bethel, Gilgal, and Mizpah; and he judged Israel in all these places."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-14",
+      "type": "commentary",
+      "text": "16 : , and were all within traditional Benjaminite territory. See on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-1-sam-7-17",
+      "type": "verse",
+      "number": 17,
+      "text": "Then he would come back to Ramah, for his home was there; he administered justice there to Israel, and built there an altar to the Lord."
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-4",
+      "type": "commentary",
+      "text": "7.2–17: Samuel judges Israel. Samuel is depicted as a transitional figure between the judges and the monarchy. He embodies the roles of priest, prophet, and now judge—in most of the chapter as a military leader, as in the book of Judges, and at its conclusion as an actual judge.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-1-sam-7-h1kj-13",
+      "type": "commentary",
+      "text": "15–17 : Like Deborah (Judg 4.4–10), Samuel is both a military leader and a judicial functionary. For the second kind of judge see Judg 10.1–5; 12.8–15. His intercession brings victory over the Philistines (vv. 10–11), and he rides a circuit judging Israel (vv. 15–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "1-sam",
+        "chapter": 7
+      },
+      "verse_start": 15,
+      "verse_end": 17
+    }
+  ]
+}

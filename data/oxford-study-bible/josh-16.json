@@ -1,0 +1,152 @@
+{
+  "document_id": "josh-16",
+  "title": "Joshua 16",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-josh-16-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The allotment of the Josephites went from the Jordan by Jericho, east of the waters of Jericho, into the wilderness, going up from Jericho into the hill country to Bethel;"
+    },
+    {
+      "block_id": "oxford-josh-16-2",
+      "type": "verse",
+      "number": 2,
+      "text": "then going from Bethel to Luz, it passes along to Ataroth, the territory of the Archites;"
+    },
+    {
+      "block_id": "oxford-josh-16-3",
+      "type": "verse",
+      "number": 3,
+      "text": "then it goes down westward to the territory of the Japhletites, as far as the territory of Lower Beth‐horon, then to Gezer, and it ends at the sea."
+    },
+    {
+      "block_id": "oxford-josh-16-4",
+      "type": "verse",
+      "number": 4,
+      "text": "The Josephites—Manasseh and Ephraim—received their inheritance."
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-5",
+      "type": "commentary",
+      "text": "16.1–4: A narrative frame that gives the general outline of the southern borders of the Joseph tribes (i.e., the southern boundary of Ephraim). The people of Joseph receive one allotment (16.1), as if they constitute one tribe, yet they are recognized as two distinct tribal units (Ephraim and Manasseh; 14.4a). In addition, one of the tribes, Manasseh, is further divided: part of the tribe has already received an allotment in Transjordan, while the remainder receives its allotment in Cisjordan.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-josh-16-5",
+      "type": "verse",
+      "number": 5,
+      "text": "The territory of the Ephraimites by their families was as follows: the boundary of their inheritance on the east was Ataroth‐addar as far as Upper Beth‐horon,"
+    },
+    {
+      "block_id": "oxford-josh-16-6",
+      "type": "verse",
+      "number": 6,
+      "text": "and the boundary goes from there to the sea; on the north is Michmethath; then on the east the boundary makes a turn toward Taanath‐shiloh, and passes along beyond it on the east to Janoah,"
+    },
+    {
+      "block_id": "oxford-josh-16-7",
+      "type": "verse",
+      "number": 7,
+      "text": "then it goes down from Janoah to Ataroth and to Naarah, and touches Jericho, ending at the Jordan."
+    },
+    {
+      "block_id": "oxford-josh-16-8",
+      "type": "verse",
+      "number": 8,
+      "text": "From Tappuah the boundary goes westward to the Wadi Kanah, and ends at the sea. Such is the inheritance of the tribe of the Ephraimites by their families,"
+    },
+    {
+      "block_id": "oxford-josh-16-9",
+      "type": "verse",
+      "number": 9,
+      "text": "together with the towns that were set apart for the Ephraimites within the inheritance of the Manassites, all those towns with their villages."
+    },
+    {
+      "block_id": "oxford-josh-16-10",
+      "type": "verse",
+      "number": 10,
+      "text": "They did not, however, drive out the Canaanites who lived in Gezer: so the Canaanites have lived within Ephraim to this day but have been made to do forced labor."
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-1",
+      "type": "commentary",
+      "text": "13.1–24.33: The allotment of the land. Having completed his first task, the conquest (1.2–5), Joshua turns his attention to his second task (1.6): “Put this people in possession of the land” (cf. Deut 4.21; 15.4; 19.10). The concern over allotment or inheritance (Heb “naḥalah”) unifies this section (13.6; 14.3,13; 17.4,6,14; 19.49). The section emphasizes that the division follows the divine will, as mediated by Joshua and Eleazar the priest. It utilizes four types of sources: boundary descriptions; town lists integrated into boundary descriptions; town lists; and short narratives that relate incidents of importance within the allotments, providing didactic significance to the division of the land. The cities of refuge and Levitical cities are attached at the end of the section since it is necessary for the tribes to receive their inheritance before they can allocate parts of it to others. For this entire section, see on p. .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-2",
+      "type": "commentary",
+      "text": "14.1–19.51: Cisjordanian tribal allotment. The story of the allotments to the tribes west of the Jordan is framed by an introduction (14.1–5) and a summary (19.51). The main text is divided into two major sections: the allotments to Judah and Joseph, the two most powerful tribes (14.6–17.18), and allotments to the seven other tribes (18.1–19.51).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-3",
+      "type": "commentary",
+      "text": "14.6–17.18: Judah and Joseph allotments. Parallel structures are used to describe the allotments to these tribes: narrative frames, boundary descriptions, and town lists, with vignettes in the center.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-4",
+      "type": "commentary",
+      "text": "16.1–17.18: Joseph (Ephraim and Half‐Manasseh). As the primary power in the Northern Kingdom, Joseph is mentioned next. See on p. . The order here of Ephraim then Manasseh follows Jacob’s blessings in Gen 48.12–22, not their birth order narrated in Gen 41.51–52.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-6",
+      "type": "commentary",
+      "text": "16.5–10: Ephraim’s boundary description is delineated. The fragmentary description here contrasts with that devoted to Judah (15.1–12).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 5,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-josh-16-h1kj-7",
+      "type": "commentary",
+      "text": "10 : The Ephraimites failed to dispossess the Canaanites, though subjecting them to forced labor; cf. 15.63; Judg 1.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "josh",
+        "chapter": 16
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    }
+  ]
+}

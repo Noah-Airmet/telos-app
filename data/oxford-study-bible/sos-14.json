@@ -1,0 +1,313 @@
+{
+  "document_id": "sos-14",
+  "title": "sos 14",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-sos-14-heading-15",
+      "type": "heading",
+      "text": "15"
+    },
+    {
+      "block_id": "oxford-sos-14-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Happy are those whose hearts do not condemn them, and who have not given up their hope."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-1",
+      "type": "commentary",
+      "text": "13.25–14.2: Happiness.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-sos-14-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Riches are inappropriate for a small-minded person; and of what use is wealth to a miser?"
+    },
+    {
+      "block_id": "oxford-sos-14-4",
+      "type": "verse",
+      "number": 4,
+      "text": "What he denies himself he collects for others; and others will live in luxury on his goods."
+    },
+    {
+      "block_id": "oxford-sos-14-5",
+      "type": "verse",
+      "number": 5,
+      "text": "If one is mean to himself, to whom will he be generous? He will not enjoy his own riches."
+    },
+    {
+      "block_id": "oxford-sos-14-6",
+      "type": "verse",
+      "number": 6,
+      "text": "No one is worse than one who is grudging to himself; this is the punishment for his meanness."
+    },
+    {
+      "block_id": "oxford-sos-14-7",
+      "type": "verse",
+      "number": 7,
+      "text": "If ever he does good, it is by mistake; and in the end he reveals his meanness."
+    },
+    {
+      "block_id": "oxford-sos-14-8",
+      "type": "verse",
+      "number": 8,
+      "text": "The miser is an evil person; he turns away and disregards people."
+    },
+    {
+      "block_id": "oxford-sos-14-9",
+      "type": "verse",
+      "number": 9,
+      "text": "The eye of the greedy person is not satisfied with his share; greedy injustice withers the soul."
+    },
+    {
+      "block_id": "oxford-sos-14-10",
+      "type": "verse",
+      "number": 10,
+      "text": "A miser begrudges bread, and it is lacking at his table."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-3",
+      "type": "commentary",
+      "text": "3–10 : The has the wrong approach to . He is and thus cannot see to help others (cf. Prov 11.24–26).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 3,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-sos-14-11",
+      "type": "verse",
+      "number": 11,
+      "text": "My child, treat yourself well, according to your means, and present worthy offerings to the Lord."
+    },
+    {
+      "block_id": "oxford-sos-14-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Remember that death does not tarry, and the decree of Hades has not been shown to you."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-5",
+      "type": "commentary",
+      "text": "12 : , in Hebrew Sheol, the abode of the dead.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-sos-14-13",
+      "type": "verse",
+      "number": 13,
+      "text": "Do good to friends before you die, and reach out and give to them as much as you can."
+    },
+    {
+      "block_id": "oxford-sos-14-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Do not deprive yourself of a day's enjoyment; do not let your share of desired good pass by you."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-6",
+      "type": "commentary",
+      "text": "14 : Eccl 8.15; 9.7.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-sos-14-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Will you not leave the fruit of your labors to another, and what you acquired by toil to be divided by lot?"
+    },
+    {
+      "block_id": "oxford-sos-14-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Give, and take, and indulge yourself, because in Hades one cannot look for luxury."
+    },
+    {
+      "block_id": "oxford-sos-14-17",
+      "type": "verse",
+      "number": 17,
+      "text": "All living beings become old like a garment, for the decree from of old is, “You must die!”"
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-7",
+      "type": "commentary",
+      "text": "17 : , Isa 50.9; Ps 102.26. , Gen 2.17; 3.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    {
+      "block_id": "oxford-sos-14-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Like abundant leaves on a spreading tree that sheds some and puts forth others, so are the generations of flesh and blood: one dies and another is born."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-8",
+      "type": "commentary",
+      "text": "18 : Cf. Eccl 1.4; 6.146–49.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-sos-14-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Every work decays and ceases to exist, and the one who made it will pass away with it."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-2",
+      "type": "commentary",
+      "text": "14.3–19: Use of wealth.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 3,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-4",
+      "type": "commentary",
+      "text": "11–19 : A contrast with the miser. The proper attitude is to enjoy but also to and .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 11,
+      "verse_end": 19
+    },
+    {
+      "block_id": "oxford-sos-14-20",
+      "type": "verse",
+      "number": 20,
+      "text": "Happy is the person who meditates on wisdom and reasons intelligently,"
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-10",
+      "type": "commentary",
+      "text": "20 : , a beatitude or macarism (cf., e.g., Ps 1.1; Prov 3.13; Mt 5.3–11; Lk 6.20–23; ).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-sos-14-21",
+      "type": "verse",
+      "number": 21,
+      "text": "who reflects in his heart on her ways and ponders her secrets,"
+    },
+    {
+      "block_id": "oxford-sos-14-22",
+      "type": "verse",
+      "number": 22,
+      "text": "pursuing her like a hunter, and lying in wait on her paths;"
+    },
+    {
+      "block_id": "oxford-sos-14-23",
+      "type": "verse",
+      "number": 23,
+      "text": "who peers through her windows and listens at her doors;"
+    },
+    {
+      "block_id": "oxford-sos-14-24",
+      "type": "verse",
+      "number": 24,
+      "text": "who camps near her house and fastens his tent peg to her walls;"
+    },
+    {
+      "block_id": "oxford-sos-14-25",
+      "type": "verse",
+      "number": 25,
+      "text": "who pitches his tent near her, and so occupies an excellent lodging place;"
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-11",
+      "type": "commentary",
+      "text": "22–25 : Cf. Prov 8.32–35. The metaphors of hunter, lover (cf. Song 2.9), and neighbor emphasize single-minded pursuit.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 22,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-sos-14-26",
+      "type": "verse",
+      "number": 26,
+      "text": "who places his children under her shelter, and lodges under her boughs;"
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-12",
+      "type": "commentary",
+      "text": "26 : On Wisdom as a tree, see 1.20n.; 24.13–17; Prov 3.18.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-sos-14-27",
+      "type": "verse",
+      "number": 27,
+      "text": "who is sheltered by her from the heat, and dwells in the midst of her glory."
+    },
+    {
+      "block_id": "oxford-sos-14-h1kj-9",
+      "type": "commentary",
+      "text": "14.20–15.10. The benefits of wisdom. Whoever pursues Wisdom will receive benefits from her.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "sos",
+        "chapter": 14
+      },
+      "verse_start": 20,
+      "verse_end": 27
+    }
+  ]
+}

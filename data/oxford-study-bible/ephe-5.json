@@ -1,0 +1,379 @@
+{
+  "document_id": "ephe-5",
+  "title": "ephe 5",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ephe-5-heading-6",
+      "type": "heading",
+      "text": "6"
+    },
+    {
+      "block_id": "oxford-ephe-5-1",
+      "type": "verse",
+      "number": 1,
+      "text": "Therefore be imitators of God, as beloved children,"
+    },
+    {
+      "block_id": "oxford-ephe-5-2",
+      "type": "verse",
+      "number": 2,
+      "text": "and live in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-3",
+      "type": "commentary",
+      "text": "5.2 : , Gods of the ancient Near East are often depicted as enjoying the odor of sacrificial animals (Gen 8.21; Ex 29.18; Ezek 20.41).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-ephe-5-3",
+      "type": "verse",
+      "number": 3,
+      "text": "But fornication and impurity of any kind, or greed, must not even be mentioned among you, as is proper among saints."
+    },
+    {
+      "block_id": "oxford-ephe-5-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Entirely out of place is obscene, silly, and vulgar talk; but instead, let there be thanksgiving."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Proper speech is a recurring theme (4.15,29).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ephe-5-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Be sure of this, that no fornicator or impure person, or one who is greedy (that is, an idolater), has any inheritance in the kingdom of Christ and of God."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-4",
+      "type": "commentary",
+      "text": "3–5 : Sexual sins are the primary focus in these verses (cf. 4.19).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-ephe-5-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Let no one deceive you with empty words, for because of these things the wrath of God comes on those who are disobedient."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-6",
+      "type": "commentary",
+      "text": "6 : Cf. Col. 3.6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-ephe-5-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Therefore do not be associated with them."
+    },
+    {
+      "block_id": "oxford-ephe-5-8",
+      "type": "verse",
+      "number": 8,
+      "text": "For once you were darkness, but now in the Lord you are light. Live as children of light—"
+    },
+    {
+      "block_id": "oxford-ephe-5-9",
+      "type": "verse",
+      "number": 9,
+      "text": "for the fruit of the light is found in all that is good and right and true."
+    },
+    {
+      "block_id": "oxford-ephe-5-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Try to find out what is pleasing to the Lord."
+    },
+    {
+      "block_id": "oxford-ephe-5-11",
+      "type": "verse",
+      "number": 11,
+      "text": "Take no part in the unfruitful works of darkness, but instead expose them."
+    },
+    {
+      "block_id": "oxford-ephe-5-12",
+      "type": "verse",
+      "number": 12,
+      "text": "For it is shameful even to mention what such people do secretly;"
+    },
+    {
+      "block_id": "oxford-ephe-5-13",
+      "type": "verse",
+      "number": 13,
+      "text": "but everything exposed by the light becomes visible,"
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-7",
+      "type": "commentary",
+      "text": "11–13 : See Jn 3.19–21.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 11,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-ephe-5-14",
+      "type": "verse",
+      "number": 14,
+      "text": "for everything that becomes visible is light. Therefore it says, “Sleeper, awake! Rise from the dead, and Christ will shine on you.”"
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-8",
+      "type": "commentary",
+      "text": "14 : , a poetic fragment, perhaps from a baptismal hymn.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    {
+      "block_id": "oxford-ephe-5-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Be careful then how you live, not as unwise people but as wise,"
+    },
+    {
+      "block_id": "oxford-ephe-5-16",
+      "type": "verse",
+      "number": 16,
+      "text": "making the most of the time, because the days are evil."
+    },
+    {
+      "block_id": "oxford-ephe-5-17",
+      "type": "verse",
+      "number": 17,
+      "text": "So do not be foolish, but understand what the will of the Lord is."
+    },
+    {
+      "block_id": "oxford-ephe-5-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Do not get drunk with wine, for that is debauchery; but be filled with the Spirit,"
+    },
+    {
+      "block_id": "oxford-ephe-5-19",
+      "type": "verse",
+      "number": 19,
+      "text": "as you sing psalms and hymns and spiritual songs among yourselves, singing and making melody to the Lord in your hearts,"
+    },
+    {
+      "block_id": "oxford-ephe-5-20",
+      "type": "verse",
+      "number": 20,
+      "text": "giving thanks to God the Father at all times and for everything in the name of our Lord Jesus Christ."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-9",
+      "type": "commentary",
+      "text": "19–20 : Cf. Col 3.16–17.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 19,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-ephe-5-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Be subject to one another out of reverence for Christ."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-2",
+      "type": "commentary",
+      "text": "4.17–5.21: Appeal for a new way of life (cf. Col 3.5–17).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-10",
+      "type": "commentary",
+      "text": "21 : , some scholars see this call to mutual subjection as a principle that moderates the subordination of wives prescribed in 5.22–33.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    {
+      "block_id": "oxford-ephe-5-22",
+      "type": "verse",
+      "number": 22,
+      "text": "Wives, be subject to your husbands as you are to the Lord."
+    },
+    {
+      "block_id": "oxford-ephe-5-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For the husband is the head of the wife just as Christ is the head of the church, the body of which he is the Savior."
+    },
+    {
+      "block_id": "oxford-ephe-5-24",
+      "type": "verse",
+      "number": 24,
+      "text": "Just as the church is subject to Christ, so also wives ought to be, in everything, to their husbands."
+    },
+    {
+      "block_id": "oxford-ephe-5-25",
+      "type": "verse",
+      "number": 25,
+      "text": "Husbands, love your wives, just as Christ loved the church and gave himself up for her,"
+    },
+    {
+      "block_id": "oxford-ephe-5-26",
+      "type": "verse",
+      "number": 26,
+      "text": "in order to make her holy by cleansing her with the washing of water by the word,"
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-13",
+      "type": "commentary",
+      "text": "26 : , baptism is here compared to the Jewish custom of a bride's prenuptial bath.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    {
+      "block_id": "oxford-ephe-5-27",
+      "type": "verse",
+      "number": 27,
+      "text": "so as to present the church to himself in splendor, without a spot or wrinkle or anything of the kind—yes, so that she may be holy and without blemish."
+    },
+    {
+      "block_id": "oxford-ephe-5-28",
+      "type": "verse",
+      "number": 28,
+      "text": "In the same way, husbands should love their wives as they do their own bodies. He who loves his wife loves himself."
+    },
+    {
+      "block_id": "oxford-ephe-5-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For no one ever hates his own body, but he nourishes and tenderly cares for it, just as Christ does for the church,"
+    },
+    {
+      "block_id": "oxford-ephe-5-30",
+      "type": "verse",
+      "number": 30,
+      "text": "because we are members of his body."
+    },
+    {
+      "block_id": "oxford-ephe-5-31",
+      "type": "verse",
+      "number": 31,
+      "text": "“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”"
+    },
+    {
+      "block_id": "oxford-ephe-5-32",
+      "type": "verse",
+      "number": 32,
+      "text": "This is a great mystery, and I am applying it to Christ and the church."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-14",
+      "type": "commentary",
+      "text": "31–32 : , see 1.9n, here revealed through exegesis of Gen 2.24. (See note for a scribal addition from Gen 2.23.)",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 31,
+      "verse_end": 32
+    },
+    {
+      "block_id": "oxford-ephe-5-33",
+      "type": "verse",
+      "number": 33,
+      "text": "Each of you, however, should love his wife as himself, and a wife should respect her husband."
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-1",
+      "type": "commentary",
+      "text": "4.1–6.20: Ethical exhortation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 1,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-11",
+      "type": "commentary",
+      "text": "5.22–6.9: Appeal for transformed household relationships (cf. Col 3.18–4.1). On the form of these rules, see Col 3.18–4.1n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 33
+    },
+    {
+      "block_id": "oxford-ephe-5-h1kj-12",
+      "type": "commentary",
+      "text": "5.22–33 : , female subordination within marriage is legitimized by an extended theological analogy where the husband is aligned with Christ's authority over the church ( ; see 1.22; 4.15 and Col 1.18n.), while wives are to imitate the church as the passive and obedient recipient of Christ's blessings ( ). As the church's purity is achieved through Christ's death and continual care, husbands are to sacrifice themselves wholly for their wives’ good (5.2). This passage, by granting complete authority to the male and encouraging female passivity, has in the past been used to suggest that Christian women should remain in abusive marital relationships.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ephe",
+        "chapter": 5
+      },
+      "verse_start": 22,
+      "verse_end": 33
+    }
+  ]
+}

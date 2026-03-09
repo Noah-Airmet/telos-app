@@ -1,0 +1,91 @@
+{
+  "document_id": "ps-93",
+  "title": "Psalms 93",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-ps-93-heading-psalm-94",
+      "type": "heading",
+      "text": "Psalm 94"
+    },
+    {
+      "block_id": "oxford-ps-93-1",
+      "type": "verse",
+      "number": 1,
+      "text": "The Lord is king, he is robed in majesty; the Lord is robed, he is girded with strength. He has established the world; it shall never be moved;"
+    },
+    {
+      "block_id": "oxford-ps-93-h1kj-1",
+      "type": "commentary",
+      "text": "Ps 93: The Lord is enthroned as supreme. Like Pss 95–99, Ps 93 hymns the as sole king of the universe. Early Israel shared the ancient view that a deity became supreme by defeating chaos and creating a stable and fertile world. In hymns such as this, the defeats chaos (vv. 3–4) and the victory brings an orderly world into being (v. 1c). It is possible that these psalms celebrating God’s kingship were recited at a particular festival commemorating these events.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 93
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-93-h1kj-2",
+      "type": "commentary",
+      "text": "1 : On his return a victorious warrior would be in magnificent garments symbolizing the victory.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 93
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-ps-93-2",
+      "type": "verse",
+      "number": 2,
+      "text": "your throne is established from of old; you are from everlasting."
+    },
+    {
+      "block_id": "oxford-ps-93-3",
+      "type": "verse",
+      "number": 3,
+      "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their roaring."
+    },
+    {
+      "block_id": "oxford-ps-93-4",
+      "type": "verse",
+      "number": 4,
+      "text": "More majestic than the thunders of mighty waters, more majestic than the waves of the sea, majestic on high is the Lord!"
+    },
+    {
+      "block_id": "oxford-ps-93-h1kj-3",
+      "type": "commentary",
+      "text": "3–4 : A description of the cosmic battle in which the uses the weapons of a storm (lightning, thunder, wind, rain) to defeat Sea’s attempts to destroy the ordered world; cf. Pss 29; 76.12–14; 89.9–10; 104.1–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 93
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-ps-93-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Your decrees are very sure; holiness befits your house, O Lord, forevermore."
+    },
+    {
+      "block_id": "oxford-ps-93-h1kj-4",
+      "type": "commentary",
+      "text": "5 : The victorious king proclaims the that will govern the new universe.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "ps",
+        "chapter": 93
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    }
+  ]
+}

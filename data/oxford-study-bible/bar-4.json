@@ -1,0 +1,553 @@
+{
+  "document_id": "bar-4",
+  "title": "Baruch 4",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-bar-4-heading-5",
+      "type": "heading",
+      "text": "5"
+    },
+    {
+      "block_id": "oxford-bar-4-2",
+      "type": "verse",
+      "number": 2,
+      "text": "Turn, O Jacob, and take her; walk toward the shining of her light."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-4",
+      "type": "commentary",
+      "text": "2 : , another designation for Israel.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-bar-4-3",
+      "type": "verse",
+      "number": 3,
+      "text": "Do not give your glory to another, or your advantages to an alien people."
+    },
+    {
+      "block_id": "oxford-bar-4-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Happy are we, O Israel, for we know what is pleasing to God."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-1",
+      "type": "commentary",
+      "text": "3.9–4.4: Wisdom poem. Wisdom, personified as a woman, is elusive but known to God, who gave her to Israel as the Torah. This section has many affinities with Sir 24 and Job 28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-2",
+      "type": "commentary",
+      "text": "4.1–4 : Identification of Wisdom as the Torah, which Israel should embrace. The personification of Wisdom as a woman is prominent in Prov 8 and Sir 24 (cf. Wis 6–9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-5",
+      "type": "commentary",
+      "text": "4 : Deut 33.29.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-bar-4-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Take courage, my people, who perpetuate Israel's name!"
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-8",
+      "type": "commentary",
+      "text": "5 : , a refrain of the poem (vv. 21,27,30; cf. Isa 40.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-bar-4-6",
+      "type": "verse",
+      "number": 6,
+      "text": "It was not for destruction that you were sold to the nations, but you were handed over to your enemies because you angered God."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-9",
+      "type": "commentary",
+      "text": "6 : Isa 50.1b; 52.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-bar-4-7",
+      "type": "verse",
+      "number": 7,
+      "text": "For you provoked the one who made you by sacrificing to demons and not to God."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-10",
+      "type": "commentary",
+      "text": "7 : Deut 32.16–17; Ps 106.37.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-bar-4-8",
+      "type": "verse",
+      "number": 8,
+      "text": "You forgot the everlasting God, who brought you up, and you grieved Jerusalem, who reared you."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-7",
+      "type": "commentary",
+      "text": "4.5–8 : Introductory exhortation, stressing that God wished to punish, not destroy, Israel because of its sins.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-11",
+      "type": "commentary",
+      "text": "8 : Gen 21.33; Isa 40.28.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-bar-4-9",
+      "type": "verse",
+      "number": 9,
+      "text": "For she saw the wrath that came upon you from God, and she said: Listen, you neighbors of Zion, God has brought great sorrow upon me;"
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-13",
+      "type": "commentary",
+      "text": "9 : Lam 1.12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    {
+      "block_id": "oxford-bar-4-10",
+      "type": "verse",
+      "number": 10,
+      "text": "for I have seen the exile of my sons and daughters, which the Everlasting brought upon them."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-14",
+      "type": "commentary",
+      "text": "10 : , a term for God characteristic of this poem that is not found in other sections of the book of Baruch (vv. 14,20,22,24,35; 5.2).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-bar-4-11",
+      "type": "verse",
+      "number": 11,
+      "text": "With joy I nurtured them, but I sent them away with weeping and sorrow."
+    },
+    {
+      "block_id": "oxford-bar-4-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Let no one rejoice over me, a widow and bereaved of many; I was left desolate because of the sins of my children, because they turned away from the law of God."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-15",
+      "type": "commentary",
+      "text": "12 : Isa 49.21; 54.4; Lam 1.1.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-bar-4-13",
+      "type": "verse",
+      "number": 13,
+      "text": "They had no regard for his statutes; they did not walk in the ways of God's commandments, or tread the paths his righteousness showed them."
+    },
+    {
+      "block_id": "oxford-bar-4-14",
+      "type": "verse",
+      "number": 14,
+      "text": "Let the neighbors of Zion come; remember the capture of my sons and daughters, which the Everlasting brought upon them."
+    },
+    {
+      "block_id": "oxford-bar-4-15",
+      "type": "verse",
+      "number": 15,
+      "text": "For he brought a distant nation against them, a nation ruthless and of a strange language, which had no respect for the aged and no pity for a child."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-16",
+      "type": "commentary",
+      "text": "15 : Deut 28.49–50; Isa 33.19.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-bar-4-16",
+      "type": "verse",
+      "number": 16,
+      "text": "They led away the widow's beloved sons, and bereaved the lonely woman of her daughters."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-12",
+      "type": "commentary",
+      "text": "9b–16 : Personified Jerusalem ( ) addresses neighboring cities.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 9,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-bar-4-17",
+      "type": "verse",
+      "number": 17,
+      "text": "But I, how can I help you?"
+    },
+    {
+      "block_id": "oxford-bar-4-18",
+      "type": "verse",
+      "number": 18,
+      "text": "For he who brought these calamities upon you will deliver you from the hand of your enemies."
+    },
+    {
+      "block_id": "oxford-bar-4-19",
+      "type": "verse",
+      "number": 19,
+      "text": "Go, my children, go; for I have been left desolate."
+    },
+    {
+      "block_id": "oxford-bar-4-20",
+      "type": "verse",
+      "number": 20,
+      "text": "I have taken off the robe of peace and put on sackcloth for my supplication; I will cry to the Everlasting all my days."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-18",
+      "type": "commentary",
+      "text": "20 : Contrast Isa 52.1. , worn during a time of prosperity. , worn in times of mourning and penitence (e.g., Isa 3.24; Jer 6.26; Lam 2.10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 20,
+      "verse_end": 20
+    },
+    {
+      "block_id": "oxford-bar-4-21",
+      "type": "verse",
+      "number": 21,
+      "text": "Take courage, my children, cry to God, and he will deliver you from the power and hand of the enemy."
+    },
+    {
+      "block_id": "oxford-bar-4-22",
+      "type": "verse",
+      "number": 22,
+      "text": "For I have put my hope in the Everlasting to save you, and joy has come to me from the Holy One, because of the mercy that will soon come to you from your everlasting savior."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-19",
+      "type": "commentary",
+      "text": "22 : , a name for God prominent in Isaiah (e.g., 5.19; 12.6; 60.9) and also found in 4.37; 5.5 but not elsewhere in Baruch.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    {
+      "block_id": "oxford-bar-4-23",
+      "type": "verse",
+      "number": 23,
+      "text": "For I sent you out with sorrow and weeping, but God will give you back to me with joy and gladness forever."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-20",
+      "type": "commentary",
+      "text": "23 : Ps 126.6; Isa 35.10; 51.11; Jer 31.12–13.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    {
+      "block_id": "oxford-bar-4-24",
+      "type": "verse",
+      "number": 24,
+      "text": "For as the neighbors of Zion have now seen your capture, so they soon will see your salvation by God, which will come to you with great glory and with the splendor of the Everlasting."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-21",
+      "type": "commentary",
+      "text": "24 : Isa 60.1–3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 24,
+      "verse_end": 24
+    },
+    {
+      "block_id": "oxford-bar-4-25",
+      "type": "verse",
+      "number": 25,
+      "text": "My children, endure with patience the wrath that has come upon you from God. Your enemy has overtaken you, but you will soon see their destruction and will tread upon their necks."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-22",
+      "type": "commentary",
+      "text": "25 : Deut 33.29; Isa 51.23. has a short duration (cf. Isa 54.7–8).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 25,
+      "verse_end": 25
+    },
+    {
+      "block_id": "oxford-bar-4-26",
+      "type": "verse",
+      "number": 26,
+      "text": "My pampered children have traveled rough roads; they were taken away like a flock carried off by the enemy."
+    },
+    {
+      "block_id": "oxford-bar-4-27",
+      "type": "verse",
+      "number": 27,
+      "text": "Take courage, my children, and cry to God, for you will be remembered by the one who brought this upon you."
+    },
+    {
+      "block_id": "oxford-bar-4-28",
+      "type": "verse",
+      "number": 28,
+      "text": "For just as you were disposed to go astray from God, return with tenfold zeal to seek him."
+    },
+    {
+      "block_id": "oxford-bar-4-29",
+      "type": "verse",
+      "number": 29,
+      "text": "For the one who brought these calamities upon you will bring you everlasting joy with your salvation."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-17",
+      "type": "commentary",
+      "text": "17–29 : Personified Jerusalem speaks to the exiles.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 17,
+      "verse_end": 29
+    },
+    {
+      "block_id": "oxford-bar-4-30",
+      "type": "verse",
+      "number": 30,
+      "text": "Take courage, O Jerusalem, for the one who named you will comfort you."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-25",
+      "type": "commentary",
+      "text": "30 : , see 5.4n. Cf. Isa 51.3.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 30,
+      "verse_end": 30
+    },
+    {
+      "block_id": "oxford-bar-4-31",
+      "type": "verse",
+      "number": 31,
+      "text": "Wretched will be those who mistreated you and who rejoiced at your fall."
+    },
+    {
+      "block_id": "oxford-bar-4-32",
+      "type": "verse",
+      "number": 32,
+      "text": "Wretched will be the cities that your children served as slaves; wretched will be the city that received your offspring."
+    },
+    {
+      "block_id": "oxford-bar-4-33",
+      "type": "verse",
+      "number": 33,
+      "text": "For just as she rejoiced at your fall and was glad for your ruin, so she will be grieved at her own desolation."
+    },
+    {
+      "block_id": "oxford-bar-4-34",
+      "type": "verse",
+      "number": 34,
+      "text": "I will take away her pride in her great population, and her insolence will be turned to grief."
+    },
+    {
+      "block_id": "oxford-bar-4-35",
+      "type": "verse",
+      "number": 35,
+      "text": "For fire will come upon her from the Everlasting for many days, and for a long time she will be inhabited by demons."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-24",
+      "type": "commentary",
+      "text": "30–35 : Jerusalem is encouraged by the fall of her enemies, referring to Babylon and perhaps Edom (Ps 137.7–8; Isa 63.1–6; cf. Isa 13–14; 47; Jer 50–51). Contrast the attitude toward Babylon in 1.11–12.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 30,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-26",
+      "type": "commentary",
+      "text": "35 : , Jer 51.58; , Isa 13.21; 34.14.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 35,
+      "verse_end": 35
+    },
+    {
+      "block_id": "oxford-bar-4-36",
+      "type": "verse",
+      "number": 36,
+      "text": "Look toward the east, O Jerusalem, and see the joy that is coming to you from God."
+    },
+    {
+      "block_id": "oxford-bar-4-37",
+      "type": "verse",
+      "number": 37,
+      "text": "Look, your children are coming, whom you sent away; they are coming, gathered from east and west, at the word of the Holy One, rejoicing in the glory of God."
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-6",
+      "type": "commentary",
+      "text": "4.5–5.9: Poem of consolation.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 5,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-23",
+      "type": "commentary",
+      "text": "4.30–5.9 : The narrator consoles Jerusalem with the prospect of the exiles’ return.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 30,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-27",
+      "type": "commentary",
+      "text": "4.36–5.4 : Jerusalem is exhorted to watch the exiles return from the east.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 36,
+      "verse_end": 37
+    },
+    {
+      "block_id": "oxford-bar-4-h1kj-28",
+      "type": "commentary",
+      "text": "36–37 : See 5.5n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "bar",
+        "chapter": 4
+      },
+      "verse_start": 36,
+      "verse_end": 37
+    }
+  ]
+}

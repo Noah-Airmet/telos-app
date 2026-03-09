@@ -1,0 +1,308 @@
+{
+  "document_id": "mal-3",
+  "title": "Malachi 3",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-mal-3-1",
+      "type": "verse",
+      "number": 1,
+      "text": "See, I am sending my messenger to prepare the way before me, and the Lord whom you seek will suddenly come to his temple. The messenger of the covenant in whom you delight—indeed, he is coming, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-3",
+      "type": "commentary",
+      "text": "1 : , see Introduction. This verse echoes Ex 23.20; cf. also Isa 40.3. The messenger is apparently a forerunner of the . may be the same individual as The epilogue (4.5–6) identifies the messenger as the prophet Elijah (see 2 Kings 2.1–12). In the New Testament, the messenger is identified as John the Baptist (Mt 11.10; Mk 1.2; Lk 1.17; 7.27).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    {
+      "block_id": "oxford-mal-3-2",
+      "type": "verse",
+      "number": 2,
+      "text": "But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner's fire and like fullers’ soap;"
+    },
+    {
+      "block_id": "oxford-mal-3-3",
+      "type": "verse",
+      "number": 3,
+      "text": "he will sit as a refiner and purifier of silver, and he will purify the descendants of Levi and refine them like gold and silver, until they present offerings to the Lord in righteousness."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-4",
+      "type": "commentary",
+      "text": "2–3 : Metallurgy and the manufacture of textiles provide metaphors for purification. , whitening and cleansing agent used in the processing of textiles. see 2.4) become important again, though here as officiating priests, not teachers.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    {
+      "block_id": "oxford-mal-3-4",
+      "type": "verse",
+      "number": 4,
+      "text": "Then the offering of Judah and Jerusalem will be pleasing to the Lord as in the days of old and as in former years."
+    },
+    {
+      "block_id": "oxford-mal-3-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then I will draw near to you for judgment; I will be swift to bear witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired workers in their wages, the widow and the orphan, against those who thrust aside the alien, and do not fear me, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-1",
+      "type": "commentary",
+      "text": "2.17–3.5: Theodicy and theophany. The prospect of judgment brought by both a messenger and the .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-2",
+      "type": "commentary",
+      "text": "3.1–5 : These verses focus on an expected and what he will do.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 1,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-5",
+      "type": "commentary",
+      "text": "5 : All the infractions also appear in Deuteronomy, especially 24.14–17, which refers to the wage earner, sojourner, widow, and orphan (cf. Zech 7.9–10).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-mal-3-6",
+      "type": "verse",
+      "number": 6,
+      "text": "For I the Lord do not change; therefore you, O children of Jacob, have not perished."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-7",
+      "type": "commentary",
+      "text": "6 : symbolize the unchanging commitment of the deity to Israel, as it has existed since the time of its ancient ancestor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-mal-3-7",
+      "type": "verse",
+      "number": 7,
+      "text": "Ever since the days of your ancestors you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the Lord of hosts. But you say, “How shall we return?”"
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-8",
+      "type": "commentary",
+      "text": "7 : This verse picks up the theme of return found in Zech 1.2–6.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-mal-3-8",
+      "type": "verse",
+      "number": 8,
+      "text": "Will anyone rob God? Yet you are robbing me! But you say, “How are we robbing you?” In your tithes and offerings!"
+    },
+    {
+      "block_id": "oxford-mal-3-9",
+      "type": "verse",
+      "number": 9,
+      "text": "You are cursed with a curse, for you are robbing me—the whole nation of you!"
+    },
+    {
+      "block_id": "oxford-mal-3-10",
+      "type": "verse",
+      "number": 10,
+      "text": "Bring the full tithe into the storehouse, so that there may be food in my house, and thus put me to the test, says the Lord of hosts; see if I will not open the windows of heaven for you and pour down for you an overflowing blessing."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-9",
+      "type": "commentary",
+      "text": "8–10 : The deity responds to the people's question “How shall we return?” (v. 7) by mandating proper",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-10",
+      "type": "commentary",
+      "text": "10 : On , see Lev 27.30,32. Num 18.21–32 allocates the tithe to the Levites (cf. Deut 14.22–29). The tithe was a matter of concern during the Persian period, see Neh 10.35,37–40 (cf. 12.44; 13.5). The people's testing of the is attested elsewhere only in 3.15 and Ps 95.9, where it is an accusation. Here it is a challenge, and the promises to pass the test by providing rain, which will create agricultural bounty.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-mal-3-11",
+      "type": "verse",
+      "number": 11,
+      "text": "I will rebuke the locust for you, so that it will not destroy the produce of your soil; and your vine in the field shall not be barren, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-mal-3-12",
+      "type": "verse",
+      "number": 12,
+      "text": "Then all nations will count you happy, for you will be a land of delight, says the Lord of hosts."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-6",
+      "type": "commentary",
+      "text": "3.6–12: Tithes, curses, and blessings. A disputation that addresses the responsibility of the entire community to bring tithes.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 6,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-11",
+      "type": "commentary",
+      "text": "11–12 : , lit., “devourer,” which could refer to flies (Ps 78.45) or worms (Deut 28.39) as well as locusts (Joel 1.4). Deut 28.10–12 reflects a similar notion of rain, abundant harvest, and recognition by other peoples.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    {
+      "block_id": "oxford-mal-3-13",
+      "type": "verse",
+      "number": 13,
+      "text": "You have spoken harsh words against me, says the Lord. Yet you say, “How have we spoken against you?”"
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-13",
+      "type": "commentary",
+      "text": "13 : The 's charge could now refer to everything that the people have been quoted as saying throughout the book.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    {
+      "block_id": "oxford-mal-3-14",
+      "type": "verse",
+      "number": 14,
+      "text": "You have said, “It is vain to serve God. What do we profit by keeping his command or by going about as mourners before the Lord of hosts?"
+    },
+    {
+      "block_id": "oxford-mal-3-15",
+      "type": "verse",
+      "number": 15,
+      "text": "Now we count the arrogant happy; evildoers not only prosper, but when they put God to the test they escape.”"
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-14",
+      "type": "commentary",
+      "text": "14–15 : The people raise the issue of theodicy. Unlike those who venerate God, … , even after they (cf. 2.17; 3.10). The offers no response to this charge; dialogue ceases.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    {
+      "block_id": "oxford-mal-3-16",
+      "type": "verse",
+      "number": 16,
+      "text": "Then those who revered the Lord spoke with one another. The Lord took note and listened, and a book of remembrance was written before him of those who revered the Lord and thought on his name."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-15",
+      "type": "commentary",
+      "text": "16 : On such God-fearers, see Pss 15.4; 22.23. Some psalms associate God-fearers with priestly houses; Ps 135.20 identifies them as the house of Levi, which has been prominent in Malachi. (cf. Ps 139.16; Dan. 10.21; Rev 13.8). In Ex 19.5, all Israel is God's here only a portion of Israel, the God-fearers, receives that honor.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    {
+      "block_id": "oxford-mal-3-17",
+      "type": "verse",
+      "number": 17,
+      "text": "They shall be mine, says the Lord of hosts, my special possession on the day when I act, and I will spare them as parents spare their children who serve them."
+    },
+    {
+      "block_id": "oxford-mal-3-18",
+      "type": "verse",
+      "number": 18,
+      "text": "Then once more you shall see the difference between the righteous and the wicked, between one who serves God and one who does not serve him."
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-12",
+      "type": "commentary",
+      "text": "3.13–4.3: Those who fear the Lord's name. This diatribe differs strikingly from the preceding ones by introducing a distinct group, “those who revered the ” (v. 16).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 13,
+      "verse_end": 18
+    },
+    {
+      "block_id": "oxford-mal-3-h1kj-16",
+      "type": "commentary",
+      "text": "17–18 : God will spare those who serve him, those who are righteous; will not be spared. The language of and recurs in the book's final verse.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "mal",
+        "chapter": 3
+      },
+      "verse_start": 17,
+      "verse_end": 18
+    }
+  ]
+}

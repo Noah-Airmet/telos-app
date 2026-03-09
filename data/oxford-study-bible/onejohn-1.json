@@ -1,0 +1,151 @@
+{
+  "document_id": "onejohn-1",
+  "title": "onejohn 1",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-onejohn-1-heading-2",
+      "type": "heading",
+      "text": "2"
+    },
+    {
+      "block_id": "oxford-onejohn-1-2",
+      "type": "verse",
+      "number": 2,
+      "text": "this life was revealed, and we have seen it and testify to it, and declare to you the eternal life that was with the Father and was revealed to us—"
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-2",
+      "type": "commentary",
+      "text": "1–2 : echoes the opening of John's Gospel (Jn 1.1–18) in which Jesus is the Word made flesh, life and light. Here refers to the beginning of Christian faith. , teachers in the community, charged with handing on the tradition. insist on the human reality of the Son against false teachers (see Introduction).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-onejohn-1-3",
+      "type": "verse",
+      "number": 3,
+      "text": "we declare to you what we have seen and heard so that you also may have fellowship with us; and truly our fellowship is with the Father and with his Son Jesus Christ."
+    },
+    {
+      "block_id": "oxford-onejohn-1-4",
+      "type": "verse",
+      "number": 4,
+      "text": "We are writing these things so that our joy may be complete."
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-1",
+      "type": "commentary",
+      "text": "1.1–4: Introduction.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-3",
+      "type": "commentary",
+      "text": "3–4 : Fellowship with the Father and the Son and abiding joy are signs of genuine Christian community in the Johannine tradition (Jn 15.11; 17.13).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-onejohn-1-5",
+      "type": "verse",
+      "number": 5,
+      "text": "This is the message we have heard from him and proclaim to you, that God is light and in him there is no darkness at all."
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-5",
+      "type": "commentary",
+      "text": "5 : Light is a common symbol for the holiness and perfection of God (Ps 4.6; Isa 60.1–2). God's light guides the righteous (Ps 27.1).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    {
+      "block_id": "oxford-onejohn-1-6",
+      "type": "verse",
+      "number": 6,
+      "text": "If we say that we have fellowship with him while we are walking in darkness, we lie and do not do what is true;"
+    },
+    {
+      "block_id": "oxford-onejohn-1-7",
+      "type": "verse",
+      "number": 7,
+      "text": "but if we walk in the light as he himself is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin."
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-6",
+      "type": "commentary",
+      "text": "6–7 : No one can claim fellowship with God who does not follow God's commands (2.11; Jn 3.19). Jesus's death has brought forgiveness of sins (cf. Rev 1.5; 5.9).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    {
+      "block_id": "oxford-onejohn-1-8",
+      "type": "verse",
+      "number": 8,
+      "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+    },
+    {
+      "block_id": "oxford-onejohn-1-9",
+      "type": "verse",
+      "number": 9,
+      "text": "If we confess our sins, he who is faithful and just will forgive us our sins and cleanse us from all unrighteousness."
+    },
+    {
+      "block_id": "oxford-onejohn-1-10",
+      "type": "verse",
+      "number": 10,
+      "text": "If we say that we have not sinned, we make him a liar, and his word is not in us."
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-4",
+      "type": "commentary",
+      "text": "1.5–10: Holiness in the community.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 5,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-onejohn-1-h1kj-7",
+      "type": "commentary",
+      "text": "8–10 : False teachers, who reject the saving death of Jesus (see Introduction), may have claimed that true believers were sinless. Such teaching makes God a liar (v. 10). The wicked have false views about God and sin (Ps 53).",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "onejohn",
+        "chapter": 1
+      },
+      "verse_start": 8,
+      "verse_end": 10
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "document_id": "oneest-7",
+  "title": "oneest 7",
+  "type": "study-bible",
+  "translation": "Oxford",
+  "blocks": [
+    {
+      "block_id": "oxford-oneest-7-heading-8",
+      "type": "heading",
+      "text": "8"
+    },
+    {
+      "block_id": "oxford-oneest-7-1",
+      "type": "verse",
+      "number": 1,
+      "text": "So the king and Haman went in to drink with the queen."
+    },
+    {
+      "block_id": "oxford-oneest-7-2",
+      "type": "verse",
+      "number": 2,
+      "text": "And the second day, as they were drinking wine, the king said, “What is it, Queen Esther? What is your petition and what is your request? It shall be granted to you, even to half of my kingdom.”"
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-2",
+      "type": "commentary",
+      "text": "7.2 : , see 5.3n.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    {
+      "block_id": "oxford-oneest-7-3",
+      "type": "verse",
+      "number": 3,
+      "text": "She answered and said, “If I have found favor with the king, let my life be granted me at my petition, and my people at my request."
+    },
+    {
+      "block_id": "oxford-oneest-7-4",
+      "type": "verse",
+      "number": 4,
+      "text": "For we have been sold, I and my people, to be destroyed, plundered, and made slaves—we and our children—male and female slaves. This has come to my knowledge. Our antagonist brings shame on the king's court.”"
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-3",
+      "type": "commentary",
+      "text": "4 : , probably an allusion to Haman's bribe in 3.11 (see 4.7; but note the metaphorical use of the verb in Deut 32.30; Judg 2.14; 3.8; 4.2,9; 10.7). , the king would be shamed if his queen were dishonored.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    {
+      "block_id": "oxford-oneest-7-5",
+      "type": "verse",
+      "number": 5,
+      "text": "Then the king said, “Who is the person that would dare to do this thing?”"
+    },
+    {
+      "block_id": "oxford-oneest-7-6",
+      "type": "verse",
+      "number": 6,
+      "text": "Esther said, “Our enemy is this evil man Haman!” At this, Haman was terrified in the presence of the king and queen."
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-4",
+      "type": "commentary",
+      "text": "6 : Like Esther before the king in 15.5, now Haman is .",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    {
+      "block_id": "oxford-oneest-7-7",
+      "type": "verse",
+      "number": 7,
+      "text": "The king rose from the banquet and went into the garden, and Haman began to beg for his life from the queen, for he saw that he was in serious trouble."
+    },
+    {
+      "block_id": "oxford-oneest-7-8",
+      "type": "verse",
+      "number": 8,
+      "text": "When the king returned from the garden, Haman had thrown himself on the couch, pleading with the queen. The king said, “Will he dare even assault my wife in my own house?” Haman, when he heard, turned away his face."
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-5",
+      "type": "commentary",
+      "text": "8 : , Artaxerxes misinterprets Haman's gesture as a sexual assault on the queen, an unpardonable affront to both male and royal honor and, as such, a capital offense.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 8,
+      "verse_end": 8
+    },
+    {
+      "block_id": "oxford-oneest-7-9",
+      "type": "verse",
+      "number": 9,
+      "text": "Then Bugathan, one of the eunuchs, said to the king, “Look, Haman has even prepared a gallows for Mordecai, who gave information of concern to the king; it is standing at Haman's house, a gallows fifty cubits high.” So the king said, “Let Haman be hanged on that.”"
+    },
+    {
+      "block_id": "oxford-oneest-7-10",
+      "type": "verse",
+      "number": 10,
+      "text": "So Haman was hanged on the gallows he had prepared for Mordecai. With that the anger of the king abated."
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-1",
+      "type": "commentary",
+      "text": "6.14–7.10: Esther's second banquet and Haman's fall.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 1,
+      "verse_end": 10
+    },
+    {
+      "block_id": "oxford-oneest-7-h1kj-6",
+      "type": "commentary",
+      "text": "9–10 : , Heb “Harbona.” , see 2.23n., an ironic reversal of the death Haman intended for Mordecai.",
+      "canonical_ref": {
+        "work": "bible",
+        "book": "oneest",
+        "chapter": 7
+      },
+      "verse_start": 9,
+      "verse_end": 10
+    }
+  ]
+}
